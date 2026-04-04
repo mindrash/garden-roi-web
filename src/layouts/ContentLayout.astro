@@ -1,0 +1,73 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+  breadcrumbs?: { label: string; href: string }[];
+}
+
+const { title, description, ogImage, breadcrumbs } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} ogImage={ogImage}>
+  <div class="content-layout">
+    {breadcrumbs && breadcrumbs.length > 0 && (
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <div class="container">
+          <ol>
+            <li><a href="/">Home</a></li>
+            {breadcrumbs.map((crumb) => (
+              <li><a href={crumb.href}>{crumb.label}</a></li>
+            ))}
+            <li aria-current="page">{title}</li>
+          </ol>
+        </div>
+      </nav>
+    )}
+    <div class="content-body">
+      <div class="content-container">
+        <slot />
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .breadcrumbs {
+    background-color: var(--color-white);
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+    padding: var(--space-s) 0;
+  }
+
+  .breadcrumbs ol {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: var(--space-s);
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+  }
+
+  .breadcrumbs li:not(:last-child)::after {
+    content: '/';
+    margin-left: var(--space-s);
+    color: var(--color-text-muted);
+  }
+
+  .breadcrumbs a {
+    color: var(--color-primary);
+  }
+
+  .breadcrumbs li[aria-current='page'] {
+    color: var(--color-text-muted);
+  }
+
+  .content-body {
+    padding: var(--space-xl) 0 var(--space-xxl);
+  }
+</style>

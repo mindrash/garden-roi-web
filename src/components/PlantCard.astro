@@ -1,0 +1,148 @@
+---
+interface Props {
+  slug: string;
+  name: string;
+  scientific_name: string;
+  category: 'Vegetable' | 'Herb' | 'Fruit';
+  days_min: number;
+  days_max: number;
+  avg_yield_lb: number;
+  avg_price_lb: number;
+  watering: string;
+  sunlight: string;
+}
+
+const {
+  slug,
+  name,
+  scientific_name,
+  category,
+  days_min,
+  days_max,
+  avg_yield_lb,
+  avg_price_lb,
+  watering,
+  sunlight,
+} = Astro.props;
+
+const tagClass = `tag tag-${category.toLowerCase()}`;
+const roiEstimate = (avg_yield_lb * avg_price_lb).toFixed(2);
+---
+
+<a href={`/plants/${slug}/`} class="plant-card">
+  <div class="plant-card-header">
+    <div class="plant-info">
+      <span class={tagClass}>{category}</span>
+      <h3 class="plant-name">{name}</h3>
+      <p class="scientific-name">{scientific_name}</p>
+    </div>
+  </div>
+  <div class="plant-stats">
+    <div class="stat">
+      <span class="stat-value">{days_min}–{days_max}</span>
+      <span class="stat-label">Days to harvest</span>
+    </div>
+    <div class="stat">
+      <span class="stat-value">{avg_yield_lb} lb</span>
+      <span class="stat-label">Avg yield</span>
+    </div>
+    <div class="stat">
+      <span class="stat-value">${roiEstimate}</span>
+      <span class="stat-label">Est. value</span>
+    </div>
+  </div>
+  <div class="plant-meta">
+    <span class="meta-item">💧 {watering}</span>
+    <span class="meta-item">☀️ {sunlight}</span>
+  </div>
+</a>
+
+<style>
+  .plant-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    padding: var(--space-card);
+    box-shadow: var(--shadow-soft);
+    border: 1px solid rgba(0,0,0,0.06);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .plant-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-card);
+    text-decoration: none;
+  }
+
+  .plant-card-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+
+  .plant-info {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+  }
+
+  .plant-name {
+    font-size: var(--text-h3);
+    font-weight: 700;
+    color: var(--color-text-primary);
+    line-height: var(--leading-h3);
+    margin: 0;
+  }
+
+  .scientific-name {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    font-style: italic;
+    margin: 0;
+  }
+
+  .plant-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-s);
+    background-color: var(--color-bg);
+    border-radius: var(--radius-s);
+    padding: var(--space-m);
+  }
+
+  .stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+  }
+
+  .stat-value {
+    font-size: var(--text-body);
+    font-weight: 700;
+    color: var(--color-primary);
+    line-height: 1.2;
+  }
+
+  .stat-label {
+    font-size: 11px;
+    color: var(--color-text-muted);
+    text-align: center;
+    line-height: 1.3;
+  }
+
+  .plant-meta {
+    display: flex;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+  }
+
+  .meta-item {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+  }
+</style>

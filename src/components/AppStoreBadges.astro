@@ -1,0 +1,58 @@
+---
+---
+
+<div class="app-badges" id="download">
+  <a
+    href="https://apps.apple.com/app/garden-roi/id6738917698"
+    target="_blank"
+    rel="noopener"
+    class="badge-link"
+    aria-label="Download Garden ROI on the App Store"
+  >
+    <img
+      src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
+      alt="Download on the App Store"
+      width="156"
+      height="52"
+    />
+  </a>
+  <a
+    href="https://play.google.com/store/apps/details?id=com.fleeflame.gardenroi"
+    target="_blank"
+    rel="noopener"
+    class="badge-link"
+    aria-label="Get Garden ROI on Google Play"
+  >
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+      alt="Get it on Google Play"
+      width="175"
+      height="52"
+    />
+  </a>
+</div>
+
+<style>
+  .app-badges {
+    display: flex;
+    align-items: center;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+  }
+
+  .badge-link {
+    display: block;
+    transition: opacity 0.2s, transform 0.1s;
+  }
+
+  .badge-link:hover {
+    opacity: 0.85;
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
+
+  .badge-link img {
+    height: 52px;
+    width: auto;
+  }
+</style>

@@ -1,0 +1,32 @@
+import { defineCollection, z } from 'astro:content';
+import { glob } from 'astro/loaders';
+
+const plants = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/plants' }),
+  schema: z.object({
+    name: z.string(),
+    scientific_name: z.string(),
+    category: z.enum(['Vegetable', 'Herb', 'Fruit']),
+    days_min: z.number().int().positive(),
+    days_max: z.number().int().positive(),
+    avg_yield_lb: z.number().positive(),
+    avg_price_lb: z.number().positive(),
+    is_common: z.boolean().default(true),
+    watering: z.string(),
+    sunlight: z.string(),
+    companion_plants: z.array(z.string()).default([]),
+  }),
+});
+
+const articles = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    category: z.enum(['homestead', 'roi', 'care', 'planning']),
+    publishDate: z.coerce.date(),
+    featured: z.boolean().default(false),
+  }),
+});
+
+export const collections = { plants, articles };

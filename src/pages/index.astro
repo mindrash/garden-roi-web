@@ -1,0 +1,381 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AppStoreBadges from '../components/AppStoreBadges.astro';
+import PlantCard from '../components/PlantCard.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const allPlants = await getCollection('plants');
+const allArticles = await getCollection('articles');
+
+// Show common plants on homepage
+const featuredPlants = allPlants
+  .filter((p) => p.data.is_common)
+  .slice(0, 3);
+
+// Show featured articles
+const featuredArticles = allArticles
+  .filter((a) => a.data.featured)
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
+  .slice(0, 3);
+---
+
+<BaseLayout
+  title="Grow More, Spend Less"
+  description="Plant care tips, homestead guides, and ROI advice to help your garden pay for itself. Companion to the Garden ROI app."
+>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-bg"></div>
+    <div class="container hero-content">
+      <div class="hero-text">
+        <h1>Grow More.<br />Spend Less.</h1>
+        <p class="hero-subtitle">
+          Plant care guides, homestead advice, and ROI tips to help your garden pay for itself — season after season.
+        </p>
+        <div class="hero-actions">
+          <a href="/plants/" class="btn btn-primary">Browse Plants</a>
+          <a href="/tips/" class="btn btn-outline-light">Read Guides</a>
+        </div>
+      </div>
+      <div class="hero-app">
+        <div class="app-card">
+          <img src="/logo.png" alt="Garden ROI App" width="80" height="80" class="app-icon" />
+          <h3>Track Your Garden's ROI</h3>
+          <p>Log harvests, track expenses, and see exactly when your garden breaks even — right in the app.</p>
+          <AppStoreBadges />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features strip -->
+  <section class="features">
+    <div class="container features-grid">
+      <div class="feature">
+        <span class="feature-icon">🌱</span>
+        <h3>Plant Encyclopedia</h3>
+        <p>Care guides for every common vegetable, herb, and fruit with ROI breakdowns.</p>
+      </div>
+      <div class="feature">
+        <span class="feature-icon">💰</span>
+        <h3>ROI & Budgeting</h3>
+        <p>Know exactly which crops pay off and how to maximize your garden's return.</p>
+      </div>
+      <div class="feature">
+        <span class="feature-icon">🏡</span>
+        <h3>Homestead Tips</h3>
+        <p>From seed saving to preservation — the practical skills that build food independence.</p>
+      </div>
+      <div class="feature">
+        <span class="feature-icon">📱</span>
+        <h3>Mobile App</h3>
+        <p>Track harvests and expenses on iOS and Android. See your break-even date update in real time.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Plants -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Plant Encyclopedia</h2>
+        <a href="/plants/" class="section-link">View all plants →</a>
+      </div>
+      <div class="card-grid">
+        {featuredPlants.map((plant) => (
+          <PlantCard
+            slug={plant.id}
+            name={plant.data.name}
+            scientific_name={plant.data.scientific_name}
+            category={plant.data.category}
+            days_min={plant.data.days_min}
+            days_max={plant.data.days_max}
+            avg_yield_lb={plant.data.avg_yield_lb}
+            avg_price_lb={plant.data.avg_price_lb}
+            watering={plant.data.watering}
+            sunlight={plant.data.sunlight}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Articles -->
+  <section class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Tips & Guides</h2>
+        <a href="/tips/" class="section-link">View all guides →</a>
+      </div>
+      <div class="card-grid">
+        {featuredArticles.map((article) => (
+          <ArticleCard
+            slug={article.id}
+            title={article.data.title}
+            description={article.data.description}
+            category={article.data.category}
+            publishDate={article.data.publishDate}
+            featured={article.data.featured}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- App CTA -->
+  <section class="app-cta" id="download">
+    <div class="container app-cta-inner">
+      <div class="app-cta-text">
+        <h2>Track Your Garden's ROI</h2>
+        <p>Log every harvest, every expense. Know your break-even date. See which plants are your biggest earners. Available free on iOS and Android.</p>
+        <AppStoreBadges />
+      </div>
+      <div class="app-cta-visual">
+        <img src="/logo.png" alt="Garden ROI" width="200" height="200" />
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    position: relative;
+    overflow: hidden;
+    min-height: 520px;
+    display: flex;
+    align-items: center;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      160deg,
+      var(--color-gradient-sky) 0%,
+      var(--color-gradient-grass) 55%,
+      var(--color-gradient-dirt) 100%
+    );
+    opacity: 0.9;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-xxl);
+    align-items: center;
+    padding-top: var(--space-xxl);
+    padding-bottom: var(--space-xxl);
+  }
+
+  .hero-text h1 {
+    font-family: var(--font-display);
+    font-size: clamp(40px, 6vw, 64px);
+    line-height: 1.1;
+    color: var(--color-white);
+    text-shadow: 0 2px 12px rgba(0,0,0,0.25);
+    margin-bottom: var(--space-m);
+  }
+
+  .hero-subtitle {
+    font-size: clamp(var(--text-body), 2vw, 20px);
+    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.92);
+    margin-bottom: var(--space-xl);
+    text-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    max-width: 480px;
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+  }
+
+  .btn-outline-light {
+    background-color: transparent;
+    color: var(--color-white);
+    border: 2px solid rgba(255,255,255,0.7);
+    padding: var(--space-s) var(--space-l);
+    border-radius: var(--radius-full);
+    font-family: var(--font-body);
+    font-size: var(--text-body);
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    transition: background-color 0.2s, transform 0.1s;
+  }
+
+  .btn-outline-light:hover {
+    background-color: rgba(255,255,255,0.15);
+    color: var(--color-white);
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+
+  .app-card {
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(10px);
+    border-radius: var(--radius-l);
+    padding: var(--space-xl);
+    box-shadow: var(--shadow-card);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+    align-items: flex-start;
+  }
+
+  .app-icon {
+    border-radius: var(--radius-m);
+  }
+
+  .app-card h3 {
+    font-size: var(--text-h3);
+    color: var(--color-primary);
+    margin: 0;
+  }
+
+  .app-card p {
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    line-height: var(--leading-body);
+    margin: 0;
+  }
+
+  .features {
+    background-color: var(--color-primary);
+    padding: var(--space-xl) 0;
+  }
+
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-l);
+  }
+
+  .feature {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+  }
+
+  .feature-icon {
+    font-size: 28px;
+  }
+
+  .feature h3 {
+    font-size: var(--text-body);
+    font-weight: 700;
+    color: var(--color-white);
+    margin: 0;
+  }
+
+  .feature p {
+    font-size: var(--text-small);
+    color: rgba(255,255,255,0.75);
+    line-height: var(--leading-body);
+    margin: 0;
+  }
+
+  .section {
+    padding: var(--space-xxl) 0;
+  }
+
+  .section-alt {
+    background-color: var(--color-white);
+  }
+
+  .section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: var(--space-xl);
+  }
+
+  .section-link {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-primary);
+  }
+
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-l);
+  }
+
+  .app-cta {
+    background: linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 100%);
+    padding: var(--space-xxl) 0;
+  }
+
+  .app-cta-inner {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: var(--space-xxl);
+    align-items: center;
+  }
+
+  .app-cta-text {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+  }
+
+  .app-cta-text h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-screen-title);
+    color: var(--color-white);
+    margin: 0;
+  }
+
+  .app-cta-text p {
+    font-size: var(--text-body);
+    color: rgba(255,255,255,0.85);
+    line-height: var(--leading-body);
+    margin: 0;
+    max-width: 520px;
+  }
+
+  .app-cta-visual img {
+    border-radius: var(--radius-l);
+    opacity: 0.9;
+  }
+
+  @media (max-width: 900px) {
+    .hero-content {
+      grid-template-columns: 1fr;
+    }
+
+    .hero-app {
+      display: none;
+    }
+
+    .features-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .card-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .app-cta-inner {
+      grid-template-columns: 1fr;
+    }
+
+    .app-cta-visual {
+      display: none;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .features-grid,
+    .card-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,0 +1,177 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="/" class="footer-logo">
+          <img src="/logo.png" alt="Garden ROI" width="36" height="36" />
+          <span>Garden ROI</span>
+        </a>
+        <p>Track your garden's value, plan smarter, and watch your food budget shrink — season after season.</p>
+      </div>
+
+      <div class="footer-links">
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="/plants/">Plant Encyclopedia</a></li>
+          <li><a href="/tips/">Tips & Guides</a></li>
+          <li><a href="/#download">Download App</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-links">
+        <h4>Categories</h4>
+        <ul>
+          <li><a href="/tips/?category=care">Plant Care</a></li>
+          <li><a href="/tips/?category=roi">ROI & Budgeting</a></li>
+          <li><a href="/tips/?category=homestead">Homestead</a></li>
+          <li><a href="/tips/?category=planning">Planning</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-links">
+        <h4>App</h4>
+        <ul>
+          <li><a href="https://apps.apple.com/app/garden-roi/id6738917698" target="_blank" rel="noopener">iOS App Store</a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=com.fleeflame.gardenroi" target="_blank" rel="noopener">Google Play</a></li>
+          <li><a href="https://fleeflame.com/apps/garden-roi/privacy.html" target="_blank" rel="noopener">Privacy Policy</a></li>
+          <li><a href="https://fleeflame.com/apps/garden-roi/terms.html" target="_blank" rel="noopener">Terms of Service</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {year} Garden ROI. All rights reserved.</p>
+      <div class="footer-api-note">
+        <a href="/api/plants.json" class="api-link">Plants API</a>
+        <a href="/api/tips.json" class="api-link">Tips API</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    background-color: var(--color-secondary);
+    color: rgba(255, 255, 255, 0.85);
+    padding: var(--space-xxl) 0 var(--space-l);
+    margin-top: var(--space-xxl);
+  }
+
+  .footer-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: var(--space-xl);
+    padding-bottom: var(--space-xl);
+    border-bottom: 1px solid rgba(255,255,255,0.12);
+  }
+
+  .footer-brand {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+  }
+
+  .footer-logo {
+    display: flex;
+    align-items: center;
+    gap: var(--space-s);
+    text-decoration: none;
+    color: var(--color-white);
+  }
+
+  .footer-logo span {
+    font-family: var(--font-display);
+    font-size: 20px;
+    color: var(--color-white);
+  }
+
+  .footer-brand p {
+    font-size: var(--text-small);
+    line-height: var(--leading-body);
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0;
+  }
+
+  .footer-links h4 {
+    font-family: var(--font-body);
+    font-size: var(--text-small);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: rgba(255, 255, 255, 0.5);
+    margin-bottom: var(--space-m);
+  }
+
+  .footer-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+  }
+
+  .footer-links a {
+    font-size: var(--text-small);
+    color: rgba(255, 255, 255, 0.75);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .footer-links a:hover {
+    color: var(--color-white);
+    text-decoration: none;
+  }
+
+  .footer-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: var(--space-l);
+    flex-wrap: wrap;
+    gap: var(--space-m);
+  }
+
+  .footer-bottom p {
+    font-size: var(--text-small);
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0;
+  }
+
+  .footer-api-note {
+    display: flex;
+    gap: var(--space-m);
+  }
+
+  .api-link {
+    font-size: var(--text-small);
+    color: rgba(255, 255, 255, 0.35);
+    text-decoration: none;
+    font-family: monospace;
+  }
+
+  .api-link:hover {
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  @media (max-width: 768px) {
+    .footer-grid {
+      grid-template-columns: 1fr 1fr;
+      gap: var(--space-l);
+    }
+
+    .footer-brand {
+      grid-column: 1 / -1;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .footer-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

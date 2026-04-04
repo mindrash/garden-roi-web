@@ -1,0 +1,124 @@
+---
+interface Props {
+  slug: string;
+  title: string;
+  description: string;
+  category: 'homestead' | 'roi' | 'care' | 'planning';
+  publishDate: Date;
+  featured?: boolean;
+}
+
+const {
+  slug,
+  title,
+  description,
+  category,
+  publishDate,
+  featured = false,
+} = Astro.props;
+
+const tagClass = `tag tag-${category}`;
+const formattedDate = publishDate.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const categoryLabels: Record<string, string> = {
+  homestead: 'Homestead',
+  roi: 'ROI & Budgeting',
+  care: 'Plant Care',
+  planning: 'Planning',
+};
+---
+
+<a href={`/tips/${slug}/`} class:list={['article-card', { featured }]}>
+  {featured && <span class="featured-badge">Featured</span>}
+  <div class="article-meta">
+    <span class={tagClass}>{categoryLabels[category]}</span>
+    <time datetime={publishDate.toISOString()}>{formattedDate}</time>
+  </div>
+  <h3 class="article-title">{title}</h3>
+  <p class="article-description">{description}</p>
+  <span class="read-more">Read guide →</span>
+</a>
+
+<style>
+  .article-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    padding: var(--space-card);
+    box-shadow: var(--shadow-soft);
+    border: 1px solid rgba(0,0,0,0.06);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+  }
+
+  .article-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-card);
+    text-decoration: none;
+  }
+
+  .article-card.featured {
+    border-color: var(--color-primary-light);
+    border-width: 2px;
+  }
+
+  .featured-badge {
+    position: absolute;
+    top: var(--space-m);
+    right: var(--space-m);
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: var(--radius-full);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .article-meta {
+    display: flex;
+    align-items: center;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+  }
+
+  .article-meta time {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+  }
+
+  .article-title {
+    font-size: var(--text-h3);
+    font-weight: 700;
+    color: var(--color-text-primary);
+    line-height: var(--leading-h3);
+    margin: 0;
+  }
+
+  .article-description {
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    line-height: var(--leading-body);
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .read-more {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-top: var(--space-xs);
+  }
+</style>

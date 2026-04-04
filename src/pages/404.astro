@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Page Not Found" description="The page you're looking for doesn't exist.">
+  <div class="not-found">
+    <div class="container not-found-inner">
+      <div class="not-found-emoji">🌱</div>
+      <h1>Nothing Planted Here</h1>
+      <p>This page doesn't exist — but your garden still can. Head back and find what you're looking for.</p>
+      <div class="not-found-actions">
+        <a href="/" class="btn btn-primary">Go Home</a>
+        <a href="/plants/" class="btn btn-outline">Browse Plants</a>
+        <a href="/tips/" class="btn btn-outline">Read Guides</a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .not-found {
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .not-found-inner {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-l);
+    padding: var(--space-xxl) 0;
+  }
+
+  .not-found-emoji {
+    font-size: 80px;
+    line-height: 1;
+  }
+
+  .not-found-inner h1 {
+    font-family: var(--font-display);
+    font-size: var(--text-screen-title);
+    color: var(--color-primary);
+    margin: 0;
+  }
+
+  .not-found-inner p {
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    max-width: 400px;
+    margin: 0;
+  }
+
+  .not-found-actions {
+    display: flex;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+</style>
