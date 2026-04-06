@@ -1212,6 +1212,91 @@ _These stories came out of an external product review. Each is independent - any
 
 ---
 
+## UI Features
+
+### F009 — Homepage newsletter signup card
+**Status:** `[x]`
+**Agent fit:** Any agent with file edit access.
+**Files:** `src/pages/index.astro` (or extract to `src/components/NewsletterSignup.astro`)
+
+**What:** Replace the "Track Your Garden's Return On Investment" app-store glass card on the homepage with a newsletter signup card. Keep the same glass card visual and section position.
+
+**Google Form details:**
+- Submit endpoint: `https://docs.google.com/forms/d/e/1FAIpQLScewT4ZxcVIMnCaNscXeu6hWGWHRj_a6xwidloIDoYU9Sw8Bw/formResponse`
+- Email field name: `entry.1425617156`
+- Method: POST via `fetch` with `mode: 'no-cors'` (opaque response - treat every non-throw as success)
+
+**Card - default state:**
+- Heading: "Get planting tips and ROI data in your inbox"
+- Subtext: "Seasonal crop picks, yield comparisons, and homestead guides. No spam."
+- Email input + "Subscribe" button on same row
+- Button uses `var(--color-primary)` background
+
+**Card - success state (swap in-place, no reload):**
+- Heading: "You're in."
+- Body: "Expect planting tips and ROI breakdowns at the start of each season."
+- No form, no re-entry
+
+**Behavior:**
+- Client-side email format validation before submit (native `type="email"` + check for `@` and `.`) - show inline error if invalid, do not submit
+- Disable input + button, show "Subscribing..." during fetch
+- On fetch resolve (any result, since no-cors is opaque): show success state
+- On fetch throw (network error): show inline error "Something went wrong. Try again."
+- Persist success to `localStorage` key `newsletter-subscribed`. On page load, if key exists, render success state immediately (skip the form)
+
+**Styling:**
+- All colors, spacing, radius via CSS custom properties - no hardcoded values
+- Input border: `1px solid var(--color-border)` (add token to theme.css if missing)
+- Error text: `var(--color-error)` (add token to theme.css if missing, use a red tone matching the brand palette)
+- Match glass card style of the calculator and encyclopedia sections
+
+**Acceptance:**
+- Valid email submits to Google Form (verify in Google Forms responses tab)
+- Success state appears immediately after submit
+- Invalid email shows error, does not submit
+- Refreshing after subscribe shows success state (localStorage check)
+- `npx astro build` passes with 0 errors
+
+---
+
+### F008 — Crops page: table view toggle
+**Status:** `[x]`
+**Agent fit:** Any agent with file edit access.
+**Files:** `src/pages/crops/index.astro`
+
+**Why:** At 100 entries the card grid requires endless scrolling to compare crops. A user trying to answer "which herbs mature in under 45 days?" or "what has the best $/lb yield?" has no way to scan that quickly in card view. A table view puts all the comparison data in one visible pass.
+
+**What to build:** A view toggle (grid icon / list icon) that switches between the existing card grid and a new table/row layout. Both views share the same search + filter + sort state.
+
+**Table columns (in order):**
+1. **Crop** - linked name + category badge
+2. **Days** - `days_min–days_max` (e.g. "60–80")
+3. **Yield** - `avg_yield_lb` lb/plant
+4. **Price** - `$avg_price_lb/lb`
+5. **Seed Cost** - `$seed_cost`
+6. **Est. ROI** - calculated: `(avg_yield_lb × avg_price_lb) - seed_cost`, formatted as `$X.XX` - this is the point of the site and should be the default sort column in table view
+
+**Sorting:** In table view, clicking a column header sorts by that column (toggle asc/desc). The existing sort dropdown still works in card view.
+
+**Defaults:** Table view defaults to sort by Est. ROI descending (highest value crops first). Card view keeps its existing default (featured first, then alphabetical).
+
+**Persistence:** Store the chosen view mode in `localStorage` as `crops-view` (`'grid'` or `'table'`) so it survives page navigation.
+
+**Mobile:** Table view is desktop/tablet only (hide the toggle and stay in card view below 640px). A condensed table on a 375px screen is unreadable.
+
+**Styling:** Table uses CSS custom properties only - no hardcoded values. Header row uses `var(--color-primary)` background with white text. Alternating row tint using `var(--color-background)` / a 4% darkened variant. Sortable column headers get a `▲`/`▼` indicator.
+
+**Acceptance:**
+- Toggle button visible on desktop, hidden on mobile
+- Table renders all 100 crops with correct data from content collection
+- Est. ROI column calculates correctly and is default sort in table view
+- Clicking column headers sorts correctly, asc/desc toggle works
+- Search + category filter work identically in both views
+- View preference persists across page reloads
+- `npx astro build` passes with 0 errors
+
+---
+
 ## Done
 
 - **T001-T011:** All infrastructure tasks complete (schema, routing, SEO, pages)

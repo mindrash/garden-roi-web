@@ -1,0 +1,204 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import resourcesData from '../content/resources/data.json';
+
+const { books, youtube, websites, podcasts, social } = resourcesData;
+---
+
+<BaseLayout
+  title="Curated Resources"
+  description="High-quality, data-driven resources for serious home growers. Books, YouTube channels, websites, and podcasts focused on garden economics and productivity."
+>
+  <div class="page-header">
+    <div class="container">
+      <h1>Resources</h1>
+      <p>A curated list of data-driven books, channels, and tools for serious home growers. Every entry earns its place by showing real numbers, real yields, or real systems.</p>
+    </div>
+  </div>
+
+  <div class="resources-body">
+
+      <section class="res-section">
+        <h2>Books</h2>
+        <div class="res-list">
+          {books.map((book) => (
+            <div class="res-entry">
+              <div class="res-meta">
+                <span class="res-title">{book.title}</span>
+                <span class="res-sub">{book.author} &middot; {book.year}</span>
+              </div>
+              <p class="res-why">{book.why}</p>
+              {(book.amazon_url || book.bn_url) && (
+                <div class="res-links">
+                  {book.amazon_url && <a href={book.amazon_url} target="_blank" rel="noopener noreferrer">Amazon</a>}
+                  {book.bn_url && <a href={book.bn_url} target="_blank" rel="noopener noreferrer">Barnes &amp; Noble</a>}
+                </div>
+              )}
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section class="res-section">
+        <h2>YouTube Channels</h2>
+        <div class="res-list">
+          {youtube.map((channel) => (
+            <a class="res-entry res-entry--link" href={channel.url} target="_blank" rel="noopener noreferrer">
+              <div class="res-meta">
+                <span class="res-title">{channel.name}</span>
+                {channel.subscribers && <span class="res-sub">{channel.subscribers} subscribers</span>}
+              </div>
+              <p class="res-why">{channel.why}</p>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="res-section">
+        <h2>Websites &amp; Data Portals</h2>
+        <div class="res-list">
+          {websites.map((site) => (
+            <a class="res-entry res-entry--link" href={site.url} target="_blank" rel="noopener noreferrer">
+              <div class="res-meta">
+                <span class="res-title">{site.name}</span>
+              </div>
+              <p class="res-why">{site.why}</p>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="res-section">
+        <h2>Podcasts</h2>
+        <div class="res-list">
+          {podcasts.map((podcast) => (
+            <a class="res-entry res-entry--link" href={podcast.url} target="_blank" rel="noopener noreferrer">
+              <div class="res-meta">
+                <span class="res-title">{podcast.name}</span>
+                <span class="res-sub">Hosted by {podcast.host}</span>
+              </div>
+              <p class="res-why">{podcast.why}</p>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      {social && social.length > 0 && (
+        <section class="res-section">
+          <h2>Instagram</h2>
+          <div class="res-list">
+            {social.map((account) => (
+              <div class="res-entry">
+                <div class="res-meta">
+                  <span class="res-title">{account.handle}</span>
+                  <span class="res-sub">{account.platform} &middot; {account.followers} followers</span>
+                </div>
+                <p class="res-why">{account.why}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+  </div>
+</BaseLayout>
+
+<style>
+  .resources-body {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    background-color: rgba(248, 249, 245, 0.88);
+    padding: var(--space-xl) var(--space-l) var(--space-xxl);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xxl);
+  }
+
+  .res-section {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-l);
+  }
+
+.res-section h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-h1);
+    color: var(--color-primary);
+    margin-bottom: var(--space-l);
+  }
+
+  .res-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+  }
+
+  .res-entry {
+    background: var(--color-card-bg);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-m);
+    padding: var(--space-m) var(--space-l);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+  }
+
+  .res-entry--link {
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+
+  .res-entry--link:hover {
+    border-color: var(--color-primary);
+    box-shadow: var(--shadow-soft);
+  }
+
+  .res-meta {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+  }
+
+  .res-title {
+    font-weight: 700;
+    font-size: var(--text-base);
+    color: var(--color-primary);
+    line-height: 1.3;
+  }
+
+  .res-entry--link:hover .res-title {
+    text-decoration: underline;
+  }
+
+  .res-sub {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    font-weight: 500;
+  }
+
+  .res-why {
+    font-size: var(--text-small);
+    line-height: var(--leading-small);
+    color: var(--color-text-secondary);
+    margin: 0;
+  }
+
+  .res-links {
+    display: flex;
+    gap: var(--space-m);
+    margin-top: var(--space-xs);
+  }
+
+  .res-links a {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+
+  .res-links a:hover {
+    text-decoration: underline;
+  }
+</style>

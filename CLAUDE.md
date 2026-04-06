@@ -42,6 +42,7 @@ Mobile app at `~/projects/garden-roi`:
 - **No hardcoded CSS values.** All colors, spacing, fonts use CSS custom properties from `src/styles/theme.css`.
 - **Prices must be cited.** USDA ERS, USDA AMS, or land-grant extension. No invented numbers.
 - **No motivational closings.** No "journey", "rewarding experience", or "hope you enjoy" language.
+- **Every content section needs a background color.** The site body has a background image. Any wrapper that contains text must have `background-color: rgba(248, 249, 245, 0.97)` or higher opacity. Alternating section tints use `rgba(0, 0, 0, 0.04)` layered on top. Never render text directly over the background image. Check this on every page you create or modify.
 - Load the content skill before writing any plant entries or articles:
   `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 

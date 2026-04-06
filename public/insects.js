@@ -129,8 +129,18 @@
   // Pause when tab is hidden, resume when visible
   document.addEventListener('visibilitychange', function () {
     if (document.hidden) {
+      const now = performance.now();
+      insects.forEach(function (ins) { ins.pausedAt = now; });
       cancelAnimationFrame(rafId);
     } else {
+      const now = performance.now();
+      insects = insects.filter(function (ins) {
+        // Discard insects that queued up while hidden (never started)
+        if (ins.startTime === null) { ins.el.remove(); return false; }
+        // Shift startTime forward so in-flight insects don't jump
+        ins.startTime += now - ins.pausedAt;
+        return true;
+      });
       rafId = requestAnimationFrame(tick);
     }
   });

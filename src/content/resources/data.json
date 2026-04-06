@@ -1,0 +1,179 @@
+{
+  "books": [
+    {
+      "title": "The New Organic Grower, 3rd Edition",
+      "author": "Eliot Coleman",
+      "year": 2018,
+      "why": "The foundational text for intensive, small-scale production. It focuses on tool efficiency, biological systems, and maximizing output from minimal acreage without heavy machinery."
+    },
+    {
+      "title": "The Market Gardener",
+      "author": "Jean-Martin Fortier",
+      "year": 2014,
+      "why": "A rigorous manual on making a living from a single acre. It provides specific data on crop profitability, bed layout efficiency, and the 'lean' management of a high-production garden."
+    },
+    {
+      "title": "The Lean Farm",
+      "author": "Ben Hartman",
+      "year": 2015,
+      "why": "Applies Japanese 'lean' manufacturing principles to agriculture. It is essential for any grower looking to eliminate waste, optimize labor, and increase the financial return on their time."
+    },
+    {
+      "title": "The Urban Farmer",
+      "author": "Curtis Stone",
+      "year": 2015,
+      "why": "A data-heavy guide to growing high-value crops in small city plots. It prioritizes crops based on 'value per square foot' and 'days to maturity,' which are the core metrics of garden ROI."
+    },
+    {
+      "title": "Mini Farming: Self-Sufficiency on 1/4 Acre",
+      "author": "Brett L. Markham",
+      "year": 2010,
+      "why": "Includes detailed cost/benefit analyses and yield projections for various crops. It treats the backyard garden as a production unit with measurable inputs and outputs."
+    },
+    {
+      "title": "The Year-Round Vegetable Gardener",
+      "author": "Niki Jabbour",
+      "year": 2011,
+      "why": "Focuses on 'succession planting' and season extension to ensure the garden produces value 365 days a year. It provides practical timing charts to maximize the utility of every bed."
+    },
+    {
+      "title": "How to Grow More Vegetables, 9th Edition",
+      "author": "John Jeavons",
+      "year": 2017,
+      "why": "The definitive guide to biointensive gardening. It provides exhaustive data tables on calorie-per-square-foot yields and the economics of sustainable soil building."
+    },
+    {
+      "title": "The Small-Scale Poultry Flock, Revised Edition",
+      "author": "Harvey Ussery",
+      "year": 2022,
+      "why": "An economic analysis of the 'integrated' homestead. It covers the ROI of poultry not just in eggs/meat, but in their labor for tilling, pest control, and fertilizer production."
+    }
+  ],
+  "youtube": [
+    {
+      "name": "Epic Gardening",
+      "url": "https://www.youtube.com/@EpicGardening",
+      "subscribers": "2.9M",
+      "why": "While high-production, the channel regularly features 'Value of my Garden' segments and variety trials that track total harvest weight and estimated grocery savings."
+    },
+    {
+      "name": "Self Sufficient Me",
+      "url": "https://www.youtube.com/@SelfSufficientMe",
+      "subscribers": "2.1M",
+      "why": "Mark Valencia provides excellent data on raised bed yields and 'worth it' rankings for crops based on labor, space, and retail price."
+    },
+    {
+      "name": "Huw Richards",
+      "url": "https://www.youtube.com/@HuwRichards",
+      "subscribers": "830K",
+      "why": "Focuses on 'Abundance' and intensive systems. His 'Self-Sufficiency' series tracks the calories and volume produced from specific bed sizes over a full season."
+    },
+    {
+      "name": "No-Till Growers",
+      "url": "https://www.youtube.com/@NoTillGrowers",
+      "subscribers": "210K",
+      "why": "A technical channel for serious growers. It focuses on soil economics, labor-saving systems, and the efficiency of various mulching and planting techniques."
+    },
+    {
+      "name": "The Urban Farmer (Curtis Stone)",
+      "url": "https://www.youtube.com/@UrbanFarmerCurtisStone",
+      "subscribers": "640K",
+      "why": "The channel is almost entirely dedicated to the economics of gardening, focusing on high-value quick-turn crops like microgreens and salad mixes."
+    },
+    {
+      "name": "Growfully with Jenna",
+      "url": "https://www.youtube.com/@GrowfullyWithJenna",
+      "subscribers": "155K",
+      "why": "Excellent for backyard growers; she provides detailed breakdowns of seed-starting costs vs. buying starts and the total 'grocery value' of her annual harvests."
+    },
+    {
+      "name": "The Beginner's Garden",
+      "url": "https://www.youtube.com/@JourneyWithJill",
+      "subscribers": "260K",
+      "why": "Jill McSheehy tracks yields across multiple years and varieties, providing honest data on which crops are 'ROI losers' due to pests or low yields."
+    },
+    {
+      "name": "MIgardener",
+      "url": "https://www.youtube.com/@MIgardener",
+      "subscribers": "1.1M",
+      "why": "Luke Marion focuses on 'high intensity' gardening - maximizing yield in small spaces through specific spacing and fertilization protocols."
+    },
+    {
+      "name": "Herb Guy",
+      "url": "https://www.youtube.com/@Herb-Guy",
+      "why": "Suburban herb growing with a focus on basil, rosemary, sage, and other high-value herbs - the crops with the best price-per-pound returns for home growers."
+    }
+  ],
+  "websites": [
+    {
+      "name": "USDA ERS - Fruit and Vegetable Prices",
+      "url": "https://www.ers.usda.gov/data-products/fruit-and-vegetable-prices/",
+      "why": "The gold-standard source for retail price data. This site provides the average price-per-pound for over 150 fruits and vegetables, essential for calculating garden ROI."
+    },
+    {
+      "name": "University of Kentucky Center for Crop Diversification",
+      "url": "https://www.uky.edu/ccd/tools/budgets",
+      "why": "Provides detailed 'Enterprise Budgets' for dozens of vegetable crops, including projected yields, input costs, and labor requirements."
+    },
+    {
+      "name": "Penn State Extension - Vegetable Production",
+      "url": "https://extension.psu.edu/forage-and-food-crops/vegetable-fruit-and-mushroom-production",
+      "why": "Science-backed guides that include commercial-grade yield expectations and cost-of-production data for serious home growers."
+    },
+    {
+      "name": "Johnny's Selected Seeds Calculators",
+      "url": "https://www.johnnyseeds.com/growers-library/seed-calculators-planners.html",
+      "why": "Professional tools for calculating seed requirements, succession planting dates, and target harvest windows to ensure continuous production."
+    },
+    {
+      "name": "Cornell Vegetable MD Online",
+      "url": "http://vegetablemdonline.ppath.cornell.edu/",
+      "why": "Essential for 'protecting the investment.' It provides diagnostic tools to prevent crop loss, which is the biggest threat to garden ROI."
+    },
+    {
+      "name": "The Market Gardener Research Institute",
+      "url": "https://themarketgardener.com/articles/",
+      "why": "Publishes technical articles on small-scale production efficiency, tool comparisons, and crop-specific management for maximum yield."
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "The No-Till Market Garden Podcast",
+      "host": "Jesse Frost",
+      "url": "https://notillmarketgardenpodcast.libsyn.com/",
+      "why": "Technical deep-dives into the systems of high-production gardens, with a heavy focus on soil health as an economic asset."
+    },
+    {
+      "name": "The Market Gardener Podcast",
+      "host": "Jean-Martin Fortier",
+      "url": "https://themarketgardener.com/podcast/",
+      "why": "Interviews with practitioners who treat gardening as a high-efficiency business, focusing on the numbers that make a plot profitable."
+    },
+    {
+      "name": "The Beginner's Garden Podcast",
+      "host": "Jill McSheehy",
+      "url": "https://journeywithjill.net/podcast/",
+      "why": "Despite the name, it is data-driven, featuring annual 'garden audits' where the host reviews her harvest data and economic successes/failures."
+    },
+    {
+      "name": "The Urban Farmer Podcast",
+      "host": "Chris Thoreau / Curtis Stone",
+      "url": "https://urbanfarmer.libsyn.com/",
+      "why": "An older but vital back catalog focusing specifically on the ROI of different garden crops and small-space production techniques."
+    }
+  ],
+  "social": [
+    {
+      "handle": "@charles_dowding",
+      "platform": "Instagram",
+      "followers": "480K",
+      "why": "Consistently posts side-by-side 'Trials' (e.g., Dig vs. No Dig) with harvest weights and date-to-maturity data for every crop he grows."
+    },
+    {
+      "handle": "@theleanfarms",
+      "platform": "Instagram",
+      "followers": "42K",
+      "why": "Ben Hartman shares visual examples of 'Lean' gardening: efficient tool storage, waste reduction, and high-speed transplanting systems."
+    }
+  ]
+}

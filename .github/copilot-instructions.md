@@ -49,6 +49,8 @@ These must be followed without being asked:
 
 6. **Dev server is already running** — Never start a new dev server. Astro hot-reloads on file save. The server runs at `http://localhost:4321`.
 
+7. **All content sections must have a solid or semi-opaque background** — The site body has a background image. Any page section that contains text MUST have a background color that makes the text readable. Use `background-color: rgba(248, 249, 245, 0.97)` (or higher opacity) on the page's main content wrapper. Alternating section tints use `rgba(0, 0, 0, 0.04)` on top of that. **Never render body text, headings, or lists directly over the background image without a covering background.** This is the most common visual bug on this site — check it on every page you touch.
+
 ## SEO Standards — Non-Negotiable
 SEO is structural. Apply these on every page and component, not as a polish pass:
 
