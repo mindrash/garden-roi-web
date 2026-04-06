@@ -1,0 +1,393 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Methodology & Data Sources"
+  description="How Garden ROI calculates yield estimates, retail prices, and ROI figures. Every number on this site has a source."
+>
+  <div class="page-header">
+    <div class="container">
+      <h1>Methodology</h1>
+      <p>Where the numbers come from and how the ROI formula works.</p>
+    </div>
+  </div>
+
+  <div class="methodology-body">
+
+    <section class="m-section">
+      <h2>Why This Page Exists</h2>
+      <p>
+        Every yield estimate, retail price, and ROI figure on this site is sourced from
+        publicly available government and university data - not gardening folklore or editorial
+        guesswork. This page names every dataset used, explains how the ROI formula works,
+        and describes what "Low / Typical / High" variance means in practice.
+      </p>
+      <p>
+        If a number on a <a href="/crops/">crop page</a> looks wrong for your market or
+        growing conditions, this page will help you understand where it came from and how
+        to adjust it.
+      </p>
+    </section>
+
+    <section class="m-section">
+      <h2>Retail Price Data</h2>
+      <p>
+        Retail prices used for ROI calculations come from two USDA sources. The primary
+        source is used whenever data is available at the crop level; the secondary fills
+        gaps for specialty or less-common crops.
+      </p>
+      <div class="source-cards">
+        <div class="source-card">
+          <div class="source-label">Primary</div>
+          <h3>USDA Economic Research Service (ERS) - Fruit and Vegetable Prices</h3>
+          <p>
+            The ERS Fruit and Vegetable Prices dataset reports average U.S. retail prices
+            per pound (edible weight) for over 150 produce items, drawn from retail scanner
+            data. This is the most widely cited consumer-level produce price dataset in the
+            U.S. Prices reflect national averages and are updated annually.
+          </p>
+          <a href="https://www.ers.usda.gov/data-products/fruit-and-vegetable-prices/" target="_blank" rel="noopener noreferrer">ers.usda.gov - Fruit and Vegetable Prices</a>
+        </div>
+        <div class="source-card">
+          <div class="source-label">Secondary</div>
+          <h3>USDA Agricultural Marketing Service (AMS) - Market News</h3>
+          <p>
+            The AMS Market News program publishes weekly wholesale and retail price reports
+            by commodity and region, including terminal market prices for specialty crops,
+            herbs, and items not covered in the ERS dataset. Used for herbs, specialty
+            greens, and items where ERS data is unavailable or stale.
+          </p>
+          <a href="https://www.ams.usda.gov/market-news" target="_blank" rel="noopener noreferrer">ams.usda.gov - Market News</a>
+        </div>
+        <div class="source-card">
+          <div class="source-label">Tertiary</div>
+          <h3>Land-Grant University Extension Publications</h3>
+          <p>
+            For crops where USDA data is sparse (perennials, uncommon specialty crops),
+            retail price estimates draw on cooperative extension budget sheets from Cornell
+            Cooperative Extension, Penn State Extension, UC Davis ANR, and Purdue Extension.
+            These publications include market price assumptions used in farm enterprise budgets.
+          </p>
+        </div>
+      </div>
+      <p class="m-note">
+        All prices are national averages in USD. Local prices can vary 30-50% above or
+        below the national average depending on market. See
+        <a href="/roi/how-to-find-local-prices/">How to Find Local Produce Prices</a> for
+        how to substitute your actual market prices.
+      </p>
+    </section>
+
+    <section class="m-section">
+      <h2>Yield Data</h2>
+      <p>
+        Yield figures (pounds per plant, or pounds per 10 row feet for crops planted by
+        seed broadcast) come from controlled trial data published by land-grant university
+        cooperative extension programs. These are trial-plot yields under research conditions -
+        your results will vary based on soil quality, climate, variety, and management.
+      </p>
+      <div class="source-cards">
+        <div class="source-card">
+          <div class="source-label">Primary</div>
+          <h3>Cornell Cooperative Extension - Home Vegetable Gardening</h3>
+          <p>
+            Cornell's home vegetable gardening publications include expected yield ranges
+            for major vegetable crops grown in typical home garden conditions. Used as the
+            baseline for most vegetable yields.
+          </p>
+          <a href="https://gardening.cals.cornell.edu/" target="_blank" rel="noopener noreferrer">gardening.cals.cornell.edu</a>
+        </div>
+        <div class="source-card">
+          <div class="source-label">Primary</div>
+          <h3>Purdue Extension - Vegetable Planting Guide</h3>
+          <p>
+            Purdue Extension publishes yield estimates per 100 row feet for most common
+            vegetable and herb crops, which are converted to per-plant figures using
+            standard in-row spacing recommendations.
+          </p>
+          <a href="https://extension.purdue.edu/vegetable-gardening" target="_blank" rel="noopener noreferrer">extension.purdue.edu</a>
+        </div>
+        <div class="source-card">
+          <div class="source-label">Secondary</div>
+          <h3>USDA NASS Quick Stats</h3>
+          <p>
+            The USDA National Agricultural Statistics Service Quick Stats database provides
+            commercial production yield data by crop and state. Used to cross-check
+            extension yield figures and as a secondary source for crops with limited
+            extension trial data.
+          </p>
+          <a href="https://quickstats.nass.usda.gov/" target="_blank" rel="noopener noreferrer">quickstats.nass.usda.gov</a>
+        </div>
+      </div>
+      <p class="m-note">
+        Yield ranges on crop pages show Low / Typical / High. "Typical" is the median
+        reported yield from the primary source. "Low" is the 25th percentile (poor soil,
+        suboptimal conditions). "High" is the 75th percentile (well-amended soil, experienced
+        grower, favorable season). Outlier yields from trial plots are excluded.
+      </p>
+    </section>
+
+    <section class="m-section">
+      <h2>The ROI Formula</h2>
+      <p>
+        The ROI calculation used across this site and in the
+        <a href="/app/">Garden ROI app</a> is deliberately simple. It answers one question:
+        how much grocery value does this crop produce relative to what you spent to grow it?
+      </p>
+      <div class="formula-block">
+        <div class="formula">
+          <span class="formula-lhs">Gross Value</span>
+          <span class="formula-op">=</span>
+          <span class="formula-rhs">Yield (lb) &times; Retail Price ($/lb)</span>
+        </div>
+        <div class="formula">
+          <span class="formula-lhs">Seed ROI</span>
+          <span class="formula-op">=</span>
+          <span class="formula-rhs">Gross Value &divide; Seed Cost</span>
+        </div>
+        <div class="formula">
+          <span class="formula-lhs">Est. ROI ($)</span>
+          <span class="formula-op">=</span>
+          <span class="formula-rhs">Gross Value &minus; Seed Cost</span>
+        </div>
+      </div>
+      <p>
+        <strong>Seed cost</strong> is the per-plant cost assuming a standard packet divided
+        by typical seeds-per-packet figures from USDA and seed company data. For transplants,
+        the transplant retail price is used.
+      </p>
+      <p>
+        <strong>What is not included:</strong> soil amendments, irrigation, fertilizer,
+        infrastructure (beds, trellises), and labor. These are one-time or shared costs
+        that vary too widely by gardener to include in a per-crop figure. The
+        <a href="/roi/raised-bed-break-even/">raised bed break-even article</a> covers total
+        cost accounting including infrastructure.
+      </p>
+      <p>
+        The seed ROI ratio (e.g., "107x") tells you how many times your seed investment
+        returns in grocery value. The est. ROI dollar figure is the net grocery savings
+        after seed cost - the number that shows up in the crops table.
+      </p>
+    </section>
+
+    <section class="m-section">
+      <h2>Seed Cost Data</h2>
+      <p>
+        Seed costs per plant are calculated from retail packet prices and standard
+        seeds-per-packet counts. Packet price data comes from major U.S. seed retailers
+        (Baker Creek Heirloom Seeds, Johnny's Selected Seeds, Burpee) averaged across
+        at least three sources. Seeds-per-packet counts use USDA Agricultural Research
+        Service germination and seeding rate data where available, supplemented by seed
+        company specifications.
+      </p>
+      <p>
+        Perennial crops (asparagus, rhubarb, artichoke, herbs) use crown or transplant
+        cost for year-one figures, with a note that the amortized cost per year drops
+        significantly after establishment.
+      </p>
+    </section>
+
+    <section class="m-section">
+      <h2>Currency and Date Policy</h2>
+      <div class="policy-grid">
+        <div class="policy-item">
+          <h3>Currency</h3>
+          <p>All prices are in U.S. dollars (USD). The site does not convert to other currencies.</p>
+        </div>
+        <div class="policy-item">
+          <h3>Price Year</h3>
+          <p>
+            Retail prices reflect the most recent USDA ERS annual data available at the time
+            each crop page was written or last updated. The year is cited on each crop page.
+            Prices are reviewed annually.
+          </p>
+        </div>
+        <div class="policy-item">
+          <h3>National Average</h3>
+          <p>
+            All prices are U.S. national averages unless otherwise noted. Regional variation
+            is real - see <a href="/roi/how-to-find-local-prices/">How to Find Local Produce Prices</a>.
+          </p>
+        </div>
+        <div class="policy-item">
+          <h3>Organic vs. Conventional</h3>
+          <p>
+            Default prices are conventional retail prices. Organic retail runs 30-100% higher
+            depending on crop. If you grow without pesticides, your comparison price should be
+            the organic retail price in your market.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="m-section">
+      <h2>Questions or Corrections</h2>
+      <p>
+        If you find a price or yield figure that looks wrong, check the cited source on the
+        crop page first. USDA data is updated annually and prices shift. If the source has
+        been updated since the page was written, the page may be stale.
+      </p>
+      <p>
+        For crop-specific breakdowns, see the <a href="/crops/">full crop index</a> or
+        the <a href="/roi/">ROI articles</a>. For methodology questions, the
+        <a href="/start-here/">Start Here</a> page covers how to use these numbers
+        in practice.
+      </p>
+    </section>
+
+  </div>
+</BaseLayout>
+
+<style>
+  .methodology-body {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    background-color: rgba(248, 249, 245, 0.88);
+    padding: var(--space-xl) var(--space-l) var(--space-xxl);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xxl);
+  }
+
+  .m-section h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-h1);
+    color: var(--color-primary);
+    margin-bottom: var(--space-l);
+  }
+
+  .m-section p {
+    margin-bottom: var(--space-m);
+  }
+
+  .m-section p:last-child {
+    margin-bottom: 0;
+  }
+
+  .source-cards {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+    margin: var(--space-l) 0;
+  }
+
+  .source-card {
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    padding: var(--space-l);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+  }
+
+  .source-label {
+    font-size: var(--text-small);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--color-primary);
+  }
+
+  .source-card h3 {
+    font-size: var(--text-body);
+    font-weight: 700;
+    color: var(--color-text-primary);
+    margin: 0;
+  }
+
+  .source-card p {
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    line-height: var(--leading-body);
+    margin: 0;
+  }
+
+  .source-card a {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-primary);
+    word-break: break-all;
+  }
+
+  .m-note {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    background-color: var(--color-highlight);
+    border-radius: var(--radius-s);
+    padding: var(--space-m);
+    margin-top: var(--space-m);
+    margin-bottom: 0;
+    line-height: var(--leading-body);
+  }
+
+  .formula-block {
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    padding: var(--space-l);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+    margin: var(--space-l) 0;
+    font-family: var(--font-mono);
+  }
+
+  .formula {
+    display: flex;
+    align-items: center;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+    font-size: var(--text-body);
+  }
+
+  .formula-lhs {
+    font-weight: 700;
+    color: var(--color-primary);
+    min-width: 100px;
+  }
+
+  .formula-op {
+    color: var(--color-text-muted);
+    font-weight: 400;
+  }
+
+  .formula-rhs {
+    color: var(--color-text-secondary);
+  }
+
+  .policy-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-m);
+    margin-top: var(--space-l);
+  }
+
+  .policy-item {
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    padding: var(--space-l);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+  }
+
+  .policy-item h3 {
+    font-size: var(--text-body);
+    font-weight: 700;
+    color: var(--color-text-primary);
+    margin-bottom: var(--space-s);
+  }
+
+  .policy-item p {
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    line-height: var(--leading-body);
+    margin: 0;
+  }
+
+  @media (max-width: 768px) {
+    .policy-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

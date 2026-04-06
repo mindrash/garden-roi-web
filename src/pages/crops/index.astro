@@ -70,6 +70,8 @@ const collectionJsonLd = {
           <a href="/crops/vegetables/" class="filter-btn">Vegetables</a>
           <a href="/crops/herbs/" class="filter-btn">Herbs</a>
           <a href="/crops/fruit/" class="filter-btn">Fruit</a>
+          <span class="filter-separator" aria-hidden="true"></span>
+          <button class="filter-btn qw-btn" id="quick-wins-btn" type="button" aria-pressed="false">Quick Wins (&le;60 days)</button>
         </div>
 
         <div class="view-toggle" role="group" aria-label="View mode">
@@ -102,6 +104,7 @@ const collectionJsonLd = {
             class="plant-card-wrapper"
             data-roi={roi.toFixed(4)}
             data-days={plant.data.days_min}
+            data-days-max={plant.data.days_max}
             data-price={plant.data.avg_price_lb}
             data-slug={plant.id}
             data-est-roi={estRoi}
@@ -153,6 +156,7 @@ const collectionJsonLd = {
                 data-yield={plant.data.avg_yield_lb}
                 data-seed={plant.data.seed_cost}
                 data-est-roi={estRoi}
+                data-days-max={plant.data.days_max}
                 data-name={plant.data.name.toLowerCase()}
                 data-slug={plant.id}
               >
@@ -209,25 +213,46 @@ const collectionJsonLd = {
     btn.addEventListener('click', () => setView(btn.dataset.view ?? 'grid'));
   });
 
-  // --- Search (works in both views) ---
-  function applySearch(query: string) {
+  // --- Search + Quick Wins filter (both views) ---
+  let quickWinsActive = false;
+
+  function applyFilters(query: string) {
     const q = query.toLowerCase().trim();
-
     document.querySelectorAll<HTMLElement>('.plant-card-wrapper').forEach(el => {
-      if (!q) { el.style.display = ''; return; }
-      el.style.display = (el.textContent?.toLowerCase() ?? '').includes(q) ? '' : 'none';
+      const matchSearch = !q || (el.textContent?.toLowerCase() ?? '').includes(q);
+      const daysMax = parseInt(el.dataset.daysMax ?? '999', 10);
+      const matchQW = !quickWinsActive || daysMax <= 60;
+      el.style.display = (matchSearch && matchQW) ? '' : 'none';
     });
-
     document.querySelectorAll<HTMLElement>('.table-row').forEach(el => {
-      if (!q) { el.style.display = ''; return; }
-      el.style.display = (el.textContent?.toLowerCase() ?? '').includes(q) ? '' : 'none';
+      const matchSearch = !q || (el.textContent?.toLowerCase() ?? '').includes(q);
+      const daysMax = parseInt(el.dataset.daysMax ?? '999', 10);
+      const matchQW = !quickWinsActive || daysMax <= 60;
+      el.style.display = (matchSearch && matchQW) ? '' : 'none';
     });
   }
+
+  // Make entire table rows clickable
+  document.querySelectorAll<HTMLElement>('.table-row').forEach(row => {
+    row.addEventListener('click', (e) => {
+      if ((e.target as HTMLElement).closest('a')) return;
+      const slug = row.dataset.slug;
+      if (slug) window.location.href = `/crops/${slug}/`;
+    });
+  });
 
   const searchInput = document.getElementById('crop-search') as HTMLInputElement | null;
   if (searchInput) {
-    searchInput.addEventListener('input', () => applySearch(searchInput.value));
+    searchInput.addEventListener('input', () => applyFilters(searchInput.value));
   }
+
+  const qwBtn = document.getElementById('quick-wins-btn') as HTMLButtonElement | null;
+  qwBtn?.addEventListener('click', () => {
+    quickWinsActive = !quickWinsActive;
+    qwBtn.classList.toggle('active', quickWinsActive);
+    qwBtn.setAttribute('aria-pressed', String(quickWinsActive));
+    applyFilters(searchInput?.value ?? '');
+  });
 
   // --- Sort helpers ---
   function sortCardWrappers(sortBy: string) {
@@ -318,7 +343,7 @@ const collectionJsonLd = {
 
   /* Controls card */
   .controls-card {
-    background: rgba(248, 249, 245, 0.94);
+    background: rgba(248, 249, 245, 0.98);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     border-radius: var(--radius-l);
@@ -426,6 +451,20 @@ const collectionJsonLd = {
     text-decoration: none;
   }
 
+  button.filter-btn {
+    cursor: pointer;
+    font-family: var(--font-body);
+  }
+
+  .filter-separator {
+    display: inline-block;
+    width: 1px;
+    height: 20px;
+    background-color: var(--color-border);
+    align-self: center;
+    margin: 0 var(--space-xs);
+  }
+
   /* View toggle */
   .view-toggle {
     display: flex;
@@ -525,6 +564,10 @@ const collectionJsonLd = {
   .plants-table tbody tr {
     border-bottom: 1px solid rgba(0, 0, 0, 0.06);
     transition: background-color 0.15s;
+  }
+
+  .table-row {
+    cursor: pointer;
   }
 
   .plants-table tbody tr:nth-child(even) {

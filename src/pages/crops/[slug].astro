@@ -4,13 +4,14 @@ import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
   const plants = await getCollection('plants');
+  const allArticles = await getCollection('articles');
   return plants.map((plant) => ({
     params: { slug: plant.id },
-    props: { plant },
+    props: { plant, allPlants: plants, allArticles },
   }));
 }
 
-const { plant } = Astro.props;
+const { plant, allPlants, allArticles } = Astro.props;
 const { Content } = await render(plant);
 
 const {
@@ -25,6 +26,27 @@ const {
   sunlight,
   companion_plants,
 } = plant.data;
+
+// M002: build slug lookup for companion plant linking
+const plantSlugs = new Set(allPlants.map((p) => p.id));
+function nameToSlug(n: string): string {
+  return n.toLowerCase().replace(/\s+/g, '-');
+}
+
+// M003: find related articles (crop name match first, then category)
+const nameLower = name.toLowerCase();
+function sectionPath(cat: string): string {
+  if (cat === 'roi') return '/roi';
+  if (cat === 'homestead') return '/homestead';
+  return '/guides';
+}
+const relatedArticles = allArticles
+  .filter((a) => {
+    const t = a.data.title.toLowerCase();
+    const d = (a.data.description ?? '').toLowerCase();
+    return t.includes(nameLower) || d.includes(nameLower);
+  })
+  .slice(0, 3);
 
 const roiEstimate = (avg_yield_lb * avg_price_lb).toFixed(2);
 const tagClass = `tag tag-${category.toLowerCase()}`;
@@ -96,7 +118,20 @@ const articleJsonLd = {
       {companion_plants.length > 0 && (
         <div class="fact">
           <span class="fact-label">🌿 Companions</span>
-          <span class="fact-value">{companion_plants.join(', ')}</span>
+          <span class="fact-value">
+            {companion_plants.map((cp, i) => {
+              const slug = nameToSlug(cp);
+              return (
+                <>
+                  {plantSlugs.has(slug)
+                    ? <a href={`/crops/${slug}/`}>{cp}</a>
+                    : <span>{cp}</span>
+                  }
+                  {i < companion_plants.length - 1 ? ', ' : ''}
+                </>
+              );
+            })}
+          </span>
         </div>
       )}
     </div>
@@ -105,6 +140,21 @@ const articleJsonLd = {
     <div class="prose plant-body">
       <Content />
     </div>
+
+    <!-- Related Articles (M003) -->
+    {relatedArticles.length > 0 && (
+      <div class="related-articles">
+        <h2 class="related-title">Related Reading</h2>
+        <div class="related-list">
+          {relatedArticles.map((article) => (
+            <a href={`${sectionPath(article.data.category)}/${article.id}/`} class="related-entry">
+              <span class="related-article-title">{article.data.title}</span>
+              <span class="related-article-desc">{article.data.description}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
 
     <!-- Track CTA -->
     <div class="track-cta">
@@ -209,6 +259,54 @@ const articleJsonLd = {
 
   .plant-body {
     padding-top: var(--space-m);
+  }
+
+  .related-articles {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+  }
+
+  .related-title {
+    font-size: var(--text-h3);
+    font-weight: 700;
+    color: var(--color-text-primary);
+    margin: 0;
+  }
+
+  .related-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+  }
+
+  .related-entry {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    padding: var(--space-m) var(--space-l);
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    text-decoration: none;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+
+  .related-entry:hover {
+    border-color: var(--color-primary);
+    box-shadow: var(--shadow-soft);
+  }
+
+  .related-article-title {
+    font-weight: 700;
+    font-size: var(--text-body);
+    color: var(--color-primary);
+  }
+
+  .related-article-desc {
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    line-height: var(--leading-small);
   }
 
   .track-cta {

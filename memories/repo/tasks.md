@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 6, 2026_
+_Last updated: April 6, 2026 (M001-M006 complete)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -1293,6 +1293,130 @@ _These stories came out of an external product review. Each is independent - any
 - Clicking column headers sorts correctly, asc/desc toggle works
 - Search + category filter work identically in both views
 - View preference persists across page reloads
+- `npx astro build` passes with 0 errors
+
+---
+
+## MVP Launch Sprint (M001-M006)
+
+### M001 — Methodology & Data Sources Page
+**Status:** `[x]`
+**Files:** `src/pages/methodology.astro`
+**What:** A "How we calculate ROI" page that cites every data source used across the site. Builds trust - without it the numbers feel invented.
+**Details:**
+- URL: `/methodology/`
+- Add to Footer nav alongside Resources
+- Sections: Retail Price Data (USDA ERS, AMS Market News), Yield Data (land-grant extension publications, which ones), ROI Formula (how seed cost, yield, and price combine), Variance Explanation (why Low/Typical/High differ), Currency/Date Policy (prices updated annually, year cited)
+- Cite specific USDA datasets by name and URL: ERS Fruit & Vegetable Prices, AMS Market News, NASS Quick Stats
+- For each section, name the primary source and the secondary fallback
+- Internal links: /crops/ index, /roi/ index, /start-here/
+- Use same page layout pattern as `start-here.astro` (single `.methodology-body` wrapper with `background-color: rgba(248, 249, 245, 0.88)`)
+- No inline styles. CSS custom properties only. Zero em dashes.
+**Acceptance:**
+- Page renders at `/methodology/` with correct background coverage (no text over bg image)
+- All data sources are named and linked
+- Footer links to `/methodology/`
+- `npx astro build` passes with 0 errors
+
+---
+
+### M002 — Companion Plants Cross-Linking on Crop Pages
+**Status:** `[x]`
+**Files:** `src/pages/crops/[slug].astro`
+**What:** Companion plants on crop detail pages are currently plain text (comma-separated). Link each companion plant name to its `/crops/[slug]/` page if a matching plant entry exists.
+**Details:**
+- Read all plant slugs from the content collection at build time
+- For each name in `companion_plants`, normalize to a slug (lowercase, spaces to hyphens)
+- If a matching slug exists in the collection, render as `<a href="/crops/[slug]/">Name</a>`
+- If no match, render as plain text (graceful fallback - not all companions have pages)
+- No new layout changes - only the companion_plants fact row changes
+- Test with tomato (companions: basil, carrot, marigold) - basil and carrot should link, marigold may not
+**Acceptance:**
+- Companion names that match a plant slug render as working internal links
+- Companion names with no match render as plain text (no broken links)
+- Links use descriptive text (the plant name) - not "click here"
+- `npx astro build` passes with 0 errors
+
+---
+
+### M003 — Related Articles on Crop Pages
+**Status:** `[x]`
+**Files:** `src/pages/crops/[slug].astro`
+**What:** Every crop detail page should surface 1-3 related articles from the content collection. Currently crop pages have no links to the article sections.
+**Details:**
+- At build time, collect all articles
+- Match strategy (in priority order): 1) articles whose title or description contains the crop name, 2) articles tagged with a relevant category (roi, care, planning)
+- Show a maximum of 3 articles. If fewer than 1 match, show nothing (no empty section)
+- Render as a simple "Related Reading" section below the crop facts, before the footer
+- Each article link shows title + description (one line, truncated at ~100 chars if needed)
+- Link to the correct section path: roi articles → `/roi/[slug]/`, homestead → `/homestead/[slug]/`, care/planning → `/guides/[slug]/`
+- Use same card/list style as other article listings on the site
+- Section must have background coverage - no raw text over bg image
+**Acceptance:**
+- At least 10 crop pages show 1+ related article links (spot check: tomato, garlic, basil)
+- No broken links
+- Section is absent (not empty) on crops with zero matches
+- `npx astro build` passes with 0 errors
+
+---
+
+### M004 — Pagefind Search UI
+**Status:** `[x]`
+**Files:** `src/components/SearchModal.astro` (new), `src/components/Header.astro`, `src/styles/theme.css`
+**What:** Pagefind is already indexed in the deploy pipeline. Wire up a working search UI so visitors can actually use it. A search icon in the header that opens a modal is the standard pattern.
+**Details:**
+- Add a search icon button to the right side of the Header nav
+- Clicking it opens a full-screen modal overlay with the Pagefind search UI
+- Pagefind UI is loaded from `/pagefind/pagefind-ui.js` and `/pagefind/pagefind-ui.css` (generated at build time)
+- Modal closes on Escape key or clicking the overlay backdrop
+- In dev mode, Pagefind index won't exist - degrade gracefully (show "Search available on the live site")
+- CSS: modal overlay uses `var(--color-overlay)`, modal panel uses `var(--color-bg)`, no hardcoded values
+- Search icon uses an SVG inline or a Unicode character - no icon library dependencies
+**Acceptance:**
+- Search icon visible in Header on all pages
+- Modal opens and closes correctly
+- On production build, Pagefind returns results for crop names and article titles
+- Dev mode degrades gracefully without throwing errors
+- `npx astro build` passes with 0 errors
+
+---
+
+### M005 — "Quick Wins" Filter on /crops Index
+**Status:** `[x]`
+**Files:** `src/pages/crops/index.astro`
+**What:** Add a "Quick Wins" filter button to the crops index that shows only crops with `days_max <= 60`. These are the fast-payoff crops (arugula, radish, lettuce, etc.) - a useful filter for new gardeners.
+**Details:**
+- Add a "Quick Wins" toggle button alongside the existing category filter buttons
+- When active, filters the visible crops to only those where `days_max <= 60`
+- Quick Wins filter stacks with category filter (e.g., can show "Quick Wins + Herb")
+- Button style matches existing filter buttons - uses CSS custom properties, no hardcoded values
+- State managed in client-side JS already present on the page
+- Label: "Quick Wins (≤60 days)"
+**Acceptance:**
+- Quick Wins button renders alongside existing filter buttons
+- Filters correctly to crops with `days_max <= 60`
+- Stacks correctly with category filters
+- `npx astro build` passes with 0 errors
+
+---
+
+### M006 — Tip of the Day on Homepage
+**Status:** `[x]`
+**Files:** `src/pages/index.astro`
+**What:** Surface a rotating "Garden ROI Fact" on the homepage using the existing `/api/tips.json` endpoint. The infrastructure is already there - this just renders it.
+**Details:**
+- Fetch tips from `/api/tips.json` client-side on page load
+- Pick a random tip from the array and display it in a dedicated section on the homepage
+- If fetch fails, section is hidden entirely (no error state shown to user)
+- Section label: "ROI Fact" or "Did You Know?"
+- Rotates on page refresh (random pick each load, no animation required)
+- Use the same section background pattern as other homepage sections
+- Place it between the newsletter section and the footer, or between Features and newsletter - wherever feels natural in the existing layout
+- No hardcoded colors or values
+**Acceptance:**
+- Tip renders on homepage using data from `/api/tips.json`
+- Different tip shown on refresh (verify with 3+ refreshes)
+- Section hidden (not broken) if the fetch fails
 - `npx astro build` passes with 0 errors
 
 ---
