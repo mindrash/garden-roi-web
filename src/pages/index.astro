@@ -4,6 +4,7 @@ import AppStoreBadges from '../components/AppStoreBadges.astro';
 import PlantCard from '../components/PlantCard.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import RoiCalculator from '../components/RoiCalculator.astro';
+import RoiEstimator from '../components/RoiEstimator.astro';
 import GardenFact from '../components/GardenFact.astro';
 import { getCollection } from 'astro:content';
 
@@ -222,6 +223,18 @@ const topCropRoi = topCrop
             sectionPath={sectionPathFor(article.data.category)}
           />
         ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ROI Estimator -->
+  <section class="section section-card">
+    <div class="container">
+      <div class="glass-card">
+        <div class="section-header section-header-tight">
+          <h2 class="section-title">Estimate Your Return</h2>
+        </div>
+        <RoiEstimator />
       </div>
     </div>
   </section>
@@ -624,9 +637,7 @@ const topCropRoi = topCrop
       grid-template-columns: 1fr;
     }
 
-    .hero-app {
-      display: none;
-    }
+    /* hero-app stays visible — stacks below hero text in single-column layout */
 
     .features-grid {
       grid-template-columns: repeat(2, 1fr);
@@ -645,10 +656,39 @@ const topCropRoi = topCrop
     }
   }
 
+  @media (max-width: 680px) {
+    /* Anchor cards (Crops / ROI / Homestead) stack vertically */
+    .anchors-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .section-anchors {
+      padding: var(--space-l) 0;
+    }
+
+    /* Hero subtitle shouldn't exceed viewport */
+    .hero-subtitle {
+      max-width: 100%;
+    }
+  }
+
   @media (max-width: 600px) {
     .features-grid,
     .card-grid {
       grid-template-columns: 1fr;
+    }
+
+    /* Tighten section padding on small phones */
+    .section {
+      padding: var(--space-l) 0;
+    }
+
+    .section-card {
+      padding: var(--space-m) 0;
+    }
+
+    .section-fact {
+      padding: var(--space-m) 0;
     }
   }
 </style>

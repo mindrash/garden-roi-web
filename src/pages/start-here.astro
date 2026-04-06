@@ -472,4 +472,25 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       display: none;
     }
   }
+
+  @media (max-width: 600px) {
+    .start-here-body {
+      padding: var(--space-l) var(--space-m) var(--space-xl);
+    }
+
+    /* On phones, reduce example table to 2 columns: crop name + seed ROI */
+    .example-row {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .example-header span:nth-child(3),
+    .example-row span:nth-child(3) {
+      display: none;
+    }
+
+    .article-links {
+      flex-direction: column;
+      gap: var(--space-s);
+    }
+  }
 </style>

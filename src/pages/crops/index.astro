@@ -615,6 +615,30 @@ const collectionJsonLd = {
     }
   }
 
+  @media (max-width: 680px) {
+    /* Controls: sort and filter stack vertically */
+    .controls-row {
+      flex-direction: column;
+      align-items: stretch;
+      gap: var(--space-m);
+    }
+
+    .controls-row .sort-bar,
+    .controls-row .filter-bar {
+      flex: unset;
+      flex-shrink: unset;
+    }
+
+    .sort-bar,
+    .filter-bar {
+      gap: var(--space-xs);
+    }
+
+    .filter-separator {
+      display: none;
+    }
+  }
+
   @media (max-width: 640px) {
     .plants-grid {
       grid-template-columns: 1fr;

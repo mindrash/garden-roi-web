@@ -390,4 +390,33 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       grid-template-columns: 1fr;
     }
   }
+
+  @media (max-width: 600px) {
+    .methodology-body {
+      padding: var(--space-l) var(--space-m) var(--space-xl);
+    }
+
+    .formula-block {
+      font-size: var(--text-small);
+      padding: var(--space-m);
+    }
+
+    .formula {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: var(--space-xs);
+    }
+
+    .formula-op {
+      padding-left: var(--space-m);
+    }
+
+    .formula-rhs {
+      padding-left: var(--space-m);
+    }
+
+    .source-card {
+      padding: var(--space-m);
+    }
+  }
 </style>

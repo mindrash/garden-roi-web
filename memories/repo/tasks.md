@@ -1421,6 +1421,81 @@ _These stories came out of an external product review. Each is independent - any
 
 ---
 
+## MVP Launch Sprint (M007-M008)
+
+### M007 — Interactive ROI Estimator
+**Status:** `[x]`
+**Files:** `src/components/RoiEstimator.astro` (new), `src/pages/index.astro`, `src/pages/api/plants.json.ts`
+**What:** A client-side calculator on the homepage. Visitor picks a crop, enters a plant count, and sees an estimated savings breakdown. CTA drives to the app download.
+**Details:**
+
+Step 1 - Add `seed_cost` to the plants API response in `src/pages/api/plants.json.ts`:
+- Add `seed_cost: plant.data.seed_cost` to the `.map()` object alongside the existing fields
+
+Step 2 - Create `src/components/RoiEstimator.astro`:
+- At build time, fetch all plants from the content collection and serialize the fields needed into an inline JS variable: `name`, `slug`, `avg_yield_lb`, `avg_price_lb`, `seed_cost` — no client-side fetch needed, data is baked in at build time
+- UI: a crop select dropdown (all 100 crops, sorted alphabetically) + a number input for plant count (default: 3, min: 1, max: 50)
+- Output panel (updates on every change, no submit button):
+  - Estimated yield: `avg_yield_lb × plants` lb
+  - Grocery value: `yield × avg_price_lb` dollars
+  - Seed investment: `seed_cost × plants` dollars
+  - **Net savings: grocery value - seed investment** (the headline number, large text)
+- Below the output: a single CTA button "Track your actual harvest →" linking to `/app/`
+- If no crop selected, show a prompt ("Select a crop to see your estimated return")
+- Label the output clearly: "Based on USDA average yield and retail price data"
+- All styling uses CSS custom properties. No hardcoded values. No inline styles.
+- Component uses same background/card pattern as other homepage sections
+
+Step 3 - Add `<RoiEstimator />` to `src/pages/index.astro`:
+- Place it after the hero/features section and before the newsletter section
+- Section heading: "Estimate Your Return"
+
+**Acceptance:**
+- Dropdown shows all 100 crops
+- Changing crop or plant count updates the output instantly (no page reload)
+- Net savings is the visually prominent output number
+- CTA links to `/app/`
+- No hardcoded CSS values
+- Background coverage: no text over background image
+- `npx astro build` passes with 0 errors
+
+---
+
+### M008 — Hero Images for Crop and Article Pages
+**Status:** `[ ]`
+**Agent fit:** This story is worked in batches as images are sourced. The agent's job is only to wire up images that are already present in `public/images/` — never to source, download, or generate images.
+
+**Files:** `src/content/plants/*.md`, `src/content/articles/*.md`, `public/images/crops/`, `public/images/articles/`
+
+**What:** Wire up hero images across crop and article pages. The `hero_image` field is already in the schema and both `BaseLayout.astro` and `ContentLayout.astro` already consume it for og:image and the page hero. This story only adds frontmatter entries for images that exist on disk.
+
+**Image storage convention:**
+- Crop images: `public/images/crops/[slug].webp` — slug matches the content file name exactly (e.g., `tomato.md` → `public/images/crops/tomato.webp`)
+- Article images: `public/images/articles/[slug].webp` — slug matches the article file name exactly
+- All images must be WebP format, max 200KB, recommended 1200×630px
+
+**How to source images (human task, done before running this story):**
+- Priority 1: Unsplash (unsplash.com) — free, no attribution required, high quality
+- Priority 2: Pexels (pexels.com) — same license, good fallback
+- Priority 3: Wikimedia Commons — filter by Creative Commons, covers obscure crops
+- Priority 4: USDA ARS Image Gallery (ars.usda.gov/oc/images/photos) — public domain, authoritative
+- Generate only what cannot be sourced — prompt style: "[crop] growing in a garden, natural light, close-up, no text"
+- Convert all downloads to WebP using Squoosh (squoosh.app) before saving to `public/images/`
+
+**Agent workflow — run this story once images are in place:**
+1. Scan `public/images/crops/` for all `.webp` files present on disk
+2. For each file found (e.g., `tomato.webp`), open `src/content/plants/tomato.md` and add `hero_image: /images/crops/tomato.webp` to frontmatter — only if the field is not already set
+3. Repeat for `public/images/articles/` → `src/content/articles/`
+4. Do not touch any content file that does not have a corresponding image on disk
+5. Do not modify any field other than `hero_image`
+
+**Acceptance:**
+- Every content file with a `hero_image` frontmatter value has a corresponding file at that path in `public/images/`
+- No content file has a `hero_image` value pointing to a file that does not exist (would cause a broken og:image)
+- `npx astro build` passes with 0 errors
+
+---
+
 ## Done
 
 - **T001-T011:** All infrastructure tasks complete (schema, routing, SEO, pages)

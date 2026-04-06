@@ -51,7 +51,7 @@ const currentPath = Astro.url.pathname;
       Get the App
     </a>
 
-    <button class="mobile-menu-btn" aria-label="Toggle menu" id="menu-toggle" style="margin-left: 0;">
+    <button class="mobile-menu-btn" aria-label="Toggle menu" id="menu-toggle">
       <span></span><span></span><span></span>
     </button>
   </div>
@@ -264,9 +264,13 @@ const currentPath = Astro.url.pathname;
       display: none;
     }
 
+    /* Push search + hamburger to the right */
+    .search-btn {
+      margin-left: auto;
+    }
+
     .mobile-menu-btn {
       display: flex;
-      margin-left: auto;
     }
   }
 </style>

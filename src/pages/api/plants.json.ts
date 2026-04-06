@@ -19,6 +19,7 @@ export const GET: APIRoute = async () => {
       days_max: plant.data.days_max,
       avg_yield_lb: plant.data.avg_yield_lb,
       avg_price_lb: plant.data.avg_price_lb,
+      seed_cost: plant.data.seed_cost,
       is_common: plant.data.is_common,
       watering: plant.data.watering,
       sunlight: plant.data.sunlight,
