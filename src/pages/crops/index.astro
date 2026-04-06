@@ -1,0 +1,297 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PlantCard from '../../components/PlantCard.astro';
+import { getCollection } from 'astro:content';
+
+const allPlants = await getCollection('plants');
+
+// Sort by ROI score descending: (yield × price) / seed_cost
+const plants = allPlants.sort((a, b) => {
+  const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.seed_cost;
+  const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.seed_cost;
+  return roiB - roiA;
+});
+
+const collectionJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Garden Crop Encyclopedia - ROI & Growing Guides",
+  "description": "Vegetables, herbs, and fruit ranked by return on investment. Yield data, seed costs, and grocery value for home garden crops.",
+  "url": "https://gardenroi.com/crops/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Garden ROI",
+    "logo": "https://gardenroi.com/logo.png"
+  },
+  "hasPart": plants.map((plant) => ({
+    "@type": "Article",
+    "name": `${plant.data.name}: ROI, Yield & Growing Guide`,
+    "url": `https://gardenroi.com/crops/${plant.id}/`,
+  })),
+};
+---
+
+<BaseLayout
+  title="High-ROI Crops for the Home Garden"
+  description="Vegetables, herbs, and fruit ranked by return on investment. Yield data, seed costs, and grocery value so you grow what actually pays off."
+>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionJsonLd)} />
+  <div class="page-header">
+    <div class="container">
+      <h1>Crops</h1>
+      <p>All crops ranked by ROI  -  harvest value divided by seed cost.</p>
+    </div>
+  </div>
+
+  <div class="container plants-page">
+    <div class="controls-card">
+      <div class="search-bar">
+        <input
+          type="search"
+          id="crop-search"
+          class="crop-search-input"
+          placeholder="Search crops..."
+          aria-label="Search crops"
+          autocomplete="off"
+        />
+      </div>
+
+      <div class="controls-row">
+        <div class="sort-bar" role="toolbar" aria-label="Sort crops">
+          <span class="sort-label">Sort by:</span>
+          <button class="sort-btn active" id="sort-roi" data-sort="roi" type="button">Best ROI</button>
+          <button class="sort-btn" id="sort-days" data-sort="days" type="button">Fastest Harvest</button>
+          <button class="sort-btn" id="sort-price" data-sort="price" type="button">Highest Price/lb</button>
+        </div>
+
+        <div class="filter-bar" role="navigation" aria-label="Filter by category">
+          <span class="sort-label">Category:</span>
+          <a href="/crops/" class="filter-btn active">All</a>
+          <a href="/crops/vegetables/" class="filter-btn">Vegetables</a>
+          <a href="/crops/herbs/" class="filter-btn">Herbs</a>
+          <a href="/crops/fruit/" class="filter-btn">Fruit</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="plants-grid" id="plants-grid">
+      {plants.map((plant) => {
+        const roi = (plant.data.avg_yield_lb * plant.data.avg_price_lb) / plant.data.seed_cost;
+        return (
+          <div
+            class="plant-card-wrapper"
+            data-roi={roi.toFixed(4)}
+            data-days={plant.data.days_min}
+            data-price={plant.data.avg_price_lb}
+            data-slug={plant.id}
+          >
+            <PlantCard
+              slug={plant.id}
+              name={plant.data.name}
+              scientific_name={plant.data.scientific_name}
+              category={plant.data.category}
+              days_min={plant.data.days_min}
+              days_max={plant.data.days_max}
+              avg_yield_lb={plant.data.avg_yield_lb}
+              avg_price_lb={plant.data.avg_price_lb}
+              watering={plant.data.watering}
+              sunlight={plant.data.sunlight}
+            />
+          </div>
+        );
+      })}
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  // Search using client-side text matching
+
+  function showAllCards() {
+    document.querySelectorAll<HTMLElement>('.plant-card-wrapper').forEach((el) => {
+      el.style.display = '';
+    });
+  }
+
+  async function handleSearch(query: string) {
+    if (!query.trim()) {
+      showAllCards();
+      return;
+    }
+
+    const q = query.toLowerCase();
+    document.querySelectorAll<HTMLElement>('.plant-card-wrapper').forEach((el) => {
+      const text = el.textContent?.toLowerCase() ?? '';
+      el.style.display = text.includes(q) ? '' : 'none';
+    });
+  }
+
+  const searchInput = document.getElementById('crop-search') as HTMLInputElement | null;
+  if (searchInput) {
+    searchInput.addEventListener('input', () => handleSearch(searchInput.value));
+  }
+
+  function sortCards(sortBy: string) {
+    const grid = document.getElementById('plants-grid');
+    if (!grid) return;
+    const wrappers = Array.from(grid.querySelectorAll<HTMLElement>('.plant-card-wrapper'));
+
+    wrappers.sort((a, b) => {
+      if (sortBy === 'roi') {
+        return parseFloat(b.dataset.roi ?? '0') - parseFloat(a.dataset.roi ?? '0');
+      } else if (sortBy === 'days') {
+        return parseInt(a.dataset.days ?? '0', 10) - parseInt(b.dataset.days ?? '0', 10);
+      } else if (sortBy === 'price') {
+        return parseFloat(b.dataset.price ?? '0') - parseFloat(a.dataset.price ?? '0');
+      }
+      return 0;
+    });
+
+    wrappers.forEach((el) => grid.appendChild(el));
+  }
+
+  document.querySelectorAll<HTMLButtonElement>('.sort-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.sort-btn').forEach((b) => b.classList.remove('active'));
+      btn.classList.add('active');
+      sortCards(btn.dataset.sort ?? 'roi');
+    });
+  });
+</script>
+
+<style>
+  .search-bar {
+    /* spacing handled by controls-card gap */
+  }
+
+  .crop-search-input {
+    width: 100%;
+    max-width: 420px;
+    padding: var(--space-s) var(--space-m);
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-full);
+    font-size: var(--text-body);
+    font-family: var(--font-body);
+    color: var(--color-text);
+    background-color: var(--color-white);
+    outline: none;
+  }
+
+  .crop-search-input:focus {
+    border-color: var(--color-primary-dark);
+    box-shadow: 0 0 0 3px rgba(45, 90, 39, 0.15);
+  }
+
+  .sort-bar {
+    display: flex;
+    align-items: center;
+    gap: var(--space-s);
+    flex-wrap: wrap;
+  }
+
+  .sort-label {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-text-muted);
+  }
+
+  .sort-btn {
+    padding: var(--space-xs) var(--space-m);
+    border-radius: var(--radius-full);
+    border: 2px solid var(--color-primary);
+    color: var(--color-primary);
+    font-size: var(--text-small);
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    font-family: var(--font-body);
+    transition: background-color 0.2s, color 0.2s;
+  }
+
+  .sort-btn:hover,
+  .sort-btn.active {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+  }
+
+  .plant-card-wrapper {
+    display: contents;
+  }
+
+  .plants-page {
+    padding: var(--space-xl) var(--space-l);
+  }
+
+  .controls-card {
+    background: rgba(248, 249, 245, 0.94);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-radius: var(--radius-l);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    padding: var(--space-l);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18);
+    margin-bottom: var(--space-xl);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+  }
+
+  .controls-row {
+    display: flex;
+    align-items: center;
+    gap: var(--space-l);
+    flex-wrap: wrap;
+  }
+
+  .controls-row .sort-bar {
+    flex: 1;
+  }
+
+  .controls-row .filter-bar {
+    flex-shrink: 0;
+  }
+
+  .filter-bar {
+    display: flex;
+    align-items: center;
+    gap: var(--space-s);
+    flex-wrap: wrap;
+  }
+
+  .filter-btn {
+    padding: var(--space-xs) var(--space-m);
+    border-radius: var(--radius-full);
+    border: 2px solid var(--color-primary);
+    color: var(--color-primary);
+    font-size: var(--text-small);
+    font-weight: 600;
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s;
+    background: transparent;
+  }
+
+  .filter-btn:hover,
+  .filter-btn.active {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    text-decoration: none;
+  }
+
+  .plants-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-l);
+  }
+
+  @media (max-width: 900px) {
+    .plants-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 600px) {
+    .plants-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

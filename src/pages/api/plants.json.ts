@@ -11,7 +11,7 @@ export const GET: APIRoute = async () => {
     })
     .map((plant) => ({
       slug: plant.id,
-      url: `/plants/${plant.id}/`,
+      url: `/crops/${plant.id}/`,
       name: plant.data.name,
       scientific_name: plant.data.scientific_name,
       category: plant.data.category,

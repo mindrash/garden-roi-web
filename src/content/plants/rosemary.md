@@ -2,50 +2,62 @@
 name: Rosemary
 scientific_name: Salvia rosmarinus
 category: Herb
-days_min: 80
-days_max: 100
+days_min: 90
+days_max: 180
 avg_yield_lb: 0.5
-avg_price_lb: 15.99
+avg_price_lb: 12.00
+seed_cost: 3.49
 is_common: true
-watering: Low, drought-tolerant once established
-sunlight: Full sun (6–8 hours)
-companion_plants: [Sage, Lavender, Beans, Cabbage]
+watering: Light; very drought-tolerant once established, 0.5 inch/week maximum
+sunlight: Full sun (6-8 hours minimum)
+companion_plants: [Sage, Thyme]
+description: "Rosemary (Salvia rosmarinus) - perennial shrub in zones 7+, $10-15/lb. Germination from seed is slow; cuttings root in 3-4 weeks. One plant lasts a decade."
 ---
 
-Rosemary is the ultimate long-term investment herb. Once established, a rosemary plant can live 10–20 years, producing year-round harvests in mild climates with essentially zero effort. A $4 transplant that grows for a decade represents thousands of dollars in herb value.
+Rosemary (*Salvia rosmarinus*, recently reclassified from *Rosmarinus officinalis* by Paton et al., *Kew Bulletin*, 2019) is a woody Mediterranean shrub that, in the right climate, you plant once and harvest for the next ten years. The $3.49 seed packet is not where you want to start. Germination from seed is slow, uneven, and often disappointing - expect 30-50% germination rates and seedlings that take months to reach usable size. Buy a small transplant or take cuttings from an established plant. Either way, your real cost to start a productive rosemary plant is $2-5, and the payoff starts in the first season.
 
-## Growing Tips
+## What it actually is
 
-Rosemary thrives on neglect once established — but the establishment period (first season) requires some attention. Start with a transplant rather than seeds, which are slow to germinate.
+Rosemary is a member of the mint family (Lamiaceae) and grows as an evergreen perennial in USDA zones 7-10. In zones 4-6, it functions as a tender perennial that needs either winter protection or annual replacement. The plant forms a woody shrub 2-6 feet tall and wide over several years. New growth each spring extends the tips of existing woody branches - this is what you harvest.
 
-### Soil & Drainage
-Well-draining soil is non-negotiable. Rosemary's #1 killer is root rot from standing water. Amend clay soil with gravel or coarse sand. Raised beds and containers are ideal. Sandy, poor soil often produces more aromatic rosemary than rich, fertile soil.
+Cultivar selection matters for cold-hardiness. 'Arp' and 'Salem' are consistently cited as the hardiest cultivars, surviving zone 6b winters with protection (North Carolina State Extension, *Herb Production*, AG-388). Standard 'Tuscan Blue' and 'Blue Spire' are zone 7 plants - they will die below about 10°F. Creeping varieties like 'Prostratus' are useful as ground cover but produce less harvestable stem material.
 
-### First-Year Watering
-Water newly planted rosemary weekly for the first season while it establishes. After that, established plants need only occasional deep watering — they're adapted to Mediterranean dry summers.
+## The ROI case
 
-### Overwintering
-In USDA zones 7 and above, rosemary is perennial and evergreen. In zones 5–6, mulch heavily and provide wind protection. In zones 4 and colder, grow in containers and bring indoors to a bright, cool (40–50°F) location in winter.
+Fresh-cut rosemary averages $10-15/lb at retail markets according to USDA AMS Specialty Crop Market News terminal price reports (2023). A grocery store clamshell of rosemary containing roughly 0.5 oz costs $2.00-3.00 - that's $64-96/lb equivalent. The math on growing your own is stark.
 
-## Pruning
-Prune in spring after any threat of frost, removing up to one-third of the plant. This keeps the plant compact and productive. Don't cut into bare woody stems — rosemary doesn't regenerate well from old wood.
+A single established plant produces 0.25-0.75 lb of harvestable stem tips per season under typical conditions. Your $3.49 seed cost (or $3-5 transplant cost) pays back in year one if you harvest even half a pound at retail replacement value. In zone 7+, that plant keeps producing with essentially zero additional input for a decade or more. The woody structure gets larger each year, which means more growing tips and increasing yield. By year three, expect 0.5-1.0 lb per plant.
 
-## Harvest
-Clip stem tips 2–3 inches from the end throughout the growing season. Young, tender stem tips have the most concentrated flavor. Harvest up to one-third of the plant at any one time.
+In colder zones, the annual replacement cost of $3-5 for a new transplant each spring still returns well against retail pricing - you're just not getting the compounding benefit of a maturing perennial.
 
-## Varieties
-- **Tuscan Blue** — Tall, upright, excellent culinary flavor; classic choice
-- **Prostrate/Trailing** — Low-growing, cascades over walls; less culinary use
-- **Arp** — Most cold-hardy; can survive zone 5–6 winters
-- **Barbecue Rosemary** — Long straight stems, perfect for skewers
+## Growing requirements
 
-## Uses Beyond Cooking
-Rosemary makes an excellent ornamental hedge, deters deer and many insects, attracts pollinators when flowering, and the woody stems work as aromatic BBQ skewers.
+Rosemary needs well-drained, slightly alkaline to neutral soil (pH 6.0-7.5) and full sun. Waterlogged roots are the main killer. If your soil holds moisture, plant in a raised bed or amend with coarse sand or gravel at a 30-40% ratio before planting. Do not plant in low spots where water collects after rain.
 
-## ROI at a Glance
-| Metric | Value |
-|--------|-------|
-| Initial cost | $4–$6/transplant |
-| Years productive | 10–20+ |
-| Annual yield | ~2–4 oz dried |
-| Grocery equivalent | $30–$60/year |
+Soil temperature above 60°F before outdoor planting. In containers (useful for overwintering in zones 4-6), use a fast-draining commercial potting mix and a terra cotta pot - the porosity allows excess moisture to escape through the walls.
+
+Once established (typically 6-8 weeks after transplanting), rosemary tolerates serious drought. In hot, dry summers it needs 0.5 inch of water per week maximum - more causes root rot faster than drought does. In the Mediterranean climates it originates from, it survives months without rain. The survival instinct is hardwired.
+
+Fertilize lightly or not at all. Heavy nitrogen produces lush foliage with diluted essential oil concentration and inferior flavor. A light top-dress of balanced granular fertilizer (10-10-10) in early spring is plenty. Skip it in subsequent years unless the plant shows clear deficiency.
+
+## What goes wrong
+
+**Root rot** (*Phytophthora* spp., *Pythium* spp.) from overwatering or poor drainage is the primary cause of rosemary death. The symptoms show up in foliage first - browning from the inside of the plant outward, mushy stems at soil level. At that point recovery is unlikely. Fix the drainage problem before replanting.
+
+**Powdery mildew** (*Erysiphe* sp.) develops in humid conditions with poor airflow. The white powdery coating on leaves reduces photosynthesis and plant vigor. Space plants 2-3 feet apart, avoid overhead irrigation, and remove affected growth. Sulfur-based fungicides applied at first sign of infection are effective; they don't reverse existing colonies.
+
+**Spittlebugs** (*Philaenus spumarius* and related species) produce the foamy masses visible on stems in spring. The insects themselves are less damaging than they look; blast them off with water or apply insecticidal soap directly to the foam. Harvest affected tips promptly.
+
+**Root knot nematodes** (*Meloidogyne* spp.) are a problem in warm-climate sandy soils. If you see poor growth and knotted root structures, soil solarization before replanting and resistant cover crop rotations (French marigold, *Tagetes patula*) help reduce populations.
+
+## Harvest and storage
+
+Harvest new growth from the tips of branches - the soft green growth at the ends, not the woody interior. Take no more than one-third of the plant at any harvest to maintain vigor. Spring through midsummer is peak harvest season when new growth is actively extending. You can harvest through fall in mild climates; stop about 6 weeks before your first frost date in cold zones to let the plant harden off.
+
+Fresh rosemary keeps 1-2 weeks refrigerated in a slightly damp paper towel inside a plastic bag. For drying, bundle 6-8 stems and hang upside down in a warm, dry, ventilated space for 10-14 days. Dried rosemary retains good flavor for 6-12 months in an airtight container. Stripping dried needles from stems and storing in a sealed jar is the most efficient approach for kitchen use.
+
+---
+
+**Related crops:** [Sage](/crops/sage/), [Thyme](/crops/thyme/)
+
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common herb pairings

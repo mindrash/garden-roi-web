@@ -3,21 +3,56 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import AppStoreBadges from '../components/AppStoreBadges.astro';
 import PlantCard from '../components/PlantCard.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import RoiCalculator from '../components/RoiCalculator.astro';
+import GardenFact from '../components/GardenFact.astro';
 import { getCollection } from 'astro:content';
 
 const allPlants = await getCollection('plants');
 const allArticles = await getCollection('articles');
 
-// Show common plants on homepage
+// Highest-ROI crop for section anchor
+const topCrop = allPlants
+  .sort((a, b) => {
+    const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.seed_cost;
+    const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.seed_cost;
+    return roiB - roiA;
+  })[0];
+
+// Featured ROI article
+const roiArticle = allArticles
+  .filter((a) => a.data.category === 'roi')
+  .sort((a, b) => (b.data.featured ? 1 : 0) - (a.data.featured ? 1 : 0))[0];
+
+// Featured homestead article
+const homesteadArticle = allArticles
+  .filter((a) => a.data.category === 'homestead')
+  .sort((a, b) => (b.data.featured ? 1 : 0) - (a.data.featured ? 1 : 0))[0];
+
+// Show common plants  -  ROI sorted
 const featuredPlants = allPlants
   .filter((p) => p.data.is_common)
+  .sort((a, b) => {
+    const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.seed_cost;
+    const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.seed_cost;
+    return roiB - roiA;
+  })
   .slice(0, 3);
 
-// Show featured articles
+// Featured articles  -  with proper section routing
 const featuredArticles = allArticles
   .filter((a) => a.data.featured)
   .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
   .slice(0, 3);
+
+function sectionPathFor(category: string): string {
+  if (category === 'roi') return '/roi';
+  if (category === 'homestead') return '/homestead';
+  return '/guides';
+}
+
+const topCropRoi = topCrop
+  ? ((topCrop.data.avg_yield_lb * topCrop.data.avg_price_lb) / topCrop.data.seed_cost).toFixed(0)
+  : '0';
 ---
 
 <BaseLayout
@@ -26,65 +61,99 @@ const featuredArticles = allArticles
 >
   <!-- Hero -->
   <section class="hero">
-    <div class="hero-bg"></div>
+    <div class="hero-bg">
+      <div class="hero-overlay"></div>
+    </div>
     <div class="container hero-content">
       <div class="hero-text">
-        <h1>Grow More.<br />Spend Less.</h1>
+        <h1>{topCrop ? `${topCrop.data.name} returns ${topCropRoi}× seed cost.` : 'Your garden should pay you back.'}<br />Here's how to make that happen.</h1>
         <p class="hero-subtitle">
-          Plant care guides, homestead advice, and ROI tips to help your garden pay for itself — season after season.
+          Crop ROI breakdowns, homestead skills, and financial guides to help your garden pay for itself  -  season after season.
         </p>
         <div class="hero-actions">
-          <a href="/plants/" class="btn btn-primary">Browse Plants</a>
-          <a href="/tips/" class="btn btn-outline-light">Read Guides</a>
+          <a href="/crops/" class="btn btn-primary">Browse Crops</a>
+          <a href="/start-here/" class="btn btn-outline-light">New? Start Here</a>
         </div>
       </div>
       <div class="hero-app">
         <div class="app-card">
-          <img src="/logo.png" alt="Garden ROI App" width="80" height="80" class="app-icon" />
-          <h3>Track Your Garden's ROI</h3>
-          <p>Log harvests, track expenses, and see exactly when your garden breaks even — right in the app.</p>
+          <div class="app-card-header">
+            <img src="/logo.png" alt="Garden ROI App" width="64" height="64" loading="eager" class="app-icon" />
+            <h3>Track Your Garden's Return on Investment</h3>
+          </div>
+          <p>Log harvests, track expenses, and see exactly when your garden breaks even  -  right in the app.</p>
           <AppStoreBadges />
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Features strip -->
-  <section class="features">
-    <div class="container features-grid">
-      <div class="feature">
-        <span class="feature-icon">🌱</span>
-        <h3>Plant Encyclopedia</h3>
-        <p>Care guides for every common vegetable, herb, and fruit with ROI breakdowns.</p>
+  <!-- Section anchors -->
+  <section class="section-anchors">
+    <div class="container anchors-grid">
+      <!-- Crops anchor -->
+      <div class="anchor-card">
+        <div class="anchor-label">Crops</div>
+        {topCrop && (
+          <a href={`/crops/${topCrop.id}/`} class="anchor-title">{topCrop.data.name}</a>
+        )}
+        {topCrop && (
+          <p class="anchor-desc">
+            Yields ~{topCrop.data.avg_yield_lb} lb at ${topCrop.data.avg_price_lb}/lb grocery value. Full ROI breakdown and growing guide.
+          </p>
+        )}
+        <a href="/crops/" class="anchor-link">All crops →</a>
       </div>
-      <div class="feature">
-        <span class="feature-icon">💰</span>
-        <h3>ROI & Budgeting</h3>
-        <p>Know exactly which crops pay off and how to maximize your garden's return.</p>
+
+      <!-- ROI anchor -->
+      <div class="anchor-card anchor-card-roi">
+        <div class="anchor-label">ROI</div>
+        {roiArticle && (
+          <a href={`/roi/${roiArticle.id}/`} class="anchor-title">{roiArticle.data.title}</a>
+        )}
+        {roiArticle && (
+          <p class="anchor-desc">{roiArticle.data.description}</p>
+        )}
+        <a href="/roi/" class="anchor-link">All ROI articles →</a>
       </div>
-      <div class="feature">
-        <span class="feature-icon">🏡</span>
-        <h3>Homestead Tips</h3>
-        <p>From seed saving to preservation — the practical skills that build food independence.</p>
+
+      <!-- Homestead anchor -->
+      <div class="anchor-card anchor-card-homestead">
+        <div class="anchor-label">Homestead</div>
+        {homesteadArticle && (
+          <a href={`/homestead/${homesteadArticle.id}/`} class="anchor-title">{homesteadArticle.data.title}</a>
+        )}
+        {homesteadArticle && (
+          <p class="anchor-desc">{homesteadArticle.data.description}</p>
+        )}
+        <a href="/homestead/" class="anchor-link">All homestead articles →</a>
       </div>
-      <div class="feature">
-        <span class="feature-icon">📱</span>
-        <h3>Mobile App</h3>
-        <p>Track harvests and expenses on iOS and Android. See your break-even date update in real time.</p>
+    </div>
+  </section>
+
+  <!-- ROI Calculator -->
+  <section class="section section-card">
+    <div class="container">
+      <div class="glass-card">
+        <div class="section-header section-header-tight">
+          <h2 class="section-title">Garden Return on Investment Calculator</h2>
+        </div>
+        <RoiCalculator />
       </div>
     </div>
   </section>
 
   <!-- Featured Plants -->
-  <section class="section">
+  <section class="section section-card">
     <div class="container">
-      <div class="section-header">
-        <h2 class="section-title">Plant Encyclopedia</h2>
-        <a href="/plants/" class="section-link">View all plants →</a>
-      </div>
-      <div class="card-grid">
-        {featuredPlants.map((plant) => (
-          <PlantCard
+      <div class="glass-card">
+        <div class="section-header section-header-tight">
+          <h2 class="section-title">Plant Encyclopedia</h2>
+          <a href="/crops/" class="section-link">View all crops →</a>
+        </div>
+        <div class="card-grid">
+          {featuredPlants.map((plant) => (
+            <PlantCard
             slug={plant.id}
             name={plant.data.name}
             scientific_name={plant.data.scientific_name}
@@ -97,7 +166,15 @@ const featuredArticles = allArticles
             sunlight={plant.data.sunlight}
           />
         ))}
+        </div>
       </div>
+    </div>
+  </section>
+
+  <!-- Garden Fact -->
+  <section class="section-fact">
+    <div class="container">
+      <GardenFact />
     </div>
   </section>
 
@@ -105,8 +182,8 @@ const featuredArticles = allArticles
   <section class="section section-alt">
     <div class="container">
       <div class="section-header">
-        <h2 class="section-title">Tips & Guides</h2>
-        <a href="/tips/" class="section-link">View all guides →</a>
+        <h2 class="section-title">Latest Articles</h2>
+        <a href="/guides/" class="section-link">View all guides →</a>
       </div>
       <div class="card-grid">
         {featuredArticles.map((article) => (
@@ -117,6 +194,7 @@ const featuredArticles = allArticles
             category={article.data.category}
             publishDate={article.data.publishDate}
             featured={article.data.featured}
+            sectionPath={sectionPathFor(article.data.category)}
           />
         ))}
       </div>
@@ -127,12 +205,15 @@ const featuredArticles = allArticles
   <section class="app-cta" id="download">
     <div class="container app-cta-inner">
       <div class="app-cta-text">
-        <h2>Track Your Garden's ROI</h2>
+        <h2>Track Your Garden's Return on Investment</h2>
         <p>Log every harvest, every expense. Know your break-even date. See which plants are your biggest earners. Available free on iOS and Android.</p>
-        <AppStoreBadges />
+        <div class="app-cta-actions">
+          <AppStoreBadges />
+          <a href="/app/" class="btn app-learn-more">Learn more →</a>
+        </div>
       </div>
       <div class="app-cta-visual">
-        <img src="/logo.png" alt="Garden ROI" width="200" height="200" />
+        <img src="/logo.png" alt="Garden ROI app icon" width="200" height="200" loading="lazy" />
       </div>
     </div>
   </section>
@@ -150,13 +231,16 @@ const featuredArticles = allArticles
   .hero-bg {
     position: absolute;
     inset: 0;
+  }
+
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
     background: linear-gradient(
-      160deg,
-      var(--color-gradient-sky) 0%,
-      var(--color-gradient-grass) 55%,
-      var(--color-gradient-dirt) 100%
+      to bottom,
+      rgba(0, 0, 0, 0.25) 0%,
+      rgba(45, 90, 39, 0.55) 100%
     );
-    opacity: 0.9;
   }
 
   .hero-content {
@@ -174,8 +258,10 @@ const featuredArticles = allArticles
     font-family: var(--font-display);
     font-size: clamp(40px, 6vw, 64px);
     line-height: 1.1;
-    color: var(--color-white);
-    text-shadow: 0 2px 12px rgba(0,0,0,0.25);
+    color: var(--color-tab-active);
+    -webkit-text-stroke: 2px var(--color-tab-bar);
+    paint-order: stroke fill;
+    text-shadow: 0 3px 16px rgba(0,0,0,0.4);
     margin-bottom: var(--space-m);
   }
 
@@ -194,29 +280,6 @@ const featuredArticles = allArticles
     flex-wrap: wrap;
   }
 
-  .btn-outline-light {
-    background-color: transparent;
-    color: var(--color-white);
-    border: 2px solid rgba(255,255,255,0.7);
-    padding: var(--space-s) var(--space-l);
-    border-radius: var(--radius-full);
-    font-family: var(--font-body);
-    font-size: var(--text-body);
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    transition: background-color 0.2s, transform 0.1s;
-  }
-
-  .btn-outline-light:hover {
-    background-color: rgba(255,255,255,0.15);
-    color: var(--color-white);
-    text-decoration: none;
-    transform: translateY(-1px);
-  }
-
   .app-card {
     background: rgba(255, 255, 255, 0.92);
     backdrop-filter: blur(10px);
@@ -229,8 +292,15 @@ const featuredArticles = allArticles
     align-items: flex-start;
   }
 
+  .app-card-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-m);
+  }
+
   .app-icon {
     border-radius: var(--radius-m);
+    flex-shrink: 0;
   }
 
   .app-card h3 {
@@ -247,38 +317,93 @@ const featuredArticles = allArticles
   }
 
   .features {
-    background-color: var(--color-primary);
-    padding: var(--space-xl) 0;
+    display: none; /* removed  -  replaced by section-anchors */
   }
 
-  .features-grid {
+  /* Section anchors */
+  .section-anchors {
+    background-color: var(--color-white);
+    padding: var(--space-xxl) 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  }
+
+  .anchors-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: var(--space-l);
   }
 
-  .feature {
+  .anchor-card {
+    background-color: var(--color-bg);
+    border-radius: var(--radius-m);
+    padding: var(--space-l);
     display: flex;
     flex-direction: column;
     gap: var(--space-s);
+    border-left: 4px solid var(--color-primary);
   }
 
-  .feature-icon {
-    font-size: 28px;
+  .anchor-card-roi {
+    border-left-color: var(--color-tab-active);
   }
 
-  .feature h3 {
-    font-size: var(--text-body);
-    font-weight: 700;
-    color: var(--color-white);
-    margin: 0;
+  .anchor-card-homestead {
+    border-left-color: var(--color-secondary);
   }
 
-  .feature p {
+  .anchor-label {
     font-size: var(--text-small);
-    color: rgba(255,255,255,0.75);
-    line-height: var(--leading-body);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--color-text-muted);
+  }
+
+  .anchor-title {
+    font-size: var(--text-h3);
+    font-weight: 700;
+    color: var(--color-primary);
+    text-decoration: none;
+    line-height: 1.3;
+  }
+
+  .anchor-title:hover {
+    color: var(--color-primary-light);
+    text-decoration: underline;
+  }
+
+  .anchor-desc {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    line-height: 1.5;
     margin: 0;
+    flex: 1;
+  }
+
+  .anchor-link {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-top: var(--space-s);
+  }
+
+  .app-cta-actions {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+    align-items: flex-start;
+  }
+
+  .app-learn-more {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.75);
+    text-decoration: none;
+  }
+
+  .app-learn-more:hover {
+    color: var(--color-white);
+    text-decoration: none;
   }
 
   .section {
@@ -287,6 +412,28 @@ const featuredArticles = allArticles
 
   .section-alt {
     background-color: var(--color-white);
+  }
+
+  .glass-card {
+    background: rgba(248, 249, 245, 0.94);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-radius: var(--radius-l);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    padding: var(--space-xl);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18);
+  }
+
+  .section-card {
+    padding: var(--space-l) 0;
+  }
+
+  .section-header-tight {
+    margin-bottom: var(--space-m);
+  }
+
+  .section-fact {
+    padding: var(--space-l) 0;
   }
 
   .section-header {
@@ -309,11 +456,21 @@ const featuredArticles = allArticles
   }
 
   .app-cta {
-    background: linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 100%);
+    position: relative;
+    overflow: hidden;
     padding: var(--space-xxl) 0;
   }
 
+  .app-cta::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(27, 61, 23, 0.82) 0%, rgba(45, 90, 39, 0.78) 100%);
+  }
+
   .app-cta-inner {
+    position: relative;
+    z-index: 1;
     display: grid;
     grid-template-columns: 1fr auto;
     gap: var(--space-xxl);

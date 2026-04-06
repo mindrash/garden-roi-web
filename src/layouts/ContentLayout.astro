@@ -6,12 +6,36 @@ interface Props {
   description?: string;
   ogImage?: string;
   breadcrumbs?: { label: string; href: string }[];
+  pageJsonLd?: Record<string, unknown>;
 }
 
-const { title, description, ogImage, breadcrumbs } = Astro.props;
+const { title, description, ogImage, breadcrumbs, pageJsonLd } = Astro.props;
+
+const breadcrumbJsonLd = breadcrumbs && breadcrumbs.length > 0
+  ? {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": String(Astro.site) },
+        ...breadcrumbs.map((crumb, i) => ({
+          "@type": "ListItem",
+          "position": i + 2,
+          "name": crumb.label,
+          "item": new URL(crumb.href, Astro.site).toString(),
+        })),
+        { "@type": "ListItem", "position": breadcrumbs.length + 2, "name": title },
+      ],
+    }
+  : null;
 ---
 
 <BaseLayout title={title} description={description} ogImage={ogImage}>
+  {breadcrumbJsonLd && (
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
+  )}
+  {pageJsonLd && (
+    <script type="application/ld+json" set:html={JSON.stringify(pageJsonLd)} />
+  )}
   <div class="content-layout">
     {breadcrumbs && breadcrumbs.length > 0 && (
       <nav class="breadcrumbs" aria-label="Breadcrumb">
@@ -27,7 +51,7 @@ const { title, description, ogImage, breadcrumbs } = Astro.props;
       </nav>
     )}
     <div class="content-body">
-      <div class="content-container">
+      <div class="content-panel">
         <slot />
       </div>
     </div>
@@ -36,7 +60,7 @@ const { title, description, ogImage, breadcrumbs } = Astro.props;
 
 <style>
   .breadcrumbs {
-    background-color: var(--color-white);
+    background-color: rgba(255, 255, 255, 0.80);
     border-bottom: 1px solid rgba(0,0,0,0.08);
     padding: var(--space-s) 0;
   }
@@ -68,6 +92,13 @@ const { title, description, ogImage, breadcrumbs } = Astro.props;
   }
 
   .content-body {
-    padding: var(--space-xl) 0 var(--space-xxl);
+    padding: 0;
+  }
+
+  .content-panel {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    background-color: rgba(248, 249, 245, 0.88);
+    padding: var(--space-xl) var(--space-l) var(--space-xxl);
   }
 </style>

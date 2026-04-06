@@ -11,10 +11,13 @@ const plants = defineCollection({
     days_max: z.number().int().positive(),
     avg_yield_lb: z.number().positive(),
     avg_price_lb: z.number().positive(),
+    seed_cost: z.number().positive(),
     is_common: z.boolean().default(true),
     watering: z.string(),
     sunlight: z.string(),
     companion_plants: z.array(z.string()).default([]),
+    hero_image: z.string().optional(),
+    description: z.string().optional(),
   }),
 });
 
@@ -26,6 +29,7 @@ const articles = defineCollection({
     category: z.enum(['homestead', 'roi', 'care', 'planning']),
     publishDate: z.coerce.date(),
     featured: z.boolean().default(false),
+    hero_image: z.string().optional(),
   }),
 });
 

@@ -1,0 +1,475 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Start Here: How to Use Garden ROI"
+  description="New to Garden ROI? Here's what this site is for, the 3 numbers that drive every harvest decision, and the 5 best crops to start with if you want real returns."
+>
+  <div class="page-header">
+    <div class="container">
+      <h1>Start Here</h1>
+      <p>What this site is, why ROI matters, and where to go first.</p>
+    </div>
+  </div>
+
+  <div class="start-here-body">
+
+    <!-- Who this is for -->
+    <section class="sh-section">
+      <h2>The Problem With Most Garden Advice</h2>
+      <p>
+        Most gardening content treats every crop as equally worth growing. Plant tomatoes.
+        Plant squash. Plant whatever looks good in the seed catalog. Then you spend a summer
+        tending a crop that saves you $8 at the grocery store.
+      </p>
+      <p>
+        The math on home gardening is wildly uneven. A single well-managed basil plant returns
+        $15–$30 in grocery value from a $0.25 seed investment. A zucchini plant returns maybe
+        $4 in grocery value from the same investment - and you'll spend more time managing the
+        glut than you saved at the store. Growing your own food makes sense. Growing the right
+        food makes it make <em>financial</em> sense.
+      </p>
+      <p>
+        This site gives you the yield data, retail price comparisons, and break-even math for
+        every crop we cover - sourced from USDA data and land-grant university extension
+        publications, not gardening folklore. The <a href="/app/">Garden ROI app</a> is where
+        you log your actual harvests and see whether your garden is hitting those numbers.
+      </p>
+    </section>
+
+    <!-- The 3 variables -->
+    <section class="sh-section">
+      <h2>How to Evaluate Any Crop in 3 Numbers</h2>
+      <p>Every crop ROI calculation comes down to three variables. Here's what they mean and how to use them together.</p>
+      <div class="three-vars">
+        <div class="var-card">
+          <span class="var-number">1</span>
+          <h3>Price per pound</h3>
+          <p>
+            What does it retail for at a grocery store? This is your value ceiling per pound
+            harvested. Basil runs $12–$18/lb. Slicing tomatoes average $1.78/lb (USDA ERS, 2023).
+            Zucchini: $0.80–$1.20/lb. Price per pound is the first filter - before you do any
+            other math, high-priced crops have more upside.
+          </p>
+        </div>
+        <div class="var-card">
+          <span class="var-number">2</span>
+          <h3>Yield per plant</h3>
+          <p>
+            How many pounds does one plant actually produce? A determinate tomato delivers
+            10–15 lb per plant. An indeterminate can push 20–35 lb in a long season. A basil
+            plant yields 0.5–1.0 lb total. Yield is where high-priced crops sometimes lose
+            ground - basil at $15/lb but only 0.5 lb per plant is $7.50; a tomato at $1.78/lb
+            but 15 lb per plant is $26.70.
+          </p>
+        </div>
+        <div class="var-card">
+          <span class="var-number">3</span>
+          <h3>Input cost</h3>
+          <p>
+            Seed or transplant cost is the main variable input. A $3.50 tomato seed packet
+            starts 6–8 plants at roughly $0.25 each. At 15 lb per plant and $1.78/lb, your
+            seed ROI is 107:1. That's before you account for soil, water, or infrastructure -
+            but for an established bed, seed cost is the primary recurring expense.
+          </p>
+        </div>
+      </div>
+      <div class="worked-example">
+        <h3>A worked example: Basil vs. Green Bean</h3>
+        <div class="example-table">
+          <div class="example-row example-header">
+            <span></span>
+            <span>Price/lb</span>
+            <span>Yield/plant</span>
+            <span>Seed cost/plant</span>
+            <span>Gross value</span>
+            <span>Seed ROI</span>
+          </div>
+          <div class="example-row">
+            <span><a href="/crops/basil/">Sweet Basil</a></span>
+            <span>$15.00</span>
+            <span>0.5–1.0 lb</span>
+            <span>~$0.10</span>
+            <span>$7.50–$15</span>
+            <span>75–150×</span>
+          </div>
+          <div class="example-row">
+            <span><a href="/crops/green-bean/">Green Bean</a></span>
+            <span>$2.26</span>
+            <span>3–5 lb</span>
+            <span>~$0.10</span>
+            <span>$6.75–$11.25</span>
+            <span>68–113×</span>
+          </div>
+        </div>
+        <p class="example-note">
+          Both pencil out similarly on seed ROI. The real differences: basil requires
+          active pinching every week or two; green beans need almost no management after
+          germination. Basil stops producing in cold weather; green beans stop producing
+          when pods go unharvested. The right choice depends on how you cook and how much
+          time you have, not just the numbers.
+        </p>
+      </div>
+    </section>
+
+    <!-- Best beginner crops -->
+    <section class="sh-section">
+      <h2>Where to Start: High-Return Crops for New Gardens</h2>
+      <p>
+        These crops rank well on seed ROI, tolerate beginner mistakes, and produce enough
+        that you'll notice the grocery savings. Each link goes to a full growing guide with
+        sourced yield data and honest growing requirements.
+      </p>
+      <div class="crop-grid">
+        <a href="/crops/basil/" class="crop-entry">
+          <span class="crop-name">Sweet Basil</span>
+          <span class="crop-stat">$15/lb &middot; 0.5–1 lb/plant &middot; 50–75 days</span>
+          <span class="crop-note">Highest price-per-pound of any common herb. Continuous harvest if you keep it pinched. One $3 packet plants a full season.</span>
+        </a>
+        <a href="/crops/garlic/" class="crop-entry">
+          <span class="crop-name">Garlic</span>
+          <span class="crop-stat">$5–$12/lb &middot; 6–8 lb per lb planted &middot; Fall-planted</span>
+          <span class="crop-note">Planted in October, harvested in July. Occupies beds through winter when nothing else is growing. Save the largest heads and your seed cost in year two is zero.</span>
+        </a>
+        <a href="/crops/arugula/" class="crop-entry">
+          <span class="crop-name">Arugula</span>
+          <span class="crop-stat">$6–$10/lb &middot; ready in 28–45 days &middot; cool season</span>
+          <span class="crop-note">Fastest-payback crop in the garden. A scatter-sown row produces harvestable greens in a month. Succession plant every 3 weeks for continuous supply spring and fall.</span>
+        </a>
+        <a href="/crops/tomato/" class="crop-entry">
+          <span class="crop-name">Tomato</span>
+          <span class="crop-stat">$1.78/lb &middot; 10–35 lb/plant &middot; 60–85 days</span>
+          <span class="crop-note">Lower price per pound than herbs, but the yield volume makes up for it. An indeterminate in a long season returns $35–$60 per plant. Also teaches more growing skills than any other crop.</span>
+        </a>
+        <a href="/crops/cherry-tomato/" class="crop-entry">
+          <span class="crop-name">Cherry Tomato</span>
+          <span class="crop-stat">$3.50/lb &middot; 12–20 lb/plant &middot; 60–70 days</span>
+          <span class="crop-note">Twice the price per pound of slicing tomatoes and faster to maturity. A Sungold or Sweet 100 plant in full sun matures earlier and runs longer than most standard tomatoes. Best beginner introduction to the tomato category.</span>
+        </a>
+        <a href="/crops/lettuce/" class="crop-entry">
+          <span class="crop-name">Lettuce</span>
+          <span class="crop-stat">$3.50/lb &middot; cut-and-come-again &middot; 45–65 days</span>
+          <span class="crop-note">Bagged salad greens at retail run $12–$20/lb. Looseleaf varieties cut and regrow 3–5 times before needing replacement. One of the clearest value propositions in a small garden.</span>
+        </a>
+        <a href="/crops/kale/" class="crop-entry">
+          <span class="crop-name">Kale</span>
+          <span class="crop-stat">$3.50/lb &middot; 2 lb/plant &middot; Zone 3–9, frost-hardy</span>
+          <span class="crop-note">Produces in spring and survives into November in most zones - and gets sweeter after frost. The longest productive season of any leafy green. One planting covers both shoulder seasons.</span>
+        </a>
+      </div>
+      <p class="list-note">
+        <a href="/crops/">See all crops with full ROI data →</a>
+      </p>
+    </section>
+
+    <!-- 5 articles to read first -->
+    <section class="sh-section">
+      <h2>Read These First</h2>
+      <p>Four articles that answer the most common questions before you make expensive planting mistakes.</p>
+      <div class="article-card-list">
+        <a href="/roi/raised-bed-break-even/" class="article-entry">
+          <span class="article-title">How to Break Even on a Raised Bed in One Season</span>
+          <span class="article-desc">A standard 4×8 cedar raised bed costs $185–$360 to build and fill. This article shows exactly which crops to plant to recover that investment by fall - with the actual math, not estimates.</span>
+        </a>
+        <a href="/homestead/beginner-homestead-crops/" class="article-entry">
+          <span class="article-title">First 5 Crops for New Homesteaders</span>
+          <span class="article-desc">Not ranked by ROI but by which crops teach the most foundational skills. If you want to grow a significant share of your own food eventually, these are the five that build the right foundation.</span>
+        </a>
+        <a href="/guides/spring-garden-planning/" class="article-entry">
+          <span class="article-title">Spring Garden Planning: Design Your Best Season</span>
+          <span class="article-desc">How to plan backward from your goals - not forward from a seed catalog. Includes a planting calendar tied to USDA frost dates, not generic advice.</span>
+        </a>
+        <a href="/guides/companion-planting-basics/" class="article-entry">
+          <span class="article-title">Companion Planting: Which Plants Help Each Other</span>
+          <span class="article-desc">Separates the science-backed pairings (marigolds and tomatoes, the Three Sisters) from the folklore. If you're going to try it, know what actually has evidence behind it.</span>
+        </a>
+      </div>
+      <div class="article-links">
+        <a href="/roi/">All ROI Articles →</a>
+        <a href="/homestead/">All Homestead Articles →</a>
+        <a href="/guides/">All Guides →</a>
+      </div>
+    </section>
+
+    <!-- App CTA -->
+    <section class="sh-section app-cta">
+      <h2>The Site Tells You What to Grow. The App Tells You If It's Working.</h2>
+      <p>
+        Every crop page on this site gives you USDA-sourced yield expectations and retail
+        price baselines. Those are population averages. Your garden has different soil,
+        different weather, and different management than the extension trial plots those
+        numbers came from.
+      </p>
+      <p>
+        The Garden ROI app is where you log what your garden actually produces - harvest
+        weight, date, crop - and see your real break-even date against what you've spent.
+        After one season of data, you'll know which crops actually perform in your specific
+        conditions. After two seasons, you'll know which ones to cut.
+      </p>
+      <a href="/app/" class="btn btn-primary">Get the Garden ROI App</a>
+    </section>
+
+  </div>
+</BaseLayout>
+
+<style>
+  .start-here-body {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    background-color: rgba(248, 249, 245, 0.88);
+    padding: var(--space-xl) var(--space-l) var(--space-xxl);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xxl);
+  }
+
+  .sh-section h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-h1);
+    color: var(--color-primary);
+    margin-bottom: var(--space-l);
+  }
+
+  .sh-section p {
+    margin-bottom: var(--space-m);
+  }
+
+  .three-vars {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-l);
+    margin-top: var(--space-l);
+  }
+
+  .var-card {
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    padding: var(--space-l);
+    border: 1px solid rgba(0,0,0,0.06);
+    position: relative;
+  }
+
+  .var-number {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    border-radius: var(--radius-full);
+    font-weight: 700;
+    font-size: var(--text-small);
+    margin-bottom: var(--space-m);
+  }
+
+  .var-card h3 {
+    font-size: var(--text-h3);
+    color: var(--color-text-primary);
+    margin-bottom: var(--space-s);
+  }
+
+  .var-card p {
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    margin: 0;
+    max-width: none;
+  }
+
+  .crop-list,
+  .article-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+    padding-left: var(--space-l);
+    margin-bottom: var(--space-m);
+  }
+
+  .crop-list li,
+  .article-list li {
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    line-height: var(--leading-body);
+  }
+
+  .worked-example {
+    margin-top: var(--space-xl);
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    padding: var(--space-l);
+    border: 1px solid rgba(0,0,0,0.06);
+  }
+
+  .worked-example h3 {
+    font-size: var(--text-h3);
+    color: var(--color-text-primary);
+    margin-bottom: var(--space-m);
+  }
+
+  .example-table {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    margin-bottom: var(--space-m);
+    font-size: var(--text-small);
+  }
+
+  .example-row {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr 1.2fr 1.2fr 1fr 0.8fr;
+    gap: var(--space-s);
+    padding: var(--space-s) var(--space-m);
+    border-radius: var(--radius-s);
+  }
+
+  .example-header {
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    background: rgba(0,0,0,0.03);
+    font-size: var(--text-small);
+  }
+
+  .example-row:not(.example-header) {
+    background: rgba(45,90,39,0.04);
+  }
+
+  .example-note {
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    margin: 0;
+    line-height: var(--leading-body);
+  }
+
+  .crop-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-m);
+    margin-top: var(--space-l);
+  }
+
+  .crop-entry {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    padding: var(--space-m) var(--space-l);
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    border: 1px solid rgba(0,0,0,0.06);
+    text-decoration: none;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+
+  .crop-entry:hover {
+    border-color: var(--color-primary);
+    box-shadow: 0 2px 8px rgba(45,90,39,0.10);
+  }
+
+  .crop-name {
+    font-weight: 700;
+    font-size: var(--text-body);
+    color: var(--color-primary);
+  }
+
+  .crop-stat {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-text-secondary);
+  }
+
+  .crop-note {
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    line-height: var(--leading-body);
+  }
+
+  .article-card-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+    margin-top: var(--space-l);
+    margin-bottom: var(--space-l);
+  }
+
+  .article-entry {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    padding: var(--space-m) var(--space-l);
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    border: 1px solid rgba(0,0,0,0.06);
+    text-decoration: none;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+
+  .article-entry:hover {
+    border-color: var(--color-primary);
+    box-shadow: 0 2px 8px rgba(45,90,39,0.10);
+  }
+
+  .article-title {
+    font-weight: 700;
+    font-size: var(--text-body);
+    color: var(--color-primary);
+  }
+
+  .article-desc {
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    line-height: var(--leading-body);
+  }
+
+  .list-note {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+  }
+
+  .article-links {
+    display: flex;
+    gap: var(--space-l);
+    flex-wrap: wrap;
+    font-size: var(--text-small);
+    font-weight: 600;
+  }
+
+  .article-links a {
+    color: var(--color-primary);
+  }
+
+  .app-cta {
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    padding: var(--space-xl);
+    border: 1px solid rgba(0,0,0,0.06);
+  }
+
+  .app-cta h2 {
+    margin-bottom: var(--space-m);
+  }
+
+  .app-cta p {
+    margin-bottom: var(--space-l);
+  }
+
+  @media (max-width: 768px) {
+    .three-vars {
+      grid-template-columns: 1fr;
+    }
+
+    .crop-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .example-row {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .example-header span:nth-child(4),
+    .example-header span:nth-child(5),
+    .example-row span:nth-child(4),
+    .example-row span:nth-child(5) {
+      display: none;
+    }
+  }
+</style>

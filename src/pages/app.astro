@@ -1,0 +1,281 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AppStoreBadges from '../components/AppStoreBadges.astro';
+
+const breadcrumbJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": String(Astro.site) },
+    { "@type": "ListItem", "position": 2, "name": "App" },
+  ],
+};
+---
+
+<BaseLayout
+  title="Garden ROI App  -  Track Harvests & Break-Even"
+  description="The Garden ROI app tracks your harvests, expenses, and break-even date on iOS and Android. See which crops earn their space and grow smarter every season."
+>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
+
+  <!-- Breadcrumb -->
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <div class="container">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li aria-current="page">App</li>
+      </ol>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="app-hero">
+    <div class="container app-hero-inner">
+      <div class="app-hero-text">
+        <h1>Your garden should pay&nbsp;you back.</h1>
+        <p class="app-hero-lead">
+          The Garden ROI app tracks every harvest, every expense, and tells you exactly when your garden breaks even  -  on iOS and Android.
+        </p>
+        <AppStoreBadges />
+      </div>
+      <div class="app-hero-icon">
+        <img
+          src="/logo.png"
+          alt="Garden ROI app icon  -  ladybug mascot"
+          width="160"
+          height="160"
+          loading="eager"
+          class="app-icon-large"
+        />
+      </div>
+    </div>
+  </section>
+
+  <!-- Value props -->
+  <section class="app-features">
+    <div class="container">
+      <h2>What the app does</h2>
+      <div class="feature-grid">
+        <div class="feature-card">
+          <h3>Track every harvest</h3>
+          <p>Log weight, date, and crop for every pick. The app builds your harvest record automatically.</p>
+        </div>
+        <div class="feature-card">
+          <h3>See your break-even date</h3>
+          <p>Enter your seed and supply costs once. The app updates your break-even date every time you log a harvest.</p>
+        </div>
+        <div class="feature-card">
+          <h3>Know your best performers</h3>
+          <p>Compare crops by total yield, value per square foot, and return on seed cost. Know what to plant more of next year.</p>
+        </div>
+        <div class="feature-card">
+          <h3>800+ crop varieties</h3>
+          <p>Pull from a library of over 800 USDA varieties  -  or add your own. Days to harvest, spacing, and grocery value all included.</p>
+          <p class="feature-note">The app includes the full 800+ variety database. The <a href="/crops/">web crop library</a> features in-depth ROI guides for the highest-return crops.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Site and app together -->
+  <section class="app-site-together">
+    <div class="container app-site-inner">
+      <div class="app-site-text">
+        <h2>How the site and app work together</h2>
+        <p>
+          This site answers the <em>how</em>: which crops are worth growing, when to plant them, how to make them last after harvest.
+        </p>
+        <p>
+          The app answers the <em>whether</em>: is your garden actually paying off? What did your tomatoes return per pound compared to what you'd pay at the store? Is your break-even date getting closer or further away?
+        </p>
+        <p>
+          Use the site to make smarter growing decisions. Use the app to see whether they're working.
+        </p>
+      </div>
+      <div class="app-site-download">
+        <p class="download-label">Free on iOS and Android</p>
+        <AppStoreBadges />
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Breadcrumbs */
+  .breadcrumbs {
+    background-color: var(--color-white);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    padding: var(--space-s) 0;
+  }
+
+  .breadcrumbs ol {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: var(--space-s);
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+  }
+
+  .breadcrumbs li:not(:last-child)::after {
+    content: '/';
+    margin-left: var(--space-s);
+    color: var(--color-text-muted);
+  }
+
+  .breadcrumbs a {
+    color: var(--color-primary);
+  }
+
+  .breadcrumbs li[aria-current='page'] {
+    color: var(--color-text-muted);
+  }
+
+  /* Hero */
+  .app-hero {
+    background-color: var(--color-primary);
+    color: var(--color-text-on-dark);
+    padding: var(--space-xxl) 0;
+  }
+
+  .app-hero-inner {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: var(--space-xxl);
+    align-items: center;
+  }
+
+  .app-hero h1 {
+    font-size: clamp(var(--text-h2), 4vw, var(--text-screen-title));
+    font-family: var(--font-display);
+    color: var(--color-tab-active);
+    margin: 0 0 var(--space-m);
+    line-height: 1.1;
+  }
+
+  .app-hero-lead {
+    font-size: var(--text-body);
+    line-height: 1.6;
+    opacity: 0.92;
+    margin: 0 0 var(--space-xl);
+    max-width: 52ch;
+  }
+
+  .app-icon-large {
+    border-radius: var(--radius-l);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  }
+
+  /* Features */
+  .app-features {
+    background-color: var(--color-bg);
+    padding: var(--space-xxl) 0;
+  }
+
+  .app-features h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    color: var(--color-primary);
+    margin: 0 0 var(--space-xl);
+  }
+
+  .feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: var(--space-l);
+  }
+
+  .feature-card {
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    padding: var(--space-l);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+  }
+
+  .feature-card h3 {
+    font-size: var(--text-h3);
+    color: var(--color-primary);
+    margin: 0 0 var(--space-s);
+  }
+
+  .feature-card p {
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    line-height: 1.55;
+    margin: 0;
+  }
+
+  .feature-note {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    margin-top: var(--space-xs);
+    border-top: 1px solid rgba(0, 0, 0, 0.06);
+    padding-top: var(--space-xs);
+  }
+
+  /* Site and app together */
+  .app-site-together {
+    background-color: var(--color-tab-bar);
+    color: var(--color-text-on-dark);
+    padding: var(--space-xxl) 0;
+  }
+
+  .app-site-inner {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: var(--space-xxl);
+    align-items: start;
+  }
+
+  .app-site-text h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    color: var(--color-tab-active);
+    margin: 0 0 var(--space-l);
+  }
+
+  .app-site-text p {
+    font-size: var(--text-body);
+    line-height: 1.65;
+    opacity: 0.9;
+    margin: 0 0 var(--space-m);
+    max-width: 60ch;
+  }
+
+  .app-site-text p:last-child {
+    margin-bottom: 0;
+  }
+
+  .app-site-download {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-m);
+    padding-top: var(--space-s);
+  }
+
+  .download-label {
+    font-size: var(--text-small);
+    color: var(--color-tab-inactive);
+    margin: 0;
+  }
+
+  /* Responsive */
+  @media (max-width: 640px) {
+    .app-hero-inner,
+    .app-site-inner {
+      grid-template-columns: 1fr;
+    }
+
+    .app-hero-icon {
+      display: none;
+    }
+
+    .app-site-download {
+      align-items: flex-start;
+    }
+  }
+</style>

@@ -10,6 +10,11 @@
   --color-secondary: #5C3D2E;
   --color-secondary-light: #A67B5B;
 
+  /* Colors — Tab Bar (mirrors app tabBar tokens) */
+  --color-tab-bar: #3B2314;
+  --color-tab-active: #F5D547;
+  --color-tab-inactive: #C4A882;
+  --color-tab-bar-translucent: rgba(59, 35, 20, 0.80);
   /* Colors — Status */
   --color-success: #4CAF50;
   --color-error: #C65D52;
@@ -50,6 +55,7 @@
   --space-xl: 32px;
   --space-xxl: 48px;
   --space-card: 20px;
+  --space-btn-y: 6px;
 
   /* Border Radius */
   --radius-s: 8px;
@@ -60,6 +66,7 @@
   /* Typography — Font Families */
   --font-display: 'Piedra', cursive;
   --font-body: 'Inter', sans-serif;
+  --font-mono: monospace;
 
   /* Typography — Font Sizes */
   --text-screen-title: 36px;
@@ -69,6 +76,9 @@
   --text-h3: 20px;
   --text-body: 16px;
   --text-small: 13px;
+  --text-micro: 10px;
+  --text-badge: 11px;
+  --text-logo: 22px;
   --text-stat: 36px;
 
   /* Typography — Line Heights */
@@ -111,6 +121,11 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background-image: url('/bg-2.webp');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 main {
@@ -178,6 +193,25 @@ li {
   max-width: var(--content-width);
   margin: 0 auto;
   padding: 0 var(--space-l);
+}
+
+/* Page section header — green gradient bar used on all index/listing pages */
+.page-header {
+  background: linear-gradient(135deg, rgba(45, 90, 39, 0.80) 0%, rgba(74, 140, 66, 0.80) 100%);
+  padding: var(--space-xxl) 0 var(--space-xl);
+}
+
+.page-header h1 {
+  font-family: var(--font-display);
+  color: var(--color-white);
+  font-size: var(--text-screen-title);
+  margin-bottom: var(--space-s);
+}
+
+.page-header p {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: var(--text-body);
+  margin: 0;
 }
 
 .btn {
@@ -274,4 +308,34 @@ li {
   .content-container {
     padding: 0 var(--space-m);
   }
+}
+
+/* Button variant — light outline for use on dark/image backgrounds */
+.btn-outline-light {
+  background-color: transparent;
+  color: var(--color-white);
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  padding: var(--space-s) var(--space-l);
+  border-radius: var(--radius-full);
+  font-family: var(--font-body);
+  font-size: var(--text-body);
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+.btn-outline-light:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+  color: var(--color-white);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+/* Featured badge — used on article cards and slug pages */
+.tag-featured {
+  background-color: var(--color-highlight);
+  color: var(--color-primary);
 }

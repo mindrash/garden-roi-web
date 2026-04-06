@@ -49,8 +49,22 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <meta name="twitter:title" content={`${title} | Garden ROI`} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={new URL(ogImage, Astro.site)} />
+
+    <!-- Structured Data: Organization -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Garden ROI",
+      "url": "https://gardenroi.com",
+      "logo": "https://gardenroi.com/logo.png",
+      "sameAs": [
+        "https://apps.apple.com/app/garden-roi/id6738917698",
+        "https://play.google.com/store/apps/details?id=com.fleeflame.gardenroi"
+      ]
+    })} />
   </head>
   <body>
+    <script is:inline src="/insects.js"></script>
     <Header />
     <main>
       <slot />

@@ -6,6 +6,7 @@ interface Props {
   category: 'homestead' | 'roi' | 'care' | 'planning';
   publishDate: Date;
   featured?: boolean;
+  sectionPath?: string;
 }
 
 const {
@@ -15,6 +16,7 @@ const {
   category,
   publishDate,
   featured = false,
+  sectionPath = '/guides',
 } = Astro.props;
 
 const tagClass = `tag tag-${category}`;
@@ -32,7 +34,7 @@ const categoryLabels: Record<string, string> = {
 };
 ---
 
-<a href={`/tips/${slug}/`} class:list={['article-card', { featured }]}>
+<a href={`${sectionPath}/${slug}/`} class:list={['article-card', { featured }]}>
   {featured && <span class="featured-badge">Featured</span>}
   <div class="article-meta">
     <span class={tagClass}>{categoryLabels[category]}</span>

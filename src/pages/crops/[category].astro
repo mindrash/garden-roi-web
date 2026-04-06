@@ -1,0 +1,186 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PlantCard from '../../components/PlantCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  return [
+    {
+      params: { category: 'vegetables' },
+      props: {
+        collectionCategory: 'Vegetable',
+        title: 'Vegetables: Best ROI Crops for the Home Garden',
+        description: 'High-yield vegetables ranked by return on investment. Yield data, seed costs, and grocery value per plant  -  so you grow what actually pays off.',
+        heading: 'Vegetables',
+        subheading: 'High-yield vegetables ranked by harvest value and ROI.',
+      },
+    },
+    {
+      params: { category: 'herbs' },
+      props: {
+        collectionCategory: 'Herb',
+        title: 'Herbs: High-Value Crops for Any Garden Size',
+        description: 'Fresh herbs return more value per square foot than almost any vegetable. Yield data, seed costs, and grocery price comparisons for the best culinary herbs.',
+        heading: 'Herbs',
+        subheading: 'Herbs return more value per square foot than almost any vegetable.',
+      },
+    },
+    {
+      params: { category: 'fruit' },
+      props: {
+        collectionCategory: 'Fruit',
+        title: 'Fruit: Perennial ROI and Long-Term Garden Value',
+        description: 'Fruit crops pay off over years, not seasons. Yield data, establishment costs, and long-term ROI for strawberries, berries, and tree fruit.',
+        heading: 'Fruit',
+        subheading: 'Fruit crops compound in value over years  -  the math on establishment cost vs. lifetime yield.',
+      },
+    },
+  ];
+}
+
+const { category } = Astro.params;
+const { collectionCategory, title, description, heading, subheading } = Astro.props;
+
+const allPlants = await getCollection('plants');
+const plants = allPlants
+  .filter((p) => p.data.category === collectionCategory)
+  .sort((a, b) => {
+    const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.seed_cost;
+    const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.seed_cost;
+    return roiB - roiA;
+  });
+
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="page-header">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <ol>
+          <li><a href="/">Home</a></li>
+          <li><a href="/crops/">Crops</a></li>
+          <li aria-current="page">{heading}</li>
+        </ol>
+      </nav>
+      <h1>{heading}</h1>
+      <p>{subheading}</p>
+    </div>
+  </div>
+
+  <div class="container category-page">
+    <div class="category-nav">
+      <a href="/crops/" class="cat-link">All Crops</a>
+      <a href="/crops/vegetables/" class={`cat-link${category === 'vegetables' ? ' active' : ''}`}>Vegetables</a>
+      <a href="/crops/herbs/" class={`cat-link${category === 'herbs' ? ' active' : ''}`}>Herbs</a>
+      <a href="/crops/fruit/" class={`cat-link${category === 'fruit' ? ' active' : ''}`}>Fruit</a>
+    </div>
+
+    {plants.length === 0 ? (
+      <p class="empty">No crops in this category yet. Check back soon.</p>
+    ) : (
+      <div class="plants-grid">
+        {plants.map((plant) => (
+          <PlantCard
+            slug={plant.id}
+            name={plant.data.name}
+            scientific_name={plant.data.scientific_name}
+            category={plant.data.category}
+            days_min={plant.data.days_min}
+            days_max={plant.data.days_max}
+            avg_yield_lb={plant.data.avg_yield_lb}
+            avg_price_lb={plant.data.avg_price_lb}
+            watering={plant.data.watering}
+            sunlight={plant.data.sunlight}
+          />
+        ))}
+      </div>
+    )}
+  </div>
+</BaseLayout>
+
+<style>
+  .breadcrumb ol {
+    display: flex;
+    gap: var(--space-xs);
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-m);
+    font-size: var(--text-small);
+  }
+
+  .breadcrumb li {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .breadcrumb li:not(:last-child)::after {
+    content: '/';
+    color: rgba(255, 255, 255, 0.4);
+  }
+
+  .breadcrumb a {
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--color-white);
+    text-decoration: underline;
+  }
+
+  .category-page {
+    padding: var(--space-xl) var(--space-l);
+  }
+
+  .category-nav {
+    display: flex;
+    gap: var(--space-s);
+    margin-bottom: var(--space-xl);
+    flex-wrap: wrap;
+  }
+
+  .cat-link {
+    padding: var(--space-xs) var(--space-m);
+    border-radius: var(--radius-full);
+    border: 2px solid var(--color-primary);
+    color: var(--color-primary);
+    font-size: var(--text-small);
+    font-weight: 600;
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s;
+    background: transparent;
+  }
+
+  .cat-link:hover,
+  .cat-link.active {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    text-decoration: none;
+  }
+
+  .plants-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-l);
+  }
+
+  .empty {
+    color: var(--color-text-muted);
+    font-size: var(--text-body);
+    padding: var(--space-xl) 0;
+  }
+
+  @media (max-width: 900px) {
+    .plants-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 600px) {
+    .plants-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

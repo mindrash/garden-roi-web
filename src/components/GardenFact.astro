@@ -1,0 +1,98 @@
+---
+---
+<div class="garden-fact-callout">
+  <div class="fact-header">
+    <span class="fact-eyebrow">Did you know?</span>
+  </div>
+  <p class="fact-text" id="fact-text">Loading...</p>
+  <button class="fact-btn" id="fact-btn" type="button">Another fact</button>
+</div>
+
+<script>
+  interface Tip {
+    title: string;
+    description: string;
+  }
+
+  let tips: Tip[] = [];
+  let lastIndex = -1;
+
+  async function loadTips() {
+    try {
+      const res = await fetch('/api/tips.json');
+      const data = await res.json();
+      tips = data.tips as Tip[];
+      showRandom();
+    } catch {
+      const el = document.getElementById('fact-text');
+      if (el) el.textContent = 'Growing garlic returns 6-8x its seed cost by weight — one of the best ROI crops in the garden.';
+    }
+  }
+
+  function showRandom() {
+    if (tips.length === 0) return;
+    let idx: number;
+    do {
+      idx = Math.floor(Math.random() * tips.length);
+    } while (idx === lastIndex && tips.length > 1);
+    lastIndex = idx;
+    const el = document.getElementById('fact-text');
+    if (el) el.textContent = tips[idx].description;
+  }
+
+  document.getElementById('fact-btn')?.addEventListener('click', showRandom);
+
+  loadTips();
+</script>
+
+<style>
+  .garden-fact-callout {
+    background-color: var(--color-secondary);
+    border-radius: var(--radius-m);
+    padding: var(--space-xl);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+    align-items: flex-start;
+  }
+
+  .fact-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-s);
+  }
+
+  .fact-eyebrow {
+    font-size: var(--text-small);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--color-tab-active);
+  }
+
+  .fact-text {
+    font-size: var(--text-body);
+    line-height: var(--leading-body);
+    color: rgba(255, 255, 255, 0.9);
+    margin: 0;
+    min-height: 48px;
+  }
+
+  .fact-btn {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 255, 0.75);
+    border-radius: var(--radius-full);
+    padding: var(--space-xs) var(--space-m);
+    font-family: var(--font-body);
+    font-size: var(--text-small);
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
+  }
+
+  .fact-btn:hover {
+    background-color: rgba(255, 255, 255, 0.12);
+    color: var(--color-white);
+  }
+</style>

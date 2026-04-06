@@ -8,4 +8,11 @@ export default defineConfig({
   site: 'https://gardenroi.com',
   output: 'static',
   integrations: [sitemap(), mdx()],
+  vite: {
+    build: {
+      rollupOptions: {
+        external: ['/pagefind/pagefind.js'],
+      },
+    },
+  },
 });

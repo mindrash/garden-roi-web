@@ -1,5 +1,5 @@
 ---
-title: Starting a Beginner Homestead — The First 5 Things to Grow
+title: First 5 Crops for New Homesteaders
 description: Not sure where to start with homesteading? These five crops give beginners the fastest wins, the most useful skills, and the best value for the effort invested.
 category: homestead
 publishDate: 2026-03-01
@@ -20,7 +20,7 @@ Grow: Butterhead lettuce, arugula, Asian mix (mizuna, tatsoi). Direct sow in a w
 
 ## 2. Fresh Herbs
 
-**Why second:** Herbs are the single highest ROI crop per square foot. A $4 pot of store-bought basil weighs about 1 oz. You can grow 10x that from a $2 seed packet. Herbs also teach you how to use what you grow — understanding flavor is a foundational homestead skill.
+**Why second:** Herbs are the single highest ROI crop per square foot. A $4 pot of store-bought basil weighs about 1 oz. You can grow 10x that from a $2 seed packet. Herbs also teach you how to use what you grow  -  understanding flavor is a foundational homestead skill.
 
 Start with: Basil, parsley, chives (perennial), cilantro. A single 12-inch pot handles all of these.
 
@@ -37,7 +37,7 @@ Start with: Basil, parsley, chives (perennial), cilantro. A single 12-inch pot h
 
 A productive tomato plant is a semester of homestead education.
 
-One indeterminate variety (like Sungold cherry or San Marzano) is enough for a beginner. Expect to make mistakes the first year — that's the point.
+One indeterminate variety (like Sungold cherry or San Marzano) is enough for a beginner. Expect to make mistakes the first year  -  that's the point.
 
 **Homestead skill unlocked:** Food preservation. Tomato sauce, canned diced tomatoes, and frozen roasted tomatoes are the gateway to learning canning and long-term food storage.
 
@@ -52,7 +52,7 @@ One indeterminate variety (like Sungold cherry or San Marzano) is enough for a b
 
 ## 5. Winter Squash or Zucchini
 
-**Why fifth:** Storage crops change how you think about homesteading. Zucchini teaches the principle of abundance — you'll have too much, which forces you to learn preservation. Winter squash (butternut, delicata, acorn) teaches long-term storage — they sit in a cool, dark space for 3–6 months without refrigeration.
+**Why fifth:** Storage crops change how you think about homesteading. Zucchini teaches the principle of abundance  -  you'll have too much, which forces you to learn preservation. Winter squash (butternut, delicata, acorn) teaches long-term storage  -  they sit in a cool, dark space for 3–6 months without refrigeration.
 
 - **Zucchini:** Easiest to grow; overwhelmingly productive; teaches you to shred and freeze for year-round use
 - **Butternut squash:** Harvest in fall; stores until January or later; satisfying indicator of homestead self-sufficiency
@@ -62,11 +62,9 @@ One indeterminate variety (like Sungold cherry or San Marzano) is enough for a b
 ## Building on the Foundation
 
 Once you've grown these five successfully, you have the skills and confidence to add:
-- **Garlic** (planted in fall, harvested in summer — extremely high ROI)
+- **Garlic** (planted in fall, harvested in summer  -  extremely high ROI)
 - **Potatoes** (grow in bags; high yield; stores well)
 - **Cucumbers** (beginner-friendly; great for pickling)
 - **Peppers** (slow but rewarding; can be frozen or dried)
 
-The homestead isn't built in one season. It's built by adding one new skill and one new crop each year until, without noticing, you're growing a significant fraction of your own food.
-
-Track your progress in the Garden ROI app — watching your harvest value grow season over season is one of the most satisfying parts of the journey.
+Add one new crop per season. After a few years, you'll be growing a significant share of your own food without having noticed the gradual progression.

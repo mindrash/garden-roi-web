@@ -1,6 +1,6 @@
 ---
-title: Spring Garden Planning — How to Design Your Best Season Yet
-description: Good planning in February and March is worth more than any single gardening technique. Here's how to design a garden that hits your goals before you plant a single seed.
+title: "Spring Garden Planning: Your Best Season"
+description: Good planning in February and March is worth more than any single technique. Here's how to design a garden that hits your goals before you plant a single seed.
 category: planning
 publishDate: 2026-03-15
 featured: false
@@ -25,7 +25,7 @@ Draw a simple overhead sketch of your growing area. Note:
 - **Sunlight:** Mark which areas get full sun (6+ hours) versus partial shade. Sun-loving crops (tomatoes, peppers, squash) go in full sun; greens and herbs tolerate partial shade.
 - **North/south orientation:** Tall plants on the north end don't shade shorter ones.
 - **Water access:** Which beds are closest to your hose or drip system? Put your thirstiest crops (cucumbers, tomatoes) there.
-- **Permanent features:** Perennial herbs, fruit trees, or berry bushes take up space year after year — build your annual planting plan around them.
+- **Permanent features:** Perennial herbs, fruit trees, or berry bushes take up space year after year  -  build your annual planting plan around them.
 
 ## Step 3: Think in Seasons, Not Just Summer
 
@@ -39,7 +39,7 @@ Most beginner gardens only produce spring through early fall. Real year-round ga
 | Late summer to fall | Broccoli, kale, beets, carrots (transplanted 8–10 weeks before first frost) |
 | Fall | Garlic (planted for next summer harvest) |
 
-A garden that produces from March through November doesn't require more space — it requires smarter timing.
+A garden that produces from March through November doesn't require more space  -  it requires smarter timing.
 
 ## Step 4: Calculate Your Seed Order
 
@@ -54,7 +54,9 @@ For the Garden ROI app users: your harvest logs from previous seasons show exact
 
 ## Step 5: Build a Planting Calendar
 
-Work backward from your last frost date (find yours at the USDA Plant Hardiness Zone Map):
+Work backward from your last frost date. Find yours using the [USDA Plant Hardiness Zone Map](https://planthardiness.ars.usda.gov/) - enter your ZIP code and it returns your zone and average first/last frost dates.
+
+Standard seed-starting timelines, consistent with Purdue Extension (*Vegetable Planting Guide*, ID-56) and Penn State Extension (*Starting Plants from Seeds*, 2021):
 
 - **10–12 weeks before last frost:** Start peppers indoors
 - **6–8 weeks before last frost:** Start tomatoes indoors
@@ -62,7 +64,7 @@ Work backward from your last frost date (find yours at the USDA Plant Hardiness 
 - **Last frost date:** Transplant tomatoes and peppers outdoors; direct sow cucumbers, beans, squash
 - **2 weeks after last frost:** Plant basil outdoors (it's cold-sensitive)
 
-Write these dates on a physical calendar. Experienced gardeners miss windows every year — deliberate scheduling prevents it.
+Write these dates on a physical calendar. Experienced gardeners miss windows every year  -  deliberate scheduling prevents it.
 
 ## The Compounding Garden
 
