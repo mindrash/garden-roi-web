@@ -12,6 +12,7 @@ watering: Moderate; drought-tolerant once established, 1 inch/week
 sunlight: Full sun (6+ hours)
 companion_plants: [Arugula, Garlic]
 description: "Jerusalem artichoke (Helianthus tuberosus) - perennial, 8+ lb/plant, $3-5/lb. Spreads aggressively and can take over a bed permanently. Plant only where containment is possible."
+hero_image: /images/crops/jerusalem-artichoke.webp
 ---
 
 Jerusalem artichoke (*Helianthus tuberosus*) - also called sunchoke - will produce more food per square foot than almost any other perennial vegetable you can plant. A single tuber planted in spring returns 8-20 lbs of harvestable tubers by fall, requires almost no maintenance, and does this again every year indefinitely. The flip side: this plant spreads aggressively through underground rhizomes, and once established in a bed, it is extremely difficult to fully remove. Every tuber fragment left in soil re-sprouts. Understand this before you plant it.

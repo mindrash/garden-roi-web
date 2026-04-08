@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week
 sunlight: Full sun to partial shade (4-6 hours acceptable)
 companion_plants: ["Arugula", "Garlic"]
 description: "Currant (Ribes rubrum) - $6-10/lb, perennial shrub producing 20+ years. Cold-hardy to zone 3, rarely available in US stores. ROI case, variety guide, and growing notes."
+hero_image: /images/crops/currant.webp
 ---
 
 Red currant (*Ribes rubrum*) yields 3-5 lb per mature shrub annually and sells for $6-10/lb at specialty markets where you can find it (USDA AMS Specialty Crop Market News, 2023). Most Americans have never seen one in a grocery store because of a century-old federal restriction that was lifted in 2003 - but state-level regulations and a broken distribution chain mean fresh currants are still largely absent from retail. That scarcity, combined with a 15-20 year productive lifespan on a properly cared-for shrub, makes currants one of the more overlooked perennial investments in the home fruit garden.

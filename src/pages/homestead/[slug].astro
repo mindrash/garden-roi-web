@@ -1,6 +1,6 @@
 ---
-import ContentLayout from '../../layouts/ContentLayout.astro';
-import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -13,116 +13,14 @@ export async function getStaticPaths() {
 }
 
 const { article } = Astro.props;
-const { Content } = await render(article);
-const { title, description, publishDate, featured } = article.data;
-
-const formattedDate = publishDate.toLocaleDateString('en-US', {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
-});
-
-const articleImage = article.data.hero_image
-  ? new URL(article.data.hero_image, Astro.site).toString()
-  : new URL('/logo.png', Astro.site).toString();
-
-const articleJsonLd = {
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": title,
-  "description": description,
-  "image": articleImage,
-  "datePublished": publishDate.toISOString(),
-  "publisher": {
-    "@type": "Organization",
-    "name": "Garden ROI",
-    "logo": { "@type": "ImageObject", "url": new URL('/logo.png', Astro.site).toString() },
-  },
-};
 ---
 
-<ContentLayout
-  title={title}
-  description={description}
-  ogImage={article.data.hero_image}
-  breadcrumbs={[{ label: 'Homestead', href: '/homestead/' }]}
-  pageJsonLd={articleJsonLd}
->
-  <article class="article-detail">
-    <header class="article-header">
-      <div class="article-meta">
-        <span class="tag tag-homestead">Homestead</span>
-        {featured && <span class="tag tag-featured">Featured</span>}
-        <time datetime={publishDate.toISOString()} class="article-date">{formattedDate}</time>
-      </div>
-      <h1 class="article-title">{title}</h1>
-      <p class="article-description">{description}</p>
-    </header>
-
-    <div class="prose article-body">
-      <Content />
-    </div>
-
-    <footer class="article-footer">
-      <a href="/homestead/" class="btn btn-outline">← All Homestead Articles</a>
-      <a href="/app/" class="btn btn-primary">Track in the App</a>
-    </footer>
-  </article>
-</ContentLayout>
-
-<style>
-  .article-detail {
-    padding: var(--space-xl) var(--space-l);
-  }
-
-  .article-header {
-    margin-bottom: var(--space-xl);
-    padding-bottom: var(--space-l);
-    border-bottom: 1px solid rgba(0,0,0,0.08);
-  }
-
-  .article-meta {
-    display: flex;
-    align-items: center;
-    gap: var(--space-s);
-    margin-bottom: var(--space-m);
-    flex-wrap: wrap;
-  }
-
-  .article-date {
-    font-size: var(--text-small);
-    color: var(--color-text-muted);
-  }
-
-  .article-title {
-    font-family: var(--font-display);
-    font-size: var(--text-screen-title);
-    color: var(--color-text-primary);
-    line-height: var(--leading-h1);
-    margin-bottom: var(--space-m);
-  }
-
-  .article-description {
-    font-size: var(--text-body);
-    color: var(--color-text-secondary);
-    line-height: var(--leading-body);
-    margin: 0;
-  }
-
-  .article-body {
-    margin-bottom: var(--space-xxl);
-  }
-
-  .article-footer {
-    display: flex;
-    gap: var(--space-m);
-    flex-wrap: wrap;
-    padding-top: var(--space-l);
-    border-top: 1px solid rgba(0,0,0,0.08);
-  }
-
-  .tag-featured {
-    background: var(--color-highlight);
-    color: var(--color-primary);
-  }
-</style>
+<ArticleLayout
+  article={article}
+  categoryTag="tag-homestead"
+  categoryLabel="Homestead"
+  backHref="/homestead/"
+  backLabel="← All Homestead Articles"
+  breadcrumbLabel="Homestead"
+  breadcrumbHref="/homestead/"
+/>

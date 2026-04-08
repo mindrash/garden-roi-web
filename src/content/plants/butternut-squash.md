@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, reduce as fruits mature
 sunlight: Full sun (8+ hours)
 companion_plants: ["Corn", "Radish"]
 description: "Butternut squash (Cucurbita moschata) stores 3-6 months post-harvest, extending value through winter. One vine produces 3-5 squash averaging 2-3 lbs each."
+hero_image: /images/crops/butternut-squash.webp
 ---
 
 Butternut squash (*Cucurbita moschata*) is the storage-crop argument for growing winter squash instead of zucchini. Both use similar space and similar inputs. Zucchini delivers an abundance of fruit in summer that you have to process or use within days. Butternut delivers fewer fruits in fall and stores them in your pantry through January or February without any refrigeration or preservation effort. If your kitchen actually uses winter squash through the cold months, growing your own makes clear economic sense.

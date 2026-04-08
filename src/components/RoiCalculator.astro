@@ -1,13 +1,24 @@
 ---
+import { getCollection } from 'astro:content';
+
+const allPlants = await getCollection('plants');
+const plantsData = allPlants
+  .sort((a, b) => a.data.name.localeCompare(b.data.name))
+  .map((p) => ({
+    name: p.data.name,
+    slug: p.id,
+    avg_yield_lb: p.data.avg_yield_lb,
+    avg_price_lb: p.data.avg_price_lb,
+  }));
+const plantsJson = JSON.stringify(plantsData);
 ---
 <div class="roi-calculator" id="roi-calc">
+  <script id="calc-data" type="application/json" set:html={plantsJson}></script>
   <p class="calc-intro">Pick a crop and plant count to see the return on investment for that bed at grocery store prices.</p>
   <div class="calc-inputs">
     <div class="calc-field">
       <label for="crop-select">Crop</label>
-      <select id="crop-select" name="crop">
-        <option value="">Loading crops...</option>
-      </select>
+      <select id="crop-select" name="crop"></select>
     </div>
     <div class="calc-field">
       <label for="plant-count">Number of plants</label>
@@ -31,26 +42,16 @@
     avg_price_lb: number;
   }
 
-  let plants: PlantData[] = [];
+  // Read build-time baked data — no runtime fetch needed
+  const rawData = document.getElementById('calc-data')?.textContent ?? '[]';
+  const plants: PlantData[] = JSON.parse(rawData);
 
-  async function loadPlants() {
-    try {
-      const res = await fetch('/api/plants.json');
-      const data = await res.json();
-      plants = data.plants as PlantData[];
-      const select = document.getElementById('crop-select') as HTMLSelectElement;
-      select.innerHTML = plants
-        .map((p) => `<option value="${p.slug}" data-yield="${p.avg_yield_lb}" data-price="${p.avg_price_lb}">${p.name}</option>`)
-        .join('');
-      updateResult();
-    } catch {
-      const select = document.getElementById('crop-select') as HTMLSelectElement;
-      select.innerHTML = '<option value="">Unable to load crops</option>';
-    }
-  }
+  const select = document.getElementById('crop-select') as HTMLSelectElement;
+  select.innerHTML = plants
+    .map((p) => `<option value="${p.slug}" data-yield="${p.avg_yield_lb}" data-price="${p.avg_price_lb}">${p.name}</option>`)
+    .join('');
 
   function updateResult() {
-    const select = document.getElementById('crop-select') as HTMLSelectElement;
     const countInput = document.getElementById('plant-count') as HTMLInputElement;
     const resultEl = document.getElementById('result-value') as HTMLElement;
 
@@ -67,10 +68,9 @@
     resultEl.textContent = `$${savings}`;
   }
 
-  document.getElementById('crop-select')?.addEventListener('change', updateResult);
+  select.addEventListener('change', updateResult);
   document.getElementById('plant-count')?.addEventListener('input', updateResult);
-
-  loadPlants();
+  updateResult();
 </script>
 
 <style>

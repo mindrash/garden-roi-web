@@ -12,6 +12,7 @@ watering: Moderate; 1-1.5 inches/week, critical at pod fill
 sunlight: Full sun (6+ hours)
 companion_plants: [Corn, Carrot]
 description: "Edamame (Glycine max) - $3-5/lb fresh shelled. Nitrogen-fixing crop leaves soil better than it found it. Harvest at green stage for edamame or dry for soybeans."
+hero_image: /images/crops/edamame.webp
 ---
 
 Edamame and soybeans are the same plant (*Glycine max*). The distinction is entirely in harvest timing: edamame is the soybean harvested and eaten at the green, immature stage, before the beans have dried. One planting covers both options - eat what you want fresh over two to three weeks, then let the rest dry down on the plant for dried beans to use through winter.

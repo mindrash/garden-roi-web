@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Arugula", "Garlic"]
 description: "Elderberry (Sambucus nigra) - dried berries $10-20/lb, perennial shrub producing 3+ years. Raw berries are toxic - must be cooked. Full safety, ROI, and growing guide."
+hero_image: /images/crops/elderberry.webp
 ---
 
 Elderberry (*Sambucus nigra*) dried berries sell for $10-20/lb in the wellness and supplement market (USDA AMS Specialty Crop Market News, 2023). The plants are perennial shrubs that reach full production in year three and continue for 15-20 years. Before everything else, one fact: **raw elderberries, seeds, and all green parts of the plant are toxic and must not be eaten uncooked.** Cooking destroys the cyanogenic glycosides that cause nausea and vomiting. This is not a warning to add at the end - it's the central operating fact of growing elderberries.

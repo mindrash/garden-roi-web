@@ -12,6 +12,7 @@ watering: Light to moderate; drought-tolerant once established, 0.5-1 inch/week
 sunlight: Full sun (6+ hours)
 companion_plants: ["Corn", "Arugula"]
 description: "Amaranth (Amaranthus cruentus) - dual harvest: grain $4-7/lb and greens $4-6/lb. Heat-tolerant annual, grows where other crops fail in midsummer. Full growing guide."
+hero_image: /images/crops/amaranth.webp
 ---
 
 Amaranth (*Amaranthus cruentus*) gives you two harvests from one planting: young leaves as a spinach substitute that holds up in summer heat, and mature seed heads that yield a grain at $4-7/lb (USDA AMS Specialty Crop Market News, 2023). Most warm-climate gardeners are growing it already without realizing it - common pigweed (*A. retroflexus*) is an amaranth, and it grows in the same conditions for the same reasons the cultivated forms do.

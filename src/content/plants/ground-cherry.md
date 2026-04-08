@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, tolerates drought once established
 sunlight: Full sun (6+ hours)
 companion_plants: ["Basil", "Tomatillo"]
 description: "Ground Cherry (Physalis pruinosa) - $5-8/lb at farmers markets, rarely found commercially. Sweet-tart flavor, self-husking. Full growing guide and ROI breakdown."
+hero_image: /images/crops/ground-cherry.webp
 ---
 
 Ground cherry (*Physalis pruinosa*) sells for $5-8/lb at farmers markets and is nearly impossible to find in grocery stores (USDA AMS Specialty Crop Market News, 2023). That supply gap is the ROI case. Grow it, show up with husked ground cherries at a farmers market table, and you will answer "what are these?" questions all morning.

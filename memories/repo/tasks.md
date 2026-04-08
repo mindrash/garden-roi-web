@@ -662,7 +662,7 @@ _These stories came out of an external product review. Each is independent - any
 ---
 
 ### D003 — Hero Images for Crop and Article Pages
-**Status:** `[ ]`
+**Status:** `[>]`
 **Agent fit:** Any agent (asset sourcing is a human task - this story is for wiring them up once images exist).
 **Files:** `src/content/plants/*.md`, `src/content/articles/*.md`, `public/images/`
 **What:** All 22 crop pages and 16 article pages are missing hero images. The `hero_image` field is in the schema and used in the template - it just needs images and frontmatter entries.
@@ -1462,7 +1462,7 @@ Step 3 - Add `<RoiEstimator />` to `src/pages/index.astro`:
 ---
 
 ### M008 — Hero Images for Crop and Article Pages
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent fit:** This story is worked in batches as images are sourced. The agent's job is only to wire up images that are already present in `public/images/` — never to source, download, or generate images.
 
 **Files:** `src/content/plants/*.md`, `src/content/articles/*.md`, `public/images/crops/`, `public/images/articles/`

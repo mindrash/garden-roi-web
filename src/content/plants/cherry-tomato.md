@@ -12,6 +12,7 @@ watering: Regular; 1-2 inches/week, consistent moisture to reduce cracking
 sunlight: Full sun (6-8 hours minimum)
 companion_plants: [Basil, Carrot, Marigold, Parsley]
 description: "Cherry Tomato (Solanum lycopersicum var. cerasiforme) - 12 lb per plant at $3.50/lb. Indeterminate vines need 6-ft support and daily harvest at peak season."
+hero_image: /images/crops/cherry-tomato.webp
 ---
 
 Cherry tomatoes (*Solanum lycopersicum* var. *cerasiforme*) are the most reliable producers in the tomato category and, pound for pound, the most profitable crop most home gardeners can grow. USDA ERS retail price data puts cherry and grape-type tomatoes at $3.00 to $4.50 per pound - roughly double what slicing types fetch. A healthy indeterminate plant running a full season can return 12 to 20 lb. Do the math before you plant slicers in a small bed.

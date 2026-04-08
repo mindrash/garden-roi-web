@@ -1,0 +1,143 @@
+---
+import ContentLayout from './ContentLayout.astro';
+import { render } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  article: CollectionEntry<'articles'>;
+  categoryTag: string;
+  categoryLabel: string;
+  backHref: string;
+  backLabel: string;
+  breadcrumbLabel: string;
+  breadcrumbHref: string;
+  primaryCtaHref?: string;
+  primaryCtaLabel?: string;
+}
+
+const {
+  article,
+  categoryTag,
+  categoryLabel,
+  backHref,
+  backLabel,
+  breadcrumbLabel,
+  breadcrumbHref,
+  primaryCtaHref = '/app/',
+  primaryCtaLabel = 'Track in the App',
+} = Astro.props;
+
+const { Content } = await render(article);
+const { title, description, publishDate, featured } = article.data;
+
+const formattedDate = publishDate.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const articleImage = article.data.hero_image
+  ? new URL(article.data.hero_image, Astro.site).toString()
+  : new URL('/logo.png', Astro.site).toString();
+
+const articleJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  image: articleImage,
+  datePublished: publishDate.toISOString(),
+  publisher: {
+    '@type': 'Organization',
+    name: 'Garden ROI',
+    logo: { '@type': 'ImageObject', url: new URL('/logo.png', Astro.site).toString() },
+  },
+};
+---
+
+<ContentLayout
+  title={title}
+  description={description}
+  ogImage={article.data.hero_image}
+  breadcrumbs={[{ label: breadcrumbLabel, href: breadcrumbHref }]}
+  pageJsonLd={articleJsonLd}
+>
+  <article class="article-detail" data-pagefind-body>
+    <header class="article-header">
+      <div class="article-meta">
+        <span class={`tag ${categoryTag}`}>{categoryLabel}</span>
+        {featured && <span class="tag tag-featured">Featured</span>}
+        <time datetime={publishDate.toISOString()} class="article-date">{formattedDate}</time>
+      </div>
+      <h1 class="article-title">{title}</h1>
+      <p class="article-description">{description}</p>
+    </header>
+
+    <div class="prose article-body">
+      <Content />
+    </div>
+
+    <footer class="article-footer">
+      <a href={backHref} class="btn btn-outline">{backLabel}</a>
+      <a href={primaryCtaHref} class="btn btn-primary">{primaryCtaLabel}</a>
+    </footer>
+  </article>
+</ContentLayout>
+
+<style>
+  .article-detail {
+    padding: var(--space-xl) var(--space-l);
+  }
+
+  .article-header {
+    margin-bottom: var(--space-xl);
+    padding-bottom: var(--space-l);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  }
+
+  .article-meta {
+    display: flex;
+    align-items: center;
+    gap: var(--space-s);
+    margin-bottom: var(--space-m);
+    flex-wrap: wrap;
+  }
+
+  .article-date {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+  }
+
+  .article-title {
+    font-family: var(--font-display);
+    font-size: var(--text-screen-title);
+    color: var(--color-text-primary);
+    line-height: var(--leading-h1);
+    margin-bottom: var(--space-m);
+  }
+
+  .article-description {
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    line-height: var(--leading-body);
+    margin: 0;
+  }
+
+  .article-body {
+    margin-bottom: var(--space-xxl);
+  }
+
+  .article-footer {
+    display: flex;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+    padding-top: var(--space-l);
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+  }
+
+  @media (max-width: 600px) {
+    .article-detail {
+      padding: var(--space-l) var(--space-m);
+    }
+  }
+</style>

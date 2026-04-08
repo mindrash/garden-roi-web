@@ -12,7 +12,7 @@ watering: Regular; 1 inch/week, avoid drought stress during leaf development
 sunlight: Full sun to partial shade (4–6 hours; afternoon shade extends season in warm weather)
 companion_plants: [Tomato, Carrot, Cucumber, Beans]
 description: "Arugula (Eruca vesicaria) - 0.5 lb per sq ft at $8/lb retail. Matures in 28 days, making it the fastest-payback salad green for spring and fall gardens."
-# hero_image: TODO
+hero_image: /images/crops/arugula.webp
 ---
 
 Arugula (*Eruca vesicaria* subsp. *sativa*) is the fastest-payback crop in this entire category. Baby arugula at 28 days; mature leaves at 40–45 days. That speed, combined with a retail price of $6–$10/lb at most stores (USDA Agricultural Marketing Service, specialty salad green surveys), means you can plant a row, harvest it in a month, and clear more value from one square foot of bed space than most crops deliver in an entire season.

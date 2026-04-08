@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, avoid waterlogging
 sunlight: Full sun to partial shade (4-6 hours minimum)
 companion_plants: [Carrot, Radish, Lettuce, Mint]
 description: "Garden Pea (Pisum sativum) - 3 lb per 10-ft row at $3.00/lb. Direct seed 4-6 weeks before last frost; freshness matters as sugar drops 50% within 24 hours."
+hero_image: /images/crops/garden-pea.webp
 ---
 
 Garden peas (*Pisum sativum*) operate on a different calendar than most vegetable crops. You plant them before the last frost - not after - and you're harvesting before the summer heat arrives to end them. In Zones 5 through 7, that means seeding in March or early April and pulling the plants by July. The window is real but it's short, which is exactly why succession planting matters more for peas than for almost anything else in the spring garden.

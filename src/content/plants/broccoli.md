@@ -12,6 +12,7 @@ watering: Consistent 1-1.5 inches/week; even moisture prevents hollow stems and 
 sunlight: Full sun (6-8 hours minimum)
 companion_plants: [Mint, Arugula]
 description: "Broccoli (Brassica oleracea var. italica) - 1.5 lb main head plus 2 lb of side shoots per plant at $2.50/lb. Cut side shoots every 5-7 days to extend yield."
+hero_image: /images/crops/broccoli.webp
 ---
 
 Most gardeners harvest the main head, pull the plant, and move on. That's leaving most of the yield in the ground. The real production from a broccoli plant comes after the central head is cut - side shoots that keep coming for four to six weeks, sometimes longer in cool weather. A plant that yielded 1 lb from the main head can put out another 1.5 to 2 lb in side shoots if you leave the stem, keep the plant watered, and harvest every five to seven days. That's the number that changes the ROI calculation.

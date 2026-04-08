@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, consistent - irregular watering causes spl
 sunlight: Full sun (6+ hours)
 companion_plants: ["Carrot", "Arugula"]
 description: "Leek (Allium ampeloprasum) - 100-130 days, but winter-hardy varieties hold in the ground through hard frost. Low input after transplant with a long harvest window."
+hero_image: /images/crops/leek.webp
 ---
 
 Leeks (*Allium ampeloprasum*) are a 4-month crop with one significant advantage: once they're sized up, they hold in the ground through heavy frost without degrading. A fall leek harvest runs from September through December in most of the country - or through February in zones 6 and warmer with cold-hardy varieties. That's a fresh vegetable at $3.50-$5.00/lb during a period when most beds are empty, and no storage required beyond leaving them in the soil.

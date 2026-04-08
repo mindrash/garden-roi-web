@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week
 sunlight: Full sun (6+ hours)
 companion_plants: ["Arugula", "Mint"]
 description: "Blackberry (Rubus allegheniensis) - 3-6 lb per cane cluster at $5-8/lb. Thornless varieties widely available. Spreads aggressively - one purchase lasts a lifetime."
+hero_image: /images/crops/blackberry.webp
 ---
 
 Blackberry (*Rubus allegheniensis*) is the most productive bramble fruit per cane in most North American gardens. It spreads aggressively, tolerates poor soils better than raspberry, and produces more heavily on each cane. The main thing standing between most gardeners and a blackberry planting was always the thorns. Thornless cultivars solved that problem decades ago, and they now dominate the commercial market and home garden trade.

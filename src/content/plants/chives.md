@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, consistent but not waterlogged
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Tomato", "Carrot"]
 description: "Chives (Allium schoenoprasum) - perennial that divides every 3 years for free propagation. Purple flowers are edible. Near-zero ongoing cost after the first season."
+hero_image: /images/crops/chives.webp
 ---
 
 Chives (*Allium schoenoprasum*) are the lowest-maintenance perennial herb most gardens can accommodate. Plant them once, divide them every three years, and you'll have free plants indefinitely. The clump that starts as a dozen seedlings becomes a dense 12-inch mound by year three - at which point you split it into three or four divisions, replant one, give the rest away. Your initial $2.49 seed cost is a one-time expense.

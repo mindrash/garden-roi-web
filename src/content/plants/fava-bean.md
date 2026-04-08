@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week
 sunlight: Full sun (6+ hours)
 companion_plants: [Arugula, Spinach]
 description: "Fava bean (Vicia faba) - cool-season only, $4-6/lb fresh shelled. Nitrogen-fixer used as cover crop. Plant in fall in zones 7+ or early spring in zones 4-6."
+hero_image: /images/crops/fava-bean.webp
 ---
 
 Fava beans (*Vicia faba*) occupy a different schedule than most garden vegetables - they are a cool-season crop that thrives when tomatoes and cucumbers would freeze, which means they either extend your productive season into territory that most home gardens leave empty, or they crowd out nothing because you'd have bare ground anyway. In zones 7 and warmer, fall-planted favas overwinter and produce a spring harvest. In zones 4-6, plant them as early as the ground can be worked in spring - they can handle frost to about 20°F.

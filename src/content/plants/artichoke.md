@@ -12,6 +12,7 @@ watering: Regular; 1.5-2 inches/week, reduce in winter dormancy
 sunlight: Full sun (6+ hours)
 companion_plants: ["Arugula", "Fennel"]
 description: "Artichoke (Cynara scolymus) - perennial in zones 7+, $3-5/lb at retail. Cold stratification trick lets annual growers get first-year harvest. Full ROI and cultivation guide."
+hero_image: /images/crops/artichoke.webp
 ---
 
 Artichoke (*Cynara scolymus*) is a thistle. That matters because it behaves like one - it's a large, architectural plant that takes up 4-6 square feet per crown, wants warm summers and mild winters, and produces flower buds that you harvest before they open. The bud is the vegetable. If you let it bloom, you get a spectacular purple thistle flower and no food.

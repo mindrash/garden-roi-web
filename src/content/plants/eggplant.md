@@ -12,6 +12,7 @@ watering: Regular; 1–1.5 inches/week; consistent moisture prevents bitter frui
 sunlight: Full sun (8+ hours; heat-loving, more sun = more fruit)
 companion_plants: [Basil, Tomato]
 description: "Eggplant (Solanum melongena) - Japanese types yield 5-11 lb per plant at $2.50/lb vs. 2-4 lb for globe types. Harvest when skin is glossy to avoid bitterness."
+hero_image: /images/crops/eggplant.webp
 ---
 
 Most people who grow eggplant grow Black Beauty, get four to six fruits per plant, and conclude that eggplant isn't worth the space. They're half right - Black Beauty isn't worth the space. Japanese and Chinese eggplant varieties are a different calculation entirely.

@@ -12,6 +12,7 @@ watering: Light to moderate; drought-tolerant, 0.5-1 inch/week
 sunlight: Full sun (6+ hours)
 companion_plants: ["Arugula", "Tomato"]
 description: "Chamomile (Matricaria chamomilla) - dried flowers $10-16/lb. Self-sows prolifically; one planting persists indefinitely. German annual type most commonly grown."
+hero_image: /images/crops/chamomile.webp
 ---
 
 Dried chamomile flowers sell for $10-16 per pound at natural food stores and herb markets (USDA AMS Specialty Crop Market News, 2023). Plant it once, let a few flowers go to seed at the end of the season, and you'll have chamomile coming up in that spot every spring without replanting. German chamomile is genuinely one of the lowest-effort herb crops you can grow - it thrives in poor soil, tolerates drought, requires no fertilization, and the flowers dry easily at room temperature. The only real work is harvesting, which has to happen promptly when the flowers are fully open.

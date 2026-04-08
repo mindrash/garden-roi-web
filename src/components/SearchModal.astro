@@ -3,7 +3,8 @@
 // Loaded once in BaseLayout; opened by header search button via window.__openSearch()
 ---
 
-<div id="search-modal" class="search-modal" role="dialog" aria-modal="true" aria-label="Search" hidden>
+<div id="search-modal" class="search-modal" role="dialog" aria-modal="true" aria-label="Search" aria-describedby="search-desc" hidden>
+  <span id="search-desc" class="visually-hidden">Search the Garden ROI crop encyclopedia, articles, and guides.</span>
   <div class="search-backdrop" id="search-backdrop"></div>
   <div class="search-panel">
     <button class="search-close" id="search-close" aria-label="Close search">

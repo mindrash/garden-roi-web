@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, tolerates brief drought
 sunlight: Full sun (6+ hours)
 companion_plants: ["Arugula", "Spinach"]
 description: "Fenugreek (Trigonella foenum-graecum) - methi leaves and seeds, $4-7/lb dual harvest. Nitrogen-fixing legume. Spice-rack seeds are identical to planting seeds."
+hero_image: /images/crops/fenugreek.webp
 ---
 
 The fenugreek seeds in your spice cabinet are the same seeds you plant in the garden. Buy a $3 jar of fenugreek at any Indian grocery, plant half of it, and in 30 days you're harvesting fresh methi leaves worth $4-6 per pound at farmers markets (USDA AMS Specialty Crop Market News, 2023). Wait another 15 days and you get seeds. It's a fast, nitrogen-fixing legume that gives you two harvests and improves the soil it grows in.

@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, consistent to prevent woody roots
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Kale", "Arugula"]
 description: "Beet (Beta vulgaris) yields roots at $2.50/lb and free greens worth $3-4/lb retail. Specialty varieties like Chioggia command $4-6/lb at market."
+hero_image: /images/crops/beet.webp
 ---
 
 Beets (*Beta vulgaris* subsp. *vulgaris*) are the only common garden crop where you harvest the same plant twice. The roots are the main event, but the greens are essentially a free second crop. Beet greens at the farmers market run $3–$4/lb and are nutritionally comparable to Swiss chard - they're the same species. When you thin your beet seedlings, you're pulling young plants that would otherwise be composted. Those thinnings are fully edible greens. The math for a $2.49 seed packet becomes noticeably better once you account for both harvests.

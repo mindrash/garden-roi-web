@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, consistent to prevent head splitting
 sunlight: Full sun (6+ hours)
 companion_plants: ["Mint", "Arugula"]
 description: "Cabbage (Brassica oleracea) stores fresh for weeks and ferments into sauerkraut worth $6-10/lb retail. One 3-lb head becomes multiple jars of shelf-stable food."
+hero_image: /images/crops/cabbage.webp
 ---
 
 Cabbage (*Brassica oleracea* var. *capitata*) is cheap in the store - $0.59–$1.50/lb depending on season and location (USDA AMS National Retail Report, Fruits and Vegetables, 2023). At that price, the case for growing it on raw retail value alone is thin. The case for growing it rests on two things: the fermentation multiplier and storage. A 3-lb head of cabbage at $1.25/lb is $3.75. Fermented into sauerkraut and sold at a farmers market or premium grocery, that same cabbage yields 3–4 jars retailing at $6–$10 each. The transformation adds $18–$40 in value to a $3 raw ingredient.

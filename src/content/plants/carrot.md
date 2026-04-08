@@ -12,6 +12,7 @@ watering: Consistent 1 inch/week; uneven moisture causes forked or cracked roots
 sunlight: Full sun (6+ hours minimum)
 companion_plants: [Tomato, Lettuce]
 description: "Carrot (Daucus carota) - 1 lb per 10-ft row at $1.75/lb; heirloom varieties fetch $4-6/lb at market. Loose, rock-free soil prevents forking and split roots."
+hero_image: /images/crops/carrot.webp
 ---
 
 Carrot (*Daucus carota* subsp. *sativus*) is one of those crops that looks simple and isn't. The seed is cheap, the days to maturity are reasonable, and the plant itself doesn't ask for much above ground. Below ground is where things go wrong. If your soil isn't right - loose, deep, rock-free, well-drained - you will pull up forked, stubby, split roots that taste fine but look like something that lost an argument with a shovel. Get the soil right and carrots are one of the most efficient vegetables you can grow.

@@ -12,6 +12,7 @@ watering: Heavy; 1.5-2 inches/week, sensitive to moisture stress
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Tomato", "Leek"]
 description: "Celery (Apium graveolens) - $1.50-2.50/lb at retail, requires consistent heavy moisture and 12+ weeks to mature. The hardest common vegetable to grow well; self-blanching varieties help."
+hero_image: /images/crops/celery.webp
 ---
 
 Celery (*Apium graveolens*) is the most technically demanding common vegetable in the home garden. That's not hyperbole - it's the consensus of extension horticulturists across the country. The crop wants a narrow temperature window, more water than almost anything else you can grow, a long season that doesn't fit neatly into most climates, and consistent soil fertility to avoid hollow or bitter stalks. If you've grown tomatoes and peppers and think you're ready for the next level of difficulty, celery is waiting.

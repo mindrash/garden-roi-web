@@ -11,13 +11,12 @@ import { getCollection } from 'astro:content';
 const allPlants = await getCollection('plants');
 const allArticles = await getCollection('articles');
 
-// Highest-ROI crop for section anchor
-const topCrop = allPlants
-  .sort((a, b) => {
-    const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.seed_cost;
-    const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.seed_cost;
-    return roiB - roiA;
-  })[0];
+// Highest-ROI crop for section anchor (use spread to avoid mutating shared array)
+const topCrop = [...allPlants].sort((a, b) => {
+  const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.seed_cost;
+  const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.seed_cost;
+  return roiB - roiA;
+})[0];
 
 // Featured ROI article
 const roiArticle = allArticles

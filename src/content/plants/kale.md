@@ -12,7 +12,7 @@ watering: Regular; 1–1.5 inches/week, consistent moisture reduces bitterness
 sunlight: Full sun to partial shade (4–6 hours minimum; accepts afternoon shade)
 companion_plants: [Dill, Nasturtium, Garlic]
 description: "Kale (Brassica oleracea var. acephala) - 2 lb per plant at $3.50/lb. Harvest outer leaves every 7-14 days to keep the plant producing through late fall frost."
-# hero_image: TODO
+hero_image: /images/crops/kale.webp
 ---
 
 Kale (*Brassica oleracea* var. *acephala*) is the workhorse brassica of the cool-season garden. It tolerates light frost better than almost any other leafy crop - in fact, cold temperatures below 28°F convert leaf starches to sugars and improve the flavor noticeably. You can harvest kale from spring through the first hard freeze in most zones, and in Zones 7 and warmer, through winter with light protection. For production across the widest temperature range, it's hard to beat.

@@ -12,6 +12,7 @@ watering: Light to moderate; 1 inch/week once established, tolerates dry
 sunlight: Full sun (6+ hours)
 companion_plants: ["Cucumber", "Lettuce"]
 description: "Dill (Anethum graveolens) - fronds at 40 days, seed heads at 90-110 days, two distinct harvests from one planting. Self-sows reliably if you let any heads go to seed."
+hero_image: /images/crops/dill.webp
 ---
 
 Dill (*Anethum graveolens*) is a plant you get two usable crops from - the feathery leaves (dill weed) and the seed heads (dill heads or dill seed). Fronds are ready in 40-60 days; full seed head maturity takes 90-110 days. You can harvest fronds continuously while waiting for the heads, or dedicate some plants to head production. A packet of dill seeds costs under two dollars and will last you multiple seasons.

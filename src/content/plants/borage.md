@@ -12,6 +12,7 @@ watering: Light to moderate; 1 inch/week, drought-tolerant once established
 sunlight: Full sun (6+ hours)
 companion_plants: [Tomato, Cucumber]
 description: "Borage (Borago officinalis) - edible star-shaped blue flowers, $6-10/lb at specialty markets. Self-sows aggressively. One planting can last indefinitely with zero re-seeding cost."
+hero_image: /images/crops/borage.webp
 ---
 
 Borage (*Borago officinalis*) is worth growing for two practical reasons: the star-shaped blue flowers are edible and command $6-10/lb at specialty retailers and farmers markets (USDA AMS Specialty Crop Market News, 2023), and the plant self-sows so aggressively that you buy seed once and essentially never again. The third reason - it genuinely attracts pollinators, and more pollinators near your tomatoes and cucumbers means better fruit set - is a bonus that's documented rather than speculative.

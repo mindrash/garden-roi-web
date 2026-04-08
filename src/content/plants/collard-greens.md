@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, consistent
 sunlight: Full sun (6+ hours)
 companion_plants: ["Garlic", "Mint"]
 description: "Collard Greens (Brassica oleracea var. viridis) - heat-tolerant when kale fails. Cut-and-come-again with a harvest window that stretches from summer through hard frost."
+hero_image: /images/crops/collard-greens.webp
 ---
 
 Collard greens (*Brassica oleracea* var. *viridis*) stay productive when kale quits. In the south, they're the standard cool-weather green that tolerates summer heat well enough to continue producing through temperatures that send kale into bitterness and bolt. In the north, they're a late-season standout - collards actually improve in flavor after frost, a cold-triggered conversion of starches to sugars. If your goal is fresh greens across the widest possible seasonal window, collards earn their bed space.

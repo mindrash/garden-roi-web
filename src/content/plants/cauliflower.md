@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, consistent - moisture stress causes button
 sunlight: Full sun (6+ hours minimum)
 companion_plants: ["Mint", "Garlic"]
 description: "Cauliflower at $3.50/lb conventional or $5-8/lb for colored varieties. Timing precision - not variety - is what determines whether you get a usable head."
+hero_image: /images/crops/cauliflower.webp
 ---
 
 Cauliflower (*Brassica oleracea* var. *botrytis*) is the most temperature-sensitive brassica in the home garden. Heat at the wrong moment - specifically during head formation - produces loose, ricey curds or no head at all. Get the timing right and you have a crop that retails for $3.50-5.00/lb for standard white heads and $5-8/lb for orange, purple, or romanesco types (USDA AMS Specialty Crop Market News, 2023). Get the timing wrong and you have an expensive ornamental.

@@ -12,6 +12,7 @@ watering: Light; extremely drought-tolerant, 0.25-0.5 inch/week once established
 sunlight: Full sun (6-8 hours minimum)
 companion_plants: [Thyme, Sage]
 description: "Lavender (Lavandula angustifolia) - perennial in zones 5-8, $12-20/lb dried. Culinary, craft, and cut flower market. Year 2+ input cost near zero. Slow from seed."
+hero_image: /images/crops/lavender.webp
 ---
 
 Lavender (*Lavandula angustifolia*, English lavender) has an unusual financial profile for a garden plant: your ongoing input cost after year one is essentially zero, while the crop has three distinct markets - culinary, dried craft bundles, and fresh-cut flowers. The price ranges across those uses vary widely. Culinary lavender runs $12-20/lb dried (USDA AMS Specialty Crop Market News, 2023). Fresh-cut stems at farmers markets move at $4-8 per bunch (roughly 25 stems). Dried bundles retail $6-15 each. If you grow it well and have any local market access, the math is hard to argue with.

@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week once established
 sunlight: Full sun (6-8 hours)
 companion_plants: ["Arugula", "Lettuce"]
 description: "Fennel (Foeniculum vulgare) - bulb, fronds, and seeds yield three harvests. $3-6/lb retail. Keep away from most other crops - fennel is allelopathic."
+hero_image: /images/crops/fennel.webp
 ---
 
 Fennel (*Foeniculum vulgare*) gives you three different harvests from a single planting: the bulb, the feathery fronds, and the seeds. Retail prices for fennel bulbs run $3–$6/lb at grocery stores and significantly more at farmers markets (USDA AMS Market News, 2023). The practical challenge is that fennel produces allelopathic compounds that suppress the growth of most neighboring plants. It needs its own space, physically separated from the main vegetable garden.

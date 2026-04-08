@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, consistent through fall
 sunlight: Full sun (6+ hours minimum)
 companion_plants: ["Mint", "Garlic"]
 description: "Brussels sprouts yield 1.5 lb/plant at $4.50/lb - the highest dollar return per plant of all brassicas. Hard frost converts leaf starches to sugar and fixes the flavor."
+hero_image: /images/crops/brussels-sprouts.webp
 ---
 
 Brussels sprouts (*Brassica oleracea* var. *gemmifera*) produce more grocery value per plant than any other brassica. At $4-6/lb retail (USDA AMS Specialty Crop Market News, 2023) and 1.5 lb per plant across the season, a single plant returns $6-9 in grocery value from $0.10-0.15 in seed cost. The trade-off is the longest lead time of any brassica - 85-110 days from transplant - and a flavor that depends entirely on cold weather most gardeners don't plan around.

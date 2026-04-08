@@ -12,6 +12,7 @@ watering: Moderate; keep soil consistently moist, water at root zone
 sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Tomato, Oregano]
 description: "Sweet Basil (Ocimum basilicum) - 0.5-1.5 lb per plant at $15/lb retail. Pinch flower buds weekly to extend the harvest window through the growing season."
+hero_image: /images/crops/basil.webp
 ---
 
 Basil (*Ocimum basilicum*) is one of the few culinary herbs where a single healthy plant genuinely offsets what you'd spend at the grocery store over a season. Fresh basil at retail runs $2.00–$4.00 for a small clamshell that weighs less than an ounce  -  that puts the price per pound north of $30 in many markets. You won't replicate commercial greenhouse yields in a raised bed, but you also don't need to. Three to four well-managed plants will cover a typical household through the growing season and leave plenty for freezing.

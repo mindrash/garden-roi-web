@@ -12,6 +12,7 @@ watering: Moderate; 1-1.5 inches/week during fruit development, drought-tolerant
 sunlight: Full sun (8+ hours)
 companion_plants: ["Arugula", "Basil"]
 description: "Fig (Ficus carica) - $4-6/lb fresh, two harvests/year in zones 8+. Homegrown advantage is access, not just savings. Container culture for cold climates explained."
+hero_image: /images/crops/fig.webp
 ---
 
 Fresh figs sell for $4-6/lb at specialty grocers and farmers markets, but the real reason to grow them is that you almost certainly can't find good ones locally (USDA AMS Specialty Crop Market News, 2023). Fresh figs have a 2-3 day shelf life after harvest. The commercial supply chain cannot handle that, so what reaches most US retail markets is fruit picked underripe - firm enough to ship, but missing the jammy interior that makes a ripe fig worth eating. Grow your own and the access problem disappears entirely.

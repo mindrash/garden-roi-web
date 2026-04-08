@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, consistent moisture reduces bitterness
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Garlic", "Radish"]
 description: "Bok Choy (Brassica rapa subsp. chinensis) - 45-60 days, baby size at 30 days commands premium price. Fast cool-season crop with two windows per year."
+hero_image: /images/crops/bok-choy.webp
 ---
 
 Bok choy (*Brassica rapa* subsp. *chinensis*) is one of the fastest vegetables you can grow to a usable size. Baby bok choy - harvested at 4-6 inches tall - is ready in 30-35 days from transplant, which means a spring planting can give you a full harvest before the summer heat arrives. Full-size heads take 45-60 days. If your goal is maximum pound-per-square-foot per season, bok choy belongs in your cool-season rotation.

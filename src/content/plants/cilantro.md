@@ -12,6 +12,7 @@ watering: Regular; 1 inch/week, keep soil moist during germination
 sunlight: Full sun to partial shade (4-6 hours; afternoon shade extends season)
 companion_plants: ["Tomato", "Spinach"]
 description: "Cilantro (Coriandrum sativum) - bolts fast in heat; succession plant every 3 weeks. Coriander seed from spent plants is a second harvest worth having."
+hero_image: /images/crops/cilantro.webp
 ---
 
 Cilantro (*Coriandrum sativum*) bolts. That's the central fact about this herb, and every growing decision flows from it. In warm weather, a cilantro plant can go from leaf to flower stalk in under two weeks, which means a single planting gives you a few weeks of harvest and then you're done. The solution isn't to fight the bolting - it's to plant small amounts every three weeks from early spring through early summer, then again in late summer through fall.

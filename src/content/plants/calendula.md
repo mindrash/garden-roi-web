@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, tolerates some drought once established
 sunlight: Full sun (6+ hours)
 companion_plants: ["Tomato", "Arugula"]
 description: "Calendula (Calendula officinalis) - edible flowers $8-14/lb. Dried petals have secondary cosmetic/skincare market value. Self-sows. Cool-season bloomer."
+hero_image: /images/crops/calendula.webp
 ---
 
 Calendula (*Calendula officinalis*) is one of the few edible flower crops with a genuine secondary market: dried petals are used commercially in skin care products, salves, and cosmetic formulations. Fresh edible flowers run $8-14 per pound at farmers markets and specialty grocers (USDA AMS Specialty Crop Market News, 2023). Dried petals fetch comparable prices in the herbalism and cosmetic ingredient markets. A single $1.99 seed packet planted in early spring will give you continuous blooms from late spring through hard frost if you keep the flowers harvested. That's 5-6 months of production from one packet.

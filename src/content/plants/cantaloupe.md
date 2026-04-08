@@ -12,6 +12,7 @@ watering: Regular; 1-2 inches/week, reduce sharply at ripening for concentrated 
 sunlight: Full sun (8+ hours)
 companion_plants: ["Corn", "Radish"]
 description: "Cantaloupe (Cucumis melo var. cantalupensis) - 5-10 lb per vine at $1-2/lb. French Charentais types reach $4-6/lb at specialty markets. Reduce water at ripening."
+hero_image: /images/crops/cantaloupe.webp
 ---
 
 A supermarket cantaloupe is picked unripe, treated with ethylene gas, and shipped hundreds or thousands of miles. The flavor it arrives with is a fraction of what the fruit produces when you cut it ripe from your own vine. That flavor gap is the ROI case for growing cantaloupe, because the retail price per pound doesn't tell you much about its actual value.

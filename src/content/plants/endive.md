@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Arugula", "Lettuce"]
 description: "Endive (Cichorium endivia) - $3-5/lb specialty green. Two types: curly frisée and broad-leaved escarole. Blanching technique reduces bitterness and increases culinary value."
+hero_image: /images/crops/endive.webp
 ---
 
 Endive (*Cichorium endivia*) is a bitter green that most American home gardeners have never grown despite it being a regular item at upscale restaurants and European-style grocery stores. It's related to radicchio and chicory, shares their characteristic bitterness, and like them it's most useful to a cook who knows what to do with that bitterness - which is mostly: balance it with fat, acid, or heat.

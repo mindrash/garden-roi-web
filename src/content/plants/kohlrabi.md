@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, consistent to prevent woody bulb
 sunlight: Full sun (6+ hours)
 companion_plants: ["Arugula", "Beet"]
 description: "Kohlrabi (Brassica oleracea var. gongylodes) - fastest brassica after radish. 45-60 days, $2-4/lb retail. Both bulb and leaves edible."
+hero_image: /images/crops/kohlrabi.webp
 ---
 
 Kohlrabi (*Brassica oleracea* var. *gongylodes*) matures in 45–60 days - faster than any brassica except radish. It occupies a productive window in spring and fall when most summer crops can't yet go in the ground, and it uses that window efficiently. Fresh kohlrabi at retail runs $2–$4/lb; at farmers markets, purple varieties and large specialty kohlrabi fetch $3–$5/lb (USDA AMS Market News, 2023).

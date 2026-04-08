@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, critical at silking and ear fill
 sunlight: Full sun (8+ hours minimum)
 companion_plants: ["Green Bean", "Zucchini"]
 description: "Corn (Zea mays) returns $0.50-1.00 per ear from a $0.06 seed, but it demands space - honest sq ft math matters before you commit a bed to it."
+hero_image: /images/crops/corn.webp
 ---
 
 Corn (*Zea mays*) makes a decent argument on a per-ear basis. A seed that costs $0.06 grows into an ear that retails for $0.50–$1.00 at the farmers market or farm stand (USDA AMS National Retail Report, Fruits and Vegetables, 2023). The problem is space. Each stalk produces one to two ears and occupies a square foot for 70–90 days. Do that math before you plant a 4x8 raised bed with corn and realize you've traded $80 in bed infrastructure for 30 ears.

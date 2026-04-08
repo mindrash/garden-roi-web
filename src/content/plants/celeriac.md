@@ -12,6 +12,7 @@ watering: Heavy; 1.5-2 inches/week, consistent - stress causes cracked roots
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Leek", "Arugula"]
 description: "Celeriac (Apium graveolens var. rapaceum) - $3-5/lb, rarely stocked outside specialty grocers, stores through winter. Grown for the swollen root, not the tops."
+hero_image: /images/crops/celeriac.webp
 ---
 
 Celeriac (*Apium graveolens var. rapaceum*) is the same species as stalk celery, but the edible part is a knobby, swollen root base rather than the stems. The flavor is celery-like but earthier and less sharp, and the texture is dense enough to roast, puree, or eat raw in thin slices. It's a standard root vegetable across northern and central Europe; in the US it shows up at specialty grocers and farmers markets but rarely makes it to conventional produce aisles. That scarcity is part of the ROI argument.

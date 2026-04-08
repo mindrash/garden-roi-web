@@ -12,6 +12,7 @@ watering: Heavy; 1–2 inches/week, consistent moisture critical to prevent bitt
 sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Beans, Dill, Marigold, Sunflower]
 description: "Cucumber (Cucumis sativus) - 8 lb per plant at $1.78/lb. Trellised plants yield 20-30% more; consistent watering prevents bitter cucurbitacin in the fruit."
+hero_image: /images/crops/cucumber.webp
 ---
 
 Cucumber (*Cucumis sativus*) is one of the faster-moving crops in the summer garden. A healthy trellised plant will produce 8–12 lb of fruit over the season, and because cucumbers hit stores at $0.89–$2.00 per fruit depending on the season and variety (USDA Agricultural Marketing Service market reports), the returns accumulate quickly once production peaks. The challenge is keeping up. In hot weather, cucumbers need checking every day or two  -  let a fruit go too long and the plant downshifts production.

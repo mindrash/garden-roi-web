@@ -12,6 +12,7 @@ watering: Regular; 1 inch/week, consistent moisture from flowering through harve
 sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Carrot, Cucumber, Squash]
 description: "Green Bean (Phaseolus vulgaris) - 3-5 lb per 10-ft row at $2.26/lb. Bush types produce all at once for preserving; pole types yield continuously for months."
+hero_image: /images/crops/green-bean.webp
 ---
 
 Green bean (*Phaseolus vulgaris*) is the crop that makes sense for almost any home garden because the seed-to-table timeline is short, the inputs are low, and the plants don't require the structural attention that sprawling crops do. Fifty days from direct seeding to first harvest is realistic for bush types. You don't transplant beans, don't trellis bush varieties, and don't fertilize much  -  the plants fix atmospheric nitrogen through a symbiosis with *Rhizobium* bacteria in their root nodules, so they largely feed themselves after establishment.

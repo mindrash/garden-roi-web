@@ -1,59 +1,9 @@
 # Garden ROI Web — Claude Code Instructions
 
-## Session Start Protocol — Required
+> **Read `AGENTS.md` at the repository root. That file is the canonical instruction set for all agents on this project.**
 
-Before touching any files:
+```
+cat AGENTS.md
+```
 
-1. Read the task methodology skill:
-   ```
-   cat /Users/tlawson/.claude/skills/garden-roi-tasks/SKILL.md
-   ```
-2. Read the canonical backlog:
-   ```
-   cat memories/repo/tasks.md
-   ```
-3. Find the first `[>]` (in progress) task and continue it, OR start the first `[ ]` task.
-4. Mark the task `[>]` in `memories/repo/tasks.md` before touching any files.
-5. When done, mark `[?]`, run acceptance criteria, then mark `[x]`.
-
-**Never start work without reading `tasks.md` first.**
-
-**Story range mode:** If given specific story IDs (e.g., "complete A001-A003"), work each in sequence per the tasks.md entry. Do not skip ahead or batch stories.
-
----
-
-## Project
-
-Companion website for the Garden ROI mobile app. Hosted at gardenroi.com via GitHub Pages.
-
-- **Framework:** Astro v6, static output, TypeScript strict mode
-- **Dev server:** Already running at `http://localhost:4321`. Never start a new one.
-- **Build check:** `npx astro build` - must pass with 0 errors before marking any task `[x]`
-
-## Related Repo
-
-Mobile app at `~/projects/garden-roi`:
-- Design tokens: `constants/theme.ts`
-- Plant data: `assets/data/variety_library.json` (800+ USDA varieties, use for price/yield validation)
-
-## Content Standards — Non-Negotiable
-
-- **No em dashes (—) ever.** Use ` - ` (space-hyphen-space) or rewrite the sentence.
-- **No hardcoded CSS values.** All colors, spacing, fonts use CSS custom properties from `src/styles/theme.css`.
-- **Prices must be cited.** USDA ERS, USDA AMS, or land-grant extension. No invented numbers.
-- **No motivational closings.** No "journey", "rewarding experience", or "hope you enjoy" language.
-- **Every content section needs a background color.** The site body has a background image. Any wrapper that contains text must have `background-color: rgba(248, 249, 245, 0.97)` or higher opacity. Alternating section tints use `rgba(0, 0, 0, 0.04)` layered on top. Never render text directly over the background image. Check this on every page you create or modify.
-- Load the content skill before writing any plant entries or articles:
-  `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
-
-## Key Paths
-
-| Purpose | Path |
-|---|---|
-| Task backlog | `memories/repo/tasks.md` |
-| Plant entries | `src/content/plants/` |
-| Article entries | `src/content/articles/` |
-| Content schema | `src/content.config.ts` |
-| Theme tokens | `src/styles/theme.css` |
-| Content skill | `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md` |
-| Task skill | `/Users/tlawson/.claude/skills/garden-roi-tasks/SKILL.md` |
+All session start protocol, content standards, coding standards, and key paths are defined there. Do not duplicate them here.

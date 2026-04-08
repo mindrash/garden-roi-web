@@ -12,6 +12,7 @@ watering: Moderate; drought-tolerant once established, 1 inch/week
 sunlight: Full sun (6+ hours)
 companion_plants: ["Arugula", "Chives"]
 description: "Goji Berry (Lycium barbarum) - dried $10-20/lb, fresh nearly unavailable at retail. Perennial zones 3-10, productive 50+ years. Thorny shrub, slow first 2 years."
+hero_image: /images/crops/goji-berry.webp
 ---
 
 Fresh goji berries (*Lycium barbarum*) are nearly impossible to find in US retail. Dried goji berries sell for $10-20/lb in the specialty and supplement market (USDA AMS Specialty Crop Market News, 2023). You can grow the plant in zones 3-10, it will produce for 50+ years, and it asks for almost nothing once established. The reason more people don't grow it comes down to the first two years looking like a failure before production picks up.

@@ -12,6 +12,7 @@ watering: Regular; 1-2 inches/week, reduce slightly once fruit sets
 sunlight: Full sun (8+ hours preferred)
 companion_plants: [Tomato, Carrot, Basil, Onion]
 description: "Hot Pepper (Capsicum annuum) - cayenne yields 4 lb fresh per plant, drying to 0.8 lb at $15/lb. Jalapeños yield 25-35 pods per plant for fresh use or pickling."
+hero_image: /images/crops/hot-pepper.webp
 ---
 
 Hot peppers (*Capsicum annuum*) have a value multiplier that most garden crops don't: fresh, they return $2.00 to $5.00 per pound at retail. Dried, they can return $8.00 to $15.00 per pound. Fermented into hot sauce, the per-ounce value of a jar you made yourself is essentially what you'd pay at a specialty food store. Jalapeños and cayennes are both *C. annuum*, both easy to grow, and both give you options for what to do with the harvest that most vegetables don't.

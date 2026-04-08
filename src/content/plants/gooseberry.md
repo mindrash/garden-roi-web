@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week
 sunlight: Full sun to partial shade (4-6 hours acceptable)
 companion_plants: ["Arugula", "Chives"]
 description: "Gooseberry (Ribes uva-crispa) - $4-7/lb, perennial 15+ years, cold-hardy to zone 3. Near-absent from US retail. ROI case, American vs. European varieties, pest guide."
+hero_image: /images/crops/gooseberry.webp
 ---
 
 Gooseberry (*Ribes uva-crispa*) is one of the more productive fruit shrubs available to cold-climate gardeners, capable of returning 4-6 lb per plant annually starting in year two or three. It is also essentially unavailable in US retail - not because there's no market for it, but because production infrastructure never developed after the same federal restrictions that hobbled currant growing. Plant one now and you're looking at a 15-20 year producing life from a shrub you can start for $5.

@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week during active growth, reduce in dormancy
 sunlight: Full sun (6-8 hours minimum)
 companion_plants: ["Tomato", "Basil"]
 description: "Asparagus (Asparagus officinalis) - 2-year establishment, then 20+ years of free spears at $4-6/lb. Long-term ROI math, planting depth, and crown vs. seed guide."
+hero_image: /images/crops/asparagus.webp
 ---
 
 Asparagus (*Asparagus officinalis*) is the only perennial vegetable most home gardeners will ever plant that pays dividends for two decades from a single investment. You put crowns or seeds in the ground in year one, resist harvesting for two full seasons, and starting in year three you cut spears every spring for 20 years or more. The wait is the whole argument. Once you're through it, the input cost drops to almost nothing.

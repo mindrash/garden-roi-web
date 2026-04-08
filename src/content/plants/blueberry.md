@@ -12,6 +12,7 @@ watering: Regular; 1-2 inches/week, mulch to retain moisture, acid soil required
 sunlight: Full sun (6-8 hours)
 companion_plants: ["Strawberry", "Arugula"]
 description: "Blueberry (Vaccinium corymbosum) - 5-10 lb/bush from year 3+, $5-8/lb retail. 20-year productive life. Soil pH 4.5-5.5 is non-negotiable."
+hero_image: /images/crops/blueberry.webp
 ---
 
 Blueberry (*Vaccinium corymbosum*) plants routinely live 20 to 30 years in home gardens, and a mature bush in good soil returns more in fresh fruit value than most annuals ever will. The catch is year one and year two. You won't harvest much, and you shouldn't try. The establishment period is the investment, and skipping it by harvesting too early is the most common reason blueberry plantings underperform.

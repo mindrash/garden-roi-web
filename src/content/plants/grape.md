@@ -12,6 +12,7 @@ watering: Moderate; 1-1.5 inches/week first 2 years, drought-tolerant after esta
 sunlight: Full sun (8+ hours)
 companion_plants: ["Arugula", "Oregano"]
 description: "Grape (Vitis vinifera) - table grapes $2-4/lb, productive vine 30+ years. Annual pruning is mandatory - skip it and yield drops dramatically. Full growing guide."
+hero_image: /images/crops/grape.webp
 ---
 
 A grape vine (*Vitis vinifera*) is a 30-year investment in the right conditions. Years one and two are establishment. Year three begins production. By years five through seven, a well-managed vine produces 10-20 lb of table grapes annually and will continue doing so for decades with nothing more than yearly pruning and basic pest management (Penn State Extension, *Grape Production for the Home Garden*, 2022). The math on a $6.99 rooted cutting is hard to argue with - if you're willing to wait and willing to prune.

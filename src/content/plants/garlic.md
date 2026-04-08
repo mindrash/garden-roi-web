@@ -12,7 +12,7 @@ watering: Moderate; 1 inch/week during active growth, reduce sharply as foliage 
 sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Tomato, Rose, Fruit Trees, Chamomile]
 description: "Garlic (Allium sativum) - 1 lb of seed garlic at $12 produces 6-8 lb of cured heads at $5-14/lb. Scapes removed in spring boost final bulb size by up to 30%."
-# hero_image: TODO
+hero_image: /images/crops/garlic.webp
 ---
 
 Garlic (*Allium sativum*) is one of the better-argued cases for growing your own food. The garlic sold in most grocery stores is Chinese-grown softneck that was harvested months ago, fumigated for import, and sometimes irradiated to prevent sprouting (USDA APHIS import treatment requirements). The hardneck garlic you grow at home is fresh-cured, unirradiated, and so different in flavor from the imported commodity that comparing them is like comparing a ripe backyard tomato to a February grocery store tomato. You grow it in fall and harvest it the following summer, which means the crop occupies bed space through winter when there's nothing else going in those beds anyway.
