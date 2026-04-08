@@ -385,8 +385,8 @@ const topCropRoi = topCrop
   }
 
   /* Newsletter signup */
-  #nl-form-state,
-  #nl-success-state {
+  #nl-form-state:not([hidden]),
+  #nl-success-state:not([hidden]) {
     display: flex;
     flex-direction: column;
     gap: var(--space-s);
