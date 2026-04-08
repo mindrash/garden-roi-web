@@ -125,15 +125,25 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-image: url('/bg-2.webp');
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center center;
-  background-repeat: no-repeat;
+  background-color: var(--color-bg);
 }
 
 main {
   flex: 1;
+}
+
+/* Full-viewport background image — fixed element avoids iOS Safari
+   background-attachment:fixed bug while filling the viewport on all devices */
+.site-bg {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  z-index: -1;
+  pointer-events: none;
+  user-select: none;
 }
 
 a {
@@ -308,12 +318,6 @@ li {
 .prose strong { font-weight: 600; color: var(--color-text-primary); }
 
 @media (max-width: 768px) {
-  body {
-    background-attachment: scroll;
-    background-size: 100% auto;
-    background-position: top center;
-  }
-
   .container,
   .content-container {
     padding: 0 var(--space-m);
