@@ -3,7 +3,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import AppStoreBadges from '../components/AppStoreBadges.astro';
 import PlantCard from '../components/PlantCard.astro';
 import ArticleCard from '../components/ArticleCard.astro';
-import RoiCalculator from '../components/RoiCalculator.astro';
 import RoiEstimator from '../components/RoiEstimator.astro';
 import GardenFact from '../components/GardenFact.astro';
 import { getCollection } from 'astro:content';
@@ -152,18 +151,6 @@ const topCropRoi = topCrop
           <p class="anchor-desc">{homesteadArticle.data.description}</p>
         )}
         <a href="/homestead/" class="anchor-link">All homestead articles →</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- ROI Calculator -->
-  <section class="section section-card">
-    <div class="container">
-      <div class="glass-card">
-        <div class="section-header section-header-tight">
-          <h2 class="section-title">Garden Return on Investment Calculator</h2>
-        </div>
-        <RoiCalculator />
       </div>
     </div>
   </section>
@@ -317,6 +304,10 @@ const topCropRoi = topCrop
     flex-wrap: wrap;
   }
 
+  .hero-app {
+    min-width: 0;
+  }
+
   .app-card {
     background: rgba(255, 255, 255, 0.98);
     backdrop-filter: blur(10px);
@@ -327,6 +318,8 @@ const topCropRoi = topCrop
     flex-direction: column;
     gap: var(--space-m);
     align-items: flex-start;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .app-card-header {
@@ -632,6 +625,10 @@ const topCropRoi = topCrop
   }
 
   @media (max-width: 900px) {
+    .hero-text h1 {
+      -webkit-text-stroke: 0.5px var(--color-tab-bar);
+    }
+
     .hero-content {
       grid-template-columns: 1fr;
     }
@@ -672,6 +669,10 @@ const topCropRoi = topCrop
   }
 
   @media (max-width: 600px) {
+    .app-card {
+      padding: var(--space-m);
+    }
+
     .features-grid,
     .card-grid {
       grid-template-columns: 1fr;
