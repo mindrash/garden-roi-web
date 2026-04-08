@@ -308,6 +308,11 @@ li {
 .prose strong { font-weight: 600; color: var(--color-text-primary); }
 
 @media (max-width: 768px) {
+  body {
+    background-image: none;
+    background-attachment: scroll;
+  }
+
   .container,
   .content-container {
     padding: 0 var(--space-m);
