@@ -309,8 +309,9 @@ li {
 
 @media (max-width: 768px) {
   body {
-    background-image: none;
     background-attachment: scroll;
+    background-size: 100% auto;
+    background-position: top center;
   }
 
   .container,
