@@ -19,19 +19,20 @@ const plantsJson = JSON.stringify(plants);
   <!-- Baked-in plant data — read by the script below -->
   <script id="estimator-data" type="application/json" set:html={plantsJson}></script>
 
+  <!-- Inputs: single row across the top -->
   <div class="estimator-inputs">
-    <div class="input-group">
+    <div class="input-group input-group-crop">
       <label for="est-crop" class="input-label">Crop</label>
       <select id="est-crop" class="est-select">
-        <option value="">-- Select a crop --</option>
+        <option value="">— Select a crop —</option>
         {plants.map((p) => (
           <option value={p.slug}>{p.name}</option>
         ))}
       </select>
     </div>
 
-    <div class="input-group">
-      <label for="est-plants" class="input-label">Number of plants</label>
+    <div class="input-group input-group-count">
+      <label for="est-plants" class="input-label">Plants</label>
       <input
         type="number"
         id="est-plants"
@@ -43,33 +44,36 @@ const plantsJson = JSON.stringify(plants);
     </div>
   </div>
 
+  <!-- Output: full width below inputs, hidden until crop selected -->
   <div class="estimator-output" id="est-output">
-    <p class="est-prompt" id="est-prompt">Select a crop to see your estimated return.</p>
+    <p class="est-prompt" id="est-prompt">Select a crop above to see your estimated return.</p>
 
     <div class="est-result" id="est-result" hidden>
-      <div class="est-net-savings">
-        <span class="est-net-label">Net savings</span>
-        <span class="est-net-value" id="est-net-value">$0.00</span>
+      <div class="est-stats">
+        <div class="est-net-savings">
+          <span class="est-net-label">Net savings</span>
+          <span class="est-net-value" id="est-net-value">$0.00</span>
+        </div>
+        <div class="est-breakdown">
+          <div class="est-row">
+            <span class="est-row-label">Estimated yield</span>
+            <span class="est-row-value" id="est-yield-val">—</span>
+          </div>
+          <div class="est-row">
+            <span class="est-row-label">Grocery value</span>
+            <span class="est-row-value" id="est-grocery-val">—</span>
+          </div>
+          <div class="est-row est-row-deduct">
+            <span class="est-row-label">Seed investment</span>
+            <span class="est-row-value" id="est-seed-val">—</span>
+          </div>
+        </div>
       </div>
 
-      <div class="est-breakdown">
-        <div class="est-row">
-          <span class="est-row-label">Estimated yield</span>
-          <span class="est-row-value" id="est-yield-val">—</span>
-        </div>
-        <div class="est-row">
-          <span class="est-row-label">Grocery value</span>
-          <span class="est-row-value" id="est-grocery-val">—</span>
-        </div>
-        <div class="est-row est-row-deduct">
-          <span class="est-row-label">Seed investment</span>
-          <span class="est-row-value" id="est-seed-val">—</span>
-        </div>
+      <div class="est-footer">
+        <p class="est-source">Based on USDA average yield and retail price data.</p>
+        <a href="/app/" class="btn btn-primary est-cta">Track your actual harvest →</a>
       </div>
-
-      <p class="est-source">Based on USDA average yield and retail price data.</p>
-
-      <a href="/app/" class="btn btn-primary est-cta">Track your actual harvest →</a>
     </div>
   </div>
 </div>
@@ -131,17 +135,24 @@ const plantsJson = JSON.stringify(plants);
 
 <style>
   .estimator {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: var(--space-xl);
-    align-items: start;
-  }
-
-  /* Inputs */
-  .estimator-inputs {
     display: flex;
     flex-direction: column;
     gap: var(--space-l);
+  }
+
+  /* Inputs row */
+  .estimator-inputs {
+    display: flex;
+    gap: var(--space-m);
+    align-items: end;
+  }
+
+  .input-group-crop {
+    flex: 1;
+  }
+
+  .input-group-count {
+    flex: 0 0 100px;
   }
 
   .input-group {
@@ -180,20 +191,13 @@ const plantsJson = JSON.stringify(plants);
 
   /* Output */
   .estimator-output {
-    background-color: var(--color-bg);
-    border-radius: var(--radius-m);
-    border: 1px solid rgba(0, 0, 0, 0.06);
-    padding: var(--space-l);
-    min-height: 200px;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    flex-direction: column;
   }
 
   .est-prompt {
     font-size: var(--text-body);
     color: var(--color-text-muted);
-    text-align: center;
     margin: 0;
   }
 
@@ -201,19 +205,26 @@ const plantsJson = JSON.stringify(plants);
     display: flex;
     flex-direction: column;
     gap: var(--space-l);
-    width: 100%;
   }
 
-  /* Net savings — headline number */
+  /* Stats row: green net savings box + breakdown side by side */
+  .est-stats {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: var(--space-l);
+    align-items: center;
+  }
+
   .est-net-savings {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: var(--space-xs);
-    padding: var(--space-l);
+    padding: var(--space-l) var(--space-xl);
     background: linear-gradient(135deg, var(--color-primary-dark), var(--color-primary));
     border-radius: var(--radius-m);
     text-align: center;
+    white-space: nowrap;
   }
 
   .est-net-label {
@@ -228,7 +239,6 @@ const plantsJson = JSON.stringify(plants);
     font-family: var(--font-display);
     font-size: var(--text-stat);
     line-height: var(--leading-stat);
-    font-weight: 700;
     color: var(--color-tab-active);
   }
 
@@ -236,7 +246,7 @@ const plantsJson = JSON.stringify(plants);
   .est-breakdown {
     display: flex;
     flex-direction: column;
-    gap: var(--space-s);
+    gap: var(--space-xs);
   }
 
   .est-row {
@@ -261,64 +271,46 @@ const plantsJson = JSON.stringify(plants);
     color: var(--color-text-primary);
   }
 
-  .est-row-deduct .est-row-label {
-    color: var(--color-text-muted);
-  }
-
   .est-row-deduct .est-row-value {
     color: var(--color-error);
+  }
+
+  /* Footer: source note + CTA */
+  .est-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-m);
   }
 
   .est-source {
     font-size: var(--text-small);
     color: var(--color-text-muted);
     margin: 0;
-    text-align: center;
   }
 
   .est-cta {
-    width: 100%;
-    justify-content: center;
+    flex-shrink: 0;
+    white-space: nowrap;
   }
 
-  @media (max-width: 680px) {
-    .estimator {
+  @media (max-width: 600px) {
+    .est-stats {
       grid-template-columns: 1fr;
-      gap: var(--space-l);
     }
 
-    /* Inputs: put crop and count on one row */
-    .estimator-inputs {
-      display: grid;
-      grid-template-columns: 1fr auto;
-      gap: var(--space-m);
-      align-items: end;
+    .est-net-savings {
+      white-space: normal;
     }
 
-    /* Number input — fixed narrow width so it doesn't sprawl */
-    .est-number {
-      width: 72px;
+    .est-footer {
+      flex-direction: column;
+      align-items: flex-start;
     }
 
-    /* Output panel — strip the box chrome until there's a result */
-    .estimator-output {
-      min-height: unset;
-      background: none;
-      border: none;
-      padding: 0;
-    }
-
-    /* Restore box chrome only when showing a result */
-    .estimator-output:has(#est-result:not([hidden])) {
-      background-color: var(--color-bg);
-      border: 1px solid rgba(0, 0, 0, 0.06);
-      border-radius: var(--radius-m);
-      padding: var(--space-l);
-    }
-
-    .est-net-value {
-      font-size: var(--text-h1);
-      line-height: var(--leading-h1);
+    .est-cta {
+      width: 100%;
+      justify-content: center;
     }
   }
 </style>
