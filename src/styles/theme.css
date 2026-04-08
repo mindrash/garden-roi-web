@@ -118,6 +118,10 @@ html {
   line-height: var(--leading-body);
   color: var(--color-text-primary);
   background-color: var(--color-bg);
+  background-image: url('/bg-2.webp');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -125,28 +129,13 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background: transparent;
 }
 
 main {
   flex: 1;
 }
 
-/* Full-viewport background image — fixed element avoids iOS Safari
-   background-attachment:fixed bug while filling the viewport on all devices */
-.site-bg {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  height: 100dvh;
-  object-fit: cover;
-  object-position: center;
-  z-index: -1;
-  display: block;
-  pointer-events: none;
-  user-select: none;
-}
 
 a {
   color: var(--color-primary);
