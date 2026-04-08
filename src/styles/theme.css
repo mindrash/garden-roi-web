@@ -132,6 +132,12 @@ body {
   background: transparent;
 }
 
+@media (max-width: 768px) {
+  html {
+    background-attachment: scroll;
+  }
+}
+
 main {
   flex: 1;
 }
