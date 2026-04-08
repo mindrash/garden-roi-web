@@ -284,10 +284,36 @@ const plantsJson = JSON.stringify(plants);
   @media (max-width: 680px) {
     .estimator {
       grid-template-columns: 1fr;
+      gap: var(--space-l);
     }
 
+    /* Inputs: put crop and count on one row */
+    .estimator-inputs {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: var(--space-m);
+      align-items: end;
+    }
+
+    /* Number input — fixed narrow width so it doesn't sprawl */
+    .est-number {
+      width: 72px;
+    }
+
+    /* Output panel — strip the box chrome until there's a result */
     .estimator-output {
       min-height: unset;
+      background: none;
+      border: none;
+      padding: 0;
+    }
+
+    /* Restore box chrome only when showing a result */
+    .estimator-output:has(#est-result:not([hidden])) {
+      background-color: var(--color-bg);
+      border: 1px solid rgba(0, 0, 0, 0.06);
+      border-radius: var(--radius-m);
+      padding: var(--space-l);
     }
 
     .est-net-value {
