@@ -46,8 +46,6 @@ const plantsJson = JSON.stringify(plants);
 
   <!-- Output: full width below inputs, hidden until crop selected -->
   <div class="estimator-output" id="est-output">
-    <p class="est-prompt" id="est-prompt">Select a crop above to see your estimated return.</p>
-
     <div class="est-result" id="est-result" hidden>
       <div class="est-stats">
         <div class="est-net-savings">
@@ -93,7 +91,6 @@ const plantsJson = JSON.stringify(plants);
 
   const cropSelect  = document.getElementById('est-crop')    as HTMLSelectElement | null;
   const plantInput  = document.getElementById('est-plants')  as HTMLInputElement  | null;
-  const prompt      = document.getElementById('est-prompt')  as HTMLElement       | null;
   const result      = document.getElementById('est-result')  as HTMLElement       | null;
   const netValue    = document.getElementById('est-net-value')   as HTMLElement   | null;
   const yieldVal    = document.getElementById('est-yield-val')   as HTMLElement   | null;
@@ -110,7 +107,6 @@ const plantsJson = JSON.stringify(plants);
     const plant  = plantMap.get(slug);
 
     if (!plant) {
-      if (prompt) prompt.hidden = false;
       if (result) result.hidden = true;
       return;
     }
@@ -120,7 +116,6 @@ const plantsJson = JSON.stringify(plants);
     const seed         = plant.seed_cost * count;
     const net          = grocery - seed;
 
-    if (prompt) prompt.hidden = true;
     if (result) result.hidden = false;
 
     if (netValue)   netValue.textContent  = fmt(net);
@@ -193,12 +188,6 @@ const plantsJson = JSON.stringify(plants);
   .estimator-output {
     display: flex;
     flex-direction: column;
-  }
-
-  .est-prompt {
-    font-size: var(--text-body);
-    color: var(--color-text-muted);
-    margin: 0;
   }
 
   .est-result {
