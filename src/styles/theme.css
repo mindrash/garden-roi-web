@@ -132,15 +132,15 @@ main {
 }
 
 /* Full-viewport background image — fixed element avoids iOS Safari
-   background-attachment:fixed bug while filling the viewport on all devices.
-   --real-vh is set by JS to window.innerHeight; falls back to 100vh on SSR. */
+   background-attachment:fixed bug. bottom:0 on a fixed element means
+   "stick to the bottom of the visible viewport" and self-updates as
+   browser chrome shows/hides — no dvh or JS tricks needed. */
 .site-bg {
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  width: 100%;
-  height: var(--real-vh, 100vh);
+  bottom: 0;
   background-image: url('/bg-2.webp');
   background-size: cover;
   background-position: center;

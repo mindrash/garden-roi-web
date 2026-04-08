@@ -72,15 +72,5 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     </main>
     <Footer />
     <script is:inline src="/insects.js"></script>
-    <!-- iOS Safari viewport height fix: --real-vh stays accurate as chrome shows/hides -->
-    <script is:inline>
-      (function () {
-        function setVH() {
-          document.documentElement.style.setProperty('--real-vh', window.innerHeight + 'px');
-        }
-        setVH();
-        window.addEventListener('resize', setVH, { passive: true });
-      })();
-    </script>
   </body>
 </html>
