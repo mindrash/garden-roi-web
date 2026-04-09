@@ -49,7 +49,6 @@ const plants = allPlants
     const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.seed_cost;
     return roiB - roiA;
   });
-
 ---
 
 <BaseLayout title={title} description={description}>
@@ -68,35 +67,80 @@ const plants = allPlants
   </div>
 
   <div class="container category-page">
-    <div class="category-nav">
-      <a href="/crops/" class="cat-link">All Crops</a>
-      <a href="/crops/vegetables/" class={`cat-link${category === 'vegetables' ? ' active' : ''}`}>Vegetables</a>
-      <a href="/crops/herbs/" class={`cat-link${category === 'herbs' ? ' active' : ''}`}>Herbs</a>
-      <a href="/crops/fruit/" class={`cat-link${category === 'fruit' ? ' active' : ''}`}>Fruit</a>
+    <div class="controls-card">
+      <div class="search-bar">
+        <input
+          type="search"
+          id="crop-search"
+          class="crop-search-input"
+          placeholder="Search crops..."
+          aria-label="Search crops"
+          autocomplete="off"
+        />
+      </div>
+
+      <!-- Mobile dropdown (hidden on desktop) -->
+      <div class="mobile-controls">
+        <select id="mobile-filter" class="mobile-select" aria-label="Filter by category">
+          <option value="all">All Crops</option>
+          <option value="vegetables" selected={category === 'vegetables'}>Vegetables</option>
+          <option value="herbs" selected={category === 'herbs'}>Herbs</option>
+          <option value="fruit" selected={category === 'fruit'}>Fruit</option>
+        </select>
+      </div>
+
+      <!-- Desktop category nav (hidden on mobile) -->
+      <div class="category-nav">
+        <a href="/crops/" class="cat-link">All Crops</a>
+        <a href="/crops/vegetables/" class={`cat-link${category === 'vegetables' ? ' active' : ''}`}>Vegetables</a>
+        <a href="/crops/herbs/" class={`cat-link${category === 'herbs' ? ' active' : ''}`}>Herbs</a>
+        <a href="/crops/fruit/" class={`cat-link${category === 'fruit' ? ' active' : ''}`}>Fruit</a>
+      </div>
     </div>
 
     {plants.length === 0 ? (
       <p class="empty">No crops in this category yet. Check back soon.</p>
     ) : (
-      <div class="plants-grid">
+      <div class="plants-grid" id="plants-grid">
         {plants.map((plant) => (
-          <PlantCard
-            slug={plant.id}
-            name={plant.data.name}
-            scientific_name={plant.data.scientific_name}
-            category={plant.data.category}
-            days_min={plant.data.days_min}
-            days_max={plant.data.days_max}
-            avg_yield_lb={plant.data.avg_yield_lb}
-            avg_price_lb={plant.data.avg_price_lb}
-            watering={plant.data.watering}
-            sunlight={plant.data.sunlight}
-          />
+          <div class="plant-card-wrapper" data-name={plant.data.name.toLowerCase()}>
+            <PlantCard
+              slug={plant.id}
+              name={plant.data.name}
+              scientific_name={plant.data.scientific_name}
+              category={plant.data.category}
+              days_min={plant.data.days_min}
+              days_max={plant.data.days_max}
+              avg_yield_lb={plant.data.avg_yield_lb}
+              avg_price_lb={plant.data.avg_price_lb}
+              watering={plant.data.watering}
+              sunlight={plant.data.sunlight}
+            />
+          </div>
         ))}
       </div>
     )}
   </div>
 </BaseLayout>
+
+<script>
+  const searchInput = document.getElementById('crop-search') as HTMLInputElement | null;
+  searchInput?.addEventListener('input', () => {
+    const q = searchInput.value.toLowerCase().trim();
+    document.querySelectorAll<HTMLElement>('.plant-card-wrapper').forEach(el => {
+      el.style.display = (!q || (el.dataset.name ?? '').includes(q)) ? '' : 'none';
+    });
+  });
+
+  const mobileFilter = document.getElementById('mobile-filter') as HTMLSelectElement | null;
+  mobileFilter?.addEventListener('change', () => {
+    const val = mobileFilter.value;
+    if (val === 'all')        window.location.href = '/crops/';
+    if (val === 'vegetables') window.location.href = '/crops/vegetables/';
+    if (val === 'herbs')      window.location.href = '/crops/herbs/';
+    if (val === 'fruit')      window.location.href = '/crops/fruit/';
+  });
+</script>
 
 <style>
   .breadcrumb ol {
@@ -134,10 +178,42 @@ const plants = allPlants
     padding: var(--space-xl) var(--space-l);
   }
 
+  /* Controls card — matches crops/index.astro */
+  .controls-card {
+    background: rgba(248, 249, 245, 0.98);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-radius: var(--radius-l);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    padding: var(--space-l);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18);
+    margin-bottom: var(--space-xl);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+  }
+
+  .crop-search-input {
+    width: 100%;
+    max-width: 420px;
+    padding: var(--space-s) var(--space-m);
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-full);
+    font-size: var(--text-body);
+    font-family: var(--font-body);
+    color: var(--color-text-primary);
+    background-color: var(--color-white);
+    outline: none;
+  }
+
+  .crop-search-input:focus {
+    border-color: var(--color-primary-dark);
+    box-shadow: 0 0 0 3px rgba(45, 90, 39, 0.15);
+  }
+
   .category-nav {
     display: flex;
     gap: var(--space-s);
-    margin-bottom: var(--space-xl);
     flex-wrap: wrap;
   }
 
@@ -160,10 +236,43 @@ const plants = allPlants
     text-decoration: none;
   }
 
+  /* Mobile dropdown */
+  .mobile-controls {
+    display: none;
+  }
+
+  .mobile-select {
+    width: 100%;
+    padding: var(--space-s) var(--space-m);
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-full);
+    font-family: var(--font-body);
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-primary);
+    background-color: var(--color-white);
+    outline: none;
+    cursor: pointer;
+  }
+
+  @media (max-width: 680px) {
+    .mobile-controls {
+      display: block;
+    }
+
+    .category-nav {
+      display: none;
+    }
+  }
+
   .plants-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: var(--space-l);
+  }
+
+  .plant-card-wrapper {
+    display: contents;
   }
 
   .empty {
