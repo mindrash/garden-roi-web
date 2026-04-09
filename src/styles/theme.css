@@ -322,8 +322,8 @@ li {
 }
 
 /* Prose styles for article/plant body content */
-.prose h2 { margin: var(--space-xl) 0 var(--space-m); }
-.prose h3 { margin: var(--space-l) 0 var(--space-s); }
+.prose h2 { margin: var(--space-xl) 0 var(--space-m); color: var(--color-primary); }
+.prose h3 { margin: var(--space-l) 0 var(--space-s); color: var(--color-primary); }
 .prose p  { margin-bottom: var(--space-m); }
 .prose ul,
 .prose ol { margin-bottom: var(--space-m); }
