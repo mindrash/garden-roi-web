@@ -56,6 +56,22 @@ const collectionJsonLd = {
         />
       </div>
 
+      <!-- Mobile dropdowns (hidden on desktop) -->
+      <div class="mobile-controls">
+        <select id="mobile-sort" class="mobile-select" aria-label="Sort crops">
+          <option value="roi">Sort: Best ROI</option>
+          <option value="days">Sort: Fastest Harvest</option>
+          <option value="price">Sort: Highest Price/lb</option>
+        </select>
+        <select id="mobile-filter" class="mobile-select" aria-label="Filter crops">
+          <option value="all">All Crops</option>
+          <option value="vegetables">Vegetables</option>
+          <option value="herbs">Herbs</option>
+          <option value="fruit">Fruit</option>
+          <option value="quick-wins">Quick Wins (≤60 days)</option>
+        </select>
+      </div>
+
       <div class="controls-row">
         <div class="sort-bar" role="toolbar" aria-label="Sort crops">
           <span class="sort-label">Sort by:</span>
@@ -252,6 +268,31 @@ const collectionJsonLd = {
     qwBtn.classList.toggle('active', quickWinsActive);
     qwBtn.setAttribute('aria-pressed', String(quickWinsActive));
     applyFilters(searchInput?.value ?? '');
+  });
+
+  // Mobile sort dropdown
+  const mobileSort = document.getElementById('mobile-sort') as HTMLSelectElement | null;
+  mobileSort?.addEventListener('change', () => {
+    const sortBy = mobileSort.value;
+    sortCardWrappers(sortBy);
+    const colMap: Record<string, string> = { roi: 'roi', days: 'days', price: 'price' };
+    const dir = sortBy === 'days' ? 'asc' : 'desc';
+    sortTableRows(colMap[sortBy] ?? 'roi', dir);
+    updateThHeaders(colMap[sortBy] ?? 'roi', dir);
+  });
+
+  // Mobile filter dropdown
+  const mobileFilter = document.getElementById('mobile-filter') as HTMLSelectElement | null;
+  mobileFilter?.addEventListener('change', () => {
+    const val = mobileFilter.value;
+    if (val === 'all')        { window.location.href = '/crops/'; return; }
+    if (val === 'vegetables') { window.location.href = '/crops/vegetables/'; return; }
+    if (val === 'herbs')      { window.location.href = '/crops/herbs/'; return; }
+    if (val === 'fruit')      { window.location.href = '/crops/fruit/'; return; }
+    if (val === 'quick-wins') {
+      quickWinsActive = true;
+      applyFilters(searchInput?.value ?? '');
+    }
   });
 
   // --- Sort helpers ---
@@ -622,26 +663,32 @@ const collectionJsonLd = {
     }
   }
 
+  /* Mobile dropdowns */
+  .mobile-controls {
+    display: none;
+    gap: var(--space-s);
+  }
+
+  .mobile-select {
+    flex: 1;
+    padding: var(--space-s) var(--space-m);
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-full);
+    font-family: var(--font-body);
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-primary);
+    background-color: var(--color-white);
+    outline: none;
+    cursor: pointer;
+  }
+
   @media (max-width: 680px) {
-    /* Controls: sort and filter stack vertically */
+    .mobile-controls {
+      display: flex;
+    }
+
     .controls-row {
-      flex-direction: column;
-      align-items: stretch;
-      gap: var(--space-m);
-    }
-
-    .controls-row .sort-bar,
-    .controls-row .filter-bar {
-      flex: unset;
-      flex-shrink: unset;
-    }
-
-    .sort-bar,
-    .filter-bar {
-      gap: var(--space-xs);
-    }
-
-    .filter-separator {
       display: none;
     }
   }
