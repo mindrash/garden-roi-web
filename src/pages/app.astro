@@ -2,22 +2,12 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AppStoreBadges from '../components/AppStoreBadges.astro';
 
-const breadcrumbJsonLd = {
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": String(Astro.site) },
-    { "@type": "ListItem", "position": 2, "name": "App", "item": new URL('/app/', Astro.site).toString() },
-  ],
-};
 ---
 
 <BaseLayout
   title="Garden ROI App — Track Harvests & Break-Even"
   description="The Garden ROI app tracks your harvests, expenses, and break-even date on iOS and Android. See which crops earn their space and grow smarter every season."
 >
-  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
-
   <!-- Hero — mirrors homepage hero exactly -->
   <section class="hero">
     <div class="hero-bg">
@@ -25,12 +15,6 @@ const breadcrumbJsonLd = {
     </div>
     <div class="container hero-content">
       <div class="hero-text">
-        <nav class="breadcrumb" aria-label="Breadcrumb">
-          <ol>
-            <li><a href="/">Home</a></li>
-            <li aria-current="page">App</li>
-          </ol>
-        </nav>
         <h1>Track every harvest.<br />Know your&nbsp;break&#8209;even.</h1>
         <p class="hero-subtitle">
           The Garden ROI app turns your garden records into real numbers — which crops pay off, which don't, and exactly when you break even.
@@ -138,33 +122,6 @@ const breadcrumbJsonLd = {
     align-items: center;
     padding-top: var(--space-xxl);
     padding-bottom: var(--space-xxl);
-  }
-
-  /* Breadcrumb */
-  .breadcrumb ol {
-    display: flex;
-    gap: var(--space-xs);
-    list-style: none;
-    padding: 0;
-    margin: 0 0 var(--space-m);
-    font-size: var(--text-small);
-  }
-
-  .breadcrumb li {
-    display: flex;
-    align-items: center;
-    gap: var(--space-xs);
-    color: rgba(255, 255, 255, 0.7);
-  }
-
-  .breadcrumb li:not(:last-child)::after {
-    content: '/';
-    color: rgba(255, 255, 255, 0.4);
-  }
-
-  .breadcrumb a {
-    color: rgba(255, 255, 255, 0.85);
-    text-decoration: none;
   }
 
   /* h1 — identical to homepage */
