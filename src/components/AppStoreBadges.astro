@@ -39,11 +39,12 @@
     display: flex;
     align-items: center;
     gap: var(--space-m);
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
   }
 
   .badge-link {
     display: block;
+    flex-shrink: 1;
     transition: opacity 0.2s, transform 0.1s;
   }
 
@@ -56,5 +57,12 @@
   .badge-link img {
     height: 52px;
     width: auto;
+    max-width: 100%;
+  }
+
+  @media (max-width: 400px) {
+    .badge-link img {
+      height: 42px;
+    }
   }
 </style>
