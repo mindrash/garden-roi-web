@@ -423,17 +423,26 @@ const collectionJsonLd = {
   .controls-row {
     display: flex;
     align-items: center;
-    gap: var(--space-l);
+    gap: var(--space-m);
     flex-wrap: wrap;
   }
 
+  /* Row 1: sort bar stretches, view toggle sits right */
   .controls-row .sort-bar {
     flex: 1;
     min-width: 0;
+    order: 1;
   }
 
+  .controls-row .view-toggle {
+    order: 2;
+    margin-left: 0;
+  }
+
+  /* Row 2: filter bar always on its own full-width row */
   .controls-row .filter-bar {
-    flex-shrink: 1;
+    order: 3;
+    flex-basis: 100%;
     min-width: 0;
   }
 
@@ -514,7 +523,6 @@ const collectionJsonLd = {
     display: flex;
     gap: var(--space-xs);
     flex-shrink: 0;
-    margin-left: auto;
   }
 
   .view-btn {
