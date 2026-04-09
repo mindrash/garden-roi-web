@@ -310,6 +310,17 @@ li {
   color: var(--color-primary);
 }
 
+/* Glass card — frosted panel used across pages */
+.glass-card {
+  background: rgba(248, 249, 245, 0.98);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-radius: var(--radius-l);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  padding: var(--space-xl);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18);
+}
+
 /* Prose styles for article/plant body content */
 .prose h2 { margin: var(--space-xl) 0 var(--space-m); }
 .prose h3 { margin: var(--space-l) 0 var(--space-s); }
