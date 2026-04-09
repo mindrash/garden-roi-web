@@ -18,41 +18,43 @@ const breadcrumbJsonLd = {
 >
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
 
-  <!-- Page header -->
-  <div class="page-header">
-    <div class="container">
-      <nav class="breadcrumb" aria-label="Breadcrumb">
-        <ol>
-          <li><a href="/">Home</a></li>
-          <li aria-current="page">App</li>
-        </ol>
-      </nav>
-      <div class="hero-inner">
-        <div class="hero-text">
-          <h1>Your garden should pay&nbsp;you back.</h1>
-          <p class="hero-lead">
-            The Garden ROI app tracks every harvest, every expense, and tells you exactly when your garden breaks even — on iOS and Android.
-          </p>
-          <AppStoreBadges />
-        </div>
-        <div class="hero-icon">
-          <img
-            src="/logo.png"
-            alt="Garden ROI app icon"
-            width="140"
-            height="140"
-            loading="eager"
-            class="app-icon"
-          />
-        </div>
+  <!-- Hero — same structure as homepage hero -->
+  <section class="hero">
+    <div class="hero-bg">
+      <div class="hero-overlay"></div>
+    </div>
+    <div class="container hero-content">
+      <div class="hero-text">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <ol>
+            <li><a href="/">Home</a></li>
+            <li aria-current="page">App</li>
+          </ol>
+        </nav>
+        <h1>Your garden should pay&nbsp;you back.</h1>
+        <p class="hero-lead">
+          The Garden ROI app tracks every harvest, every expense, and tells you exactly when your garden breaks even — on iOS and Android.
+        </p>
+        <AppStoreBadges />
+      </div>
+      <div class="hero-icon">
+        <img
+          src="/logo.png"
+          alt="Garden ROI app icon"
+          width="160"
+          height="160"
+          loading="eager"
+          class="app-icon"
+        />
       </div>
     </div>
-  </div>
+  </section>
 
+  <!-- Page content -->
   <div class="container page-body">
 
     <!-- What the app does -->
-    <section class="glass-card section-card">
+    <section class="glass-card content-section">
       <h2 class="section-title">What the app does</h2>
       <div class="feature-grid">
         <div class="feature-card">
@@ -75,8 +77,8 @@ const breadcrumbJsonLd = {
       </div>
     </section>
 
-    <!-- Site and app together -->
-    <section class="glass-card section-card together-card">
+    <!-- How site and app work together -->
+    <section class="glass-card content-section">
       <div class="together-inner">
         <div class="together-text">
           <h2 class="section-title">How the site and app work together</h2>
@@ -95,13 +97,48 @@ const breadcrumbJsonLd = {
 </BaseLayout>
 
 <style>
-  /* Breadcrumb inside page-header */
+  /* Hero — mirrors homepage .hero exactly */
+  .hero {
+    position: relative;
+    overflow: hidden;
+    min-height: 480px;
+    display: flex;
+    align-items: center;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+  }
+
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.25) 0%,
+      rgba(45, 90, 39, 0.55) 100%
+    );
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: var(--space-xxl);
+    align-items: center;
+    padding-top: var(--space-xxl);
+    padding-bottom: var(--space-xxl);
+  }
+
+  /* Breadcrumb inside hero */
   .breadcrumb ol {
     display: flex;
     gap: var(--space-xs);
     list-style: none;
     padding: 0;
-    margin: 0 0 var(--space-l);
+    margin: 0 0 var(--space-m);
     font-size: var(--text-small);
   }
 
@@ -122,33 +159,24 @@ const breadcrumbJsonLd = {
     text-decoration: none;
   }
 
-  .breadcrumb a:hover {
-    color: var(--color-white);
-    text-decoration: underline;
-  }
-
-  /* Hero */
-  .hero-inner {
-    display: grid;
-    grid-template-columns: 1fr auto;
-    gap: var(--space-xxl);
-    align-items: center;
-  }
-
   .hero-text h1 {
     font-family: var(--font-display);
-    font-size: clamp(var(--text-h2), 4vw, var(--text-screen-title));
-    color: var(--color-tab-active);
-    margin: 0 0 var(--space-m);
+    font-size: clamp(36px, 5vw, var(--text-screen-title));
     line-height: 1.1;
+    color: var(--color-tab-active);
+    -webkit-text-stroke: 2px var(--color-tab-bar);
+    paint-order: stroke fill;
+    text-shadow: 0 3px 16px rgba(0, 0, 0, 0.4);
+    margin: 0 0 var(--space-m);
   }
 
   .hero-lead {
     font-size: var(--text-body);
-    color: rgba(255, 255, 255, 0.9);
     line-height: 1.6;
+    color: rgba(255, 255, 255, 0.92);
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
     margin: 0 0 var(--space-xl);
-    max-width: 52ch;
+    max-width: 48ch;
   }
 
   .app-icon {
@@ -156,15 +184,15 @@ const breadcrumbJsonLd = {
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   }
 
-  /* Body sections */
+  /* Page body */
   .page-body {
-    padding: var(--space-xl) var(--space-l);
+    padding: var(--space-xxl) var(--space-l);
     display: flex;
     flex-direction: column;
-    gap: var(--space-l);
+    gap: var(--space-xl);
   }
 
-  .section-card {
+  .content-section {
     padding: var(--space-xl);
   }
 
@@ -234,7 +262,7 @@ const breadcrumbJsonLd = {
     flex-direction: column;
     align-items: center;
     gap: var(--space-m);
-    padding-top: var(--space-s);
+    white-space: nowrap;
   }
 
   .download-label {
@@ -245,7 +273,7 @@ const breadcrumbJsonLd = {
 
   /* Responsive */
   @media (max-width: 640px) {
-    .hero-inner {
+    .hero-content {
       grid-template-columns: 1fr;
     }
 
@@ -259,6 +287,13 @@ const breadcrumbJsonLd = {
 
     .together-download {
       align-items: flex-start;
+      white-space: normal;
+    }
+  }
+
+  @media (max-width: 900px) {
+    .hero-text h1 {
+      -webkit-text-stroke: 0.5px var(--color-tab-bar);
     }
   }
 </style>
