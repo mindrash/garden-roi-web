@@ -4,6 +4,7 @@ description: Companion planting isn't folklore. Learn science-backed pairings th
 category: care
 publishDate: 2026-02-15
 featured: false
+hero_image: /images/articles/companion-planting-basics.webp
 ---
 
 Companion planting  -  the practice of growing certain plants together because they benefit each other  -  sounds like gardening folklore. Some of it is. But the best pairings have real mechanisms behind them: pest deterrence, nitrogen fixation, physical support, and pollinator attraction.

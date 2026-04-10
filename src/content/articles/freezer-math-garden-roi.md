@@ -4,6 +4,7 @@ description: "What does it actually cost to freeze garden produce vs. buying fro
 category: homestead
 publishDate: 2026-04-20
 featured: false
+hero_image: /images/articles/freezer-math-garden-roi.webp
 ---
 
 A freezer lets you harvest at peak production and eat your garden through December. What it doesn't do is free. There's a purchase price, an electricity cost, and a per-bag overhead that most gardeners never calculate. The question isn't whether a garden freezer is worth having - it usually is. The question is whether you're big enough to justify one, or whether you're better off sharing freezer space with a neighbor.

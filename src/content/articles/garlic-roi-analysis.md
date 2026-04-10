@@ -4,6 +4,7 @@ description: "Seed garlic costs $0.25–$0.40 per clove. Each clove returns 6–
 category: roi
 publishDate: 2026-04-05
 featured: true
+hero_image: /images/articles/garlic-roi-analysis.webp
 ---
 
 Seed garlic costs $0.25 to $0.40 per clove. One clove grows into one full head. At harvest, one pound of seed garlic returns 6 to 8 pounds of dried heads. In Year 2, if you save your largest heads to replant, your seed cost drops to zero.
@@ -51,6 +52,8 @@ You still pay for amendments ($10–$20) and mulch ($5–$10). Total input cost:
 
 This is the actual case for garlic as a homestead staple crop: the economics improve every year you grow it, compounding in your favor without additional capital outlay.
 
+There's a second-order benefit that takes 3-5 seasons to become visible. When you select replanting stock from your best heads year after year, you apply low-grade selection pressure on the planting population. Varieties gradually adapt to your specific site conditions - your soil chemistry, your drainage patterns, your local pest and disease pressure. The Music garlic you're growing in Year 5 isn't the same genetically as what you planted in Year 1. It's a locally-adapted strain. Annual crops can't do this because you buy fresh seed each year. Garlic, replanted from your own saved stock, builds in this direction automatically.
+
 ## The Storage Premium
 
 Most vegetables give you a harvest window measured in days or weeks. Garlic gives you 6 to 9 months of storage for hardneck varieties, and up to a year for properly-cured softneck (University of Minnesota Extension, *Garlic Production*, 2018). Harvest in June or July. Start pulling heads off the string in November. Still cooking from your harvest in March.
@@ -66,6 +69,58 @@ Hardneck garlic (*Allium sativum* var. *ophioscorodon*) yields larger individual
 Softneck (*A. sativum* var. *sativum*) stores longer and grows more reliably in warm-winter climates (zones 7+). The flavor is milder. Grocery store pricing for softneck is lower, which affects your comparison point: $3–$5/lb for what you're replacing, versus $5–$12/lb for hardneck.
 
 For the ROI calculation, hardneck in zones 4–7 almost always wins. The flavor differential justifies the price premium at market, and the scape bonus adds value that softneck doesn't produce.
+
+Here's how the major variety groups stack up by the numbers. Retail prices from USDA AMS Specialty Crop Market News (2023); seed prices from seed garlic supplier surveys (Southern Exposure Seed Exchange, Filaree Garlic Farm, 2024):
+
+| Variety type | Examples | Avg cloves/lb | Seed cost/lb | Retail price/lb | Weight return ratio | Net/lb planted |
+|---|---|---|---|---|---|---|
+| Porcelain (hardneck) | Music, German Extra Hardy | 30-40 | $16-20 | $8-12 | 6-8x | $28-76 |
+| Rocambole (hardneck) | Spanish Roja, German Red | 40-50 | $14-18 | $7-11 | 6-8x | $24-70 |
+| Artichoke (softneck) | California Early, Inchelium Red | 50-70 | $12-16 | $3-5 | 7-9x | $5-29 |
+| Silverskin (softneck) | Silver White, Nootka Rose | 60-80 | $10-14 | $3-4 | 7-9x | $7-22 |
+
+The spread matters. Porcelain and Rocambole hardnecks return $28-76 net per pound planted at specialty market prices. Artichoke softnecks return $5-29. Softneck has one real counter-argument: storage. Artichoke softneck stores 9-12 months vs 6-8 for most hardneck varieties (University of Minnesota Extension, *Garlic Production*, 2018). If your goal is maximum shelf life rather than maximum per-head value, that storage advantage is real.
+
+## The Scape Bonus
+
+Every hardneck plant - without exception - produces one scape in late spring. The scape is the flower stalk that curls upward, and the standard instruction is to remove it at the first full curl to redirect energy back into bulb development. That instruction is correct. Removing scapes at the first full curl increases final bulb size by 25-30% (University of Minnesota Extension, 2018). What most growers don't notice is that the removed scape has market value.
+
+Farmers markets sell garlic scapes in bunches of 6-8 stems at $3-5 per bunch, based on USDA AMS local food market price surveys. A 50-plant bed produces 50 scapes. At 6-8 per bunch, that's 7-8 bunches. At $3-5 each: $21-40 in value from material you were already going to cut off.
+
+You can't eat 50 scapes in a week. But scapes freeze without blanching - chop into one-inch pieces, freeze flat on a sheet pan, bag and store. They work in stir-fries, compound butters, and anywhere you'd use minced garlic with slightly more green onion character. Processing time: 20 minutes.
+
+The combined math on a 50-plant hardneck bed:
+- Bulb harvest: 50 plants, roughly 0.2 lbs per head, at $8/lb hardneck retail = $80
+- Scapes used or sold: $21-40
+- Total: $101-120 against $15-20 in seed cost
+
+The scapes represent zero additional investment. They were going to be cut anyway.
+
+## Curing: Where Value Gets Destroyed or Preserved
+
+Fresh garlic at harvest weighs significantly more than properly cured garlic. The difference is moisture. As garlic cures - hung or laid in a well-ventilated area out of direct sun for 3-4 weeks - it loses 20-30% of its fresh weight through evaporation (Cornell Cooperative Extension, *Garlic Production for the Gardener*, Publication 121, 2012).
+
+At 10 lbs of fresh-harvested heads from a 50-plant bed, proper curing means ending up with 7-8 lbs of storage-ready garlic. The heads that didn't cure properly - left on soil, stacked too densely, exposed to humidity - lose the same moisture but as rot rather than controlled desiccation.
+
+The dollar stakes are specific. Fifty plants, properly cured, at $8/lb hardneck retail: $56-64. Same bed with 30% additional loss from poor curing: 5 lbs salvageable = $40 maximum. You lose $16-24 per 50-plant bed by cutting corners on the cure. That loss is invisible in the math until you weigh what you actually got.
+
+The cure requirements are not complicated. Hang bunches or lay heads in a shaded, dry area with air movement. No direct sun - it overheats the heads. No enclosing in plastic or damp spaces. Check after three weeks: outer skins should be papery, necks should feel dry and constricted. Necks that still feel soft are not finished.
+
+## What the Math Looks Like at Three Scales
+
+The ROI percentage on garlic stays roughly constant regardless of how much you plant. The absolute dollars grow with scale.
+
+| Planting | Plants | Seed cost | Expected yield (lbs, cured) | Retail value (hardneck) | Net after seed |
+|---|---|---|---|---|---|
+| Hobby patch | 10 | $4-6 | 1.5-2 | $12-24 | $7-19 |
+| Family supply | 50 | $18-25 | 8-10 | $64-120 | $46-95 |
+| Serious gardener | 200 | $70-100 | 32-40 | $256-480 | $186-380 |
+
+Yield figures from Cornell Cooperative Extension, *Garlic Production for the Gardener* (2012). Retail values at USDA AMS Specialty Crop hardneck pricing.
+
+A 10-plant patch is a proof-of-concept and a household supply for the culinarily modest. Fifty plants covers most of what a garlic-using household consumes in a year. At 200 plants, you have a real production operation and meaningful absolute returns.
+
+The detail the table doesn't show: 200 plants require about 2 lbs of seed garlic and 2-3 hours of fall planting. The labor-to-return ratio at 200 plants is dramatically better than at 10 plants, where you're spending similar setup time for much smaller absolute return. If you're going to do this, do enough of it.
 
 ## How Garlic Compares to Other High-ROI Crops
 

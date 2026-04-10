@@ -4,6 +4,7 @@ description: "Water cost reality: most home gardens under 200 sq ft cost $10-30/
 category: roi
 publishDate: 2026-04-12
 featured: false
+hero_image: /images/articles/water-cost-per-crop.webp
 ---
 
 If you've ever wondered whether your water bill is eating your garden's ROI, the short answer is: probably not. For a typical home garden under 200 square feet, you're looking at $10 to $30 per season in irrigation costs. That's less than a bag of fertilizer. Water is almost never the significant expense.

@@ -4,6 +4,7 @@ description: "Year 1 of a raised bed garden is probably net negative. Here's the
 category: roi
 publishDate: 2026-04-05
 featured: false
+hero_image: /images/articles/first-three-years-roi.webp
 ---
 
 Most people expect their first garden to pay off immediately. It usually doesn't. That's not a reason to quit - it's just the math of any capital investment, and a garden is no different.

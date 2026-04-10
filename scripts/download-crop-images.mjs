@@ -50,6 +50,10 @@ const SEARCH_OVERRIDES = {
   'goji-berry': 'goji berries',
   'ground-cherry': 'ground cherry physalis',
   'jerusalem-artichoke': 'jerusalem artichoke',
+  'pole-bean': 'pole bean climbing bean trellis',
+  'holy-basil': 'holy basil tulsi herb',
+  'mizuna': 'japanese mustard greens salad',
+  'shiso': 'shiso perilla leaf herb',
 };
 
 function searchTerm(slug) {

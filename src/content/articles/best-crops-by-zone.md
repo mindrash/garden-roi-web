@@ -4,6 +4,7 @@ description: "ROI crops by zone: hardiness zones measure winter cold, not growin
 category: planning
 publishDate: 2026-04-09
 featured: false
+hero_image: /images/articles/best-crops-by-zone.webp
 ---
 
 USDA hardiness zones tell you the average annual minimum winter temperature where you live. That's it. They were designed for perennial plants - trees, shrubs, perennials - to help you know whether a plant will survive your winter.

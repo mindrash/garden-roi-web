@@ -4,6 +4,7 @@ description: "Accurate yield measurement is what separates real ROI from guesswo
 category: roi
 publishDate: 2026-04-13
 featured: false
+hero_image: /images/articles/how-to-measure-yield.webp
 ---
 
 The ROI numbers in this library are only as good as your harvest data. National averages for tomatoes or basil are a starting point, but your actual return depends on your soil, your climate, and what you planted. The only way to know your real numbers is to weigh what you pull out of the garden.

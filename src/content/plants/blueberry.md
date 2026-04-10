@@ -59,6 +59,81 @@ Don't wash berries until ready to use. The waxy bloom on the berry surface is a 
 
 ---
 
+## pH establishment as the primary cost
+
+The soil pH requirement is not a footnote - it is the single largest variable in whether a blueberry planting succeeds or fails, and it has real dollar costs that most planting guides understate.
+
+Standard garden soil in most of the US runs pH 6.0-7.0. Blueberries require pH 4.5-5.5. That gap doesn't close by itself, and it doesn't close quickly. The tool for closing it is elemental sulfur, which soil bacteria convert to sulfuric acid over time, gradually lowering pH. Elemental sulfur runs $10-15 for a 6 lb bag, which covers roughly 100 square feet and will lower pH by approximately 1 unit under the right conditions. For a 2-unit drop (pH 7.0 to 5.0), expect two or more applications over multiple seasons and repeated soil testing to confirm the change is happening.
+
+Sandy soils respond faster. Apply sulfur to sandy soil and retest in about 3 months - the microbial conversion happens relatively quickly when drainage is good and the soil isn't waterlogged. Clay soils are a different story entirely. Amending clay to lower pH by even 1 unit can take 12-18 months because clay particles buffer against pH change and slow the conversion process. If you're working with heavy clay, start amendment the fall before you plan to plant, and expect to test and re-amend the following spring.
+
+The investment timeline, then, is: test pH in late summer or fall, apply elemental sulfur at the rate your test results indicate, wait, retest before spring planting, and adjust again if needed. Budgeting $30-60 for sulfur and soil testing across that preparation period is realistic. Do not shortcut this step by planting into unamended soil and hoping for the best - blueberries planted at pH 6.5 will show chlorosis within a season and produce little (Michigan State University Extension, *Blueberry Culture in the Home Garden*, E-1152).
+
+## Blueberries cannot share a bed with most vegetables
+
+This is the most common beginner mistake with blueberries, and it's worth stating plainly: pH 4.5-5.5 is toxic to most vegetables. At that acidity level, nutrient lockout occurs - phosphorus, calcium, and magnesium become chemically unavailable, and plants that prefer neutral pH will yellow, stall, and die.
+
+Tomatoes, peppers, beans, carrots, brassicas - the standard garden roster - all prefer pH 6.0-7.0. You cannot grow them in the same bed, border, or raised bed as blueberries. The pH requirements are mutually exclusive.
+
+Blueberries require their own dedicated acidic bed, physically separate from your main vegetable garden. This isn't a preference. It's a hard constraint of the chemistry. The companion plants listed for blueberries (strawberries tolerate slightly acidic soil; certain low-growing herbs are similarly adaptable) are exceptions, not a general license to interplant freely. When in doubt, keep blueberries isolated.
+
+## Variety guide by zone
+
+Not every blueberry type will perform in every climate. Choosing the wrong type is a multi-year setback - you won't know it failed until year two or three when yield doesn't materialize. Match your selection to your hardiness zone before you buy.
+
+| Variety Type | Zone Range | Harvest Season | Yield at Maturity | Key Characteristic |
+|---|---|---|---|---|
+| Northern highbush (Duke, Bluecray, Toro) | 4-7 | Late June - July | 8-20 lbs/plant | Standard highbush; most widely adapted in the north |
+| Southern highbush (O'Neal, Sunshine Blue) | 7-9 | Early (May-June) | 6-12 lbs/plant | Low chilling requirement; bred for mild winters |
+| Rabbiteye (Tifblue, Brightwell) | 7-9 | July - August | 20-25 lbs/plant | Heavy producers; must have two varieties for cross-pollination |
+| Lowbush (*V. angustifolium*) | 3-6 | July - August | 1-3 lbs/plant | Low-growing; spreads via rhizomes; nearly permanent once established |
+
+Northern highbush cultivars like Duke and Toro need 800-1,000 chill hours (hours below 45F) to break dormancy and fruit normally. Southern highbush types were bred down to 150-400 chill hours specifically for Zone 7-9 growers. Plant a northern highbush in Georgia and it will struggle to set fruit consistently. Plant a southern highbush in Minnesota and winter will kill it to the roots.
+
+Rabbiteye varieties are the production workhorses of the Southeast - mature plants can yield 20-25 lbs per season, which puts them at the high end of the ROI table. The caveat is that rabbiteye varieties require cross-pollination from a second variety with overlapping bloom time. Two plants of Tifblue alone will underperform. Pair Tifblue with Brightwell or another compatible variety.
+
+Lowbush blueberry (*V. angustifolium*) is native to the northeastern US and Canada and is essentially permanent once established - it spreads via underground rhizomes and fills in over time. Per-plant yield is low relative to highbush, but a lowbush patch maintained as a ground cover can persist and expand for decades with minimal input (USDA ARS Blueberry and Cranberry Research Lab; Michigan State University Extension; University of Maine Extension; University of Georgia Extension).
+
+## Establishment timeline and yield by year
+
+Blueberries are a patience crop. The production curve is slow, front-loaded with cost, and back-loaded with return. Understanding that curve before you plant prevents the disappointment that causes most people to abandon the planting in year two.
+
+| Year | Expected Yield | Notes | Estimated Input Cost |
+|---|---|---|---|
+| Year 1 | 0 lbs | Pinch all flowers - sacrifice first crop for root development | $8-15/plant for 3-4 plants, plus soil prep |
+| Year 2 | 0.5-1 lb/plant | First small harvest; do not over-harvest | $0-5 |
+| Year 3 | 2-4 lbs/plant | Yield begins to ramp meaningfully | $0-5 |
+| Year 4 | 4-8 lbs/plant | Approaching useful production level | $0-5 |
+| Year 5+ | 8-20 lbs/plant | Full production for northern highbush; varies by type | $0-5 |
+
+Plants live 20-50 years in suitable conditions. The front-end cost is the purchase price, the soil amendment, and the patience of the first two seasons when you are essentially farming roots rather than fruit. After year five, you have a producing asset that costs almost nothing to maintain (Michigan State University Extension).
+
+Pinching flowers in year one is not optional. It feels counterintuitive to remove the first blooms, but root mass developed in year one directly determines the yield ceiling in years three through ten. A plant allowed to fruit in year one will produce less total fruit over its lifetime than a plant that had its first bloom removed.
+
+## 10-year ROI
+
+The numbers for blueberries are not impressive in years one through three. They are very impressive from year six onward.
+
+**Initial investment:**
+- 4 plants at $10-15 each: $40-60
+- pH amendment (elemental sulfur, multiple applications): $30-60
+- Mulch (pine bark or wood chips, initial application): $15-25
+- Total initial investment: $85-145
+
+**Harvest value by phase:**
+
+| Phase | Annual Yield (4 plants) | Market Value at $5-8/lb | Notes |
+|---|---|---|---|
+| Years 1-2 | Negligible | $0-8 | Establishment; do not harvest heavily |
+| Years 3-5 | 8-24 lbs total for the bed | $40-192 | Yield ramp; increasing each year |
+| Years 6-10 | 32-60 lbs/yr | $160-480/yr | Full production; northern highbush at 8-15 lbs/plant |
+
+Over a 10-year window, a 4-plant planting at full production returns $160-480 per year in fresh fruit value at retail price. The cumulative value from years 6-10 alone ($800-2,400) exceeds the initial investment by a factor of 6-17. The bed continues producing beyond year 10 with no replanting cost (USDA Agricultural Marketing Service, Market News, 2023; Michigan State University Extension, *Blueberry Culture in the Home Garden*, E-1152).
+
+The math only holds if the soil pH is correct, the planting is isolated from the main vegetable garden, and the first-year flowers are removed. Those three conditions are the entire difference between a productive perennial planting and a decade of underperformance.
+
+---
+
 **Related crops:** [Strawberry](/crops/strawberry/), [Arugula](/crops/arugula/)
 
 **Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/)  -  calculating long-term ROI for perennial fruit crops

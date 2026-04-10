@@ -63,6 +63,73 @@ Blackberries are more durable than raspberries but still bruise at the bottom of
 
 Blackberry flavor concentrates well under heat - jams, cobblers, and sauces are where the flavor holds best.
 
+## Thornless vs. thorned: which type to plant
+
+The University of Arkansas breeding program has produced the most widely planted commercial blackberry cultivars in the US, and their research gives the clearest data on the yield and management trade-offs between thorned and thornless types (University of Arkansas Extension Small Fruits Research, *Blackberry Cultivar Development*, 2021).
+
+Thorned cultivars run 20-30% higher yield per cane on average. That gap is real and it matters at commercial scale. At home garden scale, the math shifts because you're also accounting for your own harvest time and willingness to maintain the planting.
+
+| Type | Example varieties | Yield vs. thorned | Cane management | Plant cost premium | Best for |
+|------|-------------------|-------------------|-----------------|--------------------|----------|
+| Thorned | Ouachita, Kiowa, Cherokee | Baseline (20-30% higher per cane) | Harder - gloves required, pruning is unpleasant | None | Higher-volume production, commercial scale |
+| Thornless | Triple Crown, Chester, Natchez | Slightly lower per cane | Dramatically easier - bare hands, faster harvest | $3-5/plant more at nurseries | Home gardens, u-pick, easy management |
+
+The honest answer for home use: go thornless. The yield gap sounds meaningful until you realize you'll avoid pruning a thorned row in August heat, and your harvest speed on a thornless row is significantly faster. The $3-5/plant premium pays itself back in the first season.
+
+If you're planting for volume - half an acre or more, selling at a farmers market or running a u-pick operation - thorned cultivars like Ouachita deserve consideration. The yield advantage per cane adds up at that scale, and your pickers will have gloves anyway.
+
+## Wild blackberries: free fruit vs. planted fruit
+
+In zones 4-7 throughout much of the eastern US, wild blackberries (*Rubus allegheniensis* and closely related species like *R. canadensis* and *R. argutus*) grow along woodland edges, fence lines, roadsides, and disturbed ground. If your property has a wild patch or you have access to one nearby, that changes the calculus for when to plant your own.
+
+The return on wild picking is real. Two hours of picking at a reasonable pace - figure 2 lbs per hour in a decent stand - yields 4 lbs of berries. At $5.50/lb retail equivalent, that's $22 in fruit value, or $11/hr effective return on your time. Not spectacular, but it's free and requires zero capital.
+
+The problem is competition. Wild blackberry patches don't stay productive indefinitely. They get shaded out by succession vegetation, browsed by deer, and gradually taken over by other brambles. A stand that yields reliably in year one may be disappointing by year three if it isn't actively managed - and managing someone else's wild patch is not a realistic plan.
+
+The sensible approach: if you have wild access, use it in years one and two. Don't pay for plants you don't need yet. Plant your own in year two so your cultivated row hits full production in years three and four, just as the wild patch starts declining. A cultivated planting of named varieties will outperform a wild patch within three years and will keep producing for 15-20 years with basic maintenance.
+
+This isn't an argument against wild blackberries. Wild berries are free. A planted row is an investment. Use the free resource while building the investment, and you come out ahead on both.
+
+## 10-year ROI: what the numbers actually look like
+
+Starting position: three plants at $12-18 each, so $36-54 in plant cost plus a trellis if you don't already have one. Figure $40-60 total for two wooden posts and two runs of wire. First-year startup cost: roughly $76-114.
+
+Blackberries don't produce meaningfully in year one. The primocanes are establishing. You'll see some fruit in year two, and full production in year three and beyond (University of Arkansas Extension, *Commercial Blackberry Production*, MP297; USDA ARS Fruit Laboratory, Beltsville MD).
+
+The economics accelerate because blackberry plants multiply themselves. Named cultivars spread via root sprouts - new canes emerge from the root system beyond the original plant footprint. By year three, your three original plants will have generated 8-15 canes or more depending on management. You can let them fill a row or dig the sprouts and expand your planting.
+
+| Year | Plants/canes | Est. yield | Value at $5.50/lb | Cumulative return | Notes |
+|------|-------------|------------|-------------------|-------------------|-------|
+| 1 | 3 plants | 0-0.5 lbs | $0-3 | -$76-114 | Establishment year |
+| 2 | 3-5 canes fruiting | 3-5 lbs total | $17-28 | -$60-96 | First real harvest |
+| 3 | 8-12 canes | 16-30 lbs | $88-165 | $0-69 | Break-even zone |
+| 4 | 10-15 canes | 25-45 lbs | $138-248 | $138-317 | Full production |
+| 5 | 12-18 canes | 30-54 lbs | $165-297 | $303-614 | Row fills in |
+| 6-10 | 15-20 canes maintained | 35-90 lbs/yr | $193-495/yr | $1,268-3,089 cumulative | Stable production |
+
+The wide yield range in the table reflects real variability - site conditions, cultivar choice, how aggressively you tip-prune, and how many root sprouts you allow to develop. The low end assumes minimal management and modest spread. The high end assumes active cane management, tip-pruning to encourage laterals, and a row that has filled in fully. Both scenarios break even before year four.
+
+Sources: University of Arkansas Extension Small Fruits Research; USDA ARS; USDA AMS Market News retail berry prices, 2023.
+
+## Preservation: what processing does to the value
+
+Fresh blackberries at $5.50/lb retail represent the baseline. What you do with them after harvest either holds that value, compresses it (frozen), or multiplies it significantly (jam, wine).
+
+| Product | Retail equivalent | Berries required | Effective value per lb of berries |
+|---------|-------------------|------------------|-----------------------------------|
+| Fresh (eaten or given away) | $5.50/lb | 1 lb | $5.50/lb |
+| Frozen (home frozen, retail comparison) | $4-6/lb | 1 lb | $4-6/lb |
+| Blackberry jam (artisan, local market) | $8-14 per half-pint | ~1 lb per half-pint | $8-14/lb |
+| Blackberry wine (small craft winery) | $15-22/bottle (750ml) | ~3-4 lbs/bottle | $4-7/lb |
+
+Jam is where the math gets interesting. One hour of processing time converts 10 lbs of blackberries into 8-10 half-pints of jam. At $8-14 per half-pint, that's $64-140 in retail-equivalent value from a single afternoon. The raw berries were worth $55. You added $9-85 in value with an hour of work, a few cups of sugar, and some canning jars.
+
+Frozen berries hold value well for out-of-season use but don't multiply it. If your freezer space is limited, prioritize jam and frozen in that order.
+
+Blackberry wine requires more equipment, more berries per bottle, and more time, but a small craft winery operation can clear $15-22 per bottle at retail. The per-lb-of-berry return isn't better than jam, but the product has a longer shelf life and the margin on a finished bottle is significant if you're already set up for winemaking.
+
+The practical takeaway: a 20-lb harvest in peak season is a processing decision, not just a storage problem. Twelve pounds fresh and frozen is fine. Eight pounds into jam turns one afternoon of work into $64-112 in pantry value.
+
 ---
 
 **Related crops:** [Raspberry](/crops/raspberry/), [Strawberry](/crops/strawberry/)

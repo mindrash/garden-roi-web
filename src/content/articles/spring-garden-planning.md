@@ -4,6 +4,7 @@ description: Good planning in February and March is worth more than any single t
 category: planning
 publishDate: 2026-03-15
 featured: false
+hero_image: /images/articles/spring-garden-planning.webp
 ---
 
 Most gardeners plan their gardens by walking through a seed catalog, marking everything that looks good, then figuring out where to put it all later. This leads to overcrowded beds, gaps in harvest timing, and a garden that never quite reaches its potential.

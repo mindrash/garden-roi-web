@@ -1,0 +1,375 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPlants = await getCollection('plants');
+
+// ROI formula: net value = (avg_yield_lb × avg_price_lb) - seed_cost
+// ROI ratio = net value / seed_cost (return per $1 invested)
+const rankedPlants = [...allPlants]
+  .map((p) => {
+    const grossValue = p.data.avg_yield_lb * p.data.avg_price_lb;
+    const netValue = grossValue - p.data.seed_cost;
+    const roiRatio = grossValue / p.data.seed_cost;
+    return { ...p, grossValue, netValue, roiRatio };
+  })
+  .sort((a, b) => b.roiRatio - a.roiRatio)
+  .slice(0, 15);
+
+const topCrop = rankedPlants[0];
+
+const itemListJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "15 Highest-ROI Crops for Home Gardeners",
+  "description": "Vegetables, herbs, and fruit ranked by return on investment using USDA yield and price data.",
+  "url": "https://gardenroi.com/crops/best-roi/",
+  "numberOfItems": 15,
+  "itemListElement": rankedPlants.map((p, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "name": p.data.name,
+    "url": `https://gardenroi.com/crops/${p.id}/`,
+  })),
+};
+---
+
+<BaseLayout
+  title="15 Highest-ROI Crops for Home Gardeners"
+  description="Garlic returns 18x its seed cost. These 15 crops have the highest calculated ROI from USDA yield and price data. Full comparison table with seed cost, yield, and net value."
+>
+  <script type="application/ld+json" set:html={JSON.stringify(itemListJsonLd)} />
+
+  <div class="page-header">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span aria-hidden="true">›</span>
+        <a href="/crops/">Crops</a>
+        <span aria-hidden="true">›</span>
+        <span aria-current="page">Best ROI</span>
+      </nav>
+      <h1>15 Highest-ROI Crops</h1>
+      <p>
+        {topCrop.data.name} returns ${topCrop.roiRatio.toFixed(0)}x its seed cost.
+        These crops are ranked by gross harvest value divided by seed cost, using USDA yield and price data.
+      </p>
+    </div>
+  </div>
+
+  <div class="container content-wrap">
+
+    <section class="intro-section glass-card">
+      <h2>How the Ranking Works</h2>
+      <p>
+        ROI ratio = <strong>(average yield × retail price per lb) ÷ seed cost</strong>.
+        A ratio of 10x means a $3 seed packet produces $30 in harvest value.
+        This measures return per dollar invested in seed, not return on total garden inputs.
+        For the full cost picture including soil, water, and labor, see the <a href="/methodology/">methodology page</a> and <a href="/roi/raised-bed-break-even/">raised bed break-even analysis</a>.
+      </p>
+      <p>
+        Yield data is sourced from USDA extension research and land-grant university trials.
+        Retail prices are from USDA AMS and ERS reports.
+        All figures represent seasonal averages across US growing regions.
+      </p>
+    </section>
+
+    <section class="table-section">
+      <h2>Top 15 by ROI Ratio</h2>
+      <div class="table-wrap">
+        <table class="roi-table">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Crop</th>
+              <th scope="col">Category</th>
+              <th scope="col">Seed Cost</th>
+              <th scope="col">Avg Yield (lb)</th>
+              <th scope="col">Price/lb</th>
+              <th scope="col">Gross Value</th>
+              <th scope="col">ROI Ratio</th>
+            </tr>
+          </thead>
+          <tbody>
+            {rankedPlants.map((p, i) => (
+              <tr class={i % 2 === 0 ? 'row-even' : 'row-odd'}>
+                <td class="rank">{i + 1}</td>
+                <td class="crop-name">
+                  <a href={`/crops/${p.id}/`}>{p.data.name}</a>
+                </td>
+                <td class="category">{p.data.category}</td>
+                <td class="number">${p.data.seed_cost.toFixed(2)}</td>
+                <td class="number">{p.data.avg_yield_lb} lb</td>
+                <td class="number">${p.data.avg_price_lb.toFixed(2)}</td>
+                <td class="number">${p.grossValue.toFixed(0)}</td>
+                <td class="roi-ratio">{p.roiRatio.toFixed(0)}x</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="highlights-section">
+      <h2>Why These Crops Rank High</h2>
+      <div class="highlight-grid">
+        {rankedPlants.slice(0, 6).map((p) => (
+          <div class="highlight-card glass-card">
+            <h3><a href={`/crops/${p.id}/`}>{p.data.name}</a></h3>
+            <div class="highlight-stat">{p.roiRatio.toFixed(0)}x ROI</div>
+            <p class="highlight-meta">
+              {p.data.avg_yield_lb} lb yield &middot; ${p.data.avg_price_lb.toFixed(2)}/lb &middot; ${p.data.seed_cost.toFixed(2)} seed cost
+            </p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="caveats-section glass-card">
+      <h2>What This Table Doesn't Show</h2>
+      <p>
+        ROI ratio measures seed cost efficiency only. It doesn't account for:
+      </p>
+      <ul>
+        <li><strong>Space efficiency</strong> - a high-ratio herb like basil yields less total value per square foot than a high-yielding tomato crop</li>
+        <li><strong>Time to harvest</strong> - asparagus has a 3-year establishment period before meaningful yield</li>
+        <li><strong>Difficulty</strong> - some high-ROI crops require specific soil conditions, zone compatibility, or pest management</li>
+        <li><strong>Your actual consumption</strong> - the highest-ROI crop is the one you'll eat; 10 lb of an herb you don't use is worthless</li>
+      </ul>
+      <p>
+        For planning guidance, see <a href="/start-here/">Start Here</a> or the <a href="/guides/plan-for-what-you-eat/">planning guide</a>.
+        For full economics including soil and infrastructure, see the <a href="/roi/raised-bed-break-even/">raised bed break-even analysis</a>.
+      </p>
+    </section>
+
+    <div class="nav-links">
+      <a href="/crops/" class="btn btn-secondary">← All Crops</a>
+      <a href="/roi/" class="btn btn-primary">ROI Articles →</a>
+    </div>
+
+  </div>
+</BaseLayout>
+
+<style>
+  .page-header {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    padding: var(--space-xl) var(--space-l);
+  }
+
+  .page-header h1 {
+    font-family: var(--font-display);
+    font-size: var(--text-h1);
+    margin: var(--space-s) 0;
+  }
+
+  .page-header p {
+    font-size: var(--text-body-large);
+    opacity: 0.92;
+    max-width: 65ch;
+  }
+
+  .breadcrumb {
+    font-size: var(--text-small);
+    opacity: 0.8;
+    display: flex;
+    gap: var(--space-xs);
+    align-items: center;
+    margin-bottom: var(--space-s);
+  }
+
+  .breadcrumb a {
+    color: var(--color-white);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    text-decoration: underline;
+  }
+
+  .content-wrap {
+    padding: var(--space-xl) var(--space-l);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xl);
+  }
+
+  .intro-section {
+    padding: var(--space-l);
+  }
+
+  .intro-section h2 {
+    font-family: var(--font-display);
+    color: var(--color-primary);
+    margin-bottom: var(--space-m);
+  }
+
+  .intro-section p + p {
+    margin-top: var(--space-m);
+  }
+
+  .table-section h2 {
+    font-family: var(--font-display);
+    color: var(--color-primary);
+    margin-bottom: var(--space-m);
+  }
+
+  .table-wrap {
+    overflow-x: auto;
+    border-radius: var(--radius-m);
+    border: 1px solid var(--color-border);
+    background-color: rgba(248, 249, 245, 0.97);
+  }
+
+  .roi-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-body);
+  }
+
+  .roi-table thead {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+  }
+
+  .roi-table th {
+    padding: var(--space-s) var(--space-m);
+    text-align: left;
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: var(--text-small);
+    white-space: nowrap;
+  }
+
+  .roi-table td {
+    padding: var(--space-s) var(--space-m);
+    border-bottom: 1px solid var(--color-border);
+    vertical-align: middle;
+  }
+
+  .row-even {
+    background-color: rgba(248, 249, 245, 0.97);
+  }
+
+  .row-odd {
+    background-color: rgba(0, 0, 0, 0.03);
+  }
+
+  .rank {
+    color: var(--color-text-muted);
+    font-size: var(--text-small);
+    width: 2rem;
+    text-align: center;
+  }
+
+  .crop-name a {
+    color: var(--color-primary);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .crop-name a:hover {
+    text-decoration: underline;
+  }
+
+  .category {
+    color: var(--color-text-muted);
+    font-size: var(--text-small);
+  }
+
+  .number {
+    font-variant-numeric: tabular-nums;
+    text-align: right;
+  }
+
+  .roi-ratio {
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+    color: var(--color-primary);
+    text-align: right;
+  }
+
+  .highlights-section h2 {
+    font-family: var(--font-display);
+    color: var(--color-primary);
+    margin-bottom: var(--space-m);
+  }
+
+  .highlight-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: var(--space-m);
+  }
+
+  .highlight-card {
+    padding: var(--space-m);
+  }
+
+  .highlight-card h3 {
+    font-family: var(--font-display);
+    font-size: var(--text-h4);
+    margin-bottom: var(--space-xs);
+  }
+
+  .highlight-card h3 a {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+
+  .highlight-card h3 a:hover {
+    text-decoration: underline;
+  }
+
+  .highlight-stat {
+    font-size: var(--text-h3);
+    font-weight: 700;
+    color: var(--color-secondary);
+    margin-bottom: var(--space-xs);
+  }
+
+  .highlight-meta {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+  }
+
+  .caveats-section {
+    padding: var(--space-l);
+  }
+
+  .caveats-section h2 {
+    font-family: var(--font-display);
+    color: var(--color-primary);
+    margin-bottom: var(--space-m);
+  }
+
+  .caveats-section ul {
+    margin: var(--space-m) 0;
+    padding-left: var(--space-l);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+  }
+
+  .caveats-section p + p {
+    margin-top: var(--space-m);
+  }
+
+  .nav-links {
+    display: flex;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+  }
+
+  @media (max-width: 600px) {
+    .roi-table th:nth-child(3),
+    .roi-table td:nth-child(3),
+    .roi-table th:nth-child(6),
+    .roi-table td:nth-child(6) {
+      display: none;
+    }
+
+    .highlight-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+</style>

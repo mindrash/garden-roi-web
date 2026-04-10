@@ -4,6 +4,7 @@ description: "National averages understate ROI in high-cost cities and overstate
 category: roi
 publishDate: 2026-04-14
 featured: false
+hero_image: /images/articles/how-to-find-local-prices.webp
 ---
 
 The default prices in the Garden ROI app come from USDA Agricultural Marketing Service national average data. A tomato is $1.78/lb. Basil is $15.50/lb. Lettuce is $1.45/lb. These numbers are accurate as national medians, but they are not your numbers.

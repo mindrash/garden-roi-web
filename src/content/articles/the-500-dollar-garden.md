@@ -4,6 +4,7 @@ description: "A complete first-year cost audit of a 4x8 raised bed garden - lumb
 category: roi
 publishDate: 2026-04-15
 featured: true
+hero_image: /images/articles/the-500-dollar-garden.webp
 ---
 
 Most first-year gardeners underestimate what they'll spend. Not by a little. The internet is full of articles claiming you can start a productive raised bed garden for $50 or $75 or "practically nothing." Those numbers leave out the bed frame, the hardware cloth, the soil, the amendments, the tools you don't own yet, and half the seeds you'll buy and never plant. By the time your first tomato comes in, you've spent two to four times what you expected.

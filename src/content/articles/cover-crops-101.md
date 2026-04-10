@@ -4,6 +4,7 @@ description: "Cover crops fix nitrogen, suppress weeds, and build organic matter
 category: homestead
 publishDate: 2026-04-11
 featured: false
+hero_image: /images/articles/cover-crops-101.webp
 ---
 
 You have a bed that finishes producing in October. It sits bare until April. Six months of rain, freeze-thaw cycles, and whatever weed seeds the wind delivers. By spring you've got compacted, leached soil and a flush of chickweed.

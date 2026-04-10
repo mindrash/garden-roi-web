@@ -4,6 +4,7 @@ description: A raised bed costs $100–$300 to build. Here's exactly how to plan
 category: roi
 publishDate: 2026-02-01
 featured: true
+hero_image: /images/articles/raised-bed-break-even.webp
 ---
 
 A standard 4×8 foot raised bed costs $185–$360 to build and fill in Year 1. That same 32 square feet, planted with the right crops in the right configuration, can yield $280–$550 worth of groceries in a single season.

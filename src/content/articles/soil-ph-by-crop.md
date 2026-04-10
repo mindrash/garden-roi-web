@@ -4,6 +4,7 @@ description: "Soil pH determines which nutrients your plants can absorb. Here's 
 category: care
 publishDate: 2026-04-05
 featured: false
+hero_image: /images/articles/soil-ph-by-crop.webp
 ---
 
 Most gardeners know they're supposed to test their soil pH. Far fewer understand what pH actually controls - which is a shame, because once you see the mechanism, the whole thing clicks. You stop treating pH as a bureaucratic hoop and start treating it as the master dial it actually is.

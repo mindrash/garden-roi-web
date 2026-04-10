@@ -4,6 +4,7 @@ description: "Zone-specific planting timing, variety selection, mulching require
 category: care
 publishDate: 2026-04-15
 featured: false
+hero_image: /images/articles/growing-garlic-by-zone.webp
 ---
 
 Most garlic guides are written for Zone 5 or Zone 6 and never say so. They tell you to plant "in fall, before the ground freezes," which works if you're in Iowa but fails if you're in Georgia and fails even harder if you're in Arizona. The timing spread across US growing zones is nearly three months wide. Get it wrong by even a few weeks and your garlic either doesn't establish before winter or doesn't get the cold vernalization it needs to bulb properly.

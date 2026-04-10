@@ -4,6 +4,7 @@ description: "The most overlooked ROI category in home gardening. 10-year net va
 category: roi
 publishDate: 2026-04-22
 featured: true
+hero_image: /images/articles/perennial-garden-economy.webp
 ---
 
 Every annual vegetable in your garden requires the same investment every year: seeds, transplants, bed preparation, amendments. Perennials don't. You put in the work once, you accept a year or two of limited production while the plant establishes, and then you harvest for a decade or two with minimal additional cost. The economics are dramatically different from anything you grow from seed each spring, and most gardeners don't calculate them.

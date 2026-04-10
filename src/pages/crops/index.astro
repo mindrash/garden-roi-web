@@ -39,7 +39,7 @@ const collectionJsonLd = {
   <div class="page-header">
     <div class="container">
       <h1>Crops</h1>
-      <p>All crops ranked by ROI  -  harvest value divided by seed cost.</p>
+      <p>All crops ranked by ROI  -  harvest value divided by seed cost. <a href="/crops/best-roi/" class="header-link">See the top 15 by ROI →</a></p>
     </div>
   </div>
 
@@ -146,7 +146,7 @@ const collectionJsonLd = {
     </div>
 
     <!-- Table view -->
-    <div class="plants-table-wrap" id="plants-table-wrap" aria-hidden="true">
+    <div class="plants-table-wrap view-hidden" id="plants-table-wrap" aria-hidden="true">
       <table class="plants-table" id="plants-table">
         <thead>
           <tr>
@@ -385,6 +385,15 @@ const collectionJsonLd = {
 </script>
 
 <style>
+  .header-link {
+    color: var(--color-white);
+    text-decoration: underline;
+    opacity: 0.9;
+  }
+  .header-link:hover {
+    opacity: 1;
+  }
+
   .plants-page {
     padding: var(--space-xl) var(--space-l);
   }

@@ -4,6 +4,7 @@ description: "An honest cost comparison between a typical CSA share and a home g
 category: roi
 publishDate: 2026-04-25
 featured: false
+hero_image: /images/articles/csa-vs-home-garden.webp
 ---
 
 A full-share CSA costs $700 to $1,200 for a 20 to 22-week season. A home garden capable of producing similar volume costs $85 to $155 per year to maintain after the first-year setup. Those numbers sound like a clear verdict, but the comparison is more complicated than it looks. CSAs deliver labor, expertise, and crop variety that most home gardeners can't replicate. Home gardens deliver control, specific varieties, and a return that compounds over time. The question isn't which one is cheaper in Year 1 - it's which one fits what you're trying to do.

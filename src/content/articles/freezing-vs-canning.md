@@ -4,6 +4,7 @@ description: "Freezing vs. canning compared on cost, payback period, and best us
 category: homestead
 publishDate: 2026-04-10
 featured: false
+hero_image: /images/articles/freezing-vs-canning.webp
 ---
 
 Freezing has essentially zero startup cost and pays back immediately. Canning requires real upfront equipment investment and takes multiple seasons to break even. That's the core finding, and everything else in this article hangs off of it.
@@ -71,18 +72,58 @@ The food safety guidance in this article reflects USDA NCHFP recommendations. Fo
 
 ## Matching Method to Crop
 
-| Crop | Best Method | Notes |
-|---|---|---|
-| Zucchini | Freeze | Shred and freeze; canning unsuitable for plain zucchini |
-| Tomatoes | Can or freeze | Can for shelf-stable sauce; freeze for simplicity |
-| Green beans | Pressure can or freeze | Pressure canning required if canning; freezing is simpler |
-| Berries | Freeze | Canning works but freezing is easier and faster |
-| Herbs | Freeze | In oil or water; drying also works |
-| Cucumbers | Can (pickles only) | Do not freeze plain cucumbers; they go soft |
-| Corn | Freeze | Simple and high quality |
-| Salsa | Can (water bath) | Use tested recipe with correct acid levels |
-| Jams/jellies | Can (water bath) | Shelf life advantage over freezer jam |
-| Beets | Can (pickled) | Plain beets require pressure canning |
+This table covers the most common home garden crops. "Neither" is a legitimate answer for some crops that preserve better another way entirely. Source: NCHFP best practices (nchfp.uga.edu); USDA Complete Guide to Home Canning (2015 revision).
+
+| Crop | Best method | Why | Notes |
+|---|---|---|---|
+| Tomatoes | Both | Can sauce and diced for shelf stability; freeze whole or chunks for convenience | Freezing is faster; canning stores without electricity |
+| Green beans | Pressure can OR freeze | Pressure canning required for shelf-stable beans; freezing requires only blanching | Pressure canning gives 2-5 year shelf life; freezing is simpler |
+| Strawberries | Freeze only | Canned strawberries lose texture and are commercially uncommon for good reason | Sheet-freeze, then bag; works in jam, smoothies, baked goods |
+| Blueberries | Freeze only | Highest quality retention from freezing; no blanching needed | Sheet-freeze; canned blueberries lose quality significantly |
+| Cucumbers | Can (pickles only) | Cucumbers freeze as mush; the acidity of pickling brine enables water bath processing | Do not attempt to freeze or pressure can plain cucumbers |
+| Basil | Freeze (in oil or pesto) | Basil blackens and loses volatile oils in other preservation; cannot be canned safely | Blend with olive oil, freeze in ice cube trays; or make pesto and freeze |
+| Corn | Freeze | Blanch 3-4 minutes for cut corn; simple and high quality; corn relish can be canned (water bath) | Commercially, corn is also pressure canned but home freezing is superior for home use |
+| Zucchini | Freeze (shredded for baking) | NCHFP does not recommend canning plain zucchini; density makes safe heat penetration unpredictable | Shred, squeeze moisture, freeze in 2-cup portions; worthless for any other preservation |
+| Hot peppers (dried) | Neither - dry them | Drying concentrates flavor and requires zero equipment; dried hot peppers are shelf-stable at room temperature indefinitely | String on thread or use a dehydrator; $0 preservation cost |
+| Salsa | Can (water bath) | Tested recipes with specific acid levels are validated for safe water bath processing | Use NCHFP or Ball Blue Book tested recipe; do not substitute proportions |
+| Jams and jellies | Can (water bath) | Shelf life advantage over freezer jam; no freezer space required | Freezer jam is an easier option if shelf stability isn't needed |
+
+## Freezer Burn: The Hidden Cost
+
+Freezer burn is not a safety issue. It's a quality issue with a real dollar cost that's easy to underestimate.
+
+USDA FSIS guidelines recommend consuming home frozen vegetables within 8-12 months for best quality. Beyond that window, quality degradation accelerates: ice crystals damage cell walls, moisture migrates to the freezer environment, and the resulting texture becomes mealy or papery. A freezer drawer full of improperly stored produce from two years ago represents real dollar loss.
+
+The math: 10 lbs of garden tomatoes frozen at peak-season input cost (effectively free from your garden, or $0.10/lb in bags and energy) has a grocery equivalent value of $30-60 at winter retail prices ($3-6/lb for quality tomatoes in January). If those same 10 lbs were improperly stored, burned, and ultimately thrown away, you lost $30-60 in grocery offset value and gained nothing. The preservation cost was not zero - it was $30-60 in forgone value.
+
+Preventing freezer burn: use freezer-grade bags or containers, remove as much air as possible, label with date, and use a rotation system (oldest bags to the front). A dedicated chest freezer makes rotation easier than a shared refrigerator freezer where produce gets buried. A full chest freezer is more energy-efficient than a half-empty one - fill unused space with ice or frozen water bottles.
+
+## Five-Year Cost Comparison: When Canning Becomes Cheaper
+
+Freezing appears free if you already own a freezer. It's not quite free at scale. Here's the honest 5-year cost comparison for a serious home food producer:
+
+**Freezing cost (5-year total):**
+- Existing refrigerator freezer (already owned): $0 additional cost for equipment. Add $0-15/yr for bags = $0-75 over 5 years.
+- Chest freezer for serious preservation ($180-250 purchase, 7 cu-ft): amortized over 5 years = $36-50/yr equipment + $20-30/yr electricity + $10-15/yr bags = **$66-95/yr**, or $330-475 over 5 years.
+
+**Canning cost (5-year total):**
+- Year 1 equipment (water bath canner $40 + pressure canner $120 + 2 dozen jars $30) = $190
+- Years 2-5: $20-40/yr lids + $5-10/yr energy = $25-50/yr
+- 5-year total: **$290-390**
+
+At high preservation volume - 50-100+ jars per season - canning costs less per preserved pound than chest freezer operation by Year 3 or 4. The crossover point shifts earlier as preservation volume increases, because canning's per-unit cost (lid + energy) stays nearly constant while freezer electricity costs are fixed regardless of how much you store.
+
+Freezing wins on low-volume preservation. If you're putting up fewer than 30-40 jars' worth of volume per year, using your existing freezer and buying bags is almost certainly cheaper than the full canning equipment investment.
+
+The practical rule: if you already own a freezer and you're preserving modest volumes, freeze. If you're producing 100+ lbs of preservation-worthy produce per season and want shelf stability, canning pays off.
+
+## Space: What a Full Season's Preservation Actually Takes
+
+A serious home garden's seasonal surplus preservation - call it 10 lbs of green beans, 20 lbs of tomatoes, 15 lbs of mixed berries, 5 lbs of corn, and assorted zucchini shreds - occupies roughly 3-4 cubic feet of freezer space. That's approximately half of a standard 7 cubic-foot chest freezer.
+
+A shared household refrigerator freezer (typically 3-5 cubic feet total across all uses, of which maybe 1-2 cubic feet is available for garden produce) cannot handle a full season's preservation. You'll hit the capacity wall by August and start choosing between frozen meat, ice cream, and tomatoes.
+
+A 7 cubic-foot chest freezer at $180-250 handles a full kitchen garden's preservation with room for other frozen goods. It pays for itself in two to three seasons if you're filling it with garden produce that would otherwise be purchased at winter retail prices. See [Freezer Math and Garden ROI](/homestead/freezer-math-garden-roi/) for the full calculation on chest freezer payback.
 
 ## Which to Start With
 

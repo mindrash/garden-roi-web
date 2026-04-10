@@ -4,6 +4,7 @@ description: "Seed-starting saves $2-5 per plant, but costs 6-8 weeks of your ti
 category: roi
 publishDate: 2026-04-05
 featured: false
+hero_image: /images/articles/seeds-vs-transplants.webp
 ---
 
 The nursery flat looks like a bargain until you do the math. Six tomato transplants at $4 each is $24. The same six plants started from seed cost about $1.50 in seeds and a bag of seed-starting mix. That $22.50 difference is real money - but it doesn't tell the whole story.

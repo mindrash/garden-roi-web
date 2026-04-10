@@ -4,6 +4,7 @@ description: "How to read a soil test and decide what to do before you plant. In
 category: planning
 publishDate: 2026-04-20
 featured: false
+hero_image: /images/articles/soil-test-decision-chain.webp
 ---
 
 A $15 soil test is the most profitable thing you can spend money on before you plant. Not because the numbers are magical, but because they tell you which bags of fertilizer and amendment to skip - and which ones you actually need. Most gardeners either add everything on the package's general recommendations, or add nothing and wonder why their yields disappoint. The test tells you what the ground needs and what it already has.

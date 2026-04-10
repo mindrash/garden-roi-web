@@ -4,6 +4,7 @@ description: "Seed saving cuts your annual seed costs and adapts crops to your s
 category: homestead
 publishDate: 2026-04-08
 featured: false
+hero_image: /images/articles/seed-saving-guide.webp
 ---
 
 A standard seed packet costs about $3.50 and contains somewhere between 20 and 50 seeds, depending on the crop. You plant most of them. A few don't germinate. You harvest all summer. Then you throw the empty packet away and buy another one next year. That's the default. It doesn't have to be.
