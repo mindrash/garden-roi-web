@@ -330,6 +330,65 @@ li {
 .prose li { margin-bottom: var(--space-xs); }
 .prose strong { font-weight: 600; color: var(--color-text-primary); }
 
+/* Table styles */
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: var(--space-l);
+  font-size: var(--text-small);
+  line-height: var(--leading-small);
+  border-radius: var(--radius-s);
+  overflow: hidden;
+  box-shadow: var(--shadow-soft);
+}
+
+.prose thead {
+  background-color: var(--color-primary);
+}
+
+.prose thead th {
+  padding: var(--space-s) var(--space-m);
+  text-align: left;
+  font-weight: 600;
+  font-size: var(--text-small);
+  color: var(--color-text-on-dark);
+  letter-spacing: 0.2px;
+  white-space: nowrap;
+}
+
+.prose tbody tr {
+  border-bottom: 1px solid var(--color-border);
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+.prose tbody tr:nth-child(even) {
+  background-color: var(--color-highlight);
+}
+
+.prose tbody tr:has(strong) {
+  background-color: rgba(45, 90, 39, 0.1);
+  border-top: 2px solid var(--color-border);
+  border-bottom: none;
+}
+
+.prose td {
+  padding: var(--space-s) var(--space-m);
+  color: var(--color-text-secondary);
+  vertical-align: top;
+}
+
+.prose td strong {
+  color: var(--color-primary);
+}
+
+@media (max-width: 768px) {
+  .prose table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
 @media (max-width: 768px) {
   .container,
   .content-container {
