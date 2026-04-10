@@ -38,7 +38,7 @@ const year = new Date().getFullYear();
         <h4>App</h4>
         <ul>
           <li><a href="https://apps.apple.com/us/app/garden-roi/id6760734178" target="_blank" rel="noopener noreferrer">iOS App Store</a></li>
-          <li><a href="https://play.google.com/store/apps/details?id=com.fleeflame.gardenroi" target="_blank" rel="noopener noreferrer">Google Play</a></li>
+          <li><span class="footer-link-muted">Google Play (coming soon)</span></li>
           <li><a href="https://fleeflame.com/apps/garden-roi/privacy.html" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
           <li><a href="https://fleeflame.com/apps/garden-roi/terms.html" target="_blank" rel="noopener noreferrer">Terms of Service</a></li>
         </ul>
@@ -158,6 +158,12 @@ const year = new Date().getFullYear();
 
   .api-link:hover {
     color: rgba(255, 255, 255, 0.6);
+  }
+
+  .footer-link-muted {
+    font-size: var(--text-small);
+    color: rgba(255, 255, 255, 0.35);
+    cursor: default;
   }
 
   @media (max-width: 768px) {
