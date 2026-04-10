@@ -1,0 +1,223 @@
+---
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import { getCollection } from 'astro:content';
+import { COMPARISON_PAIRS } from '../../data/comparisons';
+
+export async function getStaticPaths() {
+  const allPlants = await getCollection('plants');
+  const plantMap = new Map(allPlants.map((p) => [p.id, p]));
+
+  return COMPARISON_PAIRS.flatMap(([a, b]) => {
+    const plantA = plantMap.get(a);
+    const plantB = plantMap.get(b);
+    if (!plantA || !plantB) return [];
+    return [
+      {
+        params: { slugs: `${a}-vs-${b}` },
+        props: { plantA, plantB, allPlants },
+      },
+    ];
+  });
+}
+
+const { slugs } = Astro.params;
+const { plantA, plantB, allPlants } = Astro.props;
+
+const a = plantA.data;
+const b = plantB.data;
+
+// Metrics
+function grossValue(p: typeof a) { return p.avg_yield_lb * p.avg_price_lb; }
+function netValue(p: typeof a)   { return grossValue(p) - p.seed_cost; }
+function roiMultiple(p: typeof a) { return grossValue(p) / p.seed_cost; }
+
+const metrics = [
+  { label: 'Seed cost',           a: `$${a.seed_cost.toFixed(2)}`,  b: `$${b.seed_cost.toFixed(2)}`,  winner: a.seed_cost < b.seed_cost ? 'a' : b.seed_cost < a.seed_cost ? 'b' : 'tie' },
+  { label: 'Days to maturity',    a: `${a.days_min}–${a.days_max}`, b: `${b.days_min}–${b.days_max}`, winner: a.days_max < b.days_max ? 'a' : b.days_max < a.days_max ? 'b' : 'tie' },
+  { label: 'Avg yield (lb)',      a: `${a.avg_yield_lb} lb`,        b: `${b.avg_yield_lb} lb`,         winner: a.avg_yield_lb > b.avg_yield_lb ? 'a' : b.avg_yield_lb > a.avg_yield_lb ? 'b' : 'tie' },
+  { label: 'Retail price/lb',     a: `$${a.avg_price_lb.toFixed(2)}`, b: `$${b.avg_price_lb.toFixed(2)}`, winner: a.avg_price_lb > b.avg_price_lb ? 'a' : b.avg_price_lb > a.avg_price_lb ? 'b' : 'tie' },
+  { label: 'Gross harvest value', a: `$${grossValue(a).toFixed(2)}`, b: `$${grossValue(b).toFixed(2)}`, winner: grossValue(a) > grossValue(b) ? 'a' : grossValue(b) > grossValue(a) ? 'b' : 'tie' },
+  { label: 'Net value',           a: `$${netValue(a).toFixed(2)}`,   b: `$${netValue(b).toFixed(2)}`,   winner: netValue(a) > netValue(b) ? 'a' : netValue(b) > netValue(a) ? 'b' : 'tie' },
+  { label: 'ROI multiple',        a: `${roiMultiple(a).toFixed(1)}×`, b: `${roiMultiple(b).toFixed(1)}×`, winner: roiMultiple(a) > roiMultiple(b) ? 'a' : roiMultiple(b) > roiMultiple(a) ? 'b' : 'tie' },
+];
+
+const title = `${a.name} vs ${b.name}: ROI & Yield Comparison`;
+const description = `${a.name} vs ${b.name}: seed cost, days to maturity, yield, and net value compared side by side. Which crop gives better garden ROI?`;
+
+const breadcrumbJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://gardenroi.com/' },
+    { '@type': 'ListItem', position: 2, name: 'Compare Crops', item: 'https://gardenroi.com/compare/' },
+    { '@type': 'ListItem', position: 3, name: `${a.name} vs ${b.name}`, item: `https://gardenroi.com/compare/${slugs}/` },
+  ],
+};
+
+// Other comparisons involving either crop
+const relatedPairs = COMPARISON_PAIRS.filter(
+  ([x, y]) =>
+    `${x}-vs-${y}` !== slugs &&
+    (x === plantA.id || x === plantB.id || y === plantA.id || y === plantB.id),
+);
+---
+
+<ContentLayout
+  title={title}
+  description={description}
+  breadcrumbs={[{ label: 'Compare Crops', href: '/compare/' }]}
+  pageJsonLd={breadcrumbJsonLd}
+>
+  <h1 class="page-title">{a.name} vs {b.name}</h1>
+  <p class="page-desc">Side-by-side ROI comparison based on USDA average yield and retail price data.</p>
+
+  <div class="container compare-page">
+    <div class="compare-table-wrap glass-card">
+      <table class="compare-table">
+        <thead>
+          <tr>
+            <th class="metric-col">Metric</th>
+            <th class="crop-col crop-a"><a href={`/crops/${plantA.id}/`}>{a.name}</a></th>
+            <th class="crop-col crop-b"><a href={`/crops/${plantB.id}/`}>{b.name}</a></th>
+          </tr>
+        </thead>
+        <tbody>
+          {metrics.map((m) => (
+            <tr>
+              <td class="metric-label">{m.label}</td>
+              <td class={`crop-val crop-a-val ${m.winner === 'a' ? 'winner' : ''}`}>{m.a}</td>
+              <td class={`crop-val crop-b-val ${m.winner === 'b' ? 'winner' : ''}`}>{m.b}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      <p class="table-note">Values are per plant/packet. Retail prices from USDA AMS data. Net value = gross harvest value minus seed cost.</p>
+    </div>
+
+    <div class="crop-links">
+      <a href={`/crops/${plantA.id}/`} class="btn btn-secondary">Full {a.name} guide →</a>
+      <a href={`/crops/${plantB.id}/`} class="btn btn-secondary">Full {b.name} guide →</a>
+    </div>
+
+    {relatedPairs.length > 0 && (
+      <div class="related-compares glass-card">
+        <h3>Related comparisons</h3>
+        <div class="related-links">
+          {relatedPairs.map(([x, y]) => (
+            <a href={`/compare/${x}-vs-${y}/`} class="compare-link">{x} vs {y}</a>
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</ContentLayout>
+
+<style>
+  .page-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h1);
+    color: var(--color-primary);
+    margin-bottom: var(--space-s);
+  }
+
+  .page-desc { color: var(--color-text-secondary); margin-bottom: var(--space-xl); }
+
+  .compare-page {
+    padding-top: var(--space-xl);
+    padding-bottom: var(--space-xxl);
+    background-color: rgba(248, 249, 245, 0.97);
+  }
+
+  .compare-table-wrap {
+    overflow-x: auto;
+    margin-bottom: var(--space-xl);
+    padding: var(--space-l);
+  }
+
+  .compare-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-body);
+  }
+
+  .compare-table th {
+    text-align: left;
+    padding: var(--space-s) var(--space-m);
+    border-bottom: 2px solid var(--color-border);
+    font-weight: 700;
+  }
+
+  .crop-a { color: var(--color-primary); }
+  .crop-b { color: var(--color-secondary); }
+
+  .compare-table th a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .compare-table th a:hover { text-decoration: underline; }
+
+  .compare-table td {
+    padding: var(--space-s) var(--space-m);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .metric-label {
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    white-space: nowrap;
+  }
+
+  .crop-val { font-variant-numeric: tabular-nums; }
+
+  .winner {
+    font-weight: 700;
+    background-color: rgba(76, 175, 80, 0.10);
+    border-radius: var(--radius-s);
+  }
+
+  .crop-a-val.winner { color: var(--color-primary-dark); }
+  .crop-b-val.winner { color: var(--color-secondary); }
+
+  .table-note {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    margin-top: var(--space-m);
+  }
+
+  .crop-links {
+    display: flex;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+    margin-bottom: var(--space-xl);
+  }
+
+  .related-compares {
+    padding: var(--space-l);
+  }
+
+  .related-compares h3 {
+    font-family: var(--font-display);
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-m);
+  }
+
+  .related-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-s);
+  }
+
+  .compare-link {
+    padding: var(--space-xs) var(--space-m);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-full);
+    font-size: var(--text-small);
+    color: var(--color-primary);
+    text-decoration: none;
+    background: var(--color-white);
+    text-transform: capitalize;
+  }
+
+  .compare-link:hover { background: var(--color-highlight); }
+</style>

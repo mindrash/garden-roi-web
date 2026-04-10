@@ -12,6 +12,7 @@ watering: Regular; keep soil consistently moist, lettuce has a shallow root syst
 sunlight: Partial to full sun (4–6 hours); afternoon shade beneficial in warm weather
 companion_plants: [Carrot, Radish, Strawberry, Chives]
 description: "Lettuce (Lactuca sativa) - 1.5 lb per plant at $3.50/lb vs. $12-20/lb for packaged greens at retail. Succession plant every 2-3 weeks through spring and fall."
+hero_image: /images/crops/lettuce.webp
 ---
 
 Lettuce (*Lactuca sativa*) is a cool-season annual that grows faster than almost anything else you can put in a garden and, depending on variety, can be harvested 45 days from seed. It's also one of the clearer-cut value propositions in a small home garden: packaged salad greens retail for $4.00–$6.00 for 5 oz at most grocery stores (USDA Agricultural Marketing Service, 2023), which puts the per-pound cost in the $12–$20 range. Home-grown lettuce costs a fraction of that, and you're harvesting it at peak freshness rather than five to ten days after it was cut.

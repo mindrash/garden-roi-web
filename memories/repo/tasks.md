@@ -1496,6 +1496,206 @@ Step 3 - Add `<RoiEstimator />` to `src/pages/index.astro`:
 
 ---
 
+## Content Sprint — Original Depth Articles (Claude Code)
+
+All stories below go to Claude Code. Load `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md` before writing any of them.
+
+### CA001 — "The $500 Garden" — Complete cost audit of a real first-year setup
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/the-500-dollar-garden.md`
+**What:** Anchor piece. A line-item cost audit of everything a first-year gardener actually spends: lumber ($60–$120), hardware cloth ($20–$30), soil ($60–$120), seeds ($15–$30), transplants ($20–$40), tools ($30–$80), amendments ($10–$20), pest control ($0–$20). Total: $215–$460. Then the other side: what that same garden produced, crop by crop, with retail equivalents. The article ends with a real net number — not a promise.
+- Frontmatter: `category: roi`, `featured: true`, `publishDate: 2026-04-15`
+- Target: 2,500+ words
+- Must include: full itemized cost table, full harvest value table, zone-adjusted scenarios (Zone 5 vs Zone 7), a section on what to cut if budget is $300 vs $500
+- Internal links: `/roi/raised-bed-break-even/`, `/roi/first-three-years-roi/`, `/crops/tomato/`, `/crops/basil/`
+**Acceptance:**
+- 2,500+ words
+- Every cost figure cited or sourced from stated supplier ranges
+- No em dashes, no motivational closing
+- `npx astro build` passes with 0 errors
+
+---
+
+### CA002 — "Growing Garlic in Every US Climate Zone" — regional adaptation guide
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/growing-garlic-by-zone.md`
+**What:** The most thorough garlic-by-zone guide on the web. Covers: planting timing zone by zone (fall in Zones 3–8, spring planting strategy for Zones 9–10), variety selection by zone (hardneck works in cold climates, softneck stores longer in warm ones), overwintering mulch requirements, scapes (Zones 3–6 only — hardneck), harvest timing signals, curing duration by humidity level.
+- Frontmatter: `category: care`, `featured: false`, `publishDate: 2026-04-15`
+- Target: 2,500+ words
+- Must include: zone-by-zone planting calendar table, hardneck vs softneck comparison table, curing environment specs
+- Internal links: `/crops/garlic/`, `/roi/first-three-years-roi/`, `/guides/succession-planting-calendar/`
+**Acceptance:**
+- 2,500+ words, zone table present, variety comparison table present
+- USDA hardiness zone data cited, variety timing cited to extension sources
+- No em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### CA003 — "Soil Test to First Harvest: The Decision Chain"
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/soil-test-decision-chain.md`
+**What:** Step-by-step decision framework starting from a soil test result. What each number means (pH, N-P-K, Ca, Mg, CEC, organic matter %), what to do about it before planting, and how each deficiency shows up in crop yields. Structured as a decision tree: if your pH is X, do Y; if your N is low, here's the cost of amendment vs the yield penalty of ignoring it. Practical math on whether a $15 soil test pays for itself (it does, quickly).
+- Frontmatter: `category: planning`, `featured: false`, `publishDate: 2026-04-20`
+- Target: 2,000+ words
+- Must include: soil test results interpretation table (metric, ideal range, what low/high means for crops), amendment cost vs yield penalty table
+- Internal links: `/guides/soil-ph-by-crop/`, `/crops/tomato/`, `/crops/kale/`
+**Acceptance:**
+- 2,000+ words, interpretation table present
+- Penn State or OSU Extension cited for amendment rates
+- No em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### CA004 — "Freezer Math: The Real ROI of a Garden Freezer"
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/freezer-math-garden-roi.md`
+**What:** What does it actually cost to freeze garden produce vs. buying frozen at retail? Chest freezer cost ($150–$300) amortized over 15 years = $10–$20/yr. Electricity cost ($30–$50/yr for a 7 cu ft chest freezer per DOE data). Per-bag freezing cost (bag + electricity): $0.08–$0.15/bag. Compare to: frozen green beans retail $2.50–$3.50/lb (USDA AMS), frozen spinach $3–$5/lb, frozen tomatoes/sauce $3–$6/lb equivalent.
+- Frontmatter: `category: homestead`, `featured: false`, `publishDate: 2026-04-20`
+- Target: 1,800+ words
+- Must include: freezer amortization table, per-crop freeze value table, break-even calculation at 3 garden sizes
+- Internal links: `/homestead/freezing-vs-canning/`, `/homestead/canning-financial-case/`, `/crops/green-bean/`
+**Acceptance:**
+- 1,800+ words, amortization table and per-crop table present
+- DOE or ENERGY STAR data cited for electricity costs, USDA AMS cited for retail frozen prices
+- No em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### CA005 — "The Perennial Garden Economy: Crops You Plant Once and Harvest for Decades"
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/perennial-garden-economy.md`
+**What:** The most overlooked ROI category in home gardening. Covers: asparagus (3-year establishment, 20+ year harvest), established herb perennials (thyme, oregano, chives, lovage, sorrel), fruit perennials (strawberries, raspberries, blackberries, rhubarb). Structured around: what is the 10-year NPV of planting each crop today? Real math, not approximations.
+- Frontmatter: `category: roi`, `featured: true`, `publishDate: 2026-04-22`
+- Target: 2,500+ words
+- Must include: 10-year ROI table by crop (establishment cost, annual harvest value, annual input cost, 10-yr net), asparagus detailed timeline, strawberry runner math
+- Internal links: `/roi/first-three-years-roi/`, `/crops/garlic/`, `/crops/strawberry/`
+**Acceptance:**
+- 2,500+ words, 10-year ROI table present
+- Establishment cost and yield data cited to extension sources
+- No em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### CA006 — "What a CSA Share Actually Costs vs. Growing It Yourself"
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/csa-vs-home-garden.md`
+**What:** An honest cost comparison between a typical CSA share ($400–$700/season for a half share, $700–$1,200 for a full share) and a home garden producing equivalent volume. What crops appear in a typical CSA box, what they cost at retail, what they cost to grow at home. Which crops the CSA does better. Which crops home growing does better. Not a polemic — an actual comparison with numbers.
+- Frontmatter: `category: roi`, `featured: false`, `publishDate: 2026-04-25`
+- Target: 2,000+ words
+- Must include: typical CSA box contents + retail value table, same crops grown at home cost + value table, side-by-side net comparison
+- Internal links: `/roi/raised-bed-break-even/`, `/roi/first-three-years-roi/`, `/crops/lettuce/`, `/crops/tomato/`
+**Acceptance:**
+- 2,000+ words, both tables present, side-by-side comparison present
+- CSA price ranges cited (USDA NASS local food survey or equivalent)
+- No em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### CA007 — New plant pages: broccoli, spinach, Swiss chard, sweet potato, beet
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/plants/broccoli.md`, `src/content/plants/spinach.md`, `src/content/plants/swiss-chard.md`, `src/content/plants/sweet-potato.md`, `src/content/plants/beet.md`
+**What:** Five Tier 2 plant pages. Each must meet the full plant entry standard: botanical identity, ROI case with cited numbers, growing requirements, what goes wrong, harvest and storage. Note: all five already have hero images downloaded at `public/images/crops/[slug].webp` - include `hero_image` in frontmatter.
+- Broccoli: calabrese vs. sprouting types, side-shoot yield after main head, $2–$3/head retail (USDA AMS)
+- Spinach: Savoy vs. flat-leaf, bolting management, succession planting model, $4–$6/lb cited
+- Swiss chard: cut-and-come-again model, rainbow vs. single-color, mild-season performance
+- Sweet potato: slip vs. root propagation, 90–120 day requirement, $1.50–$2.50/lb retail, slip production math
+- Beet: greens + roots = double value, golden vs. red vs. Chioggia, 55–70 days, $2–$4/lb retail
+**Acceptance:**
+- All 5 files exist and pass `npx astro build`
+- Each 600+ words
+- All yield and price figures cited
+- `seed_cost` and `hero_image` present in all frontmatter
+- No em dashes
+
+---
+
+## Feature Sprint — Next Level (Copilot)
+
+### NF001 — Zone Finder: pre-rendered crop recommendations by USDA zone
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** `src/components/ZoneFinder.astro`, `src/pages/zone/[zone].astro`
+**What:** Interactive component where visitor selects their USDA hardiness zone (3–11). Renders a filtered crop list showing: days to maturity vs frost-free days available, which crops need indoor start, which are direct-sow safe. Static output via `getStaticPaths`. No JS frameworks; a `<select>` that navigates to `/zone/[zone]/` is sufficient.
+**Data source:** Plant frontmatter already has `days_min`, `days_max`. Add `direct_sow_ok: boolean` and `indoor_weeks_needed: number` fields to schema with safe defaults.
+**Acceptance:**
+- `/zone/5/`, `/zone/6/`, etc. pre-render with 0 errors
+- Each zone page shows crops flagged as "direct sow" or "start indoors X weeks before last frost"
+- Zone selector on homepage or header
+- `npx astro build` passes with 0 errors
+
+---
+
+### NF002 — Crop Comparison: side-by-side $/sq ft for any 2 crops
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** `src/components/CropCompare.astro`, `src/pages/compare.astro`
+**What:** Static comparison page at `/compare/`. Pre-render 10+ common 2-crop combinations at `/compare/[slug1]-vs-[slug2]/`. Side-by-side table: seed cost, days to maturity, avg yield, avg price/lb, estimated gross value, estimated net. All data from Content Collections.
+**Acceptance:**
+- 10+ combinations pre-rendered with unique title/meta per page
+- Table shows all 6 metrics from plant frontmatter
+- Mobile-friendly
+- `npx astro build` passes with 0 errors
+
+---
+
+### NF003 — Seasonal Planting Calendar: printable zone-specific page
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** `src/pages/calendar/[zone].astro`, `src/components/PlantingCalendar.astro`
+**What:** Pre-rendered `/calendar/5/`, `/calendar/6/`, etc. Visual grid: months on X axis, crop categories on Y axis. Each cell shows sow indoors / transplant / direct sow / harvest window. Derived from plant frontmatter + hard-coded frost date midpoints per zone. Print-friendly CSS (`@media print`).
+**Acceptance:**
+- Zones 3–10 pre-render with 0 errors
+- Grid renders on desktop, tablet, and print
+- Links to `/zone/[zone]/` and relevant crop pages
+- `npx astro build` passes with 0 errors
+
+---
+
+### NF004 — Budget Planner: full-season cost + ROI projection
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** `src/components/BudgetPlanner.astro`
+**What:** Expand existing ROI Estimator into a full budget planner. Inputs: number of beds, bed size, crop mix selection (checkboxes), seeds vs transplants. Outputs: total input cost, total harvest value, net ROI, break-even week. All client-side vanilla JS. Crop data baked at build time into a JSON blob from Content Collections.
+**Acceptance:**
+- Accessible from homepage and `/app/`
+- Handles 1–6 beds of user-selected sizes
+- Output updates reactively on input change
+- `npx astro build` passes with 0 errors
+
+---
+
+### NF005 — "What To Plant Now" homepage section
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** `src/components/WhatToPlantNow.astro`
+**What:** Homepage section that displays crops appropriate for the current month + selected zone. Uses `new Date()` client-side. Persists zone preference in `localStorage`. Fallback to Zone 6 if no zone stored or localStorage unavailable.
+**Acceptance:**
+- Renders on homepage below the hero
+- Correct crops shown for current month + Zone 6 default
+- Zone preference persists via localStorage
+- `npx astro build` passes with 0 errors
+
+---
+
 ## Done
 
 - **T001-T011:** All infrastructure tasks complete (schema, routing, SEO, pages)

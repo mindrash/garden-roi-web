@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, drought-tolerant once established
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Arugula", "Chives"]
 description: "Sorrel (Rumex acetosa) - perennial zones 4+, $5-8/lb. Lemon-flavored cut-and-come-again herb that reaches near-zero annual cost by year two. Two types with different culinary uses."
+hero_image: /images/crops/sorrel.webp
 ---
 
 Sorrel (*Rumex acetosa*) tastes like lemon - a bright, acidic, almost citrusy bite that comes from oxalic acid in the leaves. It's a perennial herb that comes back every year from the same root crown, gets cut repeatedly through the season, and by year two asks for almost nothing in terms of inputs while continuing to produce. If you have a permanent kitchen garden bed, sorrel is worth one corner of it.

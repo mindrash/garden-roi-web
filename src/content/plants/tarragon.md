@@ -12,6 +12,7 @@ watering: Light to moderate; 0.5-1 inch/week, good drainage essential
 sunlight: Full sun (6+ hours)
 companion_plants: [Arugula, Chives]
 description: "French tarragon (Artemisia dracunculus var. sativa) - must be grown from divisions, not seed. $12-18/lb. Perennial zones 4-7. Anise flavor profile, culinary staple."
+hero_image: /images/crops/tarragon.webp
 ---
 
 French tarragon (*Artemisia dracunculus* var. *sativa*) is one of the few culinary herbs you cannot grow from seed. Seed packets labeled "tarragon" are invariably Russian tarragon (*A. dracunculus* var. *inodorus* or simply *A. dracunculus*) - a plant that looks nearly identical but tastes like almost nothing. If you've grown "tarragon" from seed and wondered what the fuss was about, that's why.

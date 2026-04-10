@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, reduce after pods form
 sunlight: Full sun (6+ hours)
 companion_plants: [Corn, Carrot]
 description: "Lima bean (Phaseolus lunatus) - $3-5/lb fresh shelled. Rarely sold fresh outside the Southeast US. Baby limas and large Fordhook types are distinct products with different uses."
+hero_image: /images/crops/lima-bean.webp
 ---
 
 Fresh lima beans (*Phaseolus lunatus*) are one of those vegetables where growing your own fills a genuine gap rather than just replicating what's at the grocery store. Outside the Southeast United States, fresh shell limas are nearly impossible to find at retail - the fresh bean market collapsed as processing and freezing became the standard. Frozen limas can be found everywhere; fresh limas almost nowhere. That's your competitive advantage.

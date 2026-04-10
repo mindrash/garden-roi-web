@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, consistent moisture throughout head format
 sunlight: Full sun (6+ hours)
 companion_plants: ["Garlic", "Arugula"]
 description: "Napa Cabbage (Brassica rapa subsp. pekinensis) - 4 lb heads at $1.50-2.50/lb retail. Kimchi production converts $2/lb cabbage into $8-12/lb fermented value."
+hero_image: /images/crops/napa-cabbage.webp
 ---
 
 Napa cabbage (*Brassica rapa* subsp. *pekinensis*) is one of the more underrated row crops for the home garden. At $1.50-2.50 per pound retail (USDA AMS Specialty Crop Market News, 2023), it doesn't look like much on paper. But each plant produces a single dense 4 to 6 pound head, and if you're making kimchi, you've just converted $2/lb vegetable into a fermented product that sells for $8-12/lb at specialty stores. That's a 3-5x value multiplier you produce with labor and salt.

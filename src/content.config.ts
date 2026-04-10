@@ -16,6 +16,8 @@ const plants = defineCollection({
     watering: z.string(),
     sunlight: z.string(),
     companion_plants: z.array(z.string()).default([]),
+    direct_sow_ok: z.boolean().default(true),
+    indoor_weeks_needed: z.number().int().min(0).default(0),
     hero_image: z.string().optional(),
     description: z.string().optional(),
   }),

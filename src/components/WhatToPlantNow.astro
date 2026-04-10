@@ -1,0 +1,313 @@
+---
+import { getCollection } from 'astro:content';
+import { ZONES, classifyCropForZone } from '../data/zones';
+
+const allPlants = await getCollection('plants');
+
+// Bake all plant data needed for client-side filtering at build time
+const plantData = allPlants.map((p) => ({
+  name: p.data.name,
+  slug: p.id,
+  category: p.data.category,
+  days_min: p.data.days_min,
+  days_max: p.data.days_max,
+  indoor_weeks_needed: p.data.indoor_weeks_needed,
+  avg_yield_lb: p.data.avg_yield_lb,
+  avg_price_lb: p.data.avg_price_lb,
+}));
+
+const zonesJson = JSON.stringify(ZONES);
+const plantsJson = JSON.stringify(plantData);
+---
+
+<section class="wtpn-section">
+  <script id="wtpn-zones" type="application/json" set:html={zonesJson}></script>
+  <script id="wtpn-plants" type="application/json" set:html={plantsJson}></script>
+
+  <div class="container">
+    <div class="wtpn-header">
+      <div class="wtpn-zone-picker">
+        <label for="wtpn-zone-sel" class="wtpn-zone-label">Your zone:</label>
+        <select id="wtpn-zone-sel" class="wtpn-zone-select" aria-label="Select your USDA zone">
+          {ZONES.map((z) => (
+            <option value={z.zone}>{z.label}</option>
+          ))}
+        </select>
+      </div>
+    </div>
+
+    <div class="wtpn-columns" id="wtpn-columns">
+      <div class="wtpn-col" id="wtpn-col-sow">
+        <h3 class="wtpn-col-heading wtpn-col-heading--sow">Direct sow now</h3>
+        <ul class="wtpn-list" id="wtpn-list-sow"></ul>
+      </div>
+      <div class="wtpn-col" id="wtpn-col-start">
+        <h3 class="wtpn-col-heading wtpn-col-heading--start">Start indoors now</h3>
+        <ul class="wtpn-list" id="wtpn-list-start"></ul>
+      </div>
+      <div class="wtpn-col" id="wtpn-col-harvest">
+        <h3 class="wtpn-col-heading wtpn-col-heading--harvest">Approaching harvest</h3>
+        <ul class="wtpn-list" id="wtpn-list-harvest"></ul>
+      </div>
+    </div>
+
+    <p class="wtpn-note" id="wtpn-note" hidden>No specific action needed this month for your zone. <a href="/zone/6/">View full zone guide</a>.</p>
+
+    <div class="wtpn-footer">
+      <a href="/zone/6/" id="wtpn-zone-link" class="wtpn-zone-cta">See all crops for your zone →</a>
+      <a href="/calendar/6/" id="wtpn-cal-link" class="wtpn-zone-cta">Full planting calendar →</a>
+    </div>
+  </div>
+</section>
+
+<script>
+  interface ZoneData {
+    zone: number;
+    lastFrost: string;
+    firstFrost: string;
+    frostFreeDays: number;
+    label: string;
+  }
+
+  interface PlantData {
+    name: string;
+    slug: string;
+    category: string;
+    days_min: number;
+    days_max: number;
+    indoor_weeks_needed: number;
+    avg_yield_lb: number;
+    avg_price_lb: number;
+  }
+
+  const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+  function parseFrost(str: string) {
+    const [mon, day] = str.split(' ');
+    return { month: MONTHS.indexOf(mon), day: parseInt(day, 10) };
+  }
+
+  function classifyCrop(
+    daysMin: number,
+    daysMax: number,
+    indoorWeeks: number,
+    frostFreeDays: number,
+  ): 'direct-sow' | 'start-indoors' | 'marginal' | 'not-recommended' {
+    if (daysMax <= frostFreeDays) return 'direct-sow';
+    const boost = Math.max(indoorWeeks, 6) * 7;
+    if (daysMin <= frostFreeDays && daysMax - boost <= frostFreeDays) return 'start-indoors';
+    if (daysMin <= frostFreeDays + 14) return 'marginal';
+    return 'not-recommended';
+  }
+
+  const ZONES: ZoneData[] = JSON.parse(
+    (document.getElementById('wtpn-zones') as HTMLScriptElement).textContent || '[]'
+  );
+  const PLANTS: PlantData[] = JSON.parse(
+    (document.getElementById('wtpn-plants') as HTMLScriptElement).textContent || '[]'
+  );
+
+  const zoneSelect = document.getElementById('wtpn-zone-sel') as HTMLSelectElement;
+  const listSow     = document.getElementById('wtpn-list-sow')!;
+  const listStart   = document.getElementById('wtpn-list-start')!;
+  const listHarvest = document.getElementById('wtpn-list-harvest')!;
+  const noteEl      = document.getElementById('wtpn-note')!;
+  const zoneLink    = document.getElementById('wtpn-zone-link') as HTMLAnchorElement;
+  const calLink     = document.getElementById('wtpn-cal-link') as HTMLAnchorElement;
+
+  const STORAGE_KEY = 'garden_roi_zone';
+  const currentMonth = new Date().getMonth(); // 0-11
+
+  // Restore saved zone
+  const savedZone = (() => {
+    try { return localStorage.getItem(STORAGE_KEY); } catch { return null; }
+  })();
+
+  const defaultZone = savedZone || '6';
+  zoneSelect.value = defaultZone;
+
+  function saveZone(z: string) {
+    try { localStorage.setItem(STORAGE_KEY, z); } catch {}
+  }
+
+  function render(zoneNum: number) {
+    const zoneData = ZONES.find((z) => z.zone === zoneNum);
+    if (!zoneData) return;
+
+    const lf = parseFrost(zoneData.lastFrost);
+    const ff = parseFrost(zoneData.firstFrost);
+
+    // Update footer links
+    zoneLink.href = `/zone/${zoneNum}/`;
+    zoneLink.textContent = `See all crops for Zone ${zoneNum} →`;
+    calLink.href = `/calendar/${zoneNum}/`;
+
+    const sow: PlantData[]     = [];
+    const start: PlantData[]   = [];
+    const harvest: PlantData[] = [];
+
+    for (const plant of PLANTS) {
+      const cls = classifyCrop(plant.days_min, plant.days_max, plant.indoor_weeks_needed, zoneData.frostFreeDays);
+
+      if (cls === 'direct-sow' || cls === 'marginal') {
+        // Sow window: around last frost ± 4 weeks
+        if (Math.abs(currentMonth - lf.month) <= 1) {
+          sow.push(plant);
+        }
+        // Harvest: daysMin/30 months after last frost
+        const harvestMonth = lf.month + Math.floor(plant.days_min / 30);
+        if (Math.abs(currentMonth - harvestMonth) <= 1 && harvestMonth <= ff.month) {
+          harvest.push(plant);
+        }
+      } else if (cls === 'start-indoors') {
+        const weeksIndoor = Math.max(plant.indoor_weeks_needed, 6);
+        const indoorMonth = lf.month - Math.ceil(weeksIndoor / 4);
+        if (Math.abs(currentMonth - indoorMonth) <= 1 && indoorMonth >= 0) {
+          start.push(plant);
+        }
+        // Harvest
+        const harvestMonth = lf.month + Math.floor(plant.days_min / 30);
+        if (Math.abs(currentMonth - harvestMonth) <= 1 && harvestMonth <= ff.month) {
+          harvest.push(plant);
+        }
+      }
+    }
+
+    function renderList(el: HTMLElement, items: PlantData[], limit = 6) {
+      el.innerHTML = items.slice(0, limit).map((p) =>
+        `<li class="wtpn-item"><a href="/crops/${p.slug}/">${p.name}</a></li>`
+      ).join('') + (items.length > limit ? `<li class="wtpn-more">+${items.length - limit} more</li>` : '');
+    }
+
+    renderList(listSow, sow);
+    renderList(listStart, start);
+    renderList(listHarvest, harvest);
+
+    const hasAny = sow.length > 0 || start.length > 0 || harvest.length > 0;
+    noteEl.hidden = hasAny;
+
+    // Update note zone link
+    const noteLink = noteEl.querySelector('a');
+    if (noteLink) noteLink.href = `/zone/${zoneNum}/`;
+  }
+
+  // Initial render
+  render(parseInt(zoneSelect.value, 10));
+
+  zoneSelect.addEventListener('change', () => {
+    saveZone(zoneSelect.value);
+    render(parseInt(zoneSelect.value, 10));
+  });
+</script>
+
+<style>
+  .wtpn-section {
+    background-color: rgba(248, 249, 245, 0.97);
+    padding: var(--space-xxl) 0;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .wtpn-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: var(--space-m);
+    margin-bottom: var(--space-xl);
+  }
+
+  .wtpn-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    color: var(--color-primary);
+  }
+
+  .wtpn-zone-picker {
+    display: flex;
+    align-items: center;
+    gap: var(--space-s);
+  }
+
+  .wtpn-zone-label {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    white-space: nowrap;
+  }
+
+  .wtpn-zone-select {
+    font-family: var(--font-body);
+    font-size: var(--text-small);
+    padding: var(--space-xs) var(--space-s);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-s);
+    background: var(--color-white);
+    color: var(--color-text-primary);
+  }
+
+  .wtpn-columns {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-l);
+    margin-bottom: var(--space-l);
+  }
+
+  @media (max-width: 640px) {
+    .wtpn-columns { grid-template-columns: 1fr; }
+  }
+
+  .wtpn-col-heading {
+    font-family: var(--font-display);
+    font-size: var(--text-h3);
+    padding: var(--space-xs) var(--space-s);
+    border-radius: var(--radius-s);
+    margin-bottom: var(--space-m);
+  }
+
+  .wtpn-col-heading--sow     { background: rgba(76, 175, 80, 0.12);  color: var(--color-primary-dark); }
+  .wtpn-col-heading--start   { background: rgba(3, 169, 244, 0.10);  color: var(--color-secondary); }
+  .wtpn-col-heading--harvest { background: rgba(245, 213, 71, 0.20); color: #6b5000; }
+
+  .wtpn-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+  }
+
+  .wtpn-item a {
+    color: var(--color-primary);
+    text-decoration: none;
+    font-size: var(--text-body);
+  }
+
+  .wtpn-item a:hover { text-decoration: underline; }
+
+  .wtpn-more {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+  }
+
+  .wtpn-note {
+    color: var(--color-text-muted);
+    font-size: var(--text-small);
+    margin-bottom: var(--space-l);
+  }
+
+  .wtpn-note a { color: var(--color-primary); }
+
+  .wtpn-footer {
+    display: flex;
+    gap: var(--space-l);
+    flex-wrap: wrap;
+  }
+
+  .wtpn-zone-cta {
+    font-size: var(--text-small);
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .wtpn-zone-cta:hover { text-decoration: underline; }
+</style>

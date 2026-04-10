@@ -12,6 +12,7 @@ watering: Regular; 1–1.5 inches/week; consistent moisture critical at fruit se
 sunlight: Full sun (8+ hours; more sun = more fruit)
 companion_plants: [Basil, Tomato]
 description: "Sweet Pepper (Capsicum annuum) - 2 lb per plant; ripe colored bells fetch $3.50-6/lb vs. $1.50 for green. Leave fruit an extra 2-3 weeks on the plant to color."
+hero_image: /images/crops/sweet-pepper.webp
 ---
 
 This entry covers sweet peppers - bell types, Italian frying peppers, and pimento types. If you're growing hot peppers (*jalapeño*, *cayenne*, *habanero*), see the [Hot Pepper](/crops/hot-pepper/) entry. Same species, very different crop, very different ROI story.

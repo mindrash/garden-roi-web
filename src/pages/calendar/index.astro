@@ -1,0 +1,134 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ZONES } from '../../data/zones';
+---
+
+<BaseLayout
+  title="Garden Planting Calendar by Zone"
+  description="Printable month-by-month planting calendars for USDA hardiness zones 3-10. See exactly when to sow, transplant, and harvest every crop in your zone."
+>
+  <div class="page-header">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <ol>
+          <li><a href="/">Home</a></li>
+          <li><a href="/plan/">Plan</a></li>
+          <li aria-current="page">Planting Calendar</li>
+        </ol>
+      </nav>
+      <h1>Planting Calendar</h1>
+      <p>Select your USDA hardiness zone to see a month-by-month planting calendar for every crop.</p>
+    </div>
+  </div>
+
+  <div class="container section-page">
+    <div class="zone-grid">
+      {ZONES.map((z) => (
+        <a href={`/calendar/${z.zone}/`} class="zone-card">
+          <span class="zone-number">Zone {z.zone}</span>
+          <span class="zone-desc">{z.label.replace(`Zone ${z.zone} `, '')}</span>
+          <div class="zone-frosts">
+            <span>Last frost: {z.lastFrost}</span>
+            <span>First frost: {z.firstFrost}</span>
+          </div>
+          <span class="zone-days">{z.frostFreeDays} frost-free days</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .breadcrumb ol {
+    display: flex;
+    gap: var(--space-xs);
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-m);
+    font-size: var(--text-small);
+  }
+
+  .breadcrumb li {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .breadcrumb li:not(:last-child)::after {
+    content: '/';
+    color: rgba(255, 255, 255, 0.4);
+  }
+
+  .breadcrumb a {
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--color-white);
+    text-decoration: underline;
+  }
+
+  .section-page {
+    padding: var(--space-xl) var(--space-l);
+  }
+
+  .zone-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: var(--space-l);
+  }
+
+  .zone-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    padding: var(--space-l);
+    background: var(--color-card-bg);
+    border: 1px solid var(--color-card-border);
+    border-radius: var(--radius-m);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+
+  .zone-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-card);
+  }
+
+  .zone-number {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    color: var(--color-primary);
+  }
+
+  .zone-desc {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    text-transform: capitalize;
+  }
+
+  .zone-frosts {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    margin-top: var(--space-xs);
+  }
+
+  .zone-days {
+    font-weight: 600;
+    font-size: var(--text-small);
+    color: var(--color-primary-dark);
+    margin-top: var(--space-xs);
+  }
+
+  @media (max-width: 600px) {
+    .zone-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+</style>

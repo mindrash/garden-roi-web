@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, tolerates brief dry periods once established
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Tomato", "Arugula"]
 description: "Parsley (Petroselinum crispum) - biennial that overwinters in zones 6+; cut-and-come-again through the season. Flat-leaf types have stronger flavor and better kitchen value."
+hero_image: /images/crops/parsley.webp
 ---
 
 Parsley (*Petroselinum crispum*) is one of the most persistently undervalued garden plants. It's slow to germinate, slow to establish, and then - once it does - it produces steadily for months, overwinters in most of the country, and comes back the following spring before bolting to seed. A single plant can provide fresh parsley from June through the following May in zone 6. That's an 11-month harvest from one $2.49 seed packet.

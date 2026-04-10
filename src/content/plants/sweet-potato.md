@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, drought-tolerant once established
 sunlight: Full sun (8+ hours)
 companion_plants: ["Arugula", "Spinach"]
 description: "Sweet potato (Ipomoea batatas) yields 4+ lb per slip. Year 2+ input costs drop to near zero once you propagate your own slips from stored roots."
+hero_image: /images/crops/sweet-potato.webp
 ---
 
 Sweet potatoes (*Ipomoea batatas*) are not related to potatoes. They're a member of the morning glory family (Convolvulaceae), and the biology of propagating them reflects that - you don't plant tubers or seeds, you plant slips, which are rooted stem cuttings grown from a stored sweet potato. Once you understand how slips work, the year-over-year economics of growing sweet potatoes become substantially better than almost any other vegetable crop.

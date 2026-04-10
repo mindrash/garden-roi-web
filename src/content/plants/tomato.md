@@ -12,6 +12,7 @@ watering: Regular, 1–2 inches/week; consistent moisture critical
 sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Basil, Carrot, Marigold, Parsley]
 description: "Tomato (Solanum lycopersicum) - returns $17-60 per plant at $1.78/lb. Full ROI breakdown, variety guide, pest management, and harvest guide for home gardeners."
+hero_image: /images/crops/tomato.webp
 ---
 
 Tomato (*Solanum lycopersicum*) is the most-grown home garden crop in the United States, and for good reason: a single well-tended plant returns its seed cost many times over before the season ends. That said, "grow a tomato" covers an enormous range of decisions, and the ones you make early determine whether you end up with a 30-pound indeterminate sprawling over three feet of bed or a tidy determinate bush that delivers all its fruit in three weeks and asks for nothing else.

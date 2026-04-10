@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, consistent throughout head development
 sunlight: Full sun (6+ hours)
 companion_plants: ["Garlic", "Arugula"]
 description: "Romanesco (Brassica oleracea var. botrytis) - $4-7/lb specialty. Striking fractal head rarely found in stores. Same timing precision required as cauliflower."
+hero_image: /images/crops/romanesco.webp
 ---
 
 Romanesco sells for $4-7 per pound at farmers markets and specialty grocers where it appears at all, which isn't many (USDA AMS Specialty Crop Market News, 2023). The visual - a chartreuse spiral fractal head in which each spire is a smaller replica of the whole - draws buyers who have never seen it before. That visual alone moves product at markets. Growing it successfully requires the same precision timing cauliflower demands: get it right and you get a spectacular head; get it slightly wrong and you get nothing worth harvesting. It is not an easy crop, but it is a distinct one.

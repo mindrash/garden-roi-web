@@ -1,0 +1,22 @@
+---
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import BudgetPlanner from '../../components/BudgetPlanner.astro';
+---
+
+<ContentLayout
+  title="Full Season Budget Planner"
+  description="Select your bed count, size, and crops to estimate total input cost and expected harvest value for the whole season."
+  breadcrumbs={[{ label: 'Plan', href: '/plan/' }]}
+>
+  <h1 class="page-title">Full Season Budget Planner</h1>
+  <BudgetPlanner />
+</ContentLayout>
+
+<style>
+  .page-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h1);
+    color: var(--color-primary);
+    margin-bottom: var(--space-l);
+  }
+</style>

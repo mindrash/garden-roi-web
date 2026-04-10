@@ -12,6 +12,7 @@ watering: Deep watering 1-2 inches/week; consistent moisture prevents blossom dr
 sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Basil, Mint]
 description: "Zucchini (Cucurbita pepo) - 10 lb per plant at $1.00/lb fresh. Frozen surplus replaces $4-6 bakery loaves through winter. Two plants serve most households well."
+hero_image: /images/crops/zucchini.webp
 ---
 
 Zucchini (*Cucurbita pepo*) is the most reliably productive vegetable in the summer garden, which is both its best quality and its central problem. You will not struggle to grow zucchini. You will struggle to find people willing to take it off your hands by late July.

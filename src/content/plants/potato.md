@@ -12,6 +12,7 @@ watering: Moderate; 1-2 inches/week, consistent to prevent hollow heart
 sunlight: Full sun (6+ hours)
 companion_plants: ["Green Bean", "Mint"]
 description: "Potato (Solanum tuberosum) yields 5 lb per seed piece on average. Fingerling and purple varieties command $3-5/lb, tripling the standard ROI on specialty markets."
+hero_image: /images/crops/potato.webp
 ---
 
 Potatoes (*Solanum tuberosum*) are one of the more reliable high-yield crops in the home garden. A single seed piece - a cut chunk of certified seed potato - typically returns 5–10 pounds of tubers. At $1.25/lb retail (USDA ERS, *Vegetables and Pulses Yearbook*, 2023), that's $6–$12.50 per planting hole. Fingerling and purple varieties at specialty and farmers market prices of $3–$5/lb change that math considerably.

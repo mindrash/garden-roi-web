@@ -12,6 +12,7 @@ watering: Light; extremely drought-tolerant, 0.5 inches/week or less
 sunlight: Full sun (6+ hours)
 companion_plants: ["Arugula", "Carrot"]
 description: "Purslane (Portulaca oleracea) - $3-6/lb at farmers markets. Grows in poor soil where little else thrives. Highest omega-3 content of any leafy green vegetable."
+hero_image: /images/crops/purslane.webp
 ---
 
 Purslane (*Portulaca oleracea*) has the highest omega-3 fatty acid content of any leafy green vegetable - roughly 300-400 mg per 100g serving, primarily as alpha-linolenic acid (ALA) (Simopoulos AP and Salem N, "Purslane: a terrestrial source of omega-3 fatty acids," *New England Journal of Medicine*, 1986). That's 5-7 times more than spinach. It grows in compacted, poor, dry soil where most vegetables fail. And it sells for $3-6 per pound at farmers markets where it appears at all (USDA AMS Specialty Crop Market News, 2023). The problem is that most gardeners spend significant effort killing it as a weed, which is a waste of both effort and an edible crop.

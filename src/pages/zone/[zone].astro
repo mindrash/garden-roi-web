@@ -1,0 +1,332 @@
+---
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import PlantCard from '../../components/PlantCard.astro';
+import { getCollection } from 'astro:content';
+import { ZONES, ZONE_MAP, classifyCropForZone } from '../../data/zones';
+
+export async function getStaticPaths() {
+  const allPlants = await getCollection('plants');
+  return ZONES.map(({ zone }) => ({
+    params: { zone: String(zone) },
+    props: { allPlants },
+  }));
+}
+
+const { zone: zoneParam } = Astro.params;
+const { allPlants } = Astro.props;
+
+const zoneNum = parseInt(zoneParam, 10);
+const zoneData = ZONE_MAP.get(zoneNum)!;
+
+type CropClass = 'direct-sow' | 'start-indoors' | 'marginal' | 'not-recommended';
+
+const classified = allPlants
+  .map((plant) => ({
+    plant,
+    cls: classifyCropForZone(
+      plant.data.days_min,
+      plant.data.days_max,
+      plant.data.indoor_weeks_needed,
+      zoneData.frostFreeDays,
+    ) as CropClass,
+  }))
+  .sort((a, b) => a.plant.data.name.localeCompare(b.plant.data.name));
+
+const directSow    = classified.filter((c) => c.cls === 'direct-sow');
+const startIndoors = classified.filter((c) => c.cls === 'start-indoors');
+const marginal     = classified.filter((c) => c.cls === 'marginal');
+
+const breadcrumbJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://gardenroi.com/' },
+    { '@type': 'ListItem', position: 2, name: 'Zone Planner', item: 'https://gardenroi.com/zone/' },
+    { '@type': 'ListItem', position: 3, name: `Zone ${zoneNum}`, item: `https://gardenroi.com/zone/${zoneNum}/` },
+  ],
+};
+
+const otherZones = ZONES.filter((z) => z.zone !== zoneNum);
+---
+
+<ContentLayout
+  title={`Zone ${zoneNum} Planting Guide`}
+  description={`${zoneData.label}: last frost ${zoneData.lastFrost}, first frost ${zoneData.firstFrost}. ${directSow.length} crops for direct sow, ${startIndoors.length} for indoor start.`}
+  breadcrumbs={[{ label: 'Zone Planting Guide', href: '/zone/' }]}
+  pageJsonLd={breadcrumbJsonLd}
+>
+  <h1 class="page-title">Zone {zoneNum} Planting Guide</h1>
+  <p class="zone-meta">
+    <span>Last frost: <strong>{zoneData.lastFrost}</strong></span>
+    <span>First frost: <strong>{zoneData.firstFrost}</strong></span>
+    <span>Frost-free days: <strong>{zoneData.frostFreeDays}</strong></span>
+  </p>
+
+  <div class="container zone-page">
+    <!-- Zone picker -->
+    <div class="glass-card zone-picker-card">
+      <label for="zone-select" class="zone-picker-label">Change zone:</label>
+      <select id="zone-select" class="zone-select" aria-label="Select USDA zone">
+        {ZONES.map((z) => (
+          <option value={z.zone} selected={z.zone === zoneNum}>{z.label}</option>
+        ))}
+      </select>
+    </div>
+
+    <script>
+      const sel = document.getElementById('zone-select') as HTMLSelectElement | null;
+      sel?.addEventListener('change', () => {
+        window.location.href = `/zone/${sel.value}/`;
+      });
+    </script>
+
+    <!-- Summary stats -->
+    <div class="zone-summary">
+      <div class="zone-stat">
+        <span class="zone-stat-value">{directSow.length}</span>
+        <span class="zone-stat-label">Direct sow</span>
+      </div>
+      <div class="zone-stat">
+        <span class="zone-stat-value">{startIndoors.length}</span>
+        <span class="zone-stat-label">Start indoors</span>
+      </div>
+      <div class="zone-stat">
+        <span class="zone-stat-value">{marginal.length}</span>
+        <span class="zone-stat-label">Marginal</span>
+      </div>
+    </div>
+
+    {directSow.length > 0 && (
+      <section class="crop-group">
+        <h2 class="group-heading group-heading--direct">
+          Direct Sow
+          <span class="group-note">These crops complete their season ({'>'}days to maturity) within your {zoneData.frostFreeDays} frost-free days.</span>
+        </h2>
+        <div class="plants-grid">
+          {directSow.map(({ plant }) => (
+            <PlantCard
+              slug={plant.id}
+              name={plant.data.name}
+              scientific_name={plant.data.scientific_name}
+              category={plant.data.category}
+              days_min={plant.data.days_min}
+              days_max={plant.data.days_max}
+              avg_yield_lb={plant.data.avg_yield_lb}
+              avg_price_lb={plant.data.avg_price_lb}
+              watering={plant.data.watering}
+              sunlight={plant.data.sunlight}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+
+    {startIndoors.length > 0 && (
+      <section class="crop-group">
+        <h2 class="group-heading group-heading--indoors">
+          Start Indoors
+          <span class="group-note">Start these 6-8 weeks before {zoneData.lastFrost} to complete the growing season before first frost.</span>
+        </h2>
+        <div class="plants-grid">
+          {startIndoors.map(({ plant }) => (
+            <PlantCard
+              slug={plant.id}
+              name={plant.data.name}
+              scientific_name={plant.data.scientific_name}
+              category={plant.data.category}
+              days_min={plant.data.days_min}
+              days_max={plant.data.days_max}
+              avg_yield_lb={plant.data.avg_yield_lb}
+              avg_price_lb={plant.data.avg_price_lb}
+              watering={plant.data.watering}
+              sunlight={plant.data.sunlight}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+
+    {marginal.length > 0 && (
+      <section class="crop-group">
+        <h2 class="group-heading group-heading--marginal">
+          Marginal
+          <span class="group-note">Season is tight. Use a greenhouse, row cover, or high tunnel to extend your window.</span>
+        </h2>
+        <div class="plants-grid">
+          {marginal.map(({ plant }) => (
+            <PlantCard
+              slug={plant.id}
+              name={plant.data.name}
+              scientific_name={plant.data.scientific_name}
+              category={plant.data.category}
+              days_min={plant.data.days_min}
+              days_max={plant.data.days_max}
+              avg_yield_lb={plant.data.avg_yield_lb}
+              avg_price_lb={plant.data.avg_price_lb}
+              watering={plant.data.watering}
+              sunlight={plant.data.sunlight}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+
+    <div class="other-zones">
+      <h3>Other zones</h3>
+      <div class="zone-links">
+        {otherZones.map((z) => (
+          <a href={`/zone/${z.zone}/`} class="zone-link">{z.label}</a>
+        ))}
+      </div>
+    </div>
+  </div>
+</ContentLayout>
+
+<style>
+  .page-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h1);
+    color: var(--color-primary);
+    margin-bottom: var(--space-s);
+  }
+
+  .zone-meta {
+    display: flex;
+    gap: var(--space-xl);
+    flex-wrap: wrap;
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-xl);
+  }
+
+  .zone-page {
+    padding-top: var(--space-xl);
+    padding-bottom: var(--space-xxl);
+    background-color: rgba(248, 249, 245, 0.97);
+  }
+
+  .zone-picker-card {
+    display: flex;
+    align-items: center;
+    gap: var(--space-m);
+    padding: var(--space-m) var(--space-l);
+    margin-bottom: var(--space-xl);
+    flex-wrap: wrap;
+  }
+
+  .zone-picker-label {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    white-space: nowrap;
+  }
+
+  .zone-select {
+    font-family: var(--font-body);
+    font-size: var(--text-body);
+    padding: var(--space-s) var(--space-m);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-s);
+    background: var(--color-white);
+    color: var(--color-text-primary);
+    cursor: pointer;
+  }
+
+  .zone-summary {
+    display: flex;
+    gap: var(--space-l);
+    margin-bottom: var(--space-xl);
+    flex-wrap: wrap;
+  }
+
+  .zone-stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-m);
+    padding: var(--space-m) var(--space-xl);
+    min-width: 120px;
+  }
+
+  .zone-stat-value {
+    font-family: var(--font-display);
+    font-size: var(--text-stat);
+    color: var(--color-primary);
+    line-height: 1;
+  }
+
+  .zone-stat-label {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    margin-top: var(--space-xs);
+  }
+
+  .crop-group {
+    margin-bottom: var(--space-xxl);
+  }
+
+  .group-heading {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    padding: var(--space-s) var(--space-m);
+    border-radius: var(--radius-s);
+    margin-bottom: var(--space-l);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+  }
+
+  .group-heading--direct   { background-color: rgba(76, 175, 80, 0.12); color: var(--color-primary-dark); }
+  .group-heading--indoors  { background-color: rgba(3, 169, 244, 0.10); color: var(--color-secondary); }
+  .group-heading--marginal { background-color: rgba(255, 160, 0, 0.10); color: #7a5000; }
+
+  .group-note {
+    font-family: var(--font-body);
+    font-size: var(--text-small);
+    font-weight: 400;
+    color: var(--color-text-muted);
+  }
+
+  .plants-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: var(--space-l);
+  }
+
+  .other-zones {
+    margin-top: var(--space-xxl);
+    padding-top: var(--space-xl);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .other-zones h3 {
+    font-family: var(--font-display);
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-m);
+  }
+
+  .zone-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-s);
+  }
+
+  .zone-link {
+    padding: var(--space-xs) var(--space-m);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-full);
+    font-size: var(--text-small);
+    color: var(--color-primary);
+    text-decoration: none;
+    background: var(--color-white);
+    transition: background 0.15s;
+  }
+
+  .zone-link:hover {
+    background: var(--color-highlight);
+  }
+
+  /* glass-card is global */
+</style>

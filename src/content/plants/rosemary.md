@@ -12,6 +12,7 @@ watering: Light; very drought-tolerant once established, 0.5 inch/week maximum
 sunlight: Full sun (6-8 hours minimum)
 companion_plants: [Sage, Thyme]
 description: "Rosemary (Salvia rosmarinus) - perennial shrub in zones 7+, $10-15/lb. Germination from seed is slow; cuttings root in 3-4 weeks. One plant lasts a decade."
+hero_image: /images/crops/rosemary.webp
 ---
 
 Rosemary (*Salvia rosmarinus*, recently reclassified from *Rosmarinus officinalis* by Paton et al., *Kew Bulletin*, 2019) is a woody Mediterranean shrub that, in the right climate, you plant once and harvest for the next ten years. The $3.49 seed packet is not where you want to start. Germination from seed is slow, uneven, and often disappointing - expect 30-50% germination rates and seedlings that take months to reach usable size. Buy a small transplant or take cuttings from an established plant. Either way, your real cost to start a productive rosemary plant is $2-5, and the payoff starts in the first season.

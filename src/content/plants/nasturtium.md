@@ -12,6 +12,7 @@ watering: Light; drought-tolerant, overwatering reduces flowering
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: [Cucumber, Zucchini]
 description: "Nasturtium (Tropaeolum majus) - fastest edible flower. Flowers $8-12/lb at specialty markets. Entire plant edible: flowers, leaves (peppery), seeds pickled like capers."
+hero_image: /images/crops/nasturtium.webp
 ---
 
 Nasturtium (*Tropaeolum majus*) is the fastest edible flower you can grow from seed - 35-52 days to first bloom, with minimal inputs and enough uses in the kitchen that calling it a companion plant understates it. The entire plant is edible: flowers at $8-12/lb at specialty markets (USDA AMS Specialty Crop Market News, 2023), peppery young leaves that stand in for watercress in salads, and unripe seed pods pickled exactly like capers. One $1.99 packet covers all of that.

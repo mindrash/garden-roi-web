@@ -1,0 +1,258 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { COMPARISON_PAIRS } from '../../data/comparisons';
+
+const allPlants = await getCollection('plants');
+const plantMap = new Map(allPlants.map((p) => [p.id, p]));
+
+const pairs = COMPARISON_PAIRS.flatMap(([a, b]) => {
+  const pa = plantMap.get(a);
+  const pb = plantMap.get(b);
+  if (!pa || !pb) return [];
+  return [{ a: pa, b: pb, slug: `${a}-vs-${b}` }];
+});
+
+// Sort by name
+const sorted = [...allPlants].sort((a, b) => a.data.name.localeCompare(b.data.name));
+---
+
+<BaseLayout
+  title="Compare Crops: Side-by-Side ROI & Yield"
+  description="Compare any two garden crops side by side: seed cost, yield, retail value, and net ROI. Find which crops give you the best return."
+>
+  <div class="page-header">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <ol>
+          <li><a href="/">Home</a></li>
+          <li><a href="/plan/">Plan</a></li>
+          <li aria-current="page">Compare Crops</li>
+        </ol>
+      </nav>
+      <h1>Compare Crops</h1>
+      <p>Pick two crops to see a side-by-side breakdown of seed cost, yield, retail value, and ROI.</p>
+    </div>
+  </div>
+
+  <div class="container compare-index">
+    <!-- Custom comparison picker -->
+    <div class="glass-card picker-card">
+      <h2>Build a comparison</h2>
+      <div class="picker-row">
+        <select id="pick-a" class="pick-select" aria-label="First crop">
+          <option value="">— Crop 1 —</option>
+          {sorted.map((p) => <option value={p.id}>{p.data.name}</option>)}
+        </select>
+        <span class="vs-label">vs</span>
+        <select id="pick-b" class="pick-select" aria-label="Second crop">
+          <option value="">— Crop 2 —</option>
+          {sorted.map((p) => <option value={p.id}>{p.data.name}</option>)}
+        </select>
+        <button id="pick-go" class="btn btn-primary" disabled>Compare →</button>
+      </div>
+    </div>
+
+    <script>
+      const pickA = document.getElementById('pick-a') as HTMLSelectElement | null;
+      const pickB = document.getElementById('pick-b') as HTMLSelectElement | null;
+      const pickGo = document.getElementById('pick-go') as HTMLButtonElement | null;
+
+      function update() {
+        if (pickA && pickB && pickGo) {
+          pickGo.disabled = !pickA.value || !pickB.value || pickA.value === pickB.value;
+        }
+      }
+
+      pickA?.addEventListener('change', update);
+      pickB?.addEventListener('change', update);
+
+      pickGo?.addEventListener('click', () => {
+        if (pickA?.value && pickB?.value) {
+          window.location.href = `/compare/${pickA.value}-vs-${pickB.value}/`;
+        }
+      });
+    </script>
+
+    <!-- Pre-rendered pairs -->
+    <h2 class="section-heading">Popular comparisons</h2>
+    <div class="pairs-grid">
+      {pairs.map(({ a, b, slug }) => {
+        const aGross = (a.data.avg_yield_lb * a.data.avg_price_lb).toFixed(2);
+        const bGross = (b.data.avg_yield_lb * b.data.avg_price_lb).toFixed(2);
+        return (
+          <a href={`/compare/${slug}/`} class="pair-card glass-card">
+            <div class="pair-names">
+              <span class="pair-name crop-a-name">{a.data.name}</span>
+              <span class="pair-vs">vs</span>
+              <span class="pair-name crop-b-name">{b.data.name}</span>
+            </div>
+            <div class="pair-stats">
+              <span class="pair-stat">
+                <span class="pair-stat-val crop-a-val">${aGross}</span>
+                <span class="pair-stat-label">est. value</span>
+              </span>
+              <span class="pair-divider">|</span>
+              <span class="pair-stat">
+                <span class="pair-stat-val crop-b-val">${bGross}</span>
+                <span class="pair-stat-label">est. value</span>
+              </span>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .breadcrumb ol {
+    display: flex;
+    gap: var(--space-xs);
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-m);
+    font-size: var(--text-small);
+  }
+
+  .breadcrumb li {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .breadcrumb li:not(:last-child)::after {
+    content: '/';
+    color: rgba(255, 255, 255, 0.4);
+  }
+
+  .breadcrumb a {
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--color-white);
+    text-decoration: underline;
+  }
+
+  .compare-index {
+    padding-top: var(--space-xl);
+    padding-bottom: var(--space-xxl);
+    background-color: rgba(248, 249, 245, 0.97);
+  }
+
+  .picker-card {
+    padding: var(--space-l);
+    margin-bottom: var(--space-xl);
+  }
+
+  .picker-card h2 {
+    font-family: var(--font-display);
+    color: var(--color-primary);
+    margin-bottom: var(--space-m);
+  }
+
+  .picker-row {
+    display: flex;
+    align-items: center;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+  }
+
+  .pick-select {
+    font-family: var(--font-body);
+    font-size: var(--text-body);
+    padding: var(--space-s) var(--space-m);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-s);
+    background: var(--color-white);
+    color: var(--color-text-primary);
+    min-width: 180px;
+  }
+
+  .vs-label {
+    font-weight: 700;
+    color: var(--color-text-muted);
+    font-size: var(--text-small);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .section-heading {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    color: var(--color-primary);
+    margin-bottom: var(--space-l);
+  }
+
+  .pairs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--space-l);
+  }
+
+  .pair-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+    padding: var(--space-l);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+
+  .pair-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-card);
+  }
+
+  .pair-names {
+    display: flex;
+    align-items: center;
+    gap: var(--space-s);
+    flex-wrap: wrap;
+  }
+
+  .pair-name {
+    font-weight: 700;
+    font-size: var(--text-body);
+  }
+
+  .crop-a-name { color: var(--color-primary); }
+  .crop-b-name { color: var(--color-secondary); }
+
+  .pair-vs {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .pair-stats {
+    display: flex;
+    align-items: center;
+    gap: var(--space-m);
+    font-size: var(--text-small);
+  }
+
+  .pair-stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+  }
+
+  .pair-stat-val {
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .crop-a-val { color: var(--color-primary); }
+  .crop-b-val { color: var(--color-secondary); }
+
+  .pair-stat-label { color: var(--color-text-muted); font-size: var(--text-micro); text-transform: uppercase; }
+
+  .pair-divider { color: var(--color-border); }
+</style>

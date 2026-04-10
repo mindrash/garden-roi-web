@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, consistent but well-drained
 sunlight: Full sun (6+ hours)
 companion_plants: ["Garlic", "Arugula"]
 description: "Raspberry (Rubus idaeus) - 2-4 lb per cane cluster at $5-8/lb. Spreads via suckers for free expansion. Everbearing types yield twice per season."
+hero_image: /images/crops/raspberry.webp
 ---
 
 Fresh raspberries run $5–$8 per half-pint at retail (USDA AMS Market News, 2023). A half-pint is less than a third of a pound. That makes raspberry one of the highest-value crops per square foot in a home garden, and unlike most high-value produce, it produces year after year once established with minimal per-season investment.

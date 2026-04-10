@@ -136,3 +136,4 @@ Mirror `constants/theme.ts` exactly. Key values:
 - Content: `memories/repo/content-plan.md`
 - SEO: `memories/repo/seo-plan.md`
 - Open decisions: `memories/repo/decisions.md`
+- **Page patterns (read before creating any page):** `memories/repo/page-patterns.md`

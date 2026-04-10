@@ -12,6 +12,7 @@ watering: Regular; 1–1.5 inches/week; consistent moisture produces tender leav
 sunlight: Full sun to partial shade (4–6 hours minimum; heat tolerant with afternoon shade)
 companion_plants: [Garlic, Strawberry]
 description: "Swiss Chard (Beta vulgaris var. cicla) - 1 lb per plant at $3.50/lb in a season running May through November. One planting outlasts 3 successive spinach crops."
+hero_image: /images/crops/swiss-chard.webp
 ---
 
 Swiss chard (*Beta vulgaris* var. *cicla*) is the crop that keeps producing leafy greens after spinach has quit. Once temperatures climb above 75°F, spinach bolts - it throws up a flower stalk, the leaves turn bitter, and the plant is done. In most of Zone 5-6, that happens in late May or early June. Chard doesn't care. It keeps going through July, August, and into November. That season extension, from a single planting and a $2.49 seed packet, is the whole argument for growing it.

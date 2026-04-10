@@ -12,6 +12,7 @@ watering: Heavy; keep soil saturated or grow in containers of standing water, re
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Arugula", "Mint"]
 description: "Watercress (Nasturtium officinale) - $6-9/lb at market, ready in 30-40 days. Grows in containers of standing water with no soil required. Sharp peppery bite."
+hero_image: /images/crops/watercress.webp
 ---
 
 Watercress (*Nasturtium officinale*) sells for $6-9 per pound at specialty grocers and farmers markets (USDA AMS Specialty Crop Market News, 2023), and you can grow it in a plastic tub of water on a porch. No raised bed required. It's one of the fastest-maturing greens you can grow - harvestable in 30-40 days from seed - and it regrows after cutting like most salad greens. That combination of high price, fast turnaround, and minimal infrastructure makes it worth growing even if you have limited space.

@@ -12,6 +12,7 @@ watering: Light; very drought-tolerant, 0.5 inch/week or less once established
 sunlight: Full sun (6-8 hours)
 companion_plants: ["Tomato", "Eggplant"]
 description: "Thyme (Thymus vulgaris) - perennial woody shrub in zones 5+, lives 3-5 years. French thyme has stronger culinary flavor than common; verify with a crushed leaf before buying."
+hero_image: /images/crops/thyme.webp
 ---
 
 Thyme (*Thymus vulgaris*) is slow to establish from seed and worth every day of it. A single plant, once rooted, can survive 3-5 years with minimal care, coming back harder each spring in zones 5 through 9. The 90-180 day days-to-maturity range reflects this slow first year - after that, you have a woody, low-maintenance perennial that provides fresh and dried herb from late spring through early winter. The ROI math is simple: one $2.99 seed packet funds a multi-year perennial at roughly $0.30-$0.50 per plant.

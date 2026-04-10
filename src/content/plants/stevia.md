@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, sensitive to both drought and waterlogging
 sunlight: Full sun (6-8 hours)
 companion_plants: ["Basil", "Mint"]
 description: "Stevia (Stevia rebaudiana) - dried leaves $15-25/lb, 200-300x sweeter than sugar by weight. Replaces purchased sweetener. Overwinter indoors in zones below 9."
+hero_image: /images/crops/stevia.webp
 ---
 
 Dried stevia leaf goes for $15-25 per pound at health food stores and herb markets (USDA AMS Specialty Crop Market News, 2023). The active compounds - steviol glycosides, primarily stevioside and rebaudioside A - are 200-300 times sweeter than sucrose by weight (USDA Agricultural Research Service, *Steviol Glycoside Content in Stevia*, 2018). One small plant yields enough dried leaf to sweeten hundreds of cups of tea. If you use caloric sweeteners and would prefer not to, this is the most direct substitution available from a home garden.

@@ -12,6 +12,7 @@ watering: Moderate; 1-1.5 inches/week, drought-tolerant once established
 sunlight: Full sun (8+ hours minimum)
 companion_plants: ["Basil", "Eggplant"]
 description: "Tomatillo yields 3 lb/plant at $3.50/lb in markets where fresh ones rarely appear. Plant at least two - without cross-pollination the husks fill with no fruit."
+hero_image: /images/crops/tomatillo.webp
 ---
 
 Tomatillo (*Physalis philadelphica*) is a reliable high-producer in regions where fresh tomatillos rarely show up in grocery stores. In many Midwestern and rural markets, the only option is canned salsa verde; a plant producing 3 lb of fresh tomatillos at $3-5/lb (USDA AMS Specialty Crop Market News, 2023) substitutes for $9-15 in fresh market value per plant. Two plants are the minimum, not a suggestion - tomatillos are self-incompatible and require cross-pollination from a second plant to set fruit reliably.

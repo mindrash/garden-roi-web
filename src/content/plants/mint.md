@@ -12,6 +12,7 @@ watering: Regular; keep soil consistently moist, does not tolerate drought
 sunlight: Partial shade to full sun (4–6 hours); afternoon shade preferred in hot climates
 companion_plants: [Tomato, Cabbage, Broccoli, Peas]
 description: "Peppermint (Mentha piperita) - 0.5 lb per season at $15/lb; one $4 transplant returns $35-50 over 5 years. Grow in a container to prevent rhizome spread."
+hero_image: /images/crops/mint.webp
 ---
 
 Peppermint (*Mentha* × *piperita*) is a sterile hybrid  -  a cross between watermint (*M. aquatica*) and spearmint (*M. spicata*)  -  which means it doesn't come true from seed and is propagated vegetatively. You buy a transplant or pull a rooted division from someone who already has it growing. One three-dollar transplant, well sited, can supply a household with fresh mint for years and eventually for the entire neighborhood if you let it.

@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week once established, drought-tolerant
 sunlight: Full sun (8+ hours minimum)
 companion_plants: [Sweet Pepper, Eggplant]
 description: "Okra (Abelmoschus esculentus) - prolific producer in heat, $2-4/lb. Harvest at 3-4 inches daily or pods become woody and inedible. Burgundy varieties fetch premium prices."
+hero_image: /images/crops/okra.webp
 ---
 
 Okra (*Abelmoschus esculentus*) is a high-output crop in heat. Once it hits its stride in midsummer, a productive plant produces pods every day - and if you miss a day, those pods become woody, fibrous, and essentially unusable. The daily harvest requirement is either an inconvenience or a reason to stay engaged with your garden. Either way, understand it before you plant.

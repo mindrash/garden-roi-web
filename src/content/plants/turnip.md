@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, consistent for tender roots
 sunlight: Full sun (6+ hours minimum)
 companion_plants: ["Radish", "Arugula"]
 description: "Turnip delivers two crops in one: baby roots at 30 days, mature roots at 60. The greens are free and more nutritious per pound than the root - most gardeners discard them."
+hero_image: /images/crops/turnip.webp
 ---
 
 A turnip planted today gives you baby greens in 2 weeks, baby roots in 30 days, and full-size roots in 60. The dual-harvest math is simple: you get the root at $1.75/lb and the greens at market prices ranging from $2-4/lb (USDA AMS Specialty Crop Market News, 2023), and most gardeners throw the greens away. The vegetable most people consider a last resort is actually one of the faster payback crops in the cool-season garden.

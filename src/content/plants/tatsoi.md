@@ -12,6 +12,7 @@ watering: Regular; 1 inch/week
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Arugula", "Radish"]
 description: "Tatsoi (Brassica rapa var. narinosa) - cold-hardy to 15°F, extends season 4-6 weeks beyond other salad greens. $3-5/lb specialty. Spoon-shaped leaves, mild bok-choy flavor."
+hero_image: /images/crops/tatsoi.webp
 ---
 
 Tatsoi (*Brassica rapa var. narinosa*) is the salad green that keeps producing after the rest of your cool-season bed has given up. It's cold-hardy to 15°F - significantly more tolerant than spinach (25°F), arugula (20°F), or mizuna (25°F) - and in zones 5-7 it regularly produces cuttable leaves well into November and December. That extension of the fresh-greens season is the main argument for growing it.

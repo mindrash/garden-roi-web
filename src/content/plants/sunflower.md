@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, drought-tolerant once established
 sunlight: Full sun (8+ hours)
 companion_plants: ["Corn", "Cucumber"]
 description: "Sunflower (Helianthus annuus) - edible seeds $6-10/lb, sunflower sprouts $10-14/lb at specialty retailers. Full ROI case, growing guide, and harvest tips."
+hero_image: /images/crops/sunflower.webp
 ---
 
 Sunflower (*Helianthus annuus*) earns its place in an edible garden two ways: as a seed crop with a straightforward harvest, and as a microgreen (sprouted seed) that sells at $10-14/lb at specialty retailers and farmers markets (USDA AMS Specialty Crop Market News, 2023). Most people grow them for ornament and leave the food value on the table.

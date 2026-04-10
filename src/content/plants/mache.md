@@ -12,6 +12,7 @@ watering: Light to moderate; 0.5-1 inch/week, tolerates cold and wet
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Arugula", "Spinach"]
 description: "Mâche (Valerianella locusta) - $6-10/lb premium salad green, cold-hardy to 5°F. Nearly unavailable fresh outside specialty stores. Also called corn salad or lamb's lettuce."
+hero_image: /images/crops/mache.webp
 ---
 
 Mâche (*Valerianella locusta*) sells for $6-10/lb at the handful of specialty grocers that carry it fresh (USDA AMS Specialty Crop Market News, 2023). It survives temperatures to 5°F without protection and continues growing slowly through winter in zones 6+. You are unlikely to find it at your local grocery store - which is exactly the condition that makes it worth growing.

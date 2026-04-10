@@ -1,0 +1,145 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Garden Planning Tools"
+  description="Free garden planning tools - find your USDA hardiness zone, build a full-season budget, compare crops side-by-side, and see what to plant right now."
+>
+  <div class="page-header">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <ol>
+          <li><a href="/">Home</a></li>
+          <li aria-current="page">Plan</li>
+        </ol>
+      </nav>
+      <h1>Plan</h1>
+      <p>Tools to make better decisions before you buy a single seed packet.</p>
+    </div>
+  </div>
+
+  <div class="container section-page">
+    <div class="tools-grid">
+
+      <a href="/plan/what-to-plant-now/" class="tool-card">
+        <h2 class="tool-title">What to Plant Right Now</h2>
+        <p class="tool-desc">Enter your USDA zone and see exactly which crops to direct-sow, which to start indoors, and which are coming up to harvest this month.</p>
+        <span class="tool-cta">Open tool →</span>
+      </a>
+
+      <a href="/plan/budget/" class="tool-card">
+        <h2 class="tool-title">Full Season Budget Planner</h2>
+        <p class="tool-desc">Select your bed count, size, and crops to estimate total input cost and expected harvest value for the whole season.</p>
+        <span class="tool-cta">Open tool →</span>
+      </a>
+
+      <a href="/zone/" class="tool-card">
+        <h2 class="tool-title">Zone Crop Guide</h2>
+        <p class="tool-desc">Browse every crop classified for your hardiness zone - direct sow picks, indoor-start candidates, and marginal bets worth trying.</p>
+        <span class="tool-cta">Browse zones →</span>
+      </a>
+
+      <a href="/calendar/" class="tool-card">
+        <h2 class="tool-title">Planting Calendar</h2>
+        <p class="tool-desc">A printable month-by-month planting calendar for your zone. See every crop across all 12 months at a glance.</p>
+        <span class="tool-cta">View calendar →</span>
+      </a>
+
+      <a href="/compare/" class="tool-card">
+        <h2 class="tool-title">Crop Comparison</h2>
+        <p class="tool-desc">Compare any two crops side-by-side on seed cost, days to harvest, yield, gross value, and ROI multiple.</p>
+        <span class="tool-cta">Compare crops →</span>
+      </a>
+
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .breadcrumb ol {
+    display: flex;
+    gap: var(--space-xs);
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-m);
+    font-size: var(--text-small);
+  }
+
+  .breadcrumb li {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .breadcrumb li:not(:last-child)::after {
+    content: '/';
+    color: rgba(255, 255, 255, 0.4);
+  }
+
+  .breadcrumb a {
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--color-white);
+    text-decoration: underline;
+  }
+
+  .section-page {
+    padding: var(--space-xl) var(--space-l);
+  }
+
+  .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-l);
+  }
+
+  .tool-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+    padding: var(--space-l);
+    background: var(--color-card-bg);
+    border: 1px solid var(--color-card-border);
+    border-radius: var(--radius-m);
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .tool-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h3);
+    color: var(--color-primary);
+    margin: 0;
+  }
+
+  .tool-desc {
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    line-height: 1.5;
+    margin: 0;
+    flex: 1;
+  }
+
+  .tool-cta {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-primary);
+  }
+
+  @media (max-width: 900px) {
+    .tools-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 600px) {
+    .tools-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, consistent
 sunlight: Full sun (6+ hours)
 companion_plants: ["Arugula", "Radish"]
 description: "Rutabaga (Brassica napus var. napobrassica) - $1.50-2.50/lb, stores 4-6 months. A cross of cabbage and turnip that fills a long storage gap in the winter root cellar."
+hero_image: /images/crops/rutabaga.webp
 ---
 
 Rutabaga (*Brassica napus var. napobrassica*) is what you get when cabbage (*Brassica oleracea*) and turnip (*Brassica rapa*) cross. The hybrid species - *B. napus* - is also the source of canola oil, which gives you a sense of how widely the species is used in agriculture despite being largely invisible in American home gardens. Rutabagas are larger, denser, and milder than turnips with higher dry matter content, which is why they're the better storage crop.

@@ -12,6 +12,7 @@ watering: Consistent 1 inch/week; dry soil causes pithy, hot-tasting roots and a
 sunlight: Full sun to partial shade (6+ hours optimal; tolerates 4 hours)
 companion_plants: [Kale, Arugula]
 description: "Radish (Raphanus sativus) - matures in 25 days at $2.50/lb, the fastest bed-rotation vegetable. Succession plant every 2 weeks for continuous spring harvests."
+hero_image: /images/crops/radish.webp
 ---
 
 Radish (*Raphanus sativus*) matures in 25 days. That is the fastest turnaround of any vegetable in the garden, and it is the entire ROI case for the crop. The individual roots are small and cheap at retail - USDA Agricultural Marketing Service market surveys put fresh radishes at $2-$3/lb at most outlets - but the speed changes the math. You can cycle radish through a bed multiple times in the same window that a tomato is just getting established.

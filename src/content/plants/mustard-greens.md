@@ -12,6 +12,7 @@ watering: Regular; 1 inch/week
 sunlight: Full sun (4-6 hours acceptable)
 companion_plants: ["Arugula", "Garlic"]
 description: "Mustard Greens (Brassica juncea) - 35-day harvest, cut-and-come-again, $2-4/lb. More heat-tolerant before bolting than spinach. Red and green types with different heat levels."
+hero_image: /images/crops/mustard-greens.webp
 ---
 
 Mustard greens (*Brassica juncea*) are the fastest-returning leafy green you can plant after radish. From direct sowing to first cut, you're looking at 35 days. The leaves are spicy - more so than arugula, less fire than raw horseradish - and that heat level is what divides gardeners on them. If you cook them, the sharpness mellows dramatically. If you eat them raw, young leaves under an inch are much milder than mature leaves, which is why baby mustard greens end up in spring salad mixes at specialty grocers.

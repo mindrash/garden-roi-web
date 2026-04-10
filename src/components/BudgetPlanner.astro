@@ -1,0 +1,347 @@
+---
+import { getCollection } from 'astro:content';
+
+const allPlants = await getCollection('plants');
+const plants = allPlants
+  .sort((a, b) => a.data.name.localeCompare(b.data.name))
+  .map((p) => ({
+    name: p.data.name,
+    slug: p.id,
+    avg_yield_lb: p.data.avg_yield_lb,
+    avg_price_lb: p.data.avg_price_lb,
+    seed_cost: p.data.seed_cost,
+  }));
+
+const plantsJson = JSON.stringify(plants);
+---
+
+<div class="planner">
+  <script id="planner-data" type="application/json" set:html={plantsJson}></script>
+
+  <div class="planner-body">
+    <!-- Left: inputs -->
+    <div class="planner-inputs">
+      <h3 class="planner-section-heading">Garden Setup</h3>
+
+      <div class="input-row">
+        <label class="planner-label" for="p-beds">Number of beds</label>
+        <input id="p-beds" type="number" class="planner-number" min="1" max="12" value="2" />
+      </div>
+
+      <div class="input-row">
+        <label class="planner-label" for="p-size">Bed size</label>
+        <select id="p-size" class="planner-select">
+          <option value="16">4×4 ft (16 sq ft)</option>
+          <option value="32" selected>4×8 ft (32 sq ft)</option>
+          <option value="48">4×12 ft (48 sq ft)</option>
+          <option value="64">4×16 ft (64 sq ft)</option>
+        </select>
+      </div>
+
+      <div class="input-row">
+        <label class="planner-label" for="p-source">Growing from</label>
+        <select id="p-source" class="planner-select">
+          <option value="seed">Seeds (lower cost)</option>
+          <option value="transplant">Transplants (2–3× seed cost)</option>
+        </select>
+      </div>
+
+      <h3 class="planner-section-heading">Crop Mix</h3>
+      <p class="planner-hint">Select crops you plan to grow. Each counts as one packet/plant slot.</p>
+      <div class="planner-crop-list" id="p-crop-list">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+
+    <!-- Right: output -->
+    <div class="planner-output" id="p-output" hidden>
+      <h3 class="planner-section-heading">Season Estimate</h3>
+      <div class="planner-stats">
+        <div class="planner-stat planner-stat--primary">
+          <span class="planner-stat-label">Net ROI</span>
+          <span class="planner-stat-value" id="p-net">$0</span>
+        </div>
+        <div class="planner-stat">
+          <span class="planner-stat-label">Total harvest value</span>
+          <span class="planner-stat-value" id="p-gross">$0</span>
+        </div>
+        <div class="planner-stat">
+          <span class="planner-stat-label">Total input cost</span>
+          <span class="planner-stat-value" id="p-cost">$0</span>
+        </div>
+      </div>
+
+      <div class="planner-breakdown" id="p-breakdown">
+        <!-- Crop breakdown rows populated by JS -->
+      </div>
+
+      <p class="planner-note">Estimates use USDA average yield and retail price data. Actual results vary by variety, soil quality, and season length.</p>
+      <a href="/app/" class="btn btn-primary planner-cta">Track your real harvest in the app →</a>
+    </div>
+  </div>
+</div>
+
+<script>
+  interface PlantData {
+    name: string;
+    slug: string;
+    avg_yield_lb: number;
+    avg_price_lb: number;
+    seed_cost: number;
+  }
+
+  const dataEl = document.getElementById('planner-data');
+  if (!dataEl) throw new Error('planner-data missing');
+  const PLANTS: PlantData[] = JSON.parse(dataEl.textContent || '[]');
+
+  const bedsEl    = document.getElementById('p-beds') as HTMLInputElement;
+  const sizeEl    = document.getElementById('p-size') as HTMLSelectElement;
+  const sourceEl  = document.getElementById('p-source') as HTMLSelectElement;
+  const cropList  = document.getElementById('p-crop-list')!;
+  const outputEl  = document.getElementById('p-output')!;
+  const netEl     = document.getElementById('p-net')!;
+  const grossEl   = document.getElementById('p-gross')!;
+  const costEl    = document.getElementById('p-cost')!;
+  const breakdown = document.getElementById('p-breakdown')!;
+
+  // Render crop checkboxes
+  PLANTS.forEach((p) => {
+    const label = document.createElement('label');
+    label.className = 'crop-check-label';
+    label.innerHTML = `<input type="checkbox" class="crop-check" value="${p.slug}" /> ${p.name}`;
+    cropList.appendChild(label);
+  });
+
+  function getChecked(): string[] {
+    return [...document.querySelectorAll<HTMLInputElement>('.crop-check:checked')].map((el) => el.value);
+  }
+
+  function fmt(n: number) { return `$${n.toFixed(2)}`; }
+
+  function recalc() {
+    const beds = Math.max(1, parseInt(bedsEl.value, 10) || 1);
+    const sqft = parseInt(sizeEl.value, 10);
+    const totalSqft = beds * sqft;
+    const isTransplant = sourceEl.value === 'transplant';
+    const selectedSlugs = getChecked();
+
+    if (selectedSlugs.length === 0) {
+      outputEl.hidden = true;
+      return;
+    }
+
+    outputEl.hidden = false;
+
+    // Each selected crop gets an equal share of sq ft, minimum 1 packet
+    const sqftPerCrop = totalSqft / selectedSlugs.length;
+    // Rough plants-per-sqft: 0.25 (large crops like tomatoes) to 4 (herbs/greens)
+    // We'll use a simple approach: 1 packet per 8 sq ft of allocation
+    const packetsPerCrop = Math.max(1, Math.round(sqftPerCrop / 8));
+
+    let totalCost = 0;
+    let totalGross = 0;
+    const rows: { name: string; cost: number; gross: number; net: number }[] = [];
+
+    for (const slug of selectedSlugs) {
+      const plant = PLANTS.find((p) => p.slug === slug);
+      if (!plant) continue;
+      const seedCost = plant.seed_cost * packetsPerCrop * (isTransplant ? 2.5 : 1);
+      const gross = plant.avg_yield_lb * plant.avg_price_lb * packetsPerCrop;
+      const net = gross - seedCost;
+      totalCost += seedCost;
+      totalGross += gross;
+      rows.push({ name: plant.name, cost: seedCost, gross, net });
+    }
+
+    const totalNet = totalGross - totalCost;
+
+    netEl.textContent = fmt(totalNet);
+    grossEl.textContent = fmt(totalGross);
+    costEl.textContent = fmt(totalCost);
+
+    // Color net
+    netEl.style.color = totalNet >= 0
+      ? 'var(--color-primary)'
+      : 'var(--color-error)';
+
+    // Render breakdown
+    const sorted = rows.sort((a, b) => b.net - a.net);
+    breakdown.innerHTML = sorted.map((r) => `
+      <div class="breakdown-row">
+        <span class="br-name">${r.name}</span>
+        <span class="br-cost">${fmt(r.cost)}</span>
+        <span class="br-gross">${fmt(r.gross)}</span>
+        <span class="br-net ${r.net >= 0 ? 'br-net--pos' : 'br-net--neg'}">${fmt(r.net)}</span>
+      </div>
+    `).join('');
+  }
+
+  bedsEl.addEventListener('input', recalc);
+  sizeEl.addEventListener('change', recalc);
+  sourceEl.addEventListener('change', recalc);
+  cropList.addEventListener('change', recalc);
+</script>
+
+<style>
+  .planner {
+    background-color: rgba(248, 249, 245, 0.97);
+    border-radius: var(--radius-m);
+    border: 1px solid var(--color-border);
+    overflow: hidden;
+  }
+
+  .planner-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+  }
+
+  @media (max-width: 720px) {
+    .planner-body { grid-template-columns: 1fr; }
+  }
+
+  .planner-inputs {
+    padding: var(--space-l);
+    border-right: 1px solid var(--color-border);
+  }
+
+  @media (max-width: 720px) {
+    .planner-inputs { border-right: none; border-bottom: 1px solid var(--color-border); }
+  }
+
+  .planner-output {
+    padding: var(--space-l);
+  }
+
+  .planner-section-heading {
+    font-family: var(--font-display);
+    font-size: var(--text-h3);
+    color: var(--color-primary);
+    margin-bottom: var(--space-m);
+    margin-top: var(--space-l);
+  }
+
+  .planner-section-heading:first-child {
+    margin-top: 0;
+  }
+
+  .input-row {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    margin-bottom: var(--space-m);
+  }
+
+  .planner-label {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-text-secondary);
+  }
+
+  .planner-number,
+  .planner-select {
+    font-family: var(--font-body);
+    font-size: var(--text-body);
+    padding: var(--space-s) var(--space-m);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-s);
+    background: var(--color-white);
+    color: var(--color-text-primary);
+  }
+
+  .planner-hint {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    margin-bottom: var(--space-m);
+  }
+
+  .planner-crop-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-xs);
+    max-height: 320px;
+    overflow-y: auto;
+    padding-right: var(--space-xs);
+  }
+
+  .crop-check-label {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    font-size: var(--text-small);
+    cursor: pointer;
+    padding: 2px 0;
+  }
+
+  .crop-check {
+    accent-color: var(--color-primary);
+    width: 14px;
+    height: 14px;
+    flex-shrink: 0;
+  }
+
+  .planner-stats {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+    margin-bottom: var(--space-l);
+  }
+
+  .planner-stat {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: var(--space-s) var(--space-m);
+    background: var(--color-white);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-s);
+  }
+
+  .planner-stat--primary {
+    background: var(--color-highlight);
+    border-color: var(--color-primary);
+  }
+
+  .planner-stat-label {
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+  }
+
+  .planner-stat-value {
+    font-family: var(--font-display);
+    font-size: var(--text-h3);
+    color: var(--color-primary);
+    transition: color 0.2s;
+  }
+
+  .planner-breakdown {
+    margin-bottom: var(--space-l);
+  }
+
+  .breakdown-row {
+    display: grid;
+    grid-template-columns: 1fr auto auto auto;
+    gap: var(--space-s);
+    padding: var(--space-xs) 0;
+    border-bottom: 1px solid rgba(0,0,0,0.04);
+    font-size: var(--text-small);
+    align-items: baseline;
+  }
+
+  .br-name { font-weight: 600; color: var(--color-text-primary); }
+  .br-cost, .br-gross { color: var(--color-text-muted); font-variant-numeric: tabular-nums; }
+  .br-net { font-weight: 700; font-variant-numeric: tabular-nums; }
+  .br-net--pos { color: var(--color-primary); }
+  .br-net--neg { color: var(--color-error); }
+
+  .planner-note {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    margin-bottom: var(--space-l);
+    line-height: var(--leading-body);
+  }
+
+  .planner-cta {
+    display: inline-block;
+  }
+</style>

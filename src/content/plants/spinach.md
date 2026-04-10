@@ -12,6 +12,7 @@ watering: Consistent moisture, approximately 1 inch per week; drought stress acc
 sunlight: Full sun to partial shade; afternoon shade in spring extends the harvest window by slowing heat accumulation on the leaves
 companion_plants: [Strawberry, Garlic]
 description: "Spinach (Spinacia oleracea) - 0.5 lb per sq ft at $3.50/lb. Fall crops outperform spring because cooling temperatures slow bolting and sweeten the leaves."
+hero_image: /images/crops/spinach.webp
 ---
 
 Spinach (*Spinacia oleracea*) is a cool-season annual with a short fuse. At 37 to 50 days to maturity, it comes in fast - but the window it needs is narrow. Push it into warm weather and it bolts, the leaves turn bitter, and the crop is over. Work within that window and spinach returns $3 to $5 per pound (USDA Agricultural Marketing Service, local retail surveys of salad greens) from a $2.99 seed packet.

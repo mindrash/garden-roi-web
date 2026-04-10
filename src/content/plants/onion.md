@@ -12,6 +12,7 @@ watering: Regular; 1 inch/week during bulbing, reduce as tops fall
 sunlight: Full sun (6-8 hours minimum)
 companion_plants: ["Tomato", "Carrot"]
 description: "Onion (Allium cepa) cures and stores 6-8 months, extending harvest value through winter. Sets cost $0.10-0.20 each and return $0.50-1.00 at retail weight."
+hero_image: /images/crops/onion.webp
 ---
 
 Onions (*Allium cepa*) are fundamentally a storage crop, and that's what separates their ROI math from crops you eat immediately. A tomato has to be consumed within days of harvest. An onion harvested in August sits in a cool pantry until February. That 6-month storage window means the value doesn't disappear if you have more than you can use in a week - which is almost always the case with a productive bed.

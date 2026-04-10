@@ -12,6 +12,7 @@ watering: Moderate; 1-1.5 inches/week
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Arugula", "Fennel"]
 description: "Lovage (Levisticum officinale) - $6-10/lb, perennial zones 4+. Intense celery-like flavor without celery's difficulty. Leaves, seeds, and stems all usable."
+hero_image: /images/crops/lovage.webp
 ---
 
 Lovage (*Levisticum officinale*) solves a problem celery creates. Celery takes 120 days from seed to harvest, requires constant moisture, demands rich soil, and produces a mediocre yield under anything but ideal conditions. Lovage has a nearly identical flavor profile - strong, celery-like, with more intensity - it's a perennial that comes back for decades in zones 4+, grows 4-6 feet tall at maturity, and tolerates imperfect conditions that would stress celery significantly. If you use celery primarily as an aromatic in cooking (soups, stocks, braises), lovage replaces it completely and is far easier to grow (USDA AMS Specialty Crop Market News, 2023).

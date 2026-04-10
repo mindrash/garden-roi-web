@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, tolerates drought once established
 sunlight: Full sun (6+ hours)
 companion_plants: ["Strawberry", "Garlic"]
 description: "Rhubarb (Rheum rhabarbarum) - perennial with 20+ year productive life. Year 2 first harvest. After year 3, $0 annual input for $9+ yield per crown."
+hero_image: /images/crops/rhubarb.webp
 ---
 
 Rhubarb (*Rheum rhabarbarum*) is one of the few crops where planting it is better described as an investment than a garden project. You won't harvest the first year. You'll harvest lightly the second year. From year three onward, a healthy crown requires almost no input and produces 3–6 lb of stalks annually for 20 years or longer without replanting. The math on that per-season cost is essentially zero.

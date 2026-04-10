@@ -12,6 +12,7 @@ watering: Light to moderate; 0.5-0.75 inch/week, tolerates drought
 sunlight: Full sun (6+ hours)
 companion_plants: [Basil, Oregano]
 description: "Marjoram (Origanum majorana) - sweeter and more delicate than oregano, $8-12/lb. Annual that self-sows reliably. Distinct species from oregano despite similar appearance."
+hero_image: /images/crops/marjoram.webp
 ---
 
 Marjoram (*Origanum majorana*) is consistently confused with oregano in the garden center and in the kitchen, but they are different species with different flavor profiles and different uses. Marjoram tastes sweeter, more floral, and less pungent than oregano. Where oregano can stand up to long cooking, marjoram's volatile compounds dissipate quickly with heat - it performs better added at the end of cooking or used fresh. Understanding this distinction is what determines whether you end up with a useful herb or an oregano understudy you don't know what to do with.

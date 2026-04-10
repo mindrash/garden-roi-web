@@ -1,0 +1,228 @@
+---
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import { ZONES } from '../../data/zones';
+---
+
+<ContentLayout
+  title="Zone Planting Guide"
+  description="Find which crops grow best in your USDA hardiness zone. Direct sow vs. indoor start recommendations for Zones 3-10 based on frost-free days."
+  breadcrumbs={[{ label: 'Plan', href: '/plan/' }]}
+>
+  <h1 class="page-title">Zone Planting Guide</h1>
+  <p class="page-desc">Select your USDA hardiness zone to see which crops you can direct sow, start indoors, or skip entirely.</p>
+
+  <div class="zone-grid">
+    {ZONES.map((z) => (
+      <a href={`/zone/${z.zone}/`} class="zone-card glass-card">
+        <span class="zone-number">Zone {z.zone}</span>
+        <span class="zone-desc">{z.label.replace(`Zone ${z.zone} `, '')}</span>
+        <div class="zone-frosts">
+          <span>Last frost: {z.lastFrost}</span>
+          <span>First frost: {z.firstFrost}</span>
+        </div>
+        <span class="zone-days">{z.frostFreeDays} frost-free days</span>
+      </a>
+    ))}
+  </div>
+
+  <div class="zone-explainer glass-card">
+    <h2>How to use this tool</h2>
+    <p>Your USDA hardiness zone is based on your average annual minimum winter temperature. You can look it up at the <a href="https://planthardiness.ars.usda.gov/" rel="noopener noreferrer" target="_blank">USDA Plant Hardiness Zone Map</a>.</p>
+    <p>Once you know your zone, select it above. For each crop in your zone we show whether it can be direct sown after your last frost date, whether it needs a head start indoors, or whether the season is too short even with indoor starting.</p>
+  </div>
+</ContentLayout>
+
+<style>
+  .page-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h1);
+    color: var(--color-primary);
+    margin-bottom: var(--space-s);
+  }
+
+  .page-desc {
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-xl);
+  }
+
+  .zone-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: var(--space-l);
+    margin-bottom: var(--space-xl);
+  }
+
+  .zone-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    padding: var(--space-l);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+
+  .zone-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-card);
+  }
+
+  .zone-number {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    color: var(--color-primary);
+  }
+
+  .zone-desc {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    text-transform: capitalize;
+  }
+
+  .zone-frosts {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    margin-top: var(--space-xs);
+  }
+
+  .zone-days {
+    font-weight: 600;
+    font-size: var(--text-small);
+    color: var(--color-primary-dark);
+    margin-top: var(--space-xs);
+  }
+
+  .zone-explainer {
+    padding: var(--space-xl);
+    max-width: 720px;
+  }
+
+  .zone-explainer h2 {
+    font-family: var(--font-display);
+    color: var(--color-primary);
+    margin-bottom: var(--space-m);
+  }
+
+  .zone-explainer p {
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-m);
+    line-height: var(--leading-body);
+  }
+
+  .zone-explainer a {
+    color: var(--color-primary);
+  }
+</style>
+
+<style>
+  .breadcrumb ol {
+    display: flex;
+    gap: var(--space-xs);
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-m);
+    font-size: var(--text-small);
+  }
+
+  .breadcrumb li {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .breadcrumb li:not(:last-child)::after {
+    content: '/';
+    color: rgba(255, 255, 255, 0.4);
+  }
+
+  .breadcrumb a {
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--color-white);
+    text-decoration: underline;
+  }
+
+  .zone-index {
+    padding-top: var(--space-xl);
+    padding-bottom: var(--space-xxl);
+    background-color: rgba(248, 249, 245, 0.97);
+  }
+
+  .zone-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: var(--space-l);
+    margin-bottom: var(--space-xl);
+  }
+
+  .zone-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    padding: var(--space-l);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+
+  .zone-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-card);
+  }
+
+  .zone-number {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    color: var(--color-primary);
+  }
+
+  .zone-desc {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    text-transform: capitalize;
+  }
+
+  .zone-frosts {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    margin-top: var(--space-xs);
+  }
+
+  .zone-days {
+    font-weight: 600;
+    font-size: var(--text-small);
+    color: var(--color-primary-dark);
+    margin-top: var(--space-xs);
+  }
+
+  .zone-explainer {
+    padding: var(--space-xl);
+    max-width: 720px;
+  }
+
+  .zone-explainer h2 {
+    font-family: var(--font-display);
+    color: var(--color-primary);
+    margin-bottom: var(--space-m);
+  }
+
+  .zone-explainer p {
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-m);
+    line-height: var(--leading-body);
+  }
+
+  .zone-explainer a {
+    color: var(--color-primary);
+  }
+</style>

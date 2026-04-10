@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, tolerates brief drought once established
 sunlight: Full sun (6-8 hours)
 companion_plants: ["Basil", "Mint"]
 description: "Lemongrass (Cymbopogon citratus) - $4-7/lb retail. Each clump divides into free transplants each season. Overwinter indoors as a houseplant in zones below 9."
+hero_image: /images/crops/lemongrass.webp
 ---
 
 Lemongrass (*Cymbopogon citratus*) stalks at a specialty grocery store run $2-4 each for a few inches of trimmed stalk - effectively $25-40 per pound equivalent when you do the math. Grow your own and you're cutting stalks that are 18-24 inches long and a full inch in diameter at the base, which is more material per stalk than you'll ever find at retail (USDA AMS Specialty Crop Market News, 2023). The economic case is straightforward. The practical case - that it grows as a massive, self-dividing tropical grass that gives you free transplants every season - makes it better.

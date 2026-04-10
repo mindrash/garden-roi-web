@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week
 sunlight: Full sun (6+ hours)
 companion_plants: ["Arugula", "Fennel"]
 description: "Radicchio (Cichorium intybus var. foliosum) - $4-6/lb premium Italian bitter green. Fall timing is non-negotiable - summer heat ruins color and makes bitterness unpalatable."
+hero_image: /images/crops/radicchio.webp
 ---
 
 Radicchio (*Cichorium intybus var. foliosum*) is the deep red Italian bitter green that turns up in high-end salad mixes and on restaurant menus as a composed salad base. It's a chicory - the same species as common chicory, Belgian endive, and radicchio di Treviso. The deep red and white color comes from anthocyanin pigments that develop in cool temperatures; those same pigments don't form in summer heat. Grow radicchio in summer and you'll get loose, green, intensely bitter leaves that are nearly inedible. Grow it for a fall harvest and you'll get tight red heads with balanced bitterness. Timing is the whole game.

@@ -12,6 +12,7 @@ watering: Regular; 1-2 inches/week during vine growth, reduce at ripening
 sunlight: Full sun (8+ hours)
 companion_plants: ["Corn", "Radish"]
 description: "Watermelon (Citrullus lanatus) - 15+ lb per vine at $0.30-0.50/lb. Personal-size icebox varieties sell for $3-5 each. Space requirement is the real cost."
+hero_image: /images/crops/watermelon.webp
 ---
 
 Watermelon (*Citrullus lanatus*) has the lowest dollar-per-pound return of almost any garden crop - about $0.30–$0.50/lb at retail (USDA ERS, *Vegetables and Pulses Yearbook*, 2023). The ROI case isn't built on price per pound. It's built on the personal-size icebox varieties that retail for $3–$5 each at grocery stores. A single vine with decent management produces 3–5 of those fruits. At $4 per melon, that's $12–$20 in grocery value from a $3 seed packet.

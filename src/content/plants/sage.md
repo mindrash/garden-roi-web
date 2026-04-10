@@ -12,6 +12,7 @@ watering: Light to moderate; drought-tolerant once established, 0.5-0.75 inch/we
 sunlight: Full sun (6-8 hours)
 companion_plants: ["Tomato", "Cabbage"]
 description: "Sage (Salvia officinalis) - perennial shrub in zones 5+. Harvest spring and fall when thujone content peaks. Dried sage is concentrated value at $8-14/oz retail."
+hero_image: /images/crops/sage.webp
 ---
 
 Sage (*Salvia officinalis*) takes a full season to establish and then lasts 5-7 years as a woody perennial shrub in zones 5 through 9. The first-year plant is modest - knee-high, a few harvests. By year three, a well-managed sage plant is 18-24 inches across, producing multiple large harvests per season. At $2.99 for a seed packet and zero input cost after the first year, the long-term economics are sound.

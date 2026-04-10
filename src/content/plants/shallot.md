@@ -12,6 +12,7 @@ watering: Regular; 1 inch/week during bulbing, reduce as tops fall
 sunlight: Full sun (6-8 hours)
 companion_plants: ["Carrot", "Arugula"]
 description: "Shallot (Allium cepa var. aggregatum) - $4-7/lb retail, each bulb produces 6-8 offsets. Year 2 seed cost is $0 when you save the largest bulbs. Full growing guide."
+hero_image: /images/crops/shallot.webp
 ---
 
 Each shallot bulb you plant produces a cluster of 6-8 new bulbs at harvest. Plant one, pull seven to ten. That multiplication rate is the central ROI argument for shallot (*Allium cepa* var. *aggregatum*): your seed cost in year one is $3.99, and if you save the largest bulbs from the harvest, your seed cost in year two is zero. Retail price runs $4-7/lb (USDA AMS Specialty Crop Market News, 2023) for a crop that is, by weight, mostly what you put in the ground a few months ago.

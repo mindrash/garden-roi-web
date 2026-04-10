@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, tolerates drought once established
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Mint", "Basil"]
 description: "Lemon Balm (Melissa officinalis) - perennial zones 4+, $6-10/lb dried. Spreads freely via seed and runners; contain in a bed or pot. Year 2+ input cost is zero."
+hero_image: /images/crops/lemon-balm.webp
 ---
 
 Lemon balm (*Melissa officinalis*) is a mint-family perennial with a clean lemon scent and mild flavor. It's easy to establish, comes back every year in zones 4-9, spreads aggressively if not managed, and dried leaves sell at $6-10/lb at specialty herb retailers (USDA AMS Specialty Crop Market News, 2023). The year-two economics are close to free: established plants divide themselves, seed themselves into nearby soil, and require no replanting.

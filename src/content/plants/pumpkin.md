@@ -12,6 +12,7 @@ watering: Regular; 1-2 inches/week, at base not foliage
 sunlight: Full sun (8+ hours)
 companion_plants: ["Corn", "Green Bean"]
 description: "Pumpkin (Cucurbita pepo) produces high volume at low per-lb price. Pie and specialty varieties at $2-4/lb are where the actual ROI lives, not carving types."
+hero_image: /images/crops/pumpkin.webp
 ---
 
 Carving pumpkins retail for $0.25–$0.75 per pound at peak season (USDA AMS, *Fresh Fruit and Vegetable Prices*, 2023). You can buy a 20-pound jack-o'-lantern pumpkin for $8–$12 at a farm stand in October. Growing one at home requires 4–8 square feet of ground for 90–120 days, plus consistent water and pollination luck. The ROI math on carving pumpkins is bad, and it's worth being direct about that.

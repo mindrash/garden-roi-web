@@ -12,6 +12,7 @@ watering: Light; drought-tolerant once established, 0.5-0.75 inch/week
 sunlight: Full sun (6-8 hours)
 companion_plants: ["Tomato", "Sweet Pepper"]
 description: "Oregano (Origanum vulgare) - perennial in zones 5+, so year 2+ seed cost is $0. Dried weight is concentrated; 1 lb fresh reduces to roughly 0.25 lb dried."
+hero_image: /images/crops/oregano.webp
 ---
 
 Oregano (*Origanum vulgare*) is the argument for planting perennial herbs over annuals. You plant it once, it comes back every spring in zones 5 through 10, and by year three it's a substantial woody shrub you're dividing and giving away. The input cost after the first season is essentially zero. Growing oregano from seed requires patience - it's slow to germinate and slow to establish - but the long-term return on a $2.49 packet is hard to match.

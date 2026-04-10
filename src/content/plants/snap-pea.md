@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, reduce after pods form
 sunlight: Full sun (6+ hours)
 companion_plants: [Lettuce, Spinach]
 description: "Snap pea (Pisum sativum var. macrocarpon) - eat pod and pea together, $3-5/lb. Higher value than shelling peas where you discard the pod. 55-70 days, cool-season."
+hero_image: /images/crops/snap-pea.webp
 ---
 
 Snap peas (*Pisum sativum* var. *macrocarpon*) have a clear advantage over shelling peas in the home garden: you eat the whole pod, not just the peas inside. With shelling peas, you harvest 1 pound of pods and end up with perhaps 0.3 lb of peas after shelling and discarding the pods. With snap peas, 1 pound harvested is 1 pound to eat. At $3-5/lb (USDA AMS Specialty Crop Market News, 2023), that yield efficiency matters.

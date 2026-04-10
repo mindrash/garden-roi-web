@@ -1,0 +1,340 @@
+---
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import { getCollection } from 'astro:content';
+import { ZONES, ZONE_MAP, classifyCropForZone } from '../../data/zones';
+
+export async function getStaticPaths() {
+  const allPlants = await getCollection('plants');
+  return ZONES.map(({ zone }) => ({
+    params: { zone: String(zone) },
+    props: { allPlants },
+  }));
+}
+
+const { zone: zoneParam } = Astro.params;
+const { allPlants } = Astro.props;
+
+const zoneNum = parseInt(zoneParam, 10);
+const zoneData = ZONE_MAP.get(zoneNum)!;
+
+// Months 0-11 (Jan-Dec)
+const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+// Parse "Mon D" into { month: 0-11, day: 1-31 }
+function parseFrostDate(str: string): { month: number; day: number } {
+  const [mon, day] = str.split(' ');
+  return { month: MONTHS.indexOf(mon), day: parseInt(day, 10) };
+}
+
+const lastFrost = parseFrostDate(zoneData.lastFrost);
+const firstFrost = parseFrostDate(zoneData.firstFrost);
+
+// Compute calendar windows for a crop
+// Returns an array of 12 booleans (or a string 'sow'|'transplant'|'harvest') per month
+type EventType = 'sow-indoors' | 'transplant' | 'direct-sow' | 'harvest' | null;
+
+function getMonthEvents(
+  daysMin: number,
+  daysMax: number,
+  cls: 'direct-sow' | 'start-indoors' | 'marginal' | 'not-recommended',
+  indoorWeeks: number,
+): EventType[] {
+  const ev: EventType[] = Array(12).fill(null);
+  if (cls === 'not-recommended') return ev;
+
+  const lf = lastFrost;    // last spring frost
+  const ff = firstFrost;   // first fall frost
+
+  if (cls === 'direct-sow' || cls === 'marginal') {
+    // Direct sow window: from last frost month until (firstFrost - daysMax days ahead)
+    const harvestLatestMonth = ff.month - Math.ceil(daysMax / 30);
+    for (let m = lf.month; m <= Math.min(lf.month + 1, harvestLatestMonth); m++) {
+      if (m >= 0 && m < 12) ev[m] = 'direct-sow';
+    }
+    // Harvest window: daysMin weeks after sowing
+    const harvestStart = lf.month + Math.floor(daysMin / 30);
+    for (let m = harvestStart; m <= lf.month + Math.ceil(daysMax / 30); m++) {
+      if (m >= 0 && m < 12) ev[m] = ev[m] === 'direct-sow' ? 'direct-sow' : 'harvest';
+    }
+  } else if (cls === 'start-indoors') {
+    const weeksIndoor = Math.max(indoorWeeks, 6);
+    // Indoor start: weeksIndoor before last frost
+    const indoorStartMonth = lf.month - Math.ceil(weeksIndoor / 4);
+    if (indoorStartMonth >= 0) ev[indoorStartMonth] = 'sow-indoors';
+    // Transplant: at last frost
+    ev[lf.month] = 'transplant';
+    // Harvest
+    const harvestStart = lf.month + Math.floor(daysMin / 30);
+    const harvestEnd = Math.min(ff.month - 1, lf.month + Math.ceil(daysMax / 30));
+    for (let m = harvestStart; m <= harvestEnd; m++) {
+      if (m >= 0 && m < 12 && !ev[m]) ev[m] = 'harvest';
+    }
+  }
+
+  return ev;
+}
+
+// Group crops for calendar display
+const categories = ['Vegetable', 'Herb', 'Fruit'] as const;
+
+type PlantRow = {
+  name: string;
+  slug: string;
+  events: EventType[];
+};
+
+const rows: Record<string, PlantRow[]> = { Vegetable: [], Herb: [], Fruit: [] };
+
+for (const plant of allPlants) {
+  const cls = classifyCropForZone(
+    plant.data.days_min,
+    plant.data.days_max,
+    plant.data.indoor_weeks_needed,
+    zoneData.frostFreeDays,
+  );
+  if (cls === 'not-recommended') continue;
+  const events = getMonthEvents(plant.data.days_min, plant.data.days_max, cls as any, plant.data.indoor_weeks_needed);
+  rows[plant.data.category as string].push({ name: plant.data.name, slug: plant.id, events });
+}
+
+// Sort alphabetically within category
+for (const cat of categories) {
+  rows[cat].sort((a, b) => a.name.localeCompare(b.name));
+}
+
+const eventColor: Record<string, string> = {
+  'sow-indoors': '#b3d9f7',
+  'transplant':  '#8bc34a',
+  'direct-sow':  '#4caf50',
+  'harvest':     '#f5d547',
+};
+
+const eventLabel: Record<string, string> = {
+  'sow-indoors': 'Start indoors',
+  'transplant':  'Transplant',
+  'direct-sow':  'Direct sow',
+  'harvest':     'Harvest',
+};
+
+const otherZones = ZONES.filter((z) => z.zone !== zoneNum);
+---
+
+<ContentLayout
+  title={`Zone ${zoneNum} Planting Calendar`}
+  description={`Month-by-month planting calendar for USDA Zone ${zoneNum}. Last frost ${zoneData.lastFrost}, first frost ${zoneData.firstFrost}. When to sow, transplant, and harvest every crop.`}
+  breadcrumbs={[
+    { label: 'Zone Planting Guide', href: '/zone/' },
+    { label: `Zone ${zoneNum}`, href: `/zone/${zoneNum}/` },
+  ]}
+>
+  <h1 class="page-title">Zone {zoneNum} Planting Calendar</h1>
+  <p class="zone-meta">
+    <span>Last frost: <strong>{zoneData.lastFrost}</strong></span>
+    <span>First frost: <strong>{zoneData.firstFrost}</strong></span>
+    <span>Frost-free days: <strong>{zoneData.frostFreeDays}</strong></span>
+  </p>
+
+  <div class="container calendar-page">
+    <!-- Legend -->
+    <div class="legend glass-card">
+      {Object.entries(eventLabel).map(([key, label]) => (
+        <span class="legend-item">
+          <span class="legend-swatch" style={`background:${eventColor[key]}`}></span>
+          {label}
+        </span>
+      ))}
+    </div>
+
+    <!-- Zone picker -->
+    <div class="zone-picker-row">
+      <span class="zone-picker-label">Other zones:</span>
+      {otherZones.map((z) => (
+        <a href={`/calendar/${z.zone}/`} class="zone-link">{z.label}</a>
+      ))}
+    </div>
+
+    <!-- Calendar tables by category -->
+    {categories.map((cat) => rows[cat].length > 0 && (
+      <section class="cal-section">
+        <h2 class="cat-heading">{cat}s</h2>
+        <div class="cal-table-wrap">
+          <table class="cal-table" aria-label={`${cat} planting calendar Zone ${zoneNum}`}>
+            <thead>
+              <tr>
+                <th class="crop-col">Crop</th>
+                {MONTHS.map((m) => <th class="month-col">{m}</th>)}
+              </tr>
+            </thead>
+            <tbody>
+              {rows[cat].map(({ name, slug, events }) => (
+                <tr>
+                  <td class="crop-name-cell">
+                    <a href={`/crops/${slug}/`}>{name}</a>
+                  </td>
+                  {events.map((ev) => (
+                    <td
+                      class="cal-cell"
+                      style={ev ? `background:${eventColor[ev]}` : ''}
+                      title={ev ? eventLabel[ev] : ''}
+                      aria-label={ev ? eventLabel[ev] : 'no activity'}
+                    >
+                      {ev === 'sow-indoors' ? '🌱' : ev === 'transplant' ? '🪴' : ev === 'direct-sow' ? '🌿' : ev === 'harvest' ? '🌾' : ''}
+                    </td>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    ))}
+
+    <p class="cal-note">Dates are approximate midpoints based on historic frost averages. Actual dates vary by microclimate and year. Confirm your local last frost date at the <a href="https://planthardiness.ars.usda.gov/" rel="noopener noreferrer" target="_blank">USDA Plant Hardiness Zone Map</a>.</p>
+  </div>
+</ContentLayout>
+
+<style>
+  .page-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h1);
+    color: var(--color-primary);
+    margin-bottom: var(--space-s);
+  }
+
+  .zone-meta {
+    display: flex;
+    gap: var(--space-xl);
+    flex-wrap: wrap;
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-xl);
+  }
+
+  .calendar-page {
+    padding-top: var(--space-xl);
+    padding-bottom: var(--space-xxl);
+    background-color: rgba(248, 249, 245, 0.97);
+  }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-l);
+    padding: var(--space-m) var(--space-l);
+    margin-bottom: var(--space-m);
+    font-size: var(--text-small);
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    color: var(--color-text-secondary);
+  }
+
+  .legend-swatch {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    flex-shrink: 0;
+  }
+
+  .zone-picker-row {
+    display: flex;
+    align-items: center;
+    gap: var(--space-s);
+    flex-wrap: wrap;
+    margin-bottom: var(--space-xl);
+    font-size: var(--text-small);
+  }
+
+  .zone-picker-label {
+    color: var(--color-text-muted);
+    font-weight: 600;
+  }
+
+  .zone-link {
+    padding: var(--space-xs) var(--space-s);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-full);
+    font-size: var(--text-small);
+    color: var(--color-primary);
+    text-decoration: none;
+    background: var(--color-white);
+  }
+  .zone-link:hover { background: var(--color-highlight); }
+
+  .cal-section {
+    margin-bottom: var(--space-xxl);
+  }
+
+  .cat-heading {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    color: var(--color-primary);
+    margin-bottom: var(--space-m);
+  }
+
+  .cal-table-wrap {
+    overflow-x: auto;
+    border-radius: var(--radius-m);
+    background: var(--color-white);
+    border: 1px solid var(--color-border);
+  }
+
+  .cal-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-small);
+  }
+
+  .cal-table th {
+    padding: var(--space-xs) var(--space-s);
+    background: var(--color-primary);
+    color: var(--color-text-on-dark);
+    font-weight: 600;
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  .crop-col { text-align: left !important; min-width: 130px; }
+
+  .month-col { min-width: 38px; }
+
+  .cal-table tbody tr:nth-child(even) { background: rgba(0,0,0,0.02); }
+
+  .crop-name-cell {
+    padding: var(--space-xs) var(--space-s);
+    white-space: nowrap;
+  }
+
+  .crop-name-cell a {
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .crop-name-cell a:hover { text-decoration: underline; }
+
+  .cal-cell {
+    text-align: center;
+    padding: var(--space-xs) 2px;
+    font-size: 13px;
+    border-left: 1px solid rgba(0,0,0,0.05);
+  }
+
+  .cal-note {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    margin-top: var(--space-xl);
+    line-height: var(--leading-body);
+  }
+  .cal-note a { color: var(--color-primary); }
+
+  @media print {
+    .zone-picker-row, .legend { display: none; }
+    .calendar-page { background: white; }
+    .cal-table { font-size: 9px; }
+    .crop-col { min-width: 100px; }
+  }
+</style>

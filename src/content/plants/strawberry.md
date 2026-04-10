@@ -12,6 +12,7 @@ watering: Regular; 1 inch/week, more during fruit development
 sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Borage, Spinach, Lettuce, Thyme]
 description: "Strawberry (Fragaria ananassa) - 1.5 lb per plant at $4.99/lb starting in year two. Suppress first-year flowers to build root mass for higher second-year yield."
+hero_image: /images/crops/strawberry.webp
 ---
 
 The cultivated strawberry (*Fragaria* × *ananassa*) is an octoploid hybrid that doesn't exist in the wild  -  it was bred in 18th-century France from two American species, *F. virginiana* and *F. chiloensis*. What this history means practically is that modern garden strawberries are highly productive but also highly selected, with characteristics that respond well to deliberate management and poorly to neglect.

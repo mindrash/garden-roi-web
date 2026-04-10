@@ -85,6 +85,17 @@ const articleJsonLd = {
       <p class="plant-scientific">{scientific_name}</p>
     </div>
 
+    {plant.data.hero_image && (
+      <img
+        src={plant.data.hero_image}
+        alt={`${name} growing in a garden`}
+        class="plant-hero"
+        width="800"
+        height="450"
+        loading="eager"
+      />
+    )}
+
     <!-- Stats grid -->
     <div class="stats-grid">
       <div class="stat-card">
@@ -177,6 +188,14 @@ const articleJsonLd = {
     gap: var(--space-s);
     padding-bottom: var(--space-l);
     border-bottom: 1px solid rgba(0,0,0,0.08);
+  }
+
+  .plant-hero {
+    width: 100%;
+    max-height: 360px;
+    object-fit: cover;
+    border-radius: var(--radius-m);
+    display: block;
   }
 
   .plant-title {

@@ -1,0 +1,22 @@
+---
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import WhatToPlantNow from '../../components/WhatToPlantNow.astro';
+---
+
+<ContentLayout
+  title="What to Plant Right Now"
+  description="Select your USDA hardiness zone to see which crops to direct-sow, which to start indoors, and which are approaching harvest this month."
+  breadcrumbs={[{ label: 'Plan', href: '/plan/' }]}
+>
+  <h1 class="page-title">What to Plant Right Now</h1>
+  <WhatToPlantNow />
+</ContentLayout>
+
+<style>
+  .page-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h1);
+    color: var(--color-primary);
+    margin-bottom: var(--space-l);
+  }
+</style>

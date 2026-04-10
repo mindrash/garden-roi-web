@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, consistent for straight roots
 sunlight: Full sun (6+ hours)
 companion_plants: ["Carrot", "Arugula"]
 description: "Parsnip (Pastinaca sativa) - frost converts starch to sugar after first hard freeze, dramatically improving flavor. $2-3/lb retail. Stores in ground through winter in zones 5+."
+hero_image: /images/crops/parsnip.webp
 ---
 
 Parsnip (*Pastinaca sativa*) is one of the few vegetables that is objectively better after a hard freeze than before it. Plant it in spring, leave it in the ground past the first hard frost, and harvest into winter - what comes out of the ground in December is noticeably sweeter than what was there in October. The cold converts stored starches to sugars, the same mechanism that improves the flavor of kale and Brussels sprouts after frost. This isn't a marginal difference; it's the reason old-time kitchen gardeners planted parsnips at all.

@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week
 sunlight: Full sun (4-6 hours acceptable)
 companion_plants: ["Carrot", "Arugula"]
 description: "Scallion (Allium fistulosum) - $3-5/lb, cut-and-come-again harvest. Regrows from kitchen scrap roots. True bunching onion, no bulb formation. Full growing guide."
+hero_image: /images/crops/scallion.webp
 ---
 
 Scallion (*Allium fistulosum*) is the true bunching onion - it does not form a bulb, it is harvested entirely for its green tops and slender white base, and it will regrow from the cut base for two to three additional harvests. A $2.49 seed packet planted in succession every three weeks keeps you in green onions from spring through late fall. If you've been buying bunches at $1.50 each, that adds up faster than you think.
