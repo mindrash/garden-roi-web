@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 11, 2026 (CA008-CA034, PE001-PE014, PB001-PB011, D001-D007 complete; PE015-PE027 + NA001-NA005 story cards added)_
+_Last updated: April 11, 2026 (CA008-CA034, PE001-PE014, PB001-PB011, D001-D007, PE015-PE027, NA001-NA005 all complete)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -3189,6 +3189,398 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 - Sweet potato (needs ~420 words): Add a variety ROI comparison table (Beauregard at $1.75/lb conventional vs. Murasaki/Japanese white at $3-5/lb specialty; 4 lb per slip × price difference = significant ROI gap). Add a spacing and bed management section: slips planted 12-18 inches apart in rows 3-4 feet apart; 6 slips in a 4x8 bed; expected yield at full spacing. Source: University of Georgia Extension, NC State Extension. ~420 words.
 - Beet (needs ~450 words): Add a succession planting section (spring crop timed 4-6 weeks before last frost + fall crop timed 10-12 weeks before first frost; each produces 20-30 lb from a 4x8 bed = 40-60 lb per season from one bed). Add a double-harvest value calculation: roots at $2.50/lb plus greens (thinnings, ~1 lb per 4-row-foot, valued at $3-4/lb as chard-equivalent) adds $3-8 in greens value to each sowing. Show the math: 2 sowings × (25 lb roots at $2.50 + 2 lb greens at $3.50) = $132 from $5 in seed. Sources: Penn State Extension, OSU Extension beet production guides. ~450 words.
 **Acceptance:** All 5 files at 1,600+ words, each addition sourced, zero em dashes in any file, build passes after all 5 are updated.
+
+---
+
+## Plant Page Expansion Sprint 4 — Herbs and Vegetables
+
+### PE015 — Expand oregano.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/oregano.md`
+**Current word count:** ~911 words
+**Target:** 1,600+ words
+**What:** Expand with cultivar comparison table, multi-year perennial ROI table, and culinary guide.
+**Add these sections:**
+- Cultivar comparison table: 4-5 rows covering Greek oregano (*O. vulgare* subsp. *hirtum*, highest carvacrol 60-80%, used for dried, $8-15/lb dried at specialty), common/Italian oregano (*O. vulgare*, 20-40% carvacrol, milder, good fresh), Mexican oregano (*Lippia graveolens*, different genus entirely, used in Tex-Mex and mole, more citrusy), Golden oregano (*O. vulgare* 'Aureum', ornamental, low oil). Columns: cultivar, carvacrol %, best use, cold hardiness zone, notes.
+- Multi-year perennial ROI table: Year 1 ($2.99 seed, ~6 oz fresh first season = ~$3.00 value, small net gain), Year 2 (established plant, 0.75 lb fresh = $6-9 in grocery value, seed cost $0), Year 3+ (divide every 2-3 years, free additional plants). Total 5-year value from one planting (~$35-45 in herb value vs $3 seed cost). Source: USDA AMS specialty herb data, Oregon State Extension herb value guides.
+- Culinary applications: fresh vs dried ratio (1 tbsp fresh = 1 tsp dried; dried oregano more concentrated due to oil retention). Add to pizza/tomato sauces in last 5 minutes of cooking; longer cooking destroys volatile oils. Greek oregano specifically for dried use in Mediterranean cooking. Mexican oregano for chili, beans, mole - not interchangeable with Greek. Oregano infused oil: pack fresh into olive oil (use caution - low-acid herbs in oil require refrigeration to prevent botulism; NCHFP guidelines).
+**Acceptance:**
+- 1,600+ words total
+- Cultivar comparison table present with carvacrol % data
+- Multi-year ROI table with 5-year calculation
+- All figures cited (USDA AMS or OSU/Cornell extension)
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE016 — Expand rosemary.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/rosemary.md`
+**Current word count:** ~990 words
+**Target:** 1,600+ words
+**What:** Expand with propagation methods comparison table, variety cold-hardiness table, and multi-year ROI calculation.
+**Add these sections:**
+- Propagation methods comparison table: Seed (slow - 14-21 day germination, 6+ months to harvest size, 30-40% germination rate, lowest cost ~$3/packet); Stem cutting (3-4 week root development, 4-5 months to harvest size, free if you have a parent plant, 70-80% success with rooting hormone); Layering (bend a stem to the ground, cover with soil, roots form in 4-6 weeks, sever and transplant, 90%+ success, completely free). Columns: method, time to transplant size, cost, success rate, when to use.
+- Cold-hardiness variety table: 'Arp' (Zone 6, developed at Fredericksburg VA, survives -10°F with mulch), 'Salem' (Zone 6 borderline), 'Madelene Hill' (Zone 6, similar to Arp), 'Tuscan Blue' (Zone 8+, upright, classic Italian flavor, best for mild climates), *R. officinalis* standard (Zone 7+, most common commercial form). Columns: variety, cold hardiness zone, habit (upright/spreading), primary use, notes.
+- Multi-year perennial ROI: Year 1 (from cutting or transplant ~$3-5, ~4 oz first harvest = $2-3 value, slightly net negative); Year 2 (fully established, 0.5 lb harvest = $4-8 value, $0 seed cost); Year 3-10 (same plant, divides readily, each division is free). 10-year calculation: one $4 cutting returns 9 years of $4-8 annual value = $36-72 in rosemary. Source: USDA AMS specialty herbs, NC State Extension.
+**Acceptance:**
+- 1,600+ words total
+- Propagation comparison table present
+- Cold-hardiness variety table present with zone data
+- Multi-year ROI calculated over 10 years
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE017 — Expand thyme.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/thyme.md`
+**Current word count:** ~1,030 words
+**Target:** 1,600+ words
+**What:** Expand with cultivar comparison table, multi-year value calculation, and culinary applications.
+**Add these sections:**
+- Cultivar comparison table: Common/English thyme (*Thymus vulgaris*, 40-60% thymol/carvacrol, standard culinary use, Zone 5), French thyme (milder flavor, lower thymol, preferred for delicate applications, Zone 6), Lemon thyme (*T. citriodorus*, geraniol dominant, citrusy, excellent for fish and chicken, Zone 6), Creeping thyme (*T. serpyllum*, ornamental/walkable groundcover, culinary use secondary, Zone 4). Columns: cultivar, primary compound, flavor profile, hardiness zone, best culinary use.
+- Multi-year value accumulation: perennial herb, one $2.99 planting returns value for 3-5 years before needing division. Year 1: ~3 oz harvest = $1.50-2.00 in grocery value; Year 2: 6 oz = $3.00-4.00; Year 3: full production, 0.4 lb = $4-6/year; divided plant produces 2-4 new plants. 5-year scenario: $3 seed cost produces $15-25 in cumulative thyme value plus free divisions. Source: USDA AMS, Purdue Extension herb guides.
+- Culinary applications with timing: thyme added early in long braises and stews because heat-stable thymol survives long cooking; add fresh thyme to vinaigrettes and marinades for rawer application. Lemon thyme in compound butter for fish (1 tbsp lemon thyme + 4 tbsp butter = finishing butter for salmon). Thyme stems are woody - run your fingers backwards down the stem to strip leaves from woody stems. Dried thyme retains flavor better than most herbs; 6:1 fresh-to-dried conversion is typical.
+**Acceptance:**
+- 1,600+ words total
+- Cultivar table with thymol/carvacrol data
+- 5-year value accumulation calculated
+- Culinary timing guidance (when to add in cooking)
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE018 — Expand sage.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/sage.md`
+**Current word count:** ~979 words
+**Target:** 1,600+ words
+**What:** Expand with multi-year perennial ROI table and culinary use section.
+**Add these sections:**
+- Multi-year perennial ROI table (Years 1-5): Year 1 from seed (~$2.99 seed, slow establishment, ~2 oz first harvest, $1.50-2.00 value); Year 2 (established, 4-5 oz harvest, $3.00-4.00 value); Year 3 (full production, 0.4-0.5 lb harvest, $4.50-6.00 value at $10-12/lb dried equivalent); Year 4-5 (begin to get woody, evaluate for replacement - but take softwood cuttings in spring to propagate new plants for free). Cumulative 5-year value from one planting: $15-22 vs $3 seed cost. Source: USDA AMS specialty herbs, UC Davis ANR publication on culinary herb economics.
+- Sage varieties comparison: Garden sage (*S. officinalis*, standard culinary, Zone 5-8), 'Berggarten' (large leaves, strong flavor, low seed set, non-flowering preference in cooking use, Zone 5), 'Purpurascens' (purple-gray leaves, decorative plus culinary, Zone 6), 'Tricolor' (variegated, less vigorous, primarily ornamental), Clary sage (*S. sclarea*, biennial, used in perfumery and some culinary applications - wine, vermouth).
+- Culinary use section: brown butter sage (fry fresh sage leaves in foaming butter until crisp, 45-60 seconds - the classic preparation for pasta and gnocchi); sage stuffing (dried or fresh, stuffing recipes that call for 1-2 tbsp dried sage = 3-6 tbsp fresh); sage and pork (traditional pairing because sage's camphorous compounds cut fat; chop finely and incorporate into sausage or meatballs at 1 tsp per lb of meat); harvest timing for different uses (harvest before flowering for maximum oil content; once flowering, the leaves are still usable but milder).
+**Acceptance:**
+- 1,600+ words total
+- Multi-year ROI table Years 1-5
+- Variety comparison section
+- Culinary technique section with brown butter method
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE019 — Expand chives.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/chives.md`
+**Current word count:** ~969 words
+**Target:** 1,600+ words
+**What:** Expand with multi-year compounding value calculation, garlic chives vs regular chives comparison table, and culinary applications.
+**Add these sections:**
+- Multi-year compounding value calculation: chives are perennial and divide every 2-3 years. Scenario: 3 plants from one $2.99 packet in Year 1 (yield ~0.2 lb fresh = $1.60-2.00 value). Year 2: same 3 plants fully established, $4-6 value. Year 3: divide each clump into 3, now 9 plants - or give divisions away. Year 5: potential 27+ plants from original $2.99 investment. Even keeping just 9 plants: $12-18/year in chive value at $8-10/lb retail (USDA AMS). Total 5-year value from $2.99: approximately $30-40 in herb value plus free division plants.
+- Garlic chives vs regular chives comparison table: *Allium schoenoprasum* (regular) vs *A. tuberosum* (garlic chives). Columns: species, leaf shape, flavor, flower color/timing, culinary use, growth habit, when to harvest. Regular: round hollow leaves, onion flavor, purple flowers June-July, snipped into eggs/potatoes/sour cream; Garlic: flat solid leaves, mild garlic flavor, white flowers August, used in stir-fries and dumplings, traditional in Chinese cooking (Korean jeon/jiuicai). Both edible, both perennial, garlic chives grow slightly larger and are more heat-tolerant.
+- Culinary applications: heat sensitivity (chives lose flavor quickly when cooked; add at the very end or as a finish, not during cooking); classic uses (baked potato, scrambled eggs, cream cheese, chive butter for steak); flower buds edible and strongly flavored than mature flowers; garlic chive specific uses (Korean jeon pancakes, Chinese dumpling filling with egg and pork, stir-fry garnish). Drying comparison: dried chives are poor - most flavor lost; freezing (chopped into trays) works better for bulk harvest.
+**Acceptance:**
+- 1,600+ words total
+- Multi-year compounding table with 5-year scenario
+- Garlic chives vs regular chives comparison table
+- Culinary section with heat sensitivity guidance
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE020 — Expand dill.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/dill.md`
+**Current word count:** ~969 words
+**Target:** 1,600+ words
+**What:** Expand with dual-harvest value table, succession sowing guide, and culinary applications.
+**Add these sections:**
+- Dual-harvest value table: fronds vs seed heads from the same planting. Fronds: harvest begins at 40-60 days, yield 0.25 lb per plant across multiple cuts, retail $4-8/lb fresh = $1.00-2.00 per plant; Seed heads (pickling): harvest at 90-110 days, 3-6 heads per plant, retail equivalent $1-2/head at farmers markets; Dried seed: 1-3 tbsp per plant, retail dried dill seed $5-8/oz at specialty stores. Total dual-use value per plant: $3-5 vs $0.04 seed cost. Source: USDA AMS specialty herb surveys.
+- Succession sowing guide: dill bolts quickly in heat and has a relatively short window for frond harvest before the plant shifts energy to seed production. To maintain a continuous frond supply from June through September, sow every 2-3 weeks. First sow: 2 weeks after last frost (seed heads arrive in August, ideal for pickle season). Second sow: 3 weeks later (fronds available July-August). Third sow: midsummer (fronds available August-September). Chart/table: sow date, frond harvest window, seed head timing, notes. Note that self-seeding plants can substitute for intentional succession in years 2+.
+- Culinary applications: dill weed (fronds) vs dill seed are chemically different and not interchangeable. Fronds with fish (salmon, trout), cucumber salad, tzatziki, new potatoes - add at the end of cooking or raw; heat destroys volatile compounds quickly. Dill seed in pickling brine (1 tsp per quart jar standard), rye bread, Scandinavian cooking. Dill heads in whole-pack pickles - the head provides the seed and the frond flavor together. Freezing fronds vs drying: frozen retains more flavor; dried is acceptable for cooked applications where some oil loss doesn't matter.
+**Acceptance:**
+- 1,600+ words total
+- Dual-harvest value table with per-plant calculation
+- Succession sowing table/guide
+- Culinary section distinguishing fronds from seed uses
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE021 — Expand parsley.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/parsley.md`
+**Current word count:** ~986 words
+**Target:** 1,600+ words
+**What:** Expand with biennial value table, flat vs curly comparison table, and culinary applications.
+**Add these sections:**
+- Biennial value table: Year 1 (spring start, slow germination, productive July-November, yield 0.4-0.5 lb, value $2.40-3.00); Year 2 (spring regrowth before bolting, additional 0.2-0.3 lb harvest in April-May before flower stalk), overwintering in Zone 6+ under light mulch; 2-year total: 0.6-0.8 lb from one $2.49 packet = $3.60-4.80 in grocery value. Comparison to basil (annual, $1.50-2.00 per plant per season); parsley's advantage is the biennial life cycle spreading cost across two years.
+- Flat vs curly comparison table: *Petroselinum crispum* var. *neapolitanum* (flat-leaf) vs *P. crispum* var. *crispum* (curly). Columns: type, flavor intensity, myristicin content, culinary applications, market value, visual use. Flat: stronger, more complex, $5-8/lb retail, used in chimichurri/gremolata/tabbouleh/cooking; Curly: milder, $3-5/lb retail, primarily garnish use. Conclusion in text: grow flat-leaf unless you specifically need garnish.
+- Culinary applications where parsley is the main ingredient (not garnish): chimichurri (1 cup flat-leaf parsley + garlic + oil + vinegar + oregano - Argentine standard with grilled meat); gremolata (flat-leaf + lemon zest + garlic, traditional with osso buco, add raw at service); tabbouleh (flat-leaf dominant, 2 cups parsley to 0.5 cup bulgur - many Americans reverse this ratio incorrectly); parsley pesto (substitute for basil pesto with fresh garlic, walnuts, pecorino). Heat behavior: parsley handles gentle heat better than most herbs - adding to a braise in the last 10 minutes retains green color and some flavor.
+**Acceptance:**
+- 1,600+ words total
+- Biennial value table (Year 1 and Year 2 harvest)
+- Flat vs curly comparison table
+- Culinary section with at least 3 specific applications
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE022 — Expand fennel.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/fennel.md`
+**Current word count:** ~949 words
+**Target:** 1,600+ words
+**What:** Expand with Florence vs bronze comparison table, triple-harvest value calculation, and succession planting guide.
+**Add these sections:**
+- Florence vs bronze fennel comparison table: *F. vulgare* var. *azoricum* (Florence/finocchio) vs *F. vulgare* 'Purpurascens' (bronze perennial). Columns: form, annual vs perennial, edible parts, zone, primary use, spacing, bolt risk. Florence: annual, bulb + frond + seed, Zone 5+ as annual, bulb vegetable, 12" spacing, high bolt risk in heat; Bronze: perennial, frond + seed only (no bulb), Zone 6-10, herb/ornamental, 18-24" spacing, low bolt risk.
+- Triple harvest value calculation: from one Florence fennel planting (10-foot row, 10 plants). Bulbs: 10 bulbs × 0.9 lb avg × $4/lb = $36. Fronds harvested while growing toward bulb: 10 plants × ~1 oz frond = ~0.6 lb × $10/lb specialty = $6. Seeds (from 2-3 bolted plants allowed to go to seed): ~2 tbsp/plant × $8/oz bulk dried = ~$2.50. Total triple-use value: ~$44.50 from $2.49 seed. Source: USDA AMS Specialty Crop Market News.
+- Spring vs fall planting comparison: spring planting (4-6 weeks before last frost for early summer harvest; high bolt risk if summer comes hot and fast; best in zone 7+ or cool-summer climates like Pacific Northwest); fall planting (direct sow in late summer, matures in shortening days and cooling temps; lower bolt pressure; best approach for zones 8+). Table: season, sow timing, harvest window, bolt risk, best regions.
+**Acceptance:**
+- 1,600+ words total
+- Florence vs bronze comparison table
+- Triple harvest value calculation with per-component math
+- Spring vs fall table
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE023 — Expand onion.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/onion.md`
+**Current word count:** ~1,183 words
+**Target:** 1,600+ words
+**What:** Expand with starting method comparison table and storage variety duration comparison.
+**Add these sections:**
+- Starting method comparison table (Sets vs Transplants vs Direct Seed): Columns: method, cost per plant, variety access, bolt risk, days to harvest, best for. Sets: $0.10-0.20/set, limited to yellow/red storage types at hardware stores, moderate bolt risk, 60-80 days after planting, home gardeners wanting easy start; Transplants (self-started): $0.03-0.05/plant (packet cost), full variety access, low bolt risk, 100-120 days from seeding, gardeners who want specialty varieties; Transplants (purchased): $0.50-1.50/plant, good variety access, low bolt risk, 60-80 days after transplant, those who want transplant convenience without seed starting lead time; Direct seed: $0.02-0.04/plant, full variety access, lowest bolt risk, 120-150 days from seeding, highest-quality bulbs.
+- Storage duration by variety type: Yellow storage (Copra, Stuttgarter): 8-10 months properly cured; Red storage (Redwing, Red Baron): 4-6 months; White storage (White Sweet Spanish): 1-4 months; Sweet types (Walla Walla, Vidalia): 1-3 months. Table: type, example varieties, storage duration, solids content (affects storage), best use. Note: solids content (measured as percentage dry weight) is the key predictor of storage life - higher solids = longer storage. Copra onion at 8-9% solids vs Walla Walla at 5-6% explains the 10-month vs 2-month storage difference (Cornell Cooperative Extension, *Onion Storage*, 2019).
+**Acceptance:**
+- 1,600+ words total
+- Starting method comparison table with bolt risk and days columns
+- Storage duration table with solids content
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE024 — Expand potato.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/potato.md`
+**Current word count:** ~1,175 words
+**Target:** 1,600+ words
+**What:** Expand with variety comparison table and specialty vs standard ROI scenario.
+**Add these sections:**
+- Variety comparison table: 5-6 rows covering Russet Burbank (90-120 days, dry/starchy, best for baking/frying, $0.80-1.20/lb retail, stores 4-6 months), Yukon Gold (70-90 days, semi-waxy/buttery, all-purpose, $1.50-2.50/lb retail, stores 2-4 months), Red Norland (65-80 days, waxy, best for boiling/salads, $1.25-1.75/lb retail, stores 2-3 months), Russian Banana Fingerling (80-100 days, firm/waxy, specialty market, $3-5/lb retail, stores 2-3 months), All Blue/Purple Viking (90-110 days, starchy-waxy hybrid, specialty/anthocyanin, $3-4/lb retail, stores 2-3 months). Columns: variety, days to maturity, flesh type, best use, retail price/lb, storage duration.
+- Specialty vs standard ROI scenario: Same 2 lb bag of seed potatoes ($5) planted in a 4x8 bed. Standard russet: 30-40 lb yield × $1.00/lb = $30-40 gross. Russian Banana fingerling: 25-30 lb yield × $4.00/lb = $100-120 gross (fingerlings yield slightly less by weight but significantly more by value). The case for specialty potatoes at home even if you don't sell: fingerlings at $4/lb are $6-8 at the farmers market for a small bag; growing them saves real money. Source: USDA AMS Specialty Crop Market News, University of Maine Cooperative Extension potato production data.
+**Acceptance:**
+- 1,600+ words total
+- Variety comparison table with 5+ varieties
+- Specialty vs standard ROI scenario with calculated numbers
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE025 — Expand asparagus.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/asparagus.md`
+**Current word count:** ~1,197 words
+**Target:** 1,600+ words
+**What:** Expand with year-by-year ROI table and variety comparison.
+**Add these sections:**
+- Year-by-year ROI table (Years 1-15): columns: year, harvest (lb), value at $4.50/lb, cumulative value, cumulative cost (Year 1: $50-80 bed prep + crowns; Year 2+: $5/year mulch and amendments), net position. Year 1: 0 lb, $0, -$65. Year 2: 0.5 lb (token harvest), $2.25, -$68. Year 3: 3-4 lb, $13.50-18, -$57 to -$52. Year 4: 5-6 lb, $22-27, -$30 to -$25. Year 5: 7-8 lb, $31-36, net positive approximately Year 4-5. Year 10: 10-12 lb/year, cumulative net $150+ positive. Year 15: cumulative net $300+ positive. Source: Rutgers NJAES asparagus research, USDA AMS 2023.
+- Variety comparison table: Jersey Knight (all-male hybrid, highest yield, Zone 4-8, Rutgers standard), Jersey Supreme (early harvest, all-male, Zone 4-8), Purple Passion (all-male hybrid, sweeter raw, turns green cooked, lower yield than Jersey series, Zone 4-8), Mary Washington (open-pollinated heirloom, widely available, male and female plants, 20-30% lower yield than all-male hybrids, Zone 3-8). Columns: variety, type (hybrid/OP), male-only?, hardiness zone, relative yield, notes.
+**Acceptance:**
+- 1,600+ words total
+- Year-by-year ROI table with break-even year identified
+- Variety table with all-male/open-pollinated distinction noted
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE026 — Expand eggplant.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/eggplant.md`
+**Current word count:** ~1,173 words
+**Target:** 1,600+ words
+**What:** Expand with Japanese vs globe yield comparison table and black plastic mulch ROI section.
+**Add these sections:**
+- Japanese vs globe eggplant comparison table: Japanese types (Ichiban, Orient Express, Millionaire): 10-15 fruits/plant × 0.5-0.75 lb = 5-11 lb/plant, sets fruit at 65°F min soil temp, slim 6-8" fruit, thin skin, no bitterness, Zone 5+, excellent for zones 5-7; Globe types (Black Beauty, Classic, Dusky): 4-6 fruits/plant × 0.5-0.75 lb = 2-4.5 lb/plant, sets fruit above 70°F consistently, round 4-6" fruit, thick skin, can be bitter if overripe, Zone 7-9 optimal. Columns: type/example variety, fruits per plant, lb per plant, min fruit-set temp, fruit size, skin type, best zone, bitterness risk.
+- Black plastic mulch ROI section: black plastic mulch ($15-25 for a 4x50 ft roll at farm supply) warms soil 5-10°F compared to bare ground (Penn State Extension). For eggplant in Zone 5-6 where soil temperature is the primary limiter: plastic mulch extends the effective growing season by 2-3 weeks at the start and extends harvest by retaining warmth in fall. Practical calculation: 4x8 bed, $8-12 in plastic (half a roll), increases eggplant yield by approximately 2-4 additional fruits per plant (2 plants × 3 additional fruits × 0.6 lb × $2.50/lb = $9-$15 additional value). Break-even: roughly year 1 even, year 2 net positive if you reuse the plastic. Compare: used without eggplant for tomatoes and peppers, same warming benefit applies.
+**Acceptance:**
+- 1,600+ words total
+- Japanese vs globe comparison table with min fruit-set temp
+- Black plastic mulch ROI section with calculation
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE027 — Expand corn.md to 1,600+ words
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/plants/corn.md`
+**Current word count:** ~1,098 words
+**Target:** 1,600+ words
+**What:** Expand with sq ft ROI comparison table, corn type comparison, and Three Sisters system section.
+**Add these sections:**
+- Sq ft ROI comparison table: corn vs other crops in a 100 sq ft plot. Corn: 100-150 ears × $0.75/ear = $75-112 in 70-90 days. Green beans: 100 sq ft × 0.5 lb/sq ft × $2.50/lb = $125 in 55-65 days. Kale (cut-and-come-again): 100 sq ft × 1.5 lb/sq ft/season × $3/lb = $450 across 4-5 months. Lettuce (succession): 100 sq ft × 4 successions × 0.5 lb/sq ft × $3.50/lb = $700 (though this requires more management). The honest version of the corn ROI case. Source: USDA AMS retail prices, University of Illinois Extension corn yield data.
+- Corn type comparison table: Standard sugary (su): classic flavor, sugars convert to starch within hours after harvest, cook same day, examples Golden Bantam; Sugar-enhanced (se): holds sweetness 1-3 days refrigerated, forgiving if you don't cook immediately, examples Kandy Korn/Bodacious; Supersweet (sh2): holds 5-7 days refrigerated, requires 300-foot isolation from other corn or timing separation to prevent starchy cross-pollination, examples Illini Xtra Sweet/Silver Queen sh2; Columns: type, sugar retention, post-harvest window, isolation required, flavor compared to standard.
+- Three Sisters system section: the traditional Haudenosaunee planting system pairs corn with pole beans and squash. The beans fix atmospheric nitrogen (Rhizobium bacteria in root nodules, 50-100 lb N/acre annually in dense legume stands); the squash canopy shades out weeds and retains soil moisture; the corn provides the bean trellis. Practical planting guide: plant corn in a 4x4 minimum block first; when corn is 6-8 inches tall, plant beans 3-4 inches from each stalk; when beans are up, plant squash to fill gaps. The Three Sisters doesn't substantially improve corn yield in a single season, but it improves the overall ROI of the space by adding bean and squash yield to the same footprint. Example: 100 sq ft Three Sisters vs 100 sq ft corn alone. Add $60-80 in bean/squash value to the corn value.
+**Acceptance:**
+- 1,600+ words total
+- Sq ft ROI comparison table (corn vs at least 2 other crops)
+- Corn type comparison table (su/se/sh2)
+- Three Sisters section with practical planting guide
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+## New Article Sprint
+
+### NA001 — Create container-garden-roi.md
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/articles/container-garden-roi.md`
+**What:** 1,800+ word article analyzing real ROI from container gardening vs in-ground, with container-specific crop recommendations and container size math.
+**Details:**
+- Lead: container gardening costs more per square foot than in-ground but the comparison is wrong; you're not comparing methods, you're comparing gardening vs not gardening in spaces where in-ground isn't possible.
+- Cost comparison table: 5-gallon container ($3-8) vs 15-gallon ($8-15) vs 25-gallon ($15-30) vs half-barrel ($25-50) vs raised bed (4x8 = $80-200). Columns: container, cost, usable soil volume (cu ft), crops appropriate for, relative yield per dollar of infrastructure.
+- Best crops for containers by container size: 5-gallon: herbs (basil, parsley, chives, thyme), lettuce, cherry tomatoes (in a 10-gallon), radishes, arugula. 10-15 gallon: cherry tomatoes (determinant types), peppers, kale, spinach. 25-gallon+: indeterminate tomatoes (barely adequate), cucumbers (with trellis), zucchini (one plant). Worked example: 6 x 5-gallon containers of herbs = $30-48 in containers + $20-30 soil = $50-78 infrastructure produces $100-150 in herbs per season.
+- Container soil economics: potting mix costs $10-20/cu ft vs garden soil $0. A 5-gallon container holds 0.67 cu ft; a 25-gallon holds 3.3 cu ft. Refresh or replace every 2-3 years. One-year cost of soil for 6 five-gallon containers: $40-80. Soil cost is the hidden multiplier that makes container ROI worse than it looks on first calculation.
+- Watering labor cost: containers dry out faster than in-ground beds, especially in summer heat. A 5-gallon container in full sun may need water every 1-2 days. Time cost at 2 minutes/container × 6 containers × 90 days = 18 hours. At even a nominal $10/hr value for your time, that's $180 in labor. Self-watering containers reduce frequency by 50-70%.
+- Where containers win: apartment balconies, patios, rental properties (moveable), intensive herb production for kitchen access, decorative kitchen gardens. The ROI is in access and convenience, not in cost efficiency vs in-ground.
+- Internal links: /crops/basil/, /crops/lettuce/, /crops/cherry-tomato/, /roi/raised-bed-break-even/
+- publishDate: 2026-04-12, category: roi, featured: false
+**Acceptance:**
+- 1,800+ words
+- Container size/cost table present
+- Container soil cost calculation included
+- Zero em dashes
+- All prices cited (USDA AMS or extension sources)
+- `npx astro build` passes with 0 errors
+
+---
+
+### NA002 — Create grow-lights-cost-analysis.md
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/articles/grow-lights-cost-analysis.md`
+**What:** 1,800+ word article on electricity and hardware costs for indoor seed starting and year-round growing under artificial light, with break-even math by crop.
+**Details:**
+- Lead: grow lights are worth it for seed starting (6-8 week window, small plants, cheap T5 fluorescent), and the math deteriorates rapidly as you scale to year-round vegetable production.
+- Light type comparison table: T5 fluorescent (legacy standard, $40-80/fixture, 50-60W per 4-ft fixture, works for seedlings and greens, 15,000-20,000 lumen output), T8 LED shop light (modern replacement, $20-40/fixture, 25-30W, similar or better output, cooler running, 10-15 year lifespan), Full-spectrum LED bar (purpose-built, $50-150/fixture, adjustable spectrum, best for fruiting crops if they can get enough intensity), HID (HPS/MH) (commercial standard, 250-1000W, high output, expensive to run, heat management required). Columns: type, cost, wattage, PPFD at 12", best use, annual electricity cost at 16 hr/day.
+- Electricity cost math: kWh cost nationally averages $0.12-0.16/kWh (EIA 2023-2024 average). A 30W LED running 16 hours/day = 0.48 kWh/day = 14.4 kWh/month = $1.73-$2.30/month per fixture. For seed starting (6 weeks): $2.60-$3.45 total electricity per fixture for the entire season. For year-round greens under 4 fixtures: 4 × $2.30/month × 12 months = $110/year in electricity.
+- Seed starting ROI (the clear case): 6 weeks × 4 trays × $0.75/tray electricity = $3 in electricity produces 100-200 transplants worth $1-6 each at nursery prices ($100-400 in transplant value). Clear positive ROI. The math that justifies a $50-100 grow light fixture.
+- Year-round lettuce production under lights (the marginal case): 2 sq ft under lights × 4 plantings/year × 0.5 lb/planting × $3.50/lb = $14/year in lettuce value. Electricity: 2 fixtures × $2.30/month × 12 months = $55/year. Fixture cost amortized over 5 years: $40/5 = $8/year. Total cost: $63/year to produce $14 in lettuce. This is the case against grow lights for year-round production except in specific situations (high-value crops, expensive market, genuinely no alternative).
+- Where grow lights make sense: seed starting (clear positive ROI), winter greens production in a climate where you'd otherwise buy $8 butter lettuce every week, microgreens (high value crop, low light requirements, dense production), herbs under kitchen counter lights for immediate access.
+- Internal links: /roi/seeds-vs-transplants/, /crops/lettuce/, /crops/basil/
+- publishDate: 2026-04-12, category: roi, featured: false
+**Acceptance:**
+- 1,800+ words
+- Light type comparison table with wattage and annual electricity cost
+- Electricity cost math shown step by step (kWh calculation)
+- Seed starting ROI calculation vs year-round ROI calculation
+- Zero em dashes
+- EIA cited for electricity prices
+- `npx astro build` passes with 0 errors
+
+---
+
+### NA003 — Create fall-garden-planning.md
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/articles/fall-garden-planning.md`
+**What:** 1,800+ word guide to planning and planting the fall garden, with zone-specific timing table, crop selection, and succession from summer to fall.
+**Details:**
+- Lead: the fall garden is more productive per hour invested than the spring garden in most climates because you're working with a fixed deadline (first frost) and a selection of crops that genuinely prefer cool temperatures.
+- Why fall beats spring for cool-season crops: soil is warm from summer (speeds germination vs cold spring soil), pest pressure drops as summer insects die back, Brassica flavor improves after frost (cold converts starches to sugars; broccoli, kale, Brussels sprouts, cabbage all improve in flavor), harvests don't need to be rushed before bolting because temperatures are falling not rising.
+- Zone-by-zone timing table: count back from average first frost date. Columns: zone, avg first frost, plant brassica starts indoors (weeks before frost), direct sow brassicas, direct sow root veg (beets, carrots, turnips, radishes), direct sow spinach/arugula, notes. Zone 5: first frost Oct 1-15, plant starts July 15-Aug 1, direct sow brassicas Aug 1-15, root veg Aug 1-20, greens Aug 15-Sep 1. Zone 6: first frost Oct 15-31, similar timing shifted 2 weeks later. Zone 7: Nov 1-15, can push timing another 2-3 weeks. Use Cornell Cooperative Extension and University of Minnesota Extension frost date data.
+- The critical window: most fall crops need 8-10 weeks from transplant or 10-14 weeks from direct seed to reach harvest size before hard frost. This means planning in June or July - most gardeners miss it because they're focused on summer harvest.
+- Crop ROI by fall timing: kale (starts July, harvests September through December and beyond, high value cold crop at $3/lb); spinach (direct sow August, harvest September-November, can overwinter for spring flush); radishes (direct sow September, harvest in 25-30 days, the fastest ROI in the fall garden); beets (direct sow July-August, harvest September-October, roots and greens both valuable).
+- Succession from summer: after pulling summer crops (tomatoes, cucumbers, beans), options for the same space: quick-turn greens (arugula, mizuna, radishes all harvestable in 25-35 days), garlic planting (October in most zones, harvested the following summer), winter rye cover crop (improves soil, manages erosion, killed by spring cultivation).
+- Internal links: /crops/kale/, /crops/spinach/, /crops/beet/, /crops/arugula/, /zone/ pages
+- publishDate: 2026-04-12, category: planning, featured: false
+**Acceptance:**
+- 1,800+ words
+- Zone-by-zone timing table present
+- Frost-improvement of brassica flavor explained with mechanism (starch-to-sugar conversion)
+- Succession planting from summer addressed
+- Zero em dashes
+- Zone frost date data cited (Cornell Cooperative Extension or equivalent)
+- `npx astro build` passes with 0 errors
+
+---
+
+### NA004 — Create crop-rotation-guide.md
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/articles/crop-rotation-guide.md`
+**What:** 1,800+ word practical crop rotation guide with 4-year rotation plan, disease prevention rationale, and nitrogen fixation math.
+**Details:**
+- Lead: crop rotation is the closest thing to a free lunch in vegetable gardening. Moving plant families around your beds costs nothing and prevents diseases that would cost you entire plantings.
+- Why it works: soilborne pathogens (Fusarium oxysporum, Verticillium dahliae, Phytophthora infestans, club root *Plasmodiophora brassicae*) are host-specific. Rotating away from susceptible host plants for 2-4 years reduces pathogen population density in the soil below threshold for significant disease. Cornell Plant Disease Diagnostic Clinic research shows 3-year rotation reduces Fusarium wilt incidence 60-80% in susceptible crops.
+- The four plant families to rotate: Solanaceae (tomatoes, peppers, eggplant, potatoes - share Late Blight, Verticillium wilt); Brassicaceae (cabbage, broccoli, kale, arugula, radishes - share club root, black rot, downy mildew); Fabaceae (beans, peas - fix nitrogen, leave residual N for following crop); Cucurbitaceae (cucumbers, squash, melons - share Powdery Mildew, Cucumber Mosaic Virus). A 4-bed, 4-year rotation keeps each family cycling through.
+- 4-year rotation table: 4 beds × 4 years. Year 1 Bed A: Solanaceae; Year 2: Cucurbitaceae; Year 3: Brassicaceae; Year 4: Fabaceae. Each bed's 4-year cycle. This is the standard extension service recommendation; cite Penn State Extension *Vegetable Crop Rotation*, Purdue Extension *Rotating Vegetable Crops*.
+- Nitrogen fixation math: legumes (beans, peas) fix 40-200 lb of nitrogen per acre per season depending on conditions (USDA ARS, *Biological Nitrogen Fixation*). For a 4x8 bed (32 sq ft = 1/1360 acre): legume planting fixes roughly 0.03-0.15 lb N. At $1.50/lb for granular nitrogen fertilizer (urea), the nitrogen value of one season's bean planting in a small bed is $0.04-0.23 - small in dollar terms, but real. More meaningful at scale: a 100 sq ft bean planting fixes 0.1-0.4 lb N = $0.15-0.60 in fertilizer value saved.
+- What rotation doesn't help: garlic allium white rot (*Sclerotium cepivorum*) survives in soil 20+ years; rotation is ineffective. Club root spores survive 20+ years. For these diseases, sanitation (removing infected plant material, sterilizing tools) and resistance is more effective than rotation.
+- Internal links: /crops/tomato/, /crops/potato/, /crops/kale/, /crops/green-bean/, /crops/cucumber/
+- publishDate: 2026-04-12, category: care, featured: false
+**Acceptance:**
+- 1,800+ words
+- 4-year rotation table (4 beds × 4 years)
+- Disease prevention mechanism explained (host-specific pathogens)
+- Nitrogen fixation math included with USDA ARS citation
+- Diseases where rotation doesn't help addressed
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### NA005 — Create small-space-vegetable-garden.md
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/articles/small-space-vegetable-garden.md`
+**What:** 1,800+ word guide to maximizing production in small spaces (under 100 sq ft), with value-per-sq-ft table, vertical growing guide, and intensive spacing guide.
+**Details:**
+- Lead: the question isn't how much space you have - it's whether you're using it for crops that earn their square footage. Corn doesn't. Herbs absolutely do.
+- Value per square foot per season table (the core data asset): 10-12 crops ranked by dollar value per square foot per season. Basil: $10-20/sq ft (intensive planting, successive harvests, $20/lb retail at farmers market); Arugula (cut-and-come-again): $8-15/sq ft; Lettuce (succession): $6-12/sq ft; Cherry tomato (indeterminate, trellised): $5-10/sq ft; Kale: $4-8/sq ft; Green bean (pole): $3-5/sq ft; Zucchini: $2-4/sq ft; Cucumber (trellised): $2-4/sq ft; Potato: $1-2/sq ft; Corn: $0.75-1.00/sq ft. Source: calculate from USDA AMS retail prices × typical yield per sq ft from extension publication data (University of California, *Vegetables in Small Gardens*, UC ANR Publication 8005).
+- Vertical growing: crops that can be trellised to grow up rather than out. Indeterminate tomatoes (need 2 sq ft footprint, can grow 6+ feet tall, produces heavily). Pole beans vs bush beans: pole beans yield over 3× longer season from same footprint. Cucumbers: 1 plant needs 2 sq ft in-ground, produces 10-20 cucumbers with trellis. Winter squash trained vertically with slings for heavy fruits. Suggested trellis structures with cost: 6-foot cattle panel ($25-35) arched or flat; T-posts + wire ($15-25 per 8-foot section); DIY bamboo teepee for beans ($5-8 in materials).
+- Intensive spacing (Square Foot Gardening basis, citing Mel Bartholomew's research): traditional row spacing leaves 50-60% of space in aisles. Intensive spacing removes aisles within the bed. Standard spacing table: tomato 1 per sq ft (with pruning), basil 4 per sq ft, lettuce 4 per sq ft, kale 1 per sq ft, green beans 9 per sq ft, radishes 16 per sq ft, carrots 16 per sq ft. Compare to traditional row recommendations.
+- Succession planting for continuous harvest from 20 sq ft: 4x5 bed managed with successions. Month-by-month planting plan from April through September. Shows how the same 20 sq ft can produce 3-4 rounds of quick crops (lettuce, arugula, radishes) plus one season of longer crops (cherry tomato, kale) if planned well.
+- Internal links: /crops/basil/, /crops/lettuce/, /crops/arugula/, /crops/cherry-tomato/, /crops/kale/, /compare/ pages
+- publishDate: 2026-04-12, category: planning, featured: false
+**Acceptance:**
+- 1,800+ words
+- Value per sq ft table with 10+ crops
+- Vertical growing section with trellis cost data
+- Intensive spacing table comparing traditional vs sq ft spacing
+- Zero em dashes
+- Source cited for yield-per-sq-ft data (UC ANR or equivalent extension)
+- `npx astro build` passes with 0 errors
 
 ---
 

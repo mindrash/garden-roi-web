@@ -65,4 +65,4 @@ For storage: refrigerate unwashed beans in an unsealed bag for up to a week. For
 
 **Related crops:** [Cucumber](/crops/cucumber/), [Lettuce](/crops/lettuce/)
 
-**Related reading:** [Beginner Homestead Crops](/homestead/beginner-homestead-crops/)  -  which vegetables make sense for first-season gardens and why
+**Related reading:** [Beginner Homestead Crops](/homestead/beginner-homestead-crops/)  -  which vegetables make sense for first-season gardens and why; [Freezer Math: Garden ROI](/homestead/freezer-math-garden-roi/)  -  the economics of blanching and freezing a green bean surplus

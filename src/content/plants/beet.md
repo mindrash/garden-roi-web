@@ -112,4 +112,4 @@ For pickling - which is how most home gardeners preserve large harvests - beets'
 
 **Related crops:** [Kale](/crops/kale/), [Arugula](/crops/arugula/)
 
-**Related reading:** [Succession Planting Calendar](/guides/succession-planting-calendar/)  -  how to time spring and fall beet plantings to avoid heat and cold stress
+**Related reading:** [Succession Planting Calendar](/guides/succession-planting-calendar/)  -  how to time spring and fall beet plantings to avoid heat and cold stress; [Root Cellaring for the Modern Home](/homestead/root-cellaring-modern-home/)  -  how beets store over winter in a cold cellar or refrigerator

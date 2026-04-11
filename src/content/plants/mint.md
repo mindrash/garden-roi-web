@@ -65,4 +65,4 @@ Freezing is an option for bulk harvests. Blanch stems briefly, pat dry, freeze o
 
 **Related crops:** [Basil](/crops/basil/), [Tomato](/crops/tomato/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings, including mint's claimed pest-deterrent effects
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings, including mint's claimed pest-deterrent effects; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  why fresh herbs show the largest premium between home-grown and retail organic prices

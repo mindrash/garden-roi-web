@@ -67,4 +67,4 @@ You can let late-season plants flower. The flowers are edible and mildly peppery
 
 **Related crops:** [Lettuce](/crops/lettuce/), [Kale](/crops/kale/)
 
-**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  timing cool-season crops by zone so arugula has the right weather window to produce
+**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  timing cool-season crops by zone so arugula has the right weather window to produce; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  why pre-washed arugula carries a premium that home-grown replaces at near-zero marginal cost

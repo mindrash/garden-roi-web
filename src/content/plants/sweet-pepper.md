@@ -71,4 +71,4 @@ Once picked, refrigerate peppers in a plastic bag and use within 1–2 weeks. Gr
 
 **Related crops:** [Tomato](/crops/tomato/), [Hot Pepper](/crops/hot-pepper/)
 
-**Related reading:** [Seeds vs. Transplants](/roi/seeds-vs-transplants/)  -  why peppers are one of the clearest cases where starting indoors (or buying transplants) makes economic sense over direct seeding
+**Related reading:** [Seeds vs. Transplants](/roi/seeds-vs-transplants/)  -  why peppers are one of the clearest cases where starting indoors (or buying transplants) makes economic sense over direct seeding; [The Financial Case for Canning](/homestead/canning-financial-case/)  -  canning roasted peppers to capture a late-season surplus

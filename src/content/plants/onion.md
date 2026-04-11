@@ -27,6 +27,15 @@ Three methods, meaningfully different economics:
 
 **Direct seeding** produces the best plant vigor and the widest variety selection, but requires thinning and produces bulbs 10–20 days later than transplants. It's the right approach if you're growing specialty varieties like 'Walla Walla Sweet,' 'Ailsa Craig,' or 'Red Cipollini' for market.
 
+| Starting method | Cost per plant | Variety access | Bolt risk | Days to harvest | Best for |
+|---|---|---|---|---|---|
+| Sets | $0.10-0.20/set | Limited (mostly yellow/red storage) | Moderate-high | 60-80 days after planting | Easiest start; hardware store convenience |
+| Transplants (self-started) | $0.03-0.05 | Full variety access | Low | 100-120 days from seeding | Best quality + variety choice if you have indoor space |
+| Transplants (purchased) | $0.50-1.50 | Good access at specialty nurseries | Low | 60-80 days after transplant | Convenience + quality without indoor seed starting |
+| Direct seed | $0.02-0.04 | Full variety access | Lowest | 120-150 days from seeding | Highest vigor; best for specialty/market varieties |
+
+Sets have the highest bolt risk because small bulbs that have been stressed (dried down, stored, shipped) can trigger premature flowering before forming a full-size bulb. If you have onions that send up flower stalks early in summer, sets are usually the culprit, combined with any additional stress from cold weather or dry spells after planting. Transplants from seed avoid this because the plants haven't experienced the drying-down-and-storage stress cycle.
+
 ## Day-length: this is not optional to understand
 
 Onion bulbing is triggered by day length, not temperature. This is the most common cause of onion failure in home gardens and it's worth getting straight before you plant anything.
@@ -75,8 +84,21 @@ Cure for 2–4 weeks in a single layer in a warm (75–80°F), dry, well-ventila
 
 Store cured bulbs in mesh bags, crates, or old pantyhose at 32–40°F in low humidity. Don't store near apples or pears - ethylene from those fruits accelerates onion deterioration. Yellow storage types keep 6–8 months under good conditions. Sweet varieties (lower solids, higher water content) keep only 1–3 months - eat those first.
 
+**Storage duration by variety type:**
+
+| Type | Example varieties | Solids content | Storage duration | Notes |
+|---|---|---|---|---|
+| Yellow storage | Copra, Stuttgarter, Cortland | 8-9% dry weight | 8-10 months | Best long-term storage; the workhorse type |
+| Red storage | Redwing, Red Baron, Mars | 7-8% | 4-6 months | Good flavor; shorter storage than yellow |
+| White storage | White Sweet Spanish, Southport White | 7-8% | 2-4 months | Popular in Southwest cooking; moderate storage |
+| Sweet/soft | Walla Walla, Vidalia-type, Candy | 5-6% | 1-3 months | Eat first; high water content limits storage |
+
+The solids content (percentage dry weight) is the primary predictor of storage duration. Higher solids = less water = less available substrate for rot pathogens and less cellular breakdown during storage. Copra onion at 8-9% solids keeps nearly a year; Walla Walla at 5-6% starts deteriorating in weeks. If long-term pantry storage is the goal, grow a high-solids yellow storage type. If you want sweet onions for fresh use, grow those too but plan to use them through September (Cornell Cooperative Extension, *Onion Storage*, 2019).
+
+The implication for garden planning: you can grow both types. Start yellow storage onions from transplants in early spring for maximum bulb size and full-season curing time. Grow sweet onions from sets for earlier harvest and immediate summer use. The two types don't compete - they serve different kitchen purposes across different parts of the year.
+
 ---
 
 **Related crops:** [Tomato](/crops/tomato/), [Garlic](/crops/garlic/)
 
-**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  how storage crops like onions change the annual ROI calculation
+**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  how storage crops like onions change the annual ROI calculation; [Root Cellaring for the Modern Home](/homestead/root-cellaring-modern-home/)  -  how cured onions store through winter and what that does to the seasonal harvest analysis

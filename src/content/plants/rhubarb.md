@@ -138,4 +138,4 @@ Only the stalks are edible. Cut leaves off immediately after harvest and compost
 
 **Related crops:** [Strawberry](/crops/strawberry/), [Garlic](/crops/garlic/)
 
-**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  how to calculate the full lifecycle return on a perennial planting
+**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  how to calculate the full lifecycle return on a perennial planting; [Perennial vs. Annual ROI](/roi/perennial-vs-annual-roi/)  -  how rhubarb fits into the perennial economy as a zero-input crop after establishment

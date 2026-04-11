@@ -29,6 +29,15 @@ Most people who grow eggplant grow Black Beauty, get four to six fruits per plan
 
 The practical advice: if you're in zones 5-7, grow Japanese. If you're in zone 8 and south, globe types perform better, though Japanese still edges them on fruit count.
 
+| Type/Variety | Fruits per plant | lb per plant | Min fruit-set temp (soil) | Fruit size | Skin type | Best zone | Bitterness risk |
+|---|---|---|---|---|---|---|---|
+| Japanese (Ichiban, Orient Express) | 10-15 | 5-11 lb | 60°F | 6-8", slim | Thin | Zone 5-9 | Very low |
+| Chinese (Orient Charm, Ping Tung Long) | 10-14 | 5-10 lb | 60-65°F | 8-12", slim | Thin | Zone 5-9 | Very low |
+| Italian globe (Black Beauty, Classic) | 4-6 | 2-4.5 lb | 70°F consistent | 4-6" diameter, round | Thick | Zone 7-9 | Moderate if overripe |
+| Indian/Thai types | 8-15 | 2-4 lb | 65°F | 1-3", round or oblong | Thin | Zone 7-9 | Low (different cooking style) |
+
+The minimum fruit-set temperature explains the zone disparity. Globe eggplant requires sustained soil temperatures above 70°F to set fruit reliably - in Zones 5-6, those conditions may only exist for 6-8 weeks of summer, limiting fruit set to a narrow window. Japanese and Chinese types set fruit at 60°F soil temperature, which arrives 2-3 weeks earlier in spring and persists 2-3 weeks later in fall. The season extension is not trivial: in Zone 6, that's potentially 4-6 additional weeks of productive fruit set. University of Kentucky Cooperative Extension variety trials documented this difference across multiple seasons in Lexington, KY (UKREC Research Report, *Specialty Eggplant Varieties*, 2019-2021).
+
 ## The ROI case
 
 USDA AMS terminal market reports show eggplant trading at $2-3/lb at wholesale, with retail running higher at specialty and farmers market outlets (USDA Agricultural Marketing Service, *Specialty Crops Market News*, 2023-2024 averages). A seed packet of Ichiban runs around $3.50 and contains 25-30 seeds. At $3.50 for the packet and 10-15 fruits per plant averaging 0.5-0.75 lb each, a single Japanese eggplant plant produces 5-11 lbs per season. At $2.50/lb retail, that's $12-28 in yield per plant.
@@ -42,6 +51,18 @@ The ROI argument for eggplant is not "eggplant is a great value crop." It's "gro
 Eggplant wants heat. Not warm - heat. It shares the nightshade family (*Solanaceae*) with tomatoes and peppers, but it's more heat-demanding than either. The critical number is soil temperature: don't transplant until the soil is consistently above 65°F. Transplanting into cold soil causes stunting that the plant doesn't recover from, even if air temperatures warm up later. You'll watch the plant sit there while your tomatoes take off.
 
 In northern zones (5-6), black plastic mulch is worth using for eggplant and peppers specifically. It warms the soil 5-10°F compared to bare ground and bare organic mulch, which can actually slow warming by shading the soil surface. Lay the plastic before transplanting, cut holes for plants, and you're transplanting into warmer soil from day one (Penn State Extension, *Eggplant Production*, 2021).
+
+**Black plastic mulch ROI for eggplant in Zone 5-6:**
+
+A 4x50 ft roll of black plastic mulch costs $15-25 at farm supply stores. For a 4x8 raised bed, you need roughly one-sixth of the roll, representing $2.50-4.00 in material per bed per season if used once, or amortized lower if the plastic is reused (typical useful life is 2-3 seasons). The soil-warming benefit in Zone 5-6:
+
+- Transplant date moves 1-2 weeks earlier (soil hits 65°F sooner under plastic)
+- Fall harvest extends 1-2 weeks later (soil stays warmer longer)
+- Total additional productive season: potentially 3-4 weeks
+
+For Japanese eggplant at 10-15 fruits per plant, even a partial additional week of fruit set is meaningful. Conservative estimate: 2 plants × 2 additional fruits from extended season × 0.6 lb × $2.50/lb = $6 in additional value. Against a $3-4 material cost per bed, the plastic pays off in year one. In year two, if the plastic survives intact, it's essentially free additional yield. The same plastic can be used for peppers simultaneously, which spreads the material cost further.
+
+In Zone 7 and south, black plastic mulch for eggplant is less beneficial - soil warming isn't the limiting factor. In those climates, organic mulch (straw, wood chips) applied after the soil warms serves the more important purpose of conserving moisture during summer heat.
 
 Start seeds indoors 8-10 weeks before your last frost date. That's earlier than tomatoes (6-8 weeks) and the same timeline as peppers. The long indoor lead is because eggplant is a slow germinator and slow establisher - you want a sturdy transplant with a well-developed root system, not a leggy seedling. Germination needs soil temperatures of 75-85°F; use a heat mat. Without one, germination is slow and uneven.
 

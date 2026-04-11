@@ -23,7 +23,19 @@ Chives (*Allium schoenoprasum*) are the lowest-maintenance perennial herb most g
 
 **Garlic chives** (*A. tuberosum*) are a closely related species with flat leaves, white flowers, and a mild garlic flavor. They're a different plant from regular chives - heavier flavor, different growth habit, and more cold-tolerant. If you want the classic mild onion flavor, grow *A. schoenoprasum*. If you want garlic flavor in a thin leaf form, *A. tuberosum* is its own useful crop.
 
-The purple globe-shaped flowers that bloom in late spring are edible and mild-flavored - useful as a garnish and genuinely attractive. Deadhead spent flowers if you don't want the plant to self-sow aggressively, or let a few go and get volunteers.
+| Feature | Regular chives (*A. schoenoprasum*) | Garlic chives (*A. tuberosum*) |
+|---|---|---|
+| Leaf shape | Round, hollow | Flat, solid |
+| Flavor | Mild onion | Mild garlic |
+| Flower color/timing | Purple, late spring (May-June) | White, late summer (August-September) |
+| Culinary use | Eggs, baked potato, cream cheese, sour cream, garnish | Stir-fry, dumplings, Korean jeon pancakes, Chinese jiuicai dishes |
+| Cold hardiness | Zone 3 | Zone 3-4 |
+| Self-seeding | Moderate | Aggressive - deadhead before seeds set unless you want a lot of plants |
+| Height | 10-15 inches | 12-18 inches |
+
+Both species are perennial, both produce edible flowers, and both divide for free propagation. Regular chives are the right choice for Western culinary use (garnish, compound butter, dairy applications). Garlic chives are specifically what you want for East Asian cooking where the flat garlic-chive is an ingredient, not a garnish.
+
+The purple globe-shaped flowers of regular chives that bloom in late spring are edible and mild-flavored - useful as a garnish and genuinely attractive. Deadhead spent flowers if you don't want the plant to self-sow aggressively, or let a few go and get volunteers.
 
 ## The ROI case
 
@@ -32,6 +44,18 @@ Fresh chives at retail run $2.00-$4.00 per small bunch, typically 0.5-1 oz - rou
 The compounding is the argument. A well-managed clump produces for 5-10 years with a single division every few years. The propagation is free - you're splitting an existing root ball, not buying seeds or transplants. If you maintain three clumps (easily done from one original purchase), your seasonal production triples for zero additional cost.
 
 Chive blossoms at farmers markets sell for $0.50-$1.00 per stem in spring, and specialty food buyers will pay premium for edible flowers. If you're selling at market, the flowers are worth more per stem than the leaves are per pound.
+
+The 5-year compounding scenario - starting with 3 plants from one $2.49 packet:
+
+| Year | Plants | Fresh harvest (0.08 lb/plant) | Value at $8/lb | Free divisions from this year | Cumulative value |
+|---|---|---|---|---|---|
+| Year 1 | 3 | 0.24 lb | ~$1.92 | 0 (establishing) | $1.92 |
+| Year 2 | 3 | 0.50 lb total | ~$4.00 | 3 (first division ready) | $5.92 |
+| Year 3 | 3-6 | 0.75-1.0 lb total | ~$6.00-8.00 | 3-6 more if desired | ~$12-14 |
+| Year 4 | 3-6 | ~1.0 lb | ~$8.00 | maintain or divide again | ~$20-22 |
+| Year 5 | 3-6 | ~1.0 lb | ~$8.00 | maintain or divide again | ~$28-30 |
+
+Cumulative 5-year value from $2.49: approximately $28-30, not counting the edible flowers. This assumes keeping 3-6 clumps and maintaining them with regular harvest and periodic division. The divisions given away are free plants to neighbors or for planting elsewhere - those represent additional value not captured in the table.
 
 ## Growing requirements
 
@@ -61,8 +85,20 @@ For edible flowers, harvest just as the blooms open fully. Use immediately; flow
 
 Fresh chives don't store well. They'll keep wrapped in a damp paper towel in the refrigerator for 5-7 days. For longer storage, chop and freeze in ice cube trays with water or butter. Dried chives lose most of their flavor - freezing is the only worthwhile preservation method.
 
+## Culinary applications
+
+The most important thing to know about cooking with chives is that they don't tolerate heat. Cook them and you get a limp, sulfur-flavored mess with none of the fresh onion character that makes them worth growing. They go in at the end or not at all.
+
+**Heat sensitivity:** add chives as a finish. To scrambled eggs - off heat, just before plating. To baked potatoes - on top of the sour cream, not baked into anything. To compound butter - mixed in raw. To soups - floated on top at the bowl. The volatile sulfide compounds that give chives their flavor volatilize rapidly above 140°F.
+
+**Classic applications for regular chives:** the snipped fresh garnish on a baked potato is the obvious one, but the more useful applications are in dairy: chive cream cheese (4 oz cream cheese + 2 tbsp snipped chives + salt), chive sour cream for tacos or pierogies, chive butter for steak or corn (4 tbsp softened butter + 1 tbsp snipped chives + salt). Chive vinaigrette: replace the shallot in a standard French dressing with a tablespoon of snipped chives - milder and better with delicate greens.
+
+**Garlic chive applications:** Korean pajeon (scallion pancake) can substitute garlic chives for a slightly different flavor. Chinese dumpling filling: garlic chives + egg + shiitake mushroom is a classic vegetarian dumpling filling. Stir-fry garnish: add a handful of cut garlic chives in the last 30 seconds of any stir-fry. They wilt slightly and retain flavor at stir-fry temperatures if the exposure is brief.
+
+**Edible flowers:** the purple chive blossoms are mildly onion-flavored and hold their shape as a garnish. Pull individual florets from the globe and scatter over salads, eggs, cold soups, or compound butters. The full globe can be floated in a clear soup as a visual element. Flavor is milder than the leaves and fades quickly after picking.
+
 ---
 
 **Related crops:** [Garlic](/crops/garlic/), [Tomato](/crops/tomato/)
 
-**Related reading:** [Beginner Homestead Crops](/homestead/beginner-homestead-crops/)  -  which perennial herbs offer the best long-term return for first-time growers
+**Related reading:** [Beginner Homestead Crops](/homestead/beginner-homestead-crops/)  -  which perennial herbs offer the best long-term return for first-time growers; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  why fresh herbs sit in the highest-premium tier between home-grown and retail organic prices

@@ -81,4 +81,4 @@ Carrots store well. Twist or cut off the tops (leaves left on pull moisture from
 
 **Related crops:** [Lettuce](/crops/lettuce/), [Tomato](/crops/tomato/)
 
-**Related reading:** [Succession Planting Calendar](/guides/succession-planting-calendar/)  -  timing cool-season crops by frost date
+**Related reading:** [Succession Planting Calendar](/guides/succession-planting-calendar/)  -  timing cool-season crops by frost date; [Root Cellaring for the Modern Home](/homestead/root-cellaring-modern-home/)  -  how cool storage extends a carrot harvest through winter

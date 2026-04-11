@@ -27,11 +27,46 @@ There are two distinct plants you might encounter under the name fennel, and the
 
 Both produce allelopathic chemicals - primarily *trans*-anethole and fenchone - that inhibit germination and root growth of many other plants when exuded from roots and decomposing leaf tissue (Petrova et al., *Industrial Crops and Products*, 2016). Keep fennel away from tomatoes, beans, peppers, and most brassicas. Dill is particularly susceptible. Plant fennel at the edge of your garden or in a dedicated bed.
 
+| Feature | Florence fennel (*F. vulgare* var. *azoricum*) | Bronze fennel (*F. vulgare* 'Purpurascens') |
+|---|---|---|
+| Growth form | Annual | Perennial |
+| Edible parts | Bulb, stalks, fronds, seeds | Fronds, seeds (no bulb) |
+| Primary use | Bulb vegetable: raw, braised, roasted | Herb/ornamental; seeds for cooking |
+| Hardiness | Annual anywhere; grow from seed each year | Zone 6-10 perennial |
+| Height at maturity | 18-24 inches before bulbing | 4-6 feet |
+| Bolt risk | High (heat and day-length sensitive) | Low (doesn't need to be managed for bolting) |
+| Spacing | 12 inches | 18-24 inches |
+| Allelopathic | Yes | Yes |
+
+The practical takeaway: if you want fennel bulb, grow Florence fennel as an annual. If you want a permanent perennial for fronds and seeds, bronze fennel is the better plant - it's more ornamental, easier to manage, and doesn't require the bolt-prevention attention that Florence needs.
+
 ## The ROI case
 
 A $2.49 packet of Florence fennel produces 50–75 plants. Thin to one plant every 12 inches; a 10-foot row yields 10 bulbs. Bulbs average 0.75–1.5 lb each at grocery retail (USDA AMS); a $2.49 investment produces 7.5–15 lb in bulbs at $4/lb retail value: $30–$60.
 
 The fronds add to that. Fennel fronds are sold in specialty stores for $1–$2 per bunch. There is no additional planting cost - you harvest fronds from the same plants growing toward bulb formation. The seeds from bronze or bolted Florence fennel have culinary and medicinal use; dried fennel seed runs $10–$20/oz at specialty retailers.
+
+**Triple harvest value from a 10-foot row of Florence fennel (10 plants):**
+
+| Harvest | Yield | Value | Notes |
+|---|---|---|---|
+| Bulbs | 10 bulbs × ~0.9 lb avg = 9 lb | $36 ($4/lb retail) | USDA AMS Specialty Crop Market News, 2023 |
+| Fronds | ~0.6 lb total (trimmings while growing) | $6 ($10/lb specialty) | Sold in 1-2 oz bundles at $1-2 each |
+| Seeds (from 2-3 bolted plants) | ~2 tbsp per bolting plant = ~6 tbsp | $2.50 (dried seed $8-15/oz) | Allow 2-3 plants to bolt for seed harvest |
+| **Total** | | **~$44.50** | From one $2.49 seed packet |
+
+The seeds-from-bolted-plants strategy depends on intentionally not harvesting 2-3 plants at the bulb stage - let them bolt and run to seed instead. You lose the bulb value on those plants but gain dried fennel seed, which has real culinary and commercial value. Whether that trade-off makes sense depends on whether you actually use fennel seed in cooking.
+
+## Spring vs fall planting
+
+Florence fennel can be grown as both a spring and fall crop, and the fall planting is more reliable in most climates. The distinction matters because bolting is the primary management challenge.
+
+| Season | Sow timing | Harvest window | Bolt pressure | Best regions |
+|---|---|---|---|---|
+| Spring | 4-6 weeks before last frost | Early summer (May-June) | High - summer heat arrives just as bulbs are sizing | Pacific Northwest, cool-summer climates, Zone 7+ with mild springs |
+| Fall | 10-12 weeks before first frost | Late summer/early fall (September-October) | Low - shortening days and cooling temps reduce bolt trigger | Most of the US; Zone 5-9; especially reliable in humid climates |
+
+For Zone 6-7, direct sow the fall crop in late July through early August. Transplanting, even from pots, increases bolt risk due to root disturbance. The fall crop matures in September and October when temperatures are dropping - exactly the conditions Florence fennel needs. If your spring crop keeps bolting before the bulbs size up, switch to fall-only planting.
 
 ## Growing requirements
 
@@ -66,6 +101,16 @@ Harvest Florence fennel bulbs when they reach 3–4 inches in diameter. Don't wa
 Fennel bulbs keep refrigerated for 1–2 weeks. The fronds wilt faster - use within a few days or store in water like cut flowers.
 
 For seed harvest from bronze fennel or bolted Florence fennel: allow seed heads to dry on the plant, then cut and hang upside down over a tray to catch seeds. Dried seeds store sealed for 2–3 years.
+
+## Culinary applications
+
+The three harvest components have completely separate kitchen applications.
+
+**Fennel bulb:** the inner layers are tender and sweet with pronounced anise flavor when raw. Slice thin on a mandoline for raw fennel salad with orange, arugula, and shaved Parmesan. For cooked applications, the flavor mellows significantly: braised in olive oil and white wine for 30-40 minutes until very tender (the standard accompaniment to fish in Italian cooking), or halved and roasted at 400°F until caramelized. Cooking converts the sharp anise edge to a gentle sweetness. The flavor of cooked fennel is mild enough that people who claim to dislike fennel often eat it without knowing what they're eating.
+
+**Fennel fronds:** use as you would fresh dill - their flavor is similar but lighter and more anise-forward. Scattered over a salmon fillet before roasting, mixed into grain salads, or used in compound butter for fish.
+
+**Fennel seed (dried):** essential in Italian sausage seasoning (1 tsp whole seed per lb of pork), in fennel pollen (the collected dried pollen, expensive at specialty retailers, which you can harvest from your own plants), and in spice blends for fish. Toast seeds in a dry pan for 60 seconds before using to release more volatile oil.
 
 ---
 

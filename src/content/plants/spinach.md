@@ -93,4 +93,4 @@ Garlic planted nearby repels aphids and some fungal spores through sulfur compou
 
 **Related crops:** [Lettuce](/crops/lettuce/), [Arugula](/crops/arugula/)
 
-**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  timing cool-season crops by frost date so your spinach goes in early enough to produce before the heat arrives
+**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  timing cool-season crops by frost date so your spinach goes in early enough to produce before the heat arrives; [Grocery Tier ROI](/roi/grocery-tier-roi/)  -  how baby spinach ranks among the highest-margin crops home gardens can replace at retail

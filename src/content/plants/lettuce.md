@@ -71,4 +71,4 @@ Lettuce deteriorates fast after cutting. Refrigerate unwashed in an airtight bag
 
 **Related crops:** [Strawberry](/crops/strawberry/), [Green Bean](/crops/green-bean/)
 
-**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  timing your cool-season crops around frost dates and soil temperature
+**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  timing your cool-season crops around frost dates and soil temperature; [Grocery Tier ROI](/roi/grocery-tier-roi/)  -  how salad greens rank in the retail organic price tiers most replaced by home growing

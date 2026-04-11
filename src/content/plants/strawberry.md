@@ -73,4 +73,4 @@ For longer storage, freeze whole or sliced on a baking sheet until firm, then tr
 
 **Related crops:** [Lettuce](/crops/lettuce/), [Mint](/crops/mint/)
 
-**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/)  -  how to calculate whether a perennial crop like strawberries pays off over its full productive life
+**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/)  -  how to calculate whether a perennial crop like strawberries pays off over its full productive life; [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  the multi-year ROI math for established perennial fruit plantings

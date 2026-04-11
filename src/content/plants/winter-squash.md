@@ -75,4 +75,4 @@ Cut the stem with pruners, leaving 1 to 2 inches of stem attached. A broken-off 
 
 **Related crops:** [Green Bean](/crops/green-bean/), [Cucumber](/crops/cucumber/)
 
-**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/) - how to factor in long-storage crops when calculating your garden's annual return
+**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/) - how to factor in long-storage crops when calculating your garden's annual return; [Root Cellaring for the Modern Home](/homestead/root-cellaring-modern-home/)  -  how winter squash stored properly provides 3-5 months of shelf-stable produce

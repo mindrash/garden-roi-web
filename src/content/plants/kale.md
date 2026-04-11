@@ -71,4 +71,4 @@ For storage: blanch and freeze for 8–10 months of acceptable quality (National
 
 **Related crops:** [Lettuce](/crops/lettuce/), [Garlic](/crops/garlic/)
 
-**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  how to time your cool-season plantings around frost dates to maximize the shoulder seasons
+**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  how to time your cool-season plantings around frost dates to maximize the shoulder seasons; [Grocery Tier ROI](/roi/grocery-tier-roi/)  -  why organic kale sits in the highest-value tier home gardens can replace

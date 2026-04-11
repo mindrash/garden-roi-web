@@ -37,6 +37,36 @@ The math looks reasonable until you compare it against crops that yield multiple
 
 Where corn improves its case: if you're selling at market. Retail ears at $1.00 each in a high-demand urban market change the calculation significantly. And if you grow popcorn or specialty flour corn, you're looking at a product with 6–12 month shelf life that you can process and sell at $4–8/lb dried.
 
+**Per-square-foot ROI comparison - 100 sq ft, same season:**
+
+| Crop | Space use | Seasonal yield | Value per sq ft | Notes |
+|---|---|---|---|---|
+| Sweet corn | 1-2 stalks/sq ft | 100-150 ears × $0.75 = $75-112 | $0.75-1.12 | University of Illinois Extension corn yield data; USDA AMS retail |
+| Pole green beans | 9 plants/sq ft (trellised) | ~50 lb | $2.50/lb = $125 | $1.25/sq ft; extends over 8-10 weeks |
+| Kale (cut-and-come-again) | 1 plant/sq ft | ~1.5 lb/sq ft over season | $3/lb = $450 | $4.50/sq ft; 4-5 month harvest window |
+| Cherry tomato (trellised) | 1 plant per 2 sq ft | ~10 lb/plant × 5 plants | $3/lb = $150 | $1.50/sq ft; highest labor investment |
+| Lettuce (succession) | 4 plants/sq ft, 3 successions | ~1.5 lb/sq ft | $3.50/lb = $525 | $5.25/sq ft; requires succession management |
+
+Corn's $0.75-1.12/sq ft is the lowest on this list. The honest version of the corn argument is not ROI per square foot - it's freshness you can't buy and the Three Sisters efficiency (below). If you have abundant space and value the experience of fresh sweet corn, that's a defensible choice. If you're maximizing a small garden's food production, corn is the wrong crop for the space.
+
+**Sweet corn type comparison:**
+
+| Type | Gene | Sugar retention | Post-harvest window | Cross-pollination risk | Examples |
+|---|---|---|---|---|---|
+| Standard sugary (su) | su | Converts fast - hours | Same day; cook within hours of picking | Low (if isolated from sh2) | Golden Bantam, Peaches and Cream |
+| Sugar-enhanced (se) | se | Slower conversion | 1-3 days refrigerated | Low | Kandy Korn, Bodacious, Ambrosia |
+| Supersweet (sh2) | sh2 | Very slow conversion | 5-7 days refrigerated | High - must isolate 300 ft or stagger timing | Illini Xtra Sweet, Silver Queen sh2 |
+
+The sh2 isolation requirement is not optional. Cross-pollination between supersweet and standard/enhanced types produces starchy, poor-quality kernels in both. If you grow sh2 corn and your neighbor grows standard sweet corn within 300 feet, your harvest suffers. Either choose se corn (which doesn't require isolation and holds sweetness 1-3 days), or commit to the timing management required for sh2.
+
+## The Three Sisters system
+
+The traditional Haudenosaunee (Iroquois) planting system pairs corn with pole beans and summer squash or zucchini. Each plant plays a functional role: corn provides the trellis for pole beans; beans fix atmospheric nitrogen through root nodules hosting *Rhizobium* bacteria, adding 40-120 lb of nitrogen per acre per season (USDA ARS, *Biological Nitrogen Fixation*, 2020); squash canopy shades the soil surface, reducing weed germination and retaining moisture through the summer.
+
+For the home garden, the Three Sisters works as follows: plant your 4x4 minimum corn block first. When corn is 6-8 inches tall, plant 2-3 pole bean seeds 3-4 inches from each stalk. When beans are established and beginning to climb, plant squash in the gaps between corn hills. Zucchini or summer squash is more practical in a small plot than winter squash, which sprawls aggressively.
+
+The Three Sisters doesn't significantly increase corn yield in a single season, but it adds pole bean and squash yield to the same footprint - effectively turning one crop's space into three. Approximate added value in a 100 sq ft Three Sisters planting: 25 lb of pole beans × $2.50/lb = $62 + 8-10 zucchini × $0.50 each = $4-5. Total additional value: approximately $65 over corn alone. This is the strongest ROI argument for growing corn in a small garden - not the corn yield itself, but the companion yield from the same space.
+
 ## Growing requirements
 
 Corn is wind-pollinated and must be planted in blocks rather than rows - minimum 4x4 block for reliable pollination (Penn State Extension, *Corn in the Home Garden*, 2019). A single row produces poorly-filled ears. The block configuration allows pollen shed from the tassels to fall onto the silks below. Each silk strand corresponds to one kernel. Missed pollination shows as missing kernels on the cob.

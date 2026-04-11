@@ -67,4 +67,4 @@ For preservation, freeze halves on a baking sheet then transfer to bags. Frozen 
 
 **Related crops:** [Tomato](/crops/tomato/), [Basil](/crops/basil/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about the tomato-basil pairing and others
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about the tomato-basil pairing and others; [Heirloom vs. Hybrid](/roi/heirloom-vs-hybrid/)  -  yield and flavor tradeoffs between heirloom and hybrid cherry tomato varieties

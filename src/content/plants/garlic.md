@@ -67,4 +67,4 @@ Cure in a single layer or in loose bunches in a warm, dry, well-ventilated space
 
 **Related crops:** [Tomato](/crops/tomato/), [Lettuce](/crops/lettuce/)
 
-**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/)  -  how to calculate whether your bed investment pays off, using a crop like garlic that takes 9 months to first harvest
+**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/)  -  how to calculate whether your bed investment pays off, using a crop like garlic that takes 9 months to first harvest; [Growing Garlic by Zone](/guides/growing-garlic-by-zone/)  -  zone-specific timing and variety choice for hardneck vs. softneck types

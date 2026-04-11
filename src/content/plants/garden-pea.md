@@ -71,4 +71,4 @@ Snow peas are picked flat, before seeds develop at all. This is a daily harvest 
 
 **Related crops:** [Lettuce](/crops/lettuce/), [Green Bean](/crops/green-bean/)
 
-**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/) - timing cool-season crops around frost dates and soil temperature so you don't lose the early-spring window
+**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/) - timing cool-season crops around frost dates and soil temperature so you don't lose the early-spring window; [Freezing vs. Canning](/homestead/freezing-vs-canning/)  -  why freezing is the right method for peas and what yield you need to make it worthwhile

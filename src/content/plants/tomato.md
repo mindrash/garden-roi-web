@@ -64,3 +64,5 @@ For preservation, paste varieties are most efficient for sauce and canning becau
 **Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings
 
 *Companion planting note:* The tomato-basil pairing is one of the most cited in home gardening. Volatile compounds from basil (*linalool*, *eugenol*) have shown repellent effects on *Spodoptera* species and aphids in controlled laboratory studies (Hummelbrunner & Isman, *Journal of Chemical Ecology*, 2001). Field-scale evidence for measurable yield benefit is limited. Plant basil near tomatoes if you want fresh basil; the potential pest-deterrent effect is a bonus, not a guarantee.
+
+**Also:** [The Financial Case for Canning](/homestead/canning-financial-case/)  -  how to convert a mid-summer tomato surplus into shelf-stable tomatoes that represent much of the crop's annual ROI

@@ -70,3 +70,5 @@ For longer storage, blend leaves with just enough olive oil to make a paste and 
 **Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings
 
 *Companion planting note:* Basil is commonly planted near [tomatoes](/crops/tomato/) based on folk claims about improved flavor and pest deterrence. Volatile compounds from basil (*linalool*, *eugenol*) have shown repellent effects on *Spodoptera* species and aphids in laboratory studies (Hummelbrunner & Isman, *Journal of Chemical Ecology*, 2001). Field-scale yield benefit has not been consistently demonstrated. Grow them together for the culinary convenience of having both in the same bed; don't count on the pest deterrence as a control strategy.
+
+**Also:** [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  why fresh herbs show the largest premium between home-grown and retail organic prices

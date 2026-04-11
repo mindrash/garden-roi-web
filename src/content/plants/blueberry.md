@@ -136,4 +136,4 @@ The math only holds if the soil pH is correct, the planting is isolated from the
 
 **Related crops:** [Strawberry](/crops/strawberry/), [Arugula](/crops/arugula/)
 
-**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/)  -  calculating long-term ROI for perennial fruit crops
+**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/)  -  calculating long-term ROI for perennial fruit crops; [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  the long-term economics of perennial fruit crops compared to annual vegetables

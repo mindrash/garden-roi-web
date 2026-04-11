@@ -59,4 +59,4 @@ Drying cilantro is not worth the effort; the volatile oils responsible for its f
 
 **Related crops:** [Basil](/crops/basil/), [Garlic](/crops/garlic/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  fresh herb prices at retail and what home-grown replaces per season

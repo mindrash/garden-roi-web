@@ -61,4 +61,4 @@ Store unwashed cucumbers in the refrigerator at 45–50°F; temperatures below 4
 
 **Related crops:** [Tomato](/crops/tomato/), [Green Bean](/crops/green-bean/)
 
-**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/)  -  how to run the numbers on whether your garden investment pencils out
+**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/)  -  how to run the numbers on whether your garden investment pencils out; [The Financial Case for Canning](/homestead/canning-financial-case/)  -  converting a cucumber surplus into pickles that store for a year

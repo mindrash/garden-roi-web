@@ -29,11 +29,33 @@ Beyond these, the Thymus genus includes creeping thyme (*T. serpyllum*, mostly o
 
 Verify what you're buying: crush a leaf and smell it. French thyme should smell piney, sharp, and warm. If it smells mild or almost grassy, look elsewhere.
 
+| Cultivar | Primary compounds | Flavor profile | Hardiness zone | Best culinary use |
+|---|---|---|---|---|
+| French thyme (*T. vulgaris* 'French') | Thymol 40-50%, carvacrol 5-15% | Sharp, piney, warm, medicinal | Zone 5 | Braises, roasted meats, stocks, bouquet garni |
+| Common/English thyme (*T. vulgaris*) | Thymol 30-45%, carvacrol variable | Warm, slightly milder than French | Zone 5 | General culinary, all applications |
+| Lemon thyme (*T. citriodorus*) | Geraniol dominant, thymol low | Citrusy, light herbal | Zone 6 | Fish, chicken, salad dressings, compound butter |
+| Creeping thyme (*T. serpyllum*) | Thymol variable, generally low | Mild, grassy-herbal | Zone 4 | Ground cover, light garnish use, ornamental primary |
+| 'Doone Valley' (variegated lemon thyme) | Geraniol, thymol low | Lemon thyme flavor | Zone 6-7 | Decorative plus light culinary use |
+
+The thymol percentage is the clearest predictor of culinary intensity. French and common thyme at 30-50% thymol are the workhorses - what you want when the recipe says "thyme." Lemon thyme at low thymol and high geraniol is a genuinely different herb, not a substitute. Use it when the citrus element is wanted, not when you just need thyme. Creeping thyme as a ground cover between pavers is an elegant use of the genus, but don't expect it to flavor your roast chicken.
+
 ## The ROI case
 
 Fresh thyme at retail runs $3.00-$5.00 per small package (typically 0.5-1 oz), putting the retail price at $8.00-$16.00/lb based on USDA AMS fresh herb retail data. Dried thyme at specialty retailers runs $4.00-$8.00/oz - roughly $65.00-$128.00/lb. Your 0.25 lb fresh yield per season represents $3.00-$4.00 in grocery value.
 
 The economic case improves sharply across years. Year one: $2.99 seed cost against a modest first-year harvest. Years two through five: $0 input, increasingly productive plant, no replanting. A three-plant thyme patch - about 2 square feet - handles most household needs indefinitely. If you use dried thyme regularly, a single large harvest and drying run in year two can yield enough to last 12 months.
+
+5-year value accumulation for a 3-plant thyme patch:
+
+| Year | Fresh yield (3 plants) | Value at $12/lb | Free divisions available | Cumulative input |
+|---|---|---|---|---|
+| Year 1 | ~2 oz total (0.12 lb) | ~$1.44 | 0 | $2.99 |
+| Year 2 | ~5 oz total (0.31 lb) | ~$3.72 | 2-3 new plants | $2.99 |
+| Year 3 | ~10 oz total (0.62 lb) | ~$7.44 | 2-3 more if desired | $2.99 |
+| Year 4 | ~12 oz total (0.75 lb) | ~$9.00 | divide or maintain | $2.99 |
+| Year 5 | ~12 oz total (0.75 lb) | ~$9.00 | divide or maintain | $2.99 |
+
+Cumulative 5-year value: approximately $30-32. Total seed investment: $2.99. The plants become more productive through years 2-3, then plateau at a consistent yield as the woody structure stabilizes. Thyme can be rejuvenated at year 4-5 by division - splitting the clump, replanting half, and starting fresh - which resets the plant's vigor and begins another 3-5 year productive cycle.
 
 ## Growing requirements
 
@@ -57,6 +79,18 @@ Cut back to 2-3 inches above the base in early spring before new growth begins. 
 
 **Thyme-specific tip:** In zones 5-6, plants occasionally die to the crown over winter. Don't pull them immediately in spring. Wait until late April or early May - plants you've written off often push new growth from the base after the soil warms.
 
+## Culinary applications
+
+Thyme is heat-stable. The thymol and carvacrol in the leaves survive long cooking better than the volatile compounds in more delicate herbs like basil or parsley. That's why it belongs in applications that involve sustained heat: braises, stocks, roasted vegetables, grilled meats. Adding it early is correct.
+
+**Timing in cooking:** Add fresh or dried thyme at the start of braises and stews - the flavor integrates rather than sitting on top. In a 2-hour lamb braise, thyme added at the beginning becomes part of the sauce background; thyme added in the last 10 minutes tastes separate and herby. For pizza and flatbreads, add to the sauce before baking. For quick-cooked applications (sautéed mushrooms, scrambled eggs), add in the last minute or as a finish.
+
+**Fresh vs dried ratio:** 1 tablespoon fresh thyme leaves = 3/4 teaspoon dried. (This is slightly less than the 1:3 ratio often cited because thyme dries relatively well and retains oils effectively.) For dishes where you're stripping leaves from the woody stem, bunch the stem in your fingers and pull backward against the leaf direction - the leaves strip cleanly in one motion.
+
+**Bouquet garni:** the traditional French herb bundle used in stocks and braises. A basic version: 3-4 sprigs fresh thyme, 2-3 bay leaves, a few parsley stems (not leaves). Tie in a piece of cheesecloth or bundle with kitchen twine. Remove before serving. This is the application where growing your own thyme pays the most obvious dividend - fresh thyme in a bouquet garni vs dried thyme bags has a measurable flavor difference.
+
+**Lemon thyme applications:** compound butter for fish (1 tbsp lemon thyme leaves + 4 tbsp softened butter + 1 tsp lemon zest + salt); herb crust for roast chicken with breadcrumbs, lemon zest, and olive oil; fresh into vinaigrettes where you want herbal and citrus together. Don't substitute lemon thyme for common thyme in a braise - the geraniol changes the flavor direction.
+
 ## Harvest and storage
 
 Harvest stem tips throughout the growing season, cutting back to just above a leaf node. Don't harvest more than one-third of the plant at once. The most aromatic harvest is just before bloom, when thymol concentration is highest (Sotiropoulou & Lagouri, *ISHS Acta Horticulturae*, 1996).
@@ -69,4 +103,4 @@ Strip dried leaves from woody stems before storing. The woody stems are useful i
 
 **Related crops:** [Tomato](/crops/tomato/), [Oregano](/crops/oregano/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  perennial herbs like thyme that establish once and produce for 5-10 years without replanting
