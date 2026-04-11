@@ -47,6 +47,23 @@ The upper limit of 7.5 for brassicas isn't arbitrary. Clubroot (*Plasmodiophora 
 
 Blueberries are the outlier on this chart, and the gap matters. At pH 4.5 to 5.5, every other crop on the list is at best struggling and at worst showing aluminum and manganese toxicity. Blueberries, on the other hand, evolved in the acidic soils of northeastern North American bogs and pine forests. They've developed specialized root associations with ericoid mycorrhizal fungi that are adapted to very low pH conditions. The upshot: you cannot grow blueberries alongside vegetables. They need dedicated acidified beds with their own amendment regime, and you should plan them as a separate long-term investment from your vegetable garden.
 
+## Amendment Comparison
+
+The material you choose depends on what you're correcting, how fast you need it to work, and what else your soil needs. These six amendments cover the full range of home garden pH adjustments.
+
+| Amendment | Typical cost ($/50 lb bag) | Direction | How it works | Speed | When to use | When not to use |
+|---|---|---|---|---|---|---|
+| Calcitic lime (CaCO3) | $8-12 | Raises pH | Calcium carbonate neutralizes soil acids; reacts with water to release calcium | Slow: 3-6 months | Most soils needing pH raised; provides calcium boost | Soils already high in calcium; when Mg deficiency is present |
+| Dolomitic lime (CaMg(CO3)2) | $8-14 | Raises pH | Same as calcitic lime, plus adds magnesium | Slow: 3-6 months | When soil test shows low Mg alongside low pH | Sandy soils with adequate Mg (can cause Mg imbalance) |
+| Wood ash | $0 (home-produced) to $5 | Raises pH | Potassium carbonate and calcium carbonate raise pH; 20-25% of calcitic lime effectiveness | Medium: 1-3 months | Small beds; when potassium is also needed; immediate mild correction | Beds with tomatoes or potatoes (excess K disrupts Ca uptake); alkaline soils |
+| Elemental sulfur (S) | $10-18 | Lowers pH | Soil bacteria oxidize sulfur to sulfuric acid; biological process | Slow: 3-12 months | Lowering pH for vegetable beds; long-term blueberry bed prep | Cool soils below 55°F (bacteria inactive); fall application in cold climates gives no result until spring |
+| Aluminum sulfate (Al2(SO4)3) | $12-20 | Lowers pH | Direct chemical reaction; releases aluminum ions and sulfuric acid | Fast: 2-6 weeks | Established acid-loving plants needing quick correction; blueberry spot treatment | Large areas (aluminum toxicity risk if overapplied); soils near pH 5.0 already |
+| Acidified compost | $15-30/cu ft | Lowers pH moderately | Organic acids from decomposition buffer alkalinity; effect modest but adds organic matter | Medium: 1 season | Mildly alkaline soils (pH 7.0-7.5) where organic matter is also low | Soils above pH 7.5 (insufficient acidifying power alone) |
+
+Sources: Penn State Extension, *Soil Acidity and Aglime* (2019); OSU Extension, *Changing the pH of Your Soil*, HYG-1133; USDA NRCS, *Soil Quality Indicators: pH* (2001).
+
+The wood ash caveat is worth expanding. Ash is alkaline - pH 9.0 to 11.0 - and acts fast compared to lime. But it also delivers a concentrated potassium load. For most beds, that's fine or beneficial. For tomatoes and potatoes in particular, excess potassium competes with calcium uptake and can contribute to blossom end rot (in tomatoes) or hollow heart (in potatoes). Use wood ash freely on brassicas, root crops, and alliums. Skip it on nightshades unless your soil test confirms potassium is genuinely low.
+
 ## Adjusting pH
 
 ### Raising pH (Too Acidic)
@@ -67,6 +84,57 @@ Elemental sulfur is the standard acidifying amendment. Soil bacteria (*Thiobacil
 Rough rate to drop pH by 1 unit in sandy loam: 10 to 15 lb elemental sulfur per 1,000 sq ft. For heavier soils, double that (OSU Extension, *Changing the pH of Your Soil*, HYG-1133). Apply in smaller increments and retest rather than trying to make a large correction in one application - overshooting is harder to fix than undershooting.
 
 Aluminum sulfate is faster-acting because it acidifies through direct chemical reaction rather than biology. It's useful for spot treatments around blueberries or established acid-loving plants, but can cause aluminum toxicity if overapplied.
+
+## What pH Problems Look Like in the Garden
+
+Deficiency symptoms are often the first indication that pH is working against you, even when fertility inputs are adequate. The pattern of which leaves show symptoms - older leaves vs. new growth - tells you which nutrient is involved and whether pH is the likely cause.
+
+| Symptom | Where it appears | Likely nutrient cause | Likely pH cause | Correction |
+|---|---|---|---|---|
+| Yellowing between leaf veins, green veins stay green | Older leaves first | Magnesium deficiency | Low pH (Mg tied up below 5.5) | Lime to 6.0+; foliar Epsom salt (1 tbsp/gal) as quick fix |
+| Yellowing between leaf veins, new leaves affected first | Young/new leaves | Manganese excess or iron deficiency | pH below 5.5 (Mn toxic) or above 7.0 (Fe locked up) | Test pH; lime if acidic, sulfur if alkaline |
+| Purple/red tint on leaf undersides or stems | Young leaves | Phosphorus deficiency | pH above 7.5 or below 5.5 (P locked up) | Correct pH first; P won't be available until pH is in range |
+| Stunted growth, small pale leaves across the whole plant | Whole plant | Nitrogen deficiency (legumes) | pH below 6.0 (Rhizobium nodulation impaired) | Lime to 6.0+ before next season; supplement N this season |
+| Brown spots or speckles on older leaves | Older leaves | Manganese toxicity | pH below 5.0 | Lime to at least 5.5; manganese solubility drops quickly above 5.5 |
+| Tip burn and marginal browning on brassicas | Outer wrapper leaves | Calcium deficiency | High pH (above 7.5) or extreme low pH with aluminum competition | Test pH; correct accordingly |
+| Stunted, stubby roots; limited root branching | Whole root system | Aluminum toxicity | pH below 5.0 | Lime immediately; aluminum solubility drops sharply above 5.5 |
+
+Sources: Penn State Extension, *Soil Acidity and Aglime* (2019); Cornell University Cooperative Extension, *Nutrient Deficiency Identification in Vegetables* (2023).
+
+The root symptom is often the last one noticed because it's underground. Stunted top growth with no visible leaf symptoms in early season is worth digging up a plant to check the roots. Aluminum toxicity at pH below 5.0 produces unmistakably stubby, branched-looking roots rather than the normal elongated root system. You won't fix a plant mid-season, but it tells you what amendment to apply before you plant again.
+
+## A Worked Example: pH 5.2 to 6.5
+
+Here's what a realistic correction looks like in practice, with costs and yield implications. A Zone 6 backyard garden, 1,000 sq ft, soil tests at pH 5.2. Target is 6.5 for a mixed vegetable bed. Soil type: loam.
+
+**Amendment needed:** At Penn State Extension's rate for loam (100 to 150 lb/1,000 sq ft per pH unit correction of 1.0), correcting 1.3 pH units requires approximately 130 to 195 lb of calcitic lime. Call it 150 lb (three 50 lb bags).
+
+**Cost:** $8 to $12 per 50 lb bag. Three bags: $24 to $36. Spread in fall, rake into top 6 inches.
+
+**Timeline:** Apply October, retest the following September. Expect pH 6.0 to 6.3 at first retest - lime rarely hits the target in one application. A second application of 50 to 75 lb the following fall typically brings pH into the 6.3 to 6.5 range. Two-year process is normal for a large correction.
+
+**What growing at pH 5.2 costs you:**
+- Phosphorus lockout: at pH 5.2, available P is roughly 50% of what it would be at 6.5 (Penn State Extension, 2019). A bed with 0-15 lb/1,000 sq ft available P at pH 6.5 might have 6-7 lb available at pH 5.2.
+- Tomato yield impact: phosphorus deficiency during fruit set reduces yields by 15-25% in research trials (OSU Extension, HYG-1132). On a 6-plant tomato bed averaging 15 lb per plant at full production: 90 lb × 20% reduction = 18 lb lost yield. At $3.50/lb for a summer paste tomato: $63 in missing produce per season.
+- Cumulative impact: the yield loss runs every season you delay. Two seasons of deferred correction costs roughly $120 to $160 in reduced tomato production alone, against a $24 to $36 lime investment. The math isn't close.
+
+The cost of the test ($15 to $25) plus the lime ($24 to $36) totals $39 to $61. The produce value at stake in a single season on a reasonable-sized garden is substantially more.
+
+## Where You're Starting From: Regional Soil Tendencies
+
+pH correction strategy depends partly on where you're starting, and that varies by region. Knowing the baseline tendency of soils in your area lets you predict whether lime or acidifying amendments are more likely to be your long-term tool.
+
+**Northeast and Mid-Atlantic (Maine to Virginia):** Soils in the Appalachians and Piedmont tend toward acidity, driven by high rainfall leaching base cations (calcium, magnesium) out of the root zone and the decomposition of organic matter generating organic acids. New England glacial soils often test pH 5.5 to 6.2 before amendment. Gardeners in this region are primarily liming. Annual or biennial lime applications are normal maintenance, not a one-time fix.
+
+**Southeast (Georgia, Carolinas, Alabama, Mississippi):** Ultisols (red and yellow clay soils) dominate much of the Southeast and are characteristically acidic - pH 4.5 to 5.5 in many cases. High rainfall and warm temperatures accelerate leaching. Strong acidic soils with aluminum and manganese toxicity risk are common. Aggressive liming programs (200+ lb/1,000 sq ft over multiple years) are sometimes required to bring pH into vegetable range.
+
+**Midwest corn belt (Ohio to Iowa):** Soils are more variable. Mollisols (black prairie soils) in Iowa and Illinois are naturally neutral to slightly alkaline (pH 6.5 to 7.5) with high organic matter. Soils in Ohio and Indiana trend more acidic. Gardeners in this region may need either lime or sulfur depending on their specific location and soil type.
+
+**Great Plains and Southwest (Kansas to Arizona):** Arid and semi-arid conditions mean limited leaching. Calcium carbonate (caliche) accumulates in subsoils, pushing surface pH to 7.0 to 8.5 in many areas. Lowering pH is the challenge here. Elemental sulfur programs combined with acidifying fertilizers (ammonium sulfate rather than calcium nitrate) are the long-term approach. High-pH soils in these regions can be managed for vegetables with consistent sulfur programs, but blueberries and other acid-demanding crops are impractical in most of the region without completely reconstructing raised beds with acidified media.
+
+**Pacific Northwest (Oregon, Washington coastal):** High rainfall produces acidic soils similar to the Northeast. Western Oregon and Washington soils frequently test pH 5.5 to 6.5. Eastern Oregon and Washington, with less rainfall, run more alkaline.
+
+If you don't know your area's baseline, the USDA NRCS Web Soil Survey (websoilsurvey.nrcs.usda.gov) allows you to pull soil series data for your specific property including typical pH ranges. It takes about 10 minutes and tells you what your starting point likely is before you've even taken a sample.
 
 ## Getting a Soil Test
 

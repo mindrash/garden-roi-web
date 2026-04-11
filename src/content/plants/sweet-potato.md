@@ -43,6 +43,38 @@ Slips from a retailer run $0.50–$0.75 each. At 4 lb average yield per slip (un
 
 In year two, if you grew your own slips from saved roots, your input cost drops to electricity for the heat mat and the cost of the jar on your windowsill. The return per square foot over a multi-year planting cycle is hard to beat.
 
+### Variety ROI: The Specialty Market Gap
+
+Not all sweet potatoes return the same per-pound value. The difference between standard and specialty types is significant enough to factor into variety selection if you have access to specialty buyers or Asian grocery markets.
+
+| Variety | Days to maturity | Flesh type | Typical retail price | Yield per slip (4 lbs typical) | Per-slip value |
+|---|---|---|---|---|---|
+| Beauregard | 90-100 days | Orange | $1.50-2.00/lb (conventional) | 4 lb | $6-8 |
+| Covington | 90-100 days | Orange | $1.75-2.25/lb (conventional) | 4 lb | $7-9 |
+| Jewel | 100-110 days | Orange | $1.75-2.00/lb (conventional) | 3.5-4.5 lb | $6-9 |
+| O'Henry | 100-110 days | White | $3.00-4.50/lb (specialty) | 3-4 lb | $9-18 |
+| Murasaki (Japanese purple skin) | 110-120 days | White | $3.50-5.00/lb (specialty) | 3-4 lb | $10-20 |
+| Purple (Stokes, Okinawan) | 120-130 days | Purple | $4.00-6.00/lb (specialty) | 2.5-3.5 lb | $10-21 |
+
+Sources: USDA AMS Specialty Crop Market News (2023); University of Georgia Extension, *Sweet Potato Production*, Bulletin 1338 (2020); NC State Extension variety trials.
+
+The caveat is market access. Beauregard is what conventional grocery stores sell; you'll find buyers easily. Murasaki and O'Henry require a local Asian grocery or a farmers market with buyers who know what they are. If neither is available in your area, the specialty price premium exists in theory but not in practice. Plant what you can actually sell or use. For households who cook Japanese or Korean food regularly, growing Murasaki for home use at $4/lb versus $5/lb at the Asian market still makes the math favorable.
+
+### Spacing, Bed Management, and Expected Yield
+
+Sweet potato vines spread aggressively - 4 to 6 feet per plant in every direction under good conditions. Most home gardeners underestimate this and plant too densely, which competes for light and reduces root development.
+
+Recommended spacing: 12 to 18 inches between slips in rows 3 to 4 feet apart. This is wide compared to other vegetables. In a standard 4x8 bed, this means 6 to 8 slips per bed if rows run the length, or 4 to 6 slips per bed if vines need to spill over the sides.
+
+A 4x8 bed with 6 slips at 12-inch in-row spacing, allowing vines to trail beyond the bed edges:
+
+- 6 slips × 4 lb average yield = 24 lb total
+- At $1.75/lb (Beauregard conventional): $42
+- At $4.00/lb (Murasaki specialty): $96
+- Seed cost (purchased slips): 6 × $0.65 = $3.90
+
+The vine management consideration: after vines reach 18 to 24 inches, redirect them back toward the bed to prevent rooting at nodes, which produces small, misshapen secondary roots. Every two weeks through August, walk the bed and tuck vine tips back to the soil area over your main root zone (NC State Extension, *Sweetpotato Production*, Bulletin AG-09, 2019). It takes 5 minutes and keeps root development concentrated under the original slip planting area.
+
 ## Growing requirements
 
 Sweet potatoes are serious heat lovers. They're native to tropical South America and perform accordingly. Soil temperature must be above 60°F before transplanting - below that, vines stall and root development is poor. Most gardeners in zones 5–7 transplant slips 3–4 weeks after last frost when soil has had time to warm (Clemson Extension, *Sweet Potatoes*, HGIC 1322, 2021).

@@ -25,6 +25,21 @@ These are season totals, paid upfront or in 2 to 4 installments. The upfront nat
 
 Regional variation is significant. Urban CSAs near major metro areas run 20 to 40 percent higher than rural CSAs. Pacific Coast CSAs run higher than Midwest and Southeast. Certified organic CSAs run 15 to 30 percent higher than conventional. The ranges above are national medians, not peaks.
 
+### CSA Type Variation
+
+Not all CSAs deliver the same value proposition. The standard vegetable CSA described above is the most common format, but four distinct models exist and they differ meaningfully in price, product, and what you can't replicate at home.
+
+| CSA type | Typical full-share price | What you get that you can't replicate at home | Best for |
+|---|---|---|---|
+| Standard vegetable CSA | $700-$1,100/season | Season extension crops, crop diversity, farm labor | Households who want convenience + local sourcing + variety |
+| Specialty/cultural CSA | $800-$1,400/season | Korean, Japanese, Mexican, Southeast Asian varieties (perilla, shiso, bitter melon, epazote, nopales) rarely sold in mainstream stores and impractical for most home gardens | Cooks with specific cultural cuisines; specialty crop access without growing yourself |
+| Community-run/member-labor CSA | $400-$700/season | Same as standard but 20-40% cheaper in exchange for 2-4 hours/month volunteer labor at the farm | Gardeners who want lower cost and don't mind the work; community connection |
+| Farm-plus CSA (u-pick included) | $600-$950/season | Delivery + on-farm access for u-pick during peak season; often adds berries, herbs, flowers | Families with kids; high-volume canning households who want pick-your-own access |
+
+Source: National Sustainable Agriculture Coalition *CSA Model Analysis* (2022); USDA NASS *Local Food Marketing Practices Survey* (2019).
+
+The specialty/cultural CSA is the format where home growing genuinely cannot compete. If your household cooks Korean or Japanese food regularly and wants fresh perilla, shiso, young garlic stems, or napa cabbage in forms not available at mainstream grocers, a farm that specializes in these varieties delivers something real. No standard raised bed program substitutes for that. The standard vegetable CSA, by contrast, is directly competing with crops a home garden produces efficiently - and that's where the 10-year math matters.
+
 ## What's in the Box and What It's Worth
 
 CSA boxes vary by farm, season, and week. Early season (May-June in temperate zones) means cool-weather crops: lettuce, spinach, arugula, radishes, turnips, peas. Midsummer means tomatoes, cucumbers, zucchini, beans, peppers, corn, basil. Fall means kale, winter squash, beets, sweet potatoes, storage onions.
@@ -113,7 +128,21 @@ Against $113 to $215 in annual costs, the mid-range garden (156 sq ft) generates
 | Off-season produce | None | None (unless preserved) |
 | Skill development | None required | Accumulates; reduces future costs |
 
-The 10-year math is not close. A full CSA share at $900/year (median full share price) costs $9,000 over 10 years. A home garden with $700 first-year setup and $160/year recurring costs $2,130 over 10 years - and the garden gets easier and cheaper as skills compound and perennial crops establish.
+The 10-year math is not close. Here's the cumulative cost breakdown for three realistic scenarios using median figures: a full CSA share at $900/year, a home garden (2-3 raised beds, $700 first-year setup, $160/year recurring), and a hybrid approach (half-share CSA at $500/year plus a 1-bed home garden at $90/year recurring).
+
+| Year | CSA (full share) | Home garden | Hybrid (half-CSA + 1 bed) |
+|---|---|---|---|
+| 1 | $900 | $860 (setup + first season) | $660 (half-share + setup $160) |
+| 2 | $1,800 | $1,020 | $1,250 |
+| 3 | $2,700 | $1,180 | $1,840 |
+| 4 | $3,600 | $1,340 | $2,430 |
+| 5 | $4,500 | $1,500 | $3,020 |
+| 7 | $6,300 | $1,820 | $4,200 |
+| 10 | $9,000 | $2,300 | $5,800 |
+
+Source: CSA median pricing from USDA NASS *Local Food Marketing Practices Survey* (2019); home garden costs from Penn State Extension planting guides and USDA AMS supply cost data.
+
+At Year 10: full CSA $9,000 vs. home garden $2,300 vs. hybrid $5,800. The gap is $6,700 between CSA and home garden. That gap represents the cost of buying the same produce you could grow - and it grows by $740 every year (home garden recurring costs vs. CSA annual price). The garden also gets easier and more productive after Year 3 as skills compound and perennial crops establish without replanting cost.
 
 ---
 
@@ -136,6 +165,12 @@ The 10-year math is not close. A full CSA share at $900/year (median full share 
 **Freshness timing.** You pick your tomatoes when they're ripe, not when the harvest crew is available. A CSA tomato picked a day early for distribution still tastes good. Your garden tomato picked at peak sweetness is measurably better.
 
 **Year 2 economics.** After the first-year setup amortizes, the home garden produces the same or more for 15 to 20 percent of the CSA cost. The return on time invested keeps improving as skills compound and the garden gets more productive per hour worked.
+
+**Skill accumulation as compound return.** A CSA subscription delivers the same value proposition every year. The farm gets better, but you don't - your skill level as a grower stays at zero because you're not growing anything. A home garden operates differently: every year you grow it, your knowledge of your specific site accumulates in ways that reduce costs and increase yields.
+
+Year 1 in a home garden is the hardest. You're learning your soil, your microclimate, which varieties bolt in your specific conditions, where the pest pressure comes from, which beds drain well and which stay wet. Expect lower yields and more crop failures than the theoretical numbers suggest. Year 3 is when the shift becomes visible: you've solved your major pest problems, know which tomato varieties resist late blight in your garden, understand when your last reliable frost actually falls, and know which succession planting schedule works for your family's cooking patterns. Year 5 is when the perennial infrastructure starts paying compound returns - strawberry beds that were established in Year 2 are producing without replanting; asparagus planted in Year 1 is yielding reliably; perennial herbs (thyme, oregano, chives, perennial onions) are providing fresh harvests that cost zero to replant each year.
+
+A CSA subscription at $900 in Year 10 delivers the same value as a CSA subscription at $900 in Year 1. A home garden in Year 10 delivers more value per hour worked than in Year 1, costs roughly the same to operate, and includes perennial infrastructure that wasn't there at the start. That compounding doesn't show up in a single-year cost comparison.
 
 **Preservation surplus.** A home garden naturally produces gluts you can freeze, can, or ferment. A CSA subscription delivers a box - you take what arrives, use it in a week, or it goes bad. There's no accumulating surplus to put up for winter unless you intentionally overbuy.
 

@@ -39,6 +39,41 @@ At $2.50/lb (USDA ERS retail price data, conventional beets, 2023), that's $50�
 
 The break-even on the seed cost is trivially fast. The real costs are bed space and your time - beets are harvested once (or twice with succession planting), not continuously.
 
+### Double-Harvest Value: Roots and Greens
+
+The financial case for beets improves substantially when you account for both harvests - the roots you planned for and the greens you'd otherwise compost.
+
+**Thinning greens.** When beet clusters germinate and produce multiple seedlings, you thin to one plant per spot. Those thinnings, pulled at 3 to 5 inches tall, are fully edible greens. For a 4x8 bed with approximately 50 plants at final spacing, early thinning might remove 50 to 100 small plants - roughly 0.5 to 1 lb of baby greens. At the farmers market, baby beet greens sell for $3 to $4 per bunch and command the same prices as microgreens at specialty retailers.
+
+**Outer leaf harvest during the season.** Once beet plants are established and the roots are sizing up, you can harvest 1 to 2 outer leaves per plant every 2 weeks without affecting root development. Penn State Extension notes that leaf removal up to 30% of the plant's leaf area doesn't significantly reduce root yield. For a 50-plant 4x8 bed harvested at 1 outer leaf per plant every 2 weeks over 6 weeks before main root harvest: approximately 1 to 2 lb of beet greens per season.
+
+**Full harvest-time greens.** At main root harvest, each plant produces a substantial bunch of greens attached. These greens are often discarded, but they're the same crop as store-bought beet greens or Swiss chard. A 4x8 bed at final harvest yields 2 to 3 lb of greens in addition to the root harvest.
+
+Here's the total double-harvest math for one 4x8 bed, succession-planted twice (spring and fall), running Zone 6:
+
+| Harvest component | Spring sowing | Fall sowing | Value ($2.50/lb roots; $3.50/lb greens) |
+|---|---|---|---|
+| Roots (4x8 bed, 50 plants) | 20-30 lb | 20-30 lb | $100-150 roots per sowing |
+| Thinning greens | 0.5-1 lb | 0.5-1 lb | $1.75-3.50 per sowing |
+| Mid-season outer leaf harvest | 1-2 lb | 1-2 lb | $3.50-7.00 per sowing |
+| Harvest-time greens | 2-3 lb | 2-3 lb | $7.00-10.50 per sowing |
+| **Per sowing total** | | | **~$112-171** |
+| **Two-sowing season total** | | | **~$224-342** |
+
+Source: yield data from Penn State Extension, *Beet Production for Pennsylvania* (2019); OSU Extension, *Beets and Chard*, HYG-1606; greens pricing from USDA AMS Specialty Crop Market News (2023).
+
+Against a $2.49 seed packet that covers both sowings, the bed-level return is clear. The greens component adds $12 to $21 per sowing - not the main event, but real value that would otherwise go into the compost pile.
+
+### Succession Planting: Two Crops from One Bed
+
+Beets produce well in both spring and fall, making them one of the few root vegetables that support two full crops per season from the same bed space. The key is timing each sowing around temperature constraints.
+
+**Spring succession:** Sow 4 to 6 weeks before last frost, when soil temperature is above 45°F. In Zone 6, that's late March to mid-April. The crop matures in late May to early June - before heat stress becomes a factor. Beet quality declines when roots mature in sustained temperatures above 80°F, producing pithy, less flavorful roots. Time the spring sowing so roots finish before late June heat (Penn State Extension, *Beet Production for Pennsylvania*, 2019).
+
+**Fall succession:** Sow 8 to 10 weeks before first fall frost. In Zone 6, that's late July to mid-August. This is the more reliable sowing in most years because cooling fall temperatures are in beet's favor - roots maturing in September and October in cool soil develop better flavor and hold in the ground longer than spring roots. Fall beets that don't get harvested before frost can actually be mulched and pulled through early winter in Zones 6 and warmer.
+
+Two sowings from one 4x8 bed: at 20 to 30 lb of roots per sowing, the annual total from one bed is 40 to 60 lb of beets. At $2.50/lb conventional, that's $100 to $150 in root value. At $5/lb for Chioggia specialty, $200 to $300. The seed packet containing both sowings costs $2.49.
+
 ## Growing requirements
 
 Beets are cool-season crops. The ideal soil temperature for germination is 50–85°F; they bolt (flower and turn bitter) when exposed to temperatures below 45°F for extended periods after germination (Penn State Extension, *Beet Production for Pennsylvania*, 2019). This makes spring planting timing specific - sow 4–6 weeks before last frost, and expect the crop to mature and be harvested before summer heat arrives. A fall planting seeded 8–10 weeks before first frost is often more reliable in zones 6 and warmer.

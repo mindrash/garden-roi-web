@@ -71,6 +71,24 @@ Either result is strongly net-positive in Year 1 on direct grocery cost. The bed
 
 **Green beans.** Plant bush beans at 2-inch spacing in short rows, succession-plant every two weeks through July, and you'll have continuous production from late June through August. The ROI is modest per square foot compared to herbs, but the absolute volume is useful: 8-12 lbs from a 4x8 bed at $2.50-3/lb replaces real grocery spending on a vegetable your household likely eats regularly. Beans also teach you the habit of checking the garden every two days - picking beans regularly triggers new production. Plants you don't harvest in time become seedy and stop producing.
 
+## Harvest Calendar: What to Expect and When
+
+The numbers in the tables above are seasonal totals. What they don't show is when you'll actually be harvesting - which matters a lot for planning grocery spending and managing expectations. First-year gardeners who don't know that lettuce is done by July often feel like the garden "stopped working" mid-season when it's actually running on schedule.
+
+This calendar covers Zone 6 (last frost late April to early May; first fall frost mid-October). Adjust 2-4 weeks forward for Zone 5, 2-4 weeks back for Zone 7.
+
+| Crop | May | June | July | August | September | October |
+|---|---|---|---|---|---|---|
+| Arugula | Starting (spring planting germinating) | Peak spring harvest; may bolt by late June | Done - heat-induced bolt; wait for fall | Fall succession in by late August | Peak fall harvest | Harvest continues until hard frost |
+| Lettuce | Starting; first cuts mid-May | Spring peak; harvest aggressively before heat | Done; bolt likely by July in most Zone 6 | Fall succession goes in late August | Fall peak | Harvest until hard frost; cold-tolerant varieties extend further |
+| Basil | Start indoors; don't transplant until soil above 65°F | Transplant out; first harvest late June | Peak production; harvest weekly | Continued peak; pinch flowers constantly | Slowing; harvest bulk before first frost threat | Done at first frost |
+| Cherry tomato | Start transplants; set out after frost | Transplanted; vegetative growth; no fruit yet | First fruits; ramp-up period | Peak production; daily picking | Continued production | Final push before frost; harvest everything green before first hard freeze |
+| Green bean | — | Direct sow; first succession late June | First harvest; second succession | Peak harvest; third succession | Late succession harvest | Done by frost |
+
+Sources: Maturity data from Penn State Extension *Vegetable Production Guide* (2022); frost date ranges from USDA ARS Plant Hardiness Zone Map.
+
+The gaps in this calendar are real. July is the dead zone for cool-season crops in Zone 6: arugula and lettuce are done, basil is growing but not yet harvesting heavily, tomatoes aren't producing yet. This is when first-year gardeners get discouraged. It's normal. The solution is a fall lettuce and arugula succession, planted in late July or early August, that fills the September-October window. See the arugula succession planting section on the [arugula crop page](/crops/arugula/) for the timing details.
+
 ## What Beginners Get Wrong
 
 Three specific mistakes cost first-year gardeners real money. Not abstract mistakes - dollar-cost mistakes.
@@ -83,8 +101,18 @@ Three specific mistakes cost first-year gardeners real money. Not abstract mista
 
 The [Garden ROI app](/app/) solves this problem directly: log your inputs, log your harvests, get the math. It's the tool this project was built around.
 
+## Year 2: Three Crops Worth Adding
+
+The honest next step after Year 1 is not adding more crops. It's adding more of the crops that worked. If your cherry tomatoes ran out in August and you wished you had more, grow six plants next year. If your arugula succession failed because you didn't start the fall planting on time, set a calendar reminder and do it. Repetition of the same five crops with better execution produces better ROI than adding complexity.
+
+That said, three crops earn a genuine place in a Year 2 expansion - each for a specific reason tied to what you already know from Year 1.
+
+**Garlic.** Plant in fall (October in Zone 6), harvest in July. Garlic is the lowest-maintenance vegetable in the garden: put the cloves in the ground in October, mulch them, pull the scapes in June, harvest bulbs when the lower leaves brown in July. There is almost nothing that can go wrong between planting and harvest that requires your intervention. Garlic at grocery stores runs $0.50-1.00 per head for standard bulbs, $2-4 per head for specialty varieties. A seed garlic investment of $15-20 buys enough cloves for a full 4x8 bed, yielding 25-40 heads. At $1.50 average value per head, that's $37-60 in grocery offset for an essentially zero-maintenance crop. It also nests neatly in the bed schedule - garlic goes in after the fall arugula or lettuce comes out, so it uses bed space that would otherwise sit empty from October to May.
+
+**Cucumber.** High value ($1.50-2.50/lb), produces prolifically, and fits the bed space and production timing you've already proven with cherry tomatoes. A trellis takes up zero floor space; a 4-foot section of fencing with three plants produces 10-15 lbs of cucumbers in Zones 5-7 (OSU Extension, *Cucumber Production in Ohio*, 2021). The main management requirement - harvesting every 2-3 days when plants are producing - is the same habit green beans already trained you on. One note: if you want to save cucumber seeds (see the seed saving guide), grow only one variety per season to avoid crossing.
+
+**Kale.** Kale extends your growing season in both directions. Transplant in April when it's still too cold for tomatoes; harvest through November and sometimes December in Zone 6 after everything else is dead. It belongs in Year 2 because it fills the July gap in the harvest calendar above - kale is slow enough to establish that you don't harvest it seriously until late summer, which is exactly when lettuce and arugula are done. It's also the cheapest crop per pound to grow: a $2.49 packet produces plants that yield 2-3 lbs of leaves each over a long season, and the seeds last 3-5 years. One sowing covers multiple seasons.
+
 ## Where to Go From Here
 
 Once you've grown these five crops through one season, you have enough experience to add more specific crops based on what your household actually buys. The [arugula crop page](/crops/arugula/), [basil page](/crops/basil/), and [cherry tomato page](/crops/cherry-tomato/) have detailed growing information for each.
-
-The honest next step after Year 1 is not adding more crops. It's adding more of the crops that worked. If your cherry tomatoes ran out in August and you wished you had more, grow six plants next year. If your arugula succession failed because you didn't start the fall planting on time, set a calendar reminder and do it. Repetition of the same five crops with better execution produces better ROI than adding complexity.

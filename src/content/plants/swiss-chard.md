@@ -37,6 +37,24 @@ Fresh bunched chard retails for $3–$4/lb at farmers markets and grocery stores
 
 The $2.49 seed packet contains far more seed than you'll use in a season. Chard seed germinates well at 50–85°F soil temperature, so you can start seeds indoors 4 weeks before last frost and transplant out, or direct-seed 2–4 weeks before last frost once soil is workable.
 
+### Season Length: What Chard Does That Other Greens Can't
+
+The value of chard is clearest when you put it next to the alternatives occupying the same bed space.
+
+| Crop | Productive season (Zone 6) | Plantings needed for continuous harvest | Approx. yield per 10 sq ft over full season |
+|---|---|---|---|
+| Spinach | 4-6 weeks per sowing | 3-4 for spring + 1 for fall | 5-8 lb |
+| Lettuce (cut-and-come) | 3-4 weeks per sowing before bolting | 4-5 for extended season | 6-10 lb |
+| Arugula | 3-4 weeks per sowing | 4-5 for extended season | 4-6 lb |
+| **Swiss chard** | **Late May through October-November; 5-6 months** | **1 planting per season** | **8-12 lb** |
+| Kale | April through December; 7-8 months | 1 planting per season | 6-10 lb |
+
+Sources: Penn State Extension, *Cool-Season Vegetable Production* (2021); Cornell Cooperative Extension, *Chard* (2019).
+
+One chard planting carries a 10-square-foot bed from late May through the first hard frosts of November. In the same period, you'd replant spinach 3 to 4 times and arugula 4 to 5 times to maintain comparable output. The management savings are real: chard doesn't bolt, doesn't need succession planting, and produces every week from the same crown. In July and August, when spinach and lettuce are completely done in Zone 5-7, chard is at peak production.
+
+Per-season yield accumulation tells the story clearly. A single chard plant in a properly maintained bed, harvested weekly (outer leaves only), produces roughly 0.15 to 0.25 lb per harvest. At a 7-day interval over 26 weeks (late May through November): 26 weeks × 0.20 lb = 5.2 lb per plant. At 4 plants per standard 4x4 bed: approximately 20 lb per bed per season. At $3.50/lb: $70 from a $2.49 seed investment and a 4x4 bed section.
+
 ## Growing requirements
 
 Chard is a biennial. It completes its lifecycle over two years - vegetative growth the first year, seed production the second. The important distinction from spinach is *what triggers bolting*. Spinach bolts from heat stress. Chard bolts from day length and age, not temperature. That's why it stays productive through summer heat that would end a spinach planting (Penn State Extension, *Cool-Season Vegetable Production*, 2021; Cornell Cooperative Extension, *Chard*, 2019). Afternoon shade in Zone 6-7 extends production further, but it isn't required.
@@ -57,7 +75,19 @@ One important seed note: what's sold as a chard "seed" is actually a dried fruit
 
 Harvest outer leaves at 8–12 inches long, cutting cleanly at the base of the stem. Always leave at least 4–5 inner leaves intact around the central growing point. That growing point is the engine of the plant - remove it and you've ended production. Harvesting outer leaves only, every 7–14 days, keeps the plant producing continuously.
 
-Young leaves under 6 inches are tender enough to eat raw in salads. Mature leaves work best cooked. The midrib and stem on large leaves are edible but significantly more fibrous than the leaf blade - either cook them separately for a few minutes longer, or pull the blade away from the midrib before cooking. The stems cook down to a texture similar to chard-adjacent celery and hold their color better than the leaves.
+### How to Cook It: Stems and Leaves Are Different Ingredients
+
+The most common chard mistake is treating the whole leaf as a single ingredient. The midrib and stem require 3 to 4 minutes of cooking time. The leaf blade needs 1 to 2 minutes. Cook them together without adjustment and you end up with overcooked, mushy leaves or undercooked, tough stems. The solution is to treat them separately.
+
+**Sautéed with garlic (the standard preparation):** Strip the leaf blade from the midrib. Slice midribs crosswise into 1/2-inch pieces. In a wide pan over medium heat, heat olive oil, add garlic, then add the sliced stems. Cook 3 to 4 minutes until stems are just tender. Add the torn leaf blades, toss, and cook 1 to 2 more minutes until wilted. Season with salt and a squeeze of lemon. The result is two textures from one plant - stems with bite, leaves silky. This works with any chard color.
+
+**Rainbow chard color note:** The yellow, orange, and red stem pigments (betacyanins and betaxanthins) are water-soluble and fade with extended heat. If color in the final dish matters, cook rainbow chard briefly and plate immediately. Fordhook Giant stems are white and hold their appearance regardless of cooking time.
+
+**In soups and stews:** Add stems at the same time as other vegetable aromatics, 20 to 30 minutes before serving. Add the leaf blades in the last 5 minutes. The leaves hold well in brothy soups without turning muddy - unlike spinach, which can develop an unpleasant texture if overcooked in liquid.
+
+**Stem gratin:** Blanch the midribs in salted water for 5 minutes, drain, and layer in a buttered baking dish with béchamel sauce and grated Gruyère. Bake at 375°F until browned, 20 to 25 minutes. The stems absorb the sauce without turning mushy. This is a useful application for large late-season stems that are too thick to sauté comfortably.
+
+Young leaves under 6 inches are tender enough to eat raw in salads. Mature leaves work best cooked.
 
 Chard wilts fast after harvest. Refrigerate it unwashed with a slightly damp paper towel in the bag; it'll hold 3–5 days. For longer storage, blanch and freeze - it holds quality for 8–10 months frozen (National Center for Home Food Preservation, *Freezing Vegetables*, 2021).
 

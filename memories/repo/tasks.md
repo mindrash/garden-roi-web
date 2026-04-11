@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 10, 2026 (CA008-CA034, PE001-PE014, PB001-PB011 complete)_
+_Last updated: April 11, 2026 (CA008-CA034, PE001-PE014, PB001-PB011, D001-D007 complete)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -3102,7 +3102,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### D002 — Expand soil-ph-by-crop.md
-**Status:** `[>]`
+**Status:** `[x]`
 **Load skill:** garden-roi-content
 **File:** `src/content/articles/soil-ph-by-crop.md`
 **Current word count:** ~1,423 words
@@ -3118,7 +3118,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### D003 — Expand seed-saving-guide.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Load skill:** garden-roi-content
 **File:** `src/content/articles/seed-saving-guide.md`
 **Current word count:** ~1,581 words
@@ -3133,7 +3133,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### D004 — Expand beginner-homestead-crops.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Load skill:** garden-roi-content
 **File:** `src/content/articles/beginner-homestead-crops.md`
 **Current word count:** ~1,695 words
@@ -3147,7 +3147,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### D005 — Expand canning-financial-case.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Load skill:** garden-roi-content
 **File:** `src/content/articles/canning-financial-case.md`
 **Current word count:** ~1,810 words
@@ -3162,7 +3162,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### D006 — Expand csa-vs-home-garden.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Load skill:** garden-roi-content
 **File:** `src/content/articles/csa-vs-home-garden.md`
 **Current word count:** ~1,885 words
@@ -3177,7 +3177,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### D007 — Expand five plant pages: broccoli, spinach, swiss-chard, sweet-potato, beet
-**Status:** `[ ]`
+**Status:** `[x]`
 **Load skill:** garden-roi-content
 **Files:** `src/content/plants/broccoli.md`, `src/content/plants/spinach.md`, `src/content/plants/swiss-chard.md`, `src/content/plants/sweet-potato.md`, `src/content/plants/beet.md`
 **Current word counts:** broccoli 1,489 / spinach 1,427 / swiss-chard 1,109 / sweet-potato 1,181 / beet 1,147

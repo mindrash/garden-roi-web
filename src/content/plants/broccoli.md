@@ -43,6 +43,25 @@ That math only works if you keep harvesting. Cut every five to seven days. Don't
 
 Space requirements undercut the per-square-foot numbers: broccoli needs 18-24 inches between plants. You're not getting high plant density. Four plants in a 4x4 raised bed is about the limit, which means maximizing per-plant yield is essential to making broccoli worth the real estate.
 
+### Spring vs. Fall: Which Planting Actually Pays More
+
+Spring broccoli is possible, but fall broccoli is better - for reasons that show up directly in the ROI.
+
+A spring crop matures as temperatures are climbing. The main head sizing-up period falls in May and June, and the side shoot window is compressed by summer heat. When daytime highs hit 80°F consistently, broccoli bolts: the flower buds open, the heads separate, and the plant is done. In Zone 5-6 spring plantings, side shoot production often runs 2 to 3 weeks before heat ends it.
+
+Fall broccoli matures as temperatures drop. Transplants set in mid-July grow through August and produce heads in September and October. The side shoot window, instead of collapsing under heat pressure, actually extends as fall progresses - cooling temperatures slow the bolting signal and concentrate flavor in the leaves. Fall side shoot windows of 4 to 6 weeks are common (Penn State Extension, *Cool-Season Vegetable Production*, 2021).
+
+The practical yield comparison from a single plant:
+
+| Season | Main head yield | Side shoot window | Total per-plant yield | Per-plant value ($2.50/lb) |
+|---|---|---|---|---|
+| Spring (Zone 6) | 1.0-1.5 lb | 2-3 weeks | 2.0-3.0 lb | $5.00-$7.50 |
+| Fall (Zone 6) | 1.0-1.5 lb | 4-6 weeks | 3.5-5.0 lb | $8.75-$12.50 |
+
+Sources: Penn State Extension, *Brassica Crops: Production and Pest Management* (2021); OSU Extension, *Cool-Season Vegetable Production* (2022).
+
+Fall broccoli also tastes better. A frost converts some leaf starches to sugars - a well-documented response in brassicas that holds for broccoli as much as kale. A head harvested in October after two hard frosts has noticeably sweeter flavor than the same variety harvested in June. That quality difference doesn't appear in the price calculation but is a real reason to favor fall planting.
+
 ## Growing requirements
 
 Broccoli is a cool-season crop. That's not a preference - it's a hard constraint. Temperatures above 75-80°F during head formation cause the buds to open prematurely (called "bolting" or "buttoning"), producing a loose, unusable head. The crop has to mature in cool weather.

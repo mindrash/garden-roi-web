@@ -31,6 +31,24 @@ Retail spinach runs $3 to $5 per pound for bunched spinach and $5 to $7 per poun
 
 The honest qualifier: spinach yield is sensitive to timing. A spring planting that gets pushed by warm weather will bolt before you hit full yield. A well-timed fall crop, planted into warm soil with cooling air temperatures ahead of it, can outperform those estimates.
 
+### Spring vs. Fall: The ROI Comparison
+
+The fall spinach crop returns more per square foot than a spring succession in most Zone 5-6 gardens. The biology explains why.
+
+Spring spinach starts in cold soil, grows toward lengthening days and warming temperatures, and bolts when day length and heat exceed its tolerance. A single spring planting might give you 4 to 6 weeks of harvest before it bolts. Succession planting (three sowings, 2 to 3 weeks apart) extends the spring harvest window, but each successive planting encounters progressively longer days and warmer temperatures. The third sowing bolts faster than the first.
+
+Fall spinach runs in the opposite direction. Planted in August into warm soil (fast germination), it grows through cooling September and October into a slowing, cold-hardy plant with no bolt pressure building from the back end. A single fall planting yields as long or longer than a 3-sowing spring succession from the same bed space, with less management.
+
+| Season approach | # of sowings | Productive weeks per sowing | Yield per sowing (0.5 lb/sq ft) | Total from 10 sq ft |
+|---|---|---|---|---|
+| Spring succession (Zone 6) | 3 | 3-4 weeks | 0.5 lb/sq ft at 75% realization | ~11 lb |
+| Fall single planting (Zone 6) | 1 | 5-8 weeks | 0.5 lb/sq ft at 85% realization | ~5 lb |
+| Fall + row cover (Zone 6-7) | 1 | 8-12 weeks (overwintering) | 0.5 lb/sq ft at 85% | ~7 lb |
+
+Sources: Cornell Cooperative Extension, *Spinach Production*, 2022; Penn State Extension, *Cool-Season Vegetable Production*, 2021.
+
+The spring succession still has value - you get fresh greens earlier in the year. But if you're optimizing for yield per unit of seed cost and management effort, fall spinach produces comparable output from one sowing that spring requires three sowings to match.
+
 ## Growing requirements
 
 Soil temperature for germination: 45 to 75°F. Below 35°F, germination stalls. Above 85°F, germination rates drop sharply - which is why a late May direct-seeding attempt is usually a waste of seed. Cornell Cooperative Extension notes that spinach germinates best at 50 to 65°F soil temperature.

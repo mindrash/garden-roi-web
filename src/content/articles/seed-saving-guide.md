@@ -77,15 +77,57 @@ The practical setup is simple: put seeds in paper envelopes (never plastic bags,
 
 Don't skip the paper envelopes inside the jar. Envelopes allow any residual moisture to be absorbed by the silica gel. Seeds sealed directly in glass or plastic without desiccant have nowhere for moisture to go.
 
-Viability varies by crop. The following figures come from USDA seed viability guidelines:
+Viability varies considerably by crop - some seeds are still worth planting at 5 years, others should be replaced after one. The table below covers the full range of crops most home gardeners work with, including which are self-pollinating (easy) and which cross-pollinate (more management required).
 
-- Tomato: 4 to 5 years
-- Pepper: 2 to 3 years
-- Bean: 3 to 4 years
-- Pea: 3 years
-- Lettuce: 2 to 3 years
+### Seed Viability and Pollination Reference
 
-Test old seed before the season by placing 10 seeds between damp paper towels in a warm spot. Count how many germinate in 7 to 10 days. If you get 7 or more out of 10, the seed is worth planting. Below 5, buy fresh.
+| Crop | Optimal storage life | Germination temp (°F) | Pollination type | Isolation needed | Notes |
+|---|---|---|---|---|---|
+| Tomato | 4-5 years | 70-85°F | Self | None typically | Fermentation method required; don't use hybrid varieties |
+| Pepper | 2-3 years | 75-85°F | Self (mostly) | 100-300 ft from other peppers | Hot and sweet cross; single variety = no problem |
+| Bean | 3-4 years | 60-85°F | Self | None | Shell when pods are fully dry and rattling |
+| Pea | 3 years | 45-65°F | Self | None | Prefer cool temps; harvest pods before weather turns wet |
+| Lettuce | 2-3 years | 40-80°F | Self (mostly) | 10-20 ft minimum | Occasional crossing between varieties; subtle variation |
+| Cucumber | 5 years | 70-95°F | Cross | 500 ft from other cucumber varieties | All cucumbers cross; save from one variety per season |
+| Squash | 4-6 years | 70-95°F | Cross | 1,000 ft (same species), none needed across species | Zucchini won't cross with butternut (different species); pumpkin and zucchini will (both *C. pepo*) |
+| Corn | 2-3 years | 60-95°F | Cross (wind) | 1,000 ft minimum | Wind-pollinated; requires large isolation or complete separation between varieties |
+| Carrot | 3 years | 45-85°F | Cross (insect) | 1,000 ft from other carrots and wild Queen Anne's lace | *Daucus carota* crosses with wild carrot; difficult in rural areas |
+| Onion | 1-2 years | 50-85°F | Cross (insect) | 1,000 ft | Short viability; buy fresh seed or save carefully from isolated plants |
+| Brassica (kale, broccoli, cabbage) | 3-5 years | 45-85°F | Cross (insect) | 1,000 ft from any brassica | All *Brassica oleracea* cross freely; kale and broccoli will cross; manage by isolation or timing |
+| Parsnip | 1-2 years | 50-70°F | Cross (insect) | 300 ft | Short viability; test before using stored seed |
+| Basil | 5-8 years | 70-85°F | Self | None | Excellent viability; one plant produces abundant seed |
+| Dill | 3-5 years | 60-70°F | Cross (insect) | 300 ft from other dill | Crosses between dill varieties; functional differences are subtle |
+| Cilantro | 2-3 years | 55-68°F | Cross (insect) | 100 ft | Bolts quickly; let one or two plants run to seed each season |
+
+Sources: USDA seed viability guidelines; Ashworth, Suzanne, *Seed to Seed* (Seed Savers Exchange, 2nd ed., 2002); Cornell Cooperative Extension, *Vegetable Varieties for the Home Garden* (2022).
+
+The two numbers that catch people off guard: onions at 1 to 2 years (most gardeners don't know this and plant dead seed), and cucumbers at 5 years (stored well, they last longer than most people expect). Test any seed older than the table's outer limit using the germination test above before committing a bed.
+
+## Managing Cross-Pollinating Crops
+
+The introduction flagged cross-pollinators as the more complex category and recommended skipping them until you have space and interest. That's still the right advice for beginners. But "more complex" doesn't mean impossible, and the problem has practical solutions.
+
+Cucumbers are the clearest example to walk through. If you grow a single cucumber variety - say, Marketmore 76 - and your nearest neighbor growing cucumbers is 500 feet away, every seed you harvest will grow true. Simple. The problem arrives when you grow two cucumber varieties in the same garden. Marketmore and Spacemaster are both *Cucumis sativus*; a bee visiting both varieties carries Marketmore pollen to a Spacemaster flower, and the resulting seed is a cross. The fruit you harvest looks normal - it's the seed inside that carries the hybrid genetics.
+
+**Solution 1: Grow one variety per season.** This is the easiest answer and the one most home gardeners should use. Pick your best cucumber variety, grow only that one, save seed freely. Rotate varieties in different years if you want variety. This doesn't require any special management.
+
+**Solution 2: Time isolation.** Plant the first variety early, wait until it stops producing and is removed, then plant a second variety. The logic is to keep the two varieties from flowering simultaneously. This works when your season is long enough to run two sequential plantings, and when pollinator pressure doesn't carry pollen from a neighboring garden. Practical in zones 7 and warmer; tight in zone 5-6 with a short summer.
+
+**Solution 3: Hand pollination with tagging.** For crops where you want to maintain two varieties, identify flowers the day before they open (they swell and show color but haven't unfolded). Tape them closed with masking tape or a twist tie. The following morning, transfer pollen from a male flower (carefully opened, tape removed) to the tagged female flower of the same variety using a small brush or cotton swab. Re-tape the female flower for 2 days. Harvest the tagged fruits for seed; leave untagged fruits for eating. This works reliably and is standard practice for plant breeders.
+
+For squash, the same principles apply with one important clarification: only varieties within the same species cross. Zucchini (*Cucurbita pepo*) won't cross with butternut squash (*C. moschata*) or Hubbard squash (*C. maxima*). But zucchini and acorn squash will cross freely - both are *C. pepo*. Learning which species your squash belong to before saving seed prevents unpleasant surprises. Seed catalogs and packets list the species; it's worth noting when you buy.
+
+## What to Do With Surplus Seed
+
+One healthy tomato produces enough seed for 50 or more plants. You need 6. That's 44 viable seeds that most gardeners either store indefinitely or discard. Neither is the best use of them.
+
+**Seed libraries.** Most US public library systems now host seed libraries - collections of open-pollinated seeds that patrons can borrow at no cost, grow, and return fresh seed at season's end. If your county library has one, your surplus tomato and bean seeds are exactly what they want. The Seed Library of Los Angeles, the Richmond Grows Seed Lending Library, and hundreds of local operations use the same model. Seed Savers Exchange (seedsavers.org) maintains a directory of North American seed libraries.
+
+**Seed swaps.** Local garden clubs run annual seed swaps, usually in late winter when gardeners are ordering catalogs. Online communities (r/seedswap, GardenWeb) also facilitate trades. A seed swap is a direct exchange: your surplus Brandywine tomato seeds for someone else's Dragon Tongue bean seeds. You diversify your collection without spending money; they do the same.
+
+**Community gardens.** If there's a community garden in your area, they often accept seed donations for plot holders who can't afford to purchase varieties. Contact the garden manager. Open-pollinated vegetable seeds - particularly reliable workhorses like Mortgage Lifter tomato, Blue Lake beans, or Provider peas - are the most useful donations.
+
+The principle is the same in all three cases: seed is not garbage. It has real value to other gardeners. Sending it somewhere useful costs you a few minutes and an envelope.
 
 ## The Adaptation Advantage
 

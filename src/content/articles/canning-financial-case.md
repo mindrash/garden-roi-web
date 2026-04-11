@@ -76,7 +76,22 @@ Do not use untested recipes from the internet or your grandmother's water bath m
 
 The National Center for Home Food Preservation (nchfp.uga.edu) is the authoritative source for tested recipes and up-to-date guidance. It's the research arm that develops and validates the USDA standards.
 
-Altitude adjustment is also required. At elevations above 1,000 feet, you must increase processing time for water bath canning or increase pressure for pressure canning. The NCHFP tables cover specific adjustments by altitude range.
+### Altitude Adjustment
+
+At elevations above 1,000 feet, water boils at temperatures below 212°F - and that reduction in boiling point means less heat is delivered to the food during processing. The NCHFP requires processing time increases for water bath canning and pressure increases for pressure canning at elevation. This is a safety requirement, not a suggestion.
+
+| Elevation | Water boiling point | Water bath adjustment | Pressure canning adjustment (weighted gauge) |
+|---|---|---|---|
+| 0-1,000 ft | 212°F | None | 10 lbs pressure (as specified in recipe) |
+| 1,001-2,000 ft | 210°F | +1 min per 10-min processing time | 10 lbs pressure |
+| 2,001-4,000 ft | 206°F | +2 min per 10-min processing time | 15 lbs pressure |
+| 4,001-6,000 ft | 202°F | +3 min per 10-min processing time | 15 lbs pressure |
+| 6,001-8,000 ft | 198°F | +4 min per 10-min processing time | 15 lbs pressure |
+| Above 8,000 ft | Below 194°F | Consult NCHFP directly | 15 lbs pressure; longer times |
+
+Source: NCHFP *Complete Guide to Home Canning*, 2015 revision; USDA Agriculture Information Bulletin No. 539.
+
+This matters most for pressure canning, where the margin for error is smaller. Gardeners in Denver (5,280 ft), Albuquerque (5,300 ft), Salt Lake City (4,200 ft), or anywhere in the mountain West need to adjust their pressure gauge settings. A dial-gauge canner is recommended at elevation because it can be set to specific PSI; a weighted-gauge canner only offers 5, 10, or 15 lb settings. Your county extension office can test your dial gauge for accuracy - a $5-10 service that is worth doing when the alternative is underprocessed low-acid vegetables.
 
 ## Equipment Amortization: The First Season Is the Hard One
 
@@ -87,6 +102,41 @@ A pressure canner at $120 used five times per season for 15 years costs $1.60 pe
 Year 1 is the anomaly. You're buying the canner, buying jars, learning the process - and potentially not using everything you bought. After Year 1, your fixed costs are lids ($4-8 per box), energy, and your time. A household that cans seriously - 50+ jars per season across multiple crops - recovers all startup costs in Year 1 or early Year 2. A household that cans occasionally may take 3-4 years.
 
 What makes the amortization math work is consistent use. Buying a pressure canner and using it once is expensive canning. Buying a pressure canner and using it five times per season for a decade makes the equipment cost effectively zero.
+
+Here's the year-by-year math for a household that cans 40 quarts of tomatoes and 20 pints of pickles per season - roughly a mid-sized productive garden. Equipment: water bath canner ($40), 36 wide-mouth quart jars ($54 for 3 dozen), 24 pint jars ($30 for 2 dozen). All jars are reused each year; only lids replace annually.
+
+| Year | Equipment cost | Annual lid cost | Energy | Total cost that year | Cumulative cost | Product canned (60 jars/season) | Retail value at $3.75/jar avg | Cumulative net |
+|---|---|---|---|---|---|---|---|---|
+| 1 | $124 setup | $8 | $9 | $141 | $141 | 60 jars | $225 | +$84 |
+| 2 | $0 | $8 | $9 | $17 | $158 | 60 jars | $225 | +$292 |
+| 3 | $0 | $8 | $9 | $17 | $175 | 60 jars | $225 | +$500 |
+| 5 | $0 | $8 | $9 | $17 | $209 | 60 jars | $225 | +$916 |
+| 10 | $0 | $8 | $9 | $17 | $294 | 60 jars | $225 | +$1,956 |
+
+Source: Retail price average derived from USDA AMS fruit and vegetable retail reports (2024-2025); equipment costs from national retail survey (Ball, Presto).
+
+The equipment cost is irrelevant by Year 2. After that, canning costs $17 per season in consumables - about $0.28 per jar. The retail gap of $3.47 per jar on 60 jars is $208 per season in grocery offset. The setup pays back in Year 1 if you use the equipment fully.
+
+## Seasonal Canning Calendar
+
+Canning isn't a continuous activity - it clusters around harvest windows. For most Zone 5-7 gardens, the canning season runs June through October, with August and September as the peak months when tomatoes and late cucumbers overlap. Here's when each major crop is ready to process and what you're making from it.
+
+| Month | Crop(s) | What you're making | Method | Notes |
+|---|---|---|---|---|
+| June | Strawberries | Jam, preserves | Water bath | Early June peak; 5 lbs + 7 cups sugar = 8 half-pints; process 10 min |
+| June-July | Rhubarb | Jam, sauce, pie filling | Water bath | Rhubarb is naturally acidic; straightforward water bath; sweeten to taste |
+| July | Blueberries | Jam, syrup | Water bath | Freeze surplus if not ready to can; blueberries hold well frozen |
+| July-August | Dill cucumbers | Pickles (dill, bread & butter) | Water bath | Use NCHFP tested brine ratios; don't reduce vinegar or alter ratios |
+| August | Cherry tomatoes | Whole, crushed, sauce | Water bath (with acidifier) | Add 2 tbsp bottled lemon juice per quart; processed bottled lemon juice only - fresh is variable acid |
+| August-September | Main crop tomatoes | Sauce, crushed, whole, salsa | Water bath (with acidifier) | Main canning season for most gardens; salsa requires tested recipe, do not alter peppers/onion ratios |
+| September | Green beans (late harvest) | Canned beans | Pressure only | NCHFP recipe: 1 tsp canning salt/quart optional; 20 min pints, 25 min quarts at 10 lbs pressure |
+| September-October | Applesauce, apple butter | Sauce, butter | Water bath | Applesauce 15 min pints, 20 min quarts; apple butter 5 min half-pints |
+| October | Winter squash, pumpkin | Cubed, pureed | Pressure only (cubed); freeze purée | NCHFP does not have a tested recipe for pureed squash/pumpkin - freeze purée, pressure can only cubed pieces |
+| October | Beets | Pickled or plain | Water bath (pickled) or Pressure (plain) | Plain beets require pressure canning; pickled beets use tested NCHFP recipe with vinegar brine |
+
+Source: NCHFP tested recipe database (nchfp.uga.edu); Ball Complete Book of Home Preserving (2020 edition).
+
+Two things on this calendar worth noting. First, August is the pinch point - tomatoes, cucumbers, and often beans are all ready simultaneously. If you're canning seriously, August requires dedicated days, not opportunistic evenings. Second, the October note on squash: pureed pumpkin is a very common canning project that the NCHFP does not recommend in tested form because the density makes heat penetration to the center of a packed jar unreliable. Freeze the purée. Can the cubed pieces if you want shelf-stable squash.
 
 ## What to Can First
 
