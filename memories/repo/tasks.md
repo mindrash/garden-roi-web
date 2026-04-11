@@ -3086,7 +3086,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### D001 — Expand cover-crops-101.md
-**Status:** `[>]`
+**Status:** `[x]`
 **Load skill:** garden-roi-content
 **File:** `src/content/articles/cover-crops-101.md`
 **Current word count:** ~1,197 words
@@ -3102,7 +3102,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### D002 — Expand soil-ph-by-crop.md
-**Status:** `[ ]`
+**Status:** `[>]`
 **Load skill:** garden-roi-content
 **File:** `src/content/articles/soil-ph-by-crop.md`
 **Current word count:** ~1,423 words

@@ -15,12 +15,6 @@ const articles = allArticles
 >
   <div class="page-header">
     <div class="container">
-      <nav class="breadcrumb" aria-label="Breadcrumb">
-        <ol>
-          <li><a href="/">Home</a></li>
-          <li aria-current="page">ROI</li>
-        </ol>
-      </nav>
       <h1>ROI</h1>
       <p>The financial case for growing your own food  -  crop by crop, dollar by dollar.</p>
     </div>
@@ -48,37 +42,6 @@ const articles = allArticles
 </BaseLayout>
 
 <style>
-  .breadcrumb ol {
-    display: flex;
-    gap: var(--space-xs);
-    list-style: none;
-    padding: 0;
-    margin: 0 0 var(--space-m);
-    font-size: var(--text-small);
-  }
-
-  .breadcrumb li {
-    display: flex;
-    align-items: center;
-    gap: var(--space-xs);
-    color: rgba(255, 255, 255, 0.7);
-  }
-
-  .breadcrumb li:not(:last-child)::after {
-    content: '/';
-    color: rgba(255, 255, 255, 0.4);
-  }
-
-  .breadcrumb a {
-    color: rgba(255, 255, 255, 0.85);
-    text-decoration: none;
-  }
-
-  .breadcrumb a:hover {
-    color: var(--color-white);
-    text-decoration: underline;
-  }
-
   .section-page {
     padding: var(--space-xl) var(--space-l);
   }

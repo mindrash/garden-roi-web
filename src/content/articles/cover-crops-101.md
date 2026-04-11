@@ -67,6 +67,22 @@ The winter-kill characteristic of oats is worth understanding. In zones 5-6, oat
 
 **Hairy vetch (*Vicia villosa*)** - High nitrogen fixer, winter-hardy, works well ahead of corn or heavy-feeding crops. The catch: hairy vetch reseeds aggressively. If you're not on top of terminating it before seed set, you'll be pulling it for years. In a small home garden, that risk is real. Worth considering for larger plots where some escape doesn't become a permanent weed problem.
 
+## Zone-Specific Planting Timing
+
+The window for fall cover crop establishment is narrower than most gardeners think. Seed needs 4-6 weeks of growth before hard frost to establish enough root mass to be useful. If you're in zone 5 and your average first frost is October 15, your cover crop seeding window closes around September 15.
+
+| Zone | Avg first frost | Cover crop seeding window | Termination window (spring) |
+|---|---|---|---|
+| 4 | Sept 15-30 | Aug 15 - Sept 5 | April 15 - May 1 |
+| 5 | Oct 1-15 | Sept 1-20 | April 25 - May 10 |
+| 6 | Oct 15-31 | Sept 15 - Oct 5 | May 1-20 |
+| 7 | Nov 1-15 | Oct 1-20 | May 5-25 |
+| 8 | Nov 15-Dec 1 | Oct 15 - Nov 5 | March 15 - April 15 |
+
+Source: USDA Agricultural Research Service frost date averages, planthardiness.ars.usda.gov.
+
+These are averages, not guarantees. In low-lying frost pockets, you may lose 1-2 weeks off the front end of the establishment window. On south-facing slopes with good drainage, you gain it. Use these as starting points and adjust for your site.
+
 ## Planting and Termination
 
 Sow cover crop seed into a rough but prepared seedbed - you don't need perfect conditions, but scratching seed into the top inch of soil and firming it down improves germination. Broadcast seed evenly, then rake lightly to cover.
@@ -76,6 +92,44 @@ Timing for fall planting: 4-6 weeks before your average first hard frost gives g
 Termination is where most gardeners make mistakes. "Till it in right before planting" is not correct procedure, especially with rye. The standard guidance from Cornell Cooperative Extension is to mow cover crops to 2-4 inches, then incorporate or till, then wait a minimum of 2-3 weeks before planting. The decomposing biomass generates heat and nitrogen gases that can suppress seedling growth. Two weeks of waiting costs you almost nothing. Skipping it can cost you a planting.
 
 For small beds, you can skip mechanical termination entirely and use the occultation method - cover the mowed cover crop with black plastic or a tarp for 2-3 weeks. The cover crop smothers, partially decomposes, and you plant through it or rake it aside.
+
+### Termination method comparison
+
+| Method | How it works | Time needed before planting | Best for | Watch for |
+|---|---|---|---|---|
+| Mow + till | Mow to 2-4 inches, then till in the residue | 2-3 weeks (3 for rye) | Larger beds, power tillers available | Rye allelopathy; don't rush |
+| Mow + wait | Mow flush, leave residue on surface | 3-4 weeks | No-till preference, small beds | Residue dry enough to rake aside for transplants |
+| Occultation | Cover mowed cover crop with black tarp 2-3 weeks | 2-3 weeks under cover, then plant | Beds under 100 sq ft, no tiller | Need heavy tarp that won't blow off |
+| Winter-kill crops | Frost kills the crop; rake in spring | None - plant into the residue | Zone 4-6, oats or field peas | Confirm the crop actually died - check in March |
+
+Source: Cornell Cooperative Extension *Cover Crop Termination Guidelines* (2021).
+
+The allelopathy issue with rye cannot be stressed enough. Rye produces benzoxazinoids - compounds that inhibit germination and early root growth in many plants. The compounds break down in soil within 2-3 weeks after termination. Direct-seeded crops (beans, carrots, beets, spinach) sown within one week of rye termination will show poor germination rates. Transplants are less sensitive because they have established roots. Wait three full weeks if you're direct seeding into a rye bed.
+
+## The 5-Year Value Calculation
+
+The nitrogen math in the opening section showed $0.06 to $0.14 per season for a 100 sq ft bed. That number is real but it's the smallest part of the picture. Here's the full accounting over five years for one 100 sq ft bed seeded annually with crimson clover at $1 in seed per season.
+
+**Nitrogen value accumulation:**
+- Per season: $0.06-0.14 in fixed nitrogen (nitrogen equivalent to 10-10-10 fertilizer)
+- 5 seasons: $0.30-0.70
+
+**Weed suppression labor savings:**
+- Hours saved weeding per season with cover crop vs. bare bed: approximately 4-6 hours based on a bare bed requiring 30 min/week of weed management over 12 weeks of spring/summer
+- At $15/hour (conservative household time value): $60-90/season
+- 5 seasons: $300-450
+
+**Organic matter improvement value (cumulative):**
+- Each incorporated cover crop adds approximately 0.1% organic matter to a 6-inch bed depth over 2-3 seasons (SARE data on OM accumulation from annual cover crops)
+- Higher organic matter reduces need for purchased compost amendments: $10-20/season in avoided compost purchases by year 3-4
+- 5-season value: $30-60
+
+**5-year total return:** $330-520
+**5-year total seed investment:** ~$5 (5 lb clover/rye mix at $1/lb for 100 sq ft)
+
+That's a 66:1 to 104:1 return on seed cost. The leverage is entirely in the weed suppression - not the nitrogen, which most cover crop advocates overemphasize. The nitrogen is a nice bonus. The weeding time you didn't spend is where the real value lives.
+
+Sources: SARE *Managing Cover Crops Profitably* (3rd ed., 2012) for N fixation and OM data; Cornell Cooperative Extension cover crop weed suppression research.
 
 ## What to Expect the First Year
 
