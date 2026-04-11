@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 11, 2026 (CA008-CA034, PE001-PE014, PB001-PB011, D001-D007, PE015-PE027, NA001-NA005 all complete)_
+_Last updated: April 11, 2026 (PE015-PE027, NA001-NA005, SEO001-SEO003, CI001, PE028-PE031, NA006-NA007 all complete)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -3580,6 +3580,276 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 - Intensive spacing table comparing traditional vs sq ft spacing
 - Zero em dashes
 - Source cited for yield-per-sq-ft data (UC ANR or equivalent extension)
+- `npx astro build` passes with 0 errors
+
+---
+
+## SEO Sprint — Copilot
+
+### SEO001 — Internal linking audit and pass
+**Status:** `[x]`
+**Agent:** Copilot
+**What:** Audited all articles and crop pages for missing internal links. Fixed 9 articles with zero or one internal link. Each article now links to 2+ crop pages and 1+ related article.
+**Acceptance:** Done — pushed commit `91d38de`.
+
+---
+
+### SEO002 — Open Graph image audit
+**Status:** `[x]`
+**Agent:** Copilot
+**What:** Verified OG tags in `BaseLayout.astro` (already fully implemented). Updated default `ogImage` from `/logo.png` (299×335, too small) to `/bg-1.webp` (1024×1024). Crop and article pages already passed `hero_image` through to `og:image`.
+**Acceptance:** Done — pushed commit `9e9f510`.
+
+---
+
+### SEO003 — Sitemap and index audit
+**Status:** `[x]`
+**Agent:** Copilot
+**What:** Confirmed `@astrojs/sitemap` in `astro.config.mjs`. Built and verified 199 URLs in `sitemap-0.xml`. `robots.txt` correctly references sitemap. No orphan pages found.
+**Acceptance:** Done — no code change needed.
+
+---
+
+## Crop Infrastructure Sprint — Copilot
+
+### CI001 — Crop page link audit and second-article pass
+**Status:** `[x]`
+**Agent:** Copilot
+**What:** Added second related article link to 34 high-traffic crop pages (each had only 1). Fixed missing `background-color` on `/crops/best-roi/` `.content-wrap` and `404.astro` `.not-found` (text was rendering over background image). Also wrote PE028-PE031 and NA006-NA007 story cards.
+**Files affected:** 34 plant `.md` files, `src/pages/crops/best-roi.astro`, `src/pages/404.astro`
+**Acceptance:** Done — pushed commit `c317c9d`.
+
+---
+
+## Plant Expansion Sprint 5 — Claude Code (PE028+)
+
+### PE028 — Expand zucchini.md
+**Status:** `[ ]`
+**Owner:** Claude Code (content)
+**File:** `src/content/plants/zucchini.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Expand from current stub to 1,200+ words. Must have: (1) ROI section — zucchini $1–2/lb retail; high-yield crop that can produce 6–10 lb/plant/week at peak; total seasonal yield and value per plant vs. seed cost; (2) the oversupply problem — zucchini produces more than most households consume; harvesting strategies (pick small for quality) and surplus management (freezing, gifting, donation); (3) pest and disease — squash vine borer (Zones 5–8) and powdery mildew are the primary yield stoppers; control approaches; (4) variety comparison — dark green bush types vs. yellow summer squash vs. pattypan; (5) succession strategy — plant 2–3 staggered starts to avoid all-at-once production peak. No em dashes.
+**Acceptance:** 1,200+ words, surplus math present, pest section included, zero em dashes, build passes.
+
+---
+
+### PE029 — Expand cabbage.md
+**Status:** `[ ]`
+**Owner:** Claude Code (content)
+**File:** `src/content/plants/cabbage.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Expand from current stub to 1,200+ words. Must have: (1) ROI section — green cabbage $0.60–1.20/lb retail; a single head produces 3–5 lbs; seed-to-harvest ROI math; (2) preservation value — cabbage is the primary sauerkraut crop; 5 lbs cabbage + 1 tbsp salt → ~1 quart sauerkraut ($6–10 retail); fermentation multiplier on harvest value; (3) storage — cabbage stores 3–6 months refrigerated or in root cellar; (4) pest management — cabbage loopers and imported cabbageworm are primary; row cover as prevention; (5) variety comparison — green storage types vs. red vs. savoy; harvest window and storage differences. No em dashes.
+**Acceptance:** 1,200+ words, fermentation ROI math present, storage section included, price cited, zero em dashes, build passes.
+
+---
+
+### PE030 — Expand radish.md
+**Status:** `[ ]`
+**Owner:** Claude Code (content)
+**File:** `src/content/plants/radish.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Expand from current stub to 1,200+ words. Must have: (1) ROI section — radish $1.50–3/bunch retail; 25-day crop produces 8–10 radishes per linear foot; fastest return per day invested of any vegetable; (2) Daikon vs. French Breakfast vs. Easter Egg types — harvest size, maturity time, culinary use, and price per unit at retail; (3) as a succession crop — radishes can fill 25-day slots between slower crops, maximizing bed productivity; succession math (how many radish crops per season in a given zone); (4) cover crop and soil-breaker use — daikon radishes break compaction and decompose over winter; (5) seed saving — radishes self-seed freely; let some bolt for free seed bank. No em dashes.
+**Acceptance:** 1,200+ words, succession math present, variety comparison included, price cited, zero em dashes, build passes.
+
+---
+
+### PE031 — Expand butternut-squash.md
+**Status:** `[ ]`
+**Owner:** Claude Code (content)
+**File:** `src/content/plants/butternut-squash.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Expand from current stub to 1,200+ words. Must have: (1) ROI section — butternut squash $1.50–2.50/lb retail; 2–4 squash per plant at 2–3 lbs each; seasonal yield and value; (2) storage advantage — butternut stores 3–5 months; total storage value math across winter months; (3) space requirement — vining habit needs 6–8 sq ft minimum; trellising option for small gardens; (4) variety comparison — butternut vs. acorn vs. spaghetti vs. kabocha — storage life and retail price differ; (5) curing process — 1–2 weeks at 80°F hardens skin for season-long storage. No em dashes.
+**Acceptance:** 1,200+ words, storage ROI math present, variety comparison included, price cited, zero em dashes, build passes.
+
+---
+
+## New Article Sprint 2 — Claude Code (NA006+)
+
+### NA006 — Create mulching-roi.md
+**Status:** `[ ]`
+**Owner:** Claude Code (content)
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/mulching-roi.md`
+**What:** ROI analysis of mulching — a practice almost every extension service recommends but rarely with financial quantification.
+**Details:**
+- Mulch types and costs: wood chips (free from arborist or chip drop), straw ($8–15/bale), shredded leaves (free), bark mulch ($3–8/bag), cardboard/newspaper (free)
+- Water retention: 2–4" layer reduces irrigation frequency 25–50%; dollar value per season at average water rates
+- Weed suppression: labor savings — unmulched bed requires 2–4x more weeding; time value at any hourly rate
+- Soil temperature moderation: cool-season crops benefit from mulch-cooled soil in mid-summer; extended production window has dollar value
+- Breakdown and amendment: organic mulches improve soil over time; reduced amendment purchase in subsequent seasons
+- Break-even: straw mulch on a 4×8 bed ($8) vs. water savings ($15–30) + weed labor savings (3–5 hours × $15/hr = $45–75) = positive first-season ROI
+- `publishDate: 2026-05-01`, `category: homestead`, `featured: false`
+**Acceptance:** 1,800+ words, water savings math present, weed labor calculation included, mulch type cost table, zero em dashes, build passes.
+
+---
+
+### NA007 — Create watering-schedule-by-crop.md
+**Status:** `[ ]`
+**Owner:** Claude Code (content)
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/watering-schedule-by-crop.md`
+**What:** Practical watering guide by crop — when, how much, and how to tell if you're overwatering or underwatering. ROI angle: correct watering prevents the yield losses quantified in the drip-vs-hand-watering article.
+**Details:**
+- Deep watering vs. surface watering: how root depth affects drought response; table of root depths by crop
+- Watering frequency by crop: tomatoes (1–2"), cucumbers (1"), lettuce (shallow, frequent), garlic (weekly after spring), brassicas (1–1.5") — actual USDA or extension-cited numbers
+- Critical growth stages where water stress causes yield loss: tomato fruit set, corn silking, cucumbers during fruiting
+- Reading the plant: wilting in morning = drought stress; turgid leaves + overcast = wet soil can wait; soil finger test
+- Rain gauge + soil moisture monitor: $10–25 tools that replace guessing; ROI calculation on avoided underwatering losses
+- Mulch integration: how mulch changes watering schedule (covered in mulching-roi but cross-linked)
+- `publishDate: 2026-05-05`, `category: guides`, `featured: false`
+**Acceptance:** 1,800+ words, crop-specific watering table present, critical growth stage section included, zero em dashes, build passes.
+
+---
+
+## Plant Page Expansion Sprint — Depth Pass 2 (PE028-PE031)
+
+All four are existing plant files at ~900-930 words. Target: 1,600+ words each. Load content skill before writing any of them.
+
+### PE028 — Expand cilantro.md to 1,600+ words
+**Status:** `[x]`
+**Files:** `src/content/plants/cilantro.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Deepen the existing cilantro page with a succession planting table, dual-harvest value calculation (leaves + coriander seed), and a culinary applications section.
+**Details:**
+- Read current file first. It covers bolting, slow-bolt cultivars ('Leisure', 'Santo'), ROI basics, growing requirements, what goes wrong, harvest/storage. Missing: specific succession timing table, per-season value calculation across multiple successions, culinary applications.
+- **Section: Succession planting for continuous harvest** - The key to cilantro is planting small amounts often. Add a table: Zone/window/sow date/harvest window/gap to next sow. Example for Zone 6: Sow #1 Apr 1 (soil 55°F+), harvest window Apr 25-May 10, then gap 3 weeks; Sow #2 Apr 22, harvest May 15-Jun 1; continue through early June, then pause for summer heat, resume late Aug-Sep. Include: number of successions possible per season (Zone 5-6: 4-6 in spring+fall windows; Zone 7-8: 5-8), days to harvest per sowing (45-60 days from seed in spring, 35-45 in fall with shorter days). Cite: Penn State Extension *Herb Production*, Oregon State University Extension *Herbs in the Garden* for timing.
+- **Section: Dual-harvest value table** - Cilantro is two crops from one seed packet. Table columns: harvest type / harvest window / yield per sowing / retail price / value per sowing. Leaf harvest: each succession produces 0.15-0.25 lb from a 2-ft row; $6-8/lb = $0.90-2.00/sowing. Coriander seed (let 2-3 plants bolt per succession): 0.5-1 tbsp dried seed per plant (roughly 0.02-0.04 oz per plant at ~3 plants per succession = 0.06-0.12 oz); ground coriander at $4-6/oz specialty retail = $0.24-0.72 per succession. Full season with 5 successions: leaf value $4.50-10.00, seed value $1.20-3.60, total $5.70-13.60 from a $1.99 packet. Source: USDA AMS Specialty Crop Market News for leaf price; specialty spice retail range for coriander seed.
+- **Section: Culinary applications** - Cilantro is the most divisive herb in the American kitchen, which means it's also underused. Cover: (1) where to add it - raw and at the very end of cooking; adding cilantro to a hot pan destroys the volatile aldehydes that give it its flavor in 30 seconds. (2) Uses: salsa verde (the herb base alongside tomatillo and lime, 1/2 cup tightly packed per batch), chimichurri-style preparations, Indian dal (where fresh cilantro garnish is added tableside, not cooked in), Southeast Asian cooking (soups, curries). (3) Coriander seed vs cilantro leaf: entirely different flavor profiles. Coriander seed's main volatile compounds are linalool and terpinene, warm and citrusy; cilantro leaf's are the aldehyde compounds (dodecanal, decanal). Using one as a substitute for the other doesn't work. (4) Storage trick for fresh: cilantro stored upright in a glass with 1 inch of water, loosely covered with a bag, lasts 10-14 days vs 3-5 days wrapped in paper towel. (5) Freezing tip: blend 1 cup cilantro + 2 tbsp water, freeze flat in zip bags, breaks into portions. Preserves flavor reasonably well for cooked applications.
+**Acceptance:**
+- 1,600+ words total (verify with `wc -w`)
+- Succession planting table present with Zone 5-6 example dates
+- Dual-harvest value table present with full-season total from one packet
+- Culinary applications section present covering raw-only use rule and coriander seed distinction
+- Zero em dashes
+- Penn State Extension or Oregon State cited for timing data
+- USDA AMS cited for leaf price; specialty retail range stated for coriander seed
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE029 — Expand shallot.md to 1,600+ words
+**Status:** `[x]`
+**Files:** `src/content/plants/shallot.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Deepen the existing shallot page with a French vs Dutch variety comparison table, a year-by-year multiplication math table, a shallot vs onion ROI comparison, and a culinary applications section.
+**Details:**
+- Read current file first. It covers the 6-8x multiplication model, ROI basics, growing requirements, what goes wrong, harvest/storage. Missing: variety comparison table with specific cultivars, multi-year compounding table, shallot vs onion ROI side-by-side, culinary applications.
+- **Section: Variety comparison table** - Columns: type / example cultivar(s) / offsets per set / storage months / skin color / flavor profile / relative retail premium. French gray ('Grise de Bretagne', 'Griselle'): 4-6 offsets, 3-4 months, gray-purple, intense/complex, highest premium ($7-9/lb specialty). Dutch yellow ('Dutch Yellow', 'Zebrune'): 6-10 offsets, 5-6 months, golden-tan, mild-sweet, moderate premium ($5-7/lb). Dutch red ('Ambition', 'Red Sun'): 6-8 offsets, 4-5 months, red-purple, mild, moderate ($4-6/lb). All USDA AMS Specialty Crop Market News (2023) for pricing; cultivar offset data from NC State Extension *Allium Production Guide*.
+- **Section: Year-by-year multiplication table** - Shows the compounding effect over 3 years of saving sets. Inputs: start with one $3.99 packet = 12 sets. Year 1: 12 sets planted, harvest 72-96 bulbs at 0.25-0.5 lb each = 4-6 lb, save 15 best sets for replanting, sell/use remainder 4-5 lb × $5/lb = $20-25, net after seed cost: $16-21. Year 2: 15 sets planted (free), harvest 90-120 bulbs, save 20 sets, net $22-30 from $0 seed cost. Year 3: 20 sets (free), harvest 120-160 bulbs, save 25 sets, net $30-40. Cumulative 3-year value: $68-96 from $3.99 initial investment. Cite USDA AMS for per-pound pricing.
+- **Section: Shallot vs onion - same bed, different return** - For a 4x8 bed (32 sq ft), compare shallots vs onions. Shallots at 6" spacing = 128 sets; at $5/lb = approximately $80-128 potential harvest value. Storage onions at same spacing: similar yield per plant (0.25-0.5 lb) but $1.00-1.50/lb = $16-26. The premium shallots command per pound makes them roughly 3-4x more valuable per square foot of bed space than storage onions. Cite USDA AMS for both price points.
+- **Section: Culinary applications** - Shallot is a professional kitchen staple that home cooks underuse because they treat it as an expensive onion substitute. Cover: (1) Raw in vinaigrettes - macerated shallot (diced, soaked 10 min in vinegar or lemon juice to kill harsh bite) is the standard French vinaigrette base. The maceration reduces the sulfurous compounds that make raw alliums harsh while preserving the aromatic complexity. Use 1 minced shallot per 3 tbsp oil + 1 tbsp vinegar. (2) Mignonette - the sauce for raw oysters: 2 shallots finely minced + 1/4 cup red wine vinegar + cracked pepper, rest 1 hour. This is the application where French gray shallots specifically matter - the intensity carries through the acid. (3) Shallot confit - slow-cooked whole shallots in butter or oil at 200-225°F for 90 minutes until completely tender, golden, and sweet. Serve with roasted meats. These keep refrigerated 2 weeks. (4) Pan sauce base: when building a pan sauce after searing meat, minced shallot is the aromatic that goes into the hot pan before deglazing. It softens in 60 seconds and provides a sweet allium background that doesn't overpower the fond like onion would.
+**Acceptance:**
+- 1,600+ words total (verify with `wc -w`)
+- French vs Dutch variety comparison table present
+- Year-by-year multiplication table present (Year 1-3 with net values)
+- Shallot vs onion per-bed value comparison present
+- Culinary applications section covering vinaigrette, mignonette, and confit
+- Zero em dashes
+- USDA AMS cited for all pricing; NC State Extension cited for offset data
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE030 — Expand kohlrabi.md to 1,600+ words
+**Status:** `[x]`
+**Files:** `src/content/plants/kohlrabi.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Deepen the existing kohlrabi page with a variety comparison table, a two-season annual value calculation, a comparison of kohlrabi vs other cool-season brassicas for the same bed, and a culinary applications section.
+**Details:**
+- Read current file first. It covers kohlrabi-as-stem-not-root-vegetable, cultivar overview, ROI basics, growing requirements, pests/disease, harvest/storage. Missing: detailed variety table, annual two-season value math for a specific bed, brassica comparison, culinary applications.
+- **Section: Variety comparison table** - Columns: cultivar / type / days to maturity / max size before woody / skin color / flavor notes / best use. White Vienna: standard green type, 45-50 days, 2-3 inch max, pale green, mild, fresh eating or cooking. Green Vienna: similar to White Vienna, slightly richer green, 50-55 days. Purple Vienna: 50-55 days, 2-3 inch, purple skin (white flesh), ornamental + flavorful, stronger farmers market appeal. Kossak: large-bulb type, 80 days, stays tender to 8-10 inches, yellow-green, mild, productive late-season variety. Gigante: Italian heirloom, 130+ days, grows to 10+ inches without getting woody, used for storage. Data from: University of Illinois Extension *Watch Your Garden Grow: Kohlrabi* (2020); Johnny's Selected Seeds variety data cross-referenced.
+- **Section: Two-season production calendar and value** - Kohlrabi's 45-60-day maturity makes it possible to run two full crops in the same bed each season. Spring crop: direct sow 4 weeks before last frost (Zone 6: early April), harvest early June. Fall crop: direct sow 8 weeks before first frost (Zone 6: mid-August), harvest late September to October. For a 4x8 bed at 4-inch spacing = 96 plants. Spring harvest: 96 plants × 0.5 lb average = 48 lb × $2.50/lb = $120. Fall harvest: 96 plants × 0.5 lb = 48 lb × $2.50/lb = $120. Total annual value from one bed: $240 from $2.49 seed (one packet seeds both crops). Note: this is aggressive density; realistic yield for home gardeners is 30-40% lower (30-34 lb per planting × 2 = 60-68 lb annual, $150-170). Source: Penn State Extension *Kohlrabi* for yield range; USDA AMS for pricing.
+- **Section: Kohlrabi vs other spring brassicas** - For a gardener with a 4x8 bed and a spring slot to fill before summer, the options are often kohlrabi, broccoli, or cabbage. Table: crop / days to maturity / yield per bed / retail price / bed value / time to plant summer crops. Kohlrabi: 45-60 days, 20-30 lb, $2.50/lb, $50-75, June 1 bed cleared. Broccoli: 60-85 days, 8-12 lb (heads), $2.50/lb, $20-30, late June cleared. Cabbage: 70-80 days, 15-20 lb, $0.75/lb, $11-15, late June cleared. Kohlrabi wins on speed-to-clearance and value per pound for the same space. The faster bed clearance also matters - getting out by June 1 vs late June gives you 4 extra weeks for summer crops. Source: Penn State Extension yield data; USDA AMS for pricing.
+- **Section: Culinary applications** - Most gardeners who grow kohlrabi eat it one way: raw slices as a snack. It's underused. Cover: (1) Raw - the default. Peel (the skin is tough), slice thin, eat plain or with salt. The flavor is genuinely mild - cross between broccoli stem and apple. (2) Kohlrabi slaw - julienned kohlrabi + carrot + apple, dressed with apple cider vinegar, olive oil, salt. Better than cabbage slaw in texture because kohlrabi stays crisper. Use 3:1 kohlrabi to apple by volume. (3) Roasted - halved or quartered, 400°F for 25-30 minutes until caramelized. The sugars concentrate and the mild flavor deepens. Better with olive oil, salt, and a squeeze of lemon after roasting. (4) The leaves - kohlrabi leaves are nutritionally similar to kale (same species) and cook exactly like kale. Young leaves can go in salads; older leaves are best sauteed or braised. Don't waste them. (5) Kohlrabi doesn't store well once cut; keeps 3-4 weeks whole in the refrigerator. The bulb is 80-90% water - peel just before using.
+**Acceptance:**
+- 1,600+ words total (verify with `wc -w`)
+- Variety comparison table with 5+ cultivars and days-to-maturity data
+- Two-season annual bed value calculation present (spring + fall)
+- Kohlrabi vs broccoli vs cabbage table for same spring window
+- Culinary applications section covering raw, slaw, roasted, and leaves
+- Zero em dashes
+- Penn State Extension or University of Illinois Extension cited for yield data
+- USDA AMS cited for pricing
+- `npx astro build` passes with 0 errors
+
+---
+
+### PE031 — Expand tarragon.md to 1,600+ words
+**Status:** `[x]`
+**Files:** `src/content/plants/tarragon.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Deepen the existing tarragon page with a French vs Russian comparison table, a multi-year perennial ROI table, a propagation guide (division and cuttings), and a culinary applications section.
+**Details:**
+- Read current file first. It covers French vs Russian identification, perennial zones 4-7, basic ROI, growing requirements, what goes wrong, harvest/storage. Missing: side-by-side variety comparison table, multi-year ROI compounding table, propagation methods, culinary applications.
+- **Section: French vs Russian tarragon comparison table** - This distinction is the single most important thing about tarragon and deserves a full table. Columns: characteristic / French tarragon (*A. dracunculus* var. *sativa*) / Russian tarragon (*A. dracunculus*). Leaf shape: narrow, lance-shaped, glossy / slightly wider, duller, may have serrated margins. Scent: strong anise/vanilla when crushed / little to no scent. Flavor: assertive anise, estragole-dominant / bland, grassy. Seed availability: sterile, no viable seed / sets viable seed. How to start: division or cutting only / can start from seed. Cold hardiness: zones 4-7 / zones 3-9. Retail value: $12-18/lb / not sold commercially. Growth habit: upright 18-24 inches, rarely flowers / taller and coarser, flowers and seeds. Why it's sold as seed: Russian tarragon can be sold in seed packets; French tarragon cannot. Any packet labeled "tarragon seed" is Russian. Source: Herb Society of America *Tarragon: An Herb Society of America Guide* (2006); USDA AMS for pricing.
+- **Section: Perennial ROI table** - French tarragon compounds significantly in value over its 5-7 year lifespan. Columns: year / harvest (fresh weight) / value at $14/lb / cumulative value / input cost (cumulative). Year 1: 0.15 lb, $2.10, $2.10, $5 (division purchase). Year 2: 0.25 lb, $3.50, $5.60, $5. Year 3: 0.35 lb, $4.90, $10.50, $5. Year 4: 0.35 lb, $4.90, $15.40, $5 (divide and restart with 2 plants). Year 5+: 0.35 lb/plant × 2 plants = 0.70 lb, $9.80/yr, cumulative value exceeds $25 by year 5. The math: $5 total input, $25+ in herb value across 5 years. One plant's divisions create perpetual free supply. USDA AMS Specialty Crop Market News (2023) for $12-18/lb pricing.
+- **Section: Propagation** - Since French tarragon produces no viable seed, propagation by division or stem cuttings is the only option. Cover both methods: (1) Division - best done in early spring when shoots are 2-3 inches tall, or in fall after the plant goes dormant. Dig the clump, separate into sections with 2-3 shoots each, replant at the same depth. Division every 2-3 years keeps the plant vigorous and creates free new plants. (2) Stem cuttings - take 3-4 inch soft tip cuttings in late spring before the plant becomes woody. Remove lower leaves, dip cut end in rooting hormone (IBA), insert into moist perlite. Keep at 65-70°F with indirect light; roots develop in 3-4 weeks. Success rate 60-70%. This is the way to multiply one purchased plant into many quickly. (3) Why you can't grow from seed and what to look for when buying: see "What it actually is" section (already in file). Add specific buying guidance: look for plants in herb section labeled specifically "French tarragon," not just "tarragon"; crush a leaf before purchasing to confirm strong anise scent.
+- **Section: Culinary applications** - Tarragon is a foundational herb in classical French cooking, which makes it intimidating. It shouldn't be. Cover: (1) Béarnaise sauce - the application most associated with French tarragon. It's a hollandaise variant where white wine and tarragon vinegar replace lemon juice, and fresh tarragon is the finishing herb. The estragole compound in French tarragon is what gives béarnaise its distinctive flavor; Russian tarragon or dried tarragon produces a flat, characterless sauce. Standard ratio: 2 tbsp fresh tarragon + 2 tbsp tarragon vinegar reduced with shallot + 3 egg yolks + 1/2 cup clarified butter. (2) Fines herbes - the classic French blend of four equal-parts fresh herbs: parsley, tarragon, chervil, and chives. Used with delicate proteins (eggs, fish, chicken) where the herbs should complement, not overpower. Add raw or in the last 30 seconds of cooking. (3) Tarragon vinegar - the best preservation method. Fill a jar 2/3 full of fresh tarragon stems, pour white wine vinegar to cover, seal, let steep 2-3 weeks at room temperature out of direct light. Strain. Keeps 6-12 months. Used in vinaigrettes, béarnaise, mignonette, and anywhere you want the flavor without the fresh herb. (4) Chicken with tarragon (poulet à l'estragon) - the quintessential use. Fresh tarragon in the cavity + more added to the pan sauce in the last 5 minutes. Tarragon's anise character is natural with poultry in a way it isn't with beef or pork.
+**Acceptance:**
+- 1,600+ words total (verify with `wc -w`)
+- French vs Russian comparison table with all key distinguishing characteristics
+- Multi-year ROI table (Year 1-5+ with cumulative values)
+- Propagation section covering division and stem cutting methods
+- Culinary applications section covering béarnaise, fines herbes, tarragon vinegar, and chicken application
+- Zero em dashes
+- Herb Society of America or equivalent cited for botanical distinction
+- USDA AMS cited for pricing
+- `npx astro build` passes with 0 errors
+
+---
+
+## New Article Sprint — Depth 2 (NA006-NA007)
+
+### NA006 — Create herb-preservation-guide.md
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/articles/herb-preservation-guide.md`
+**What:** 1,800+ word practical guide to preserving the herb harvest - freezing, drying, and infusing - with a by-herb method table, drying ratios, value calculations, and food safety notes.
+**Details:**
+- Lead: most herb harvests happen in a single week and most gardeners don't have a plan for them. The wrong answer is letting the harvest go to waste; the right answer depends on which herb and how you cook.
+- **The three methods and what each preserves:** Drying works best for herbs with low moisture content and high essential oil concentration (oregano, thyme, rosemary, sage, lavender). Drying concentrates flavor - 1 lb fresh oregano yields ~0.25 lb dried, but that dried material is often more potent per unit than grocery store dried herbs because it was fresh-harvested at peak oil concentration. Freezing preserves flavor better than drying for herbs with high moisture content and delicate volatile compounds (basil, tarragon, parsley, cilantro, chives). Infusing in vinegar or alcohol captures flavor into a shelf-stable liquid; infusing in oil requires refrigeration or heat processing due to botulism risk.
+- **Drying methods and comparison table:** Columns: method / herbs it works for / temperature / time / volatile oil retention / cost. Air drying (bundle and hang): best for low-moisture herbs, 68-80°F, 7-14 days, good retention, $0. Dehydrator: works for all herbs, 95-115°F (critical - above 115°F destroys volatile oils; cite USDA Complete Guide to Home Canning, 2015 revision), 1-4 hours, excellent retention at correct temp, $30-100 equipment. Oven (lowest setting): use 170°F or lowest oven setting, door propped open, 2-4 hours, moderate retention (loses 20-30% of volatile oil vs air drying), $0 equipment. Microwave (emergency method): 30-second intervals until dry, fast but volatile oil loss significant; only for herbs you need quickly. The 4:1 ratio: 1 tablespoon fresh herbs generally equals 1 teaspoon dried. This is not universal - the ratio is closer to 3:1 for less volatile herbs (oregano, thyme) and can be 6:1 for highly volatile ones (tarragon, basil) where drying destroys the most.
+- **Freezing methods:** (1) Whole sprigs: rosemary, thyme, sage - freeze on a sheet pan then transfer to bags. Best for woody herbs. (2) Chopped in water ice cubes: parsley, chives, basil, cilantro. Blend or chop finely, fill ice cube trays 2/3 with herbs, top with water, freeze. Each cube = roughly 1 tablespoon chopped herbs. (3) Chopped in olive oil ice cubes: better than water for basil (prevents oxidation/blackening). Same method, substitute olive oil for water. Use within 3 months for best flavor. (4) Pesto/puree freeze: blend herbs with enough olive oil to form a loose paste, freeze flat in zip bags. Better for larger quantities. (5) Whole-leaf flat freeze: basil can be frozen whole on a sheet pan, then layered with parchment in a bag. Use directly from frozen in cooked applications; texture suffers but flavor holds.
+- **By-herb preservation method table:** The core data asset. Rows: cilantro / basil / parsley / tarragon / oregano / thyme / rosemary / chives / dill / sage / mint. Columns: best method / acceptable alternatives / do not dry (yes/no, with reason) / freezes well (yes/no) / infusion viability / storage duration. Examples: cilantro - freeze (oil cubes), do not dry (volatile oils lost), good frozen 3 months; oregano - air dry (peak oil at harvest), freezes but drying is better, excellent dried 1-2 years; tarragon - freeze (whole sprigs or oil cubes), do not dry (estragole lost), tarragon vinegar is best preservation, good frozen 2-3 months. Source: USDA National Center for Home Food Preservation guidelines; Herb Society of America preservation guides.
+- **Herb-infused oil: the food safety issue** - Low-acid herbs in oil create anaerobic conditions where *Clostridium botulinum* can produce toxin at room temperature. This gets insufficient attention in popular herb guides. The USDA NCHFP (National Center for Home Food Preservation) states: herb-infused oils must be kept refrigerated and used within 1-2 weeks, OR the herbs must be thoroughly dried before infusion, OR the oil must be acidified (commercial producers acidify). Dried-herb-in-oil at room temperature is safe; fresh-herb-in-oil must stay refrigerated. Tarragon vinegar and herb vinegars are safe indefinitely because the acidity (minimum 5% acidity wine vinegar) prevents pathogen growth.
+- **The value math** - Why bother? Dried oregano at grocery store: $2-4/oz. Home-grown and dried: $0 (year 2+ from a perennial plant). One mature oregano plant yields 0.5-1 lb fresh = 2-4 oz dried. At $3/oz average grocery price, one plant's annual harvest = $6-12 in dried oregano from $0 input. Dried thyme: $3-5/oz retail. Fresh basil frozen in oil: $15-25/lb fresh equivalent. The herbs where home preservation delivers the highest value: oregano, thyme, rosemary (dried, perennial, $0 input after year 1), and basil (frozen pesto, captures peak-season production when plants are maxing out).
+- Internal links: /crops/basil/, /crops/oregano/, /crops/thyme/, /crops/rosemary/, /crops/parsley/, /crops/tarragon/
+- publishDate: 2026-04-12, category: homestead, featured: false
+**Acceptance:**
+- 1,800+ words total
+- Drying method comparison table (air/dehydrator/oven with temperature and volatile oil retention)
+- By-herb preservation table (10+ herbs with best method, do-not-dry notes, storage duration)
+- Herb-infused oil botulism risk addressed with NCHFP citation
+- Value math showing dried herb grocery replacement value
+- Zero em dashes
+- USDA NCHFP cited for food safety; Herb Society of America or equivalent for method guidance
+- `npx astro build` passes with 0 errors
+
+---
+
+### NA007 — Create mulching-guide.md
+**Status:** `[x]`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**File:** `src/content/articles/mulching-guide.md`
+**What:** 1,800+ word practical mulch guide covering types, costs, water savings, weed suppression math, and ROI calculation for vegetable garden use.
+**Details:**
+- Lead: mulch is the highest-leverage investment available for a vegetable garden and most people underuse it. Three inches of straw saves as much water as 2 additional waterings per week and eliminates 80% of hand-weeding time.
+- **Mulch type comparison table** - The core data asset. Rows: wood chips / straw / grass clippings / newspaper + cardboard / black plastic / red plastic / landscape fabric. Columns: cost per sq ft / application depth / duration (seasons) / weed suppression (1-5) / moisture retention (1-5) / nitrogen impact / best for / notes. Examples: straw - $0.05-0.10/sq ft for 3-inch depth (one bale covers 50 sq ft at 3 inches, bales $8-12), 1 season, weed suppression 4/5, moisture retention 4/5, neutral-to-slight N tie-up, cool-season vegetables and pathways, use straw not hay (hay contains weed seeds). Wood chips - free if from local arborist (ChipDrop or equivalent), or $2-5/bag at garden centers, 2-3 inch depth, 2-3 seasons duration, suppression 5/5 for thickness, excellent moisture retention, significant N tie-up if fresh and mixed into soil (keep on surface only), permanent bed pathways and perennials. Black plastic - $0.03-0.08/sq ft, 1 season, suppression 5/5, moisture retention 5/5 (no evaporation), neutral N, warm-season crops (tomatoes, peppers, melons) especially in Zone 5-6 where soil warming matters, non-biodegradable (disposal cost and waste). Red plastic - similar to black, tomato-specific research shows 12-20% yield increase vs bare soil for tomatoes specifically (Alabama Cooperative Extension, 2010 study). Landscape fabric - $0.10-0.25/sq ft, 5-10 years, weed suppression excellent when new but degrades; often recommended but problematic for vegetable gardens because it must be disturbed for planting, and weed seeds accumulate on top of fabric over time. Newspaper + cardboard - free from recycling, must overlap 6 inches at seams, suppression good (4/5 when 4-6 layers thick), breaks down in 1 season improving soil, best as base layer under wood chips.
+- **Water savings math** - Unmulched soil in summer loses 0.5-1 inch of water per week to surface evaporation (Cooperative Extension, multiple land-grant sources). A 3-inch straw mulch reduces this by 50-70% (Penn State Extension *Mulches for the Home Garden*, 2019). For a 100 sq ft bed: unmulched = 0.75 inches/week × 100 sq ft = 47 gallons/week. Mulched = 47 × 0.35 = 16 gallons/week. Savings: 31 gallons/week × 16 active summer weeks = 496 gallons. At $0.005/gallon average US water cost (EPA WaterSense data) = $2.48 in water saved. Low dollar value, but the real savings is time: if you're hand-watering or running a timer, reducing from 47 to 16 gallons/week changes the watering schedule from twice/week to once/week or less for most crops. Labor time saved: 1 hour/week × 16 weeks = 16 hours at $10/hr = $160 in time value over a season.
+- **Weed suppression math** - Hand-weeding an unmulched 4x8 bed in summer takes 15-30 minutes per week. A 3-inch mulch layer reduces this to 5-10 minutes per week for the first 3-4 weeks (some light flush-through), then near-zero for the remainder of the season. Over a 20-week season: unmulched weeding = 20 weeks × 20 min = 400 min = 6.7 hours. Mulched weeding = 8 weeks × 10 min + 12 weeks × 2 min = 104 min = 1.7 hours. Time saved: 5 hours × $10/hr = $50 in labor value per bed per season. Straw for one bed: $3-5. The ROI on straw mulch for weed suppression alone is 10-17x in time value.
+- **Wood chip sourcing: the free mulch option** - ArborChip / ChipDrop (chipdrop.com) connects property owners with free wood chip deliveries from local arborists who need to dispose of chips after tree work. A typical load is 5-20 cubic yards (enough to mulch a large garden at 3 inches for free, with significant leftover). The trade-off: you take the whole load, no scheduling control, chips are fresh (high moisture, may heat briefly). The main caution with fresh wood chips in vegetable beds: do not till them in. Fresh chips decompose by consuming nitrogen from the surrounding soil (nitrogen tie-up). On the surface as mulch, this is minimal. Mixed into soil, it causes nitrogen deficiency in plantings. Keep fresh chips on the surface; aged chips (1+ year) are safe to incorporate.
+- **Black plastic for Zone 5-6 tomatoes and peppers** - In cold climates, the soil-warming effect of black plastic translates directly to yield. Tomato transplants into soil above 60°F establish faster and begin flowering 10-14 days earlier than plants set into 50°F soil (NC State Extension *Plasticulture for Home Vegetable Gardens*). Black plastic laid 2 weeks before transplanting raises soil temperature 5-8°F at 2-inch depth. In Zone 5-6 with a May 15-20 transplant date, this can effectively add 2-3 extra weeks of productive season. At typical cherry tomato yield of 8-12 lb per plant × $3-4/lb, 2 weeks of additional production = 1.5-2 lb additional × $3.50 = $5-7 per plant from a $0.10 investment in plastic per square foot of bed space.
+- Internal links: /crops/tomato/, /crops/basil/, /crops/kale/, /guides/drip-vs-hand-watering/, /guides/water-cost-per-crop/
+- publishDate: 2026-04-12, category: care, featured: false
+**Acceptance:**
+- 1,800+ words total
+- Mulch type comparison table with 7+ types, cost per sq ft, and weed/moisture ratings
+- Water savings math with gallon calculation and time value
+- Weed suppression time math (hours saved per season, labor value)
+- Wood chip sourcing section addressing ChipDrop and nitrogen tie-up caution
+- Black plastic soil warming section with zone-specific yield data
+- Zero em dashes
+- Penn State Extension cited for mulch moisture retention data; NC State Extension or equivalent for plastic mulch soil warming
 - `npx astro build` passes with 0 errors
 
 ---

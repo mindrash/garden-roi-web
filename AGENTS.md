@@ -18,6 +18,8 @@ Before touching any files:
 
 **Story range mode:** If given specific story IDs (e.g., "complete E001-E004"), work each in sequence per the tasks.md entry. Do not skip ahead or batch stories.
 
+**`tasks.md` is a workspace file — edit it directly.** Always use file-editing tools (replace_string_in_file, str_replace, etc.) on `memories/repo/tasks.md` in the workspace. Never use a memory API, memory tool, or internal note system to update task statuses — those writes go to a private store that no other agent can read.
+
 ## Network Error Recovery Protocol
 
 If a network error interrupts work mid-session (e.g., `net::ERR_CONNECTION_CLOSED`), recover without requiring the user to re-explain context:
