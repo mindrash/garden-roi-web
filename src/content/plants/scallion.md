@@ -31,6 +31,53 @@ At $3-5/lb retail (USDA AMS Specialty Crop Market News, 2023), a 5-foot row retu
 
 The kitchen scrap regrowth method is worth understanding: when you trim a bunch of store-bought scallions, the root end (1-2 inches with intact roots) will regrow to harvest size in 10-14 days when placed in a glass of water or planted in potting mix. This gives you one additional harvest from a $1.50 grocery store purchase. Repeated cycles are possible, though plant vigor declines after 3-4 cuttings.
 
+### Succession Schedule: Continuous Harvest from a Single Bed
+
+One sowing gives you scallions for two to three weeks before the bed is spent. Succession planting every 3 weeks from 4 weeks before last frost through early July gives you continuous production from late spring through October.
+
+This table uses Zone 6 timing (last frost May 10, first fall frost October 15). Adjust sowing dates 1-2 weeks earlier for Zone 7+, 1-2 weeks later for Zone 5.
+
+| Sowing date | Germination | First harvest | Harvest window |
+|---|---|---|---|
+| April 12 (4 weeks before LF) | April 22 | June 15-20 | Late June - early July |
+| May 3 (1 week before LF) | May 13 | July 5-10 | July |
+| May 24 (2 weeks after LF) | June 3 | August 1-5 | August |
+| June 14 | June 24 | August 22-25 | Late August - September |
+| July 5 | July 15 | September 10-15 | September - October |
+
+Source: Penn State Extension *Vegetable Production Guide* (2023) succession intervals for alliums.
+
+Five rows of 5 feet each - one sown every 3 weeks - requires roughly 25 row feet total and about 0.8 oz of seed ($2.49 covers this easily). Each 5-foot row produces 1.5-2 lb over its productive life. Five rows: 7.5-10 lb total over the season. At $4/lb: $30-40 in gross value from one $2.49 seed packet.
+
+### Scallion vs. Bulbing Onion: When Each Makes Sense
+
+These are fundamentally different crops that occupy different places in a production plan.
+
+| Factor | Scallion (*A. fistulosum*) | Bulbing onion (*A. cepa*) |
+|---|---|---|
+| Days to harvest | 60-70 | 100-130 |
+| Space per unit | 1 inch | 4-6 inches |
+| Storage life | 1-2 weeks fresh, 6 months frozen | 3-6 months cured |
+| Yield per plant | 1-2 oz | 4-10 oz (head weight) |
+| Retail price | $3-5/lb | $0.80-1.50/lb conventional |
+| Best use | Continuous fresh supply, garnish | Cooking, long-term storage, large-scale use |
+
+Source: Penn State Extension *Allium Production Guide* (2022).
+
+The ROI case for scallions is stronger than bulbing onions on a per-square-foot, per-day basis: they return value in 60-70 days versus 100-130; they occupy 1 inch of row space versus 4-6 inches; and their retail value per pound is 3-4x higher. What bulbing onions offer is storage. If you cook with onions daily and can cure and store a 20 lb harvest through winter, bulbing onions make sense in bulk. If you want fresh green onions week to week without committing to long curing times, scallions win.
+
+Both can coexist in the same garden without competition - scallions in the gaps and edges, bulbing onions in a dedicated row.
+
+### Overwintering in Zone 6+
+
+*Allium fistulosum* varieties with good cold hardiness - particularly 'Evergreen Hardy White' and 'Parade' - survive Zone 6 winters reliably when planted in fall and mulched with 2-3 inches of straw after the ground cools but before it freezes.
+
+Fall-plant timing: sow 6-8 weeks before hard freeze (Zone 6: plant by mid-October). Plants establish to 4-6 inches before dormancy. They overwinter as small plants and resume vigorous growth in March - often 3-4 weeks before anything else in the garden is ready to harvest.
+
+This first-of-spring harvest is the practical payoff. When the garden is still mostly bare in late March and early April, overwintered scallions are at their peak and ready to cut. You get the earliest possible fresh harvest from any allium, and from plants that cost nothing beyond what you already spent in fall.
+
+The mulch matters: 2-3 inches of straw insulates the crowns without smothering them. Remove the mulch in March as growth resumes to prevent rot. Overwintered plants will run to seed in early summer and should be replaced by a spring succession planting rather than carried into a second year. Source: Penn State Extension *Allium Production Guide* (2022).
+
 ## Growing requirements
 
 Scallions germinate well in cool soil (45-85°F) and grow best in cool weather. They tolerate light frost and can be planted 4-6 weeks before last frost in spring. In zones 6+, fall-planted scallions overwinter and resume growth early in spring.

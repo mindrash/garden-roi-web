@@ -40,6 +40,23 @@ A well-established cover crop eliminates most of that work. The chickweed that w
 
 That time savings is more immediately valuable than the nitrogen on any single-season accounting.
 
+## Cover Crop Species Comparison
+
+The cover crop you choose depends on your zone, what you're trying to accomplish, and when the bed will be planted again. These six species cover most home garden scenarios:
+
+| Species | Zones | N fixation (lbs/acre) | Biomass (lbs/1,000 sq ft) | Seed cost ($/1,000 sq ft) | Best use | Allelopathy risk |
+|---|---|---|---|---|---|---|
+| Crimson clover (*Trifolium incarnatum*) | 5-9 | 70-150 | 150-250 | $0.50-1.00 | Winter soil cover, N fixation before warm-season crops | None |
+| Winter rye (*Secale cereale*) | 3-8 | 0 (grass) | 300-500 | $0.25-0.50 | Maximum biomass, erosion control, cold climates | High - wait 3 weeks after termination |
+| Hairy vetch (*Vicia villosa*) | 4-9 | 100-200 | 200-350 | $1.00-2.00 | High N fixation ahead of corn or heavy feeders | Low, but reseeds aggressively |
+| Buckwheat (*Fagopyrum esculentum*) | 3-9 (summer only) | 0 (broadleaf, not legume) | 100-200 | $0.50-0.75 | Summer gap filler, fast weed suppression | Low |
+| Field peas (*Pisum sativum* var.) | 4-8 | 50-100 | 150-250 | $0.50-1.00 | Spring or early fall N fixation, good biomass | None |
+| Oats (*Avena sativa*) | 4-8 (winter-kills zone 6) | 0 (grass) | 150-250 | $0.25-0.40 | Winter-kill mulch in zone 5-6, clean spring bed | None |
+
+Sources: SARE *Managing Cover Crops Profitably* (3rd ed., 2012); USDA NRCS plant fact sheets for each species.
+
+The winter-kill characteristic of oats is worth understanding. In zones 5-6, oats planted in September die from frost in November, leaving a flat mat of dead vegetation in place. That mat suppresses early spring weeds and can be raked aside or turned in. You get soil cover all winter without having to terminate in spring - the frost does it for you. In zones 7+, oats overwinter and must be managed like any other cover crop.
+
 ## Cover Crop Options for Home Gardens
 
 **Crimson clover (*Trifolium incarnatum*)** - The most practical legume for home gardens in zones 6-9. Winter annual, meaning it overwinters and sets seed in spring before dying. In zones 4-5, hard frost kills it and leaves a light mulch in place - which is actually useful. Seed cost runs $2-4/lb and covers 300-500 sq ft. Mow and incorporate 2-3 weeks before your planting date to allow decomposition.

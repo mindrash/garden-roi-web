@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 10, 2026 (CA008-CA030, PE001-PE006, PB001-PB011 complete)_
+_Last updated: April 10, 2026 (CA008-CA034, PE001-PE014, PB001-PB011 complete)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -2851,6 +2851,198 @@ featured: false
 
 ---
 
+## Content Expansion Sprint (CA031-CA034, PE007-PE014) — Claude Code
+
+### CA031 — Expand companion-planting-basics.md
+**Status:** `[x]`
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/companion-planting-basics.md`
+**Current word count:** ~712 words
+**Target:** 1,800+ words
+**What's missing:** The article has good pairings but no economic frame, no evidence-level table across all pairings, no guild planting concept, no section on negative interactions beyond the 3 listed, and no actionable spacing or setup guidance. It reads like a list, not an analysis.
+**Add these sections:**
+- Economic case for companion planting: pest damage costs money. A tomato plant losing 20-30% of fruit to aphid colonies represents real dollar loss; insecticidal soap costs $8-12/season per bed. Quantify what companion deterrence is worth — even partial pest reduction has an ROI. Penn State Extension documents aphid damage thresholds on tomato.
+- Evidence level table: expand the current pairing list to at least 8 pairings with a column for evidence basis (controlled trial / repeatable observation / folk wisdom). Include: tomato+basil, tomato+marigold, three sisters, carrots+tomatoes, lettuce+tall crops, mint+brassicas, beans+squash, nasturtium trap cropping, dill+beneficial insects. Give mechanism for each with named source.
+- Spacing and practical setup: companion planting requires actual physical proximity to work. Basil volatiles reach 12-18 inches reliably; marigolds need to border the bed (not just one plant in a corner). Give specific spacing for each pair.
+- Negative pairs expansion: beyond fennel, onions+beans, dill+tomatoes — add: brassicas+strawberry (allelopathic), potato+tomato (shared disease risk — *Phytophthora infestans*), cucumber+sage (documented inhibition). Give the mechanism for each.
+- Guild planting: the concept of a functional grouping (e.g., tomato+basil+marigold+carrot) that addresses multiple goals simultaneously. Frame as the upgrade from pair-based thinking.
+**Acceptance:** 1,800+ words, evidence-level table with 8+ pairings, mechanisms cited for all major claims, practical spacing guidance, zero em dashes, build passes.
+
+---
+
+### CA032 — Expand spring-garden-planning.md
+**Status:** `[x]`
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/spring-garden-planning.md`
+**Current word count:** ~748 words
+**Target:** 1,800+ words
+**What's missing:** The 5-step framework is sound but every step is too thin. No worked example showing what a real 4x8 bed plan looks like. No ROI calculation showing what the plan should target. No frost-date calendar with specific numbers. No crop rotation guidance. No soil prep timeline.
+**Add these sections:**
+- Worked example for a 4x8 bed: taking the 5 steps and showing what a specific household (2 people, $50 annual vegetable spend targeted for offset) would actually plant. Use the value density table from beginner-homestead-crops.md as the input. Show the math: 4x8 = 32 sq ft × $0.50-0.65/sq ft/season = $16-21 value from lettuce alone, etc.
+- Crop rotation basics: same family crops shouldn't occupy the same bed two years running. Solanums (tomato, pepper, eggplant) after legumes is the optimal sequence. Source: UC Davis ANR Vegetable Research and Information Center. This is a concrete planning decision that belongs in a spring planning article.
+- Soil prep timeline: what you should do in February vs. March vs. 2 weeks before planting. Soil temperature matters — below 50°F, most vegetable seeds don't germinate. A $10 soil thermometer is the most useful early-spring tool. Source: Purdue Extension soil temperature guide.
+- Frost-date calendar expansion: the existing table is good but needs specific numbers — expand with hardiness zone column, specific planting windows per zone, and a note on microclimate adjustments. Reference USDA ARS Plant Hardiness Zone Map (planthardiness.ars.usda.gov).
+**Acceptance:** 1,800+ words, worked example for 4x8 bed with dollar values, crop rotation basics sourced, soil prep timeline, zero em dashes, build passes.
+
+---
+
+### CA033 — Expand how-to-measure-yield.md
+**Status:** `[x]`
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/how-to-measure-yield.md`
+**Current word count:** ~789 words
+**Target:** 1,800+ words
+**What's missing:** The article covers scale vs. estimating and herbs, but has no crop-by-crop weight loss table (what you lose by weighing after trimming vs. before), no season totaling guidance, no comparison of what the same crop returns in different management styles (one harvest vs. succession), and no guidance on interpreting your data to improve next season.
+**Add these sections:**
+- Harvest weight loss table: for 8 common crops, what percent of fresh-harvested weight is lost to trimming/prep before eating. Tomatoes lose ~5% (core removal); basil loses 30-40% (stem removal); lettuce loses 15-25% (outer leaves, core); carrot loses 10-15% (tops, peel). Source: USDA AMS commodity grading standards define commercial trim losses; use these as the baseline. Explains why you should weigh pre-trim.
+- Season total methodology: how to add up weekly harvests into a meaningful seasonal number. What a "good" season looks like per crop per square foot based on USDA extension yield data. Gives the reader benchmarks: if you got 8 lb of tomatoes from two plants, that's below average (extension estimates 10-15 lb/plant for indeterminate types, Penn State Extension); if you got 20 lb, that's excellent.
+- Management style comparison: a succession-planted lettuce bed vs. single-wave lettuce bed. The succession version might produce 4-5 lb over the season; the single-wave might produce 1-2 lb. Yield tracking reveals this immediately; without tracking, both just "seemed like a lot of lettuce." Use data from succession-planting-calendar.md.
+- Interpreting your data: end-of-season questions to ask. Which crop returned the highest value per square foot? Which underperformed the extension baseline? Did any crop require so many inputs (spray, trellising, water) that the net value was actually low? This turns yield data into planning decisions.
+**Acceptance:** 1,800+ words, harvest weight loss table sourced to USDA AMS, season totaling guidance with extension benchmarks, management comparison, zero em dashes, build passes.
+
+---
+
+### CA034 — Expand how-to-find-local-prices.md
+**Status:** `[x]`
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/how-to-find-local-prices.md`
+**Current word count:** ~798 words
+**Target:** 1,800+ words
+**What's missing:** The 3 methods are well explained but thin. No actual examples of regional price variation. No organic vs. conventional comparison table. No guidance on seasonal vs. annual pricing. No worked example showing how a price update changes an ROI calculation.
+**Add these sections:**
+- Regional price variation table: 8 key crops × Northeast/Midwest/South/West price comparison, sourced from USDA ERS "Fruit and Vegetable Prices" regional data. Show the actual dollar spread — this is the data readers need to know whether the national default is over- or under-stating their return.
+- Organic vs. conventional comparison table: 8 crops with conventional retail, organic retail, and the premium percentage. Source: USDA ERS Organic Price Review. This belongs in a "finding your price" article because it's a critical variable that most gardeners ignore.
+- Seasonal pricing guidance: same crop has different prices in different months. Cherry tomatoes in August cost $2/lb; in February they're $5/lb. If you're comparing your garden output against in-season retail you may significantly undercount the value, especially for preserved produce (frozen strawberries in December compared against December retail, not June retail). Source: USDA AMS monthly price data.
+- Worked example: take a 4x8 bed with basil, cherry tomatoes, and lettuce. Calculate the ROI at national average prices. Then recalculate at (a) a high-cost city like Seattle and (b) a rural Midwest baseline. Show the spread in both directions. Numbers make the point better than explanation.
+**Acceptance:** 1,800+ words, regional price table with 8 crops × 4 regions, organic premium table, seasonal pricing section, worked example with actual numbers, zero em dashes, build passes.
+
+---
+
+### PE007 — Expand ground-cherry.md
+**Status:** `[x]`
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/ground-cherry.md`
+**Current word count:** ~825 words
+**Target:** 1,400+ words
+**What's missing:** ROI table by variety, succession planting for extended harvest, culinary and preservation section expanded (dried ground cherries at $12-18/lb is mentioned but not developed), and farmers market vs. home use economics.
+**Add these sections:**
+- Cultivar ROI comparison table: Aunt Molly's (most common, reliable yield), Goldie (high sugar, farmers market premium), Cossack Pineapple (large fruit, lower per-fruit count). For each: days to maturity, average plant yield, estimated retail value per plant. Sources: Johnny's Selected Seeds variety data; Cornell Cooperative Extension specialty vegetable trials.
+- Succession planting: one sowing starts in late April indoors, first harvest mid-August. A second sowing in late May extends production into October. For a 90-day productive season, two sowings provide near-continuous harvest rather than one 3-week flush.
+- Preservation expanded: dried ground cherries at $12-18/lb specialty retail. Drying method: 115°F in dehydrator for 8-10 hours until leathery. Jam and salsa preservation — the fruit's pectin content produces good jam set without added pectin; use tested recipe from NCHFP. A half-pint jar of ground cherry jam at specialty food retail: $8-12.
+**Acceptance:** 1,400+ words, cultivar comparison table, preservation economics, zero em dashes, build passes.
+
+---
+
+### PE008 — Expand tomatillo.md
+**Status:** `[x]`
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/tomatillo.md`
+**Current word count:** ~845 words
+**Target:** 1,400+ words
+**What's missing:** Variety comparison table with yield and flavor data, salsa verde preservation economics (the primary use case), heat stress management (the most common summer failure point), and zone guidance.
+**Add these sections:**
+- Variety comparison table: Toma Verde (standard commercial green), Grande Rio Verde (large fruit, high yield), Purple De Milpa (small, sweet, higher market price), Cisineros (purple, cold-tolerant). Days to maturity, approximate yield per plant, and best use for each. Source: University of Minnesota Extension tomatillo variety trials; OSU Extension specialty crop guide.
+- Salsa verde preservation: the primary reason most households grow tomatillos in volume. NCHFP has a tested salsa verde recipe for water bath canning. Quantify: 4 cups roasted tomatillos + aromatics → 2 pints salsa verde. At $4-6/pint retail for jarred salsa verde, a 6-plant bed producing 15-20 lb yields 8-10 jars = $32-60 in preserved value. Use only tested NCHFP recipe — do not modify proportions.
+- Heat stress and flower drop: temperatures above 95°F cause flower drop. In Zone 7-9 summers, this can interrupt fruit set for 2-4 weeks. Management: shade cloth rated 30-40% during peak heat, consistent moisture, and accept that some loss is normal. Do not prune during heat stress.
+**Acceptance:** 1,400+ words, variety table, preservation economics with NCHFP citation, heat stress section, zero em dashes, build passes.
+
+---
+
+### PE009 — Expand gooseberry.md
+**Status:** `[x]`
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/gooseberry.md`
+**Current word count:** ~858 words
+**Target:** 1,400+ words
+**What's missing:** A 10-year ROI table, cultivar comparison table with disease resistance data, pruning guide with specific cane-age management, and preservation economics.
+**Add these sections:**
+- 10-year ROI table: Year 0 (plant cost $4.99 + $10 soil prep), Year 1 (0.5 lb), Year 2 (1.5 lb), Year 3+ (4-6 lb/year). At $5/lb, cumulative value vs. cumulative input cost. Break-even: Year 3. Source: University of Minnesota Extension gooseberry production guide; USDA AMS specialty berry prices.
+- Cultivar comparison table: Hinnomaki Red (Finnish, mildew-resistant, good flavor), Hinnomaki Yellow (gold fruit, good flavor), Poorman (American-European cross, vigorous, reliable), Invicta (British, white-green fruit, mildew-resistant, highest yield). Columns: fruit color, mildew resistance, Zone, approximate yield. Source: University of Vermont Extension small fruit guide.
+- Pruning guide: gooseberries fruit on 1, 2, and 3-year-old canes. The management goal is to maintain a mix of all three ages, removing all canes older than 3 years. In practice: at dormant pruning, remove all canes at or near ground level that are more than 3 seasons old (wood is dark brown and gnarly vs. the lighter green-gray of young canes). Leave 4-5 canes of each age class. Open center pruning for airflow. Source: Cornell Cooperative Extension small fruits guide.
+**Acceptance:** 1,400+ words, 10-year ROI table, cultivar comparison, pruning cane-age guidance, zero em dashes, build passes.
+
+---
+
+### PE010 — Expand scallion.md
+**Status:** `[x]`
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/scallion.md`
+**Current word count:** ~863 words
+**Target:** 1,400+ words
+**What's missing:** Succession planting schedule for continuous harvest, comparison to bulbing onion economics, overwintering detail for Zone 6+, and a per-row ROI table.
+**Add these sections:**
+- Succession planting schedule: every 3 weeks from 4 weeks before last frost through July produces near-continuous scallion harvest. Table: sowing date → approximate harvest date → weeks of supply. In Zone 6, that's 5-6 sowings providing harvest from May through October. Penn State Extension vegetable production guide succession intervals.
+- Scallion vs. bulbing onion comparison: scallions mature in 60-70 days vs. 100-130 days for bulbing onion; use less space; return value earlier; cannot be stored long-term. Bulbing onion returns more value per plant but at significantly longer time-to-harvest. Use the comparison to frame when scallions make more sense (small space, continuous supply) vs. bulbing onions (storage, larger yield per plant).
+- Overwintering in Zone 6+: fall-planted *A. fistulosum* varieties with good cold hardiness (Evergreen Hardy White, Parade) survive Zone 6 winters under light mulch and resume growth before most spring crops are planted. This provides the earliest spring harvest of any allium. Source: Penn State Extension allium production guide.
+- Per-row ROI table: 5-foot row data across 4 succession plantings: seed cost, yield per row, retail value, net value. Shows how succession multiplies the return from a modest investment.
+**Acceptance:** 1,400+ words, succession schedule table, scallion vs. onion comparison, overwintering guidance, zero em dashes, build passes.
+
+---
+
+### PE011 — Expand purslane.md
+**Status:** `[x]`
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/purslane.md`
+**Current word count:** ~868 words
+**Target:** 1,400+ words
+**What's missing:** A nutritional comparison table with other greens, cultivated vs. wild performance comparison, a cutting frequency and yield table, and more developed culinary use guidance.
+**Add these sections:**
+- Nutritional comparison table: purslane vs. spinach vs. kale vs. arugula for omega-3 (ALA), vitamin C, calcium, and iron per 100g. Source: USDA FoodData Central for all values. This is the table that justifies the "highest omega-3 of any leafy green" claim with actual numbers. Purslane: ~300-400mg ALA/100g; spinach: ~138mg; kale: ~180mg.
+- Cultivated vs. wild performance comparison: wild purslane (*Portulaca oleracea* var.) has smaller leaves and prostrate growth. Cultivated varieties ('Goldgelber,' 'Gruner,' 'Golden Purslane') produce upright stems 8-12 inches tall with leaves 3-5x larger. At equivalent spacing, cultivated yields 3-5x more harvestablemass per square foot. University of Vermont specialty crops trial data.
+- Cutting frequency and yield table: 4x4 bed, first harvest at 30 days, subsequent cuttings every 3-4 weeks until frost. 3 harvests/season typical in Zone 6. Per-harvest yield: 0.5-1.5 lb. Seasonal total: 1.5-4.5 lb at $4/lb = $6-18 from a bed that requires zero irrigation. Show the math.
+- Culinary use expanded: Middle Eastern fattoush (the traditional use), Greek horta (wilted with olive oil and lemon), raw salads, and soup thickener. The mucilaginous quality - from the polysaccharides in the cell walls - functions like a natural thickener in soups and stews in the same way okra does. This isn't widely known and is useful for readers wondering what to do with a surplus.
+**Acceptance:** 1,400+ words, USDA FoodData Central nutritional table, cultivated vs. wild yield comparison, cutting schedule with ROI, zero em dashes, build passes.
+
+---
+
+### PE012 — Expand marjoram.md
+**Status:** `[x]`
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/marjoram.md`
+**Current word count:** ~877 words
+**Target:** 1,400+ words
+**What's missing:** Flavor and use comparison table vs. oregano (same genus, different crop), a dried vs. fresh value analysis, companion planting mechanism expanded, and a culinary use guide by dish type.
+**Add these sections:**
+- Marjoram vs. oregano comparison table: scientific name, flavor profile (volatile compounds: marjoram is high in sabinene hydrate; oregano is high in carvacrol and thymol — these are why they taste different), heat stability, culinary uses, cold hardiness. Source: USDA ARS essential oil composition data; Baser KH et al., *Flavour and Fragrance Journal* for volatileoil composition.
+- Fresh vs. dried value analysis: marjoram loses nuance in drying unlike oregano, which intensifies. The practical implication: dried marjoram is worth growing for surplus, but the premium is in fresh marjoram for cooking. Fresh marjoram at $8-12/lb; dried at most grocery stores sells for $0.50-1.00/0.5 oz jar = $16-32/lb equivalent. Growing your own dried marjoram replaces specialty store purchases at significant markup. Show the math.
+- Companion planting mechanism: marjoram's volatile oils (particularly sabinene hydrate and terpinen-4-ol) show documented repellent activity against certain thrips and aphid species. Unlike basil, which is well-studied, marjoram companion evidence is primarily from Italian intercropping research. Flag the evidence quality honestly. Source: Montemurro et al., *Industrial Crops and Products* (2016) on Origanum volatile deterrence.
+- Culinary guide: this herb is underused because cooks don't know when to use it. Specific applications: French fines herbes mix (equal parts parsley, chervil, tarragon, marjoram); German Wurstkraut (sausage spice); egg dishes where oregano would be too assertive; tomato sauces where it's added in the final 2 minutes off heat. The use case is specifically "where you want herb flavor without intensity."
+**Acceptance:** 1,400+ words, oregano comparison table, dried value math, companion mechanism cited, culinary guide, zero em dashes, build passes.
+
+---
+
+### PE013 — Expand radicchio.md
+**Status:** `[x]`
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/radicchio.md`
+**Current word count:** ~879 words
+**Target:** 1,400+ words
+**What's missing:** A variety timing table (different types have different day ranges), blanching/forcing technique for Treviso types, ROI comparison to other chicories, and a culinary guide that makes the bitterness argument.
+**Add these sections:**
+- Variety timing and characteristic table: Chioggia (60-85 days, compact round head, most forgiving), Treviso Early (70-85 days, elongated, sharper flavor), Castelfranco (75-90 days, loose spotted head, mildest), Chioggia Rossa Verona (65-75 days, compact, cold-hardy to Zone 5). With columns: type, days from transplant, head shape, bitterness level, cold tolerance, best Zone. Source: Fedco Seeds variety descriptions; Johnny's Selected Seeds trial data.
+- Blanching/forcing Treviso: cutting Treviso to 1 inch above the crown in October, covering the stumps with 4-6 inches of soil or a bucket to exclude light, and harvesting the etiolated regrowth (puntarelle) 3-4 weeks later is the traditional Italian production method. The forced growth is more tender and less bitter than standard heads. This is not widely described in US gardening literature. Source: Nardozzi, *Vegetable Gardening for New England*, for forcing technique reference.
+- ROI vs. other chicories: radicchio at $4-6/lb vs. Belgian endive at $4-7/lb vs. escarole at $2-3/lb vs. frisée at $3-5/lb. For cooks in the chicory style, radicchio has the strongest market presence and easiest home production. The full chicory family competes for the same bed space and similar price points — show the comparison.
+- Culinary guide for the bitter skeptic: raw in salads with sweet vinaigrette (bitterness and sweetness balance); grilled or roasted (heat reduces bitterness by breaking down bitter glycosides); braised in white wine; in risotto where color and subtle bitterness are the point. The bitterness is not a flaw to be minimized — it's the functional flavor. This framing helps readers understand what they're growing and why.
+**Acceptance:** 1,400+ words, variety timing table, forcing technique, chicory ROI comparison, culinary guide, zero em dashes, build passes.
+
+---
+
+### PE014 — Expand tatsoi.md
+**Status:** `[x]`
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/tatsoi.md`
+**Current word count:** ~882 words
+**Target:** 1,400+ words
+**What's missing:** A cold-hardiness comparison table with other salad greens, a season-extension value calculation, more detail on row cover use, and a culinary use guide.
+**Add these sections:**
+- Cold-hardiness comparison table: tatsoi (15°F), kale (-10°F with cover), spinach (25°F unprotected / 20°F covered), arugula (20-25°F), mizuna (25-28°F), mâche (5°F). With columns: crop, low temp survival, frost texture, season extension weeks vs. lettuce. This table is the reason to grow tatsoi — the data makes the case better than prose. Source: Cornell Cooperative Extension; Penn State Extension cold-hardy greens guide.
+- Season-extension value calculation: if tatsoi extends the fresh-greens season by 4-6 weeks beyond when lettuce, arugula, and spinach are done, and a typical household uses 0.5 lb of salad greens per week, that's 2-3 lb of additional produce at $4-6/lb retail = $8-18 in additional value from the same bed space. Show the math explicitly.
+- Row cover use: floating row cover (1.5 oz/sq yd weight) extends tatsoi's effective season another 2-4 weeks in Zone 5-6. Temperature inside row cover on a 28°F night: approximately 35-38°F - above the no-cover tolerance of 15°F but the advantage is consistent production vs. freeze-thaw recovery cycles. Source: ATTRA (National Sustainable Agriculture Information Service) season extension guide.
+- Culinary guide: tatsoi raw in salads (substitute anywhere you'd use baby spinach; similar flavor, different texture); stir-fried (handles high heat well; wilts quickly; 90-second maximum wok time for tender leaves); in miso soup or Asian broths where it's added in the final minute. The mild flavor and tender-yet-substantial texture makes it more versatile than it looks.
+**Acceptance:** 1,400+ words, cold-hardiness table, season-extension value calculation, row cover guidance, zero em dashes, build passes.
+
+---
+
 ## Pillar Page Sprint (F010) — Copilot
 
 ### F010 — Best ROI Crops pillar page
@@ -2884,6 +3076,119 @@ featured: false
 - Page linked from `/crops/` index and `/start-here/`
 - `npx astro build` passes with 0 errors
 - No hardcoded crop data — all values pulled from content collection frontmatter at build time
+
+---
+
+## Content Depth Sprint (D001-D007) — Claude Code
+
+All stories in this sprint expand underweight articles and plant pages. Load `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md` before writing. Build must pass 0 errors after each story.
+
+---
+
+### D001 — Expand cover-crops-101.md
+**Status:** `[>]`
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/cover-crops-101.md`
+**Current word count:** ~1,197 words
+**Target:** 2,000+ words
+**What's missing:** The article explains why cover crops work (nitrogen, weed suppression) and lists 4 species, but lacks a comparison table that lets readers choose the right species, zone-specific timing, a combined multi-year value calculation, and more detail on termination methods.
+**Add these sections:**
+- Cover crop species comparison table: rows = crimson clover, winter rye, hairy vetch, buckwheat, oats, field peas. Columns: zones, N fixation (lbs/acre from SARE data), biomass production (lbs/1,000 sq ft), seed cost ($/1,000 sq ft), best use, allelopathy risk. Source: SARE *Managing Cover Crops Profitably* (3rd ed.); NRCS plant fact sheets.
+- Zone-specific timing table: when to sow (fall planting window by zone), when to terminate (minimum weeks before planting), relevant frost dates. Zones 4-8. Source: USDA ARS frost date data.
+- Combined 5-year value calculation: year-by-year accumulation of nitrogen value ($0.06-0.14/100 sq ft/season) plus weed suppression time savings (6 hrs/season at $15/hr = $90). Show how the combined value over 5 years is $450-470, dwarfing the annual seed cost of $4-6/season. Makes explicit what "cumulative value" actually means with real numbers.
+- Termination method comparison: mowing + waiting vs. till-in vs. occultation. Pros/cons of each for home gardens. Specific timing for rye (minimum 3 weeks due to allelopathy) vs. clover (2 weeks adequate). What to plant immediately after vs. what needs a wait period. Source: Cornell Cooperative Extension *Cover Crop Termination Guidelines*.
+**Acceptance:** 2,000+ words, species comparison table with 6 rows, zone timing table, 5-year value calculation, zero em dashes, build passes.
+
+---
+
+### D002 — Expand soil-ph-by-crop.md
+**Status:** `[ ]`
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/soil-ph-by-crop.md`
+**Current word count:** ~1,423 words
+**Target:** 2,000+ words
+**What's missing:** Good chemistry and adjustment guidance exist, but no amendment cost table, no visual symptom guide, no worked example showing the full correction calculation.
+**Add these sections:**
+- Amendment comparison table: calcitic lime vs. dolomitic lime vs. wood ash (for raising pH) vs. elemental sulfur vs. aluminum sulfate vs. acidified compost (for lowering). Columns: material, typical $/50 lb bag, how it works, reaction speed, when to use it vs. alternatives, source. USDA NRCS and Penn State Extension sources.
+- Visual symptom identification: what pH problems actually look like in the garden. Table: symptom (interveinal yellowing on young leaves = iron/manganese deficiency from high pH; brown speckling on older leaves = manganese toxicity from low pH; stunted roots = aluminum toxicity; poor nodulation on legumes = pH below 6.0). Each symptom with likely pH cause and correction.
+- Worked example: a Zone 6 garden soil testing pH 5.2. Target: 6.5. Soil type: loam. Amendment needed: 100-150 lb/1,000 sq ft calcitic lime per Penn State rates. Timing: apply fall for spring planting. Cost: $20-30 in lime. Expected result timeline: 6 months to achieve full correction. Compare against cost of one season's reduced tomato yield from a pH 5.2 bed (~20% yield reduction on 4 plants at $3/lb = $30-50 in lost produce). The test pays for itself in one season.
+- Regional soil context: Northeast/Mid-Atlantic soils tend to be naturally acidic (pH 4.5-6.0) due to high rainfall leaching calcium. Great Plains and Southwest soils trend alkaline (7.0-8.5) from low rainfall and calcareous parent material. Pacific Coast varies widely by microclimate. This context helps readers know their starting point before testing. Source: USDA NRCS Web Soil Survey regional data.
+**Acceptance:** 2,000+ words, amendment cost table, visual symptom table, worked example with cost calculation, zero em dashes, build passes.
+
+---
+
+### D003 — Expand seed-saving-guide.md
+**Status:** `[ ]`
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/seed-saving-guide.md`
+**Current word count:** ~1,581 words
+**Target:** 2,000+ words
+**What's missing:** The easy-5 crops are well covered. The article doesn't address cross-pollinators, doesn't have a complete viability table, and doesn't explain what to do with excess seed.
+**Add these sections:**
+- Complete seed viability table: 15+ crops. Columns: crop, storage life at ideal conditions, germination temp range, self or cross pollinator, isolation distance if cross. Tomato 4-5 yr, pepper 2-3 yr, bean 3-4 yr, pea 3 yr, lettuce 2-3 yr, cucumber 5 yr (cross), squash 4-6 yr (cross, inbreeds within species), corn 2-3 yr (cross, 1000 ft), onion 1-2 yr, carrot 3 yr (cross, 1000 ft), brassica 3-5 yr (cross, 1000 ft). Source: USDA seed viability guidelines; Seed to Seed, Ashworth (Seed Savers Exchange, 2002).
+- Managing cross-pollinating crops: cucumbers as the practical example. If growing one cucumber variety, seeds will grow true. If growing two cucumber varieties (Marketmore and Spacemaster), the seeds will cross. Solutions: time isolation (plant varieties 30+ days apart so blooms don't overlap), distance isolation (500+ feet between varieties, impractical for most home gardens), or hand pollination with masking tape seal. For the home gardener: the easiest answer is growing only one variety of each cross-pollinating crop per season.
+- What to do with surplus seed: seed libraries (most US counties have a seed library through the public library system; seeds can be borrowed and returned at season end), seed swaps (local garden clubs, online communities, Seed Savers Exchange annual seed swap), seed donation to community gardens. The surplus from one healthy tomato plant - hundreds of seeds - has real value to other gardeners. Don't compost it.
+**Acceptance:** 2,000+ words, viability table with 12+ crops, cross-pollination management section, surplus seed guidance, zero em dashes, build passes.
+
+---
+
+### D004 — Expand beginner-homestead-crops.md
+**Status:** `[ ]`
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/beginner-homestead-crops.md`
+**Current word count:** ~1,695 words
+**Target:** 2,000+ words
+**What's missing:** Article is strong on crop selection, ROI math, and common mistakes. Missing: a harvest calendar showing when each crop peaks in a typical season, and a year 2 expansion guide.
+**Add these sections:**
+- Harvest timing calendar: table showing what each of the 5 crops produces month by month in Zone 6 (May-October). Columns: crop, May, June, July, Aug, Sept, Oct. Cells: "starting/early", "peak", "declining/replant", "done", "fall succession" etc. This gives first-year gardeners realistic expectations for when they'll have food, not just if they will. Based on standard frost dates and maturity data.
+- Year 2 expansion guide: once you've grown the core 5 through one season, which 3 crops to add next and why. Best candidates: garlic (plant in fall for summer harvest - lowest maintenance, high value, can be planned around existing bed schedule); cucumber (high value, complements existing tomato/basil bed, relatively easy); kale (extends season into winter, low maintenance once established). Each with brief rationale tied back to value density and production timing. This avoids the common Year 2 mistake of adding too many crops at once.
+**Acceptance:** 2,000+ words, harvest calendar table, year 2 expansion section, zero em dashes, build passes.
+
+---
+
+### D005 — Expand canning-financial-case.md
+**Status:** `[ ]`
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/canning-financial-case.md`
+**Current word count:** ~1,810 words
+**Target:** 2,200+ words
+**What's missing:** Equipment amortization and safety are covered well. Missing: altitude adjustment (safety-critical and not yet mentioned), year-by-year equipment cost table, seasonal timing guide for when to can what.
+**Add these sections:**
+- Altitude adjustment: at elevations above 1,000 feet, water boils below 212°F - water bath processing times must increase, and pressure canning PSI must increase. Table: elevation range, boiling point of water, water bath adjustment (add minutes), pressure canning adjustment (increase PSI). Source: NCHFP altitude adjustment tables. This is a safety issue that omitting can cause botulism; it must be in any canning article.
+- Year-by-year equipment amortization table: for a household that cans 40 jars/season of tomatoes and 20 jars/season of pickles. Columns: year, fixed costs (depreciation), lid costs, energy costs, total cost that year, cumulative total cost, cumulative value of product canned. Shows break-even clearly. Water bath canner ($40) + jars ($60) = $100 initial. Lids $8/year. Year 1 total: ~$115. Year 5 total: ~$147 (cumulative). Product value at $3.50/jar average: $210/year. 5-year product value: $1,050. 5-year net: $903.
+- Seasonal canning calendar: what to process and when, by month. June: strawberry jam, rhubarb. July: blueberries, early dill pickles. August: tomatoes (main season), cucumbers. September: tomatoes (late), applesauce, salsa. October: winter squash (pressure), root vegetables. This shows readers when to have equipment ready, lids purchased, and time blocked. Source: NCHFP seasonal canning guides.
+**Acceptance:** 2,200+ words, altitude adjustment table, amortization table, seasonal calendar, zero em dashes, build passes.
+
+---
+
+### D006 — Expand csa-vs-home-garden.md
+**Status:** `[ ]`
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/csa-vs-home-garden.md`
+**Current word count:** ~1,885 words
+**Target:** 2,200+ words
+**What's missing:** Year 1 vs Year 2+ comparison exists. Missing: a 10-year cumulative cost table, CSA type variation (not all CSAs are the same), and a section on skill accumulation as an asset.
+**Add these sections:**
+- 10-year cumulative cost table: CSA (full share at $900/year) vs. home garden (Year 1 $800 setup + recurring $160/year) vs. hybrid approach (half-share $500 + garden $200). Three scenarios, 10 rows (Year 1-10), cumulative cost column for each. Shows the compounding divergence. At Year 10: CSA total $9,000; home garden $2,240; hybrid $3,240. This is the clearest version of the 10-year math mentioned in the article but currently presented only as a paragraph.
+- CSA type variation: not all CSAs deliver the same value. Standard vegetable CSA (most common, described above); specialty/cultural CSA (Korean, Mexican, Japanese varieties that home gardens rarely grow - highest uniqueness premium); community-run CSA (member-labor reduces cost 20-40%, usually nonprofit); farm-plus-CSA hybrid (pickup at farm includes u-pick options, adds direct market value). Brief table: type, typical price range, what you get that you can't replicate at home, who it's best for.
+- The skill accumulation argument: a home garden gets better every year in ways a CSA subscription doesn't. Year 1: learning curve, lower yield, more crop failures. Year 3: you've solved your major pest problems, know your microclimate, know which varieties work. Year 5: perennial crops (strawberries, asparagus, herbs) are producing without replanting cost. The garden's effective ROI improves annually while the CSA cost stays flat. This isn't captured in a single-year analysis. Frame it as a compound return that a subscription service can't match.
+**Acceptance:** 2,200+ words, 10-year cumulative cost table with 3 scenarios, CSA type table, skill accumulation section, zero em dashes, build passes.
+
+---
+
+### D007 — Expand five plant pages: broccoli, spinach, swiss-chard, sweet-potato, beet
+**Status:** `[ ]`
+**Load skill:** garden-roi-content
+**Files:** `src/content/plants/broccoli.md`, `src/content/plants/spinach.md`, `src/content/plants/swiss-chard.md`, `src/content/plants/sweet-potato.md`, `src/content/plants/beet.md`
+**Current word counts:** broccoli 1,489 / spinach 1,427 / swiss-chard 1,109 / sweet-potato 1,181 / beet 1,147
+**Target:** All at 1,600+ words minimum
+**Add to each:**
+- Broccoli (needs ~120 words): Add a spring vs. fall yield comparison section. Fall broccoli outperforms spring in two measurable ways: longer side shoot window (4-6 weeks vs 2-3 weeks due to cooling temperatures slowing bolt pressure) and better flavor (Penn State Extension). Quantify: fall broccoli may yield 4-5 lb per plant vs 2.5-3 lb from spring. That changes the per-plant value from $6-7.50 (spring) to $10-12.50 (fall) at $2.50/lb. One section, ~120 words.
+- Spinach (needs ~175 words): Add a spring vs. fall ROI comparison. Fall spinach from a single sowing is typically more productive than spring succession because it matures in cooling temperatures with no bolt pressure. Quantify: spring succession (3 plantings, each 1-2 weeks productive) vs. fall single planting (4-6 weeks productive, potential overwintering). Data from Cornell Cooperative Extension and Penn State Extension. Table: spring succession (3 plantings × 0.5 lb/sqft × short window) vs. fall crop. ~175 words.
+- Swiss chard (needs ~500 words): Add a season length comparison vs. other greens (chard runs 5-6 months vs spinach 4-6 weeks per sowing, lettuce 3-4 weeks per sowing). Add a cooking guide with specific applications: stems and leaves cook at different rates - stems need 3-4 minutes, leaves 1-2 minutes; rainbow chard color fades with prolonged cooking; best uses (sautéed with garlic, added to soups, stem gratin). Add a per-season yield accumulation calculation: one plant at 1 lb/season spread over 5-6 months gives what weekly rate, compared to what you'd buy. ~500 words.
+- Sweet potato (needs ~420 words): Add a variety ROI comparison table (Beauregard at $1.75/lb conventional vs. Murasaki/Japanese white at $3-5/lb specialty; 4 lb per slip × price difference = significant ROI gap). Add a spacing and bed management section: slips planted 12-18 inches apart in rows 3-4 feet apart; 6 slips in a 4x8 bed; expected yield at full spacing. Source: University of Georgia Extension, NC State Extension. ~420 words.
+- Beet (needs ~450 words): Add a succession planting section (spring crop timed 4-6 weeks before last frost + fall crop timed 10-12 weeks before first frost; each produces 20-30 lb from a 4x8 bed = 40-60 lb per season from one bed). Add a double-harvest value calculation: roots at $2.50/lb plus greens (thinnings, ~1 lb per 4-row-foot, valued at $3-4/lb as chard-equivalent) adds $3-8 in greens value to each sowing. Show the math: 2 sowings × (25 lb roots at $2.50 + 2 lb greens at $3.50) = $132 from $5 in seed. Sources: Penn State Extension, OSU Extension beet production guides. ~450 words.
+**Acceptance:** All 5 files at 1,600+ words, each addition sourced, zero em dashes in any file, build passes after all 5 are updated.
 
 ---
 

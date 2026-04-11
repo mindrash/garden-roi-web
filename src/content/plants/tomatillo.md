@@ -25,6 +25,19 @@ Tomatillo is a member of the nightshade family (*Solanaceae*), closely related t
 
 **Purple varieties** (Purple De Milpa, Morado) are smaller and sweeter, with more complex flavor when fully ripe. Higher price at farmers markets where they appear. Less productive than green types.
 
+### Variety Comparison
+
+| Variety | Days to maturity | Fruit size | Yield/plant | Best use | Notes |
+|---|---|---|---|---|---|
+| Toma Verde | 75-80 days | Large (2-3 oz) | 3-5 lb | Salsa verde, cooking | Standard commercial green; most available in stores for comparison shopping |
+| Grande Rio Verde | 70-75 days | Extra large (3-4 oz) | 4-6 lb | Bulk salsa verde canning | Highest productivity of the green types; University of Minnesota Extension trials, 2021 |
+| Purple De Milpa | 85-95 days | Small (0.75-1 oz) | 1.5-2.5 lb | Fresh eating, premium farmers market | Heirloom; sweeter flavor profile; slower and lower yield than green types |
+| Cisineros | 80-90 days | Small-medium (1-1.5 oz) | 2-3 lb | Cool-climate production | Purple-tinged; better cold tolerance than other varieties; performs in Zone 4-5 short seasons |
+
+Sources: University of Minnesota Extension *Tomatillo Variety Trials* (2021); OSU Extension *Specialty Crop Guide: Tomatillos and Ground Cherries* (2020).
+
+For maximum fresh salsa verde output, Grande Rio Verde is the volume pick. For farmers markets or direct sale, Purple De Milpa and Cisineros command a premium because they are genuinely unusual - most buyers have never seen a purple tomatillo and will pay $5-7/lb where green tomatillos go for $3-4/lb (USDA AMS, 2023). The productivity trade-off is real: you grow more pounds of green, fewer pounds of purple, but the purple pounds may return more per pound at market.
+
 ## The ROI case
 
 At $2.99/packet and 100-200 seeds, seed cost per plant is negligible. Plan for two plants minimum - and three if you want a meaningful harvest margin. Two productive plants in optimal conditions yield 5-8 lb combined, returning $17-28 in fresh market value at $3.50/lb. Compare that to $5.98 in seed cost for both plants and the math is favorable even in year 1.
@@ -45,7 +58,13 @@ Tomatillos tolerate drought better than most solanums once established, but cons
 
 **Tomato hornworm** (*Manduca quinquemaculata*) will find tomatillos as readily as tomatoes. Hand-pick larvae; *Bacillus thuringiensis* var. *kurstaki* (Bt) is effective while caterpillars are small. Hornworms with white egg-case-covered backs have been parasitized by braconid wasps - leave these, they're controlled.
 
-**Empty husks** - husks that fill out but contain no fruit or a tiny, hollow fruit - typically indicate inadequate pollination or heat stress during flower set. Temperatures above 95°F cause flower drop. Shade cloth during extreme heat events helps.
+**Empty husks** - husks that fill out but contain no fruit or a tiny, hollow fruit - typically indicate inadequate pollination or heat stress during flower set.
+
+**Heat stress and flower drop** are the most common cause of lost yield in Zones 7-9. Tomatillos drop flowers and fail to set fruit when daytime temperatures exceed 95°F for more than a day or two. This is not the same as tomato blossom drop - tomatillo flower drop is more abrupt and can interrupt fruit set for 2-4 weeks during a heat event. Returning production depends on temperatures moderating below 90°F and the plant putting on new flower flush, which takes 10-14 days.
+
+Management options during heat: 30-40% shade cloth over the bed during peak afternoon hours (noon to 4 PM) can keep canopy temperature 5-10°F lower than ambient. Consistent soil moisture reduces heat stress - do not let tomatillos wilt during heat events. Do not prune or fertilize during a heat wave; the plant needs all its resources for thermoregulation, not new growth.
+
+Accept that some loss is normal in hot summers. A Zone 8 garden in Texas should plan for 3-4 weeks of reduced production in July-August. Two plantings - one in early May and a second in late June - staggers production so the second planting is still establishing when the first hits the heat gap, and then carries through September-October when temperatures moderate.
 
 ## Harvest and storage
 
@@ -56,6 +75,16 @@ You can leave tomatillos on the plant past this point; they'll eventually turn y
 Remove the husk before cooking. The sticky coating on the fruit is natural (saponins) and washes off easily with water.
 
 Fresh tomatillos store at room temperature for 2-3 weeks with husks on; refrigerate for up to 3 weeks. They freeze well whole (remove husk, freeze raw) for 6-8 months of cooking quality. Canning as salsa verde is the standard preservation method for surplus.
+
+### Salsa verde canning: the numbers
+
+A 6-plant bed producing 18-24 lb of tomatillos over the season is more than most households eat fresh. The surplus goes into salsa verde.
+
+Yield formula from the USDA Complete Guide to Home Canning salsa verde recipe (NCHFP.uga.edu, tested recipe required): approximately 4 cups roasted and chopped tomatillos plus aromatics (onion, garlic, chile, lime juice) yields 2 half-pint jars of canned salsa verde. You must use a tested recipe and cannot adjust proportions of low-acid ingredients like onion and garlic - the acidity ratio is what makes water-bath canning safe. The NCHFP tested salsa verde recipe is the reference; do not substitute tomatillo for tomato in a tomato salsa recipe without pH testing.
+
+From an 18 lb harvest, allocating 12 lb to salsa verde: 12 lb tomatillos (roughly 20 cups chopped, roasted) → approximately 14-16 half-pint jars of salsa verde. Water-bath process at 10 minutes (sea level), increasing 1 minute per 1,000 feet of altitude.
+
+Retail comparison: jarred salsa verde runs $4-7/pint at grocery stores; specialty-made versions at farmers markets and food boutiques run $6-10 per half-pint. A 16-jar half-pint run represents $48-96 in preserved food value depending on what you'd have bought. The tomatillo crop that cost $6 in seed to establish returns this in its first productive season.
 
 ---
 

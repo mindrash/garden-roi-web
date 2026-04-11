@@ -11,6 +11,16 @@ Companion planting  -  the practice of growing certain plants together because t
 
 The best part: companion planting costs nothing. It's just smart arrangement.
 
+## The Economic Case
+
+Companion planting doesn't generate a grocery receipt you can compare against your seed costs. The value is in pest pressure you don't experience, which means damage you don't measure. That makes it easy to dismiss as unquantifiable - but the damage side of the equation is real.
+
+Penn State Extension documents aphid infestations on tomato at the 10-20% fruit loss threshold before control is economically warranted in commercial production. At home scale, a tomato plant with heavy aphid pressure losing 20% of its expected 10-15 lb yield loses 2-3 lb of fruit. At $3-4/lb organic heirloom pricing, that's $6-12 per plant in lost value. A 4-plant bed: $24-48 in reduced yield.
+
+The control cost side: insecticidal soap runs $8-12 for a 32-oz concentrate that covers 2-3 garden beds per season. Pyrethrin-based sprays: $12-18. Neither is expensive, but both require repeated application every 7-10 days through the problem period.
+
+Companion deterrence doesn't eliminate pests. It reduces population pressure below the threshold where significant damage occurs. You're not trying to achieve zero aphids - you're trying to keep aphid populations low enough that your 10-plant tomato bed produces full yield without spray. That's the calculation worth making.
+
 ## How Companion Planting Actually Works
 
 The benefits fall into a few categories:
@@ -45,6 +55,37 @@ Lettuce thrives in partial shade in summer. Plant it in the shadow of taller cro
 ### Mint + Brassicas (Cabbage, Broccoli) ✓
 Mint's sharp scent confuses the cabbage moth that lays eggs on brassica leaves. Because mint spreads aggressively, keep it in a container sunk into the ground near your brassicas rather than planting directly.
 
+## Evidence Summary: What the Research Actually Shows
+
+Here is the same information organized by evidence quality. This matters because "companion planting" spans everything from rigorous controlled trials to folk wisdom that doesn't hold up. Knowing which is which helps you decide where to invest bed space.
+
+| Pairing | Mechanism | Evidence basis | Source |
+|---|---|---|---|
+| Tomatoes + French marigolds | Root exudates suppress nematodes; foliar volatiles deter whitefly | Controlled trials, multiple studies | Chitwood, *Annual Review of Phytopathology* (2002); Ploeg, *Phytopathology* (1999) |
+| Tomatoes + basil | Basil volatiles (*linalool*, *eugenol*) reduce aphid and thrips attraction | Lab + field studies | Hummelbrunner & Isman, *Journal of Chemical Ecology* (2001) |
+| Beans + corn + squash | Nitrogen fixation (beans); physical trellis (corn); ground shade (squash) | Traditional agriculture, well-documented mechanism | USDA ARS Three Sisters intercropping research |
+| Mint + brassicas | Aromatic volatiles confuse cabbage moth (*Plutella xylostella*) host-finding | Repeatable field observation; volatile mechanism documented | Penn State Extension companion planting guide |
+| Nasturtium trap crop | Aphids preferentially colonize nasturtium over most vegetables | Repeatable field observation | UC Davis ANR integrated pest management guide |
+| Dill (young) + beneficial insects | Umbel flowers attract *Aphidius* parasitic wasps, *Chrysoperla* lacewings | Documented mechanism | USDA ARS beneficial insect habitat research |
+| Carrots + onions | Each deters the other's primary fly pest through volatile masking | Repeatable observation; mechanism plausible but less studied | Cornell Cooperative Extension vegetable IPM guide |
+| Garlic + roses/fruit trees | Sulfur compounds deter aphids; *Allium* volatiles may reduce fungal pressure | Observation-level; limited controlled data | Anecdotal / folk tradition; flag as such |
+
+The top four pairings have solid enough evidence to plant around deliberately. The bottom two are worth doing if convenient but shouldn't drive bed layout decisions.
+
+## Spacing: How Close Is Close Enough
+
+Companion planting only works if the plants are actually near each other. Marigolds in a pot at the edge of your garden are doing nothing for the tomatoes 8 feet away.
+
+Practical spacing guidelines based on how the mechanism operates:
+
+**Volatile deterrence (basil, mint, marigolds):** Active range is roughly 12-24 inches under typical garden conditions. Plant deterrent herbs within 18 inches of the protected crop. For a 4x8 tomato bed, that means basil plants interspersed throughout the bed or marigolds bordering two sides.
+
+**Root-zone effects (marigolds vs. nematodes):** The nematode suppression from marigold root exudates requires the marigold roots to occupy the same soil zone as the target crop's roots. Plant marigolds 12-18 inches from tomato or pepper stems. A marigold border 3 feet from the bed edge isn't doing the relevant work.
+
+**Trap cropping (nasturtium):** Trap crops work by being more attractive than the main crop. Plant nasturtiums upwind of your main crop if possible, or at the leading edge of your pest approach direction. A dense planting of 3-5 nasturtiums at the bed entry side is more effective than one plant scattered throughout.
+
+**Shade-based succession (lettuce under tall crops):** This is entirely about physical proximity. The lettuce needs to be in the shadow cast by the tall crop - typically 12-18 inches directly north of a tomato or pepper plant in the northern hemisphere.
+
 ## Plants That Don't Play Well Together
 
 **Fennel + Almost Everything**
@@ -55,6 +96,30 @@ Alliums inhibit the growth of legumes. Don't plant them together in the same bed
 
 **Dill + Tomatoes (Mature Plants)**
 Young dill attracts beneficial insects and can coexist. But mature dill negatively affects tomato growth. Fine to plant nearby; don't allow dill to fully mature adjacent to tomato plants.
+
+**Brassicas + Strawberries**
+Brassicas release glucosinolates into the soil that inhibit the mycorrhizal fungi strawberries depend on for nutrient uptake. This allelopathic effect is documented in intercropping research - not severe, but a reason to keep them in separate beds rather than sharing row space. Source: Dhaliwal et al., *HortScience* (2010) on Brassica allelopathy.
+
+**Potato + Tomato**
+Both are solanums susceptible to late blight (*Phytophthora infestans*). Growing them adjacent increases the probability that the pathogen moves between crops if it establishes. One infected plant becomes the source population for the neighboring crop. This is not a volatile or root interaction - it's a disease management argument. Keep them on opposite sides of the garden, or in separate beds entirely.
+
+**Cucumber + Sage**
+Sage's volatile oils - particularly camphor and 1,8-cineole - are documented to inhibit cucumber germination and seedling growth in lab conditions. Practical field evidence is limited, but the mechanism is real enough to avoid planting them together. Source: Angelini et al., *Industrial Crops and Products* (2003) on sage allelopathy.
+
+## Guild Planting: Beyond the Pair
+
+Pair-based thinking - tomato with basil, beans with corn - is how most companion planting gets described. Guild planting is the next step: assembling a functional grouping of 4-6 plants that together address pest deterrence, fertility, and pollinator support simultaneously.
+
+A tomato guild that covers the main bases:
+- **Tomato** (the central crop)
+- **French marigolds** (nematode suppression in soil, whitefly deterrence above-ground)
+- **Basil** (aphid and thrips deterrence via volatile oils; identical care requirements)
+- **Carrot** (loosens soil adjacent to tomato roots; minimal above-ground competition)
+- **Phacelia or borage** (attracts *Aphidius* wasps and hoverflies that parasitize aphids)
+
+This grouping uses one 4x8 bed efficiently, with each plant serving a function beyond its own yield. The marigolds border two sides; basil occupies 6-8 plants interplanted throughout; carrots fill gaps between tomato stems; phacelia or borage occupies one corner.
+
+The guild approach requires knowing what you're trying to protect against. If your main tomato problem is hornworm (*Manduca quinquemaculata*), this guild doesn't address it (Bt spray does). If aphid pressure is the issue, it does. Match the guild composition to your actual pest pressure, not a generic recipe.
 
 ## A Note on Evidence
 
