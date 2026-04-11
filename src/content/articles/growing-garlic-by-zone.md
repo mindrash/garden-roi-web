@@ -163,3 +163,5 @@ Zone matters for the financial case too. See the [garlic ROI analysis](/roi/garl
 The seed-saving economics are the same in every zone: save your largest heads for replanting and your Year 2 seed cost drops to zero. A 4x8 bed with 20 to 24 garlic plants will produce enough heads to replant the same bed next fall and still have 14 to 18 heads for the kitchen. That's a crop you plant once and grow for decades without additional seed investment - which is why it shows up in the [first three years of garden ROI](/roi/first-three-years-roi/) as a compounding asset, not a one-time crop.
 
 For succession planning and how garlic fits into a full-season schedule, see [the succession planting calendar](/guides/succession-planting-calendar/).
+
+**Related crops:** [Garlic](/crops/garlic/) has a full ROI breakdown, planting calendar, and variety guide. [Onion](/crops/onion/) and [leek](/crops/leek/) follow similar zone logic for allium crops.

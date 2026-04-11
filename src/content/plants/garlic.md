@@ -10,7 +10,7 @@ seed_cost: 12.00
 is_common: true
 watering: Moderate; 1 inch/week during active growth, reduce sharply as foliage yellows in June
 sunlight: Full sun (6–8 hours minimum)
-companion_plants: [Tomato, Rose, Fruit Trees, Chamomile]
+companion_plants: [Tomato, Chamomile]
 description: "Garlic (Allium sativum) - 1 lb of seed garlic at $12 produces 6-8 lb of cured heads at $5-14/lb. Scapes removed in spring boost final bulb size by up to 30%."
 hero_image: /images/crops/garlic.webp
 ---

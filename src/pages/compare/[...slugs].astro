@@ -54,6 +54,8 @@ const breadcrumbJsonLd = {
   ],
 };
 
+const plantDisplayNames = new Map(allPlants.map((p) => [p.id, p.data.name]));
+
 // Other comparisons involving either crop
 const relatedPairs = COMPARISON_PAIRS.filter(
   ([x, y]) =>
@@ -104,7 +106,9 @@ const relatedPairs = COMPARISON_PAIRS.filter(
         <h3>Related comparisons</h3>
         <div class="related-links">
           {relatedPairs.map(([x, y]) => (
-            <a href={`/compare/${x}-vs-${y}/`} class="compare-link">{x} vs {y}</a>
+            <a href={`/compare/${x}-vs-${y}/`} class="compare-link">
+              {plantDisplayNames.get(x) ?? x} vs {plantDisplayNames.get(y) ?? y}
+            </a>
           ))}
         </div>
       </div>

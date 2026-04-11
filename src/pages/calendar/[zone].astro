@@ -15,7 +15,8 @@ const { zone: zoneParam } = Astro.params;
 const { allPlants } = Astro.props;
 
 const zoneNum = parseInt(zoneParam, 10);
-const zoneData = ZONE_MAP.get(zoneNum)!;
+const zoneData = ZONE_MAP.get(zoneNum);
+if (!zoneData) throw new Error(`Zone ${zoneNum} not found in ZONE_MAP`);;
 
 // Months 0-11 (Jan-Dec)
 const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
@@ -102,12 +103,6 @@ for (const cat of categories) {
   rows[cat].sort((a, b) => a.name.localeCompare(b.name));
 }
 
-const eventColor: Record<string, string> = {
-  'sow-indoors': '#b3d9f7',
-  'transplant':  '#8bc34a',
-  'direct-sow':  '#4caf50',
-  'harvest':     '#f5d547',
-};
 
 const eventLabel: Record<string, string> = {
   'sow-indoors': 'Start indoors',
@@ -139,7 +134,7 @@ const otherZones = ZONES.filter((z) => z.zone !== zoneNum);
     <div class="legend glass-card">
       {Object.entries(eventLabel).map(([key, label]) => (
         <span class="legend-item">
-          <span class="legend-swatch" style={`background:${eventColor[key]}`}></span>
+          <span class={`legend-swatch swatch-${key}`}></span>
           {label}
         </span>
       ))}
@@ -173,8 +168,7 @@ const otherZones = ZONES.filter((z) => z.zone !== zoneNum);
                   </td>
                   {events.map((ev) => (
                     <td
-                      class="cal-cell"
-                      style={ev ? `background:${eventColor[ev]}` : ''}
+                      class={`cal-cell${ev ? ` cal-cell-${ev}` : ''}`}
                       title={ev ? eventLabel[ev] : ''}
                       aria-label={ev ? eventLabel[ev] : 'no activity'}
                     >
@@ -239,6 +233,16 @@ const otherZones = ZONES.filter((z) => z.zone !== zoneNum);
     border-radius: 3px;
     flex-shrink: 0;
   }
+
+  .swatch-sow-indoors { background: var(--color-calendar-sow-indoors); }
+  .swatch-transplant  { background: var(--color-calendar-transplant); }
+  .swatch-direct-sow  { background: var(--color-calendar-direct-sow); }
+  .swatch-harvest     { background: var(--color-calendar-harvest); }
+
+  .cal-cell-sow-indoors { background: var(--color-calendar-sow-indoors); }
+  .cal-cell-transplant  { background: var(--color-calendar-transplant); }
+  .cal-cell-direct-sow  { background: var(--color-calendar-direct-sow); }
+  .cal-cell-harvest     { background: var(--color-calendar-harvest); }
 
   .zone-picker-row {
     display: flex;

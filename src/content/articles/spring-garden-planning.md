@@ -155,3 +155,7 @@ Every year you garden, you get better at it. You learn your microclimate. You le
 Year 2 of a garden built on Year 1 data is categorically different from starting over. You know the tomato variety that performed, the pest pressure you actually faced, and the weeks when production dropped because you missed succession plantings. That information - tracked or remembered - is worth more than any seed catalog.
 
 The spring planning ritual is how you use it. Spend one hour in February with last year's harvest log, your seed catalog, and a notepad. That hour shapes the next eight months of production more than any technique you learn after the seeds go in the ground.
+
+**Related guides:** [Succession Planting Calendar](/guides/succession-planting-calendar/)  -  the week-by-week timing framework that makes the planting calendar section above actionable; [The First Three Years of Garden ROI](/roi/first-three-years-roi/)  -  how planning quality compounds into better returns by Year 3.
+
+**High-value crops to prioritize:** [Basil](/crops/basil/), [Cherry Tomato](/crops/cherry-tomato/), [Garlic](/crops/garlic/), [Lettuce](/crops/lettuce/)

@@ -16,7 +16,11 @@
   --color-tab-inactive: #C4A882;
   --color-tab-bar-translucent: rgba(59, 35, 20, 0.80);
   --color-secondary-translucent: rgba(92, 61, 46, 0.80);
-  --color-bg-panel: rgba(248, 249, 245, 0.88);
+  --color-bg-panel: rgba(248, 249, 245, 0.97);
+  --color-calendar-sow-indoors: #b3d9f7;
+  --color-calendar-transplant: var(--color-expense-seeds);
+  --color-calendar-direct-sow: var(--color-success);
+  --color-calendar-harvest: var(--color-tab-active);
   /* Colors — Status */
   --color-success: #4CAF50;
   --color-error: #C65D52;

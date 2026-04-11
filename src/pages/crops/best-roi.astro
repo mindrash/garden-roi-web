@@ -43,11 +43,13 @@ const itemListJsonLd = {
   <div class="page-header">
     <div class="container">
       <nav class="breadcrumb" aria-label="Breadcrumb">
-        <a href="/">Home</a>
-        <span aria-hidden="true">›</span>
-        <a href="/crops/">Crops</a>
-        <span aria-hidden="true">›</span>
-        <span aria-current="page">Best ROI</span>
+        <ol class="breadcrumb-list">
+          <li><a href="/">Home</a></li>
+          <li aria-hidden="true">›</li>
+          <li><a href="/crops/">Crops</a></li>
+          <li aria-hidden="true">›</li>
+          <li><span aria-current="page">Best ROI</span></li>
+        </ol>
       </nav>
       <h1>15 Highest-ROI Crops</h1>
       <p>
@@ -164,7 +166,7 @@ const itemListJsonLd = {
   }
 
   .page-header p {
-    font-size: var(--text-body-large);
+    font-size: var(--text-h3);
     opacity: 0.92;
     max-width: 65ch;
   }
@@ -172,10 +174,16 @@ const itemListJsonLd = {
   .breadcrumb {
     font-size: var(--text-small);
     opacity: 0.8;
+    margin-bottom: var(--space-s);
+  }
+
+  .breadcrumb-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
     display: flex;
     gap: var(--space-xs);
     align-items: center;
-    margin-bottom: var(--space-s);
   }
 
   .breadcrumb a {
@@ -185,6 +193,10 @@ const itemListJsonLd = {
 
   .breadcrumb a:hover {
     text-decoration: underline;
+  }
+
+  .breadcrumb span[aria-current] {
+    color: var(--color-white);
   }
 
   .content-wrap {
@@ -307,7 +319,7 @@ const itemListJsonLd = {
 
   .highlight-card h3 {
     font-family: var(--font-display);
-    font-size: var(--text-h4);
+    font-size: var(--text-h3);
     margin-bottom: var(--space-xs);
   }
 

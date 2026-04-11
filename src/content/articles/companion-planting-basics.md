@@ -126,3 +126,7 @@ The guild approach requires knowing what you're trying to protect against. If yo
 Companion planting research is genuinely mixed. Some pairings have solid controlled-trial evidence behind them (marigolds + tomatoes, for instance); others are repeatable anecdotal observations; others are gardening myths with no evidence.
 
 Treat the well-established pairings (listed above) as reliable strategies. Treat the more speculative combinations as worth experimenting with but not worth stressing about. The worst outcome from most companion planting arrangements is that it doesn't help  -  rarely that it actively hurts.
+
+**Related crops:** [Basil](/crops/basil/), [Tomato](/crops/tomato/), [Green Bean](/crops/green-bean/), [Mint](/crops/mint/)
+
+**Related guides:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  how to lay out a bed that puts companion relationships to use; [Integrated Pest Management](/guides/integrated-pest-management/)  -  biological controls that companion planting supports.

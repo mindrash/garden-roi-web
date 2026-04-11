@@ -251,3 +251,7 @@ Against $150 in median harvest value, you're at or past break-even in Year 2. Th
 For the detailed year-by-year model, see [The First Three Years of Garden ROI](/roi/first-three-years-roi/). For the break-even calculator specific to raised bed setup costs, see [Raised Bed Break-Even Analysis](/roi/raised-bed-break-even/).
 
 The $500 garden is real. So is the return - you just have to account for when it starts.
+
+---
+
+**High-value crops for your first bed:** [Tomatoes](/crops/tomato/) and [basil](/crops/basil/) are the first two plants every new bed should include - highest retail value per square foot, low seed cost, and easy to grow alongside each other. [Lettuce](/crops/lettuce/) fills the early spring and fall gaps when those beds sit idle.

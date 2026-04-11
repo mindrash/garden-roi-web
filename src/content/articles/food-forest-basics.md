@@ -214,3 +214,7 @@ For context on apple-specific economics, see the [apple growing guide](/crops/ap
 **This is a multi-decade commitment.** The plants described here are not easily moved. The apple tree will outlive your mortgage. Comfrey roots regrow from any fragment left in the soil. Hazelnut clumps expand and persist. Plant a food forest with the understanding that you are changing the permanent character of that 1,000 square feet. If there's any reasonable chance you'll want that space for something else in 10 years, a food forest is the wrong choice.
 
 The economics are genuinely compelling and the system does get easier over time. But the first 5 years require consistent attention, the payoff is slow, and the commitment is long. None of that means don't do it - it means go in with accurate expectations.
+
+**Related crops:** [Apple](/crops/apple/), [Gooseberry](/crops/gooseberry/), [Strawberry](/crops/strawberry/), [Garlic](/crops/garlic/) (ground-level fill crop during establishment)
+
+**Related articles:** [The Perennial Garden Economy](/roi/perennial-garden-economy/)  -  10-year ROI table for perennial crops including fruit shrubs; [Perennial vs. Annual ROI](/roi/perennial-vs-annual-roi/)  -  the financial case for investing in long-lived plantings.

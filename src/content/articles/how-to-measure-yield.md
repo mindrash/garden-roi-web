@@ -131,6 +131,6 @@ One more check worth doing: compare your total logged weight against your rough 
 
 ---
 
-**Related reading:** [Garlic ROI: The Per-Clove Math](/roi/garlic-roi-analysis/)  -  a worked example of how accurate yield and price data produces a real ROI number
+**Related reading:** [Garlic ROI: The Per-Clove Math](/roi/garlic-roi-analysis/)  -  a worked example of how accurate yield and price data produces a real ROI number; [How to Find Local Prices](/guides/how-to-find-local-prices/)  -  the other half of the ROI equation once you have yield data
 
-**Related crops:** [Tomato](/crops/tomato/), [Lettuce](/crops/lettuce/)
+**Related crops:** [Tomato](/crops/tomato/), [Lettuce](/crops/lettuce/), [Kale](/crops/kale/), [Green Bean](/crops/green-bean/)

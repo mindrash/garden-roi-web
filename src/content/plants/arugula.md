@@ -10,7 +10,7 @@ seed_cost: 2.50
 is_common: true
 watering: Regular; 1 inch/week, avoid drought stress during leaf development
 sunlight: Full sun to partial shade (4–6 hours; afternoon shade extends season in warm weather)
-companion_plants: [Tomato, Carrot, Cucumber, Beans]
+companion_plants: [Tomato, Carrot, Cucumber, Green Bean]
 description: "Arugula (Eruca vesicaria) - 0.5 lb per sq ft at $8/lb retail. Matures in 28 days, making it the fastest-payback salad green for spring and fall gardens."
 hero_image: /images/crops/arugula.webp
 ---

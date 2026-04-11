@@ -10,7 +10,7 @@ seed_cost: 3.00
 is_common: true
 watering: Heavy; 1–2 inches/week, consistent moisture critical to prevent bitter fruit
 sunlight: Full sun (6–8 hours minimum)
-companion_plants: [Beans, Dill, Marigold, Sunflower]
+companion_plants: [Green Bean, Dill, Sunflower]
 description: "Cucumber (Cucumis sativus) - 8 lb per plant at $1.78/lb. Trellised plants yield 20-30% more; consistent watering prevents bitter cucurbitacin in the fruit."
 hero_image: /images/crops/cucumber.webp
 ---

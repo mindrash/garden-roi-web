@@ -10,7 +10,7 @@ seed_cost: 3.50
 is_common: true
 watering: Regular; 1-2 inches/week, consistent moisture to reduce cracking
 sunlight: Full sun (6-8 hours minimum)
-companion_plants: [Basil, Carrot, Marigold, Parsley]
+companion_plants: [Basil, Carrot, Parsley]
 description: "Cherry Tomato (Solanum lycopersicum var. cerasiforme) - 12 lb per plant at $3.50/lb. Indeterminate vines need 6-ft support and daily harvest at peak season."
 hero_image: /images/crops/cherry-tomato.webp
 ---

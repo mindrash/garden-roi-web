@@ -147,3 +147,7 @@ The break-even math on a five-year horizon for a tomato-and-pepper bed looks lik
 - **5-year net return: $196–$416**
 
 Against a $44 investment, that's a 5-to-9x return over five years. The hardware is not the hard part of running a garden. The fruit losses are.
+
+---
+
+**Related:** [Rain Barrel ROI](/roi/rain-barrel-roi/) covers the companion question of water sourcing cost. High-value crops where consistent moisture pays the most: [tomatoes](/crops/tomato/), [sweet peppers](/crops/sweet-pepper/), [eggplant](/crops/eggplant/).

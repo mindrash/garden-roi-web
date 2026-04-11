@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 11, 2026 (CA008-CA034, PE001-PE014, PB001-PB011, D001-D007 complete)_
+_Last updated: April 11, 2026 (CA008-CA034, PE001-PE014, PB001-PB011, D001-D007 complete; PE015-PE027 + NA001-NA005 story cards added)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 

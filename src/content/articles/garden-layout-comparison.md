@@ -202,3 +202,7 @@ The layout decision matters less than the quality of your soil, the accuracy of 
 That said, if you're starting with limited space and need to maximize yield per total square foot - which is the constraint most urban and suburban gardeners face - square foot gardening in raised beds is the defensible answer. The 1.5-2.1x total-area yield advantage over row gardening is real, it compounds across a short growing season, and the systematic grid prevents the space waste that characterizes most first-time gardens.
 
 The 2-4x number is marketing. The 1.5-2.1x number is what the math produces when you use the same denominator.
+
+**Related guides:** [Raised Bed Break-Even Analysis](/roi/raised-bed-break-even/)  -  full cost and return math for a 4x8 raised bed; [Spring Garden Planning](/guides/spring-garden-planning/)  -  how to translate your layout choice into a concrete planting plan.
+
+**High-density crops that benefit from raised bed SFG spacing:** [Basil](/crops/basil/), [Lettuce](/crops/lettuce/), [Arugula](/crops/arugula/), [Radish](/crops/radish/)

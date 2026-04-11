@@ -10,7 +10,7 @@ seed_cost: 3.50
 is_common: true
 watering: Heavy during establishment; reduce to moderate once vines run, 1-2 inches/week
 sunlight: Full sun (6-8 hours minimum)
-companion_plants: [Beans, Corn, Nasturtium, Dill]
+companion_plants: [Green Bean, Corn, Nasturtium, Dill]
 description: "Winter Squash (Cucurbita maxima) - butternut yields 10-15 lb per plant at $1.99/lb, storing 3-6 months when cured. One planting covers needs into late winter."
 hero_image: /images/crops/winter-squash.webp
 ---

@@ -10,7 +10,7 @@ seed_cost: 3.50
 is_common: true
 watering: Regular, 1–2 inches/week; consistent moisture critical
 sunlight: Full sun (6–8 hours minimum)
-companion_plants: [Basil, Carrot, Marigold, Parsley]
+companion_plants: [Basil, Carrot, Parsley]
 description: "Tomato (Solanum lycopersicum) - returns $17-60 per plant at $1.78/lb. Full ROI breakdown, variety guide, pest management, and harvest guide for home gardeners."
 hero_image: /images/crops/tomato.webp
 ---

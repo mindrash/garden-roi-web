@@ -16,7 +16,8 @@ const { zone: zoneParam } = Astro.params;
 const { allPlants } = Astro.props;
 
 const zoneNum = parseInt(zoneParam, 10);
-const zoneData = ZONE_MAP.get(zoneNum)!;
+const zoneData = ZONE_MAP.get(zoneNum);
+if (!zoneData) throw new Error(`Zone ${zoneNum} not found in ZONE_MAP`);;
 
 type CropClass = 'direct-sow' | 'start-indoors' | 'marginal' | 'not-recommended';
 

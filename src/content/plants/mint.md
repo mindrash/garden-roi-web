@@ -10,7 +10,7 @@ seed_cost: 4.00
 is_common: true
 watering: Regular; keep soil consistently moist, does not tolerate drought
 sunlight: Partial shade to full sun (4–6 hours); afternoon shade preferred in hot climates
-companion_plants: [Tomato, Cabbage, Broccoli, Peas]
+companion_plants: [Tomato, Cabbage, Broccoli, Garden Pea]
 description: "Peppermint (Mentha piperita) - 0.5 lb per season at $15/lb; one $4 transplant returns $35-50 over 5 years. Grow in a container to prevent rhizome spread."
 hero_image: /images/crops/mint.webp
 ---

@@ -128,3 +128,7 @@ Your first hot cycle takes 4 to 8 weeks after you've accumulated enough material
 By the second season, the system is self-funding. The inputs are free, the infrastructure is built, and the only ongoing cost is time. At that point you're comparing 15 to 25 hours per year of physical outdoor work against an annual compost purchase that would otherwise run $150 to $400 depending on your bed count and amendment rates.
 
 For gardeners already running [several beds year-round](/homestead/beginner-homestead-crops/), the composting system typically pays for itself before the first batch is finished.
+
+---
+
+**Related:** [Soil Test ROI](/roi/soil-test-roi/) covers whether a $20 county extension test is worth it before amending. Crops that benefit most from compost-improved soil: [tomatoes](/crops/tomato/), [kale](/crops/kale/), [garlic](/crops/garlic/), and [potatoes](/crops/potato/) - all heavy feeders on organic matter.
