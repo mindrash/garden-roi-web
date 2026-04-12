@@ -11,6 +11,8 @@ is_common: true
 watering: Regular; 1-1.5 inches/week, consistent to prevent head splitting
 sunlight: Full sun (6+ hours)
 companion_plants: ["Mint", "Arugula"]
+direct_sow_ok: false
+indoor_weeks_needed: 8
 description: "Cabbage (Brassica oleracea) stores fresh for weeks and ferments into sauerkraut worth $6-10/lb retail. One 3-lb head becomes multiple jars of shelf-stable food."
 hero_image: /images/crops/cabbage.webp
 ---
@@ -23,25 +25,35 @@ Even without the value-add angle, cabbage is a storage crop. A properly stored h
 
 Cabbage splits into practical categories by timing and head type:
 
-**Early types** (Earliana, Golden Acre) - 60–70 days, smaller heads (2–3 lbs), thinner leaves. Best for spring harvests. Don't store as long as late-season types.
+| Type | Example varieties | Days | Head weight | Storage life | Best use |
+|---|---|---|---|---|---|
+| Early | Earliana, Golden Acre | 60-70 | 2-3 lb | 4-6 weeks | Spring fresh eating |
+| Mid-season | Stonehead, Savoy King | 75-85 | 3-5 lb | 2-3 months | Fresh and short-term storage |
+| Savoy | Savoy King, Alcosa | 80-90 | 3-4 lb | 4-6 weeks | Fresh; best texture for coleslaw |
+| Late storage | Danish Ballhead, Late Flat Dutch | 100-120 | 5-8 lb | 4-6 months | Sauerkraut, root cellar storage |
+| Red/purple | Red Acre, Mammoth Red Rock | 70-85 | 3-4 lb | 3-4 months | Fermentation; color intensifies |
+| Napa (*B. rapa*) | Michihli, Blues | 50-80 | 3-6 lb | 3-4 weeks | Kimchi, stir-fry |
 
-**Mid-season types** (Stonehead, Savoy King) - 75–85 days. The standard home garden category. Savoy types (crinkled leaves) have better texture for fresh eating but don't store as long as smooth-leaf types.
-
-**Late-season/storage types** (Danish Ballhead, Late Flat Dutch) - 100–120 days. Dense, heavy heads (5–8+ lbs). These are the traditional sauerkraut and storage cabbages. Tight cell structure means they hold in the root cellar.
-
-**Red/purple types** (Red Acre, Mammoth Red Rock) - mid-season, moderate size, 70–85 days. Higher anthocyanin content makes them the most antioxidant-dense of the cabbage types. They're excellent for fermentation - the color intensifies in lacto-fermented preparations.
-
-**Napa/Chinese cabbage** (*B. rapa* subsp. *pekinensis*) is a separate species and handled differently - faster to mature (50–80 days), more heat-sensitive, the right type for kimchi.
+Napa/Chinese cabbage (*B. rapa* subsp. *pekinensis*) is a separate species - faster to mature, more heat-sensitive, the right type for kimchi.
 
 For sauerkraut and long storage: Danish Ballhead, Late Flat Dutch, or their equivalents. Dense heads with tight packing yield more shredded cabbage per head and hold brine during fermentation better than loose savoy types.
 
 ## The ROI case
 
-A $2.49 seed packet contains 200–300 seeds. You'll start more than you need and thin or transplant to 18–24 inch spacing - plan on 4–6 plants per 4x8 bed. At 3 lb per head average, that bed produces 12–18 lbs. At $1.25/lb grocery value: $15–$22.50.
+A $2.49 seed packet contains 200–300 seeds. You'll start more than you need and thin or transplant to 18–24 inch spacing - plan on 4–6 plants per 4x8 bed.
 
-The fermentation math is better. One pound of shredded cabbage with 1.5–2% salt by weight (the standard ratio for lacto-fermented sauerkraut) produces approximately 0.8–0.9 lbs of sauerkraut after fermentation and some liquid loss. Retail sauerkraut runs $6–$10/lb for small-batch or premium product (USDA AMS Specialty Crop Market News, 2023). A 3-lb head produces 2.4–2.7 lbs of sauerkraut - worth $14–$27 retail.
+| Scenario | Plants | Yield | Fresh value @$1.25/lb | Seed cost | Net |
+|---|---|---|---|---|---|
+| 4x8 bed, fresh eating | 6 | 18 lb | $22.50 | $1.25* | $21.25 |
+| 4x8 bed, storage type | 4 | 20-24 lb | $25-30 | $1.25* | $23.75-28.75 |
+| 4x8 bed, fermented (home use) | 6 | 18 lb → ~16 lb sauerkraut | $96-160** | $1.25* | $94.75-158.75** |
 
-The catch is market access. Selling homemade ferments requires understanding your state's cottage food laws. Many states allow fermented vegetable sales under cottage food provisions.
+*Estimated from $2.49 packet at ~2 plants per dollar.
+**At $6-10/lb retail for premium sauerkraut — reflects home-use value substitution or direct sales under cottage food provisions.
+
+The fermentation math is striking but needs context. One pound of shredded cabbage with 1.5–2% salt by weight (the standard ratio for lacto-fermented sauerkraut) produces approximately 0.8–0.9 lbs of sauerkraut after fermentation and some liquid loss. Retail sauerkraut runs $6–$10/lb for small-batch or premium product (USDA AMS Specialty Crop Market News, 2023). A 3-lb head produces 2.4–2.7 lbs of sauerkraut - worth $14–$27 retail.
+
+The catch is market access. Selling homemade ferments requires understanding your state's cottage food laws. Many states allow fermented vegetable sales under cottage food provisions. For home use only, the value is in substituting purchases of premium fermented vegetables - jars of good sauerkraut or kimchi at $7-12 each add up fast.
 
 ## Growing requirements
 

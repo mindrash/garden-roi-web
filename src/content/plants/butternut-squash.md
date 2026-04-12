@@ -11,6 +11,8 @@ is_common: true
 watering: Regular; 1-1.5 inches/week, reduce as fruits mature
 sunlight: Full sun (8+ hours)
 companion_plants: ["Corn", "Radish"]
+direct_sow_ok: true
+indoor_weeks_needed: 3
 description: "Butternut squash (Cucurbita moschata) stores 3-6 months post-harvest, extending value through winter. One vine produces 3-5 squash averaging 2-3 lbs each."
 hero_image: /images/crops/butternut-squash.webp
 ---
@@ -21,13 +23,17 @@ Butternut squash (*Cucurbita moschata*) is the storage-crop argument for growing
 
 *Cucurbita moschata* is a distinct species from the *C. pepo* pumpkins and summer squashes, and notably more resistant to squash vine borer than *C. pepo* - the thick stem base is harder for larvae to penetrate. This is one practical reason to grow butternut over acorn squash or most pumpkins if vine borer is a problem in your area.
 
-**Waltham Butternut** is the standard. Released by Robert Young at Waltham Field Station in 1970, it's the commercial baseline: 85–90 days, 4–5 fruits per vine, 2–5 lbs each, orange flesh, excellent keeper. It's the reference point for catalog comparisons.
+| Variety | Days | Fruit size | Yield/vine | Storage life | Notes |
+|---|---|---|---|---|---|
+| Waltham Butternut | 85-90 | 2-5 lb | 4-5 fruits | 3-6 months | Commercial standard; widely available |
+| Honeynut | 75-80 | 1-2 lb | 5-8 fruits | 2-3 months | Sweeter, more intense; retails $3-5/each |
+| Butterscotch (bush) | 75-85 | 1-2 lb | 4-6 fruits | 2-3 months | Compact; good for small gardens |
+| Long Island Cheese | 95-100 | 6-10 lb | 2-3 fruits | 4-6 months | Deeply ribbed; excellent flavor |
+| Seminole | 90-100 | 3-5 lb | 4-6 fruits | 6+ months | Florida heirloom; heat-tolerant |
 
-**Butterscotch** is a hybrid compact bush-type developed for small spaces. Produces 1–2 lb fruits. Good for containers and small beds.
+**Waltham Butternut** is the standard - the commercial baseline and the reference point for catalog comparisons.
 
-**Long Island Cheese** and **Seminole** are *C. moschata* types with different shape and flavor profiles - sweeter flesh, excellent for roasting.
-
-**Honeynut** (Cornell University, 2017) is a mini-butternut (1–2 lbs) bred specifically for flavor concentration and early maturity (75–80 days). It retails for $3–$5 each at specialty grocery stores and commands attention at markets. It's worth growing if you can find seeds.
+**Honeynut** (Cornell University, 2017) is worth noting specifically: a mini-butternut bred for flavor concentration rather than yield. It retails for $3–$5 per fruit at specialty grocery stores. Three Honeynut fruits per vine at $4 each equals $12 per vine from a smaller plant with shorter days to maturity - the best per-square-foot ROI of any winter squash type at specialty prices.
 
 ## The ROI case
 
@@ -36,6 +42,19 @@ One vine in a standard home garden setting produces 3–5 butternut squash. At 2
 That math holds at standard commodity prices. The Honeynut premium changes it: three $4 Honeynut fruits per vine is $12, but you're doing it in a shorter season with a smaller plant. Specialty varieties at premium prices are worth the catalog search.
 
 The storage characteristic is the real differentiator. Properly stored butternut returns its value across 3–4 months rather than in one week. That changes how you think about growing it - one successful vine in September keeps a household supplied with squash through Thanksgiving at minimum.
+
+The full storage math, assuming a September harvest and typical 4-month pantry life:
+
+| Month | Store price | Squash from garden? | Monthly household value |
+|---|---|---|---|
+| September | $1.50/lb (harvest season, cheap) | Yes | ~$4 (1 squash) |
+| October | $1.60/lb | Yes | ~$5 |
+| November | $1.75/lb (peak season) | Yes | ~$5.50 |
+| December | $2.00/lb (off-season) | Yes | ~$6 |
+| January | $2.20/lb | Maybe (if well stored) | ~$6.50 |
+| February | $2.50/lb | Maybe | ~$7.50 |
+
+Two vines producing 8 squash total, stored through December: roughly $40-50 in pantry value at off-season retail prices. The 5-month window from harvest to February is where butternut's economics justify the garden space it requires. Summer squash delivers more raw pounds, but butternut delivers value when grocery prices are highest.
 
 ## Growing requirements
 

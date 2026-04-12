@@ -11,6 +11,8 @@ is_common: true
 watering: Consistent 1 inch/week; dry soil causes pithy, hot-tasting roots and accelerates bolting
 sunlight: Full sun to partial shade (6+ hours optimal; tolerates 4 hours)
 companion_plants: [Kale, Arugula]
+direct_sow_ok: true
+indoor_weeks_needed: 0
 description: "Radish (Raphanus sativus) - matures in 25 days at $2.50/lb, the fastest bed-rotation vegetable. Succession plant every 2 weeks for continuous spring harvests."
 hero_image: /images/crops/radish.webp
 ---
@@ -23,13 +25,14 @@ The catch: that 25-day window is also the harvest deadline. Radish left in the g
 
 Most backyard radishes are the small round or slightly cylindrical spring types. The four worth knowing:
 
-**Cherry Belle** - the classic. Round, bright red, 25 days, reliable germination, mild flavor. It's what you find in every seed rack and what most people picture when they think "radish."
+| Variety | Shape | Days | Flavor | Best use |
+|---|---|---|---|---|
+| Cherry Belle | Round, red | 25 | Mild, classic | Fresh snacking, salads |
+| French Breakfast | Elongated, red/white | 30 | Slightly milder | Salads, crudités |
+| Easter Egg mix | Round, mixed colors | 25-28 | Same as Cherry Belle | Visual appeal; farmers markets |
+| Daikon | Long, white, 12-18" | 60-70 | Mild, less pungent | Pickling, braising, grating |
 
-**French Breakfast** - elongated, scarlet with a white tip, slightly milder flavor, 30 days. Better suited to salads where the shape is visible.
-
-**Easter Egg mix** - a blend of red, pink, purple, and white round radishes. The flavor is largely the same as Cherry Belle. The visual appeal is real: a bowl of mixed-color radishes on a table looks like you put in more effort than you did.
-
-**Daikon** - Japanese white radish (*Raphanus sativus* var. *longipinnatus*), 60+ days, and essentially a different product. Daikon grows large - roots 12-18 inches long and 2-3 inches across. It's used culinarily in a completely different way (pickled, braised, grated as a garnish) and its deep taproot is also used as a "tillage radish" in cover cropping, where it breaks up compacted subsoil and winter-kills to leave organic channels. Daikon belongs in a separate planning bucket from spring radishes; don't conflate them.
+**Daikon** (*Raphanus sativus* var. *longipinnatus*) is essentially a different crop despite the shared species. It grows large - roots 12-18 inches long and 2-3 inches across - and is used culinarily in a completely different way (pickled, braised, grated as a condiment). Its deep taproot also breaks up compacted subsoil and winter-kills to leave organic channels in cover crop applications. Daikon belongs in a separate planning bucket from spring radishes; see the [daikon page](/crops/daikon/) for growing details.
 
 ## The ROI case
 
@@ -46,6 +49,18 @@ A single planting of radish gives you a 3-to-4 day window to eat it before the r
 To have radishes available through the full spring season - roughly 10-12 weeks in most zones - you need 5-6 successive plantings spaced 2 weeks apart. Eight plantings covers the window comfortably and gives you overlap so you're never without. Each planting is small: a single 2-foot row or a square foot of scatter-sown seed. The time investment per planting is 5 minutes.
 
 That stacking is the whole strategy. One packet of seed, planted in small increments every two weeks from 4-6 weeks before last frost until temperatures push into the mid-70s°F consistently, will supply radishes across the entire spring. Then stop, let summer pass, and restart the same succession in late August or early September for fall.
+
+How many successions you can run depends on your zone's frost-free window and how long your spring stays cool:
+
+| Zone | Spring window | Fall window | Successions per season | Annual yield (2 sq ft per planting) |
+|---|---|---|---|---|
+| 5 | Apr 1 - May 15 (6 weeks) | Aug 25 - Oct 1 (5 weeks) | 5-6 | 2.5-3 lb |
+| 6 | Mar 20 - May 20 (8 weeks) | Sep 1 - Oct 15 (6 weeks) | 7-8 | 3.5-4 lb |
+| 7 | Mar 1 - May 25 (12 weeks) | Sep 5 - Nov 1 (8 weeks) | 10 | 5 lb |
+| 8 | Feb 15 - May 1 (10 weeks) | Sep 1 - Nov 15 (10 weeks) + winter | 12+ | 6+ lb |
+| 9+ | Year-round except peak summer | Year-round except peak summer | 15+ | 7+ lb |
+
+Each planting uses roughly 1-2 sq ft and yields 0.4-0.6 lb. At $2.50/lb retail, each 2-week succession returns about $1.25 in radish value from under $0.10 in seed - but the more useful metric is continuous fresh production across a 10-14 week season from a single $1.99 packet.
 
 ## Growing requirements
 

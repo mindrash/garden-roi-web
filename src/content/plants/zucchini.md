@@ -11,6 +11,8 @@ is_common: true
 watering: Deep watering 1-2 inches/week; consistent moisture prevents blossom drop
 sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Basil, Mint]
+direct_sow_ok: true
+indoor_weeks_needed: 3
 description: "Zucchini (Cucurbita pepo) - 10 lb per plant at $1.00/lb fresh. Frozen surplus replaces $4-6 bakery loaves through winter. Two plants serve most households well."
 hero_image: /images/crops/zucchini.webp
 ---
@@ -21,7 +23,15 @@ Zucchini (*Cucurbita pepo*) is the most reliably productive vegetable in the sum
 
 Zucchini is a summer squash, distinct from winter squash in that you harvest it before the rind hardens and the seeds mature. Most home gardeners grow one of three types. **Black Beauty** is the standard dark-green supermarket zucchini - smooth skin, mild flavor, high yield, available everywhere. **Costata Romanesco** is an Italian heirloom with ridged skin, a nuttier flavor profile that stands up better to high heat, and generally better resistance to powdery mildew than modern hybrids. If you want a zucchini that tastes like something, grow this one. **Yellow Crookneck** is technically a different squash type but follows identical growing and management patterns; its value is in visual variety on the plate.
 
-All three require bee pollination. Zucchini produces separate male and female flowers on the same plant. Male flowers appear first - they have a straight, thin stem. Female flowers come a week or two later and have a small, immature zucchini at the base of the flower. A bee (or a gardener with a small brush) must transfer pollen from the male to the center of the female for fruit to set. Flowers that drop without forming fruit are almost always unpollinated females - either because male flowers weren't open yet, or because bee activity was low during a stretch of rain or cold. If that's happening, pull a fully open male flower, peel back the petals, and brush the pollen-covered anther directly against the stigma of an open female flower. It takes thirty seconds and it works.
+| Variety | Type | Days | Key trait | Best use |
+|---|---|---|---|---|
+| Black Beauty | Dark green, bush | 50-55 | High yield, standard supermarket type | Fresh eating, shredding |
+| Costata Romanesco | Ridged green, bush | 52-58 | Nutty flavor, better mildew resistance | High-heat cooking, sautéing |
+| Patio Star | Bush, compact | 50-55 | Half the spread; works in containers | Small gardens, raised beds |
+| Yellow Crookneck | Yellow, vining | 50-60 | Visual variety; slightly firmer flesh | Grilling, mixed dishes |
+| Magda (Cousa type) | Pale green, rounded | 48-52 | Sweet, mild; pick at 4-5 inches | Middle Eastern cooking; fresh eating |
+
+All five require bee pollination. Zucchini produces separate male and female flowers on the same plant. Male flowers appear first - they have a straight, thin stem. Female flowers come a week or two later and have a small, immature zucchini at the base of the flower. A bee (or a gardener with a small brush) must transfer pollen from the male to the center of the female for fruit to set. Flowers that drop without forming fruit are almost always unpollinated females - either because male flowers weren't open yet, or because bee activity was low during a stretch of rain or cold. If that's happening, pull a fully open male flower, peel back the petals, and brush the pollen-covered anther directly against the stigma of an open female flower. It takes thirty seconds and it works.
 
 ## The ROI case
 
@@ -32,6 +42,24 @@ Here's where the math changes: zucchini doesn't produce 10 lb. It produces 10 lb
 The preservation case is where the real value lives. Shredded zucchini freezes exceptionally well. Pack it in 2-cup portions, squeeze out excess moisture first, and you have ready-to-use zucchini for baking for 8–10 months. One plant's surplus will supply a household with enough frozen zucchini for a full year of zucchini bread, muffins, and quick breads - eliminating those purchases entirely. A loaf of zucchini bread typically calls for 1.5 cups of shredded zucchini; at $4–$6 per loaf at a bakery, the math on the preserved surplus gets considerably more interesting than the fresh $1.00/lb grocery comparison. The value argument for zucchini is in what you do with the excess, not in substituting fresh-market purchases directly.
 
 Three plants is too many. Two plants is the right number for a family that has a preservation plan. One plant is probably enough if you just want zucchini for the table.
+
+## Succession planting
+
+Most home gardeners plant all their zucchini at once and then deal with the consequences - a two-week window in late July when the plants are going full throttle, followed by declining production as powdery mildew and age reduce vigor, followed by nothing.
+
+A better approach: plant in two or three staggered starts, each two to three weeks apart.
+
+| Start | Direct sow date (Zone 6 example) | Peak production | Mildew arrival | Useful life |
+|---|---|---|---|---|
+| Start 1 | May 20 (after last frost) | mid-July to early August | late August | ~10 weeks |
+| Start 2 | June 10 | late July to late August | mid-September | ~10 weeks |
+| Start 3 | June 28 | mid-August to early October | late September or frost | ~8-10 weeks |
+
+When Start 1 is declining in August, Start 2 is at peak and Start 3 is just coming in. You get continuous fresh production from mid-July to frost rather than a glut followed by nothing. The tradeoff: you're managing three plants at different stages and using more garden space. Worth it if continuous access matters more than one big preserving push.
+
+For a household with one primary summer squash planting, Start 2 (mid-June) is often the best single planting. It misses the late-spring rush, produces heavily through August when fresh eating demand is high, and avoids the first-start mildew pressure that tends to peak in late August.
+
+In zones 8-9, a fourth planting in August produces a fall crop before first frost; in zone 9-10, zucchini can be grown through winter as an annual.
 
 ## Growing requirements
 

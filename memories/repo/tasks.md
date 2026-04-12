@@ -3666,20 +3666,8 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ## New Article Sprint 2 — Claude Code (NA006+)
 
 ### NA006 — Create mulching-roi.md
-**Status:** `[ ]`
-**Owner:** Claude Code (content)
-**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
-**Files:** `src/content/articles/mulching-roi.md`
-**What:** ROI analysis of mulching — a practice almost every extension service recommends but rarely with financial quantification.
-**Details:**
-- Mulch types and costs: wood chips (free from arborist or chip drop), straw ($8–15/bale), shredded leaves (free), bark mulch ($3–8/bag), cardboard/newspaper (free)
-- Water retention: 2–4" layer reduces irrigation frequency 25–50%; dollar value per season at average water rates
-- Weed suppression: labor savings — unmulched bed requires 2–4x more weeding; time value at any hourly rate
-- Soil temperature moderation: cool-season crops benefit from mulch-cooled soil in mid-summer; extended production window has dollar value
-- Breakdown and amendment: organic mulches improve soil over time; reduced amendment purchase in subsequent seasons
-- Break-even: straw mulch on a 4×8 bed ($8) vs. water savings ($15–30) + weed labor savings (3–5 hours × $15/hr = $45–75) = positive first-season ROI
-- `publishDate: 2026-05-01`, `category: homestead`, `featured: false`
-**Acceptance:** 1,800+ words, water savings math present, weed labor calculation included, mulch type cost table, zero em dashes, build passes.
+**Status:** `[x]`
+**Note:** Duplicate — `src/content/articles/mulching-guide.md` already covers mulch types, cost table, water savings math, and weed suppression ROI. No new file needed.
 
 ---
 
