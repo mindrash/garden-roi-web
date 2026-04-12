@@ -64,6 +64,7 @@ const SEARCH_OVERRIDES = {
   'celtuce': 'stem lettuce Chinese vegetable',
   'culantro': 'cilantro herb fresh leaves',
   'yacon': 'jicama root tuber vegetable',
+  'agretti': 'samphire sea vegetable greens',
 };
 
 function searchTerm(slug) {
