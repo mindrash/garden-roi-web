@@ -11,7 +11,7 @@ is_common: true
 watering: Consistent 1 inch/week; uneven moisture causes forked or cracked roots
 sunlight: Full sun (6+ hours minimum)
 companion_plants: [Tomato, Lettuce]
-description: "Carrot (Daucus carota) - 1 lb per 10-ft row at $1.75/lb; heirloom varieties fetch $4-6/lb at market. Loose, rock-free soil prevents forking and split roots."
+description: "Carrot (Daucus carota) - a $2.49 packet plants multiple rows returning 5+ lbs at $1.75/lb conventional or $4-6/lb for heirloom varieties at market. Loose, rock-free soil prevents forking and split roots."
 hero_image: /images/crops/carrot.webp
 ---
 

@@ -4,14 +4,14 @@ scientific_name: Spinacia oleracea
 category: Vegetable
 days_min: 37
 days_max: 50
-avg_yield_lb: 2.5
+avg_yield_lb: 5.0
 avg_price_lb: 3.50
 seed_cost: 2.99
 is_common: true
 watering: Consistent moisture, approximately 1 inch per week; drought stress accelerates bolting faster than almost anything else you can do wrong
 sunlight: Full sun to partial shade; afternoon shade in spring extends the harvest window by slowing heat accumulation on the leaves
 companion_plants: [Strawberry, Garlic]
-description: "Spinach (Spinacia oleracea) - 0.5 lb per sq ft at $3.50/lb. Fall crops outperform spring because cooling temperatures slow bolting and sweeten the leaves."
+description: "Spinach (Spinacia oleracea) - a $2.99 packet plants a 10 sq ft bed returning ~5 lbs at $3.50/lb. Fall crops outperform spring because cooling temperatures slow bolting and sweeten the leaves."
 hero_image: /images/crops/spinach.webp
 ---
 
