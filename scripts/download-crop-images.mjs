@@ -54,6 +54,13 @@ const SEARCH_OVERRIDES = {
   'holy-basil': 'holy basil tulsi herb',
   'mizuna': 'japanese mustard greens salad',
   'shiso': 'shiso perilla leaf herb',
+  'honeyberry': 'haskap berry blue honeysuckle',
+  'hardy-kiwi': 'kiwi fruit small',
+  'new-zealand-spinach': 'spinach summer greens',
+  'malabar-spinach': 'basella climbing spinach',
+  'chrysanthemum-greens': 'chrysanthemum leaves edible',
+  'water-chestnut': 'water chestnut Chinese',
+  'aronia': 'aronia chokeberry black berry',
 };
 
 function searchTerm(slug) {
