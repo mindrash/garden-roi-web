@@ -5,10 +5,10 @@ import { getCollection } from 'astro:content';
 
 const allPlants = await getCollection('plants');
 
-// Sort by ROI score descending: (yield × price) / seed_cost
+// Sort by estimated net ROI descending: (yield × price) - seed_cost
 const plants = [...allPlants].sort((a, b) => {
-  const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.seed_cost;
-  const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.seed_cost;
+  const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) - a.data.seed_cost;
+  const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) - b.data.seed_cost;
   return roiB - roiA;
 });
 
@@ -39,7 +39,7 @@ const collectionJsonLd = {
   <div class="page-header">
     <div class="container">
       <h1>Crops</h1>
-      <p>All crops ranked by ROI  -  harvest value divided by seed cost. <a href="/crops/best-roi/" class="header-link">See the top 15 by ROI →</a></p>
+      <p>All crops ranked by estimated net return  -  harvest value minus seed cost. <a href="/crops/best-roi/" class="header-link">See the top 15 by ROI →</a></p>
     </div>
   </div>
 
@@ -301,7 +301,7 @@ const collectionJsonLd = {
     if (!grid) return;
     const wrappers = Array.from(grid.querySelectorAll<HTMLElement>('.plant-card-wrapper'));
     wrappers.sort((a, b) => {
-      if (sortBy === 'roi')   return parseFloat(b.dataset.roi ?? '0') - parseFloat(a.dataset.roi ?? '0');
+      if (sortBy === 'roi')   return parseFloat(b.dataset.estRoi ?? '0') - parseFloat(a.dataset.estRoi ?? '0');
       if (sortBy === 'days')  return parseInt(a.dataset.days ?? '0', 10) - parseInt(b.dataset.days ?? '0', 10);
       if (sortBy === 'price') return parseFloat(b.dataset.price ?? '0') - parseFloat(a.dataset.price ?? '0');
       return 0;
@@ -324,7 +324,7 @@ const collectionJsonLd = {
         case 'yield': av = parseFloat(a.dataset.yield ?? '0');   bv = parseFloat(b.dataset.yield ?? '0');   break;
         case 'price': av = parseFloat(a.dataset.price ?? '0');   bv = parseFloat(b.dataset.price ?? '0');   break;
         case 'seed':  av = parseFloat(a.dataset.seed ?? '0');    bv = parseFloat(b.dataset.seed ?? '0');    break;
-        case 'roi':   av = parseFloat(a.dataset.estRoi ?? '0');  bv = parseFloat(b.dataset.estRoi ?? '0'); break;
+        case 'roi':   av = parseFloat(a.dataset.estRoi ?? '0');  bv = parseFloat(b.dataset.estRoi ?? '0');  break;
       }
       return dir === 'asc' ? av - bv : bv - av;
     });

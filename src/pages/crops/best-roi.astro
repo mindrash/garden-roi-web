@@ -43,12 +43,10 @@ const itemListJsonLd = {
   <div class="page-header">
     <div class="container">
       <nav class="breadcrumb" aria-label="Breadcrumb">
-        <ol class="breadcrumb-list">
+        <ol>
           <li><a href="/">Home</a></li>
-          <li aria-hidden="true">›</li>
           <li><a href="/crops/">Crops</a></li>
-          <li aria-hidden="true">›</li>
-          <li><span aria-current="page">Best ROI</span></li>
+          <li aria-current="page">Best ROI</li>
         </ol>
       </nav>
       <h1>15 Highest-ROI Crops</h1>
@@ -153,50 +151,35 @@ const itemListJsonLd = {
 </BaseLayout>
 
 <style>
-  .page-header {
-    background-color: var(--color-primary);
-    color: var(--color-white);
-    padding: var(--space-xl) var(--space-l);
-  }
-
-  .page-header h1 {
-    font-family: var(--font-display);
-    font-size: var(--text-h1);
-    margin: var(--space-s) 0;
-  }
-
-  .page-header p {
-    font-size: var(--text-h3);
-    opacity: 0.92;
-    max-width: 65ch;
-  }
-
-  .breadcrumb {
-    font-size: var(--text-small);
-    opacity: 0.8;
-    margin-bottom: var(--space-s);
-  }
-
-  .breadcrumb-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+  .breadcrumb ol {
     display: flex;
     gap: var(--space-xs);
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-m);
+    font-size: var(--text-small);
+  }
+
+  .breadcrumb li {
+    display: flex;
     align-items: center;
+    gap: var(--space-xs);
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .breadcrumb li:not(:last-child)::after {
+    content: '/';
+    color: rgba(255, 255, 255, 0.4);
   }
 
   .breadcrumb a {
-    color: var(--color-white);
+    color: rgba(255, 255, 255, 0.85);
     text-decoration: none;
   }
 
   .breadcrumb a:hover {
-    text-decoration: underline;
-  }
-
-  .breadcrumb span[aria-current] {
     color: var(--color-white);
+    text-decoration: underline;
   }
 
   .content-wrap {
