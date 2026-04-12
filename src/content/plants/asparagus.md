@@ -4,7 +4,7 @@ scientific_name: Asparagus officinalis
 category: Vegetable
 days_min: 730
 days_max: 1095
-avg_yield_lb: 1.0
+avg_yield_lb: 5.0
 avg_price_lb: 4.50
 seed_cost: 5.99
 is_common: true

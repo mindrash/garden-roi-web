@@ -5,7 +5,7 @@ category: Herb
 days_min: 60
 days_max: 90
 avg_yield_lb: 2.0
-avg_price_lb: 48.00
+avg_price_lb: 18.00
 seed_cost: 3.00
 is_common: true
 watering: "Moderate to high; 1-2 inches/week; tolerates wet soil"

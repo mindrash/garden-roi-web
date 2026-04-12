@@ -4,7 +4,7 @@ scientific_name: Allium sativum
 category: Vegetable
 days_min: 240
 days_max: 280
-avg_yield_lb: 0.5
+avg_yield_lb: 6.5
 avg_price_lb: 4.99
 seed_cost: 12.00
 is_common: true

@@ -4,7 +4,7 @@ scientific_name: Spinacia oleracea
 category: Vegetable
 days_min: 37
 days_max: 50
-avg_yield_lb: 0.5
+avg_yield_lb: 2.5
 avg_price_lb: 3.50
 seed_cost: 2.99
 is_common: true

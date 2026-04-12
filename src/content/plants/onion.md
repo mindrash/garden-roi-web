@@ -4,7 +4,7 @@ scientific_name: Allium cepa
 category: Vegetable
 days_min: 90
 days_max: 120
-avg_yield_lb: 0.75
+avg_yield_lb: 8.0
 avg_price_lb: 1.50
 seed_cost: 2.99
 is_common: true

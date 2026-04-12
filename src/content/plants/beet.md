@@ -4,7 +4,7 @@ scientific_name: Beta vulgaris subsp. vulgaris
 category: Vegetable
 days_min: 55
 days_max: 70
-avg_yield_lb: 0.5
+avg_yield_lb: 4.0
 avg_price_lb: 2.50
 seed_cost: 2.49
 is_common: true

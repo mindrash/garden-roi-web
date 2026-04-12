@@ -4,7 +4,7 @@ scientific_name: Raphanus sativus
 category: Vegetable
 days_min: 25
 days_max: 30
-avg_yield_lb: 0.5
+avg_yield_lb: 2.0
 avg_price_lb: 2.50
 seed_cost: 1.99
 is_common: true
