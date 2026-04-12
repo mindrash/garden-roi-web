@@ -13,8 +13,24 @@ const pairs = COMPARISON_PAIRS.flatMap(([a, b]) => {
   return [{ a: pa, b: pb, slug: `${a}-vs-${b}` }];
 });
 
-// Sort by name
+// Sort alphabetically for dropdowns
 const sorted = [...allPlants].sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+// Serialize all plant data for client-side comparison rendering
+const plantData = Object.fromEntries(
+  allPlants.map((p) => [
+    p.id,
+    {
+      id: p.id,
+      name: p.data.name,
+      seed_cost: p.data.seed_cost,
+      days_min: p.data.days_min,
+      days_max: p.data.days_max,
+      avg_yield_lb: p.data.avg_yield_lb,
+      avg_price_lb: p.data.avg_price_lb,
+    },
+  ])
+);
 ---
 
 <BaseLayout
@@ -49,32 +65,31 @@ const sorted = [...allPlants].sort((a, b) => a.data.name.localeCompare(b.data.na
           <option value="">— Crop 2 —</option>
           {sorted.map((p) => <option value={p.id}>{p.data.name}</option>)}
         </select>
-        <button id="pick-go" class="btn btn-primary" disabled>Compare →</button>
+        <button id="pick-go" class="btn btn-primary" disabled>Compare</button>
       </div>
     </div>
 
-    <script>
-      const pickA = document.getElementById('pick-a') as HTMLSelectElement | null;
-      const pickB = document.getElementById('pick-b') as HTMLSelectElement | null;
-      const pickGo = document.getElementById('pick-go') as HTMLButtonElement | null;
+    <!-- Inline comparison result panel (hidden until a comparison is run) -->
+    <div id="compare-result" class="compare-result" hidden aria-live="polite">
+      <h2 id="result-title" class="result-title"></h2>
+      <p class="result-desc">Side-by-side ROI comparison based on USDA average yield and retail price data.</p>
+      <div class="prose" id="result-prose">
+        <table id="result-table">
+          <thead>
+            <tr>
+              <th>Metric</th>
+              <th class="crop-a-head" id="result-head-a"></th>
+              <th class="crop-b-head" id="result-head-b"></th>
+            </tr>
+          </thead>
+          <tbody id="result-tbody"></tbody>
+        </table>
+      </div>
+      <p class="table-note">Values are per plant/packet. Retail prices from USDA AMS data. Net value = gross harvest value minus seed cost.</p>
+      <div class="crop-links" id="result-crop-links"></div>
+    </div>
 
-      function update() {
-        if (pickA && pickB && pickGo) {
-          pickGo.disabled = !pickA.value || !pickB.value || pickA.value === pickB.value;
-        }
-      }
-
-      pickA?.addEventListener('change', update);
-      pickB?.addEventListener('change', update);
-
-      pickGo?.addEventListener('click', () => {
-        if (pickA?.value && pickB?.value) {
-          window.location.href = `/compare/${pickA.value}-vs-${pickB.value}/`;
-        }
-      });
-    </script>
-
-    <!-- Pre-rendered pairs -->
+    <!-- Pre-rendered featured pairs -->
     <h2 class="section-heading">Popular comparisons</h2>
     <div class="pairs-grid">
       {pairs.map(({ a, b, slug }) => {
@@ -104,6 +119,81 @@ const sorted = [...allPlants].sort((a, b) => a.data.name.localeCompare(b.data.na
     </div>
   </div>
 </BaseLayout>
+
+<script define:vars={{ plantData }}>
+  const pickA = document.getElementById('pick-a');
+  const pickB = document.getElementById('pick-b');
+  const pickGo = document.getElementById('pick-go');
+  const resultPanel = document.getElementById('compare-result');
+  const resultTitle = document.getElementById('result-title');
+  const resultHeadA = document.getElementById('result-head-a');
+  const resultHeadB = document.getElementById('result-head-b');
+  const resultTbody = document.getElementById('result-tbody');
+  const resultCropLinks = document.getElementById('result-crop-links');
+
+  function updateButton() {
+    const aVal = pickA.value;
+    const bVal = pickB.value;
+    pickGo.disabled = !aVal || !bVal || aVal === bVal;
+  }
+
+  pickA.addEventListener('change', updateButton);
+  pickB.addEventListener('change', updateButton);
+
+  function fmt2(n) { return '$' + n.toFixed(2); }
+  function grossValue(p) { return p.avg_yield_lb * p.avg_price_lb; }
+  function netValue(p)   { return grossValue(p) - p.seed_cost; }
+  function roiMultiple(p) { return grossValue(p) / p.seed_cost; }
+
+  function winner(aVal, bVal, higherWins) {
+    if (aVal === bVal) return 'tie';
+    if (higherWins) return aVal > bVal ? 'a' : 'b';
+    return aVal < bVal ? 'a' : 'b';
+  }
+
+  function renderComparison(aId, bId) {
+    const a = plantData[aId];
+    const b = plantData[bId];
+    if (!a || !b) return;
+
+    const metrics = [
+      { label: 'Seed cost',           aStr: fmt2(a.seed_cost),          bStr: fmt2(b.seed_cost),          w: winner(a.seed_cost, b.seed_cost, false) },
+      { label: 'Days to maturity',    aStr: `${a.days_min}\u2013${a.days_max}`, bStr: `${b.days_min}\u2013${b.days_max}`, w: winner(a.days_max, b.days_max, false) },
+      { label: 'Avg yield (lb)',      aStr: `${a.avg_yield_lb} lb`,      bStr: `${b.avg_yield_lb} lb`,      w: winner(a.avg_yield_lb, b.avg_yield_lb, true) },
+      { label: 'Retail price/lb',     aStr: fmt2(a.avg_price_lb),        bStr: fmt2(b.avg_price_lb),        w: winner(a.avg_price_lb, b.avg_price_lb, true) },
+      { label: 'Gross harvest value', aStr: fmt2(grossValue(a)),          bStr: fmt2(grossValue(b)),          w: winner(grossValue(a), grossValue(b), true) },
+      { label: 'Net value',           aStr: fmt2(netValue(a)),            bStr: fmt2(netValue(b)),            w: winner(netValue(a), netValue(b), true) },
+      { label: 'ROI multiple',        aStr: `${roiMultiple(a).toFixed(1)}\u00d7`, bStr: `${roiMultiple(b).toFixed(1)}\u00d7`, w: winner(roiMultiple(a), roiMultiple(b), true) },
+    ];
+
+    resultTitle.textContent = `${a.name} vs ${b.name}`;
+
+    resultHeadA.innerHTML = `<a href="/crops/${a.id}/">${a.name}</a>`;
+    resultHeadB.innerHTML = `<a href="/crops/${b.id}/">${b.name}</a>`;
+
+    resultTbody.innerHTML = metrics.map((m) => `
+      <tr>
+        <td><strong>${m.label}</strong></td>
+        <td class="${m.w === 'a' ? 'winner-cell' : ''}">${m.aStr}</td>
+        <td class="${m.w === 'b' ? 'winner-cell' : ''}">${m.bStr}</td>
+      </tr>
+    `).join('');
+
+    resultCropLinks.innerHTML = `
+      <a href="/crops/${a.id}/" class="btn btn-secondary">Full ${a.name} guide &rarr;</a>
+      <a href="/crops/${b.id}/" class="btn btn-secondary">Full ${b.name} guide &rarr;</a>
+    `;
+
+    resultPanel.hidden = false;
+    resultPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  pickGo.addEventListener('click', () => {
+    if (pickA.value && pickB.value) {
+      renderComparison(pickA.value, pickB.value);
+    }
+  });
+</script>
 
 <style>
   .breadcrumb ol {
@@ -180,6 +270,56 @@ const sorted = [...allPlants].sort((a, b) => a.data.name.localeCompare(b.data.na
     letter-spacing: 0.05em;
   }
 
+  /* Inline comparison result */
+  .compare-result {
+    margin-bottom: var(--space-xl);
+    scroll-margin-top: var(--space-xl);
+  }
+
+  .result-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    color: var(--color-primary);
+    margin-bottom: var(--space-s);
+  }
+
+  .result-desc {
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-l);
+  }
+
+  /* Winner cell - supplements prose table styles */
+  .winner-cell {
+    font-weight: 700;
+    color: var(--color-primary-dark);
+    background-color: rgba(76, 175, 80, 0.12);
+  }
+
+  /* Crop column headers get distinct brand colors */
+  #result-prose thead th.crop-a-head {
+    background-color: var(--color-primary-dark);
+  }
+
+  #result-prose thead th.crop-b-head {
+    background-color: var(--color-secondary);
+  }
+
+
+  .table-note {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    margin-top: calc(-1 * var(--space-s));
+    margin-bottom: var(--space-l);
+  }
+
+  .crop-links {
+    display: flex;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+    margin-bottom: var(--space-xl);
+  }
+
+  /* Featured pairs */
   .section-heading {
     font-family: var(--font-display);
     font-size: var(--text-h2);

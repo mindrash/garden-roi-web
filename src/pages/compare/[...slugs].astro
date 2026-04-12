@@ -73,28 +73,28 @@ const relatedPairs = COMPARISON_PAIRS.filter(
   <h1 class="page-title">{a.name} vs {b.name}</h1>
   <p class="page-desc">Side-by-side ROI comparison based on USDA average yield and retail price data.</p>
 
-  <div class="container compare-page">
-    <div class="compare-table-wrap glass-card">
-      <table class="compare-table">
+  <div class="compare-page">
+    <div class="prose">
+      <table>
         <thead>
           <tr>
-            <th class="metric-col">Metric</th>
-            <th class="crop-col crop-a"><a href={`/crops/${plantA.id}/`}>{a.name}</a></th>
-            <th class="crop-col crop-b"><a href={`/crops/${plantB.id}/`}>{b.name}</a></th>
+            <th>Metric</th>
+            <th class="crop-a-head"><a href={`/crops/${plantA.id}/`}>{a.name}</a></th>
+            <th class="crop-b-head"><a href={`/crops/${plantB.id}/`}>{b.name}</a></th>
           </tr>
         </thead>
         <tbody>
           {metrics.map((m) => (
             <tr>
-              <td class="metric-label">{m.label}</td>
-              <td class={`crop-val crop-a-val ${m.winner === 'a' ? 'winner' : ''}`}>{m.a}</td>
-              <td class={`crop-val crop-b-val ${m.winner === 'b' ? 'winner' : ''}`}>{m.b}</td>
+              <td><strong>{m.label}</strong></td>
+              <td class={m.winner === 'a' ? 'winner-cell' : ''}>{m.a}</td>
+              <td class={m.winner === 'b' ? 'winner-cell' : ''}>{m.b}</td>
             </tr>
           ))}
         </tbody>
       </table>
-      <p class="table-note">Values are per plant/packet. Retail prices from USDA AMS data. Net value = gross harvest value minus seed cost.</p>
     </div>
+    <p class="table-note">Values are per plant/packet. Retail prices from USDA AMS data. Net value = gross harvest value minus seed cost.</p>
 
     <div class="crop-links">
       <a href={`/crops/${plantA.id}/`} class="btn btn-secondary">Full {a.name} guide →</a>
@@ -124,69 +124,37 @@ const relatedPairs = COMPARISON_PAIRS.filter(
     margin-bottom: var(--space-s);
   }
 
-  .page-desc { color: var(--color-text-secondary); margin-bottom: var(--space-xl); }
+  .page-desc {
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-xl);
+  }
 
   .compare-page {
-    padding-top: var(--space-xl);
     padding-bottom: var(--space-xxl);
-    background-color: rgba(248, 249, 245, 0.97);
   }
 
-  .compare-table-wrap {
-    overflow-x: auto;
-    margin-bottom: var(--space-xl);
-    padding: var(--space-l);
-  }
-
-  .compare-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: var(--text-body);
-  }
-
-  .compare-table th {
-    text-align: left;
-    padding: var(--space-s) var(--space-m);
-    border-bottom: 2px solid var(--color-border);
+  /* Winner cell highlight - supplements prose table styles */
+  .winner-cell {
     font-weight: 700;
+    color: var(--color-primary-dark);
+    background-color: rgba(76, 175, 80, 0.12);
   }
 
-  .crop-a { color: var(--color-primary); }
-  .crop-b { color: var(--color-secondary); }
-
-  .compare-table th a {
-    color: inherit;
-    text-decoration: none;
+  /* Crop column headers get distinct brand colors */
+  .prose thead th.crop-a-head {
+    background-color: var(--color-primary-dark);
   }
 
-  .compare-table th a:hover { text-decoration: underline; }
-
-  .compare-table td {
-    padding: var(--space-s) var(--space-m);
-    border-bottom: 1px solid var(--color-border);
+  .prose thead th.crop-b-head {
+    background-color: var(--color-secondary);
   }
 
-  .metric-label {
-    font-weight: 600;
-    color: var(--color-text-secondary);
-    white-space: nowrap;
-  }
-
-  .crop-val { font-variant-numeric: tabular-nums; }
-
-  .winner {
-    font-weight: 700;
-    background-color: rgba(76, 175, 80, 0.10);
-    border-radius: var(--radius-s);
-  }
-
-  .crop-a-val.winner { color: var(--color-primary-dark); }
-  .crop-b-val.winner { color: var(--color-secondary); }
 
   .table-note {
     font-size: var(--text-small);
     color: var(--color-text-muted);
-    margin-top: var(--space-m);
+    margin-top: calc(-1 * var(--space-s));
+    margin-bottom: var(--space-xl);
   }
 
   .crop-links {

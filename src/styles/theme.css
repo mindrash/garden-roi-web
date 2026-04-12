@@ -360,6 +360,15 @@ li {
   white-space: nowrap;
 }
 
+.prose thead th a {
+  color: var(--color-text-on-dark);
+  text-decoration: none;
+}
+
+.prose thead th a:hover {
+  text-decoration: underline;
+}
+
 .prose tbody tr {
   border-bottom: 1px solid var(--color-border);
   background-color: rgba(255, 255, 255, 0.85);
