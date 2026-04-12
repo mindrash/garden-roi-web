@@ -61,6 +61,9 @@ const SEARCH_OVERRIDES = {
   'chrysanthemum-greens': 'chrysanthemum leaves edible',
   'water-chestnut': 'water chestnut Chinese',
   'aronia': 'aronia chokeberry black berry',
+  'celtuce': 'stem lettuce Chinese vegetable',
+  'culantro': 'cilantro herb fresh leaves',
+  'yacon': 'jicama root tuber vegetable',
 };
 
 function searchTerm(slug) {
