@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 13, 2026 (PE028-PE031 Sprint 5 marked complete; queued PE032-PE087 expansion sprints, PB012-PB021 new plants, NA008-NA012 new articles)_
+_Last updated: April 13, 2026 (PE032-PE047 Sprints 6+7 complete; 15 plant pages expanded to 1,600+ words)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -3839,7 +3839,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ## Plant Expansion Sprint 6 — Common Stubs (PE032-PE039)
 
 ### PE032 — Expand mizuna.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/mizuna.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Mizuna is currently 823 words. Expand to 1,600+ with ROI math, succession table, and Asian cooking context.
@@ -3862,7 +3862,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE033 — Expand borage.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/borage.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Borage is currently 827 words. Expand with edible flower ROI, companion planting mechanism, and self-seeding economics.
@@ -3886,7 +3886,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE034 — Expand mustard-greens.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/mustard-greens.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Mustard greens is 829 words. Expand with Southern cooking context, seed-to-table ROI, succession math, and cover crop value.
@@ -3909,7 +3909,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE035 — Expand mache.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/mache.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Mâche (corn salad) is 830 words. Expand with winter hardiness ROI, premium pricing math, and European context.
@@ -3932,7 +3932,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE036 — Expand rutabaga.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/rutabaga.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Rutabaga is 830 words. Expand with storage value math, comparison to turnip, and variety table.
@@ -3955,7 +3955,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE037 — Expand endive.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/endive.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Endive is 847 words. Expand with Belgian endive forcing ROI, chicory family context, and variety table.
@@ -3978,7 +3978,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE038 — Expand goji-berry.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/goji-berry.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Goji Berry is 848 words. Expand with multi-year yield ramp, fresh vs. dried pricing, and shrub establishment detail.
@@ -4003,7 +4003,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ## Plant Expansion Sprint 7 — Common Stubs (PE040-PE047)
 
 ### PE040 — Expand watercress.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/watercress.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Watercress is 848 words. Expand with no-stream growing method, premium pricing math, and year-round harvest potential.
@@ -4019,7 +4019,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE041 — Expand napa-cabbage.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/napa-cabbage.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Napa cabbage is 851 words. Expand with kimchi ROI section, variety table, and fall planting advantage.
@@ -4035,7 +4035,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE042 — Expand nasturtium.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/nasturtium.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Nasturtium is 854 words. Expand with edible flower economics, whole-plant use (leaves, buds, seeds), and companion planting mechanisms.
@@ -4051,7 +4051,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE043 — Expand chamomile.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/chamomile.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Chamomile is 863 words. Expand with dried herb pricing math, German vs. Roman comparison, and self-seeding economics.
@@ -4067,7 +4067,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE044 — Expand fenugreek.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/fenugreek.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Fenugreek is 865 words. Expand with dual-crop value (leaves + seeds), South Asian culinary context, and cover crop use.
@@ -4083,7 +4083,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE045 — Expand stevia.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/stevia.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Stevia is 865 words. Expand with sweetener equivalent math, drying and processing, and zone limitations.
@@ -4098,7 +4098,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE046 — Expand sunflower.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/sunflower.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Sunflower is 876 words. Expand with seed yield vs. cut flower market split, bird/squirrel management, and variety table.
@@ -4114,7 +4114,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 ---
 
 ### PE047 — Expand sorrel.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/sorrel.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Sorrel is 877 words. Expand with perennial value math, culinary applications, and variety comparison.
