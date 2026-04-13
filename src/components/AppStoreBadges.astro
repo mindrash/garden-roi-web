@@ -17,7 +17,13 @@
       loading="lazy"
     />
   </a>
-  <div class="badge-link badge-coming-soon" aria-label="Garden ROI on Google Play - coming soon">
+  <a
+    href="https://play.google.com/store/apps/details?id=com.fleeflame.gardenroi"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="badge-link"
+    aria-label="Get Garden ROI on Google Play"
+  >
     <img
       src="/badges/google-play.svg"
       alt="Get it on Google Play"
@@ -25,8 +31,7 @@
       height="52"
       loading="lazy"
     />
-    <span class="coming-soon-label">Coming soon</span>
-  </div>
+  </a>
 </div>
 
 <style>
@@ -55,33 +60,7 @@
     max-width: 100%;
   }
 
-  .badge-coming-soon {
-    position: relative;
-    cursor: default;
-    opacity: 0.6;
-    display: block;
-  }
-
-  .badge-coming-soon:hover {
-    opacity: 0.6;
-    transform: none;
-  }
-
-  .coming-soon-label {
-    position: absolute;
-    bottom: -18px;
-    left: 0;
-    width: 100%;
-    text-align: center;
-    font-size: var(--text-micro);
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.8px;
-    color: var(--color-text-muted);
-    white-space: nowrap;
-  }
-
-  @media (max-width: 400px) {
+@media (max-width: 400px) {
     .badge-link img {
       height: 42px;
     }
