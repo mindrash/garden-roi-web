@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 13, 2026 (PE032-PE047 Sprints 6+7 complete; 15 plant pages expanded to 1,600+ words)_
+_Last updated: April 13, 2026 (PE048-PE084, PB012-PB021, NA008-NA012 complete; all plant pages 1,600+ words; 5 new articles; 10 new plant pages)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -4133,7 +4133,7 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 Sprint 8 covers: lemon-balm, celeriac, edamame, watermelon, parsnip, cantaloupe, leek, calendula.
 
 ### PE048 — Expand lemon-balm.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/lemon-balm.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Lemon balm is 880 words. Expand with dried herb value, container containment strategy, and medicinal context.
@@ -4148,7 +4148,7 @@ Sprint 8 covers: lemon-balm, celeriac, edamame, watermelon, parsnip, cantaloupe,
 ---
 
 ### PE049 — Expand celeriac.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/celeriac.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Celeriac is 881 words. Expand with long-season management, celery comparison ROI, and storage value.
@@ -4164,7 +4164,7 @@ Sprint 8 covers: lemon-balm, celeriac, edamame, watermelon, parsnip, cantaloupe,
 ---
 
 ### PE050 — Expand edamame.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/edamame.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Edamame is 884 words. Expand with grocery store price comparison, variety table, and succession for extended harvest.
@@ -4180,7 +4180,7 @@ Sprint 8 covers: lemon-balm, celeriac, edamame, watermelon, parsnip, cantaloupe,
 ---
 
 ### PE051 — Expand watermelon.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/watermelon.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Watermelon is 888 words. Expand with small-space variety focus, ripeness testing methods, and honest ROI reality check.
@@ -4196,7 +4196,7 @@ Sprint 8 covers: lemon-balm, celeriac, edamame, watermelon, parsnip, cantaloupe,
 ---
 
 ### PE052 — Expand parsnip.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/parsnip.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Parsnip is 890 words. Expand with frost sweetening mechanism, fresh seed requirement, and storage ROI.
@@ -4212,7 +4212,7 @@ Sprint 8 covers: lemon-balm, celeriac, edamame, watermelon, parsnip, cantaloupe,
 ---
 
 ### PE053 — Expand cantaloupe.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/cantaloupe.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Cantaloupe is 903 words. Expand with Brix measurement, variety table, and honest space-requirement math.
@@ -4228,7 +4228,7 @@ Sprint 8 covers: lemon-balm, celeriac, edamame, watermelon, parsnip, cantaloupe,
 ---
 
 ### PE054 — Expand leek.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/leek.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Leek is 909 words. Expand with earthing-up technique, season extension value, and premium variety ROI.
@@ -4244,7 +4244,7 @@ Sprint 8 covers: lemon-balm, celeriac, edamame, watermelon, parsnip, cantaloupe,
 ---
 
 ### PE055 — Expand calendula.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/calendula.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Calendula is 914 words. Expand with skincare market value, dried petal pricing, and cut flower economics.
@@ -4263,7 +4263,7 @@ Sprint 8 covers: lemon-balm, celeriac, edamame, watermelon, parsnip, cantaloupe,
 Sprint 9 covers: snap-pea, turnip, collard-greens, amaranth, elderberry, lima-bean, lavender, currant.
 
 ### PE056 — Expand snap-pea.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/snap-pea.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Snap pea is 916 words. Expand with succession table, trellis ROI, and fresh vs. frozen price comparison.
@@ -4278,7 +4278,7 @@ Sprint 9 covers: snap-pea, turnip, collard-greens, amaranth, elderberry, lima-be
 ---
 
 ### PE057 — Expand turnip.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/turnip.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Turnip is 922 words. Expand with turnip greens dual-crop value, fall timing advantage, and variety table.
@@ -4293,7 +4293,7 @@ Sprint 9 covers: snap-pea, turnip, collard-greens, amaranth, elderberry, lima-be
 ---
 
 ### PE058 — Expand collard-greens.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/collard-greens.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Collard greens is 924 words. Expand with long harvest window math, Southern cooking context, and winter hardiness.
@@ -4309,7 +4309,7 @@ Sprint 9 covers: snap-pea, turnip, collard-greens, amaranth, elderberry, lima-be
 ---
 
 ### PE059 — Expand amaranth.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/amaranth.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Amaranth is 926 words. Expand with grain vs. leaf dual-crop value, seed yield math, and heat tolerance advantage.
@@ -4325,7 +4325,7 @@ Sprint 9 covers: snap-pea, turnip, collard-greens, amaranth, elderberry, lima-be
 ---
 
 ### PE060 — Expand elderberry.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/elderberry.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Elderberry is 932 words. Expand with syrup market value, multi-year yield ramp, and food safety (raw berry toxicity).
@@ -4341,7 +4341,7 @@ Sprint 9 covers: snap-pea, turnip, collard-greens, amaranth, elderberry, lima-be
 ---
 
 ### PE061 — Expand lima-bean.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/lima-bean.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Lima bean is 933 words. Expand with fresh vs. dried pricing split, heat requirement, and variety table.
@@ -4357,7 +4357,7 @@ Sprint 9 covers: snap-pea, turnip, collard-greens, amaranth, elderberry, lima-be
 ---
 
 ### PE062 — Expand lavender.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/lavender.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Lavender is 936 words. Expand with dried flower and essential oil market, variety-by-climate table, and multi-year establishment.
@@ -4372,7 +4372,7 @@ Sprint 9 covers: snap-pea, turnip, collard-greens, amaranth, elderberry, lima-be
 ---
 
 ### PE063 — Expand currant.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/currant.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Currant is 937 words. Expand with black vs. red vs. white comparison, jam value math, and cold-climate advantage.
@@ -4391,56 +4391,56 @@ Sprint 9 covers: snap-pea, turnip, collard-greens, amaranth, elderberry, lima-be
 Sprint 10 covers: okra, arugula, peppermint, bok-choy, green-bean, fig, jerusalem-artichoke, celery.
 
 ### PE064 — Expand okra.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/okra.md`
 **Details:** Heat requirement and harvest window discipline; variety table; Southern vs. Indian culinary context; slime management (dry cooking methods). ROI: $1.99 packet; 5-8 lb/season; retail $2-4/lb. Key point: pick pods at 2-3 inches daily — pods go from perfect to woody in 24 hours.
 
 ---
 
 ### PE065 — Expand arugula.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/arugula.md`
 **Details:** Arugula is 957 words. Succession table (10-12 sowings possible); wild vs. cultivated variety comparison (Roquette vs. Astro — heat tolerance differs significantly); spring vs. fall flavor (fall arugula is milder, sweeter); cut-and-come-again technique; grocery price comparison ($6-10/lb baby arugula).
 
 ---
 
 ### PE066 — Expand mint.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/mint.md`
 **Details:** Peppermint is 958 words. Container containment (mint spreads via runners — most critical management info); dried herb value ($15-25/lb); tea value calculation; variety comparison (peppermint vs. spearmint vs. chocolate mint vs. apple mint); menthol content peaks just before flowering.
 
 ---
 
 ### PE067 — Expand bok-choy.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/bok-choy.md`
 **Details:** Bok choy is 960 words. Baby vs. full-size comparison (baby harvested at 30 days, full-size 45-60 days; baby commands premium $4-7/lb vs. full-size $1.50-3/lb); variety table; stir-fry timing (bok choy goes from raw to perfectly wilted in 90 seconds over high heat — overcooking is the failure); flea beetle management.
 
 ---
 
 ### PE068 — Expand green-bean.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/green-bean.md`
 **Details:** Green bean is 984 words. Bush vs. pole comparison table (pole beans produce 2-3x more per plant but need trellis; bush beans faster for canning window); succession planting for canning-quantity harvest; blanching and freezing technique; fresh vs. frozen ROI; variety table including specialty (Dragon Tongue, Rattlesnake, Blue Lake).
 
 ---
 
 ### PE069 — Expand fig.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/fig.md`
 **Details:** Fig is 986 words. Container culture for cold-climate overwintering (Zone 5-6); Brown Turkey vs. Chicago Hardy vs. Celeste comparison; breba (first crop) vs. main crop distinction; drying figs ($8-15/lb dried vs. $3-5/lb fresh); overwintering technique for zone-pushers.
 
 ---
 
 ### PE070 — Expand jerusalem-artichoke.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/jerusalem-artichoke.md`
 **Details:** Jerusalem artichoke is 988 words. Containment strategy (spreads aggressively — buried container same as mint); inulin content and digestive effects (honest warning); flavor improvement after frost; variety comparison (Stampede for short seasons, Fuseau for smooth tubers); tuber storage (leave in ground until needed, or dig and store in cool/humid conditions).
 
 ---
 
 ### PE071 — Expand celery.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/celery.md`
 **Details:** Celery is 1,005 words. Consistent heavy watering requirement (the primary failure mode); trench-growing for blanching; leaf celery (cutting celery) vs. stalk celery as easier alternative; $3-5/lb retail comparison; flavor difference between home-grown (more intense) and store-bought (mostly water).
 
@@ -4451,56 +4451,56 @@ Sprint 10 covers: okra, arugula, peppermint, bok-choy, green-bean, fig, jerusale
 Sprint 11 covers: artichoke, grape, cherry-tomato, pumpkin, chickpea, kale, acorn-squash, fava-bean.
 
 ### PE072 — Expand artichoke.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/artichoke.md`
 **Details:** Artichoke is 1,011 words. Perennial in Zone 7+, annual in Zone 5-6; vernalization trick for annual culture (brief cold period to trigger flowering); variety comparison (Green Globe vs. Violetto vs. Imperial Star); secondary and tertiary buds after main harvest; specialty market value ($3-5/each retail vs. $1-2 for commercial).
 
 ---
 
 ### PE073 — Expand grape.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/grape.md`
 **Details:** Grape is 1,032 words. American vs. European vs. hybrid variety climate requirements; annual pruning as the central skill (70% of old wood removed every year — skip this and yield collapses); table grape vs. wine grape vs. juice grape ROI comparison; 3-year establishment before meaningful yield; black rot and downy mildew management.
 
 ---
 
 ### PE074 — Expand cherry-tomato.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/cherry-tomato.md`
 **Details:** Cherry tomato is 1,051 words. Indeterminate vs. determinate distinction (indeterminate produces all season; determinate all at once); $4-8/pint at farmers markets vs. $3-5 grocery; skin-splitting prevention (consistent watering); variety table (Sun Gold, Sweet Million, Black Cherry, Yellow Pear, Juliet); container culture feasibility.
 
 ---
 
 ### PE075 — Expand pumpkin.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/pumpkin.md`
 **Details:** Pumpkin is 1,074 words. Carving vs. pie vs. giant-growing split; seed production value ($5-10/lb specialty seeds); fall retail premium ($3-8/pumpkin at farm stands vs. $1-2 wholesale); space math (full-size vines 15-20 sq ft each); mini pumpkins for high-value market; hand pollination for giant types.
 
 ---
 
 ### PE076 — Expand chickpea.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/chickpea.md`
 **Details:** Chickpea is 1,087 words. Dry vs. fresh (green chickpeas "ceci") use; long-season management (100-110 days; needs hot dry finish); Desi vs. Kabuli type comparison; nitrogen fixation as cover crop; hummus value calculation (1 lb dried chickpeas → 3 lb hummus at $4-6/lb retail = $12-18 value vs. $0.90 seed cost).
 
 ---
 
 ### PE077 — Expand kale.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/kale.md`
 **Details:** Kale is 1,094 words. Curly vs. lacinato vs. red Russian vs. Siberian comparison table; cut-and-come-again management for 8-month production; baby kale premium ($6-10/lb vs. $2.50/lb mature); winter hardiness (Siberian to Zone 3); frost sweetening; overwintering harvest value in Zone 5-6.
 
 ---
 
 ### PE078 — Expand acorn-squash.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/acorn-squash.md`
 **Details:** Acorn squash is 1,118 words. Curing vs. no-curing (acorn squash cures in 1-2 weeks vs. butternut's 4 weeks); storage comparison by variety; retail $1.50-3.00/squash; stuffed acorn squash as highest-value use; Honey Bear (smaller, AAS winner) vs. Table Ace vs. Carnival comparison; space vs. yield math.
 
 ---
 
 ### PE079 — Expand fava-bean.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/fava-bean.md`
 **Details:** Fava bean is 1,124 words. Double-shelling labor vs. reward (fava beans require removing beans from pod AND slipping inner skin for best results); fresh vs. dried split; spring vs. fall planting window (fall plant in Zone 7+ overwinters and yields earliest spring harvest); nitrogen fixation value; Mediterranean culinary tradition (ful medames, fave al guanciale).
 
@@ -4511,35 +4511,35 @@ Sprint 11 covers: artichoke, grape, cherry-tomato, pumpkin, chickpea, kale, acor
 Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highest-priority not-common stubs.
 
 ### PE080 — Expand tomato.md to 2,000+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/tomato.md`
 **Details:** Tomato is the flagship crop — currently 1,136 words is not enough. Expand to 2,000+. Needs: determinate vs. indeterminate in depth; pruning (suckering) technique and yield impact; blossom end rot cause and prevention; late blight vs. early blight distinction; variety table by use (slicing, paste, cherry, beefsteak, heirloom); canning math (6-8 lb tomatoes → 1 quart canned → 3-4 years of pasta sauce ROI).
 
 ---
 
 ### PE081 — Expand lettuce.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/lettuce.md`
 **Details:** Lettuce is 1,162 words. Cut-and-come-again vs. head lettuce comparison; succession planting for year-round harvest; heat-tolerant varieties for summer gap; baby leaf premium ($6-10/lb vs. $2-3/lb head); container and indoor growing; type comparison (butterhead, romaine, loose-leaf, crisphead) with days and temperature preferences.
 
 ---
 
 ### PE082 — Expand cucumber.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/cucumber.md`
 **Details:** Cucumber is 1,174 words. Slicing vs. pickling vs. Persian comparison; bitter prevention (consistent watering + keeping fruits off soil); trellising for straight fruits and less disease; pickling ROI (10 lb cucumbers + $2 in brine ingredients → 8-10 pints of pickles at $4-7/jar retail); powdery mildew resistant varieties.
 
 ---
 
 ### PE083 — Expand garlic.md to 2,000+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/garlic.md`
 **Details:** Garlic is 1,184 words. Already good but expand to 2,000+. Add: scape recipes and value (scapes = early harvest crop at $3-6/lb at farmers markets); seed-saving protocol for year-2 free seed; flavor comparison of hardneck subtypes (Rocambole vs. Porcelain vs. Purple Stripe); storage comparison (hardneck 6-8 months vs. softneck 9-12 months); zone-specific planting date table.
 
 ---
 
 ### PE084 — Expand cherry.md to 1,600+ words
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/cherry.md`
 **Details:** Cherry is 1,192 words. Sweet vs. sour cherry distinction (sweet needs partner; sour is self-fertile); bird netting as non-optional management; dwarf and semi-dwarf rootstock for small gardens; cherry to jam ratio ($8-12/lb fresh, $12-18/jar jam); Nanking cherry (Prunus tomentosa) as reliable shrub-form alternative to tree cherries.
 
@@ -4549,7 +4549,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ## New Plant Batch 5 (PB012-PB021)
 
 ### PB012 — Create cape-gooseberry.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/cape-gooseberry.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** New plant entry, 800+ words. Cape gooseberry (Physalis peruviana) — papery-husked berry, $8-12/lb at specialty retailers, start indoors 8-10 weeks before last frost.
@@ -4565,7 +4565,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### PB013 — Create popcorn.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/popcorn.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** New plant entry, 800+ words. Popcorn (Zea mays var. everta) — distinct from sweet corn; specialty heirloom popcorn $5-10/lb at farmers markets.
@@ -4581,7 +4581,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### PB014 — Create oca.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/oca.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** New plant entry, 800+ words. Oca (Oxalis tuberosa) — Andean tuber, $10-15/lb at specialty retailers.
@@ -4597,7 +4597,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### PB015 — Create salsify.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/salsify.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** New plant entry, 800+ words. Salsify (Tragopogon porrifolius) — "oyster plant," $3-5/lb.
@@ -4614,7 +4614,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### PB016 — Create scorzonera.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/scorzonera.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** New plant entry, 800+ words. Scorzonera (Scorzonera hispanica) — black salsify, $4-6/lb.
@@ -4630,7 +4630,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### PB017 — Create sea-kale.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/sea-kale.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** New plant entry, 800+ words. Sea kale (Crambe maritima) — perennial, forced blanched shoots $15-25/lb.
@@ -4646,7 +4646,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### PB018 — Create tepary-bean.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/tepary-bean.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** New plant entry, 800+ words. Tepary bean (Phaseolus acutifolius) — drought-resistant heritage bean, $5-10/lb.
@@ -4663,7 +4663,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### PB019 — Create mashua.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/mashua.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** New plant entry, 800+ words. Mashua (Tropaeolum tuberosum) — Andean tuber, ornamental climbing vine.
@@ -4685,7 +4685,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### PB021 — Create lotus-root.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/plants/lotus-root.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** New plant entry, 800+ words. Lotus root (Nelumbo nucifera) — aquatic vegetable, $4-8/lb.
@@ -4704,7 +4704,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ## New Article Sprint (NA008-NA012)
 
 ### NA008 — Create greenhouse-roi.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/articles/greenhouse-roi.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** 2,000+ word ROI analysis of season extension structures: cold frame vs. low tunnel vs. hoop house vs. polycarbonate greenhouse. Must include a break-even calculation for each structure type.
@@ -4721,7 +4721,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### NA009 — Create no-dig-gardening-roi.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/articles/no-dig-gardening-roi.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** 1,800+ word ROI analysis of no-dig/no-till gardening vs. conventional tilling. Charles Dowding method. Break-even on cardboard + compost investment.
@@ -4739,7 +4739,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### NA010 — Create food-preservation-equipment-roi.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/articles/food-preservation-equipment-roi.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** 2,000+ word break-even analysis of food preservation equipment: food dehydrator, pressure canner, water bath canner, vacuum sealer, chest freezer.
@@ -4760,7 +4760,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### NA011 — Create vertical-gardening-roi.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/articles/vertical-gardening-roi.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** 1,800+ word ROI analysis of vertical growing: trellis cost vs. yield-per-sq-ft improvement for pole beans, cucumbers, tomatoes, peas.
@@ -4776,7 +4776,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### NA012 — Create crop-loss-risk-management.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **File:** `src/content/articles/crop-loss-risk-management.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** 1,800+ word practical guide to managing garden crop risk: succession planting, variety diversity, row cover, and crop insurance equivalents for home gardeners.
