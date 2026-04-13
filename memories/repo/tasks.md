@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 11, 2026 (PE015-PE027, NA001-NA005, SEO001-SEO003, CI001, PE028-PE031, NA006-NA007 all complete)_
+_Last updated: April 13, 2026 (PE028-PE031 Sprint 5 marked complete; queued PE032-PE087 expansion sprints, PB012-PB021 new plants, NA008-NA012 new articles)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -3624,7 +3624,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ## Plant Expansion Sprint 5 — Claude Code (PE028+)
 
 ### PE028 — Expand zucchini.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Owner:** Claude Code (content)
 **File:** `src/content/plants/zucchini.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
@@ -3634,7 +3634,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### PE029 — Expand cabbage.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Owner:** Claude Code (content)
 **File:** `src/content/plants/cabbage.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
@@ -3644,7 +3644,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### PE030 — Expand radish.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Owner:** Claude Code (content)
 **File:** `src/content/plants/radish.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
@@ -3654,7 +3654,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### PE031 — Expand butternut-squash.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Owner:** Claude Code (content)
 **File:** `src/content/plants/butternut-squash.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
@@ -3835,3 +3835,958 @@ All four are existing plant files at ~900-930 words. Target: 1,600+ words each. 
 - **T001-T011:** All infrastructure tasks complete (schema, routing, SEO, pages)
 - **C001-C011:** All content rewrites complete (plants + articles)
 - **P001-P007:** All Tier 1 new plant pages complete (garlic, kale, arugula, cherry-tomato, hot-pepper, garden-pea, winter-squash)
+
+## Plant Expansion Sprint 6 — Common Stubs (PE032-PE039)
+
+### PE032 — Expand mizuna.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/mizuna.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Mizuna is currently 823 words. Expand to 1,600+ with ROI math, succession table, and Asian cooking context.
+**Details:**
+- ROI case: $2.49 packet; 10 sq ft bed yields 4 lb; specialty grocery $4-6/lb for loose Asian greens; full season with 3-4 successions. Bagged mizuna at Whole Foods runs $5-7/lb — grow-your-own saves real money.
+- Succession planting table: Zone 5-6 spring window (Mar 15–May 15) + fall window (Aug 15–Oct 1); sow dates, days to harvest (21-40), harvest window. Each succession from 2 sq ft yields ~0.8 lb.
+- Variety comparison table: Early Mizuna (fastest, mildest), Kyoto Mizuna (larger, more peppery), Red Streaks (ornamental value for markets), Mibuna (similar but strap-leaved, slightly sweeter).
+- Culinary use: raw in salads, quick stir-fry (wilts in 60 seconds over high heat), Japanese hot pot (nabe). Flavor compounds: glucosinolates (mild mustard notes), less bitter than arugula at same maturity.
+- Companion with radish: both fast brassicas; plant together for aphid trap crop effect (radish takes the hit).
+- What goes wrong: flea beetles (same row cover solution as arugula), bolting in heat (cut entire plant at 4 inches when stalk appears), downy mildew in wet fall weather.
+- Cite: Cornell Cooperative Extension for Asian greens production; USDA AMS specialty vegetable price surveys.
+**Acceptance:**
+- 1,600+ words (`wc -w`)
+- Succession table present with Zone 5-6 dates
+- Variety comparison table present
+- ROI math shows full-season value from one packet
+- Zero em dashes
+- `npx astro build` passes
+
+---
+
+### PE033 — Expand borage.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/borage.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Borage is currently 827 words. Expand with edible flower ROI, companion planting mechanism, and self-seeding economics.
+**Details:**
+- ROI case: $2.49 packet; edible flowers at farmers markets $10-25/lb (they weigh almost nothing — sell by the flat or by count); one plant produces hundreds of flowers over 6-8 weeks; leaves as cucumber-flavored salad addition. $2.49 packet → multiple plants → $15-40 in flower value if sold, significant culinary value if used.
+- Edible flower market math: 1 flat of borage flowers (restaurant portion) = ~0.25 oz; restaurants pay $8-15/flat. One vigorous borage plant can produce 15-20 flats across its season.
+- Companion planting mechanism: borage increases tomato resistance to tomato hornworm and improves flavor per folk tradition; the documented mechanism is that borage deters aphids and attracts predatory wasps via its open, accessible flower structure. UC Davis ANR notes borage as a beneficial insect habitat plant.
+- Self-seeding economics: borage drops seed prolifically; once established in a bed, you rarely need to replant. Year 2 cost = $0. Flag this as the key long-term value.
+- Growing requirements: direct sow only (taproot); germinates in 7-14 days at 60-70°F soil; full sun to partial shade; drought tolerant once established.
+- What goes wrong: powdery mildew in late season (cosmetic, doesn't affect flowers); aphid colonies on new growth (tolerate unless severe — borage is itself a trap crop).
+- Harvest: pick individual flowers when fully open; pinch stems just below flower; use same day for best presentation. Leaves edible young but get hairy/bristly with age.
+- Cite: UC Davis ANR for companion planting mechanism; USDA AMS for edible flower pricing.
+**Acceptance:**
+- 1,600+ words
+- Edible flower market math table or calculation present
+- Self-seeding economics noted explicitly
+- Companion mechanism explained with documented source
+- Zero em dashes
+- Build passes
+
+---
+
+### PE034 — Expand mustard-greens.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/mustard-greens.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Mustard greens is 829 words. Expand with Southern cooking context, seed-to-table ROI, succession math, and cover crop value.
+**Details:**
+- ROI: $1.99 packet; fast (30-45 days); yields 5 lb from 10 sq ft bed; $2.50/lb retail for bunched mustard greens. Full packet value: $12.50 gross. Specialty baby mustard greens: $5-8/lb at farmers markets.
+- Variety comparison table: Giant Red (large, burgundy, peppery, 45 days), Southern Giant Curled (classic, 40 days, mild heat), Tendergreen (fastest, mildest, 30 days), Osaka Purple (ornamental + edible, 40 days), Florida Broadleaf (large, heat-tolerant, good fall crop).
+- Succession: 3-4 sowings possible in spring (Zone 5-6: Mar 15 to Apr 30); single large fall planting (Aug 20 - Sep 5) outperforms all spring successions. Fall mustard greens get sweeter after light frost.
+- Cover crop dual-use: mustard species (Brassica juncea) suppress soil-borne pathogens via glucosinolate release as the plant decomposes — "biofumigation." Till in at flowering stage; the glucosinolates volatilize and suppress Verticillium, Rhizoctonia, and some nematodes. Oregon State Extension and UC Davis document this. Seed cost as biofumigant: $12-30/lb of seed for broadcast cover crop application vs. food value if harvested first.
+- Southern tradition: slow-braised with ham hocks or smoked turkey; the long braise wilts the pungency and concentrates flavor. This context positions mustard greens as a culturally significant crop worth growing.
+- What goes wrong: flea beetles and aphids (standard brassica pests); bolting in heat (harvest before stalk appears); white rust in wet conditions.
+- Cite: Oregon State Extension for biofumigation; USDA AMS for retail prices.
+**Acceptance:**
+- 1,600+ words
+- Variety comparison table present
+- Biofumigation section with mechanism and cited source
+- Succession table with Zone 5-6 dates
+- Zero em dashes
+- Build passes
+
+---
+
+### PE035 — Expand mache.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/mache.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Mâche (corn salad) is 830 words. Expand with winter hardiness ROI, premium pricing math, and European context.
+**Details:**
+- ROI: $2.99 packet; 2 lb yield from 10 sq ft; retail $8-12/lb for mâche rosettes at specialty grocers (Whole Foods typically $9-11/lb in 3 oz clamshells). Full season value: $16-24 from $2.99 seed. The real case: mâche grows when nothing else does.
+- Winter hardiness math: mâche tolerates -10°F when established and snow-covered; it overwinters in Zone 5 without row cover. In Zone 6-7 it's a genuine winter salad crop from November through March. Calculate grocery value of fresh salad greens over a 5-month winter window when retail prices peak ($10-14/lb in January-February per USDA AMS winter retail surveys).
+- Variety comparison: Vit (fastest, widely adapted), Jade (larger rosettes, best for harvest), Cavallo (very cold-hardy, small rosette), D'Etampes (French heirloom, excellent flavor).
+- Sowing protocol: direct sow in late August/early September for fall-winter harvest; mâche germinates poorly above 70°F soil. Fall sow only — spring crops bolt before establishing. Sow thickly (1 inch apart); no thinning needed; harvest whole rosettes at 2-3 inches across.
+- Culinary note: mild, nutty flavor; pairs with beets, walnuts, and a light vinaigrette; traditional French bistro salad. Doesn't hold once cut — use within 2 days. The delicate shelf life is why it commands $10+/lb retail.
+- What goes wrong: slugs in wet fall weather (only real pest); poor germination if soil stays above 68°F (sow later, not earlier); birds eat seedlings (row cover for first 2 weeks).
+- Cite: Cornell Cooperative Extension for cold tolerance; USDA AMS for winter retail pricing.
+**Acceptance:**
+- 1,600+ words
+- Winter hardiness math present (value over 5-month window)
+- Variety comparison table
+- Sowing protocol (fall-only) clearly explained with temperatures
+- Zero em dashes
+- Build passes
+
+---
+
+### PE036 — Expand rutabaga.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/rutabaga.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Rutabaga is 830 words. Expand with storage value math, comparison to turnip, and variety table.
+**Details:**
+- ROI: $1.99 packet; 4 lb yield from direct sow; retail $1.50-2.00/lb; gross value ~$6-8. Storage multiplier: rutabaga stored in root cellar through January-February when fresh root vegetables cost more and selection is thin. Calculate winter storage value at $2.00/lb for 3 months of stored harvest.
+- Rutabaga vs. turnip comparison table: flavor (rutabaga sweeter, turnip sharper), size (rutabaga 3-5 lbs, turnip 0.5-1.5 lbs), days to maturity (rutabaga 90-100 vs. turnip 35-60), storage life (rutabaga 4-6 months, turnip 3-4 months), best use (rutabaga: roasting/mashing, turnip: raw/quick-cooked).
+- Variety table: American Purple Top (standard, 90 days), Laurentian (classic Canadian, 100 days, excellent storage), Joan (faster, 85 days, milder flavor), Helenor (Swedish heirloom, excellent flavor).
+- Growing window: rutabaga needs cool temperatures to develop sweetness; plant 90-100 days before first fall frost. In Zone 5-6 that's late June to mid-July direct sow. Summer heat doesn't kill it but slows development; the plant is maturing as temps cool in September-October.
+- Storage: rutabaga stores 4-6 months in cool (32-40°F), high humidity (90-95%) conditions. Root cellar, unheated garage, or buried in damp sand. No curing needed unlike sweet potato. Wax coating (dip trimmed roots in paraffin) extends storage to 6+ months — standard commercial practice.
+- What goes wrong: club root (same as cabbage family; rotation essential), flea beetles on young seedlings, forked roots from rocky soil.
+- Cite: Penn State Extension for storage conditions; USDA ERS for retail pricing.
+**Acceptance:**
+- 1,600+ words
+- Rutabaga vs. turnip comparison table
+- Storage value math (months × lbs × price)
+- Variety table with days to maturity
+- Zero em dashes
+- Build passes
+
+---
+
+### PE037 — Expand endive.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/endive.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Endive is 847 words. Expand with Belgian endive forcing ROI, chicory family context, and variety table.
+**Details:**
+- ROI: $2.99 packet; 2 lb yield at standard harvest; retail $3.50-5.00/lb for curly endive/frisée; Belgian endive (forced chicons) $6-10/lb. The forcing technique transforms a $2.99 packet into a premium product.
+- Belgian endive forcing process: grow roots to full size in summer (80-90 days); dig roots in fall before hard freeze; store roots in cool dark place (35-40°F) for 4-6 weeks; then force chicons by planting roots upright in moist sand in a dark location at 50-65°F; harvest pale chicons in 3-4 weeks. Each root produces one chicon. University of Minnesota Extension documents the forcing process.
+- Forcing ROI table: roots from 10 sq ft planting → 20-25 roots → 20-25 chicons at 0.25 lb each → 5-6 lb forced endive at $8/lb = $40-48 from $2.99 seed. Compare to standard harvest value of $7-10 from same packet.
+- Variety table: Très Fine Maraîchère (fine-cut frisée, 85 days), Neos (broad-leaf batavian, 90 days, mild), Witloof Zoom (standard forcing variety for Belgian endive), Rhodos (curly, slow-bolt).
+- Chicory family context: endive, escarole, radicchio, and Belgian endive are all Cichorium; the bitterness comes from lactucopicrin and lactucin. Blanching (covering the center of the plant for 1-2 weeks before harvest) reduces bitterness by blocking chlorophyll production.
+- What goes wrong: tip burn in heat (cool-season only), slugs on outer leaves, bolting if planted too early in spring.
+- Cite: University of Minnesota Extension for forcing; USDA AMS for retail prices.
+**Acceptance:**
+- 1,600+ words
+- Belgian endive forcing process explained step-by-step
+- Forcing ROI table (roots → chicons → value)
+- Variety table
+- Zero em dashes
+- Build passes
+
+---
+
+### PE038 — Expand goji-berry.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/goji-berry.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Goji Berry is 848 words. Expand with multi-year yield ramp, fresh vs. dried pricing, and shrub establishment detail.
+**Details:**
+- ROI: $4.99 per plant; year 1 minimal yield (establishment); year 2: 1-2 lb; year 3+: 3-7 lb per plant. Fresh goji at farmers markets: $12-18/lb. Dried: $15-25/lb. Year 3+ gross value: $36-126/plant. Payback in year 2-3 depending on fresh vs. dried.
+- Multi-year yield table: Year / Growth stage / Yield per plant / Fresh value ($15/lb) / Dried value ($20/lb). Show 5-year cumulative return from $4.99 investment.
+- Fresh vs. dried comparison: fresh goji berries taste like a mild tomato-cranberry cross; quite different from the dried form most people know. Fresh berries don't travel well (3-5 day shelf life); dried are made by spreading berries on screens in shade for 1-2 weeks. Drying ratio approximately 4:1 (4 lb fresh = 1 lb dried). Dried store 1 year in airtight container.
+- Variety note: most US nursery stock is Lycium barbarum (Chinese wolfberry); 'Phoenix Tears' and 'Big Lifeberry' are named cultivars with larger berries and better yield than generic stock. Named varieties worth the premium.
+- Growing requirements: tolerates poor soil and drought once established (Zone 3-10); full sun; pH 6.0-8.0 (unusually wide range). Heavy pruning in spring keeps productive — gojis fruit on new wood. Without pruning they become sprawling and unproductive.
+- Birds: goji berries attract birds heavily. Bird netting is not optional if yield is the goal.
+- Propagation: softwood cuttings in June-July root readily; year 2 you can produce your own plants for expansion at zero cost.
+- Cite: Cornell Cooperative Extension for Lycium production; USDA AMS for dried berry prices.
+**Acceptance:**
+- 1,600+ words
+- Multi-year yield table (5 years, fresh and dried value)
+- Fresh vs. dried comparison with drying ratio
+- Named variety recommendations with rationale
+- Zero em dashes
+- Build passes
+
+
+## Plant Expansion Sprint 7 — Common Stubs (PE040-PE047)
+
+### PE040 — Expand watercress.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/watercress.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Watercress is 848 words. Expand with no-stream growing method, premium pricing math, and year-round harvest potential.
+**Details:**
+- ROI: $2.99 packet; 1.5 lb yield; retail $7-10/lb for bunched watercress; $2.99 investment → $10.50-15 gross value. Key advantage: watercress doesn't require running water — a container with water-retentive growing medium works.
+- No-stream method: grow in wide, shallow containers (12-16 inch diameter) filled with aquatic compost or heavy potting mix; keep soil saturated (sit container in tray kept filled with water); change water weekly to prevent stagnation. Yield comparable to stream-grown plants. Source: RHS Growing Watercress in Containers.
+- Year-round harvest in mild climates: watercress is perennial to Zone 6; in containers it can be kept productive indoors through winter. Month-by-month harvest calendar by zone.
+- Premium market math: watercress is consistently the most expensive fresh herb/green at retail. Calculate value of 12 monthly harvests at 0.12 lb each = 1.5 lb/yr at $8/lb = $12/yr from a $2.99 packet; second year seed cost is $0 (plant persists).
+- What goes wrong: bolting in heat (move container to shade in summer), aphids, and the main failure mode — letting the growing medium dry out even once. A single drying episode kills watercress faster than anything else.
+- Culinary context: watercress soup (French classic), stir-fried with garlic (Cantonese preparation), raw in sandwiches and salads. The peppery glucosinolate compounds are heat-sensitive — add to cooked dishes at the very end or raw.
+**Acceptance:** 1,600+ words; no-stream container method explained; ROI math present; zero em dashes; build passes.
+
+---
+
+### PE041 — Expand napa-cabbage.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/napa-cabbage.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Napa cabbage is 851 words. Expand with kimchi ROI section, variety table, and fall planting advantage.
+**Details:**
+- ROI: $2.49 packet; a single napa cabbage head weighs 3-6 lbs; retail $1.50-2.50/lb; packet plants 6-8 heads = 18-48 lbs gross value. Kimchi multiplier: 1 lb napa cabbage + other ingredients → 1 lb kimchi at $8-12/lb retail. Calculate kimchi ROI separately.
+- Kimchi ROI table: 20 lb napa cabbage + $5 in other ingredients (garlic, ginger, gochugaru, fish sauce/salt) → 20 lb kimchi → $160-240 retail value. Seed cost: $2.49. Net: $152-232.
+- Variety table: Blues (standard, 80 days, excellent storage), Minuet (small-head for small households, 60 days), Rubicon (bolt-resistant spring type), Wong Bok (heirloom, open-pollinated).
+- Fall timing: napa cabbage is almost always better as a fall crop. Spring plants bolt reliably in the long days of May-June. Fall crop (direct sow July-Aug in Zone 5-6, 70-80 days before first frost) matures into cool weather, produces sweeter heads, and stores longer. One large fall planting outperforms spring attempts.
+- Storage: whole heads 2-3 months refrigerated; fermented (kimchi) 6-12 months in fridge. The combination of fresh storage + fermentation makes napa one of the highest-utilization crops in a cold-climate garden.
+- Cite: Penn State Extension for fall timing; USDA AMS for retail prices; standard kimchi formulation for ingredient costs.
+**Acceptance:** 1,600+ words; kimchi ROI table; variety table; fall-only recommendation with evidence; zero em dashes; build passes.
+
+---
+
+### PE042 — Expand nasturtium.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/nasturtium.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Nasturtium is 854 words. Expand with edible flower economics, whole-plant use (leaves, buds, seeds), and companion planting mechanisms.
+**Details:**
+- ROI: $2.49 packet; produces hundreds of flowers over 3-4 months; edible flowers at $10-18/lb at specialty retailers; the plant also produces edible leaves (peppery, like arugula) and buds/seeds that can be pickled as capers. Full harvest value calculation across all three products.
+- Whole-plant value table: flowers (0.1-0.2 lb/week × 10 weeks × $12/lb = $12-24), leaves (0.5 lb × $5/lb = $2.50), pickled buds/seeds ($6-10/jar retail for nasturtium "capers"). Total: $20-36 from $2.49 investment.
+- Pickled nasturtium caper method: harvest green seed pods before they harden; brine in white wine vinegar with salt and sugar; 2 weeks. Flavor profile similar to actual capers (both contain glucosinolates); use in pasta, chicken piccata, potato salad.
+- Companion planting: nasturtiums are a proven aphid trap crop — aphids preferentially colonize them over vegetables. Colorado State Extension documents nasturtium as a sacrificial host plant. Also attract beneficial predatory wasps via nectar. The mechanism is dual: aphid preference for nasturtium + wasp recruitment via flowers.
+- Variety comparison: Whirlybird (compact bush, early flowering), Alaska (variegated leaves, edible and ornamental), Jewel Mix (standard climbing/mounding), Empress of India (dark foliage, deep red flowers, compact), Moonlight (pale yellow, trailing).
+- Growing requirements: direct sow after last frost; full sun to partial shade; poor soil produces more flowers (avoid nitrogen-rich beds — you'll get leaves, not flowers); drought-tolerant.
+**Acceptance:** 1,600+ words; whole-plant value table; pickled caper method; companion mechanism with cited source; variety table; zero em dashes; build passes.
+
+---
+
+### PE043 — Expand chamomile.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/chamomile.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Chamomile is 863 words. Expand with dried herb pricing math, German vs. Roman comparison, and self-seeding economics.
+**Details:**
+- ROI: $2.49 packet; 0.25 lb dried flowers per season per sq ft of planting; specialty dried chamomile $15-30/lb. From a 4 sq ft planting: 1 lb dried flowers = $15-30 value vs. $2.49 seed. Self-seeds freely; year 2 cost = $0.
+- German vs. Roman comparison table: German chamomile (Matricaria chamomilla) — annual, 18-24 inches, higher apigenin content (the active compound), most commercially grown; Roman chamomile (Chamaemelum nobile) — perennial, 6-9 inches, spreading ground cover, milder flavor, Zone 4+. For ROI: German produces more dried material per season; Roman requires no replanting.
+- Drying protocol: harvest flowers when fully open (disk center dome-shaped, not fully flat); dry in single layer at 95-100°F or air-dry in shade with good airflow; 1-2 weeks to fully dry. Store in glass jars away from light. 4-6 lb fresh flowers → 1 lb dried.
+- Self-seeding economics: German chamomile drops seed prolifically. A single 4 sq ft patch, if allowed to go to seed at the end of season, will reseed the entire bed and spread to adjacent areas. Mark the bed and don't disturb soil in early spring. Year 2-5 cost = $0; coverage typically doubles each year.
+- Apigenin content and tea quality: German chamomile contains 0.3-1.0% apigenin (the primary calming compound); Roman contains slightly less. Commercial chamomile tea uses German chamomile. 1 tsp dried flowers per 8 oz water is a standard infusion.
+- Companion planting: chamomile's volatile compounds (bisabolol, chamazulene) have documented mild anti-fungal properties in the immediate root zone. UC Davis notes chamomile as a beneficial habitat plant for predatory wasps and hoverflies.
+**Acceptance:** 1,600+ words; German vs. Roman comparison table; drying ROI math; self-seeding economics; zero em dashes; build passes.
+
+---
+
+### PE044 — Expand fenugreek.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/fenugreek.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Fenugreek is 865 words. Expand with dual-crop value (leaves + seeds), South Asian culinary context, and cover crop use.
+**Details:**
+- ROI: $1.99 packet; dual harvest — fresh leaves (methi) at 30-40 days, seeds at 90-120 days. Fresh methi greens: $4-8/lb at Indian grocery stores; seeds: $5-10/lb specialty. Calculate value of each harvest mode separately. A single packet used for greens = multiple successions; used for seed = one full crop.
+- Dual-crop value table: fresh leaf harvest (3 successions of 0.5 lb each from 4 sq ft = 1.5 lb at $6/lb = $9), seed harvest (1 crop from 4 sq ft = 0.5 lb at $8/lb = $4), cover crop (nitrogen fixation value: 50-100 lbs N/acre = $0.25-0.50 for a 4 sq ft planting in fertilizer-equivalent).
+- South Asian culinary context: methi (fresh fenugreek leaves) is used in dal, aloo methi (potato and fenugreek), and as a flatbread filling. The seeds are toasted and ground as a spice; key compound is sotolone (maple/curry aroma). Dried fenugreek leaves (kasuri methi) sell for $8-15/oz at Indian grocers.
+- Succession for continuous leaf harvest: fenugreek matures fast (30-40 days for greens); 3-4 spring successions in Zone 5-6 before heat. Each sowing covers 2 sq ft; costs $0.25 in seed.
+- Cover crop value: fenugreek fixes nitrogen as a legume; inoculant not required for moderate fixation. Till in at flowering for green manure. Best used as a late-summer cover to prep beds for spring.
+- What goes wrong: powdery mildew in humid conditions (worse if crowded), root rot in wet soil, aphids on new growth.
+**Acceptance:** 1,600+ words; dual-crop value table; culinary context for both leaf and seed; succession table; zero em dashes; build passes.
+
+---
+
+### PE045 — Expand stevia.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/stevia.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Stevia is 865 words. Expand with sweetener equivalent math, drying and processing, and zone limitations.
+**Details:**
+- ROI: $2.99 packet or $4-6 per transplant; dried stevia leaves: $20-40/lb specialty; one mature plant produces 0.25-0.5 lb dried leaves/season. Sweetener equivalent: 1 tsp dried stevia = approximately 1 cup sugar in sweetness. Calculate sugar replacement value.
+- Sugar replacement table: 1 lb dried stevia leaves yields approximately 30-40 tsp of leaf powder; at 1 cup sugar equivalent per tsp, that's 30-40 cups of sugar replacement value; organic cane sugar $1-2/lb = $1-2/cup; total replacement value $30-80/lb of dried stevia. That's the real ROI case.
+- Drying and processing: harvest stems when flowering begins (steviol glycoside concentration peaks at flowering); strip leaves and dry at 95°F or air-dry in shade; grind dried leaves to powder in spice grinder. Powder stores 1 year in airtight container.
+- Zone limitations: stevia is perennial in Zone 9+; annual everywhere else. In Zone 5-8, start indoors 8-10 weeks before last frost; transplant after frost danger. The plant needs 120+ frost-free days to reach full productivity. Short-season growers (Zone 4-5) may find yield disappointing.
+- Variety note: 'Candy' and 'Rebaudioside A' (Reb-A) selections have sweeter, less bitter profiles than standard species. The bitterness in standard stevia comes from stevioside vs. rebaudioside ratio — Reb-A dominant selections taste much better.
+**Acceptance:** 1,600+ words; sugar replacement value table; drying protocol; zone limitation clearly stated; Reb-A variety recommendation; zero em dashes; build passes.
+
+---
+
+### PE046 — Expand sunflower.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/sunflower.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Sunflower is 876 words. Expand with seed yield vs. cut flower market split, bird/squirrel management, and variety table.
+**Details:**
+- ROI split: sunflowers are two different crops — seed production ($3-6/lb hulled seeds at specialty retail) and cut flowers ($2-5/stem at farmers markets, $1-3 wholesale). Decide which you're growing; the plant care differs.
+- Cut flower ROI: 1 packet ($2.49, ~50 seeds) → 50 plants → 50 stems at $2.50 average = $125 gross value if sold. Even for home use, cut sunflowers last 7-12 days in a vase; buying equivalent at a florist costs $3-6/stem.
+- Seed production math: one large-headed sunflower (Giant Russian, Mammoth) yields 1,000-2,000 seeds per head; at 0.005 oz each that's 0.3-0.6 oz per head, roughly 0.02-0.04 lb per plant. 10 plants = 0.2-0.4 lb hulled seeds; at $5/lb specialty = $1-2. Modest ROI for seeds unless growing for bird feed ($1-2/lb bulk).
+- Variety table by use: Cut flower (Sunrich Orange, ProCut series, Italian White — branching, multiple stems); Seed harvest (Mammoth Russian, Giant Grey Stripe — large heads, high seed count); Dual-use (Heirloom Titan, Autumn Beauty — decent both).
+- Bird and squirrel management: paper bag over head as seeds ripen; cut head and hang to dry indoors when back of head turns yellow-green. Seeds mature 30-45 days after petal drop.
+- Succession for cut flowers: sunflowers bloom once and are done; succession sow every 2-3 weeks from last frost to 8 weeks before first frost for continuous cut flower production across summer.
+**Acceptance:** 1,600+ words; cut flower vs. seed ROI comparison; variety table by use; succession planting for cut flowers; zero em dashes; build passes.
+
+---
+
+### PE047 — Expand sorrel.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/sorrel.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Sorrel is 877 words. Expand with perennial value math, culinary applications, and variety comparison.
+**Details:**
+- ROI: $2.49 packet or $4-6 per plant; perennial to Zone 3; once established, produces for 10+ years; cut-and-come-again for the entire growing season. Year 1 yield modest; year 2+: 2-4 lb/season per established clump. Retail: $6-10/lb for specialty sorrel. 10-year cumulative value from one planting: 2 lb/yr × $8/lb × 8 productive years = $128 from $2.49. No replanting required.
+- Perennial value table: Year / Yield / Value / Cumulative value. Show years 1-10 with establishment ramp.
+- Variety comparison: Common Sorrel (Rumex acetosa) — tart, high oxalic acid, large leaves; French Sorrel (R. scutatus) — milder, lower oxalic acid, smaller shield-shaped leaves, better for raw use; Blood-Veined Sorrel (R. sanguineus) — ornamental, mild flavor, farmers market appeal; Silver Shield (selected R. scutatus) — most mild, best culinary.
+- Culinary applications: sorrel sauce (classic French accompaniment to salmon — the oxalic acid "cooks" the fish proteins on contact, similar to ceviche effect); sorrel soup (cream-based, Eastern European tradition); raw in salads (use French sorrel for lower oxalate); wilted as a condiment. Key note: sorrel turns an unappetizing khaki-green when cooked over high heat — use over low heat or add raw.
+- Oxalic acid note: sorrel contains oxalic acid (same as spinach and rhubarb); people with kidney stones or gout should eat in moderation. Normal culinary quantities are not a concern for healthy adults.
+- Management: divide clumps every 3-4 years to maintain vigor; remove flowering stalks to redirect energy to leaves; cut back to 2 inches in late summer for a flush of tender fall growth.
+**Acceptance:** 1,600+ words; 10-year perennial value table; variety comparison table; culinary applications with the cooking-color note; zero em dashes; build passes.
+
+
+## Plant Expansion Sprint 8 — Common Stubs (PE048-PE055)
+
+Sprint 8 covers: lemon-balm, celeriac, edamame, watermelon, parsnip, cantaloupe, leek, calendula.
+
+### PE048 — Expand lemon-balm.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/lemon-balm.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Lemon balm is 880 words. Expand with dried herb value, container containment strategy, and medicinal context.
+**Details:**
+- ROI: perennial; $2.49-3.99 for plants or packet; dried lemon balm $15-25/lb specialty; fresh bunches $4-8/lb. Once established spreads aggressively — one planting fills a bed in 2 seasons. Contains in containers. Annual dried yield from a 4 sq ft planting: 0.5-1 lb = $7.50-25 value.
+- Container vs. in-ground trade-off: lemon balm in ground spreads via rhizomes and will overtake a bed. Options: (1) grow in a buried container (cut-off 5-gallon pot sunk to rim); (2) grow in above-ground containers; (3) accept spread and mow edges seasonally. Be explicit about this — it's the most important management decision.
+- Rosmarinic acid content: lemon balm's primary active compound; mildly calming, antiviral properties documented in vitro. Harvest just before flowering when concentration peaks. Cite: American Botanical Council, HerbalGram for rosmarinic acid.
+- Culinary and beverage use: lemon balm tea (fresh or dried), compound butter, herb vinegar, lemon balm sorbet. Volatile lemon compounds (geraniol, citral, citronellal) dissipate quickly with heat — use fresh in cooked applications added last.
+- Propagation: divides readily every spring; once you have one plant, you can fill a garden and give divisions to neighbors. Year 2 propagation cost = $0.
+**Acceptance:** 1,600+ words; container vs. in-ground decision explained; dried herb value math; rosmarinic acid cited; zero em dashes; build passes.
+
+---
+
+### PE049 — Expand celeriac.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/celeriac.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Celeriac is 881 words. Expand with long-season management, celery comparison ROI, and storage value.
+**Details:**
+- ROI: $2.49 packet; long season (110-120 days); 1 root = 1-1.5 lb; retail $2-4/lb; packet plants 6-8 roots = 6-12 lb gross. Key value proposition: celeriac stores 3-6 months and tastes like celery without the watering demands of celery.
+- Celery vs. celeriac comparison: celery needs consistent heavy watering (1.5-2 inches/week), fails in heat, requires blanching for mild flavor, limited storage (2-3 weeks). Celeriac is more drought-tolerant once established, no blanching needed, stores 6 months. For most home gardeners, celeriac is a better investment of space and effort than celery.
+- Indoor start essential: celeriac needs 10-12 weeks indoors before transplant (Zone 5-6: start February, transplant April). Germination is slow and erratic at 65-70°F; surface sow, keep moist, expect 2-3 weeks.
+- Earthing up technique: as roots develop, remove side shoots and the outer 2-3 leaf stalks to expose the upper root to air. This promotes round, clean root development. Roots left with side shoots produce knobby, hard-to-peel results.
+- Storage: store roots with tops removed in cold (33-36°F), high humidity. Root cellar or refrigerator in a plastic bag with some moisture. 3-6 months without quality loss.
+- Culinary note: celeriac remoulade (French classic — raw julienned with mustard mayo); roasted whole at 400°F (sweet and nutty); puréed with potato.
+**Acceptance:** 1,600+ words; celery vs. celeriac comparison table; earthing up technique explained; storage conditions stated; zero em dashes; build passes.
+
+---
+
+### PE050 — Expand edamame.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/edamame.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Edamame is 884 words. Expand with grocery store price comparison, variety table, and succession for extended harvest.
+**Details:**
+- ROI: $2.99 packet; 1.5-2 lb shelled edamame per 10-foot row; retail $4-6/lb for fresh/frozen shelled edamame. Frozen edamame is the comparison — it's always available at $3-5/lb. Fresh home-grown edamame eaten within hours of harvest has genuinely different flavor (no shipping, no blanch-freeze cycle). Calculate: 1 row × 2 lb × $5/lb = $10 gross vs. $2.99 seed.
+- Grocery comparison: frozen Costco edamame ~$3.50/lb; fresh farmers market edamame $5-7/lb; home-grown within hours of harvest: incomparable. The freshness argument is the ROI case.
+- Variety table: Envy (standard, 75 days, widely adapted), Midori Giant (large pods, 75 days), Chiba Green (fast, 68 days, good for short seasons), Besweet 292 (sweet, 78 days), Sayamusume (Japanese heirloom, excellent flavor, 75 days).
+- Succession for extended harvest: each variety has a 5-7 day harvest window at peak maturity (M+R stage — pods full, beans touching). Succession sow every 10-14 days from last frost to 75 days before first frost. 4 successions = 4 harvest windows spread across summer.
+- Harvesting at M+R stage: pods should be plump but beans still green and sweet. Once yellow, starchy and less palatable. Harvest entire plant at once by pulling from ground; strip pods at table.
+- Inoculant: edamame is a soybean; inoculate with Bradyrhizobium japonicum for nitrogen fixation. First-time soybean growers need to add inoculant — native soil populations may be too low.
+**Acceptance:** 1,600+ words; grocery price comparison; variety table; succession sowing calendar; inoculant requirement stated; zero em dashes; build passes.
+
+---
+
+### PE051 — Expand watermelon.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/watermelon.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Watermelon is 888 words. Expand with small-space variety focus, ripeness testing methods, and honest ROI reality check.
+**Details:**
+- ROI honest assessment: full-size watermelons at retail: $0.25-0.50/lb. A 15-20 lb melon costs $4-10 at the store. Growing your own is borderline on pure ROI unless you're growing specialty varieties. The real case is flavor (vine-ripened sugar content far exceeds shipped melons) and specialty types unavailable at most stores.
+- Specialty variety premium: heirloom watermelons at farmers markets: $1-2/lb ($15-30/melon); Moon and Stars, Charleston Grey, Sugar Baby, Orangeglo. Home gardeners can access these; grocery stores cannot.
+- Small-space varieties table: Bush Sugar Baby (6-8 lb, compact vine, 75 days), Golden Midget (3-5 lb, turns yellow at ripeness, 70 days), Minilee (8-10 lb, bush habit, 70 days), Bush Jubilee (10-15 lb, semi-compact, 80 days). Full-size vines need 20-30 sq ft; bush types need 6-10 sq ft.
+- Ripeness testing (the most common home-grower failure): tendril nearest fruit dries and turns brown (not the long tendrils); ground spot turns from white to creamy yellow; hollow thump sound; skin surface loses glossy sheen. All four indicators together = ripe.
+- Trellising technique for small gardens: vertical trellis with melon hammock (pantyhose or mesh produce bag) supports individual fruits. Keeps fruit off ground, saves space, good airflow.
+- Pollination: watermelon requires bee pollination. If bees are absent, hand-pollinate with small brush. First flowers are male (no tiny melon behind the flower); female flowers appear 1-2 weeks later. Know the difference.
+**Acceptance:** 1,600+ words; honest ROI reality check with specialty variety premium; small-space variety table; 4-indicator ripeness method; zero em dashes; build passes.
+
+---
+
+### PE052 — Expand parsnip.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/parsnip.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Parsnip is 890 words. Expand with frost sweetening mechanism, fresh seed requirement, and storage ROI.
+**Details:**
+- ROI: $2.49 packet; 4 lb yield; retail $2-3/lb; gross value $8-12. Storage value: parsnips in ground overwinter and improve with frost. Calculate value of a January harvest when fresh root vegetables are expensive and scarce.
+- Frost sweetening: parsnips convert starch to sugar in cold — the same mechanism as salsify and carrot. A root harvested in November after multiple frosts is measurably sweeter than one harvested in September. Leave roots in ground until needed; they store in-situ for months. Dig as needed from November through February in Zone 5-6. This is the primary grow-your-own advantage.
+- Fresh seed is essential: parsnip seed loses viability faster than almost any other vegetable — buy fresh seed each year. Germination from 2-year-old seed drops from 80%+ to under 30%. Stated as a non-negotiable.
+- Slow germination management: parsnips take 2-3 weeks to germinate even under ideal conditions (soil 50-60°F). Mark rows clearly. Some gardeners sow radish in the same row as a row marker — radishes germinate in 5 days and mark where the parsnip row is before parsnip emerges.
+- Variety table: Hollow Crown (classic heirloom, 95 days), Javelin (smooth, canker-resistant, 100 days), Harris Model (sweet, fine-grained, 120 days), Gladiator (fast, 95 days, canker-resistant).
+- Canker (Itersonilia perplexans): the most common parsnip disease; brown-orange rot at shoulder. Canker-resistant varieties (Javelin, Gladiator) are the practical solution. Rotation helps.
+**Acceptance:** 1,600+ words; frost sweetening explanation; fresh seed requirement prominent; variety table with canker resistance; winter harvest value calculation; zero em dashes; build passes.
+
+---
+
+### PE053 — Expand cantaloupe.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/cantaloupe.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Cantaloupe is 903 words. Expand with Brix measurement, variety table, and honest space-requirement math.
+**Details:**
+- ROI: $2.49 packet; retail cantaloupe $0.50-1.00/lb ($2-4/melon); home-grown specialty types $2-4/lb at farmers markets. Similar to watermelon, the case is vine-ripened Brix (sweetness) and specialty varieties.
+- Brix and sugar content: standard grocery store cantaloupe averages 11-13 Brix. Home-grown from high-Brix varieties (Hale's Best Jumbo, Sugar Cube) can reach 16-18 Brix when vine-ripened. Brix measurements can be taken with a cheap ($15) refractometer. Higher Brix = meaningfully sweeter flavor, not just a marketing claim.
+- Variety table: Hale's Best Jumbo (classic, 86 days, 14-16 Brix, excellent flavor), Athena (commercial standard, 75 days, disease-resistant), Sugar Cube (small 4-5 lb, 16-18 Brix, personal-size), Collective Farm Woman (Ukrainian heirloom, 70 days, cream-colored flesh), Collective Farm Woman needs 80°F+ consistently.
+- Space math: standard cantaloupe vines spread 4-6 feet; each plant needs 10-15 sq ft. A 4×8 raised bed fits 2 plants maximum. Be honest: cantaloupes are a space investment. In-ground or large garden only.
+- Harvest indicator: "full slip" — the stem separates from the fruit with gentle pressure when ripe. Don't wait for softening or color change alone. Netting surface texture changes from green to tan.
+- Powdery mildew is the primary disease; affects all cucurbits. Resistant varieties (Athena, Aphrodite) maintain productivity better in humid climates.
+**Acceptance:** 1,600+ words; Brix explanation; variety table with Brix ratings; space math with honest assessment; full-slip harvest indicator; zero em dashes; build passes.
+
+---
+
+### PE054 — Expand leek.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/leek.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Leek is 909 words. Expand with earthing-up technique, season extension value, and premium variety ROI.
+**Details:**
+- ROI: $2.99 packet; 5 lb yield; retail $3-5/lb; gross value $15-25. Fall leeks at farmers markets often command premium prices ($4-6/bunch); grocery stores often have leeks in fall/winter at $2-3 each ($3-5/lb).
+- Earthing up is the whole technique: leeks develop their mild, white shank by being hilled with soil as they grow — blocking light from the shank blanches it. Without earthing up, you get a short white section and long green (edible but tougher). Standard practice: hill 2-3 inches of soil against shanks every 2-3 weeks as they grow. Alternative: plant in a 6-inch deep trench and gradually fill as plants grow.
+- Overwintering value: some leek varieties (Bandit, Tadorna, King Richard) are cold-hardy to 0°F when established. Leave in ground through winter; harvest as needed from October through March in Zone 5-6 when other fresh alliums aren't available. Winter leek = premium value.
+- Variety table with season: early (King Richard, 75 days, tender but not hardy), mid (Lincoln, 90 days, good all-around), late/winter (Tadorna, 120 days, very hardy, blue-green flag leaves), overwintering (Bandit, 130 days, survives to -10°F).
+- Transplant vs. direct sow: leeks are almost always started indoors (10-12 weeks) or in an outdoor seedbed. Direct sow is possible but slow; transplants establish faster and allow earthing-up from the start.
+- Allium leaf miner warning: the same pest that damages garlic. Row cover early in the season is effective prevention in affected regions (Northeast US primarily as of 2024).
+**Acceptance:** 1,600+ words; earthing up technique with specifics; overwintering variety table; winter harvest value calculation; zero em dashes; build passes.
+
+---
+
+### PE055 — Expand calendula.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/calendula.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Calendula is 914 words. Expand with skincare market value, dried petal pricing, and cut flower economics.
+**Details:**
+- ROI: $2.49 packet; three product streams: dried petals for skincare/tea ($20-40/lb), cut flowers ($1-3/stem at markets), companion planting value. One plant produces 40-60 flowers over its season.
+- Dried petal value calculation: 1 lb dried petals requires 5-8 lb fresh flowers; one vigorous plant produces 0.5-1 lb fresh flowers over a season. 10-plant row = 5-10 lb fresh = 0.6-2 lb dried. Dried calendula petals at $30/lb = $18-60 from $2.49 seed.
+- Skincare market context: calendula infused oil (petals in carrier oil for 4-6 weeks) is the base for calendula salve, a $15-30 retail product with documented anti-inflammatory properties. The active compounds (flavonoids, triterpenoids) are fat-soluble, hence oil infusion. Annmarie Gianni, Weleda, and other natural skincare brands use calendula as a primary ingredient.
+- Continuous blooming management: calendula blooms continuously if deadheaded. Deadhead every 3-5 days. Stop deadheading at end of season to collect seed. Self-seeds readily; year 2 is often free.
+- Variety table by use: Pacific Beauty Mix (cut flower, large blooms), Resina (highest resin/active compound content, best for herbal use), Neon (bright orange for market appeal), Touch of Red (bicolor, distinctive market flower).
+- Cool-season timing: calendula prefers cool weather; spring and fall are peak production. In Zone 6+, fall planting (September) produces lush plants that may overwinter and bloom early spring. Summer heat reduces flowering.
+**Acceptance:** 1,600+ words; dried petal value calculation; skincare market context with active compounds cited; variety table by use; continuous bloom management; zero em dashes; build passes.
+
+
+## Plant Expansion Sprint 9 — Common Stubs (PE056-PE063)
+
+Sprint 9 covers: snap-pea, turnip, collard-greens, amaranth, elderberry, lima-bean, lavender, currant.
+
+### PE056 — Expand snap-pea.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/snap-pea.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Snap pea is 916 words. Expand with succession table, trellis ROI, and fresh vs. frozen price comparison.
+**Details:**
+- ROI: $2.99 packet; 3-5 lb per 10-foot row; retail $3-6/lb fresh snap peas ($4.99/lb at typical grocery). Frozen snap peas: $2.50-3.50/lb. Fresh, vine-ripened snap peas eaten within hours have sugar content noticeably higher than store-bought (sugars convert to starch within 24 hours of harvest — same mechanism as sweet corn). Calculate value: 4 lb × $4.50/lb = $18 gross vs. $2.99 seed.
+- Succession table: spring window Zone 5-6 (Mar 20 – May 10); 3 sowings 2 weeks apart; each sowing lasts 2-3 weeks before heat. Fall window (Aug 15 – Sep 10); 2 sowings. Total successions: 5 per season. Table: sow date, harvest window, expected yield per 10-ft row.
+- Trellis requirement: bush types (Sugar Ann, 18 inches) need no support; climbing types (Sugar Snap, 6 feet) need trellis. Trellis cost: $5-15 one-time for cattle panel or bamboo/twine. Climbing types produce 30-40% more per linear foot than bush types because vertical growth captures light from both sides.
+- Variety comparison: Sugar Ann (bush, 52 days), Sugar Snap (climbing, 70 days, original OP variety), Super Sugar Snap (climbing, 64 days, disease-resistant), Cascadia (climbing, 60 days, powdery mildew resistant), Avalanche (white flower, 60 days, good flavor).
+- Sugar conversion science: once harvested, snap pea sugars (sucrose, glucose) begin converting to starch. At 70°F, 50% of sugars convert in 6 hours. Refrigerate immediately and eat within 24 hours for best flavor. This is the fundamental reason home-grown beats store-bought.
+**Acceptance:** 1,600+ words; succession table; trellis yield comparison; sugar conversion science; variety comparison table; zero em dashes; build passes.
+
+---
+
+### PE057 — Expand turnip.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/turnip.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Turnip is 922 words. Expand with turnip greens dual-crop value, fall timing advantage, and variety table.
+**Details:**
+- ROI: $1.99 packet; 4 lb root yield; retail $1.75-2.50/lb roots; $7-10 gross value. But turnip is a two-crop plant: roots + greens. Fresh turnip greens at farmers markets: $2-4/lb. Calculate dual-crop value: roots (4 lb × $2/lb = $8) + greens (2 lb × $3/lb = $6) = $14 total from $1.99 packet.
+- Dual-crop management: harvest outer leaves beginning at 30 days while letting roots develop to 45-60 days. Don't strip all leaves (plant needs some for root development). Target: 3-4 outer leaves per harvest.
+- Fall flavor advantage: turnips sown 45-60 days before first frost (Zone 5-6: late July to early August) mature into cooling weather. Cold converts starch to sugar; fall turnips are mild and sweet. Spring-planted turnips that mature in heat can be sharp and pithy.
+- Variety table: Purple Top White Globe (standard, 55 days, roots + greens), Hakurei (Japanese salad turnip, 38 days, mild enough to eat raw, smaller root), Seven Top (greens-only type, very productive top, modest root), Scarlet Queen (red-skinned, 45 days, visual appeal), Golden Ball (yellow flesh, sweet, 60 days).
+- Cooking context: French navarin (braised turnip and lamb stew); glazed turnips (butter, honey, thyme — transforms sharp flavor); raw Hakurei in salads. Hakurei types changed the American perception of turnips at farmers markets starting in the 2000s.
+**Acceptance:** 1,600+ words; dual-crop value calculation; variety table with days and use; fall timing recommendation; zero em dashes; build passes.
+
+---
+
+### PE058 — Expand collard-greens.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/collard-greens.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Collard greens is 924 words. Expand with long harvest window math, Southern cooking context, and winter hardiness.
+**Details:**
+- ROI: $2.49 packet; 5 lb yield over season; retail $2.50/lb; gross $12.50. But collards are a cut-and-come-again crop — a single plant can produce for 6-8 months in mild climates. Calculate extended harvest value.
+- Extended harvest math: in Zone 6-7, collards planted in April produce from June through February — 8-9 months. At 0.5 lb/week harvested from 3 plants: 0.5 lb × 35 weeks = 17.5 lb total × $2.50/lb = $43.75 from $2.49 seed. No other green produces this value from one planting.
+- Winter hardiness: collards are the most cold-hardy brassica; established plants handle -10°F with light protection. Flavor improves significantly after frost (starch-to-sugar conversion). "Collards need kissing by frost" — December/January collards are the best of the year.
+- Long-season management: remove lower leaves as they yellow; keep top 6-8 leaves; plant can reach 3-4 feet tall over a season. Side-dress with nitrogen every 6 weeks (collards are heavy feeders).
+- Variety table: Georgia (heirloom standard, heat and cold-tolerant), Flash (semi-savoyed, upright, 60 days), Champion (compact, 60 days, good for containers), Top Bunch (bolt-resistant, good spring type), Blue Max (blue-green, very cold-hardy, good for overwintering).
+- Southern tradition: slow-braised for 1-2 hours with smoked meat; the long braise is traditional and intentional — it converts the sulfur compounds to sweeter flavors and softens oxalic acid. Pot liquor (the braising liquid) is nutritionally dense and drunk separately.
+**Acceptance:** 1,600+ words; 8-month harvest value calculation; variety table; winter hardiness data; Southern cooking context; zero em dashes; build passes.
+
+---
+
+### PE059 — Expand amaranth.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/amaranth.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Amaranth is 926 words. Expand with grain vs. leaf dual-crop value, seed yield math, and heat tolerance advantage.
+**Details:**
+- ROI dual-crop: $2.99 packet; leaf amaranth (harvest young leaves like spinach, $4-8/lb); grain amaranth (let go to seed — 1 plant produces 40,000-60,000 seeds, roughly 0.25-0.5 oz/plant; specialty amaranth grain $5-8/lb). Calculate: leaf harvest (1 lb × $6 = $6) + grain (from 6 plants: 0.1 lb × $6/lb = $0.60). Leaf harvest is the primary ROI; grain is a bonus.
+- Grain yield math: a 10-plant stand at full maturity produces roughly 0.5-0.75 lb of cleaned grain. At $6/lb: $3-4.50. Modest but the plant is drought-tolerant and grows where nothing else thrives in summer heat.
+- Heat tolerance: amaranth is one of very few greens that improves in summer heat rather than bolting. While spinach and lettuce fail above 80°F, amaranth thrives at 90-100°F. This fills the summer greens gap that most cool-season crops can't cover.
+- Variety distinction: leaf types (Red Garnet, Green Tails — harvest young at 18-24 inches) vs. grain types (Golden Giant, Hopi Red Dye, Plainsman — let mature to 5-6 feet); ornamental types (Love Lies Bleeding) yield both but less efficiently. Don't confuse them.
+- Nutritional context: amaranth grain is a complete protein (contains lysine, which most grains lack). Quinoa comparison: amaranth grain has similar protein profile to quinoa at lower retail price. Home-grown = significant savings vs. $5-8/lb store.
+- What goes wrong: aphid infestations on new growth (tolerate unless severe), seedheads stripped by birds before harvest (row cover or harvest at first seed maturity).
+**Acceptance:** 1,600+ words; dual-crop value (leaf + grain) explicitly calculated; heat tolerance gap-filler section; variety distinction; zero em dashes; build passes.
+
+---
+
+### PE060 — Expand elderberry.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/elderberry.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Elderberry is 932 words. Expand with syrup market value, multi-year yield ramp, and food safety (raw berry toxicity).
+**Details:**
+- ROI: $19.99 per plant (bare-root shrub); established plant (year 3+): 10-15 lb berries/season; retail fresh elderberries $8-15/lb; elderberry syrup (8 oz bottle) $12-20 retail. Multi-year payback calculation.
+- Food safety first: raw elderberries contain sambunigrin, a cyanogenic glycoside, which causes nausea and vomiting. Must be cooked before consuming. This is not optional information — it must be stated clearly. Flowers are safe raw. Ripe cooked berries are safe. Cite: Cornell Cooperative Extension.
+- Syrup value calculation: 1 lb berries + 1 cup honey + spices → 16 oz elderberry syrup (2 cups) with retail value $15-20. From 10 lb harvest: 10 bottles × $17 = $170 in syrup value from a $19.99 plant that costs nothing ongoing.
+- Multi-year table: Year 1 (establishment, minimal berry); Year 2 (3-5 lb); Year 3 (8-12 lb); Year 4+ (12-20 lb). Cumulative 5-year value at $10/lb: $330-480 from one plant.
+- Pollinators: elderberry is partially self-fertile but yields are significantly higher with 2 different cultivars. Plant in pairs.
+- Variety table: Bob Gordon (highest yield, ~15 lb/plant, developed by University of Missouri), Adams (reliable heirloom, 10-12 lb), Nova (Canadian, cold-hardy, good flavor), Ranch (western adaptation, drought-tolerant).
+**Acceptance:** 1,600+ words; food safety warning prominent and cited; syrup value math; multi-year yield table; variety table with yield data; zero em dashes; build passes.
+
+---
+
+### PE061 — Expand lima-bean.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/lima-bean.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Lima bean is 933 words. Expand with fresh vs. dried pricing split, heat requirement, and variety table.
+**Details:**
+- ROI: $2.99 packet; 3 lb shelled fresh or 1.5 lb dried; fresh baby limas $3-5/lb; dried $2-4/lb. Fordhook types (large-seeded) at farmers markets can reach $5-8/lb fresh. Calculate both paths.
+- Fresh vs. dried comparison table: fresh lima beans (harvest green at 75-80 days, shell, eat immediately or freeze); dried (let pods brown and dry on vine, 85-95 days, shell, store 1 year). Fresh value higher per pound; dried stores indefinitely without freezer.
+- Heat requirement: lima beans need consistent warmth — soil temp 65°F+, no transplanting (direct sow only). In Zone 5, this means no-earlier-than late May. Lima beans planted in cold soil rot. They thrive in the summer heat that defeats other beans.
+- Pole vs. bush comparison: pole limas (King of the Garden, Christmas Lima) produce over a longer window but need 6-foot trellis; bush limas (Henderson, Fordhook 242) mature faster and need no support. Pole types produce more total yield per plant; bush types are easier to manage.
+- Variety table: Fordhook 242 (bush, large seeded, 75 days, meaty flavor), Henderson (bush, small butter bean, 65 days), King of the Garden (pole, heirloom, 85 days, excellent flavor), Christmas/Speckled (pole, large seeds, striking appearance, 90 days).
+- What goes wrong: bean beetles (same as green beans); incomplete pod fill in cool summers (need 85°F+ days during pod set); anthracnose in wet years.
+**Acceptance:** 1,600+ words; fresh vs. dried value comparison; pole vs. bush table; heat requirement stated clearly; variety table; zero em dashes; build passes.
+
+---
+
+### PE062 — Expand lavender.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/lavender.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Lavender is 936 words. Expand with dried flower and essential oil market, variety-by-climate table, and multi-year establishment.
+**Details:**
+- ROI: $3.99-5.99 per plant; dried lavender bunches: $5-15/bunch retail; dried loose: $15-30/lb; lavender essential oil: $30-80/oz. Established plant (year 2+): 0.5-1 lb dried stems per season. Value: $7.50-30/plant/year once established.
+- Lavender essential oil reality check: commercial lavender essential oil requires steam distillation equipment ($500-2,000+). Not practical for home scale. The realistic ROI is dried bundles, culinary lavender (food-grade), and sachets — not oil.
+- Variety-by-climate table: this is the most important information for lavender growers. English lavender (Lavandula angustifolia) — cold-hardy to Zone 4, best for cold climates, best culinary flavor; French lavender (L. stoechas) — Zone 7+, showier flower, not cold-hardy; Spanish lavender (L. dentata) — Zone 8+; Lavandin (L. × intermedia, e.g., Grosso, Provence) — most productive for dried bundles, Zone 5-6, higher camphor content, less culinary.
+- Multi-year establishment: lavender from seed is possible but slow and variable (2 years to first meaningful harvest). Plants from cuttings or nursery transplants establish in year 1, bloom lightly year 2, full production year 3+. A 5-year established lavender hedge is essentially free production.
+- Drainage is non-negotiable: lavender dies in wet, poorly-drained soil. Root rot from overwet conditions is the primary cause of failure. Raised beds, gravel mulch, and lean soil (not amended with compost) produce the best plants. Mediterranean native — it wants dry, alkaline, lean conditions.
+**Acceptance:** 1,600+ words; variety-by-climate table; dried bundle value calculation; essential oil reality check; drainage requirement stated as non-negotiable; zero em dashes; build passes.
+
+---
+
+### PE063 — Expand currant.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/currant.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Currant is 937 words. Expand with black vs. red vs. white comparison, jam value math, and cold-climate advantage.
+**Details:**
+- ROI: $12-18/plant (bare-root); established plant (year 2+): 5-10 lb berries; retail fresh currants $8-15/lb (rare in US grocery stores); currant jam: $8-14/jar retail. Multi-year payback.
+- US market gap: fresh currants are almost unavailable in American grocery stores (historical federal regulation banned black currants as alternate host for white pine blister rust; regulation lifted federally 1966 but some states maintained bans until 2000s). This market gap means home-grown is often the only way to get fresh currants. This is the primary ROI argument.
+- Black vs. red vs. white comparison table: black currant (Ribes nigrum — highest flavor intensity, highest vitamin C, tart, best for jam/cordial, some cold-hardiness to Zone 3); red currant (R. rubrum — milder, beautiful fresh, excellent jelly, productive); white currant (albino red currant mutation — mildest, sweet, attractive at markets, same growing conditions as red).
+- Jam value: 5 lb currants + 4 lb sugar → 8-10 half-pint jars at $10/jar = $80-100 jam value. Seed cost $14.99 (one-time). Year 3+ annual jam value exceeds initial plant cost every season.
+- Cold hardiness advantage: black and red currants are among the most cold-hardy fruits — Zone 3-4. They bloom late enough to miss most late frosts. Reliable fruit production where peaches, plums, and apples fail.
+- What goes wrong: powdery mildew (use resistant varieties: Titania, Ben Connan, Rovada), currant fruit fly, gooseberry sawfly (strip leaves overnight — pick larvae off by hand; use Bt if severe).
+**Acceptance:** 1,600+ words; black/red/white comparison table; jam value math; US market gap context; cold-hardiness advantage; zero em dashes; build passes.
+
+
+## Plant Expansion Sprint 10 — Common Stubs (PE064-PE071)
+
+Sprint 10 covers: okra, arugula, peppermint, bok-choy, green-bean, fig, jerusalem-artichoke, celery.
+
+### PE064 — Expand okra.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/okra.md`
+**Details:** Heat requirement and harvest window discipline; variety table; Southern vs. Indian culinary context; slime management (dry cooking methods). ROI: $1.99 packet; 5-8 lb/season; retail $2-4/lb. Key point: pick pods at 2-3 inches daily — pods go from perfect to woody in 24 hours.
+
+---
+
+### PE065 — Expand arugula.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/arugula.md`
+**Details:** Arugula is 957 words. Succession table (10-12 sowings possible); wild vs. cultivated variety comparison (Roquette vs. Astro — heat tolerance differs significantly); spring vs. fall flavor (fall arugula is milder, sweeter); cut-and-come-again technique; grocery price comparison ($6-10/lb baby arugula).
+
+---
+
+### PE066 — Expand mint.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/mint.md`
+**Details:** Peppermint is 958 words. Container containment (mint spreads via runners — most critical management info); dried herb value ($15-25/lb); tea value calculation; variety comparison (peppermint vs. spearmint vs. chocolate mint vs. apple mint); menthol content peaks just before flowering.
+
+---
+
+### PE067 — Expand bok-choy.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/bok-choy.md`
+**Details:** Bok choy is 960 words. Baby vs. full-size comparison (baby harvested at 30 days, full-size 45-60 days; baby commands premium $4-7/lb vs. full-size $1.50-3/lb); variety table; stir-fry timing (bok choy goes from raw to perfectly wilted in 90 seconds over high heat — overcooking is the failure); flea beetle management.
+
+---
+
+### PE068 — Expand green-bean.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/green-bean.md`
+**Details:** Green bean is 984 words. Bush vs. pole comparison table (pole beans produce 2-3x more per plant but need trellis; bush beans faster for canning window); succession planting for canning-quantity harvest; blanching and freezing technique; fresh vs. frozen ROI; variety table including specialty (Dragon Tongue, Rattlesnake, Blue Lake).
+
+---
+
+### PE069 — Expand fig.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/fig.md`
+**Details:** Fig is 986 words. Container culture for cold-climate overwintering (Zone 5-6); Brown Turkey vs. Chicago Hardy vs. Celeste comparison; breba (first crop) vs. main crop distinction; drying figs ($8-15/lb dried vs. $3-5/lb fresh); overwintering technique for zone-pushers.
+
+---
+
+### PE070 — Expand jerusalem-artichoke.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/jerusalem-artichoke.md`
+**Details:** Jerusalem artichoke is 988 words. Containment strategy (spreads aggressively — buried container same as mint); inulin content and digestive effects (honest warning); flavor improvement after frost; variety comparison (Stampede for short seasons, Fuseau for smooth tubers); tuber storage (leave in ground until needed, or dig and store in cool/humid conditions).
+
+---
+
+### PE071 — Expand celery.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/celery.md`
+**Details:** Celery is 1,005 words. Consistent heavy watering requirement (the primary failure mode); trench-growing for blanching; leaf celery (cutting celery) vs. stalk celery as easier alternative; $3-5/lb retail comparison; flavor difference between home-grown (more intense) and store-bought (mostly water).
+
+---
+
+## Plant Expansion Sprint 11 — Common Stubs (PE072-PE079)
+
+Sprint 11 covers: artichoke, grape, cherry-tomato, pumpkin, chickpea, kale, acorn-squash, fava-bean.
+
+### PE072 — Expand artichoke.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/artichoke.md`
+**Details:** Artichoke is 1,011 words. Perennial in Zone 7+, annual in Zone 5-6; vernalization trick for annual culture (brief cold period to trigger flowering); variety comparison (Green Globe vs. Violetto vs. Imperial Star); secondary and tertiary buds after main harvest; specialty market value ($3-5/each retail vs. $1-2 for commercial).
+
+---
+
+### PE073 — Expand grape.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/grape.md`
+**Details:** Grape is 1,032 words. American vs. European vs. hybrid variety climate requirements; annual pruning as the central skill (70% of old wood removed every year — skip this and yield collapses); table grape vs. wine grape vs. juice grape ROI comparison; 3-year establishment before meaningful yield; black rot and downy mildew management.
+
+---
+
+### PE074 — Expand cherry-tomato.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/cherry-tomato.md`
+**Details:** Cherry tomato is 1,051 words. Indeterminate vs. determinate distinction (indeterminate produces all season; determinate all at once); $4-8/pint at farmers markets vs. $3-5 grocery; skin-splitting prevention (consistent watering); variety table (Sun Gold, Sweet Million, Black Cherry, Yellow Pear, Juliet); container culture feasibility.
+
+---
+
+### PE075 — Expand pumpkin.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/pumpkin.md`
+**Details:** Pumpkin is 1,074 words. Carving vs. pie vs. giant-growing split; seed production value ($5-10/lb specialty seeds); fall retail premium ($3-8/pumpkin at farm stands vs. $1-2 wholesale); space math (full-size vines 15-20 sq ft each); mini pumpkins for high-value market; hand pollination for giant types.
+
+---
+
+### PE076 — Expand chickpea.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/chickpea.md`
+**Details:** Chickpea is 1,087 words. Dry vs. fresh (green chickpeas "ceci") use; long-season management (100-110 days; needs hot dry finish); Desi vs. Kabuli type comparison; nitrogen fixation as cover crop; hummus value calculation (1 lb dried chickpeas → 3 lb hummus at $4-6/lb retail = $12-18 value vs. $0.90 seed cost).
+
+---
+
+### PE077 — Expand kale.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/kale.md`
+**Details:** Kale is 1,094 words. Curly vs. lacinato vs. red Russian vs. Siberian comparison table; cut-and-come-again management for 8-month production; baby kale premium ($6-10/lb vs. $2.50/lb mature); winter hardiness (Siberian to Zone 3); frost sweetening; overwintering harvest value in Zone 5-6.
+
+---
+
+### PE078 — Expand acorn-squash.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/acorn-squash.md`
+**Details:** Acorn squash is 1,118 words. Curing vs. no-curing (acorn squash cures in 1-2 weeks vs. butternut's 4 weeks); storage comparison by variety; retail $1.50-3.00/squash; stuffed acorn squash as highest-value use; Honey Bear (smaller, AAS winner) vs. Table Ace vs. Carnival comparison; space vs. yield math.
+
+---
+
+### PE079 — Expand fava-bean.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/fava-bean.md`
+**Details:** Fava bean is 1,124 words. Double-shelling labor vs. reward (fava beans require removing beans from pod AND slipping inner skin for best results); fresh vs. dried split; spring vs. fall planting window (fall plant in Zone 7+ overwinters and yields earliest spring harvest); nitrogen fixation value; Mediterranean culinary tradition (ful medames, fave al guanciale).
+
+---
+
+## Plant Expansion Sprint 12 — Common Stubs (PE080-PE087)
+
+Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highest-priority not-common stubs.
+
+### PE080 — Expand tomato.md to 2,000+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/tomato.md`
+**Details:** Tomato is the flagship crop — currently 1,136 words is not enough. Expand to 2,000+. Needs: determinate vs. indeterminate in depth; pruning (suckering) technique and yield impact; blossom end rot cause and prevention; late blight vs. early blight distinction; variety table by use (slicing, paste, cherry, beefsteak, heirloom); canning math (6-8 lb tomatoes → 1 quart canned → 3-4 years of pasta sauce ROI).
+
+---
+
+### PE081 — Expand lettuce.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/lettuce.md`
+**Details:** Lettuce is 1,162 words. Cut-and-come-again vs. head lettuce comparison; succession planting for year-round harvest; heat-tolerant varieties for summer gap; baby leaf premium ($6-10/lb vs. $2-3/lb head); container and indoor growing; type comparison (butterhead, romaine, loose-leaf, crisphead) with days and temperature preferences.
+
+---
+
+### PE082 — Expand cucumber.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/cucumber.md`
+**Details:** Cucumber is 1,174 words. Slicing vs. pickling vs. Persian comparison; bitter prevention (consistent watering + keeping fruits off soil); trellising for straight fruits and less disease; pickling ROI (10 lb cucumbers + $2 in brine ingredients → 8-10 pints of pickles at $4-7/jar retail); powdery mildew resistant varieties.
+
+---
+
+### PE083 — Expand garlic.md to 2,000+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/garlic.md`
+**Details:** Garlic is 1,184 words. Already good but expand to 2,000+. Add: scape recipes and value (scapes = early harvest crop at $3-6/lb at farmers markets); seed-saving protocol for year-2 free seed; flavor comparison of hardneck subtypes (Rocambole vs. Porcelain vs. Purple Stripe); storage comparison (hardneck 6-8 months vs. softneck 9-12 months); zone-specific planting date table.
+
+---
+
+### PE084 — Expand cherry.md to 1,600+ words
+**Status:** `[ ]`
+**File:** `src/content/plants/cherry.md`
+**Details:** Cherry is 1,192 words. Sweet vs. sour cherry distinction (sweet needs partner; sour is self-fertile); bird netting as non-optional management; dwarf and semi-dwarf rootstock for small gardens; cherry to jam ratio ($8-12/lb fresh, $12-18/jar jam); Nanking cherry (Prunus tomentosa) as reliable shrub-form alternative to tree cherries.
+
+---
+
+
+## New Plant Batch 5 (PB012-PB021)
+
+### PB012 — Create cape-gooseberry.md
+**Status:** `[ ]`
+**File:** `src/content/plants/cape-gooseberry.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** New plant entry, 800+ words. Cape gooseberry (Physalis peruviana) — papery-husked berry, $8-12/lb at specialty retailers, start indoors 8-10 weeks before last frost.
+**Details:**
+- Frontmatter: name Cape Gooseberry, scientific_name Physalis peruviana, category Fruit, days_min 70, days_max 80, avg_yield_lb 3.0, avg_price_lb 9.00, seed_cost 2.99, is_common false, direct_sow_ok false, indoor_weeks_needed 8
+- Related to ground cherry (Physalis pruinosa) but larger, sweeter, more productive; flavor described as pineapple-vanilla
+- Zone 9+ perennial; grown as annual in colder zones; needs long warm season
+- Husks protect fruit for extended storage (3-4 weeks at room temp once husked)
+- Specialty market value: sold by the flat at upscale grocers and farmers markets; used as garnish, in tarts, in chutneys
+- Start indoors essential; transplant after last frost; full sun; moderate water
+**Acceptance:** 800+ words; ROI math; growing requirements; zone context; build passes.
+
+---
+
+### PB013 — Create popcorn.md
+**Status:** `[ ]`
+**File:** `src/content/plants/popcorn.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** New plant entry, 800+ words. Popcorn (Zea mays var. everta) — distinct from sweet corn; specialty heirloom popcorn $5-10/lb at farmers markets.
+**Details:**
+- Frontmatter: name Popcorn, scientific_name Zea mays var. everta, category Vegetable, days_min 95, days_max 110, avg_yield_lb 5.0, avg_price_lb 6.00, seed_cost 2.99, is_common false, direct_sow_ok true, indoor_weeks_needed 0
+- Must be isolated from sweet corn (cross-pollination ruins both crops — 400 feet minimum or time-staggered planting)
+- Dry on plant until husks paper-dry (90-100 days after silking); cure further indoors before shelling
+- Specialty variety table: Robust 997 (high yield, neutral flavor), Glass Gem (ornamental, stores as decoration, fair popping), Dakota Black (small kernels, nutty), Strawberry (small red ears, good popper)
+- Home-popped value: 1 lb kernels → 15-20 cups popped corn; specialty flavored popcorn $5-8/bag at retail
+- The heirloom color story: Glass Gem and similar varieties cannot be found in stores; this is the primary grow-your-own case
+**Acceptance:** 800+ words; isolation requirement stated; curing protocol; variety table; build passes.
+
+---
+
+### PB014 — Create oca.md
+**Status:** `[ ]`
+**File:** `src/content/plants/oca.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** New plant entry, 800+ words. Oca (Oxalis tuberosa) — Andean tuber, $10-15/lb at specialty retailers.
+**Details:**
+- Frontmatter: name Oca, scientific_name Oxalis tuberosa, category Vegetable, days_min 180, days_max 220, avg_yield_lb 4.0, avg_price_lb 12.00, seed_cost 14.99, is_common false, start_cost_label "Tubers (1 lb)", direct_sow_ok true, indoor_weeks_needed 0
+- Long-day crop: tubers form as days shorten in fall; in short-season zones (5-6) this means a race against first frost. Row cover extends season and is often necessary.
+- Sour flavor from oxalic acid; sweetens significantly after 2-3 days in full sun post-harvest (sun-sweetening converts oxalic acid)
+- Colors: red, pink, yellow, orange — visually striking; farmers market appeal
+- Zone 8+ can leave tubers in ground year-round (perennial); Zones 5-7 must dig before hard freeze
+- Store cool and dark; tubers keep 4-6 months
+**Acceptance:** 800+ words; long-day mechanism explained; sun-sweetening noted; zone limitations; build passes.
+
+---
+
+### PB015 — Create salsify.md
+**Status:** `[ ]`
+**File:** `src/content/plants/salsify.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** New plant entry, 800+ words. Salsify (Tragopogon porrifolius) — "oyster plant," $3-5/lb.
+**Details:**
+- Frontmatter: name Salsify, scientific_name Tragopogon porrifolius, category Vegetable, days_min 120, days_max 150, avg_yield_lb 3.0, avg_price_lb 4.00, seed_cost 2.49, is_common false, direct_sow_ok true, indoor_weeks_needed 0
+- Flavor described as mild oyster-like with slightly sweet, nutty notes
+- Long-season root; direct sow early spring; needs deep loose soil like parsnip
+- Edible flower buds and young shoots as bonus harvest
+- Scorzonera (Scorzonera hispanica) is the black-skinned relative; milder, higher inulin, often preferred. Can create brief comparison.
+- Store in ground over winter (frost improves flavor); dig in spring before plant flowers
+- Market rarity: almost never found in grocery stores; specialty restaurants pay premium; grow-your-own is often the only access
+**Acceptance:** 800+ words; growing requirements; storage; scorzonera comparison; build passes.
+
+---
+
+### PB016 — Create scorzonera.md
+**Status:** `[ ]`
+**File:** `src/content/plants/scorzonera.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** New plant entry, 800+ words. Scorzonera (Scorzonera hispanica) — black salsify, $4-6/lb.
+**Details:**
+- Frontmatter: name Scorzonera, scientific_name Scorzonera hispanica, category Vegetable, days_min 120, days_max 150, avg_yield_lb 3.0, avg_price_lb 5.00, seed_cost 2.99, is_common false, direct_sow_ok true, indoor_weeks_needed 0
+- Black skin, white flesh; peels easily after blanching in boiling water
+- Can leave in ground 2 years for larger roots — perennial in mild climates
+- Inulin content: prebiotic fiber; marketed in Europe as diabetic-friendly root vegetable
+- Edible flowers (yellow, dandelion-like) in year 2
+- Practically absent from US grocery stores; European specialty markets carry it seasonally
+**Acceptance:** 800+ words; growing requirements; 2-year option; market rarity; build passes.
+
+---
+
+### PB017 — Create sea-kale.md
+**Status:** `[ ]`
+**File:** `src/content/plants/sea-kale.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** New plant entry, 800+ words. Sea kale (Crambe maritima) — perennial, forced blanched shoots $15-25/lb.
+**Details:**
+- Frontmatter: name Sea Kale, scientific_name Crambe maritima, category Vegetable, days_min 365, days_max 730, avg_yield_lb 1.0, avg_price_lb 18.00, seed_cost 4.99, is_common false, direct_sow_ok false, indoor_weeks_needed 8
+- Perennial; Zone 4-9; established crown produces for 20+ years
+- Year 1-2: establishment only (no harvest). Year 3+: force shoots in late winter by covering crown with a pot or box to exclude light; forced shoots emerge pale, tender, nutty-flavored
+- Forcing method: place large pot or forcing jar over crown in February; harvest blanched shoots at 6-8 inches; leave some shoots to grow out for photosynthesis and crown recovery
+- UK tradition: popular Victorian vegetable; nearly forgotten in US; specialty restaurants pay premium for forced sea kale shoots
+- The long-term ROI case: $4.99 plant → 20-year production → forced shoots at $18/lb → year 3-23 value
+**Acceptance:** 800+ words; forcing method explained; multi-year production table; market context; build passes.
+
+---
+
+### PB018 — Create tepary-bean.md
+**Status:** `[ ]`
+**File:** `src/content/plants/tepary-bean.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** New plant entry, 800+ words. Tepary bean (Phaseolus acutifolius) — drought-resistant heritage bean, $5-10/lb.
+**Details:**
+- Frontmatter: name Tepary Bean, scientific_name Phaseolus acutifolius, category Vegetable, days_min 60, days_max 90, avg_yield_lb 2.0, avg_price_lb 7.00, seed_cost 3.99, is_common false, direct_sow_ok true, indoor_weeks_needed 0
+- Native to Sonoran Desert; most drought-tolerant legume in cultivation; thrives with minimal irrigation
+- Two harvests: green pods eaten fresh at 45-50 days; dry beans at 60-90 days
+- Varieties: Brown Flecked, Blue Speckled, White, Desert Iron Woman (Tohono O'odham traditional selection)
+- Niche market: Native American food sovereignty crop; heritage grain shops pay $8-12/lb for named varieties
+- Low water requirement is the primary ROI angle for drought-prone regions — produces where common beans fail
+- Nitrogen-fixing legume; leave roots in soil at season end
+**Acceptance:** 800+ words; drought tolerance as primary selling point; variety table; water usage comparison; build passes.
+
+---
+
+### PB019 — Create mashua.md
+**Status:** `[ ]`
+**File:** `src/content/plants/mashua.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** New plant entry, 800+ words. Mashua (Tropaeolum tuberosum) — Andean tuber, ornamental climbing vine.
+**Details:**
+- Frontmatter: name Mashua, scientific_name Tropaeolum tuberosum, category Vegetable, days_min 180, days_max 220, avg_yield_lb 5.0, avg_price_lb 10.00, seed_cost 12.99, is_common false, start_cost_label "Tubers (6-count)", direct_sow_ok true, indoor_weeks_needed 0
+- Relative of nasturtium; same family (Tropaeolaceae); tubers, leaves, and flowers all edible
+- Tubers raw have sharp peppery flavor; cooking eliminates pungency; or sun-sweeten like oca
+- Ornamental value: beautiful climbing vine with orange flowers; dual use as edible + landscape plant
+- Long-season tuber like oca; forms tubers in short days; needs frost protection in fall
+- Pest-repelling properties: mashua contains isothiocyanates that repel insects and some nematodes; used as companion plant in Andean polycultures
+**Acceptance:** 800+ words; raw vs. cooked flavor distinction; ornamental value; companion plant properties; build passes.
+
+---
+
+### PB020 — Create cape-gooseberry.md (skip - PB012)
+**Status:** `[x]`
+**Note:** Covered in PB012 above.
+
+---
+
+### PB021 — Create lotus-root.md
+**Status:** `[ ]`
+**File:** `src/content/plants/lotus-root.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** New plant entry, 800+ words. Lotus root (Nelumbo nucifera) — aquatic vegetable, $4-8/lb.
+**Details:**
+- Frontmatter: name Lotus Root, scientific_name Nelumbo nucifera, category Vegetable, days_min 150, days_max 180, avg_yield_lb 5.0, avg_price_lb 6.00, seed_cost 14.99, is_common false, start_cost_label "Rhizome section", direct_sow_ok false, indoor_weeks_needed 0
+- Grown in tubs, ponds, or shallow water features; requires 2-3 feet of water depth and full sun
+- Tubers develop in fall; harvest by draining and digging or reaching into mud
+- Beautiful ornamental plant (national flower of several Asian countries); flowers mid-summer
+- Container culture: 25-30 gallon barrel or stock tank; 6 inches of heavy clay-loam soil + 12-18 inches of water; no drainage
+- Culinary: stir-fry, soup, pickled, chips; the lace-like cross-section pattern makes it a visual standout at markets
+- Zone 4+; dormant in winter; rhizome survives cold water temperatures in a container that doesn't freeze solid
+**Acceptance:** 800+ words; container culture method; harvest protocol; ornamental context; build passes.
+
+---
+
+## New Article Sprint (NA008-NA012)
+
+### NA008 — Create greenhouse-roi.md
+**Status:** `[ ]`
+**File:** `src/content/articles/greenhouse-roi.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** 2,000+ word ROI analysis of season extension structures: cold frame vs. low tunnel vs. hoop house vs. polycarbonate greenhouse. Must include a break-even calculation for each structure type.
+**Details:**
+- Category: roi; featured: false
+- Structure comparison table: Cold frame (DIY $20-50, extends season 4-6 weeks, best for: hardening off + overwintering greens), Low tunnel (polypropylene row cover + hoops, $30-80/100 ft, extends 4-6 weeks, best for: row crops), Caterpillar tunnel ($200-400, extends 8-12 weeks, best for: high-value crops mid-season), Gothic arch hoop house ($1,500-4,000, extends season 12-16 weeks, best for: tomatoes + peppers early/late), Polycarbonate greenhouse ($3,000-15,000+, year-round potential, best for: seed starting + tropical crops)
+- Break-even calculation per structure: cost ÷ annual value of extended-season production. Example: $300 caterpillar tunnel adds 4 weeks of tomato production at $3/lb × 10 lb/week from 20-foot bed = $120/year → 2.5 year payback.
+- Heating costs: unheated vs. heated; propane/electric cost per degree-day to maintain 40°F vs. 50°F setpoint. Heated greenhouses dramatically increase operating cost and extend payback period.
+- What justifies the cost: early tomatoes (June vs. August harvest, $4-6/lb farmers market vs. commodity prices), seedling production (starting your own vs. buying transplants at $3-5 each × 50 plants = $150-250/year), overwintered greens (salad greens at $8-12/lb in January-February).
+- Zone-specific value: Zone 4-5 gains more from season extension than Zone 7-8 where season is already long enough. Calculate extended-season value by zone.
+- Source: University of Vermont Extension for hoop house economics; USDA SARE for small farm tunnel data.
+**Acceptance:** 2,000+ words; structure comparison table; break-even calculation for at least 3 structure types; zone-specific value; heating cost reality check; zero em dashes; build passes.
+
+---
+
+### NA009 — Create no-dig-gardening-roi.md
+**Status:** `[ ]`
+**File:** `src/content/articles/no-dig-gardening-roi.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** 1,800+ word ROI analysis of no-dig/no-till gardening vs. conventional tilling. Charles Dowding method. Break-even on cardboard + compost investment.
+**Details:**
+- Category: roi; featured: false
+- Method: sheet mulch over existing lawn/weeds with cardboard (free from boxes) + 4-6 inches of compost ($30-80 for a 4×8 bed, $50-100 for 4×12); plant directly into compost layer. No tilling, no ground prep beyond suppressing weeds.
+- Cost comparison: Traditional bed prep (tilling service $80-150, or rented tiller $60-80/day, soil amendment $50-100) vs. no-dig setup ($50-120 in compost + free cardboard). No-dig is comparable cost for year 1.
+- Labor comparison: Traditional annual spring tilling (2-4 hours/bed); no-dig annual maintenance (add 1-2 inch compost top-dress in fall, 30 minutes/bed). Labor savings over 5 years is substantial.
+- Weed suppression value: research from Charles Dowding's market garden shows no-dig beds have 85% fewer weed hours than dug beds after year 1 (cite: Dowding, No Dig: Nurture Your Soil to Grow Better Veg with Less Effort, 2022). At $20/hour labor equivalent, 3 hours saved/bed/season = $60/year per bed.
+- Soil biology argument: tilling disrupts fungal networks and earthworm populations; no-dig beds show higher soil organic matter and better water retention over time. Source: USDA NRCS Soil Health guidance.
+- Year-by-year comparison table: Year 1-5; Traditional (tilling cost, weed labor, amendment) vs. No-Dig (setup cost, annual compost, near-zero weed labor). Show cumulative cost difference.
+- Practical guide: cardboard sourcing (liquor stores, appliance stores give it free); cardboard overlap (6-inch minimum to prevent weed breakthrough); compost sources (municipal, farm, purchased); what to plant first year (most crops work; avoid deep root crops like parsnips in year 1).
+**Acceptance:** 1,800+ words; year-by-year cost comparison table; weed-suppression ROI calculation; Dowding cited; zero em dashes; build passes.
+
+---
+
+### NA010 — Create food-preservation-equipment-roi.md
+**Status:** `[ ]`
+**File:** `src/content/articles/food-preservation-equipment-roi.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** 2,000+ word break-even analysis of food preservation equipment: food dehydrator, pressure canner, water bath canner, vacuum sealer, chest freezer.
+**Details:**
+- Category: roi; featured: false
+- Equipment comparison table: columns = equipment, cost, annual operating cost, annual capacity, payback period at stated throughput
+  - Chest freezer ($200-400, $30-50 electricity/year, ~300 lb frozen produce, 1-2 year payback at $1.50/lb produce value)
+  - Water bath canner ($25-40, minimal ongoing, 200+ jars/year capacity, < 1 year payback)
+  - Pressure canner ($100-150, minimal ongoing, 150+ jars/year capacity, 1-2 year payback)
+  - Food dehydrator ($40-150, $0.10-0.30 per batch electricity, 50+ lb dried produce/year, 2-3 year payback)
+  - Vacuum sealer ($50-150, $0.10-0.25/bag, extends frozen produce life 2-3x, 2-3 year payback)
+- Freeze dryer deliberately excluded as home-scale footnote: $3,000-5,000 units with 15+ year payback; only makes sense for extreme output.
+- Produce value math per method: 10 lb fresh tomatoes → $2-3 canned (water bath, 3-4 pints × $1.50/pt home value) vs. $10-15 frozen vs. $20-30 dried. Each method has different value multiplication.
+- What pairs with what crop: tomatoes → water bath canning; green beans → pressure canning (low acid); herbs → dehydrator; berries → freezer first, jam second; peppers → freezer or dehydrator.
+- Jar economics: Mason jars are a one-time investment that last 10+ years (lids replaced annually at $0.15-0.30 each). Amortize jar cost over 10 years: a $30 case of 12 jars = $3/jar/year ÷ 2 uses/year = $1.50 per use. Add lid ($0.20) = $1.70 per jar of home-canned produce — compare to $3-6 retail.
+**Acceptance:** 2,000+ words; equipment comparison table with payback; preserve-value-by-method comparison; jar cost amortization; zero em dashes; build passes.
+
+---
+
+### NA011 — Create vertical-gardening-roi.md
+**Status:** `[ ]`
+**File:** `src/content/articles/vertical-gardening-roi.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** 1,800+ word ROI analysis of vertical growing: trellis cost vs. yield-per-sq-ft improvement for pole beans, cucumbers, tomatoes, peas.
+**Details:**
+- Category: roi; featured: false
+- Core calculation: compare yield-per-sq-ft for vertical vs. sprawling crops. Example: pole beans on a 6-foot trellis use 1 sq ft of ground space and produce 3-4 lb/season; bush beans use 2-3 sq ft and produce 1.5-2 lb. Pole beans = 3-4 lb/sq ft vs. bush beans = 0.6-1 lb/sq ft. The trellis multiplies yield per square foot 4-5x.
+- Trellis cost comparison table: cattle panel (8×16 ft, $30-45, 10-year life = $3-4.50/year), bamboo and twine ($5-10/season, replaceable), T-posts with wire ($20-40, multi-year), wooden A-frame ($15-25 lumber, 3-5 year life), commercial tomato cage ($3-8 each, 5-10 year life).
+- Crop-by-crop vertical yield table: pole beans, cucumbers, tomatoes (indeterminate), peas, squash (with hammock support), melon (with hammock support). Include: ground space used, vertical production window, yield per linear foot of trellis, trellis cost amortized per season.
+- Small-space case study: a 4-foot wide raised bed with a 6-foot trellis at the back produces: back 1 foot (pole beans or cucumbers on trellis) + front 3 feet (low-growing crops like lettuce, radish, beets). Effectively doubles crop density.
+- Air circulation and disease: vertical growing improves airflow around leaves, reducing fungal pressure (early blight, powdery mildew). Quantify: well-trellised cucumbers may need 1-2 fewer fungicide applications than sprawling; row cover and trellis combinations reduce pest damage.
+**Acceptance:** 1,800+ words; yield-per-sq-ft comparison with math; trellis cost table with annual amortized cost; small-space case study; zero em dashes; build passes.
+
+---
+
+### NA012 — Create crop-loss-risk-management.md
+**Status:** `[ ]`
+**File:** `src/content/articles/crop-loss-risk-management.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** 1,800+ word practical guide to managing garden crop risk: succession planting, variety diversity, row cover, and crop insurance equivalents for home gardeners.
+**Details:**
+- Category: roi; featured: false
+- Frame as ROI protection: the ROI calculations elsewhere on this site assume a successful harvest. What happens when it fails? This article addresses risk mitigation as part of the financial analysis.
+- Risk table by threat: late frost (mitigation: row cover, transplant timing, cold-tolerant varieties; probability by zone), pest pressure (mitigation: row cover, trap crops, IPM; expected yield reduction without mitigation 10-30%), drought (mitigation: drip irrigation, mulch, drought-tolerant varieties), disease (mitigation: crop rotation, resistant varieties, spacing for airflow).
+- Succession planting as insurance: three plantings of lettuce 3 weeks apart — if one fails to frost or bolts, two remain. Calculate: 3 × $0.50 in seed = $1.50 insurance cost to protect $20+ in expected harvest value.
+- Variety diversity as insurance: plant 2-3 varieties of tomatoes rather than one. If one fails to blight, others may resist. Heirloom + F1 hybrid provides both flavor diversity and disease resistance coverage.
+- Row cover ROI: $30-60 for 50 feet of floating row cover (reusable 3-5 years = $6-20/year amortized). Eliminates flea beetles on brassicas, prevents frost damage through multiple events, extends season by 4-6 weeks. Calculate value of each benefit separately.
+- Zone-specific risk calendar: highest-risk periods by month and zone; what to have ready (row cover, backup varieties, succession seeds).
+**Acceptance:** 1,800+ words; risk table with mitigation and probability; succession-as-insurance math; row cover ROI calculation; zero em dashes; build passes.
+
