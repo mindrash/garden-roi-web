@@ -7,6 +7,7 @@ days_max: 280
 avg_yield_lb: 6.5
 avg_price_lb: 4.99
 seed_cost: 12.00
+start_cost_label: "Seed bulb (1 lb)"
 is_common: true
 watering: Moderate; 1 inch/week during active growth, reduce sharply as foliage yellows in June
 sunlight: Full sun (6–8 hours minimum)

@@ -4,7 +4,7 @@ scientific_name: Brassica rapa var. narinosa
 category: Vegetable
 days_min: 25
 days_max: 45
-avg_yield_lb: 0.5
+avg_yield_lb: 4.0
 avg_price_lb: 4.00
 seed_cost: 2.49
 is_common: true

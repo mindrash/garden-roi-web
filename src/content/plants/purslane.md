@@ -4,7 +4,7 @@ scientific_name: Portulaca oleracea
 category: Vegetable
 days_min: 50
 days_max: 60
-avg_yield_lb: 0.5
+avg_yield_lb: 2.5
 avg_price_lb: 4.00
 seed_cost: 2.49
 is_common: true

@@ -4,7 +4,7 @@ scientific_name: Anethum graveolens
 category: Herb
 days_min: 40
 days_max: 60
-avg_yield_lb: 0.25
+avg_yield_lb: 2.0
 avg_price_lb: 5.50
 seed_cost: 1.99
 is_common: true

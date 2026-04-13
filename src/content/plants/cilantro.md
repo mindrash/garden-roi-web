@@ -4,7 +4,7 @@ scientific_name: Coriandrum sativum
 category: Herb
 days_min: 45
 days_max: 60
-avg_yield_lb: 0.25
+avg_yield_lb: 1.5
 avg_price_lb: 6.00
 seed_cost: 1.99
 is_common: true

@@ -3672,20 +3672,8 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### NA007 — Create watering-schedule-by-crop.md
-**Status:** `[ ]`
-**Owner:** Claude Code (content)
-**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
-**Files:** `src/content/articles/watering-schedule-by-crop.md`
-**What:** Practical watering guide by crop — when, how much, and how to tell if you're overwatering or underwatering. ROI angle: correct watering prevents the yield losses quantified in the drip-vs-hand-watering article.
-**Details:**
-- Deep watering vs. surface watering: how root depth affects drought response; table of root depths by crop
-- Watering frequency by crop: tomatoes (1–2"), cucumbers (1"), lettuce (shallow, frequent), garlic (weekly after spring), brassicas (1–1.5") — actual USDA or extension-cited numbers
-- Critical growth stages where water stress causes yield loss: tomato fruit set, corn silking, cucumbers during fruiting
-- Reading the plant: wilting in morning = drought stress; turgid leaves + overcast = wet soil can wait; soil finger test
-- Rain gauge + soil moisture monitor: $10–25 tools that replace guessing; ROI calculation on avoided underwatering losses
-- Mulch integration: how mulch changes watering schedule (covered in mulching-roi but cross-linked)
-- `publishDate: 2026-05-05`, `category: guides`, `featured: false`
-**Acceptance:** 1,800+ words, crop-specific watering table present, critical growth stage section included, zero em dashes, build passes.
+**Status:** `[x]`
+**Note:** Dropped — practical care guide that doesn't clear the ROI bar for a site called Garden ROI. Water cost/savings already covered in water-cost-per-crop.md and drip-vs-hand-watering.md.
 
 ---
 

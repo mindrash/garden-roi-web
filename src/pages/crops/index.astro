@@ -154,7 +154,7 @@ const collectionJsonLd = {
             <th class="th-sort" data-col="days">Days <span class="th-arrow"></span></th>
             <th class="th-sort" data-col="yield">Yield (lb) <span class="th-arrow"></span></th>
             <th class="th-sort" data-col="price">Price ($/lb) <span class="th-arrow"></span></th>
-            <th class="th-sort" data-col="seed">Seed ($) <span class="th-arrow"></span></th>
+            <th class="th-sort" data-col="seed">Start ($) <span class="th-arrow"></span></th>
             <th class="th-sort th-sort-active" data-col="roi" aria-sort="descending">Est. ROI <span class="th-arrow">▼</span></th>
           </tr>
         </thead>
@@ -183,7 +183,7 @@ const collectionJsonLd = {
                 <td>{plant.data.days_min}–{plant.data.days_max}</td>
                 <td>{plant.data.avg_yield_lb}</td>
                 <td>${plant.data.avg_price_lb.toFixed(2)}</td>
-                <td>${plant.data.seed_cost.toFixed(2)}</td>
+                <td title={plant.data.start_cost_label}>${plant.data.seed_cost.toFixed(2)}</td>
                 <td class="td-roi-val">${estRoi}</td>
               </tr>
             );

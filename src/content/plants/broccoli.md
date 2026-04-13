@@ -4,7 +4,7 @@ scientific_name: Brassica oleracea var. italica
 category: Vegetable
 days_min: 80
 days_max: 100
-avg_yield_lb: 1.5
+avg_yield_lb: 6.0
 avg_price_lb: 2.50
 seed_cost: 3.49
 is_common: true

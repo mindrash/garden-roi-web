@@ -4,7 +4,7 @@ scientific_name: Petroselinum crispum
 category: Herb
 days_min: 70
 days_max: 90
-avg_yield_lb: 0.5
+avg_yield_lb: 2.0
 avg_price_lb: 6.00
 seed_cost: 2.49
 is_common: true

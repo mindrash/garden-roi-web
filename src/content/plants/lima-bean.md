@@ -4,7 +4,7 @@ scientific_name: Phaseolus lunatus
 category: Vegetable
 days_min: 65
 days_max: 90
-avg_yield_lb: 0.5
+avg_yield_lb: 3.0
 avg_price_lb: 3.50
 seed_cost: 2.99
 is_common: true

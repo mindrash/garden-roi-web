@@ -7,6 +7,7 @@ days_max: 120
 avg_yield_lb: 0.02
 avg_price_lb: 5000.00
 seed_cost: 24.99
+start_cost_label: "Corms (10-count)"
 is_common: false
 watering: Light; 0.5 inch/week during growth; dry dormancy in summer essential
 sunlight: Full sun (6-8 hours)

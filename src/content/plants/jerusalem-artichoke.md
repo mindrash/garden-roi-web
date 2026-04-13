@@ -7,6 +7,7 @@ days_max: 150
 avg_yield_lb: 8.0
 avg_price_lb: 3.50
 seed_cost: 4.99
+start_cost_label: "Tubers (1 lb)"
 is_common: true
 watering: Moderate; drought-tolerant once established, 1 inch/week
 sunlight: Full sun (6+ hours)

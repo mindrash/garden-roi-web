@@ -4,7 +4,7 @@ scientific_name: Brassica rapa var. nipposinica
 category: Vegetable
 days_min: 20
 days_max: 40
-avg_yield_lb: 0.5
+avg_yield_lb: 4.0
 avg_price_lb: 4.00
 seed_cost: 2.49
 is_common: true

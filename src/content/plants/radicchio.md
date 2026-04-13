@@ -4,7 +4,7 @@ scientific_name: Cichorium intybus var. foliosum
 category: Vegetable
 days_min: 60
 days_max: 85
-avg_yield_lb: 0.5
+avg_yield_lb: 2.5
 avg_price_lb: 5.00
 seed_cost: 2.99
 is_common: true

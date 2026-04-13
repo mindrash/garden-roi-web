@@ -4,7 +4,7 @@ scientific_name: Brassica oleracea var. gongylodes
 category: Vegetable
 days_min: 45
 days_max: 60
-avg_yield_lb: 0.75
+avg_yield_lb: 4.0
 avg_price_lb: 2.50
 seed_cost: 2.49
 is_common: true

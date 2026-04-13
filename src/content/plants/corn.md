@@ -4,7 +4,7 @@ scientific_name: Zea mays
 category: Vegetable
 days_min: 65
 days_max: 90
-avg_yield_lb: 0.5
+avg_yield_lb: 10.0
 avg_price_lb: 0.80
 seed_cost: 2.99
 is_common: true

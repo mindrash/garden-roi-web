@@ -7,6 +7,7 @@ days_max: 50
 avg_yield_lb: 5.0
 avg_price_lb: 10.00
 seed_cost: 19.99
+start_cost_label: "Bare-root shrub"
 is_common: false
 watering: Moderate; 1 inch/week, drought-tolerant once established
 sunlight: Full sun to partial shade

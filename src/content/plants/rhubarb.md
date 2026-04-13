@@ -7,6 +7,7 @@ days_max: 540
 avg_yield_lb: 3.0
 avg_price_lb: 3.00
 seed_cost: 4.99
+start_cost_label: "Crown"
 is_common: true
 watering: Moderate; 1 inch/week, tolerates drought once established
 sunlight: Full sun (6+ hours)

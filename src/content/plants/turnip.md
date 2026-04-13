@@ -4,7 +4,7 @@ scientific_name: Brassica rapa subsp. rapa
 category: Vegetable
 days_min: 30
 days_max: 60
-avg_yield_lb: 0.75
+avg_yield_lb: 4.0
 avg_price_lb: 1.75
 seed_cost: 1.99
 is_common: true

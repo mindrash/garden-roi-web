@@ -12,6 +12,7 @@ const plants = defineCollection({
     avg_yield_lb: z.number().positive(),
     avg_price_lb: z.number().positive(),
     seed_cost: z.number().positive(),
+    start_cost_label: z.string().optional().default('Seed packet'),
     is_common: z.boolean().default(true),
     watering: z.string(),
     sunlight: z.string(),

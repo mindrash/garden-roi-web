@@ -4,7 +4,7 @@ scientific_name: Nasturtium officinale
 category: Herb
 days_min: 30
 days_max: 40
-avg_yield_lb: 0.25
+avg_yield_lb: 1.5
 avg_price_lb: 7.00
 seed_cost: 2.99
 is_common: true

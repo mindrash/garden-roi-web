@@ -4,7 +4,7 @@ scientific_name: Cichorium endivia
 category: Vegetable
 days_min: 85
 days_max: 100
-avg_yield_lb: 0.5
+avg_yield_lb: 2.0
 avg_price_lb: 4.00
 seed_cost: 2.99
 is_common: true

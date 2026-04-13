@@ -10,6 +10,7 @@ const plants = allPlants
     avg_yield_lb: p.data.avg_yield_lb,
     avg_price_lb: p.data.avg_price_lb,
     seed_cost: p.data.seed_cost,
+    start_cost_label: p.data.start_cost_label ?? 'Seed packet',
   }));
 
 const plantsJson = JSON.stringify(plants);
@@ -62,7 +63,7 @@ const plantsJson = JSON.stringify(plants);
             <span class="est-row-value" id="est-grocery-val">—</span>
           </div>
           <div class="est-row est-row-deduct">
-            <span class="est-row-label">Seed investment</span>
+            <span class="est-row-label" id="est-seed-label">Start cost</span>
             <span class="est-row-value" id="est-seed-val">—</span>
           </div>
         </div>
@@ -83,6 +84,7 @@ const plantsJson = JSON.stringify(plants);
     avg_yield_lb: number;
     avg_price_lb: number;
     seed_cost: number;
+    start_cost_label: string;
   }
 
   const raw = document.getElementById('estimator-data')?.textContent ?? '[]';
@@ -96,6 +98,7 @@ const plantsJson = JSON.stringify(plants);
   const yieldVal    = document.getElementById('est-yield-val')   as HTMLElement   | null;
   const groceryVal  = document.getElementById('est-grocery-val') as HTMLElement   | null;
   const seedVal     = document.getElementById('est-seed-val')    as HTMLElement   | null;
+  const seedLabel   = document.getElementById('est-seed-label')  as HTMLElement   | null;
 
   function fmt(n: number): string {
     return '$' + n.toFixed(2);
@@ -122,6 +125,7 @@ const plantsJson = JSON.stringify(plants);
     if (yieldVal)   yieldVal.textContent  = yield_lb.toFixed(1) + ' lb';
     if (groceryVal) groceryVal.textContent = fmt(grocery);
     if (seedVal)    seedVal.textContent   = fmt(seed);
+    if (seedLabel)  seedLabel.textContent = plant.start_cost_label;
   }
 
   cropSelect?.addEventListener('change', recalc);

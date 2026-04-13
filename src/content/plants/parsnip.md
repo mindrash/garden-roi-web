@@ -4,7 +4,7 @@ scientific_name: Pastinaca sativa
 category: Vegetable
 days_min: 100
 days_max: 130
-avg_yield_lb: 1.0
+avg_yield_lb: 4.0
 avg_price_lb: 2.50
 seed_cost: 2.49
 is_common: true

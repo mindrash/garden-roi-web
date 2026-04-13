@@ -4,7 +4,7 @@ scientific_name: Allium ampeloprasum
 category: Vegetable
 days_min: 100
 days_max: 130
-avg_yield_lb: 0.75
+avg_yield_lb: 5.0
 avg_price_lb: 3.50
 seed_cost: 2.99
 is_common: true

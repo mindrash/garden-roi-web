@@ -5,8 +5,9 @@ category: Fruit
 days_min: 45
 days_max: 60
 avg_yield_lb: 30.0
-avg_price_lb: 10.00
+avg_price_lb: 6.00
 seed_cost: 19.99
+start_cost_label: "Bare-root tree"
 is_common: false
 watering: Light; drought-tolerant once established, 0.5-1 inch/week
 sunlight: Full sun (6-8 hours)

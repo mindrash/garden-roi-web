@@ -4,7 +4,7 @@ scientific_name: Brassica oleracea var. viridis
 category: Vegetable
 days_min: 60
 days_max: 75
-avg_yield_lb: 1.0
+avg_yield_lb: 5.0
 avg_price_lb: 2.50
 seed_cost: 2.49
 is_common: true

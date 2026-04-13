@@ -4,7 +4,7 @@ scientific_name: Valerianella locusta
 category: Vegetable
 days_min: 45
 days_max: 60
-avg_yield_lb: 0.25
+avg_yield_lb: 2.0
 avg_price_lb: 8.00
 seed_cost: 2.99
 is_common: true
