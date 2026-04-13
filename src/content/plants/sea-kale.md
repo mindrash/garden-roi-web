@@ -73,6 +73,8 @@ A single plant starts at $4.99. Years one and two produce nothing. Starting in y
 | Year 6-10 | $0 | 1.5 lb/yr | $27.00/yr | ~$190 cumulative net |
 | Year 11-20 | $0 | 2 lb/yr | $36.00/yr | ~$540 cumulative net |
 
+*Yield estimates based on grower documentation from Heritage Seed Market and RHS trial records for established *Crambe maritima* crowns in UK kitchen garden conditions. Individual results vary by soil depth and winter severity.*
+
 Cumulative value over 20 years from one $4.99 planting, at $18/lb: approximately $544 in forced shoot value. The only recurring inputs are the time to place and remove the forcing cover and an annual application of compost.
 
 At the $25/lb ceiling for forced sea kale at high-end specialty markets, that 20-year figure exceeds $750 from a single crown.
@@ -119,7 +121,7 @@ The plant's disappearance from common cultivation tracks directly with the expan
 
 Today, sea kale forced shoots appear occasionally at specialty farm stands and high-end farmers markets in coastal areas, and at a small number of fine-dining restaurants in the northeast and mid-Atlantic US. Most buyers have never seen it before and need a brief explanation. At $18-25/lb, it sells readily to the same market that buys ramps, fiddlehead ferns, and forced chicory.
 
-For the home gardener, the value is simpler: you get 6-8 weeks of winter-to-early-spring harvest from a plant that is otherwise doing nothing, in a season when almost nothing else is producing from the garden.
+For the home gardener, the forcing window runs roughly February through March in Zone 6 - six to eight weeks when the crown is the only thing in the garden producing food.
 
 ---
 

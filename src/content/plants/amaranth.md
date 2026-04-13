@@ -132,9 +132,7 @@ Rinse cleaned grain in a fine-mesh strainer under cold running water for 30-60 s
 
 Store dried, cleaned grain in an airtight container - glass jars work well - at room temperature for up to 2 years. Keep it away from moisture.
 
-## The Bottom Line
-
-Amaranth is not a complicated crop. It asks for warmth, reasonable thinning, and patience through the early weeks before it takes off. What it gives back is production through the summer window when most of your other vegetables have given up, a leaf crop that goes straight to your kitchen at $4-8/lb equivalent value, and a bonus grain harvest that makes sense nutritionally even if the pounds-per-plant math is modest. The dual-crop math from one $2.99 packet pays back the seed cost in the first week of leaf harvest. The grain is what you accumulate over the summer while the plant does its thing in the heat.
+The dual-crop math from one $2.99 packet pays back the seed cost in the first week of leaf harvest. The grain is what you accumulate over the summer while the plant does its thing in the heat.
 
 ---
 
