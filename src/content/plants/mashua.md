@@ -13,6 +13,7 @@ watering: Moderate; 1 inch/week
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Oca", "Potato"]
 description: "Mashua (Tropaeolum tuberosum) - Andean climbing tuber. Related to nasturtium: leaves, flowers, and tubers all edible. Sharp peppery flavor raw; mild when cooked. Ornamental climbing vine with orange flowers. Natural pest-repelling properties."
+hero_image: /images/crops/mashua.webp
 ---
 
 Mashua is a climbing vine that produces edible tubers, edible leaves, and edible flowers, repels certain insects and nematodes by volatilizing compounds into the surrounding air, and looks genuinely beautiful on a trellis from mid-summer through frost. It is also almost completely unknown in the United States outside of Andean immigrant communities and a small community of specialty crop growers. That combination - real utility plus obscurity - is exactly why it fetches $8-15/lb when someone actually has it to sell.

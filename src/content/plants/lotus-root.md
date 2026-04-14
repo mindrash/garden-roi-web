@@ -13,6 +13,7 @@ watering: Aquatic; grown in 6-18 inches of water
 sunlight: Full sun (6+ hours)
 companion_plants: []
 description: "Lotus Root (Nelumbo nucifera) - aquatic vegetable grown in water containers or ponds. $4-8/lb at Asian markets. Beautiful ornamental flowers in summer. Container culture in 25-30 gallon stock tank is the standard home method."
+hero_image: /images/crops/lotus-root.webp
 ---
 
 Lotus root looks like nothing else in a market stall. Slice through a segment and you get a wheel of elliptical holes arranged in a lacy ring - a cross-section that's recognizable from thirty feet away. That visual alone explains why it commands $4-8/lb at Asian grocery stores and why restaurants use it for presentation. It's also why, if you grow your own and bring it to a farmers market or a dinner party, people stop to look before they ask what it is.

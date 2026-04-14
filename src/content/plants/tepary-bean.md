@@ -12,6 +12,7 @@ watering: Very light; drought-tolerant, minimal supplemental irrigation needed
 sunlight: Full sun (6+ hours)
 companion_plants: ["Corn", "Squash"]
 description: "Tepary Bean (Phaseolus acutifolius) - most drought-tolerant legume in cultivation. Native to Sonoran Desert. $5-10/lb at heritage grain shops. Produces where common beans fail in dry heat. Heritage/Native American food sovereignty crop."
+hero_image: /images/crops/tepary-bean.webp
 ---
 
 Tepary bean (*Phaseolus acutifolius*) is the most drought-tolerant domesticated legume in cultivation. Native to the Sonoran Desert and domesticated by the Tohono O'odham and related peoples of the American Southwest and Mexico, it produces meaningful yields in climates that receive 10-15 inches of annual rainfall - conditions where common beans (*P. vulgaris*) fail completely. If you garden in the arid or semi-arid West and you've been trying to grow standard beans with marginal results, tepary bean is the crop you should have been growing instead.

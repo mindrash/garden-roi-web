@@ -12,6 +12,7 @@ watering: Light; drought-tolerant once established
 sunlight: Full sun (6+ hours)
 companion_plants: ["Asparagus", "Artichoke"]
 description: "Sea Kale (Crambe maritima) is a perennial brassica, Zone 4-9, produces 20+ years. Forced blanched shoots $15-25/lb at specialty markets. Year 1-2 establishment only; year 3+ force shoots in late winter by excluding light. A Victorian vegetable worth rediscovering."
+hero_image: /images/crops/sea-kale.webp
 ---
 
 Sea kale is one of those plants that disappeared from American gardens not because it stopped being useful, but because supermarkets made it easier to forget it existed. It was grown at Kew Gardens. John Evelyn wrote about it in 1699. High-end London restaurants still put it on their menus every February. In the US, almost nobody grows it. That gap is the opportunity.

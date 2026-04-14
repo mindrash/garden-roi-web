@@ -55,6 +55,11 @@ const SEARCH_OVERRIDES = {
   'heirloom-vs-hybrid': 'heirloom tomato seeds variety colorful',
   'roi-by-region': 'farm field aerial agriculture crops usa',
   'soil-test-roi': 'soil test laboratory agriculture sample',
+  'greenhouse-roi': 'greenhouse hoop house tunnel season extension',
+  'no-dig-gardening-roi': 'no dig garden cardboard compost mulch',
+  'food-preservation-equipment-roi': 'canning jars dehydrator food preservation kitchen',
+  'vertical-gardening-roi': 'vertical garden trellis pole beans cucumbers',
+  'crop-loss-risk-management': 'garden pest disease row cover plant protection',
 };
 
 // Extract a usable search term from the article's frontmatter title
@@ -116,8 +121,8 @@ async function main() {
   fs.mkdirSync(OUT_DIR, { recursive: true });
 
   const slugs = fs.readdirSync(CONTENT_DIR)
-    .filter((f) => f.endsWith('.md'))
-    .map((f) => f.replace(/\.md$/, ''))
+    .filter((f) => f.endsWith('.md') || f.endsWith('.mdx'))
+    .map((f) => f.replace(/\.mdx?$/, ''))
     .sort();
 
   console.log(`Processing ${slugs.length} articles...`);
@@ -133,7 +138,9 @@ async function main() {
       continue;
     }
 
-    const filePath = path.join(CONTENT_DIR, `${slug}.md`);
+    const filePath = fs.existsSync(path.join(CONTENT_DIR, `${slug}.mdx`))
+      ? path.join(CONTENT_DIR, `${slug}.mdx`)
+      : path.join(CONTENT_DIR, `${slug}.md`);
     const term = titleToSearchTerm(slug, filePath);
 
     try {

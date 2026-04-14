@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week, drought-tolerant once established
 sunlight: Full sun (6+ hours)
 companion_plants: ["Tomato", "Basil"]
 description: "Cape Gooseberry (Physalis peruviana) - papery-husked berry, $8-12/lb at specialty retailers. Related to ground cherry but larger and sweeter. Zone 9+ perennial; annual elsewhere."
+hero_image: /images/crops/cape-gooseberry.webp
 ---
 
 Cape gooseberry (*Physalis peruviana*) retails for $8-12/lb at specialty grocers and is nearly absent from standard supermarkets (USDA AMS Specialty Crop Market News, 2023). That gap is the whole case. A $2.99 seed packet can produce three pounds of fruit worth $24-36 in retail equivalent, from a crop most home gardeners have never heard of and almost no one near you grows.

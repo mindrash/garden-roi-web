@@ -65,6 +65,15 @@ const SEARCH_OVERRIDES = {
   'culantro': 'cilantro herb fresh leaves',
   'yacon': 'jicama root tuber vegetable',
   'agretti': 'samphire sea vegetable greens',
+  'cape-gooseberry': 'cape gooseberry physalis golden berry',
+  'lotus-root': 'lotus root slice Chinese vegetable',
+  'mashua': 'nasturtium tuber root vegetable',
+  'oca': 'oca tuber root vegetable colorful',
+  'popcorn': 'popcorn corn cob drying harvest',
+  'salsify': 'salsify root vegetable oyster plant',
+  'scorzonera': 'scorzonera black salsify root vegetable',
+  'sea-kale': 'sea kale crambe maritime coastal plant',
+  'tepary-bean': 'bean pods drying harvest dry beans',
 };
 
 function searchTerm(slug) {

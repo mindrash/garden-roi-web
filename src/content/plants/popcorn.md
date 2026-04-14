@@ -12,6 +12,7 @@ watering: Regular; 1-1.5 inches/week, especially at silking
 sunlight: Full sun (6+ hours)
 companion_plants: ["Beans", "Squash"]
 description: "Popcorn (Zea mays var. everta) - specialty heirloom varieties unavailable at stores. $5-10/lb at farmers markets. Must isolate from sweet corn 400+ feet or time-stagger to prevent cross-pollination."
+hero_image: /images/crops/popcorn.webp
 ---
 
 Popcorn is not sweet corn you let dry too long. It is a genetically distinct subspecies - *Zea mays var. everta* - where the hard, starchy endosperm contains just enough moisture that rapid heating turns that internal water to steam, which shatters the pericarp and pops the kernel inside out. Kernels that cross-pollinate with sweet corn lose the endosperm chemistry that makes this work. You get starchy, chewy, non-popping kernels. This distinction matters before you plant anything, because the isolation requirement is the single most commonly botched part of growing popcorn.

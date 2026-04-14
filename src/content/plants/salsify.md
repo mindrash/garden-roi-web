@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week
 sunlight: Full sun (6+ hours)
 companion_plants: ["Carrot", "Parsnip"]
 description: "Salsify (Tragopogon porrifolius) - oyster plant, $3-5/lb. Almost never in US grocery stores. Mild oyster-like flavor with nutty sweetness. Improve after frost; store in ground through winter."
+hero_image: /images/crops/salsify.webp
 ---
 
 Most gardeners who grow salsify have never eaten salsify. They grow it because they read about it, decided it sounded interesting, and couldn't find it anywhere to try first. That's the situation with this crop: retail availability is so thin in the United States that home growing is often the only practical access point.

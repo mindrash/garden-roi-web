@@ -13,6 +13,7 @@ watering: Moderate; 1 inch/week
 sunlight: Full sun (6+ hours)
 companion_plants: ["Potato", "Nasturtium"]
 description: "Oca (Oxalis tuberosa) - Andean tuber, $10-15/lb at specialty retailers. Short-day crop that forms tubers as days shorten in fall. Sun-sweetening post-harvest reduces oxalic acid sourness. Visually striking: red, pink, yellow, orange varieties."
+hero_image: /images/crops/oca.webp
 ---
 
 Oca (*Oxalis tuberosa*) is the second most important food crop of the Andean highlands, behind potato. It has been cultivated in Peru, Bolivia, Ecuador, and Colombia for at least 8,000 years. In the U.S., it is almost invisible at retail - which is exactly why it sells for $10-15/lb when you can find it. The tubers are small and waxy, with a bright tartness that comes from oxalic acid, the same compound found in sorrel and spinach but at a higher concentration in raw oca. That sourness is not permanent. Leave freshly harvested tubers in the sun for a few days and the chemistry changes. What was sharp becomes mild and slightly sweet, with notes that land somewhere between apple and citrus. That transformation - free, no added inputs - is one of the more interesting things about this crop.

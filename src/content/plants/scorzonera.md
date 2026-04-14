@@ -12,6 +12,7 @@ watering: Moderate; 1 inch/week
 sunlight: Full sun (6+ hours)
 companion_plants: ["Carrot", "Salsify"]
 description: "Scorzonera (Scorzonera hispanica) - black salsify, $4-6/lb. Practically absent from US grocery stores. Can be grown for 2 years for larger roots. Edible yellow flowers in year 2. Mild, nutty flavor; high inulin prebiotic content."
+hero_image: /images/crops/scorzonera.webp
 ---
 
 Scorzonera is the root vegetable that doesn't exist in American grocery stores. It's stocked in European markets, listed in old seed catalogs, and occasionally shows up at specialty grocers at $5 to $7 a pound with no reliable seasonality. If you want fresh scorzonera in the United States, you almost always have to grow it yourself - not because it's difficult, but because no one decided it was worth scaling commercially here.
