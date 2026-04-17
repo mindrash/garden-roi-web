@@ -4790,3 +4790,59 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 - Zone-specific risk calendar: highest-risk periods by month and zone; what to have ready (row cover, backup varieties, succession seeds).
 **Acceptance:** 1,800+ words; risk table with mitigation and probability; succession-as-insurance math; row cover ROI calculation; zero em dashes; build passes.
 
+
+---
+
+## Data Integrity Sprint
+
+### DI001 — Rename seed_cost to start_cost and audit all plant start data
+**Status:** `[ ]`
+**Files:** `src/content.config.ts`, `src/content/plants/*.md`, `src/components/RoiEstimator.astro`, `src/pages/compare/index.astro`, `src/pages/compare/[...slugs].astro`, `src/pages/crops/[slug].astro`
+**What:** Rename the `seed_cost` schema field to `start_cost`, make `start_cost_label` required with no default, and audit every plant file to ensure the label and cost reflect the realistic starting method (seed packet, transplant, bare-root plant, division, rooted cutting, etc.).
+**Details:**
+- Schema change: rename `seed_cost` → `start_cost` in `src/content.config.ts`; change `start_cost_label` from `z.string().optional().default('Seed packet')` to `z.string()` (required, no default)
+- Find/replace all references to `seed_cost` across components: `RoiEstimator.astro`, `compare/index.astro`, `compare/[...slugs].astro`, `crops/[slug].astro`, and any other consumers
+- Audit every plant `.md` file frontmatter: set `start_cost_label` to the realistic starting method:
+  - Trees/shrubs (apple, cherry, blueberry, etc.): "Bare-root plant" or "Grafted tree" with cost reflecting nursery price
+  - Perennials started from divisions (chives, mint, lemon balm, asparagus): "Division" or "Potted plant"
+  - Crops where transplant is the norm (tomato, pepper, eggplant): "Transplant" with cost reflecting a 6-pack or single transplant price
+  - Crops genuinely started from seed: keep "Seed packet"
+  - Crops started from tubers/rhizomes (ginger, turmeric, potato, oca, lotus root): "Seed tuber" or "Rhizome section"
+- Prior agreement from session: the `start_cost_label` was introduced specifically because "seed" is the wrong framing for many crops. It was made optional as a temporary measure; it should now be required.
+- Reference: goji berry already uses `start_cost_label: "Bare-root plant"` as the established pattern.
+**Acceptance:**
+- `npx astro build` passes with 0 errors
+- No plant file uses `seed_cost` (field renamed throughout)
+- Every plant file has an explicit `start_cost_label` that accurately describes the start method
+- ROI estimator and compare pages display the correct label for each crop
+- No regressions on `/crops/`, `/compare/`, or the ROI estimator widget
+
+---
+
+### DI002 — Audit and align frontmatter ROI numbers against plant page body text
+**Status:** `[ ]`
+**Files:** `src/content/plants/*.md`
+**What:** The frontmatter `avg_yield_lb`, `avg_price_lb`, and `start_cost` fields are the canonical numbers used by the ROI estimator and compare tool. Several plant pages have body text that states different numbers. Audit all pages and reconcile — body text must reference or be consistent with frontmatter values.
+**Details:**
+- Priority crops identified as mismatched (body text overstates vs. frontmatter):
+  - `arugula.md`: frontmatter `avg_yield_lb: 0.5` but body describes 7+ lb/season from succession planting
+  - `lettuce.md`: frontmatter `avg_yield_lb: 1.5` but body describes cut-and-come-again producing far more
+  - `kale.md`: frontmatter `avg_yield_lb: 2.0` but body describes 8-month harvest at much higher totals
+  - `snap-pea.md`: frontmatter `avg_yield_lb: 1.0` but body describes higher succession yields
+  - `chives.md`: frontmatter `avg_yield_lb: 0.2` resulting in negative ROI; a mature clump produces 0.5-1 lb/season
+  - `sweet-basil.md`: frontmatter `avg_yield_lb: 0.5` but one well-grown plant produces this in a month
+  - `elderberry.md`: frontmatter `avg_yield_lb: 5.0` but body and ROI table reference 10-20 lb at maturity
+- Data errors to fix first:
+  - `saffron.md`: `avg_yield_lb: 0.0` is a data entry error — likely `0.02` (about 0.6 oz per plant, consistent with saffron yields); fix and verify gross value recalculates correctly
+  - Peppermint appears twice in the plant inventory with different price values — identify and remove the duplicate
+- For each mismatched crop: decide whether the frontmatter is wrong (update it to match what the body says is achievable) or the body is wrong (update body text to match the conservative frontmatter number). The frontmatter should reflect a realistic single-plant/single-packet per-season yield, not best-case succession yields.
+- Prices to verify against USDA AMS Specialty Crop Market News 2023-2024:
+  - `sea-buckthorn.md`: `avg_price_lb: 20.00` — verify; $8-15/lb is the typical specialty market range
+  - `popcorn.md`: `avg_price_lb: 6.00` — verify; retail popcorn kernels run $2-4/lb; $6 may only apply to specialty heirloom varieties
+- Document the source for any price that's changed in a comment or the body text citation
+**Acceptance:**
+- No plant page body text states a yield, price, or ROI figure that contradicts its own frontmatter
+- Saffron `avg_yield_lb` is a non-zero value with a citation
+- Peppermint duplicate resolved
+- Sea buckthorn and popcorn prices verified or corrected with source cited
+- `npx astro build` passes with 0 errors
