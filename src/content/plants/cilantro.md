@@ -6,7 +6,8 @@ days_min: 45
 days_max: 60
 avg_yield_lb: 1.5
 avg_price_lb: 6.00
-seed_cost: 1.99
+start_cost: 1.99
+start_cost_label: "Seed packet"
 is_common: true
 watering: Regular; 1 inch/week, keep soil moist during germination
 sunlight: Full sun to partial shade (4-6 hours; afternoon shade extends season)

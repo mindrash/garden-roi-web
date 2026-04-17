@@ -6,7 +6,8 @@ days_min: 180
 days_max: 210
 avg_yield_lb: 3.0
 avg_price_lb: 5.00
-seed_cost: 3.49
+start_cost: 3.49
+start_cost_label: "Seed packet"
 is_common: false
 watering: Aquatic; grows in standing water 4-12 inches deep
 sunlight: Full sun (8+ hours)

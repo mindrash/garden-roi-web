@@ -6,8 +6,8 @@ days_min: 730
 days_max: 1095
 avg_yield_lb: 5.0
 avg_price_lb: 4.50
-seed_cost: 5.99
-start_cost_label: "Crowns (25-count)"
+start_cost: 5.99
+start_cost_label: "Crown"
 is_common: true
 watering: Regular; 1-1.5 inches/week during active growth, reduce in dormancy
 sunlight: Full sun (6-8 hours minimum)

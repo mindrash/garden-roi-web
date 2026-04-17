@@ -6,7 +6,8 @@ days_min: 50
 days_max: 65
 avg_yield_lb: 10
 avg_price_lb: 1.00
-seed_cost: 2.99
+start_cost: 2.99
+start_cost_label: "Seed packet"
 is_common: true
 watering: Deep watering 1-2 inches/week; consistent moisture prevents blossom drop
 sunlight: Full sun (6–8 hours minimum)

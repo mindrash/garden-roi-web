@@ -6,7 +6,8 @@ days_min: 365
 days_max: 548
 avg_yield_lb: 10.0
 avg_price_lb: 8.00
-seed_cost: 3.99
+start_cost: 3.99
+start_cost_label: "Seed packet"
 is_common: false
 watering: Moderate; 1-1.5 inches/week; reduce in winter
 sunlight: Full sun (6-8 hours)

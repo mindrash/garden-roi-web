@@ -6,7 +6,8 @@ days_min: 85
 days_max: 100
 avg_yield_lb: 12
 avg_price_lb: 1.99
-seed_cost: 3.50
+start_cost: 3.50
+start_cost_label: "Seed packet"
 is_common: true
 watering: Heavy during establishment; reduce to moderate once vines run, 1-2 inches/week
 sunlight: Full sun (6-8 hours minimum)

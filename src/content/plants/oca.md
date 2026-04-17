@@ -6,9 +6,9 @@ days_min: 180
 days_max: 220
 avg_yield_lb: 4.0
 avg_price_lb: 12.00
-seed_cost: 14.99
+start_cost: 14.99
 is_common: false
-start_cost_label: "Tubers (1 lb)"
+start_cost_label: "Seed tuber"
 watering: Moderate; 1 inch/week
 sunlight: Full sun (6+ hours)
 companion_plants: ["Potato", "Nasturtium"]

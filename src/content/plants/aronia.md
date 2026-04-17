@@ -6,8 +6,8 @@ days_min: 60
 days_max: 90
 avg_yield_lb: 10.0
 avg_price_lb: 8.00
-seed_cost: 19.99
-start_cost_label: "Bare-root shrub"
+start_cost: 19.99
+start_cost_label: "Bare-root plant"
 is_common: false
 watering: Light; 0.75-1 inch/week, drought-tolerant once established
 sunlight: Full sun to partial shade (tolerates shade better than most fruit shrubs)

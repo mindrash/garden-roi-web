@@ -6,7 +6,8 @@ days_min: 75
 days_max: 90
 avg_yield_lb: 5.0
 avg_price_lb: 1.25
-seed_cost: 2.99
+start_cost: 2.99
+start_cost_label: "Seed packet"
 is_common: true
 watering: Regular; 1-2 inches/week, reduce sharply at ripening for concentrated flavor
 sunlight: Full sun (8+ hours)

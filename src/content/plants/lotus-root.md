@@ -6,7 +6,7 @@ days_min: 150
 days_max: 180
 avg_yield_lb: 5.0
 avg_price_lb: 6.00
-seed_cost: 14.99
+start_cost: 14.99
 is_common: false
 start_cost_label: "Rhizome section"
 watering: Aquatic; grown in 6-18 inches of water

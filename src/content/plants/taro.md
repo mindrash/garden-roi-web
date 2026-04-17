@@ -6,7 +6,8 @@ days_min: 180
 days_max: 200
 avg_yield_lb: 3.0
 avg_price_lb: 3.00
-seed_cost: 3.49
+start_cost: 3.49
+start_cost_label: "Corm"
 is_common: false
 watering: Moderate to heavy; 1.5-2 inches/week; tolerates and thrives in consistently moist soil
 sunlight: Full sun to partial shade (tolerates shade better than most vegetables)

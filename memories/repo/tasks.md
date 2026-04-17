@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 13, 2026 (PE048-PE084, PB012-PB021, NA008-NA012 complete; all plant pages 1,600+ words; 5 new articles; 10 new plant pages)_
+_Last updated: April 13, 2026 (DI001 complete: seed_cost renamed to start_cost, start_cost_label required across all 181 plant files)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -4796,7 +4796,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ## Data Integrity Sprint
 
 ### DI001 — Rename seed_cost to start_cost and audit all plant start data
-**Status:** `[ ]`
+**Status:** `[x]`
 **Files:** `src/content.config.ts`, `src/content/plants/*.md`, `src/components/RoiEstimator.astro`, `src/pages/compare/index.astro`, `src/pages/compare/[...slugs].astro`, `src/pages/crops/[slug].astro`
 **What:** Rename the `seed_cost` schema field to `start_cost`, make `start_cost_label` required with no default, and audit every plant file to ensure the label and cost reflect the realistic starting method (seed packet, transplant, bare-root plant, division, rooted cutting, etc.).
 **Details:**

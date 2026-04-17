@@ -6,7 +6,8 @@ days_min: 60
 days_max: 70
 avg_yield_lb: 12
 avg_price_lb: 3.50
-seed_cost: 3.50
+start_cost: 3.50
+start_cost_label: "Transplant"
 is_common: true
 watering: Regular; 1-2 inches/week, consistent moisture to reduce cracking
 sunlight: Full sun (6-8 hours minimum)

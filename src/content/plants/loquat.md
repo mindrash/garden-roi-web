@@ -6,8 +6,8 @@ days_min: 90
 days_max: 120
 avg_yield_lb: 20.0
 avg_price_lb: 5.00
-seed_cost: 19.99
-start_cost_label: "Bare-root tree"
+start_cost: 19.99
+start_cost_label: "Potted tree"
 is_common: false
 watering: Moderate; 1 inch/week; drought-tolerant once established
 sunlight: Full sun to partial shade (6-8 hours)

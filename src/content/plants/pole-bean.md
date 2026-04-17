@@ -6,7 +6,8 @@ days_min: 55
 days_max: 65
 avg_yield_lb: 5.0
 avg_price_lb: 2.00
-seed_cost: 2.99
+start_cost: 2.99
+start_cost_label: "Seed packet"
 is_common: true
 watering: "Regular; 1 inch/week; keep soil consistently moist once pods forming"
 sunlight: "Full sun (6+ hours)"

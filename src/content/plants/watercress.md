@@ -6,7 +6,8 @@ days_min: 30
 days_max: 40
 avg_yield_lb: 1.5
 avg_price_lb: 7.00
-seed_cost: 2.99
+start_cost: 2.99
+start_cost_label: "Seed packet"
 is_common: true
 watering: Heavy; keep soil saturated or grow in containers of standing water, replenishing daily
 sunlight: Full sun to partial shade (4-6 hours)

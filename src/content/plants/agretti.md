@@ -6,7 +6,8 @@ days_min: 40
 days_max: 60
 avg_yield_lb: 0.5
 avg_price_lb: 10.00
-seed_cost: 3.49
+start_cost: 3.49
+start_cost_label: "Seed packet"
 is_common: false
 watering: Moderate; 1 inch/week; tolerates some drought
 sunlight: Full sun (6-8 hours)

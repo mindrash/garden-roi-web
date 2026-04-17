@@ -6,7 +6,8 @@ days_min: 55
 days_max: 75
 avg_yield_lb: 25.0
 avg_price_lb: 5.00
-seed_cost: 29.99
+start_cost: 29.99
+start_cost_label: "Bare-root tree"
 is_common: true
 watering: Moderate; 1-1.5 inches/week, reduce after harvest
 sunlight: Full sun (6+ hours)

@@ -6,8 +6,8 @@ days_min: 90
 days_max: 150
 avg_yield_lb: 8.0
 avg_price_lb: 4.50
-seed_cost: 9.99
-start_cost_label: "Rooted cutting"
+start_cost: 9.99
+start_cost_label: "Potted plant"
 is_common: true
 watering: Moderate; 1-1.5 inches/week during fruit development, drought-tolerant otherwise
 sunlight: Full sun (8+ hours)

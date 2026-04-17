@@ -6,7 +6,8 @@ days_min: 90
 days_max: 120
 avg_yield_lb: 0.5
 avg_price_lb: 15.00
-seed_cost: 4.00
+start_cost: 4.00
+start_cost_label: "Potted plant"
 is_common: true
 watering: Regular; keep soil consistently moist, does not tolerate drought
 sunlight: Partial shade to full sun (4–6 hours); afternoon shade preferred in hot climates

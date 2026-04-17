@@ -6,7 +6,8 @@ days_min: 35
 days_max: 52
 avg_yield_lb: 0.25
 avg_price_lb: 8.00
-seed_cost: 1.99
+start_cost: 1.99
+start_cost_label: "Seed packet"
 is_common: true
 watering: Light; drought-tolerant, overwatering reduces flowering
 sunlight: Full sun to partial shade (4-6 hours)

@@ -6,7 +6,8 @@ days_min: 75
 days_max: 90
 avg_yield_lb: 15.0
 avg_price_lb: 0.50
-seed_cost: 2.99
+start_cost: 2.99
+start_cost_label: "Seed packet"
 is_common: true
 watering: Regular; 1-2 inches/week during vine growth, reduce at ripening
 sunlight: Full sun (8+ hours)

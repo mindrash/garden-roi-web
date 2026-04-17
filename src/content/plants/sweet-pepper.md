@@ -6,7 +6,8 @@ days_min: 70
 days_max: 90
 avg_yield_lb: 2.0
 avg_price_lb: 3.00
-seed_cost: 3.99
+start_cost: 3.99
+start_cost_label: "Transplant"
 is_common: true
 watering: Regular; 1–1.5 inches/week; consistent moisture critical at fruit set to prevent blossom drop
 sunlight: Full sun (8+ hours; more sun = more fruit)

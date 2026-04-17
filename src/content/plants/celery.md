@@ -6,7 +6,8 @@ days_min: 85
 days_max: 120
 avg_yield_lb: 2.0
 avg_price_lb: 2.00
-seed_cost: 2.49
+start_cost: 2.49
+start_cost_label: "Transplant"
 is_common: true
 watering: Heavy; 1.5-2 inches/week, sensitive to moisture stress
 sunlight: Full sun to partial shade (4-6 hours)

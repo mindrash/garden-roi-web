@@ -6,7 +6,8 @@ days_min: 60
 days_max: 90
 avg_yield_lb: 0.5
 avg_price_lb: 18.00
-seed_cost: 3.99
+start_cost: 3.99
+start_cost_label: "Potted plant"
 is_common: true
 watering: "Regular; 1-1.5 inches/week; tolerates moist conditions; container soil dries faster than in-ground"
 sunlight: "Full sun to part shade (4-6 hours works; more sun = higher menthol)"

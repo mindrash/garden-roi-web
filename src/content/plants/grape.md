@@ -6,7 +6,8 @@ days_min: 90
 days_max: 180
 avg_yield_lb: 10.0
 avg_price_lb: 2.50
-seed_cost: 6.99
+start_cost: 6.99
+start_cost_label: "Bare-root plant"
 is_common: true
 watering: Moderate; 1-1.5 inches/week first 2 years, drought-tolerant after establishment
 sunlight: Full sun (8+ hours)

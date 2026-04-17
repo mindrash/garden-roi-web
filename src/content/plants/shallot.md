@@ -6,7 +6,8 @@ days_min: 90
 days_max: 120
 avg_yield_lb: 1.0
 avg_price_lb: 5.00
-seed_cost: 3.99
+start_cost: 3.99
+start_cost_label: "Sets"
 is_common: true
 watering: Regular; 1 inch/week during bulbing, reduce as tops fall
 sunlight: Full sun (6-8 hours)

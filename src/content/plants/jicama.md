@@ -6,7 +6,8 @@ days_min: 150
 days_max: 180
 avg_yield_lb: 3.0
 avg_price_lb: 3.00
-seed_cost: 3.49
+start_cost: 3.49
+start_cost_label: "Seed packet"
 is_common: false
 watering: Moderate; 1-1.5 inches/week, consistent moisture during tuber development
 sunlight: Full sun (8+ hours)

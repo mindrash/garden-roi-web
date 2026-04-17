@@ -45,8 +45,8 @@ const allPlants = await getCollection('plants');
 const plants = allPlants
   .filter((p) => p.data.category === collectionCategory)
   .sort((a, b) => {
-    const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.seed_cost;
-    const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.seed_cost;
+    const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.start_cost;
+    const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.start_cost;
     return roiB - roiA;
   });
 ---

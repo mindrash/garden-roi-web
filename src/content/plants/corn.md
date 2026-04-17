@@ -6,7 +6,8 @@ days_min: 65
 days_max: 90
 avg_yield_lb: 10.0
 avg_price_lb: 0.80
-seed_cost: 2.99
+start_cost: 2.99
+start_cost_label: "Seed packet"
 is_common: true
 watering: Regular; 1-1.5 inches/week, critical at silking and ear fill
 sunlight: Full sun (8+ hours minimum)

@@ -6,7 +6,8 @@ days_min: 20
 days_max: 40
 avg_yield_lb: 4.0
 avg_price_lb: 4.00
-seed_cost: 2.49
+start_cost: 2.49
+start_cost_label: "Seed packet"
 is_common: true
 watering: Regular; 1 inch/week
 sunlight: Full sun to partial shade (4-6 hours)

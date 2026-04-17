@@ -6,7 +6,8 @@ days_min: 85
 days_max: 110
 avg_yield_lb: 5.0
 avg_price_lb: 1.75
-seed_cost: 2.99
+start_cost: 2.99
+start_cost_label: "Seed packet"
 is_common: true
 watering: Regular; 1-1.5 inches/week, reduce as fruits mature
 sunlight: Full sun (8+ hours)

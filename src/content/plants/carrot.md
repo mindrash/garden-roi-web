@@ -6,7 +6,8 @@ days_min: 70
 days_max: 80
 avg_yield_lb: 5.0
 avg_price_lb: 1.75
-seed_cost: 2.49
+start_cost: 2.49
+start_cost_label: "Seed packet"
 is_common: true
 watering: Consistent 1 inch/week; uneven moisture causes forked or cracked roots
 sunlight: Full sun (6+ hours minimum)

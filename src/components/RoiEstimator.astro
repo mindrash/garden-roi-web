@@ -9,7 +9,7 @@ const plants = allPlants
     slug: p.id,
     avg_yield_lb: p.data.avg_yield_lb,
     avg_price_lb: p.data.avg_price_lb,
-    seed_cost: p.data.seed_cost,
+    start_cost: p.data.start_cost,
     start_cost_label: p.data.start_cost_label ?? 'Seed packet',
   }));
 
@@ -83,7 +83,7 @@ const plantsJson = JSON.stringify(plants);
     slug: string;
     avg_yield_lb: number;
     avg_price_lb: number;
-    seed_cost: number;
+    start_cost: number;
     start_cost_label: string;
   }
 
@@ -116,7 +116,7 @@ const plantsJson = JSON.stringify(plants);
 
     const yield_lb     = plant.avg_yield_lb * count;
     const grocery      = yield_lb * plant.avg_price_lb;
-    const seed         = plant.seed_cost * count;
+    const seed         = plant.start_cost * count;
     const net          = grocery - seed;
 
     if (result) result.hidden = false;

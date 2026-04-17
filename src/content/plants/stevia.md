@@ -6,7 +6,8 @@ days_min: 60
 days_max: 90
 avg_yield_lb: 0.25
 avg_price_lb: 20.00
-seed_cost: 3.99
+start_cost: 3.99
+start_cost_label: "Potted plant"
 is_common: true
 watering: Moderate; 1 inch/week, sensitive to both drought and waterlogging
 sunlight: Full sun (6-8 hours)

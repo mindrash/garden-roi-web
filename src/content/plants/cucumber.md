@@ -6,7 +6,8 @@ days_min: 55
 days_max: 70
 avg_yield_lb: 8
 avg_price_lb: 1.78
-seed_cost: 3.00
+start_cost: 3.00
+start_cost_label: "Seed packet"
 is_common: true
 watering: Heavy; 1–2 inches/week, consistent moisture critical to prevent bitter fruit
 sunlight: Full sun (6–8 hours minimum)

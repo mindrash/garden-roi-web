@@ -6,7 +6,8 @@ days_min: 100
 days_max: 120
 avg_yield_lb: 1.5
 avg_price_lb: 4.00
-seed_cost: 2.99
+start_cost: 2.99
+start_cost_label: "Transplant"
 is_common: true
 watering: Heavy; 1.5-2 inches/week, consistent - stress causes cracked roots
 sunlight: Full sun to partial shade (4-6 hours)

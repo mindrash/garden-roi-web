@@ -6,7 +6,8 @@ days_min: 60
 days_max: 90
 avg_yield_lb: 0.25
 avg_price_lb: 12.00
-seed_cost: 2.49
+start_cost: 2.49
+start_cost_label: "Potted plant"
 is_common: false
 watering: Moderate; 1-1.5 inches/week; drought stress causes early dormancy
 sunlight: Full sun to partial shade (4-6 hours)

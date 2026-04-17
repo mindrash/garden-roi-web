@@ -6,7 +6,8 @@ days_min: 85
 days_max: 100
 avg_yield_lb: 2.0
 avg_price_lb: 4.00
-seed_cost: 3.99
+start_cost: 3.99
+start_cost_label: "Crown"
 is_common: true
 watering: Regular; 1.5-2 inches/week, reduce in winter dormancy
 sunlight: Full sun (6+ hours)

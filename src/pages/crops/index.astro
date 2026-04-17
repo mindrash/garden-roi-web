@@ -5,10 +5,10 @@ import { getCollection } from 'astro:content';
 
 const allPlants = await getCollection('plants');
 
-// Sort by estimated net ROI descending: (yield × price) - seed_cost
+// Sort by estimated net ROI descending: (yield × price) - start_cost
 const plants = [...allPlants].sort((a, b) => {
-  const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) - a.data.seed_cost;
-  const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) - b.data.seed_cost;
+  const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) - a.data.start_cost;
+  const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) - b.data.start_cost;
   return roiB - roiA;
 });
 
@@ -113,8 +113,8 @@ const collectionJsonLd = {
     <!-- Card grid view -->
     <div class="plants-grid" id="plants-grid">
       {plants.map((plant) => {
-        const roi = (plant.data.avg_yield_lb * plant.data.avg_price_lb) / plant.data.seed_cost;
-        const estRoi = (plant.data.avg_yield_lb * plant.data.avg_price_lb - plant.data.seed_cost).toFixed(2);
+        const roi = (plant.data.avg_yield_lb * plant.data.avg_price_lb) / plant.data.start_cost;
+        const estRoi = (plant.data.avg_yield_lb * plant.data.avg_price_lb - plant.data.start_cost).toFixed(2);
         return (
           <div
             class="plant-card-wrapper"
@@ -125,7 +125,7 @@ const collectionJsonLd = {
             data-slug={plant.id}
             data-est-roi={estRoi}
             data-yield={plant.data.avg_yield_lb}
-            data-seed={plant.data.seed_cost}
+            data-seed={plant.data.start_cost}
             data-name={plant.data.name.toLowerCase()}
           >
             <PlantCard
@@ -160,8 +160,8 @@ const collectionJsonLd = {
         </thead>
         <tbody id="plants-tbody">
           {plants.map((plant) => {
-            const roi = (plant.data.avg_yield_lb * plant.data.avg_price_lb) / plant.data.seed_cost;
-            const estRoi = (plant.data.avg_yield_lb * plant.data.avg_price_lb - plant.data.seed_cost).toFixed(2);
+            const roi = (plant.data.avg_yield_lb * plant.data.avg_price_lb) / plant.data.start_cost;
+            const estRoi = (plant.data.avg_yield_lb * plant.data.avg_price_lb - plant.data.start_cost).toFixed(2);
             const catClass = `tag tag-${plant.data.category.toLowerCase()}`;
             return (
               <tr
@@ -170,7 +170,7 @@ const collectionJsonLd = {
                 data-days={plant.data.days_min}
                 data-price={plant.data.avg_price_lb}
                 data-yield={plant.data.avg_yield_lb}
-                data-seed={plant.data.seed_cost}
+                data-seed={plant.data.start_cost}
                 data-est-roi={estRoi}
                 data-days-max={plant.data.days_max}
                 data-name={plant.data.name.toLowerCase()}
@@ -183,7 +183,7 @@ const collectionJsonLd = {
                 <td>{plant.data.days_min}–{plant.data.days_max}</td>
                 <td>{plant.data.avg_yield_lb}</td>
                 <td>${plant.data.avg_price_lb.toFixed(2)}</td>
-                <td title={plant.data.start_cost_label}>${plant.data.seed_cost.toFixed(2)}</td>
+                <td title={plant.data.start_cost_label}>${plant.data.start_cost.toFixed(2)}</td>
                 <td class="td-roi-val">${estRoi}</td>
               </tr>
             );

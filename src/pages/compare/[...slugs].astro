@@ -28,11 +28,11 @@ const b = plantB.data;
 
 // Metrics
 function grossValue(p: typeof a) { return p.avg_yield_lb * p.avg_price_lb; }
-function netValue(p: typeof a)   { return grossValue(p) - p.seed_cost; }
-function roiMultiple(p: typeof a) { return grossValue(p) / p.seed_cost; }
+function netValue(p: typeof a)   { return grossValue(p) - p.start_cost; }
+function roiMultiple(p: typeof a) { return grossValue(p) / p.start_cost; }
 
 const metrics = [
-  { label: 'Seed cost',           a: `$${a.seed_cost.toFixed(2)}`,  b: `$${b.seed_cost.toFixed(2)}`,  winner: a.seed_cost < b.seed_cost ? 'a' : b.seed_cost < a.seed_cost ? 'b' : 'tie' },
+  { label: 'Start cost',          a: `$${a.start_cost.toFixed(2)} (${a.start_cost_label.toLowerCase()})`,  b: `$${b.start_cost.toFixed(2)} (${b.start_cost_label.toLowerCase()})`,  winner: a.start_cost < b.start_cost ? 'a' : b.start_cost < a.start_cost ? 'b' : 'tie' },
   { label: 'Days to maturity',    a: `${a.days_min}–${a.days_max}`, b: `${b.days_min}–${b.days_max}`, winner: a.days_max < b.days_max ? 'a' : b.days_max < a.days_max ? 'b' : 'tie' },
   { label: 'Avg yield (lb)',      a: `${a.avg_yield_lb} lb`,        b: `${b.avg_yield_lb} lb`,         winner: a.avg_yield_lb > b.avg_yield_lb ? 'a' : b.avg_yield_lb > a.avg_yield_lb ? 'b' : 'tie' },
   { label: 'Retail price/lb',     a: `$${a.avg_price_lb.toFixed(2)}`, b: `$${b.avg_price_lb.toFixed(2)}`, winner: a.avg_price_lb > b.avg_price_lb ? 'a' : b.avg_price_lb > a.avg_price_lb ? 'b' : 'tie' },

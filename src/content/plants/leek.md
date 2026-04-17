@@ -6,7 +6,8 @@ days_min: 100
 days_max: 130
 avg_yield_lb: 5.0
 avg_price_lb: 3.50
-seed_cost: 2.99
+start_cost: 2.99
+start_cost_label: "Transplant"
 is_common: true
 watering: Regular; 1-1.5 inches/week, consistent - irregular watering causes split shanks
 sunlight: Full sun (6+ hours)

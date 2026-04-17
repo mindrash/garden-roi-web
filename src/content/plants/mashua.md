@@ -6,9 +6,9 @@ days_min: 180
 days_max: 220
 avg_yield_lb: 5.0
 avg_price_lb: 10.00
-seed_cost: 12.99
+start_cost: 12.99
 is_common: false
-start_cost_label: "Tubers (6-count)"
+start_cost_label: "Seed tuber"
 watering: Moderate; 1 inch/week
 sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Oca", "Potato"]

@@ -23,7 +23,8 @@ const plantData = Object.fromEntries(
     {
       id: p.id,
       name: p.data.name,
-      seed_cost: p.data.seed_cost,
+      start_cost: p.data.start_cost,
+      start_cost_label: p.data.start_cost_label,
       days_min: p.data.days_min,
       days_max: p.data.days_max,
       avg_yield_lb: p.data.avg_yield_lb,
@@ -93,7 +94,7 @@ const plantDataJson = JSON.stringify(plantData);
     </div>
 
     <script>
-      interface PlantRow { id: string; name: string; seed_cost: number; days_min: number; days_max: number; avg_yield_lb: number; avg_price_lb: number; }
+      interface PlantRow { id: string; name: string; start_cost: number; start_cost_label: string; days_min: number; days_max: number; avg_yield_lb: number; avg_price_lb: number; }
 
       const raw = document.getElementById('compare-data')?.textContent ?? '{}';
       const plantMap: Record<string, PlantRow> = JSON.parse(raw);
@@ -117,13 +118,13 @@ const plantDataJson = JSON.stringify(plantData);
 
         const grossA = a.avg_yield_lb * a.avg_price_lb;
         const grossB = b.avg_yield_lb * b.avg_price_lb;
-        const netA   = grossA - a.seed_cost;
-        const netB   = grossB - b.seed_cost;
-        const roiA   = grossA / a.seed_cost;
-        const roiB   = grossB / b.seed_cost;
+        const netA   = grossA - a.start_cost;
+        const netB   = grossB - b.start_cost;
+        const roiA   = grossA / a.start_cost;
+        const roiB   = grossB / b.start_cost;
 
         const metrics = [
-          { label: 'Seed cost',           va: fmt2(a.seed_cost),      vb: fmt2(b.seed_cost),      winA: a.seed_cost < b.seed_cost,  winB: b.seed_cost < a.seed_cost },
+          { label: 'Start cost',          va: `${fmt2(a.start_cost)} (${a.start_cost_label.toLowerCase()})`, vb: `${fmt2(b.start_cost)} (${b.start_cost_label.toLowerCase()})`, winA: a.start_cost < b.start_cost,  winB: b.start_cost < a.start_cost },
           { label: 'Days to maturity',    va: `${a.days_min}–${a.days_max}`, vb: `${b.days_min}–${b.days_max}`, winA: a.days_max < b.days_max, winB: b.days_max < a.days_max },
           { label: 'Avg yield (lb)',      va: `${a.avg_yield_lb} lb`, vb: `${b.avg_yield_lb} lb`, winA: a.avg_yield_lb > b.avg_yield_lb, winB: b.avg_yield_lb > a.avg_yield_lb },
           { label: 'Retail price/lb',     va: fmt2(a.avg_price_lb),   vb: fmt2(b.avg_price_lb),   winA: a.avg_price_lb > b.avg_price_lb, winB: b.avg_price_lb > a.avg_price_lb },

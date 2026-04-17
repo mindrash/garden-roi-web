@@ -6,7 +6,8 @@ days_min: 1460
 days_max: 2555
 avg_yield_lb: 80.0
 avg_price_lb: 1.75
-seed_cost: 34.99
+start_cost: 34.99
+start_cost_label: "Bare-root tree"
 is_common: true
 watering: "Regular during establishment (2 years); 1 inch/week; drought-tolerant once established"
 sunlight: "Full sun (8+ hours; direct sun on fruit improves sugar accumulation and color)"

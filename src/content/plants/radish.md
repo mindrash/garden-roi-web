@@ -6,7 +6,8 @@ days_min: 25
 days_max: 30
 avg_yield_lb: 2.0
 avg_price_lb: 2.50
-seed_cost: 1.99
+start_cost: 1.99
+start_cost_label: "Seed packet"
 is_common: true
 watering: Consistent 1 inch/week; dry soil causes pithy, hot-tasting roots and accelerates bolting
 sunlight: Full sun to partial shade (6+ hours optimal; tolerates 4 hours)

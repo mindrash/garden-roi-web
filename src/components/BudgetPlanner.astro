@@ -9,7 +9,7 @@ const plants = allPlants
     slug: p.id,
     avg_yield_lb: p.data.avg_yield_lb,
     avg_price_lb: p.data.avg_price_lb,
-    seed_cost: p.data.seed_cost,
+    start_cost: p.data.start_cost,
   }));
 
 const plantsJson = JSON.stringify(plants);
@@ -87,7 +87,7 @@ const plantsJson = JSON.stringify(plants);
     slug: string;
     avg_yield_lb: number;
     avg_price_lb: number;
-    seed_cost: number;
+    start_cost: number;
   }
 
   const dataEl = document.getElementById('planner-data');
@@ -145,7 +145,7 @@ const plantsJson = JSON.stringify(plants);
     for (const slug of selectedSlugs) {
       const plant = PLANTS.find((p) => p.slug === slug);
       if (!plant) continue;
-      const seedCost = plant.seed_cost * packetsPerCrop * (isTransplant ? 2.5 : 1);
+      const seedCost = plant.start_cost * packetsPerCrop * (isTransplant ? 2.5 : 1);
       const gross = plant.avg_yield_lb * plant.avg_price_lb * packetsPerCrop;
       const net = gross - seedCost;
       totalCost += seedCost;

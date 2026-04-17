@@ -6,7 +6,8 @@ days_min: 37
 days_max: 50
 avg_yield_lb: 5.0
 avg_price_lb: 3.50
-seed_cost: 2.99
+start_cost: 2.99
+start_cost_label: "Seed packet"
 is_common: true
 watering: Consistent moisture, approximately 1 inch per week; drought stress accelerates bolting faster than almost anything else you can do wrong
 sunlight: Full sun to partial shade; afternoon shade in spring extends the harvest window by slowing heat accumulation on the leaves

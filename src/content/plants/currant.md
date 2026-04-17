@@ -6,7 +6,8 @@ days_min: 60
 days_max: 90
 avg_yield_lb: 3.0
 avg_price_lb: 7.00
-seed_cost: 4.99
+start_cost: 4.99
+start_cost_label: "Bare-root plant"
 is_common: true
 watering: Regular; 1-1.5 inches/week
 sunlight: Full sun to partial shade (4-6 hours acceptable)

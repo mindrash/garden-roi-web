@@ -6,7 +6,8 @@ days_min: 1095
 days_max: 1825
 avg_yield_lb: 100.0
 avg_price_lb: 2.00
-seed_cost: 35.00
+start_cost: 35.00
+start_cost_label: "Bare-root tree"
 is_common: true
 watering: "Moderate; 1 inch/week during establishment; drought-tolerant at maturity"
 sunlight: "Full sun (6-8 hours minimum)"

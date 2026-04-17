@@ -6,7 +6,8 @@ days_min: 55
 days_max: 70
 avg_yield_lb: 4.0
 avg_price_lb: 2.50
-seed_cost: 2.49
+start_cost: 2.49
+start_cost_label: "Seed packet"
 is_common: true
 watering: Moderate; 1 inch/week, consistent to prevent woody roots
 sunlight: Full sun to partial shade (4-6 hours)

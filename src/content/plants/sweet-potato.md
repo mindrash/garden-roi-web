@@ -6,7 +6,8 @@ days_min: 90
 days_max: 120
 avg_yield_lb: 4.0
 avg_price_lb: 1.75
-seed_cost: 3.99
+start_cost: 3.99
+start_cost_label: "Slip"
 is_common: true
 watering: Moderate; 1 inch/week, drought-tolerant once established
 sunlight: Full sun (8+ hours)

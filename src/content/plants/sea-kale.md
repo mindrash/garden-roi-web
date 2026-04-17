@@ -6,7 +6,8 @@ days_min: 365
 days_max: 730
 avg_yield_lb: 1.0
 avg_price_lb: 18.00
-seed_cost: 4.99
+start_cost: 4.99
+start_cost_label: "Potted plant"
 is_common: false
 watering: Light; drought-tolerant once established
 sunlight: Full sun (6+ hours)

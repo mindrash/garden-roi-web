@@ -4,13 +4,13 @@ import { getCollection } from 'astro:content';
 
 const allPlants = await getCollection('plants');
 
-// ROI formula: net value = (avg_yield_lb × avg_price_lb) - seed_cost
-// ROI ratio = net value / seed_cost (return per $1 invested)
+// ROI formula: net value = (avg_yield_lb × avg_price_lb) - start_cost
+// ROI ratio = net value / start_cost (return per $1 invested)
 const rankedPlants = [...allPlants]
   .map((p) => {
     const grossValue = p.data.avg_yield_lb * p.data.avg_price_lb;
-    const netValue = grossValue - p.data.seed_cost;
-    const roiRatio = grossValue / p.data.seed_cost;
+    const netValue = grossValue - p.data.start_cost;
+    const roiRatio = grossValue / p.data.start_cost;
     return { ...p, grossValue, netValue, roiRatio };
   })
   .sort((a, b) => b.roiRatio - a.roiRatio)
@@ -98,7 +98,7 @@ const itemListJsonLd = {
                   <a href={`/crops/${p.id}/`}>{p.data.name}</a>
                 </td>
                 <td class="category">{p.data.category}</td>
-                <td class="number" title={p.data.start_cost_label}>${p.data.seed_cost.toFixed(2)}</td>
+                <td class="number" title={p.data.start_cost_label}>${p.data.start_cost.toFixed(2)}</td>
                 <td class="number">{p.data.avg_yield_lb} lb</td>
                 <td class="number">${p.data.avg_price_lb.toFixed(2)}</td>
                 <td class="number">${p.grossValue.toFixed(0)}</td>
@@ -118,7 +118,7 @@ const itemListJsonLd = {
             <h3><a href={`/crops/${p.id}/`}>{p.data.name}</a></h3>
             <div class="highlight-stat">{p.roiRatio.toFixed(0)}x ROI</div>
             <p class="highlight-meta">
-              {p.data.avg_yield_lb} lb yield &middot; ${p.data.avg_price_lb.toFixed(2)}/lb &middot; ${p.data.seed_cost.toFixed(2)} {p.data.start_cost_label?.toLowerCase()}
+              {p.data.avg_yield_lb} lb yield &middot; ${p.data.avg_price_lb.toFixed(2)}/lb &middot; ${p.data.start_cost.toFixed(2)} {p.data.start_cost_label.toLowerCase()}
             </p>
           </div>
         ))}

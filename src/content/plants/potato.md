@@ -6,7 +6,8 @@ days_min: 70
 days_max: 90
 avg_yield_lb: 5.0
 avg_price_lb: 1.25
-seed_cost: 4.99
+start_cost: 4.99
+start_cost_label: "Seed potato"
 is_common: true
 watering: Moderate; 1-2 inches/week, consistent to prevent hollow heart
 sunlight: Full sun (6+ hours)

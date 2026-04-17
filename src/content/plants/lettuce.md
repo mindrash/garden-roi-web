@@ -6,7 +6,8 @@ days_min: 45
 days_max: 65
 avg_yield_lb: 1.5
 avg_price_lb: 3.50
-seed_cost: 2.50
+start_cost: 2.50
+start_cost_label: "Seed packet"
 is_common: true
 watering: Regular; keep soil consistently moist, lettuce has a shallow root system
 sunlight: Partial to full sun (4–6 hours); afternoon shade beneficial in warm weather

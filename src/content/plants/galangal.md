@@ -6,7 +6,8 @@ days_min: 180
 days_max: 240
 avg_yield_lb: 1.5
 avg_price_lb: 8.00
-seed_cost: 3.49
+start_cost: 3.49
+start_cost_label: "Rhizome section"
 is_common: false
 watering: Moderate to heavy; 1.5-2 inches/week, consistent moisture
 sunlight: Partial shade to full sun (tolerates 4-8 hours)

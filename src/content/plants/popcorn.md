@@ -6,7 +6,8 @@ days_min: 95
 days_max: 110
 avg_yield_lb: 5.0
 avg_price_lb: 6.00
-seed_cost: 2.99
+start_cost: 2.99
+start_cost_label: "Seed packet"
 is_common: false
 watering: Regular; 1-1.5 inches/week, especially at silking
 sunlight: Full sun (6+ hours)

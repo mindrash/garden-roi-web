@@ -6,7 +6,8 @@ days_min: 50
 days_max: 75
 avg_yield_lb: 0.5
 avg_price_lb: 14.99
-seed_cost: 3.50
+start_cost: 3.50
+start_cost_label: "Seed packet"
 is_common: true
 watering: Moderate; keep soil consistently moist, water at root zone
 sunlight: Full sun (6–8 hours minimum)

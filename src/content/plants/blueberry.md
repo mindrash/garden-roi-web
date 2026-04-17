@@ -6,8 +6,8 @@ days_min: 60
 days_max: 90
 avg_yield_lb: 5.0
 avg_price_lb: 5.00
-seed_cost: 8.99
-start_cost_label: "Bare-root plant"
+start_cost: 8.99
+start_cost_label: "Potted plant"
 is_common: true
 watering: Regular; 1-2 inches/week, mulch to retain moisture, acid soil required
 sunlight: Full sun (6-8 hours)

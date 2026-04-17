@@ -12,8 +12,8 @@ const allArticles = await getCollection('articles');
 
 // Highest-ROI crop for section anchor (use spread to avoid mutating shared array)
 const topCrop = [...allPlants].sort((a, b) => {
-  const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.seed_cost;
-  const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.seed_cost;
+  const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.start_cost;
+  const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.start_cost;
   return roiB - roiA;
 })[0];
 
@@ -31,8 +31,8 @@ const homesteadArticle = allArticles
 const featuredPlants = allPlants
   .filter((p) => p.data.is_common)
   .sort((a, b) => {
-    const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.seed_cost;
-    const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.seed_cost;
+    const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.start_cost;
+    const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.start_cost;
     return roiB - roiA;
   })
   .slice(0, 3);
@@ -50,7 +50,7 @@ function sectionPathFor(category: string): string {
 }
 
 const topCropRoi = topCrop
-  ? ((topCrop.data.avg_yield_lb * topCrop.data.avg_price_lb) / topCrop.data.seed_cost).toFixed(0)
+  ? ((topCrop.data.avg_yield_lb * topCrop.data.avg_price_lb) / topCrop.data.start_cost).toFixed(0)
   : '0';
 ---
 

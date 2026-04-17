@@ -6,7 +6,8 @@ days_min: 150
 days_max: 210
 avg_yield_lb: 5.0
 avg_price_lb: 5.00
-seed_cost: 3.49
+start_cost: 3.49
+start_cost_label: "Seed tuber"
 is_common: false
 watering: Moderate; 1-1.5 inches/week, reduce at harvest
 sunlight: Full sun (6-8 hours)
