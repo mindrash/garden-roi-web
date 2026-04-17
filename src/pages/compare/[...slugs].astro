@@ -73,28 +73,30 @@ const relatedPairs = COMPARISON_PAIRS.filter(
   <h1 class="page-title">{a.name} vs {b.name}</h1>
   <p class="page-desc">Side-by-side ROI comparison based on USDA average yield and retail price data.</p>
 
-  <div class="compare-page">
-    <div class="prose">
-      <table>
-        <thead>
-          <tr>
-            <th>Metric</th>
-            <th class="crop-a-head"><a href={`/crops/${plantA.id}/`}>{a.name}</a></th>
-            <th class="crop-b-head"><a href={`/crops/${plantB.id}/`}>{b.name}</a></th>
-          </tr>
-        </thead>
-        <tbody>
-          {metrics.map((m) => (
+  <div class="container compare-page">
+    <div class="glass-card compare-table-wrap">
+      <div class="prose">
+        <table>
+          <thead>
             <tr>
-              <td><strong>{m.label}</strong></td>
-              <td class={m.winner === 'a' ? 'winner-cell' : ''}>{m.a}</td>
-              <td class={m.winner === 'b' ? 'winner-cell' : ''}>{m.b}</td>
+              <th>Metric</th>
+              <th><a href={`/crops/${plantA.id}/`}>{a.name}</a></th>
+              <th><a href={`/crops/${plantB.id}/`}>{b.name}</a></th>
             </tr>
-          ))}
-        </tbody>
-      </table>
+          </thead>
+          <tbody>
+            {metrics.map((m) => (
+              <tr>
+                <td><strong>{m.label}</strong></td>
+                <td class={m.winner === 'a' ? 'winner-cell' : ''}>{m.a}</td>
+                <td class={m.winner === 'b' ? 'winner-cell' : ''}>{m.b}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-note">Values are per plant/packet. Retail prices from USDA AMS data. Net value = gross harvest value minus seed cost.</p>
     </div>
-    <p class="table-note">Values are per plant/packet. Retail prices from USDA AMS data. Net value = gross harvest value minus seed cost.</p>
 
     <div class="crop-links">
       <a href={`/crops/${plantA.id}/`} class="btn btn-secondary">Full {a.name} guide →</a>
@@ -124,37 +126,29 @@ const relatedPairs = COMPARISON_PAIRS.filter(
     margin-bottom: var(--space-s);
   }
 
-  .page-desc {
-    color: var(--color-text-secondary);
-    margin-bottom: var(--space-xl);
-  }
+  .page-desc { color: var(--color-text-secondary); margin-bottom: var(--space-xl); }
 
   .compare-page {
+    padding-top: var(--space-xl);
     padding-bottom: var(--space-xxl);
+    background-color: rgba(248, 249, 245, 0.97);
   }
 
-  /* Winner cell highlight - supplements prose table styles */
+  .compare-table-wrap {
+    overflow-x: auto;
+    margin-bottom: var(--space-xl);
+    padding: var(--space-l);
+  }
+
   .winner-cell {
     font-weight: 700;
     color: var(--color-primary-dark);
-    background-color: rgba(76, 175, 80, 0.12);
   }
-
-  /* Crop column headers get distinct brand colors */
-  .prose thead th.crop-a-head {
-    background-color: var(--color-primary-dark);
-  }
-
-  .prose thead th.crop-b-head {
-    background-color: var(--color-secondary);
-  }
-
 
   .table-note {
     font-size: var(--text-small);
     color: var(--color-text-muted);
-    margin-top: calc(-1 * var(--space-s));
-    margin-bottom: var(--space-xl);
+    margin-top: var(--space-m);
   }
 
   .crop-links {

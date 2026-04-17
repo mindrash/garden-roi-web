@@ -84,7 +84,7 @@ Mirror `constants/theme.ts` exactly. Key values:
 
 1. **No hardcoded values** — All colors, spacing, radii, and font references must use CSS custom properties from `src/styles/theme.css`. Never write a raw hex, px spacing value, or font name directly in a component style.
 
-2. **Global styles in theme.css** — Site-wide styles live in `src/styles/theme.css`. Component-scoped `<style>` blocks are for layout and component-specific rules only.
+2. **Global styles in theme.css** — Site-wide styles live in `src/styles/theme.css`. Component-scoped `<style>` blocks are for layout and component-specific rules only. **Always use existing global styles before writing new CSS.** Tables must use `.prose table` (defined in `theme.css`) — never write custom table CSS in a component. Buttons use `.btn`/`.btn-primary`/`.btn-secondary`. Cards use `.glass-card`. Check `theme.css` for what already exists before writing any new styles.
 
 3. **Reusable components** — Header, Footer, layouts, and repeated UI patterns are components in `src/components/` or `src/layouts/`. Never duplicate markup across pages.
 
