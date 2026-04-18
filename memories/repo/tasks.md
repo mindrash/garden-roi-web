@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 18, 2026 (DI001, DI002 complete; CE001-CE005, NP001, CX001, AR001 planned)_
+_Last updated: April 18, 2026 (CE001-CE005, NP001, CX001, AR001 complete)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -4856,7 +4856,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### CE001 — Expand chrysanthemum-greens.md to depth standard
-**Status:** `[ ]`
+**Status:** `[x]`
 **Files:** `src/content/plants/chrysanthemum-greens.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Full expansion of chrysanthemum greens (*Glebionis coronaria*) page. Currently 828 words — below the 1600+ word standard.
@@ -4877,7 +4877,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### CE002 — Expand lovage.md to depth standard
-**Status:** `[ ]`
+**Status:** `[x]`
 **Files:** `src/content/plants/lovage.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Full expansion of lovage (*Levisticum officinale*) page. Currently 908 words.
@@ -4898,7 +4898,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### CE003 — Expand shiso.md to depth standard
-**Status:** `[ ]`
+**Status:** `[x]`
 **Files:** `src/content/plants/shiso.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Full expansion of shiso (*Perilla frutescens*) page. Currently 926 words.
@@ -4921,7 +4921,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### CE004 — Expand romanesco.md to depth standard
-**Status:** `[ ]`
+**Status:** `[x]`
 **Files:** `src/content/plants/romanesco.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Full expansion of romanesco (*Brassica oleracea* var. *botrytis*) page. Currently 932 words.
@@ -4943,7 +4943,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### CE005 — Expand lemongrass.md to depth standard
-**Status:** `[ ]`
+**Status:** `[x]`
 **Files:** `src/content/plants/lemongrass.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Full expansion of lemongrass (*Cymbopogon citratus*) page. Currently 992 words.
@@ -4970,7 +4970,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### NP001 — Write soybean.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Files:** `src/content/plants/soybean.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Complete encyclopedia entry for soybean (*Glycine max*). The site has edamame (immature soybean harvest) but not the dry bean use case. Soybean as a dry bean crop is a distinct growing and use context.
@@ -4997,7 +4997,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### CX001 — Add 12 new comparison pairs
-**Status:** `[ ]`
+**Status:** `[x]`
 **Files:** `src/data/comparisons.ts`
 **What:** Expand the pre-rendered comparison pairs from 12 to 24. The current pairs are all from common vegetables; this adds herbs, fruit, and more vegetable pairs that represent real shopper comparisons.
 **Details:**
@@ -5029,7 +5029,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### AR001 — Write herb-roi-comparison.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Files:** `src/content/articles/herb-roi-comparison.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Anchor article comparing the 8 highest-value culinary herbs by grocery savings, space efficiency, and maintenance level. Target: /roi/ section. 2000+ words.
