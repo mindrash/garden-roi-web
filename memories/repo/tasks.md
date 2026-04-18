@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 13, 2026 (DI001 complete: seed_cost renamed to start_cost, start_cost_label required across all 181 plant files)_
+_Last updated: April 18, 2026 (DI001, DI002 complete; CE001-CE005, NP001, CX001, AR001 planned)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -4846,3 +4846,216 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 - Peppermint duplicate resolved
 - Sea buckthorn and popcorn prices verified or corrected with source cited
 - `npx astro build` passes with 0 errors
+
+---
+
+## Content Expansion Sprint — Thin Pages (CE)
+
+Five plant pages are under 1000 words — below the depth standard for the site. All five have valid frontmatter and basic content but need full expansion to the 1600+ word standard: variety comparison tables, ROI math, growing requirements with specific ranges, and failure modes.
+
+---
+
+### CE001 — Expand chrysanthemum-greens.md to depth standard
+**Status:** `[ ]`
+**Files:** `src/content/plants/chrysanthemum-greens.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Full expansion of chrysanthemum greens (*Glebionis coronaria*) page. Currently 828 words — below the 1600+ word standard.
+**Details:**
+- Frontmatter data: `avg_yield_lb: 0.75`, `avg_price_lb: 5.00`, `start_cost: 2.49`, companions: Radish, Spinach, Lettuce
+- Key content gaps to fill: variety comparison (Garland/Crown Daisy types vs Japanese types; leaf vs stem harvest types), ROI math ($5/lb specialty greens vs 0.75 lb/plant), succession planting window (spring and fall cool-season use), flavor profile and kitchen uses (hotpot, stir-fry, sukiyaki — context sets retail demand), growing differences between leaf-type and stem-type selections
+- Retail price context: Asian grocery stores $3-6/lb; specialty grocery $6-10/lb (USDA AMS specialty vegetable data); the $5/lb frontmatter is a reasonable midpoint
+- Scientific name: *Glebionis coronaria* (formerly *Chrysanthemum coronarium*); note the reclassification and that *Leucanthemum* (Shasta daisy) is a different genus — common confusion
+- Companion plants in frontmatter: Radish, Spinach, Lettuce — explain the cool-season succession logic
+- Cover: what it actually is (two distinct phenotypes — leaf and stem), ROI case, growing requirements, what goes wrong (bolting in heat is the main issue, same biology as lettuce), harvest and kitchen use
+**Acceptance:**
+- Page is 1600+ words
+- Contains a variety comparison table (at minimum: leaf type vs stem type, with harvest timing differences)
+- Contains ROI math using the frontmatter figures
+- No em dashes, no motivational closing
+- `npx astro build` passes with 0 errors
+
+---
+
+### CE002 — Expand lovage.md to depth standard
+**Status:** `[ ]`
+**Files:** `src/content/plants/lovage.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Full expansion of lovage (*Levisticum officinale*) page. Currently 908 words.
+**Details:**
+- Frontmatter data: `avg_yield_lb: 0.5`, `avg_price_lb: 8.00`, `start_cost: 2.99`, companions: Arugula, Fennel
+- Key content gaps: lovage is a perennial herb with a very strong celery flavor; its value case is not a big harvest yield but replacement of expensive celery at $8-10/lb specialty herb pricing; explain why lovage doesn't appear in grocery stores (too perishable, too pungent) — that's what makes home growing it uniquely valuable
+- Describe the full plant: tall (4-6 ft) perennial umbelliferous herb, USDA zones 3-8, looks like a giant celery plant; all parts edible (leaves, stems, seeds, root); flavor is intense, much stronger than celery — 1 tbsp lovage = 1 rib celery in a recipe
+- ROI case: the 0.5 lb yield at $8/lb gives $4 gross value against $2.99 seed cost; modest in year 1. The real case is that a single established plant produces for 10+ years, and a established crown in year 2-3 produces 2-4 lb of usable leaves per season (cite: Herb Society of America, Levisticum officinale monograph)
+- Growing notes: needs a permanent spot (perennial), prefers rich moist soil, partial shade in hot climates, can reach 6 ft in bloom; cut flower stalks to keep leaf production going
+- Companion logic: planted with Arugula and Fennel — both are strong-flavored crops that don't compete with lovage's flavor profile; Fennel specifically should NOT be near most vegetables (allelopathic) but lovage tolerates it
+- Kitchen use: soups, stocks, sauces — works anywhere celery would; young stems can be used like celery sticks; seeds are a spice
+**Acceptance:**
+- Page is 1600+ words
+- Contains ROI multi-year table (year 1 through year 5, similar to chives model)
+- No em dashes, no motivational closing
+- `npx astro build` passes with 0 errors
+
+---
+
+### CE003 — Expand shiso.md to depth standard
+**Status:** `[ ]`
+**Files:** `src/content/plants/shiso.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Full expansion of shiso (*Perilla frutescens*) page. Currently 926 words.
+**Details:**
+- Frontmatter data: `avg_yield_lb: 1.5`, `avg_price_lb: 10.00`, `start_cost: 2.99`, companions: Basil, Eggplant
+- Key content gaps: shiso is a crop with a legitimate retail market gap — it's expensive ($10-15/lb at Japanese/Korean grocers) and self-seeds freely, so once established it's essentially free production for years
+- Explain the two types clearly: green shiso (*P. frutescens* var. *crispa*, also called Ao Shiso) and red/purple shiso (*P. frutescens* var. *purpurea*, Aka Shiso) — different uses, different markets. Red is used for umeboshi coloring and pickling; green is the sashimi garnish and tempura ingredient. Both have similar value but different culinary roles.
+- Also: Korean perilla (*P. frutescens* var. *japonica*) — slightly different leaf shape, larger, commonly used in Korean BBQ wraps (kkaennip). Seeds available from Korean seed suppliers. Note this variety distinction matters for culinary use.
+- ROI case: 1.5 lb/plant × $10/lb = $15 gross vs $2.99 seed cost. Plants self-seed; after year 1 your seed cost drops to zero. A single bed managed over 3 years has zero ongoing seed cost.
+- Self-seeding behavior: this is both a feature and a management consideration — shiso can become weedy in warm climates. Harvest before seed set to control spread, or let it naturalize if you want a permanent bed.
+- Growing: heat-loving, fast-growing annual; direct sow after last frost; thinning is important; full sun in cool climates, afternoon shade in hot ones; harvest by pinching top leaves to prevent bolting
+- Companion logic: Basil is a reasonable companion (both are heat-loving Lamiaceae relatives); Eggplant traditionally paired in Japanese cooking — shiso planted nearby provides a culinary combination at harvest
+**Acceptance:**
+- Page is 1600+ words
+- Contains a table comparing green vs red vs Korean perilla types
+- Contains ROI math including the self-seeding multi-year case
+- No em dashes, no motivational closing
+- `npx astro build` passes with 0 errors
+
+---
+
+### CE004 — Expand romanesco.md to depth standard
+**Status:** `[ ]`
+**Files:** `src/content/plants/romanesco.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Full expansion of romanesco (*Brassica oleracea* var. *botrytis*) page. Currently 932 words.
+**Details:**
+- Frontmatter data: `avg_yield_lb: 2.0`, `avg_price_lb: 5.00`, `start_cost: 3.49`, companions: Garlic, Arugula
+- Key content gaps: romanesco is the specific reason to grow it instead of broccoli or cauliflower — flavor (nuttier than cauliflower, less sulfurous than broccoli), the appearance (fractal spiral heads that command premium pricing), and the narrow harvest window that makes fresh home-grown superior to any store version
+- Clarify taxonomy: romanesco is botanically *B. oleracea* var. *botrytis* — the same subspecies as cauliflower, not broccoli (even though it looks like green broccoli). The spiral fractal geometry is a naturally occurring mathematical pattern (approximate Fibonacci sequence in the florets), not a modern hybrid trait.
+- ROI case: at $5/lb specialty grocery pricing, a 2-lb head = $10 gross value from a $3.49 seed packet. The more important price comparison: whole romanesco heads sell for $4-8 each at farmers markets and specialty grocers ($4-10/lb at retail per USDA AMS specialty vegetable data 2023-24); grocery stores rarely stock it. Home-grown is the only practical source for most people.
+- Growing: long season (75-100 days), needs to be started indoors 6-8 weeks before transplant; temperature-sensitive — best flavor development happens in cool fall temperatures; spring-planted romanesco often fails because heat arrives before heads form; fall planting (transplant late July in Zone 6 for October harvest) is the reliable schedule
+- Key varieties: Veronica (most available, reliable, Italian origin), Gitano (slightly more heat-tolerant), Minaret (older heirloom, more variable)
+- What goes wrong: cutting the central head triggers side-shoot development but romanesco side shoots are small and irregular — less productive than broccoli for side harvest; heat causes the head to open (rice up) before reaching full size; inconsistent germination compared to cauliflower
+**Acceptance:**
+- Page is 1600+ words
+- Contains the fall planting schedule by zone (similar to kale zone table)
+- Contains ROI math vs. retail pricing with source citation
+- No em dashes, no motivational closing
+- `npx astro build` passes with 0 errors
+
+---
+
+### CE005 — Expand lemongrass.md to depth standard
+**Status:** `[ ]`
+**Files:** `src/content/plants/lemongrass.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Full expansion of lemongrass (*Cymbopogon citratus*) page. Currently 992 words.
+**Details:**
+- Frontmatter data: `avg_yield_lb: 1.0`, `avg_price_lb: 5.00`, `start_cost: 3.99`, companions: Basil, Mint
+- Key content gaps: lemongrass is worth growing primarily because retail stalks are consistently poor quality (dry, cracked, no fragrance) while fresh home-grown stalks have genuinely different culinary value; retail price ($4-8/lb per USDA AMS) understates the quality gap
+- Taxonomy: *Cymbopogon citratus* is West Indian lemongrass, the culinary type; *C. flexuosus* is East Indian lemongrass, used more for essential oil production; both are available in US seed catalogs but *C. citratus* is what kitchen use calls for
+- Perennial in zones 9-11; treated as annual or brought indoors in zones 6-8; key growing information for temperate growers: start from division (a grocery store stalk rooted in water works), not easily grown from seed; explain the economics of starting from a rooted stalk vs. potted nursery plant
+- ROI case: at $5/lb, 1.0 lb yield = $5 gross vs $3.99 start cost. Modest per-season ROI. The real case is that a clump overwinters in zones 8+, divides annually, and produces 3-5 lb per mature clump (cite: University of Florida IFAS Extension, *Lemongrass* fact sheet). In zones 6-7, the economics depend on whether you bring it indoors.
+- Kitchen uses: Thai curry pastes, soups (tom kha, tom yum), teas; the tender inner core is the edible part; outer leaves for tea and infusions only (too fibrous to eat)
+- Growing: needs full sun, warm soil, does not tolerate frost; harvest outer stalks at soil level once the clump is established; in zones 6-8, pot it up and bring it inside before first frost; in spring, divide and replant
+- Pests: essentially pest-free — the volatile oils that give lemongrass its fragrance deter most insects; this is its companion planting value
+**Acceptance:**
+- Page is 1600+ words
+- Contains zone-specific growing strategy table (zones 6-7: annual/overwintered; zones 8+: perennial)
+- Contains ROI math for both annual-treatment and perennial-treatment scenarios
+- No em dashes, no motivational closing
+- `npx astro build` passes with 0 errors
+
+---
+
+## New Plant Sprint (NP)
+
+---
+
+### NP001 — Write soybean.md
+**Status:** `[ ]`
+**Files:** `src/content/plants/soybean.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Complete encyclopedia entry for soybean (*Glycine max*). The site has edamame (immature soybean harvest) but not the dry bean use case. Soybean as a dry bean crop is a distinct growing and use context.
+**Details:**
+- Frontmatter: name: Soybean, scientific_name: Glycine max, category: Vegetable, days_min: 75, days_max: 120, avg_yield_lb: 3.0, avg_price_lb: 3.00, start_cost: 2.99, start_cost_label: "Seed packet", is_common: true, watering: Moderate; 1 inch/week, consistent moisture critical at pod fill, sunlight: Full sun (6+ hours), companion_plants: ["Corn", "Squash"]
+- Explain the edamame vs dry soybean distinction clearly: edamame is the immature green soybean harvested at 80% pod fill before the beans harden; dry soybean is the mature dried bean. Same plant, different harvest timing, different markets, different value.
+- Why grow dry soybean at home? The home dry bean case: dried soybeans at grocery stores run $2-4/lb for commodity soy. Organic dried soybeans run $3-6/lb. Home-grown dry soybeans from specialty varieties (black soybeans, colored varieties unavailable commercially) can be valuable at $4-8/lb at farmers markets for specialty types. The real argument is fresh processing: fresh dry soybeans can be made into tofu, soy milk, or miso at home from known-variety beans — the quality and variety control is the value, not the raw per-pound economics.
+- Cite USDA NASS for commodity soybean production data; note the commodity market is dominated by industrial production and home growers cannot compete on price for standard varieties — the value is in specialty types
+- Growing: inoculate seeds with Bradyrhizobium japonicum (nitrogen-fixing bacteria) before planting for best yields; this is important for soybeans grown in soil that has never had soybeans — commercial soybean inoculant is $3-5 at seed suppliers; direct sow after last frost when soil is above 60°F
+- Harvest timing for dry beans: let pods dry on the plant until they rattle; harvest before fall rains soften pods; hang entire plants upside down in a dry location; thresh by beating against inside of a barrel or rolling between palms
+- Varieties worth naming: Butterbean (large, yellow), Black Jet (black soybean, good for Japanese recipes), Envy (compact, specifically bred for edamame use but can be let to mature for dry beans)
+- Related crops: link to edamame and corn (Three Sisters context)
+**Acceptance:**
+- Page is 1600+ words
+- Clearly explains edamame vs dry soybean distinction in first section
+- Contains ROI math for both commodity and specialty pricing scenarios
+- Frontmatter matches schema exactly
+- `npx astro build` passes with 0 errors
+
+---
+
+## Compare Expansion Sprint (CX)
+
+---
+
+### CX001 — Add 12 new comparison pairs
+**Status:** `[ ]`
+**Files:** `src/data/comparisons.ts`
+**What:** Expand the pre-rendered comparison pairs from 12 to 24. The current pairs are all from common vegetables; this adds herbs, fruit, and more vegetable pairs that represent real shopper comparisons.
+**Details:**
+- Add these 12 new pairs to `COMPARISON_PAIRS` in `src/data/comparisons.ts`:
+  - `['broccoli', 'cauliflower']` — classic substitute decision
+  - `['potato', 'sweet-potato']` — high-volume starch crops
+  - `['thyme', 'rosemary']` — perennial herb comparison
+  - `['basil', 'parsley']` — two most common culinary herbs
+  - `['blueberry', 'strawberry']` — common berry crops
+  - `['garlic', 'shallot']` — allium crop comparison
+  - `['mint', 'basil']` — fast-growing herb comparison
+  - `['zucchini', 'cucumber']` — summer squash vs cuke
+  - `['carrot', 'parsnip']` — root vegetable comparison
+  - `['lettuce', 'spinach']` — cool season greens
+  - `['tomato', 'cherry-tomato']` — already exists, skip; replace with `['tomato', 'hot-pepper']`
+  - `['beet', 'radish']` — fast root crops
+- Verify all slugs exist in `src/content/plants/` before adding (check: broccoli, cauliflower, potato, sweet-potato, thyme, rosemary, parsley, blueberry, shallot, mint, zucchini, parsnip, spinach, hot-pepper, beet, radish — all should exist)
+- The static page generator (`getStaticPaths` in `compare/[...slugs].astro`) automatically pre-renders all pairs in this array; adding to the array is sufficient
+**Acceptance:**
+- `src/data/comparisons.ts` has 24 pairs (12 original + 12 new)
+- All new slugs verified to exist in `src/content/plants/`
+- `npx astro build` passes with 0 errors and generates 12 additional compare pages (282 + 12 = 294 pages, approximately)
+- Each new pair page renders correctly at `/compare/[slug1]-vs-[slug2]/`
+
+---
+
+## Article Sprint — ROI Roundups (AR)
+
+---
+
+### AR001 — Write herb-roi-comparison.md
+**Status:** `[ ]`
+**Files:** `src/content/articles/herb-roi-comparison.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Anchor article comparing the 8 highest-value culinary herbs by grocery savings, space efficiency, and maintenance level. Target: /roi/ section. 2000+ words.
+**Details:**
+- Category: roi
+- Title: "Herb Garden ROI: The 8 Highest-Value Culinary Herbs Compared"
+- Description: ~155 chars, keyword-first
+- Featured: false
+- publishDate: 2026-04-18
+- The 8 herbs to compare (use frontmatter data as the source of truth for numbers):
+  - Basil: avg_yield_lb 0.5, avg_price_lb 14.99, start_cost 3.50 → ROI multiple: 2.1×
+  - Cilantro: check frontmatter
+  - Parsley: check frontmatter
+  - Mint: check frontmatter
+  - Thyme: check frontmatter
+  - Rosemary: check frontmatter
+  - Chives: avg_yield_lb 0.25, avg_price_lb 8.00, start_cost 2.49
+  - Dill: check frontmatter
+- The article must contain an original comparison table: herb, avg_yield_lb, avg_price_lb, gross value, start_cost, net value, ROI multiple — computed from the frontmatter data
+- Structure: open with the specific claim (which herb has the highest ROI and why); comparison table; deep dive on the top 3 with specific growing notes relevant to value (how to maximize yield, when to harvest to maximize price per pound); the bottom 3 and why they still make sense despite lower ROI
+- Must link to at least 4 individual herb crop pages (/crops/basil/, /crops/mint/, etc.) and 1 related article
+- Pull the actual frontmatter numbers from `src/content/plants/basil.md`, `cilantro.md`, `parsley.md`, `mint.md`, `thyme.md`, `rosemary.md`, `chives.md`, `dill.md` before writing
+**Acceptance:**
+- Page is 2000+ words
+- Comparison table is present with computed ROI multiples from actual frontmatter data
+- Links to at least 4 herb crop pages
+- publishDate, category (roi), description, title all correct in frontmatter
+- `npx astro build` passes with 0 errors
+
