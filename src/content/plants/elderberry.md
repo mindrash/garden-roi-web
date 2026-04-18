@@ -4,9 +4,9 @@ scientific_name: Sambucus nigra
 category: Fruit
 days_min: 90
 days_max: 120
-avg_yield_lb: 5.0
+avg_yield_lb: 10.0
 avg_price_lb: 8.00
-start_cost: 5.99
+start_cost: 19.99
 start_cost_label: "Bare-root plant"
 is_common: true
 watering: Regular; 1-1.5 inches/week

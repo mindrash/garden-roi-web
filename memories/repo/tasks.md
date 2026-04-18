@@ -4820,7 +4820,7 @@ Sprint 12 covers: tomato, lettuce, cucumber, garlic, cherry (fruit), plus highes
 ---
 
 ### DI002 — Audit and align frontmatter ROI numbers against plant page body text
-**Status:** `[ ]`
+**Status:** `[x]`
 **Files:** `src/content/plants/*.md`
 **What:** The frontmatter `avg_yield_lb`, `avg_price_lb`, and `start_cost` fields are the canonical numbers used by the ROI estimator and compare tool. Several plant pages have body text that states different numbers. Audit all pages and reconcile — body text must reference or be consistent with frontmatter values.
 **Details:**

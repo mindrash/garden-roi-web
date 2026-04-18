@@ -4,7 +4,7 @@ scientific_name: Pisum sativum var. macrocarpon
 category: Vegetable
 days_min: 55
 days_max: 70
-avg_yield_lb: 1.0
+avg_yield_lb: 3.5
 avg_price_lb: 4.00
 start_cost: 3.49
 start_cost_label: "Seed packet"
@@ -12,7 +12,7 @@ is_common: true
 watering: Moderate; 1 inch/week, reduce after pods form
 sunlight: Full sun (6+ hours)
 companion_plants: [Lettuce, Spinach]
-description: "Snap pea (Pisum sativum var. macrocarpon) - eat pod and pea together, $3-5/lb. Higher value than shelling peas where you discard the pod. 55-70 days, cool-season."
+description: "Snap pea (Pisum sativum var. macrocarpon) - 3-5 lb per packet/row at $4-5/lb. Eat pod and pea together. Higher value than shelling peas. 55-70 days, cool-season."
 hero_image: /images/crops/snap-pea.webp
 ---
 

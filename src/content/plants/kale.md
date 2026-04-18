@@ -4,7 +4,7 @@ scientific_name: Brassica oleracea var. acephala
 category: Vegetable
 days_min: 55
 days_max: 75
-avg_yield_lb: 2.0
+avg_yield_lb: 5.5
 avg_price_lb: 3.50
 start_cost: 3.00
 start_cost_label: "Seed packet"
@@ -12,7 +12,7 @@ is_common: true
 watering: Regular; 1–1.5 inches/week, consistent moisture reduces bitterness
 sunlight: Full sun to partial shade (4–6 hours minimum; accepts afternoon shade)
 companion_plants: [Dill, Nasturtium, Garlic]
-description: "Kale (Brassica oleracea var. acephala) - 2 lb per plant at $3.50/lb. Harvest outer leaves every 7-14 days to keep the plant producing through late fall frost."
+description: "Kale (Brassica oleracea var. acephala) - 5.5 lb per plant at $3.50/lb over an 8-month season. Harvest outer leaves every 7-14 days; plant survives frost to Zone 5."
 hero_image: /images/crops/kale.webp
 ---
 
