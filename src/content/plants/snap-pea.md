@@ -128,4 +128,4 @@ Fresh snap peas keep 3-5 days refrigerated in a sealed bag. For the best flavor,
 
 **Related crops:** [Garden Pea](/crops/garden-pea/), [Lettuce](/crops/lettuce/)
 
-**Related reading:** [Succession Planting Calendar](/guides/succession-planting-calendar/)  -  how to time spring and fall plantings of cool-season crops including snap peas
+**Related reading:** [Succession Planting Calendar](/guides/succession-planting-calendar/)  -  how to time spring and fall plantings of cool-season crops including snap peas; [First Garden: 10 Best Crops](/planning/beginner-10-crop-starter-guide/) - snap peas lead on quality gap; [Continuous Harvest Crops](/planning/continuous-harvest-crops/) - succession planting schedule

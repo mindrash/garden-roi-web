@@ -66,9 +66,9 @@ For longer storage, blend leaves with just enough olive oil to make a paste and 
 
 ---
 
-**Related crops:** [Tomato](/crops/tomato/), [Mint](/crops/mint/)
+**Related crops:** [Tomato](/crops/tomato/), [Mint](/crops/mint/), [Thai Basil](/crops/thai-basil/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Herb Garden ROI](/roi/herb-roi-comparison/)  -  the 8 highest-value culinary herbs compared; [Dehydrator ROI](/homestead/dehydrator-roi/)  -  dried basil returns $250+/lb retail equivalent; [Harvest Glut Triage](/homestead/harvest-glut-triage/)  -  what to do when your basil outpaces your kitchen
 
 *Companion planting note:* Basil is commonly planted near [tomatoes](/crops/tomato/) based on folk claims about improved flavor and pest deterrence. Volatile compounds from basil (*linalool*, *eugenol*) have shown repellent effects on *Spodoptera* species and aphids in laboratory studies (Hummelbrunner & Isman, *Journal of Chemical Ecology*, 2001). Field-scale yield benefit has not been consistently demonstrated. Grow them together for the culinary convenience of having both in the same bed; don't count on the pest deterrence as a control strategy.
 

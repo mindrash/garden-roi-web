@@ -148,4 +148,4 @@ If you let a few late-season plants flower and go to seed, the seed pods dry dow
 
 **Related crops:** [Lettuce](/crops/lettuce/), [Kale](/crops/kale/)
 
-**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  timing cool-season crops by zone so arugula has the right weather window to produce; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  why pre-washed arugula carries a premium that home-grown replaces at near-zero marginal cost
+**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  timing cool-season crops by zone so arugula has the right weather window to produce; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  why pre-washed arugula carries a premium that home-grown replaces at near-zero marginal cost; [Winter Garden Planning](/planning/winter-garden-planning/) - arugula survives to 22°F, extends the season; [Continuous Harvest Crops](/planning/continuous-harvest-crops/) - arugula succession every 2 weeks

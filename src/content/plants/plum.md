@@ -105,4 +105,4 @@ Don't pick and refrigerate immediately. Plums continue ripening after picking. L
 
 ---
 
-**Related reading:** [Mulberry](/crops/mulberry/) - another long-horizon perennial fruit; [Calendar](/calendar/) - pruning and spray timing by zone
+**Related reading:** [Mulberry](/crops/mulberry/) - another long-horizon perennial fruit; [Calendar](/calendar/) - pruning and spray timing by zone; [Fruit Tree Payback Timeline](/roi/fruit-tree-payback-timeline/) - when each tree covers its cost

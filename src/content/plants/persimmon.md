@@ -100,4 +100,4 @@ The Asian persimmon (Fuyu) matures faster - first meaningful harvest often at ye
 
 ---
 
-**Related reading:** [Pawpaw](/crops/pawpaw/) - another native American fruit with similar growing conditions; [Mulberry](/crops/mulberry/) - fellow underutilized native fruit tree
+**Related reading:** [Pawpaw](/crops/pawpaw/) - another native American fruit with similar growing conditions; [Mulberry](/crops/mulberry/) - fellow underutilized native fruit tree; [Fruit Tree Payback Timeline](/roi/fruit-tree-payback-timeline/) - when each tree covers its cost

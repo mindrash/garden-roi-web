@@ -123,4 +123,4 @@ Poor drainage is the other common failure mode. Pear roots in saturated soil dev
 
 **Related crops:** [Apple](/crops/apple/), [Blueberry](/crops/blueberry/), [Fig](/crops/fig/)
 
-**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/) - accounting for the establishment window before a tree fruit planting produces at full capacity
+**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/) - accounting for the establishment window before a tree fruit planting produces at full capacity; [Fruit Tree Payback Timeline](/roi/fruit-tree-payback-timeline/) - when each tree covers its cost

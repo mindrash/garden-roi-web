@@ -133,6 +133,6 @@ The practical takeaway: a 20-lb harvest in peak season is a processing decision,
 
 ---
 
-**Related crops:** [Raspberry](/crops/raspberry/), [Strawberry](/crops/strawberry/)
+**Related crops:** [Raspberry](/crops/raspberry/), [Strawberry](/crops/strawberry/), [Boysenberry](/crops/boysenberry/)
 
 **Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  how to track whether a perennial planting is paying off; [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  cane fruit ROI over the full productive life of an established planting

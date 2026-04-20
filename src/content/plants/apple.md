@@ -132,4 +132,4 @@ Garlic planted at the drip line of apple trees has documented suppressive effect
 
 **Related crops:** [Arugula](/crops/arugula/), [Garlic](/crops/garlic/)
 
-**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/) - accounting for the ramp-up period before a tree produces at full capacity
+**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/) - accounting for the ramp-up period before a tree produces at full capacity; [Fruit Tree Payback Timeline](/roi/fruit-tree-payback-timeline/) - when each tree covers its cost

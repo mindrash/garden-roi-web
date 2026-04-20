@@ -97,4 +97,4 @@ Hazelnuts ripen August-October depending on variety and location. The nuts signa
 
 ---
 
-**Related reading:** [Aronia](/crops/aronia/) - fellow productive native shrub; [Serviceberry](/crops/serviceberry/) - native companion with early-season harvest
+**Related reading:** [Aronia](/crops/aronia/) - fellow productive native shrub; [Serviceberry](/crops/serviceberry/) - native companion with early-season harvest; [Chestnut](/crops/chestnut/) - comparable nut tree with similar multi-year establishment timeline

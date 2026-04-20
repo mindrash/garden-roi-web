@@ -97,4 +97,4 @@ Fresh roots stored in the refrigerator (wrapped in plastic, not washed) keep 3-4
 
 ---
 
-**Related reading:** [Potato](/crops/potato/) - traditional companion; [Herb Preservation Guide](/articles/herb-preservation-guide/) - processing and storing root crops
+**Related reading:** [Potato](/crops/potato/) - traditional companion; [Herb Preservation Guide](/articles/herb-preservation-guide/) - processing and storing root crops; [Wasabi](/crops/wasabi/) - fellow Brassicaceae root crop with similar heat compounds

@@ -138,4 +138,4 @@ Kale chips are the most practical way to use a surplus. Dehydration concentrates
 
 **Related crops:** [Lettuce](/crops/lettuce/), [Garlic](/crops/garlic/)
 
-**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  how to time your cool-season plantings around frost dates to maximize the shoulder seasons; [Grocery Tier ROI](/roi/grocery-tier-roi/)  -  why organic kale sits in the highest-value tier home gardens can replace
+**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  how to time your cool-season plantings around frost dates to maximize the shoulder seasons; [Grocery Tier ROI](/roi/grocery-tier-roi/)  -  why organic kale sits in the highest-value tier home gardens can replace; [First Garden: 10 Best Crops](/planning/beginner-10-crop-starter-guide/) - kale as the highest-forgiveness beginner crop; [Continuous Harvest Crops](/planning/continuous-harvest-crops/) - kale as a cut-and-come-again perennial; [Winter Garden Planning](/planning/winter-garden-planning/) - kale improves after first frost

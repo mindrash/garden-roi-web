@@ -99,4 +99,4 @@ Parsley is genuinely versatile - it works raw in salads and sauces, cooked in st
 
 **Related crops:** [Arugula](/crops/arugula/), [Basil](/crops/basil/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  fresh herb retail prices and what home-grown replaces per season
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  fresh herb retail prices and what home-grown replaces per season; [Herb Garden ROI](/roi/herb-roi-comparison/)  -  parsley beats basil on gross value per plant

@@ -94,6 +94,6 @@ For jam: currants have some of the highest natural pectin content of any common 
 
 ---
 
-**Related crops:** [Gooseberry](/crops/gooseberry/), [Arugula](/crops/arugula/)
+**Related crops:** [Gooseberry](/crops/gooseberry/), [Arugula](/crops/arugula/), [Black Currant](/crops/black-currant/)
 
 **Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  how to think about perennial investments where year one returns nothing

@@ -103,4 +103,4 @@ After harvest: twist off the tops (which are edible and can be sauteed like turn
 
 **Related crops:** [Kale](/crops/kale/), [Arugula](/crops/arugula/)
 
-**Related reading:** [Succession Planting Calendar](/guides/succession-planting-calendar/)  -  how spacing plantings 2 weeks apart extends your radish season across the full spring and fall window
+**Related reading:** [Succession Planting Calendar](/guides/succession-planting-calendar/)  -  how spacing plantings 2 weeks apart extends your radish season across the full spring and fall window; [First Garden: 10 Best Crops](/planning/beginner-10-crop-starter-guide/) - 25 days to harvest, the fastest morale win; [Continuous Harvest Crops](/planning/continuous-harvest-crops/) - radish as the fastest succession crop

@@ -80,4 +80,4 @@ Fresh hot peppers store refrigerated for two to three weeks. The value multiplic
 
 **Related crops:** [Tomato](/crops/tomato/), [Green Bean](/crops/green-bean/)
 
-**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/) - how drying and preserving hot peppers changes the economics of a small raised bed; [Lacto-Fermentation Preservation](/homestead/lacto-fermentation-preservation/)  -  fermenting hot peppers into hot sauce and what the math looks like on preservation value
+**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/) - how drying and preserving hot peppers changes the economics of a small raised bed; [Lacto-Fermentation Preservation](/homestead/lacto-fermentation-preservation/)  -  fermenting hot peppers into hot sauce and what the math looks like on preservation value; [Dehydrator ROI](/homestead/dehydrator-roi/) - dried cayenne and paprika from garden peppers; [Harvest Glut Triage](/homestead/harvest-glut-triage/) - best preservation method for pepper gluts

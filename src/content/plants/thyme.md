@@ -104,4 +104,4 @@ Strip dried leaves from woody stems before storing. The woody stems are useful i
 
 **Related crops:** [Tomato](/crops/tomato/), [Oregano](/crops/oregano/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  perennial herbs like thyme that establish once and produce for 5-10 years without replanting
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  perennial herbs like thyme that establish once and produce for 5-10 years without replanting; [Herb Garden ROI](/roi/herb-roi-comparison/)  -  the 8 highest-value culinary herbs compared

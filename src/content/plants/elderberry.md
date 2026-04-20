@@ -141,4 +141,4 @@ The finished syrup keeps 2-3 months refrigerated in glass jars. For longer stora
 
 **Related crops:** [Arugula](/crops/arugula/), [Garlic](/crops/garlic/)
 
-**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  how to account for perennial production ramp-up in your break-even math
+**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  how to account for perennial production ramp-up in your break-even math; [Dehydrator ROI](/homestead/dehydrator-roi/) - dried elderberries at $15/lb, syrup math

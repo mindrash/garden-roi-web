@@ -125,6 +125,6 @@ For surplus beyond fresh eating: halve and dehydrate at 130°F for 18-24 hours, 
 
 ---
 
-**Related crops:** [Arugula](/crops/arugula/), [Strawberry](/crops/strawberry/)
+**Related crops:** [Arugula](/crops/arugula/), [Strawberry](/crops/strawberry/), [Dragon Fruit](/crops/dragon-fruit/)
 
-**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  accounting for a tree's ramp-up period before it produces at full capacity
+**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  accounting for a tree's ramp-up period before it produces at full capacity; [Fruit Tree Payback Timeline](/roi/fruit-tree-payback-timeline/) - when each tree covers its cost

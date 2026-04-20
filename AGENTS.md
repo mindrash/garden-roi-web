@@ -128,6 +128,29 @@ Mirror `constants/theme.ts` exactly. Key values:
 | Content skill | `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md` |
 | Task skill | `/Users/tlawson/.claude/skills/garden-roi-tasks/SKILL.md` |
 
+## Hero Images
+
+Crop and article hero images are sourced from **Unsplash** via two scripts in `scripts/`:
+
+| Script | Purpose |
+|--------|---------|
+| `scripts/download-crop-images.mjs` | Downloads `public/images/crops/*.webp` |
+| `scripts/download-article-images.mjs` | Downloads `public/images/articles/*.webp` |
+
+**Workflow to add images for new crop pages:**
+
+1. Ensure `UNSPLASH_KEY` is set in your environment (free Unsplash API key — never commit it)
+2. Add any needed search term overrides to the `SEARCH_OVERRIDES` object near the top of `download-crop-images.mjs` — the default query is just the slug with hyphens replaced by spaces, which works for common crops but not obscure ones (e.g., `agretti` needs `'samphire sea vegetable greens'`)
+3. Run: `node scripts/download-crop-images.mjs`
+4. The script downloads only missing images (skips slugs that already have a `.webp` in `public/images/crops/`)
+5. Commit the new `.webp` files
+
+**Image specs:** 1200×630px WebP at quality 82, processed via `sharp`. Matches Open Graph dimensions. Rate limited to 1 request per 1.5 seconds (Unsplash free tier: 50 req/hour).
+
+**Frontmatter:** The `hero_image` field is already set on all new plant pages as `/images/crops/[slug].webp`. The field is optional — pages without a matching image file fall back to `/logo.png` for OG images and render no `<img>` element on the crop page.
+
+**Adding search overrides for new specialty crops:** Obscure crops (wasabi, cardoon, ashwagandha, etc.) will likely return poor Unsplash results without overrides. Add an entry to `SEARCH_OVERRIDES` in the script before running. Example: `'ashwagandha': 'withania somnifera root herb'`.
+
 ## API Endpoints
 
 `/api/tips.json` and `/api/plants.json` must remain valid — the mobile app will consume these.

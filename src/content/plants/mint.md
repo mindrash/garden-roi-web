@@ -118,6 +118,6 @@ Container mint becomes root-bound after two to three years. When you see roots c
 
 ---
 
-**Related crops:** [Basil](/crops/basil/), [Tomato](/crops/tomato/)
+**Related crops:** [Basil](/crops/basil/), [Tomato](/crops/tomato/), [Catnip](/crops/catnip/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about common pairings, including mint's claimed pest-deterrent effects; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/) - why fresh herbs show the largest premium between home-grown and retail organic prices
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about common pairings, including mint's claimed pest-deterrent effects; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/) - why fresh herbs show the largest premium between home-grown and retail organic prices; [Herb Garden ROI](/roi/herb-roi-comparison/)  -  the 8 highest-value culinary herbs compared

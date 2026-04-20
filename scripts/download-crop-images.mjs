@@ -74,6 +74,17 @@ const SEARCH_OVERRIDES = {
   'scorzonera': 'scorzonera black salsify root vegetable',
   'sea-kale': 'sea kale crambe maritime coastal plant',
   'tepary-bean': 'bean pods drying harvest dry beans',
+  // Specialty crops batch (added 2026-04-20)
+  'thai-basil': 'thai basil purple stems herb',
+  'boysenberry': 'blackberry dark purple berries harvest',
+  'black-currant': 'black currant ribes nigrum berries',
+  'chestnut': 'chestnut castanea nuts harvest',
+  'dragon-fruit': 'dragon fruit pitaya pink cactus',
+  'ashwagandha': 'ashwagandha withania root herb',
+  'wasabi': 'wasabi paste green Japanese condiment',
+  'cardoon': 'cardoon cynara thistle vegetable',
+  'catnip': 'catnip nepeta cataria herb',
+  'pecan': 'pecan nuts harvest tree',
 };
 
 function searchTerm(slug) {

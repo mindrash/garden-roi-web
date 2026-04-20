@@ -102,4 +102,4 @@ The most important thing to know about cooking with chives is that they don't to
 
 **Related crops:** [Garlic](/crops/garlic/), [Tomato](/crops/tomato/)
 
-**Related reading:** [Beginner Homestead Crops](/homestead/beginner-homestead-crops/)  -  which perennial herbs offer the best long-term return for first-time growers; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  why fresh herbs sit in the highest-premium tier between home-grown and retail organic prices
+**Related reading:** [Beginner Homestead Crops](/homestead/beginner-homestead-crops/)  -  which perennial herbs offer the best long-term return for first-time growers; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  why fresh herbs sit in the highest-premium tier between home-grown and retail organic prices; [Herb Garden ROI](/roi/herb-roi-comparison/)  -  the 8 highest-value culinary herbs compared; [First Garden: 10 Best Crops](/planning/beginner-10-crop-starter-guide/)  -  chives as the perennial starter herb

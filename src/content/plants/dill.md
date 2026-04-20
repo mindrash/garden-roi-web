@@ -100,4 +100,4 @@ Dill fronds and dill seed are chemically distinct and function differently in th
 
 **Related crops:** [Cucumber](/crops/cucumber/), [Lettuce](/crops/lettuce/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Lacto-Fermentation Preservation](/homestead/lacto-fermentation-preservation/)  -  dill's role in fermented pickles and why growing your own changes the economics of a ferment
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Lacto-Fermentation Preservation](/homestead/lacto-fermentation-preservation/)  -  dill's role in fermented pickles and why growing your own changes the economics of a ferment; [Herb Garden ROI](/roi/herb-roi-comparison/)  -  dill leads at 5.5x ROI multiple; [Dehydrator ROI](/homestead/dehydrator-roi/)  -  dried dill returns $150+/lb retail equivalent

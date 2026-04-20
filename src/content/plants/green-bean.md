@@ -125,4 +125,4 @@ At peak season, check plants every two to three days. More frequent picking sust
 
 **Related crops:** [Cucumber](/crops/cucumber/), [Lettuce](/crops/lettuce/)
 
-**Related reading:** [Beginner Homestead Crops](/homestead/beginner-homestead-crops/) - which vegetables make sense for first-season gardens and why; [Freezer Math: Garden ROI](/homestead/freezer-math-garden-roi/) - the economics of blanching and freezing a green bean surplus
+**Related reading:** [Beginner Homestead Crops](/homestead/beginner-homestead-crops/) - which vegetables make sense for first-season gardens and why; [Freezer Math: Garden ROI](/homestead/freezer-math-garden-roi/) - the economics of blanching and freezing a green bean surplus; [First Garden: 10 Best Crops](/planning/beginner-10-crop-starter-guide/) - bush beans as the easiest legume for year one

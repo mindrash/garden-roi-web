@@ -103,4 +103,4 @@ Fresh rosemary keeps 1-2 weeks refrigerated in a slightly damp paper towel insid
 
 **Related crops:** [Sage](/crops/sage/), [Thyme](/crops/thyme/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common herb pairings; [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  why perennial herbs like rosemary compound their return every year with zero replanting cost
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common herb pairings; [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  why perennial herbs like rosemary compound their return every year with zero replanting cost; [Herb Garden ROI](/roi/herb-roi-comparison/)  -  the 8 highest-value culinary herbs compared

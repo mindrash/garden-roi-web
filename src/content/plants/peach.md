@@ -114,4 +114,4 @@ Fertilization: 1 lb of 10-10-10 per inch of trunk diameter in early spring, up t
 
 **Related crops:** [Arugula](/crops/arugula/), [Garlic](/crops/garlic/)
 
-**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)
+**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/); [Fruit Tree Payback Timeline](/roi/fruit-tree-payback-timeline/) - when each tree covers its cost

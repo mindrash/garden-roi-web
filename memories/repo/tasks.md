@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 18, 2026 (CE001-CE005, NP001, CX001, AR001 complete)_
+_Last updated: April 18, 2026 (CE001-CE005, NP001, CX001, AR001 complete; P094-P103 done; AR002-AR010 done)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -662,7 +662,7 @@ _These stories came out of an external product review. Each is independent - any
 ---
 
 ### D003 — Hero Images for Crop and Article Pages
-**Status:** `[>]`
+**Status:** `[x]`
 **Agent fit:** Any agent (asset sourcing is a human task - this story is for wiring them up once images exist).
 **Files:** `src/content/plants/*.md`, `src/content/articles/*.md`, `public/images/`
 **What:** All 22 crop pages and 16 article pages are missing hero images. The `hero_image` field is in the schema and used in the template - it just needs images and frontmatter entries.
@@ -5059,3 +5059,493 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 - publishDate, category (roi), description, title all correct in frontmatter
 - `npx astro build` passes with 0 errors
 
+
+---
+
+## New Plant Sprint 2 (NP2) — Specialty & Tree Crops
+
+---
+
+### P094 — thai-basil.md
+**Status:** `[x]`
+**Files:** `src/content/plants/thai-basil.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Plant encyclopedia entry for Thai basil (*Ocimum basilicum* var. *thyrsiflora*), a distinct species from sweet basil with anise/licorice flavor, purple stems, and significantly higher retail price per pound due to limited availability.
+**Details:**
+- Frontmatter: name: Thai Basil, scientific_name: Ocimum basilicum var. thyrsiflora, category: Herb, days_min: 60, days_max: 90, avg_yield_lb: 0.5, avg_price_lb: 18.00, start_cost: 3.49, start_cost_label: "Seed packet", is_common: false, watering: "Moderate; 1 inch/week", sunlight: "Full sun (6+ hours)", companion_plants: ["Tomato", "Pepper"]
+- Distinguish from sweet basil clearly: Thai basil (*O. basilicum* var. *thyrsiflora*) has purple stems, stiff waxy leaves, and an anise-licorice flavor from methyl chavicol (estragole) rather than the linalool-forward flavor of sweet basil. It is a different variety — not interchangeable in Thai cooking.
+- The ROI case: Thai basil retails at $2.99-4.99 per small bunch at Asian grocery stores; bunch weight is typically 2-4 oz, equivalent to $12-24/lb. The $18/lb figure is a conservative midpoint. Sweet basil by comparison: $14.99/lb. Thai basil is less available than sweet basil, which drives the premium. At a specialty grocer or natural food store, Thai basil regularly runs $20-25/lb.
+- Growing notes: same cultural requirements as sweet basil — heat-loving, frost-sensitive, full sun. However, Thai basil bolts more slowly than sweet basil under heat stress. The firmer leaf structure also makes it easier to harvest cleanly. Pinch flower buds to prolong leaf production, same as sweet basil.
+- Flavor chemistry: methyl chavicol (estragole) is the primary aromatic compound — same compound found in fennel and star anise. Cite Duke's Phytochemical and Ethnobotanical Databases or a peer-reviewed analysis of *O. basilicum* chemotype variation.
+- Culinary uses: Thai curries (green, red, massaman), pho, larb. Distinctly different application from Italian sweet basil — not a substitute in either direction. Frame this as a specialty crop with a captive market (Asian cooking households) and limited supermarket availability.
+- Include variety comparison: 'Siam Queen' (All-America Selections 1997 winner, most common; compact habit, large leaves), 'Cardinal' (ornamental, purple flowers; lower culinary yield but striking), unnamed Thai market types from Asian seed suppliers (Kitazawa Seed Co.)
+- Hero image: /images/crops/thai-basil.webp
+**Acceptance:**
+- Page is 1600+ words
+- Contains ROI calculation with sourced per-pound price
+- Flavor chemistry section with named compound and citation
+- Variety table with at least 3 entries
+- `npx astro build` passes with 0 errors
+
+---
+
+### P095 — boysenberry.md
+**Status:** `[x]`
+**Files:** `src/content/plants/boysenberry.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Plant encyclopedia entry for boysenberry (*Rubus* ursinus x idaeus hybrid), a large trailing cane berry with exceptional flavor and poor fresh-market availability — the ROI case rests on what you can't buy.
+**Details:**
+- Frontmatter: name: Boysenberry, scientific_name: Rubus ursinus x idaeus, category: Fruit, days_min: 60, days_max: 90, avg_yield_lb: 4.0, avg_price_lb: 7.00, start_cost: 12.99, start_cost_label: "Bare-root cane", is_common: false, watering: "Regular; 1-1.5 inches/week", sunlight: "Full sun (6+ hours)", companion_plants: ["Garlic", "Mint"]
+- Historical context: boysenberry was developed by Rudolph Boysen in the 1920s in California; Walter Knott of Knott's Berry Farm commercially popularized it in the 1930s. The berry is a complex hybrid of loganberry (itself a blackberry x red raspberry cross) with dewberry. The precise parentage is still debated in horticultural literature.
+- Why you can't buy them: boysenberries have very soft fruit that bruises easily and has only a 1-2 day shelf life fresh. Commercial fresh berry distribution requires 7-10 days in the supply chain. This makes commercially grown fresh boysenberries essentially non-existent in mainstream grocery stores; most boyberry products are frozen, canned, or jam. If you want fresh boysenberries, you grow them. This is the core ROI argument — the product isn't available for comparison purchase.
+- Retail price reference: frozen boysenberries at specialty stores run $6-9/lb; fresh at u-pick farms (where they exist) run $5-8/lb. USDA AMS Specialty Crop Market News doesn't carry boysenberry data consistently — cite u-pick pricing and frozen berry market as reference.
+- Cane management: boysenberries produce on second-year canes (floricanes), same as blackberries. First-year canes (primocanes) are vegetative only. After harvest, remove floricanes to the ground; primocanes that fruited are done. Train new primocanes up the trellis for next year's crop. Without trellis and management, boysenberries become an impenetrable trailing mess.
+- Zone range: zones 5-9. They are less cold-hardy than blackberries; primocanes need protection in zones 5-6 (cover or mulch heavily before first freeze). In zones 8-9, they thrive with minimal care.
+- Yield and multi-year table: year 1 = 0 (primocanes only), year 2 = 2-3 lb/plant, year 3+ = 4-6 lb/plant as the root system matures. Build a table showing this ramp.
+- Hero image: /images/crops/boysenberry.webp
+**Acceptance:**
+- Page is 1600+ words
+- Contains cane management explanation (primocane/floricane cycle)
+- Multi-year yield table (years 1-3+)
+- Addresses the fresh availability argument clearly (why home-grown is the only way to get fresh boysenberries)
+- `npx astro build` passes with 0 errors
+
+---
+
+### P096 — black-currant.md
+**Status:** `[x]`
+**Files:** `src/content/plants/black-currant.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Plant encyclopedia entry for black currant (*Ribes nigrum*), a high-vitamin-C shrub berry with significant legal history in the US (federal ban lifted 2003 but some states still restrict planting). The site already has currant.md (covering red and white currant); this page is specifically for *R. nigrum* and its distinct flavor, uses, and growing profile.
+**Details:**
+- Frontmatter: name: Black Currant, scientific_name: Ribes nigrum, category: Fruit, days_min: 90, days_max: 120, avg_yield_lb: 4.0, avg_price_lb: 10.00, start_cost: 14.99, start_cost_label: "Bare-root plant", is_common: false, watering: "Regular; 1 inch/week", sunlight: "Full sun to partial shade", companion_plants: ["Arugula", "Garlic"]
+- Legal history: black currants were banned in many US states in the early 1900s because *Ribes* spp. serve as an alternate host for white pine blister rust (*Cronartium ribicola*), a fungal disease that devastated the timber industry. The federal ban was lifted in 1966 and turned over to states; many states maintained their own bans. As of 2024, most states have lifted restrictions but some northeastern and upper midwest states still regulate or restrict *Ribes* planting. Cite Cornell Cooperative Extension white pine blister rust documentation and recommend readers check their state's department of agriculture. This is important practical information — a reader could legally be restricted from growing this plant.
+- Flavor and use: black currant flavor is described as intense, earthy, slightly resinous — very different from red or white currant. Used in Cassis (crème de cassis liqueur), jams, syrups, wines. The fruit contains 3-5× the vitamin C of oranges per gram (cite USDA National Nutrient Database or equivalent). In the UK, Ribena (black currant cordial) is a mainstream product; in the US, fresh black currants are rare enough to be specialty items.
+- Retail pricing: fresh black currants at specialty produce markets run $8-14/lb when available. Dried black currants: $12-20/lb. Frozen: $5-8/lb. Fresh fruit at farmers markets commands the premium. Use $10/lb as a conservative midpoint.
+- Growing: black currant is a multi-stemmed shrub, easier to manage than cane fruits. Produces on both one-year and two-year wood (unlike red currant which fruits mainly on spurs). Renewal pruning: cut 1/3 of oldest canes to ground annually to encourage new productive wood. Yields are consistent from year 3 onward: 3-6 lb per mature plant annually. USDA cold hardiness zones 3-6 for most varieties; needs winter chill hours.
+- Varieties: 'Ben Sarek' (dwarf, very high yield, downy mildew resistant; Agriculture Canada/Scottish Crop Research Institute), 'Consort' (rust-resistant, important in areas where blister rust is a concern; Cornell Agricultural Experiment Station selection), 'Tiben' (large berry, high sugar; Czech Republic origin, widely available in US nurseries)
+- Hero image: /images/crops/black-currant.webp
+**Acceptance:**
+- Page is 1600+ words
+- Contains clear legal/restriction section with state-check recommendation
+- Multi-year yield data with variety comparison table
+- Flavor and use section distinguishes black currant clearly from red/white currant
+- `npx astro build` passes with 0 errors
+
+---
+
+### P097 — chestnut.md
+**Status:** `[x]`
+**Files:** `src/content/plants/chestnut.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Plant encyclopedia entry for chestnut (*Castanea* spp.), a tree nut crop with a 10-20 year production horizon and compelling lifetime ROI for gardeners with land. Focus on American-Asian hybrids bred for blight resistance after the American chestnut (*C. dentata*) was functionally wiped out by chestnut blight (*Cryphonectria parasitica*) in the early 20th century.
+**Details:**
+- Frontmatter: name: Chestnut, scientific_name: Castanea spp., category: Fruit, days_min: 90, days_max: 120, avg_yield_lb: 20.0, avg_price_lb: 4.00, start_cost: 29.99, start_cost_label: "Bare-root tree", is_common: false, watering: "Moderate; drought tolerant once established", sunlight: "Full sun (6+ hours)", companion_plants: ["Comfrey", "Garlic"]
+- Historical context (important and compelling): the American chestnut (*Castanea dentata*) was functionally eliminated from eastern North American forests between 1904 and 1940 by chestnut blight (*Cryphonectria parasitica*), an Asian fungal pathogen introduced on Japanese chestnut nursery stock imported to the Bronx Zoo. An estimated 3-4 billion trees were killed — one of the most catastrophic ecological events in North American history. The American Chestnut Foundation has been breeding blight-resistant American-Chinese hybrids since 1983. Home growers today plant primarily *C. mollissima* (Chinese chestnut), *C. crenata* (Japanese chestnut), or hybrid cultivars from the Dunstan Chestnut program (Chestnut Hill Outdoors) or USDA breeding work.
+- Why the home ROI case matters: retail chestnuts run $3-6/lb fresh in fall at grocery stores; $5-8/lb at farmers markets. Most commercial US chestnut production is imported or from small specialty orchards — there is genuine market demand that home growers and small landholders can supply. A mature 15-year-old chestnut tree can yield 40-80 lb of nuts per season.
+- Multi-year production table: year 1-3 = 0 (establishment), year 4-5 = 5-10 lb, year 6-8 = 10-25 lb, year 9+ = 25-50+ lb. Total 20-year ROI at $4/lb: significant. Build the table.
+- Planting requirements: chestnuts require two varieties for cross-pollination (unlike most tree nuts, they are not self-fertile). Plant two different cultivars within 40-50 feet. Soil pH 5.0-6.5 — they are acid-loving and intolerant of alkaline soil or compaction. Well-drained loam or sandy loam preferred; they tolerate poor soil but not waterlogged.
+- Dunstan Chestnut is the primary commercially available blight-resistant hybrid in the US; developed by Dr. Robert Dunstan in the 1950s by crossing a surviving American chestnut tree (resistant by chance) with Chinese chestnut. It is sold by Chestnut Hill Outdoors and produces large nuts with good flavor. Other sources: Nolin River Nut Tree Nursery, Burnt Ridge Nursery.
+- Harvest and storage: chestnuts fall naturally when ripe (different from other tree nuts). Collect burrs from the ground; they open on their own at maturity. Do not harvest unripe. Chestnuts have high moisture content (50-60%) unlike other tree nuts — they cannot be stored at room temperature for long. Refrigerate for 1-3 months or freeze for up to 1 year. Unlike walnuts and pecans, chestnuts are primarily starch-based (not oil-based) and are used more like a grain — roasting, flour, stuffings.
+- Zone range: *C. mollissima* zones 4-8; *C. crenata* zones 5-9; Dunstan hybrids zones 5-9.
+- Hero image: /images/crops/chestnut.webp
+**Acceptance:**
+- Page is 1800+ words (tree crop warrants extra depth given long investment horizon)
+- American chestnut blight history included — this is context readers need to understand the species
+- Multi-year yield table (years 1-20 timeline)
+- Cross-pollination requirement clearly stated (two-variety planting)
+- Harvest and storage section addresses high moisture content
+- `npx astro build` passes with 0 errors
+
+---
+
+### P098 — dragon-fruit.md
+**Status:** `[x]`
+**Files:** `src/content/plants/dragon-fruit.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Plant encyclopedia entry for dragon fruit / pitaya (*Selenicereus undatus*, formerly *Hylocereus undatus*), a vining tropical cactus with dramatically high retail prices and viable home production in zones 9-11 (or containers in colder zones).
+**Details:**
+- Frontmatter: name: Dragon Fruit, scientific_name: Selenicereus undatus, category: Fruit, days_min: 30, days_max: 50, avg_yield_lb: 10.0, avg_price_lb: 8.00, start_cost: 14.99, start_cost_label: "Cutting or plant", is_common: false, watering: "Low to moderate; drought tolerant", sunlight: "Full sun (6+ hours)", companion_plants: ["Passion Fruit", "Citrus"]
+- Note: the days_min/days_max refer to time from flower to ripe fruit (30-50 days), not from planting to first fruit. First fruit typically occurs 12-18 months from a rooted cutting in good conditions, 2-3 years from seed. Clarify this in the body.
+- Species note: the most common commercial variety (*S. undatus*) has white flesh; *S. costaricensis* and *S. megalanthus* have red flesh and yellow skin variants respectively. Reclassification from *Hylocereus* to *Selenicereus* was confirmed by USDA PLANTS database following phylogenetic revision (Korotkova et al., 2017, *Willdenowia*).
+- The ROI case: dragon fruit retails for $5-12 per individual fruit at US grocery stores; individual fruits weigh 0.5-1.5 lb. This is $4-24/lb depending on the store and variety. USDA AMS Specialty Crop Market News shows wholesale dragon fruit at $1-3/lb for conventional imported product. The large premium at retail reflects specialty status. For red-flesh varieties ('Physical Graffiti', 'American Beauty'), prices run higher. A mature plant yields 4-6 fruiting cycles per year, each cycle producing multiple fruits per plant.
+- Growing zones: viable in the ground in USDA zones 9-11 (frost-free or very light frost only). In zones 7-8, plants can survive with protection but production is reduced. In zones 4-6, container growing with overwinter indoors is required; this changes the economics significantly.
+- Support structure: dragon fruit is a vining cactus that needs a sturdy trellis or post — at minimum a 6-inch diameter post set 5-6 feet tall, with a circular support platform at the top. The vine can reach 20+ feet and produce for 20-30 years. University of Florida IFAS is the primary US research source for dragon fruit production; cite their dragon fruit growing guide.
+- Pollination: most common commercial varieties (*S. undatus*) are self-fertile. Some varieties require cross-pollination. Night-blooming flowers open for only one night; the window for hand-pollination (important for indoor/container plants with limited pollinators) is 10pm-2am. Use a small paintbrush to transfer pollen.
+- Varieties to mention: 'American Beauty' (red flesh, self-fertile, bred for US conditions), 'Physical Graffiti' (red flesh, higher sugar, from nurseries like California Tropicals), 'Neitzel' (white flesh, reliable producer, disease-resistant for Florida conditions), 'Edgar's Baby' (smaller fruit, very productive)
+- Hero image: /images/crops/dragon-fruit.webp
+**Acceptance:**
+- Page is 1600+ words
+- Species/variety overview table with at least 3 varieties
+- Container vs. in-ground growing section with zone guidance
+- Pollination section including hand-pollination instructions for indoor plants
+- `npx astro build` passes with 0 errors
+
+---
+
+### P099 — ashwagandha.md
+**Status:** `[x]`
+**Files:** `src/content/plants/ashwagandha.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Plant encyclopedia entry for ashwagandha (*Withania somnifera*), an Ayurvedic medicinal root crop with very high dried-root value at retail and viable production in zone 7+ as an annual or short-lived perennial.
+**Details:**
+- Frontmatter: name: Ashwagandha, scientific_name: Withania somnifera, category: Herb, days_min: 150, days_max: 180, avg_yield_lb: 0.5, avg_price_lb: 40.00, start_cost: 2.99, start_cost_label: "Seed packet", is_common: false, watering: "Low; drought tolerant once established", sunlight: "Full sun (6+ hours)", companion_plants: ["Garlic", "Basil"]
+- The ROI case is explicit: dried ashwagandha root at bulk herb suppliers runs $20-35/lb; retail products (capsules, powders) price the root equivalent at $40-80/lb once you back-calculate from the product contents. A single plant produces 0.25-0.75 lb of fresh root, which dries to approximately 0.1-0.3 lb. At $40/lb for dried root, one plant yields $4-12 in equivalent retail value from a $0.06 in seed (typical price per seed at 50 seeds per packet). The high per-pound value makes this a legitimate homestead medicinal crop.
+- Important caveat: home-grown ashwagandha root is for personal use. The root cannot be sold as a supplement without FDA compliance (GMP certification for dietary supplements). Frame clearly: grow for your own use, not for sale.
+- Growing profile: ashwagandha is native to India, the Mediterranean, and North Africa. It's in the Solanaceae family (nightshade family — same as tomato, pepper, eggplant). Grown as a long-season annual in most of the US. The plant needs warm temperatures (70-95°F) and full sun; it is drought-tolerant and actually performs better in poor, well-drained soil than in rich garden soil. High fertility leads to more vegetative growth and less root development.
+- Harvest: roots are harvested in late fall when the plant begins to die back after setting berries. Dig carefully — the taproot can be 12-18 inches deep. Wash roots, slice into 1/4-inch rounds, dry at 100-110°F in a dehydrator until fully dry (12-18 hours). Store in airtight glass jars. Properly dried root keeps 1-2 years.
+- Zone considerations: grows as an annual in zones 5-7; perennial in zones 8-11 (plant survives winter but root is harvested in fall in all zones regardless). In zones 5-6, start indoors 6-8 weeks before last frost to get a full season.
+- Safety note: ashwagandha is contraindicated in pregnancy (uterine stimulant properties documented in Ayurvedic and some clinical literature). Note this without overstating it.
+- Variety note: most ashwagandha sold is unnamed or from Indian landrace populations. 'Poshita' is one commercial variety with documented higher withanolide content (the active compound class). Cite USDA or NIH National Center for Complementary and Integrative Health for basic safety/use information.
+- Hero image: /images/crops/ashwagandha.webp
+**Acceptance:**
+- Page is 1600+ words
+- ROI calculation with dried-root weight-loss factor (fresh to dry ratio)
+- Soil fertility caveat (less fertility = better root)
+- Pregnancy contraindication noted
+- `npx astro build` passes with 0 errors
+
+---
+
+### P100 — wasabi.md
+**Status:** `[x]`
+**Files:** `src/content/plants/wasabi.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Plant encyclopedia entry for wasabi (*Eutrema japonicum*), the most expensive culinary crop by weight that's viable for home production. High fail rate, high reward, genuinely difficult to grow — don't oversell it.
+**Details:**
+- Frontmatter: name: Wasabi, scientific_name: Eutrema japonicum, category: Herb, days_min: 540, days_max: 720, avg_yield_lb: 0.25, avg_price_lb: 100.00, start_cost: 12.99, start_cost_label: "Rhizome or plant", is_common: false, watering: "High; constant moisture, never waterlogged", sunlight: "Partial shade (2-4 hours dappled)", companion_plants: ["Arugula", "Watercress"]
+- Note on days_min/days_max: this is 18-24 months (540-720 days) from planting to a harvestable rhizome of meaningful size. This is the most important single fact about growing wasabi and must be stated clearly at the top.
+- The ROI case: fresh wasabi rhizome retails for $70-160/lb in the US — it is the most expensive culinary ingredient by weight available in the American fresh produce market. Most "wasabi" in restaurants and stores is dyed horseradish paste; true *E. japonicum* rhizome is almost never available to consumers outside of high-end Japanese restaurants. A single plant yielding 0.25 lb of rhizome at $100/lb = $25 of product. That sounds modest, but the input cost is a $12.99 plant and 18-24 months of patience, not ongoing expense.
+- Why it's so expensive: wasabi requires very specific conditions — consistently cool temperatures (50-70°F), high humidity, indirect light, near-constant moisture without waterlogging, and clean water. It evolved in the streamside environments of Japanese mountain forests. Commercial production in Japan is done in sawa (streamside channels) with continuously flowing cold spring water. The difficulty of replicating this environment is why fresh wasabi costs what it does.
+- Home growing feasibility: achievable in zones 7-9 in a shaded, moist garden bed, or indoors under controlled conditions. The Pacific Northwest (zones 8-9 with cool, wet climate) is the best region in the continental US. Key management: shade cloth 50-70% to filter direct sun; consistent moisture from misting or drip irrigation; cool temperatures year-round (wasabi goes dormant or dies above 85°F). The plant is a close relative of arugula and watercress (all Brassicaceae).
+- Plant vs. rhizome purchasing: most home growers start from plants or offsets (pups), not seeds. Seeds are difficult to germinate and slow. Commercial sources in the US: Pacific Coast Wasabi (Washington State), some specialty herb nurseries. Starting from seed takes 3+ years to harvest. Starting from a division or plant from a reliable source takes 18-24 months.
+- Harvest: the rhizome (not technically a root — it's a modified stem) is ready when it reaches 2-3 cm in diameter. Grate only what you use immediately — the volatile isothiocyanate compounds that give wasabi its flavor dissipate within 15-20 minutes of grating. This is why restaurant-quality fresh wasabi cannot be replicated with any packaged product.
+- After harvest, the plant produces sideshoots (kokanme) and leaves that continue to grow; harvest does not kill the plant.
+- Hero image: /images/crops/wasabi.webp
+**Acceptance:**
+- Page is 1600+ words
+- Lead clearly states 18-24 months to harvest (not buried)
+- Growing conditions section explains why these requirements exist (Japanese streamside ecology)
+- 15-20 minute flavor window after grating explained
+- Pacific Northwest regional suitability addressed
+- `npx astro build` passes with 0 errors
+
+---
+
+### P101 — cardoon.md
+**Status:** `[x]`
+**Files:** `src/content/plants/cardoon.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Plant encyclopedia entry for cardoon (*Cynara cardunculus* var. *altilis*), the artichoke's wild ancestor. Grown for its blanched leaf stalks (not the flower bud), it's a tall architectural vegetable that's almost completely absent from US grocery stores — making home growing the only practical way to eat it.
+**Details:**
+- Frontmatter: name: Cardoon, scientific_name: Cynara cardunculus var. altilis, category: Vegetable, days_min: 120, days_max: 150, avg_yield_lb: 3.0, avg_price_lb: 6.00, start_cost: 3.49, start_cost_label: "Seed packet", is_common: false, watering: "Regular; 1-1.5 inches/week", sunlight: "Full sun (6+ hours)", companion_plants: ["Artichoke", "Fennel"]
+- Botanical relationship: cardoon is the wild ancestor of the globe artichoke (*Cynara cardunculus* var. *scolymus*). The artichoke was domesticated for its edible flower bud; cardoon was domesticated separately for its edible leaf stalks. Same species, different selection pressure over centuries of cultivation. The plant looks like a very large, thornier artichoke — it can reach 5-6 feet tall.
+- What you eat: the inner leaf stalks and midribs, harvested after blanching. Blanching (wrapping or tying the plant for 3-4 weeks to exclude light) removes bitterness and whitens the stalks. Without blanching, the stalks are intensely bitter and basically inedible. This is a distinct step — not optional.
+- Flavor and availability: blanched cardoon stalks taste like a cross between artichoke and celery, with a slight bitterness remaining. It is a traditional ingredient in Piedmontese bagna cauda, Christmas stews in southern France and North Africa, and Sicilian cuisine. Retail availability: essentially nonexistent outside specialty Italian grocers in major cities. Farmers market price when available: $4-8/lb. The $6/lb figure is a reasonable midpoint.
+- Growing: cardoon is typically started indoors 8-10 weeks before last frost. It needs a long season (120-150 days) and does not tolerate heavy frost as a seedling, though established plants are surprisingly hardy (zone 7+ reliably, zone 6 with protection). In zones 8-10, cardoon can be grown as a perennial. In colder zones, treat as an annual.
+- Blanching technique: about 3-4 weeks before intended harvest, tie the leaves together loosely around the plant into a column, then wrap with burlap, paper, or corrugated cardboard to exclude light. This etiolation process removes chlorophyll and breaks down the bitter compounds. Harvest at or just before first frost for peak tenderness.
+- Culinary use section: bagna cauda preparation (anchovy, garlic, butter/olive oil sauce) as the classic pairing; cardoon gratin (traditional Christmas Eve dish in Piedmont); Moroccan tagine with cardoon and preserved lemon.
+- Hero image: /images/crops/cardoon.webp
+**Acceptance:**
+- Page is 1600+ words
+- Botanical relationship to artichoke clearly explained
+- Blanching step described with specific technique (3-4 weeks, materials, method)
+- Culinary uses with at least one specific preparation
+- `npx astro build` passes with 0 errors
+
+---
+
+### P102 — catnip.md
+**Status:** `[x]`
+**Files:** `src/content/plants/catnip.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Plant encyclopedia entry for catnip (*Nepeta cataria*), a dual-market herb: culinary and wellness use (mild sedative tea) and pet market (cat toys, catnip spray). Growing for home use is straightforward; the ROI case covers both uses.
+**Details:**
+- Frontmatter: name: Catnip, scientific_name: Nepeta cataria, category: Herb, days_min: 75, days_max: 90, avg_yield_lb: 0.5, avg_price_lb: 15.00, start_cost: 2.99, start_cost_label: "Seed packet", is_common: false, watering: "Low to moderate; drought tolerant once established", sunlight: "Full sun to partial shade", companion_plants: ["Squash", "Cucumber", "Mint"]
+- Botanical note: *N. cataria* is in the mint family (Lamiaceae); not to be confused with catmint (*N. mussinii* or *N. faassenii*), which is primarily ornamental, has smaller flowers, and less of the nepetalactone compound that attracts cats. Catmint is the garden perennial; catnip is the one that does something to cats.
+- The cat response: nepetalactone, the primary volatile compound in *N. cataria*, binds to feline olfactory receptors and triggers a response in approximately 50-70% of cats (the response is genetic; some cats don't react). The response is non-harmful: typically 5-15 minutes of rolling, rubbing, and vocalizing, followed by a refractory period of 30 minutes during which the cat cannot be re-stimulated. Cite a peer-reviewed source: Hatch (1972), *Economic Botany*, or Bol et al. (2017), *iScience* — the latter confirmed nepetalactone activates the same opioid system as other feline chemical stimulants.
+- Culinary and wellness use: the human use of catnip is as a mild sedative tea. The same nepetalactone compounds, via ingestion rather than inhalation, produce a mild calming effect in humans similar to mild chamomile. Used in Europe for centuries for insomnia and anxiety. USDA Natural Products Laboratory has documented the active compounds; cite the USDA Database of Bioactive Compounds in Plants.
+- The ROI case: dried catnip retails at $10-20/lb at pet stores and $12-20/lb at herb suppliers. A productive plant yields 0.3-0.75 lb of harvestable aerial parts per season (leaves, stems, flower buds). At $15/lb, that's $4.50-11.25 per plant. Multiple plants = meaningful savings for households with cats.
+- Growing: *N. cataria* is a perennial in zones 3-9. Start from seed (slow — 2-4 weeks to germinate) or division. Seedlings need protection from cats until established — cats will destroy young plants in the seedling stage. Once woody and established, the plant can tolerate cat attention better, though some protection (cages) is useful in the first season.
+- Harvest: harvest aerial parts (leaves, stems, flowers) in mid-season before the plant fully flowers for highest nepetalactone content. Cut plants back by half; they will rebound for a second harvest in the same season.
+- Companion planting note: catnip is documented to repel aphids, flea beetles, and squash bugs due to nepetalactone's insecticidal properties. Cornell Cooperative Extension documents catnip as a natural insect deterrent. This is the companion plant case.
+- Hero image: /images/crops/catnip.webp
+**Acceptance:**
+- Page is 1600+ words
+- Catnip vs. catmint distinction clearly made
+- Nepetalactone chemistry and cat response explained with citation
+- Human use (tea, calming effect) documented
+- Companion planting repellent properties cited
+- `npx astro build` passes with 0 errors
+
+---
+
+### P103 — pecan.md
+**Status:** `[x]`
+**Files:** `src/content/plants/pecan.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Plant encyclopedia entry for pecan (*Carya illinoinensis*), a native North American tree nut with the longest investment horizon of any food crop on the site and the highest lifetime ROI of any tree in the temperate US.
+**Details:**
+- Frontmatter: name: Pecan, scientific_name: Carya illinoinensis, category: Fruit, days_min: 90, days_max: 120, avg_yield_lb: 30.0, avg_price_lb: 8.00, start_cost: 39.99, start_cost_label: "Bare-root tree", is_common: false, watering: "Moderate; deep watering 2-3 times/week when young", sunlight: "Full sun (6+ hours)", companion_plants: ["Comfrey", "Garlic"]
+- Note: days_min/days_max refer to the harvest window (90-120 days from nut set in late summer to harvest in fall), not from planting to first production. First meaningful harvest is typically year 6-8; full production year 10-15. This must be stated clearly.
+- The scale context: pecan is the only nut tree native to North America and is commercially grown in the US on roughly 300,000 acres (USDA NASS, 2022). Georgia, New Mexico, and Texas dominate commercial production. Retail pecans run $7-14/lb in shell, $12-20/lb shelled. A mature pecan tree in production yields 50-100+ lb of in-shell nuts per season. The lifetime ROI from one $39.99 tree is staggering when the math is done out.
+- Multi-year production timeline: year 1-5 = establishment, no yield; year 6-8 = 5-15 lb in a good year; year 9-12 = 20-40 lb; year 13-20 = 40-80 lb; year 20+ = 50-100+ lb. Build this as a table. Cite USDA ARS pecan production data and Texas A&M AgriLife Extension pecan program data (one of the most comprehensive extension resources on pecan in the US).
+- Cross-pollination requirement: pecans are monoecious — male catkins and female flowers are on the same tree, but the pollen shed and female receptivity do not always overlap (protandrous vs protogynous types). For reliable production, plant one Type I (protandrous) and one Type II (protogynous) variety together. Without compatible pollen shed, production is significantly reduced even if the tree flowers. This is non-negotiable information.
+- Varieties: Type I (protandrous, pollen shed first): 'Desirable' (primary commercial variety in the Deep South; large nuts, excellent flavor), 'Wichita' (Texas origin, high yield, smaller nut; heat tolerant). Type II (protogynous, female flowers receptive first): 'Stuart' (heirloom variety, widely available, good cold hardiness), 'Elliott' (scab-resistant, important for humid climates), 'Kanza' (northern-adapted, bred by USDA for zones 5-6; lower yield but cold hardy). Cite USDA ARS release notes for Kanza and Texas A&M variety trials for Desirable/Wichita.
+- Pecan scab (*Venturia effusa*) is the primary disease issue in the eastern US — a fungal pathogen that devastates unprotected orchards in humid conditions. Scab-resistant varieties (Elliott, Kanza, Caddo) are critical in zones 6-8 east of the Mississippi. In drier western climates (New Mexico, Arizona, parts of Texas), scab pressure is lower and more varieties are viable.
+- Zone range: zones 6-9 for commercial production; zone 5 with northern-adapted varieties (Kanza, Posey). The tree needs 200+ chill hours but also a long, warm growing season for nut fill — this is why production concentrates in the South.
+- Zinc deficiency is the single most common nutritional problem in home-grown pecans. Symptom: rosette (small, crinkled leaves); caused by high soil pH locking up zinc. Apply chelated zinc foliar spray in early spring before budbreak. All major pecan extension resources (Texas A&M, USDA) address this.
+- Hero image: /images/crops/pecan.webp
+**Acceptance:**
+- Page is 1800+ words (tree crop with long investment horizon warrants extra depth)
+- Multi-year yield table (years 1-20+)
+- Type I/Type II cross-pollination requirement clearly explained with variety examples
+- Pecan scab discussion with resistant variety recommendations
+- Zinc deficiency addressed
+- `npx astro build` passes with 0 errors
+
+---
+
+## Article Sprint 2 — ROI Deep-Dives & Planning Guides (AR)
+
+---
+
+### AR002 — tomato-roi-deep-dive.md
+**Status:** `[x]`
+**Files:** `src/content/articles/tomato-roi-deep-dive.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Anchor ROI article for the tomato page. Tomato is the highest-traffic crop on the site and the single most-asked question in home gardening economics. 2500+ words covering per-plant math by variety type, actual grocery savings, and the honest cases for and against growing tomatoes.
+**Details:**
+- Category: roi, featured: true, publishDate: 2026-04-18
+- Title: "Tomato ROI: The Math Behind Growing vs. Buying (By Variety)"
+- The hook: tomato is the most common answer to "what's the best thing to grow" — but the math is not as simple as people assume. Indeterminate heirloom tomatoes at $4-7/lb at the farmers market look compelling. But a single indeterminate plant requiring 6 feet of cage space needs to yield 10+ lb just to break even on inputs. Some do. Many don't.
+- Build a per-variety-type ROI table: columns are variety type (beefsteak/indeterminate, Roma/paste, cherry tomato, hybrid slicer), avg_yield_lb from frontmatter + extension data, retail price/lb (USDA AMS Specialty Crop Market News 2023), gross value, start cost (transplant vs. seed), net value per plant, net value per square foot. Include both seed-start cost and transplant cost to show break-even difference.
+- Source data from the site's own crop pages: `/crops/tomato/` for slicers, `/crops/cherry-tomato/` for cherry types. Cross-reference with Cornell Small Farms Program yield data for home/market garden scale.
+- Cherry tomato ROI case: cherry tomatoes are arguably the best ROI of any tomato type because the per-pound retail price is highest ($4-8/lb vs. $2-4/lb for slicers) and the yield is typically higher per square foot. A single indeterminate cherry tomato plant ('Sungold', 'Sweet Million') regularly yields 8-12 lb per season.
+- Honest costs people undercount: water, fertilizer side-dress nitrogen (0.5 lb actual N per plant per season for high-yield production), cage ($5-15 that lasts 10+ years), support stake. Calculate these into a full-cost scenario vs. bare-bones scenario.
+- The comparison problem: a home-grown tomato is not the same product as a grocery store tomato. Grocery tomatoes are picked at pink stage (gas-ripened in transit) to survive 7-10 days of cold chain. A garden tomato ripens on the vine. The flavor difference is real and documented. But this doesn't inflate the ROI math — address it honestly.
+- Who shouldn't grow tomatoes: if you're in a zone with <120 days between last and first frost, indeterminate varieties will not reach full production. Determinates (Roma, Celebrity) are the better choice for short-season zones 3-5.
+- Internal links: /crops/tomato/, /crops/cherry-tomato/, /roi/first-three-years-roi/, /roi/seeds-vs-transplants/
+**Acceptance:**
+- Page is 2500+ words
+- Per-variety ROI table present with actual calculations
+- Cherry vs. beefsteak vs. Roma comparison with specific numbers
+- Full-cost vs. bare-bones input scenarios both worked out
+- Zero em dashes, no motivational closing
+- `npx astro build` passes with 0 errors
+
+---
+
+### AR003 — vegetable-value-per-square-foot.md
+**Status:** `[x]`
+**Files:** `src/content/articles/vegetable-value-per-square-foot.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** ROI ranking article comparing 20+ vegetables by net value per square foot — the single most useful number for optimizing a small garden. 2000+ words.
+**Details:**
+- Category: roi, featured: false, publishDate: 2026-04-18
+- Title: "Value Per Square Foot: Which Vegetables Pay the Most for the Space They Take"
+- The hook: space is the real constraint in most home gardens. If you have a 4x8 bed (32 sq ft), which crops return the most per square foot? This is a different question than ROI multiple — a crop can have a high ROI multiple but low value per square foot if it takes a lot of space. Corn, for example, looks fine on a per-stalk basis but terrible per square foot.
+- Calculate value per square foot for each crop: avg_yield_lb / typical spacing (sq ft per plant) * avg_price_lb - start_cost_per_sq_ft. Use the site's own frontmatter data as the source. Pull avg_yield_lb and avg_price_lb from the site's crop data for all crops included.
+- Create a master table of 20+ crops ranked by net value/sq ft: columns are crop, spacing (sq ft/plant), yield/plant, price/lb, gross value, start cost, net value, net value/sq ft.
+- Expected top performers: herbs (basil, cilantro, dill, chives — high price/lb, small footprint), salad greens (lettuce, arugula, spinach — fast turnover, succession planting multiplies $/sq ft), cherry tomatoes (high value per plant but takes 4-6 sq ft). Expected bottom: corn (needs 1 sq ft per stalk, yields 1-2 ears), winter squash (8-12 sq ft, modest value), watermelon (12-20 sq ft).
+- Add a "succession multiplier" column for crops where multiple plantings fit in the same sq ft in one season — arugula gets 4-5 plantings, radish gets 4-6, lettuce gets 3-4. This dramatically changes the per-season $/sq ft calculation for fast crops.
+- "Best use of 32 sq ft" worked example: given one 4x8 bed, what specific crop mix maximizes annual value? Work out the actual recommendation with square footage allocations and estimated total value.
+- Internal links: /roi/herb-roi-comparison/ and at least 5 individual crop pages for the top performers
+**Acceptance:**
+- Page is 2000+ words
+- Master table with 20+ crops and calculated net value/sq ft
+- Succession multiplier column or equivalent explanation
+- "Best 32 sq ft" worked example with specific crop allocations
+- All source data from frontmatter or cited extensions
+- `npx astro build` passes with 0 errors
+
+---
+
+### AR004 — fruit-tree-payback-timeline.md
+**Status:** `[x]`
+**Files:** `src/content/articles/fruit-tree-payback-timeline.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Multi-year payback timeline comparison for 8 common fruit trees. The ROI math for trees is fundamentally different from annuals — the 20-year picture matters more than year one. 2000+ words.
+**Details:**
+- Category: roi, featured: false, publishDate: 2026-04-18
+- Title: "Fruit Tree Payback Timeline: When Each Tree Covers Its Cost"
+- The hook: a dwarf apple tree costs $35-50, produces for 15-20 years, and by year five is putting out 40-60 lb of fruit per season. The payback math is completely different from annual crops, and most people thinking about planting trees have never seen the numbers laid out clearly.
+- Build a payback timeline table for 8 fruit trees: apple (dwarf), pear (dwarf), peach, plum, cherry (sweet), cherry (tart), fig, and persimmon. Columns: tree cost, year first significant production, year of break-even (cumulative value ≥ input cost), year 5 cumulative value, year 10 cumulative value, year 20 cumulative value. Use actual frontmatter data for yield and price where crops exist on the site; for crops not on the site, cite university extension yield data.
+- Use current crop pages: /crops/apple/, /crops/pear/, /crops/peach/, /crops/plum/ should already exist. Pull their avg_yield_lb and avg_price_lb as the basis. For cherry and fig, check if pages exist; if not, note the sources.
+- Dwarf vs. standard tree economics: dwarf trees cost more per tree, start production sooner, yield less at maturity, have shorter productive lives, and require less space. Standard trees cost less, take longer to start, yield much more at maturity, live 30-50+ years. The per-tree cost comparison is wrong — you need to compare lifetime yield. Build a simple comparison: one standard apple tree vs. three dwarf apple trees in the same square footage.
+- The skip-ahead investment insight: if you plant fruit trees today and move in 5 years, you've likely harvested some fruit but not hit payback. If the next owner enjoys 20 years of production, that's value you created without capturing. This is real and worth acknowledging — tree planting is partly an act of patience or an investment in property value.
+- Annual maintenance cost inputs to include in the calculation: tree dormant spray ($3-5/year for oil and copper), fertilizer ($5-10/year), pruning tools (amortized to <$2/year). These affect the break-even math.
+- Internal links: individual crop pages for each tree covered
+**Acceptance:**
+- Page is 2000+ words
+- Payback timeline table for 8 fruit trees with specific years to break-even
+- Dwarf vs. standard comparison with lifetime yield math
+- Annual maintenance cost factored into break-even calculation
+- `npx astro build` passes with 0 errors
+
+---
+
+### AR005 — beginner-10-crop-starter-guide.md
+**Status:** `[x]`
+**Files:** `src/content/articles/beginner-10-crop-starter-guide.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Planning guide selecting the 10 best crops for a new gardener's first season — chosen for high ROI, forgiving growing requirements, and crops where garden-fresh quality noticeably exceeds store-bought. 2000+ words.
+**Details:**
+- Category: planning, featured: false, publishDate: 2026-04-18
+- Title: "First Garden: The 10 Crops That Give New Growers the Best Chance"
+- Not a generic "tomatoes and basil" list. Criteria must be explicit: (1) ROI multiple > 3×, OR store quality notably inferior, OR both; (2) Forgiving of beginner mistakes — doesn't need perfect soil, tolerates missed waterings, doesn't require complex timing; (3) Fast enough to harvest in year one without disappointment.
+- Selection criteria table: list the 10 crops with the criteria score for each. Show why each made the cut.
+- The 10 crops (justify each): snap peas (fast, foolproof, flavor advantage over store), cherry tomatoes (high value, forgiving, dramatic quality gap), basil (easy from transplant, high value, can't buy garden-fresh), kale (long harvest season, nutritional density, 5+ lb return), radish (25 days, morale win for beginners), green beans (direct sow, reliable, $4-6/lb fresh), zucchini (extremely productive — sometimes too productive, honest about this), lettuce (cut-and-come-again, fast return, seed is cheap), cilantro (cheap seed, high price per pound, widely used), chives (perennial starter — plant once for years of use).
+- Per-crop section: each crop gets 150-200 words covering what to buy (seed or transplant), when to plant (zone-referenced), what to watch for, and expected first harvest timeline.
+- What to leave out for year one: advice is as important as inclusion. Frame this clearly. Don't start with: carrots (need well-prepared deep soil, easy to fail), peppers (long season, many beginners under-yield them), corn (space-hungry, needs mass planting for pollination), melons (space, heat, timing), broccoli (caterpillar pressure, timing precision).
+- One worked 4x8 bed plan: exactly what to plant in a 32 sq ft bed from this list, with spacing, and estimated season value.
+- Internal links: individual crop pages for all 10 crops listed
+**Acceptance:**
+- Page is 2000+ words
+- Selection criteria made explicit, not just a list
+- "What to avoid year one" section present with reasons
+- One worked 4x8 bed planting plan
+- Links to all 10 crop pages
+- `npx astro build` passes with 0 errors
+
+---
+
+### AR006 — continuous-harvest-crops.md
+**Status:** `[x]`
+**Files:** `src/content/articles/continuous-harvest-crops.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Planning guide identifying crops that produce continuously over weeks or months vs. crops that produce once (all at once). The distinction is important for planning garden output across a season and avoiding the glut-famine cycle. 1800+ words.
+**Details:**
+- Category: planning, featured: false, publishDate: 2026-04-18
+- Title: "Continuous Harvest Crops: What Keeps Producing and What Gives You Everything at Once"
+- The distinction: some crops produce over an extended window (pick-and-it-keeps-producing); others produce a single flush that's all done in 2-3 weeks. New gardeners often don't know which is which, then get overwhelmed with zucchini in August or wonder why their snap peas are done in three weeks.
+- Create a two-column classification table: Continuous Harvest (kale, chard, basil, cherry tomatoes, beans, herbs, cut-and-come-again lettuce, chives, mint, shiso) vs. Once-and-Done (garlic, onion, potato, carrot, corn, beet, broccoli head). Add a third column: "Extendable by succession" — crops where multiple plantings solve the flush problem (lettuce, cilantro, radish, snap peas, arugula).
+- For each category, explain WHY the crop behaves the way it does: cut-and-come-again crops (lettuce, kale, herbs) respond to harvest by producing new growth; indeterminate crops (tomatoes, beans) keep flowering and setting fruit as long as conditions allow; determinate crops (corn, beets) have a fixed lifecycle and all mature at once.
+- Succession planting schedule section: for the key "extendable" crops, give a specific sowing schedule. Lettuce: sow every 2 weeks, April through September (shade cloth in summer). Cilantro: sow every 3 weeks, March through May; pause; resume in August for fall. Radish: sow every 2 weeks, March through October.
+- The 4-season approach: a well-planned garden should have something harvestable every week from April through November (in zones 5-7). What needs to be planted when to achieve that? Build a month-by-month harvest calendar showing what's producing in each month from a well-planned garden.
+- Internal links: /crops/lettuce/, /crops/kale/, /crops/cilantro/, /crops/snap-pea/, and /guides/succession-planting-calendar/ if it exists
+**Acceptance:**
+- Page is 1800+ words
+- Continuous vs. once-and-done classification table present
+- Succession planting schedule for key extendable crops
+- Month-by-month harvest calendar (April through November)
+- `npx astro build` passes with 0 errors
+
+---
+
+### AR007 — winter-garden-planning.md
+**Status:** `[x]`
+**Files:** `src/content/articles/winter-garden-planning.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Planning guide for extending the growing season into late fall and winter using cold-hardy crops, row cover, cold frames, and unheated hoop houses. Specific to zones 5-8; clearly differentiated by zone. 2000+ words.
+**Details:**
+- Category: planning, featured: false, publishDate: 2026-04-18
+- Title: "Winter Garden Planning: What Grows Cold, How Cold, and How to Extend It"
+- The hook: most gardeners stop in October. A significant portion of the cold-season vegetable calendar is being left unharvested. In zone 6, spinach overwintered under a cold frame is alive and producing in March — before the outdoor soil has thawed.
+- Frame the article around the "four layers of cold protection" and what each enables, by zone:
+  1. No protection: crops that survive hard frost in the open ground (spinach to 20°F, mache to 0°F, kale to 15-20°F, arugula to 20-25°F, leeks to 0-10°F) — cite Eliot Coleman's *Four Season Harvest* and *The Winter Harvest Handbook* for zone hardiness data on winter vegetables
+  2. Row cover (floating row cover, 4-6°F protection): extends tender crops 4-6 weeks into fall; allows cold-tolerant crops to produce later and recover faster in spring
+  3. Cold frame (8-15°F protection): enables spinach, arugula, mache, lettuce to produce through zone 6-7 winter; most growth occurs on sunny days even in December-January
+  4. Unheated hoop house (15-20°F protection): genuine four-season production in zones 5-6; crops that would be frozen outdoors are actively growing
+- Zone-specific planting calendar: what to plant by last planting date for each protection level, by zone (5, 6, 7, 8). A table: crop, last outdoor sowing date by zone, last cold-frame sowing date, expected harvest window. This is the actionable core of the article.
+- The ROI case for winter extension: a cold frame built from scrap lumber and an old window costs $0-30 and adds 4-6 weeks on each end of the season. What does that translate to in food? Spinach in November and March = additional 20-30 lb at $4-6/lb from a $15 investment.
+- Key crops for winter production: spinach (most productive under cold frames), mache/corn salad (the most cold-hardy salad green — tolerates temperatures near 0°F and produces through winter in cold frames), kale, arugula, claytonia/winter purslane, overwintered garlic (planted fall, harvested following summer). Cite ATTRA (*Season Extension Techniques for Market Gardeners*) for production specifics.
+- Internal links: /crops/spinach/, /crops/kale/, /crops/arugula/, /crops/lettuce/
+**Acceptance:**
+- Page is 2000+ words
+- Four layers of cold protection framework clearly explained
+- Zone-differentiated planting calendar table (zones 5-8)
+- Cold frame ROI calculation present
+- Key crops for each protection level identified
+- `npx astro build` passes with 0 errors
+
+---
+
+### AR008 — pest-id-treatment-thresholds.md
+**Status:** `[x]`
+**Files:** `src/content/articles/pest-id-treatment-thresholds.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Care guide covering identification and treatment thresholds for the 12 most economically significant vegetable garden pests. Structured around IPM (Integrated Pest Management) principles — the goal is not zero pests, it's knowing when the economic cost of damage exceeds the cost of intervention. 2000+ words.
+**Details:**
+- Category: care, featured: false, publishDate: 2026-04-18
+- Title: "Garden Pest ID and Treatment Thresholds: When to Act, When to Wait"
+- The hook: not every pest sighting requires action. A few aphids on a tomato plant will be handled by the parasitic wasps already in your garden if you wait 48 hours. Spraying kills both. Understanding when damage actually affects yield — the concept of the economic injury level from IPM — is the skill most home gardeners lack.
+- Explain IPM briefly: Integrated Pest Management is the framework developed by university extension systems and USDA NRCS for making treatment decisions based on pest population levels and damage thresholds, not on zero-tolerance. The key concept is the Economic Injury Level (EIL) — the pest density at which control measures are cost-justified. Cite UC Davis IPM Program as the primary reference.
+- Build an identification and threshold table for 12 pests: pest name (common + scientific), crops affected, identification description, treatment threshold (what level of damage/population justifies action), and first-line response. The 12 pests:
+  1. Aphids (multiple species) — broad; 25+ per growing tip before treatment typically justified; water spray first
+  2. Tomato hornworm (*Manduca quinquemaculata*) — Solanaceae; any large hornworm on a small plant is threshold; hand-pick; note the white parasitic wasp eggs
+  3. Squash vine borer (*Melittia cucurbitae*) — Cucurbits; prevention only (row cover before moths arrive); treatment after entry is too late
+  4. Cabbage worm / imported cabbageworm (*Pieris rapae*) — Brassicas; Bt (Bacillus thuringiensis) works if applied while caterpillars are small; row cover prevents completely
+  5. Cucumber beetle (striped: *Acalymma vittatum*; spotted: *Diabrotica undecimpunctata*) — cucurbits; vector for bacterial wilt so threshold is lower than damage alone suggests
+  6. Colorado potato beetle (*Leptinotarsa decemlineata*) — Solanaceae; hand-pick adults and egg masses; Bt effective against young larvae; develops pesticide resistance extremely fast — avoid repeated pyrethroid use
+  7. Flea beetles (*Altica* spp. and others) — brassicas, eggplant; heavy damage in seedling stage; row cover most effective; plants typically outgrow moderate damage
+  8. Whitefly (*Trialeurodes vaporariorum*) — broad; yellow sticky traps monitor populations; insecticidal soap for control; avoid broad-spectrum insecticides that kill parasitic wasps
+  9. Spider mites (*Tetranychus urticae*) — triggered by hot, dry conditions; strong water spray most effective; neem oil works
+  10. Slugs (*Deroceras reticulatum* and others) — broad; iron phosphate bait (Sluggo) is effective and safe around pets and wildlife
+  11. Cutworms (various *Agrotis* spp.) — seedlings; collar around transplant stem prevents most damage; Bt soil drench effective
+  12. Japanese beetle (*Popillia japonica*) — broad; grub treatment in lawn in July-August; adult hand-picking on high-value crops; avoid pheromone traps (attract more than they catch)
+- Internal links: individual crop pages for the main crops affected
+**Acceptance:**
+- Page is 2000+ words
+- IPM/EIL concept explained in the lead
+- Pest identification table with 12 entries (common name, scientific name, threshold, first response)
+- Row cover recommended for preventable pests (SVB, cabbageworm)
+- `npx astro build` passes with 0 errors
+
+---
+
+### AR009 — dehydrator-roi.md
+**Status:** `[x]`
+**Files:** `src/content/articles/dehydrator-roi.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Homestead ROI analysis for a food dehydrator — when does the appliance pay for itself, which crops yield the best dehydration ROI, and what's the honest math on dried herbs vs. store-bought dried herbs. 2000+ words.
+**Details:**
+- Category: homestead, featured: false, publishDate: 2026-04-18
+- Title: "Dehydrator ROI: When the Appliance Pays for Itself and Which Crops Make It Worth It"
+- Equipment costs: entry-level dehydrator (Cosori, Nesco Snackmaster, Excalibur 4-tray) $60-100. Mid-range (Excalibur 9-tray) $200-300. Commercial-grade entry ($500+). The article should focus on the $60-120 range that most home users buy.
+- Operating cost: a 500-watt dehydrator running for 8 hours costs approximately $0.40-0.60 in electricity at $0.10-0.15/kWh national average (cite EIA national average residential electricity rate). This is often ignored in ROI calculations — factor it in.
+- Payback calculation framework: dehydrator cost ÷ (savings per batch) = batches to break even. Work through specific crop examples.
+- Build a crop-by-crop dehydration ROI table: crop, fresh yield input (lbs), dehydrated output (lbs, weight loss factor), equivalent retail dried product value, electricity cost per batch, net value per batch, batches to break even on a $80 dehydrator. Include:
+  - Herbs (basil, thyme, oregano, dill): weight loss 90%; retail dried herbs $10-40/oz = $160-640/lb. One batch of fresh basil from the garden → $8-15 of dried basil equivalent.
+  - Tomatoes (sun-dried/semi-dried): weight loss 85-90%; retail sun-dried tomatoes $8-15/lb dried. 10 lb fresh → 1-1.5 lb dried → $8-22 value.
+  - Hot peppers (dried cayenne, paprika): weight loss 80-85%; retail ground dried pepper $8-20/lb. 5 lb fresh → 0.75-1 lb dried.
+  - Mushrooms: weight loss 90-95%; retail dried mushrooms (not shiitake, which require logs — focus on chanterelle or oyster if growing, or purchased in season) $15-30/lb dried.
+  - Elderberries: weight loss 75-80%; retail dried elderberries $10-20/lb. Covered in elderberry page, cross-reference.
+  - Fruit leather (strawberry, apple, plum): less dramatic ROI but high utilization value for harvest gluts.
+- The herb math is where the appliance pays back fastest: a single batch of homegrown basil, thyme, and oregano processed together can produce $30-50 of dried herb equivalent in one 6-8 hour run. The dehydrator pays back in 2-4 batches.
+- What doesn't make economic sense to dehydrate: anything where dried equivalents are cheap (carrots, onions, commercial dried vegetables — retail $1-3/lb); anything where the fresh product is more valuable than the dried (fresh berries vs. dried berries, for example).
+- Internal links: /crops/basil/, /crops/tomato/, /crops/elderberry/, /crops/hot-pepper/
+**Acceptance:**
+- Page is 2000+ words
+- Crop-by-crop dehydration ROI table with weight loss factors and retail value comparisons
+- Electricity operating cost factored in
+- Payback calculation worked for at least 3 crop scenarios
+- `npx astro build` passes with 0 errors
+
+---
+
+### AR010 — harvest-glut-triage.md
+**Status:** `[x]`
+**Files:** `src/content/articles/harvest-glut-triage.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Practical homestead guide for what to do when everything produces at once — prioritizing which crops to process first, which to give away, which to freeze, which to dehydrate, and which to just eat. Organized as a decision framework, not a generic list. 1800+ words.
+**Details:**
+- Category: homestead, featured: false, publishDate: 2026-04-18
+- Title: "Harvest Glut Triage: What to Process First, What to Give Away, What to Let Go"
+- The hook: the glut moment is real. You planted eight zucchini plants in May and by July you have more than you can use, your neighbors won't take your calls, and half the zucchini are the size of a child's baseball bat. This is a planning failure, but since the zucchini are here now, what's the best thing to do?
+- The triage principle: not all surplus is worth the same effort to preserve. The framework is:
+  1. What will rot soonest? (Process immediately: tomatoes, berries, green beans)
+  2. What stores well without any processing? (Leave alone for now: winter squash, onions, garlic, potatoes)
+  3. What is highest value if preserved? (Prioritize processing: herbs, hot peppers, elderberries)
+  4. What is lowest value per hour of preservation work? (Zucchini: give away or compost; the processing time doesn't justify it unless you're making zucchini bread in quantity)
+- Crop-specific triage matrix: for 15+ common glut crops, what to do: zucchini (give away/compost, or shred and freeze for baking, 10 minutes/lb); cucumber (pickle or give away — fresh cucumbers don't store); tomatoes (sauce/paste/freeze whole, high value per hour); basil (make pesto and freeze in ice cube trays, or dry — most value preserved); green beans (blanch and freeze, easy, worth doing); hot peppers (dry or pickle, high value); winter squash (cure and store, no processing needed); garlic (braid and hang, no processing needed); herbs generally (dry or freeze).
+- Batch cooking section: when the volume is large enough to justify cooking time, what's the most efficient path? Roasting a sheet pan of tomatoes and freezing the puree takes 20 minutes of active work per 5 lb of tomatoes. Canning whole tomatoes takes 2 hours. The time investment is a real variable.
+- What to give away and what not to bother: honest advice. Zucchini by the bushel, food banks often don't want large quantities of produce they can't store. Better targets: neighbor with no garden, local Buy Nothing group, church potluck. Don't feel obligated to process everything.
+- The planning fix: briefly address the root cause — growing 8 zucchini plants when 2 would have served the household adequately. The glut triage guide is a symptom of a planning problem. Connect to succession planting and right-sizing guides.
+- Internal links: /roi/dehydrator-roi/, /crops/tomato/, /crops/zucchini/, /crops/basil/, /crops/hot-pepper/
+**Acceptance:**
+- Page is 1800+ words
+- Triage framework clearly stated (4 questions, in order)
+- Crop-specific triage matrix for 15+ crops
+- Time-per-pound estimates for key preservation methods
+- `npx astro build` passes with 0 errors

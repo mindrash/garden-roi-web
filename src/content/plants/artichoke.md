@@ -132,6 +132,6 @@ For farmers market sellers, freshness shows. Artichokes with tight, squeaky brac
 
 ---
 
-**Related crops:** [Arugula](/crops/arugula/), [Fennel](/crops/fennel/)
+**Related crops:** [Arugula](/crops/arugula/), [Fennel](/crops/fennel/), [Cardoon](/crops/cardoon/)
 
 **Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  modeling establishment costs for perennial vegetables across multiple harvest seasons

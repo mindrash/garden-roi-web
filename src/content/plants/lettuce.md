@@ -156,4 +156,4 @@ Lettuce deteriorates fast after cutting. Refrigerate unwashed in an airtight bag
 
 **Related crops:** [Strawberry](/crops/strawberry/), [Green Bean](/crops/green-bean/)
 
-**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/) - timing your cool-season crops around frost dates and soil temperature; [Grocery Tier ROI](/roi/grocery-tier-roi/) - how salad greens rank in the retail organic price tiers most replaced by home growing
+**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/) - timing your cool-season crops around frost dates and soil temperature; [Grocery Tier ROI](/roi/grocery-tier-roi/) - how salad greens rank in the retail organic price tiers most replaced by home growing; [First Garden: 10 Best Crops](/planning/beginner-10-crop-starter-guide/) - cut-and-come-again lettuce for beginners; [Continuous Harvest Crops](/planning/continuous-harvest-crops/) - succession schedule for season-long harvest; [Winter Garden Planning](/planning/winter-garden-planning/) - cold frame lettuce through zone 6 winter

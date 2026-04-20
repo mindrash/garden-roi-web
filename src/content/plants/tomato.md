@@ -177,7 +177,7 @@ At the end of the season, when frost is coming, pull any fruit that has started 
 
 **Related crops:** [Basil](/crops/basil/), [Cucumber](/crops/cucumber/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about common pairings
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about common pairings; [Tomato ROI: The Math by Variety](/roi/tomato-roi-deep-dive/) - per-variety break-even calculations; [Harvest Glut Triage](/homestead/harvest-glut-triage/) - what to do when tomatoes come in all at once; [Dehydrator ROI](/homestead/dehydrator-roi/) - semi-dried tomatoes from garden gluts
 
 *Companion planting note:* The tomato-basil pairing is one of the most cited in home gardening. Volatile compounds from basil (*linalool*, *eugenol*) have shown repellent effects on *Spodoptera* species and aphids in controlled laboratory studies (Hummelbrunner & Isman, *Journal of Chemical Ecology*, 2001). Field-scale evidence for measurable yield benefit is limited. Plant basil near tomatoes if you want fresh basil; the potential pest-deterrent effect is a bonus, not a guarantee.
 

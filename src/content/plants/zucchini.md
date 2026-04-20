@@ -96,4 +96,4 @@ For freezing: shred using a box grater or food processor, press out excess moist
 
 **Related crops:** [Cucumber](/crops/cucumber/), [Basil](/crops/basil/)
 
-**Related reading:** [Canning Financial Case](/homestead/canning-financial-case/)  -  when preserving your surplus pencils out vs. when it doesn't
+**Related reading:** [Canning Financial Case](/homestead/canning-financial-case/)  -  when preserving your surplus pencils out vs. when it doesn't; [Harvest Glut Triage](/homestead/harvest-glut-triage/) - the definitive answer to too many zucchini; [First Garden: 10 Best Crops](/planning/beginner-10-crop-starter-guide/) - why to plant one zucchini, not six
