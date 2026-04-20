@@ -70,9 +70,9 @@ const SEARCH_OVERRIDES = {
   'mashua': 'nasturtium tuber root vegetable',
   'oca': 'oca tuber root vegetable colorful',
   'popcorn': 'popcorn corn cob drying harvest',
-  'salsify': 'salsify root vegetable oyster plant',
-  'scorzonera': 'scorzonera black salsify root vegetable',
-  'sea-kale': 'sea kale crambe maritime coastal plant',
+  'salsify': 'parsnip root vegetable harvest',
+  'scorzonera': 'black root vegetable harvest soil',
+  'sea-kale': 'coastal plant white flowers cliffs',
   'tepary-bean': 'bean pods drying harvest dry beans',
   // Specialty crops batch (added 2026-04-20)
   'thai-basil': 'thai basil purple stems herb',
