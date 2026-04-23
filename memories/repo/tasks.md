@@ -5549,3 +5549,262 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 - Crop-specific triage matrix for 15+ crops
 - Time-per-pound estimates for key preservation methods
 - `npx astro build` passes with 0 errors
+
+---
+
+### AR011 — berry-roi-comparison.md
+**Status:** `[>]`
+**Files:** `src/content/articles/berry-roi-comparison.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** ROI comparison of the four main home garden berries — strawberry, raspberry, blueberry, blackberry. Covers startup cost, years to full production, yield, retail price, and 5-year cumulative ROI. 2000+ words.
+**Details:**
+- Category: roi, featured: false, publishDate: 2026-04-22
+- Title: "Berry Patch ROI: Strawberry, Raspberry, Blueberry, and Blackberry Compared"
+- Description: 150-160 chars
+- Key data per berry: strawberry ($20-30 for 25 bare-root crowns, year 1 production, 0.5-1 lb/plant, $3-5/lb retail); raspberry (bare cane $3-5 each, year 2 production, 1-2 qt/cane/season, $4-6/pt or $8-12/lb retail); blueberry (need 2+ varieties for cross-pollination, $15-25/plant, year 3-4 production, 5-10 lb/mature bush, $4-6/pt or $3-5/lb retail); blackberry ($8-15/plant or $2-4 for root cuttings, year 2 production, 10-20 lb/mature cane cluster, $4-8/pt or $5-8/lb retail)
+- Build a 5-year cumulative ROI table for each berry showing: year, investment (plants + soil amendment + mulch), yield lb, gross value, cumulative net
+- Blueberry soil prep cost is a real variable — they require pH 4.5-5.5 which often means sulfur amendments and peat moss ($20-50 extra); this must be in the cost model
+- Raspberry primocane/floricane management affects yield dramatically — everbearing vs. summer-bearing math differs
+- Strawberry's "replace every 3 years" model changes the long-run math vs. other berries that are semi-permanent plantings
+- Blackberry's aggressive spreading is a management cost or benefit depending on the gardener
+- Sources: USDA NASS fruit price data; university extension yield data (Cornell, OSU, NC State small fruit guides)
+- Internal links: /crops/strawberry/, /crops/raspberry/, /crops/blueberry/, /crops/blackberry/
+**Acceptance:**
+- 2000+ words
+- 5-year cumulative ROI table for all 4 berries
+- Soil prep costs included for blueberry
+- `npx astro build` passes
+
+---
+
+### AR012 — pepper-roi-analysis.md
+**Status:** `[>]`
+**Files:** `src/content/articles/pepper-roi-analysis.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** ROI analysis of hot peppers with emphasis on value-added processing: fresh vs. dried vs. ground vs. fermented hot sauce. Shows how drying multiplies value 5-8x. 2000+ words.
+**Details:**
+- Category: roi, featured: false, publishDate: 2026-04-22
+- Title: "Hot Pepper ROI: Fresh, Dried, and Fermented Value Compared"
+- Description: 150-160 chars
+- Fresh retail prices (USDA AMS): jalapeños $2-4/lb; cayenne $3-6/lb; serrano $3-5/lb; Thai chili $4-8/lb; habanero $5-10/lb
+- Dried retail prices: dried cayenne $15-30/lb; ground paprika $8-20/lb; dried hot pepper flakes $12-25/lb; whole dried chilis $10-20/lb
+- Drying weight loss: 85-90% (10 lb fresh → 1-1.5 lb dried); so 10 lb cayenne worth $30-60 fresh → 1.25 lb dried worth $19-38 BUT uses 10x less storage space and lasts 1-2 years
+- Fermented hot sauce: small-batch artisan hot sauce at farmers markets $8-15 per 5 oz bottle; home production cost ~$0.50-1.00/bottle from homegrown peppers
+- Yield data: cayenne 50-100 peppers per plant (1-2 lb fresh); jalapeño 25-35 per plant (1-1.5 lb); habanero 50-100 per plant (0.5-1 lb); Thai chili 100-200 per plant (0.5-1 lb)
+- Build table: variety, plants needed for 1 lb dried, seed cost, yield lb fresh per plant, equivalent dried oz, retail dried value, seed-to-shelf ROI multiple
+- Paprika section: sweet paprika is a distinct processing use case; 10 lb fresh red peppers → 1 lb dried paprika powder; retail paprika $8-15/lb; home-grown paprika is a meaningful kitchen product
+- Sources: USDA AMS Specialty Crop Market News; NC State Extension pepper production guide
+- Internal links: /crops/hot-pepper/, /crops/sweet-pepper/, /roi/dehydrator-roi/
+**Acceptance:**
+- 2000+ words
+- Value table comparing fresh vs. dried vs. fermented economics
+- Drying weight loss factored explicitly
+- `npx astro build` passes
+
+---
+
+### AR013 — root-vegetable-roi.md
+**Status:** `[>]`
+**Files:** `src/content/articles/root-vegetable-roi.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** ROI comparison of the 5 main root vegetables: carrot, beet, parsnip, turnip, radish. Per-sq-ft yield, retail price, seed cost, days to harvest. Includes a quick-turn/slow-turn analysis. 1800+ words.
+**Details:**
+- Category: roi, featured: false, publishDate: 2026-04-22
+- Title: "Root Vegetable ROI: Carrot, Beet, Parsnip, Turnip, and Radish Compared"
+- Description: 150-160 chars
+- Data per crop: carrot (70-80 days, 1-2 lb/sq ft, $1.50-2.50/lb retail, $2.49 seed packet covers 100+ row feet); beet (50-70 days, 1.5-2.5 lb/sq ft, $1.50-2.50/lb retail, dual harvest: greens + roots); parsnip (100-120 days, 1-1.5 lb/sq ft, $2-4/lb retail, frost-sweetened); turnip (45-60 days, 1.5-2.5 lb/sq ft, $1-2/lb retail, dual harvest: greens worth $3-5/lb); radish (25-35 days, 0.5-1 lb/sq ft, $1.50-3/lb retail, fastest payback per day)
+- Radish is unique: 25-30 days from seed to harvest means 4-5 successions per season in a single bed; calculate annualized ROI per sq ft accounting for turnover rate
+- Parsnip's 100+ day timeline is the slowest but retail price is highest; worth growing only if you're patient and have the bed space
+- Beet greens: retail value $3-5/lb for beet greens (sold separately at grocery stores/farmers markets); a crop that produces both roots and greens has higher effective $/sq ft
+- Soil prep note: all root vegetables need deep, loose, rock-free soil; raised beds with amended soil significantly outperform clay; factor in the raised bed infrastructure cost or soil amendment cost (link to raised-bed-break-even.md)
+- Build comparison table: crop, days to harvest, yield lb/sq ft, retail $/lb, seed cost, gross value/sq ft, successions possible/season, annualized gross value/sq ft
+- Sources: USDA AMS prices; university extension yield data
+- Internal links: /crops/carrot/, /crops/beet/, /crops/radish/, /crops/turnip/, /crops/parsnip/
+**Acceptance:**
+- 1800+ words
+- Comparison table with annualized gross value per sq ft
+- Radish succession math worked out
+- `npx astro build` passes
+
+---
+
+### AR014 — microgreens-roi.md
+**Status:** `[>]`
+**Files:** `src/content/articles/microgreens-roi.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** ROI analysis of growing microgreens — the indoor, 7-14 day crop that retails for $20-40/lb at farmers markets. Covers seed cost, tray cost, light cost, yield, and break-even. 1800+ words.
+**Details:**
+- Category: roi, featured: false, publishDate: 2026-04-22
+- Title: "Microgreens ROI: The 14-Day Crop That Returns $25 a Pound"
+- Description: 150-160 chars
+- What microgreens are: seedlings harvested at the cotyledon or first true leaf stage, typically 7-14 days after germination; not the same as sprouts (which are grown in water without soil)
+- Key crops and retail prices: sunflower microgreens $20-35/lb; pea shoots $15-25/lb; radish microgreens $20-30/lb; broccoli microgreens $25-40/lb (sulforaphane content drives premium); basil microgreens $30-50/lb; amaranth $20-35/lb
+- Growing inputs: 10"×20" tray holds 1-2 oz of seed for most crops; seed costs $0.10-1.00 per tray depending on crop; potting medium $0.20-0.50/tray; water negligible; light cost if using grow lights: a 24W LED strip running 16 hrs/day = $0.04/day = $0.56/10-day grow cycle
+- Yield per 10"×20" tray: 4-8 oz of finished microgreens depending on crop; at $20-35/lb that's $5-11 per tray
+- Break-even: a basic setup (10 trays, LED light strip, growing medium) costs $50-100; payback in 10-20 trays worth of production
+- Honest limits: microgreens require consistent attention (daily misting or bottom watering), don't store well after harvest (3-7 day fridge life), and the retail price assumes you're selling them or using them vs. buying them at farmers market prices ($4-8 per 2oz clamshell). Home use case is different from commercial case.
+- Build table: crop, seed cost/tray, days to harvest, yield oz/tray, retail $/lb, gross value/tray, net value/tray, net value/sq ft/year (based on continuous production)
+- Sources: USDA specialty crop market data; Johnny's Seeds microgreen trial data; Cornell extension indoor production
+- Internal links: /crops/radish/, /crops/basil/, /crops/sunflower/
+**Acceptance:**
+- 1800+ words
+- Per-tray economics table with net value
+- Home use vs. commercial use distinction made explicit
+- `npx astro build` passes
+
+---
+
+### AR015 — salad-greens-roi.md
+**Status:** `[>]`
+**Files:** `src/content/articles/salad-greens-roi.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** ROI comparison of growing salad greens vs. buying pre-washed clamshell mix. Covers lettuce, arugula, spinach, mache, and mesclun mix. Includes a cut-and-come-again yield model. 1800+ words.
+**Details:**
+- Category: roi, featured: false, publishDate: 2026-04-22
+- Title: "Salad Mix ROI: Growing Your Own vs. $5 Clamshell Kits"
+- Description: 150-160 chars
+- Retail reference point: 5 oz clamshell salad mix at grocery store $3.99-5.99 = $12.77-19.17/lb; organic spring mix $6.99-8.99 per 5oz = $22-29/lb — this is the benchmark to beat
+- Cut-and-come-again model: leaf lettuce, arugula, spinach, and mache all regrow after cutting; a 4×4 ft bed planted densely yields multiple cuts per season; model 4-6 harvests of 0.5-1 lb each from a single planting = 2-6 lb per season per 4×4 bed
+- Succession strategy: cool-season greens (spinach, mache, arugula) for spring and fall; heat-tolerant lettuce varieties and basil microgreens bridging summer; the goal is 9-10 months of salad production in zones 5-7
+- Per-crop data: leaf lettuce (30-45 days, $0.99-1.99 seed packet, 0.5-1 lb/sq ft per cut, $1.50-3/lb retail loose); arugula (30-40 days, $1.99-2.99 seed packet, 0.5-1 lb/sq ft per cut, $4-8/lb retail); spinach (40-50 days, $1.99-2.99 seed packet, 0.5-1 lb/sq ft, $2-4/lb retail); mache (45-70 days, $2.49-3.49 seed packet, 0.25-0.5 lb/sq ft, $8-15/lb retail — tiny seeds, premium price)
+- Mache is the highest-value salad green by retail price per pound and almost never available outside farmers markets and specialty grocers; worth highlighting
+- A household eating one 5oz salad serving per person 4x/week for 2 people = 2.5 lb/week = ~100 lb/year of salad greens; at $12/lb average retail = $1,200/year in salad spending — the comparison number
+- A 4×4 bed with succession planting can provide 20-30% of that if actively managed
+- Sources: USDA AMS retail prices; Cornell vegetable growing guides; Johnny's salad growing guide
+- Internal links: /crops/lettuce/, /crops/arugula/, /crops/spinach/, /crops/mache/
+**Acceptance:**
+- 1800+ words
+- Comparison table: home grown $/lb vs retail $/lb for each green
+- Annual household salad spend vs. garden equivalent section
+- `npx astro build` passes
+
+---
+
+### AR016 — freeze-dryer-roi.md
+**Status:** `[>]`
+**Files:** `src/content/articles/freeze-dryer-roi.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** ROI analysis of home freeze dryers ($2,500-4,000) vs. dehydrators, freezers, and canning. When the expensive appliance makes sense, when it doesn't. 2000+ words.
+**Details:**
+- Category: roi, featured: false, publishDate: 2026-04-22
+- Title: "Freeze Dryer ROI: When a $3,000 Appliance Pays Off"
+- Description: 150-160 chars
+- Equipment cost: Harvest Right small ($2,495 MSRP, 7-10 lb/batch capacity); medium ($3,195, 10-15 lb/batch); large ($3,995, 18-27 lb/batch). These are the dominant consumer brand. No meaningful competition at home scale.
+- Operating cost: freeze dryer draws 110V, 9 amps during freeze phase, less during dry; roughly 1-2 kWh per pound processed; at $0.13/kWh national average = $0.13-0.26/lb in electricity. A 10 lb batch costs $1.30-2.60 in electricity to process.
+- Freeze-dried retail value: strawberries $25-40/lb; raspberries $30-50/lb; blueberries $20-35/lb; mixed vegetables $15-25/lb; herbs (dill, basil, chives) $40-80/lb. Compare to dehydrated prices: freeze-dried commands a 2-4x premium because texture is preserved.
+- The weight loss factor: freeze-drying removes ~95% of moisture vs. dehydrating's 85-90%; a 10 lb batch of strawberries → 0.5 lb freeze-dried. At $35/lb retail, that's $17.50 of product from 10 lb of fresh berries ($3-5/lb retail = $30-50 raw input). The value isn't in the retail comparison — it's in preservation quality and shelf life.
+- Shelf life case: freeze-dried food lasts 20-25 years sealed vs. 1-2 years dehydrated vs. 6-12 months frozen; the ROI argument for freeze-drying is long-term food security, not cost savings in a conventional sense
+- Break-even math: $2,495 machine ÷ ($17.50 net value per batch) = 143 batches to break even, assuming you value the output at retail freeze-dried prices. At 1 batch/week for 6 months/year = 26 batches/year; payback in 5.5 years. At 2 batches/week = payback in 2.75 years.
+- Honest comparison: a chest freezer at $200 preserves 400+ lb of garden produce per year and pays back in one season. A dehydrator at $80 pays back in 2-4 batches. A freeze dryer is a serious long-term investment that only makes sense for high-volume gardeners processing premium crops consistently.
+- Who it makes sense for: households preserving 200+ lb of produce annually; anyone prioritizing 20-year shelf life over short-term savings; households growing premium berries and herbs at scale
+- Sources: Harvest Right MSRP; EIA electricity price data; USDA AMS freeze-dried retail prices
+- Internal links: /roi/dehydrator-roi/, /roi/fruit-tree-payback-timeline/, /crops/strawberry/, /crops/raspberry/
+**Acceptance:**
+- 2000+ words
+- Break-even calculation with batch count and years
+- Explicit comparison to dehydrator and chest freezer alternatives
+- `npx astro build` passes
+
+---
+
+### AR017 — summer-garden-planning.md
+**Status:** `[>]`
+**Files:** `src/content/articles/summer-garden-planning.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Planning guide for the summer garden — what to direct-sow after spring crops, how to manage heat stress, which crops need to come out and which go in. Companion to spring/fall/winter planning articles. 1800+ words.
+**Details:**
+- Category: planning, featured: false, publishDate: 2026-04-22
+- Title: "Summer Garden Planning: Succession After Spring, Heat Management, and the August Reset"
+- Description: 150-160 chars
+- The planning problem this solves: many gardeners have a productive spring, then the garden stalls or dies back in July heat, then they don't replant for fall until it's too late. This article closes that gap.
+- Summer crop categories: (1) true heat lovers that need to go in now — tomatoes, peppers, eggplant, basil, okra, sweet potatoes; (2) succession fills — second planting of cucumbers, summer squash, green beans for fall harvest; (3) the "August reset" — pulling bolted spring crops and seeding fall brassicas (kale, broccoli, cabbage), fall lettuce, carrots, beets — timing is 8-10 weeks before first frost
+- Zone-differentiated summer start dates: zone 5-6 last frost May 15-30, heat crops set out after that, August reset starts Aug 1-15; zone 7-8 last frost April 1-15, heat crops in earlier, August reset starts Aug 15-Sept 1; zone 9-10 different altogether — winter garden is the productive season, summer is the slow season
+- Heat stress management: soil temps above 95°F inhibit root growth; mulching with 3-4" straw or wood chips keeps soil temps 10-20°F cooler; shade cloth 30-40% for lettuce and spinach extends spring crops into early summer by 2-3 weeks
+- Succession timing math: cucumber 50-60 days to harvest; planted July 15 in zone 6 = harvest Sept 15-Oct 1, ahead of first frost Oct 15-20. Green beans 50-55 days; planted July 20 = harvest Sept 10-15. These succession plantings are often ignored but can double fall yield.
+- The August 1 window: this is the most commonly missed planting date. Broccoli transplants set out Aug 1-10 in zones 5-6 mature in 60-80 days = Oct 1-20, right at fall harvest timing. Same for cauliflower, cabbage, kale.
+- Sources: Cornell extension; OSU extension succession planting guides; university NRCS zone data
+- Internal links: /planning/spring-garden-planning/, /planning/fall-garden-planning/, /planning/winter-garden-planning/, /planning/succession-planting-calendar/
+**Acceptance:**
+- 1800+ words
+- Zone-differentiated planting calendar (at minimum zone 5-6, 7-8)
+- August reset section with specific days-to-harvest math
+- `npx astro build` passes
+
+---
+
+### AR018 — tomato-training-guide.md
+**Status:** `[>]`
+**Files:** `src/content/articles/tomato-training-guide.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Care guide on pruning and training tomatoes — specifically the yield and quality impact of different management styles for indeterminate vs determinate types. Data-backed, not just technique description. 1800+ words.
+**Details:**
+- Category: care, featured: false, publishDate: 2026-04-22
+- Title: "Pruning and Training Tomatoes: Indeterminate vs. Determinate Management and the Yield Data"
+- Description: 150-160 chars
+- The core distinction: indeterminate tomatoes keep growing and producing until frost (most heirlooms, cherry tomatoes, most slicers); determinate tomatoes set a fixed number of fruit, ripen them over 2-3 weeks, then stop (most paste tomatoes, many bred for commercial harvest)
+- Why this matters for management: indeterminate plants benefit from pruning suckers and single-stem or two-stem training to concentrate energy into fruit; determinate plants are often best left alone (pruning removes fruit-bearing nodes)
+- Sucker pruning yield data: Penn State Extension trials show single-stem indeterminate tomatoes produce 10-20% fewer total fruits but 15-25% larger individual fruits vs. unpruned plants; for cherry tomatoes, pruning rarely makes sense because small fruit size is the point; for slicers and beefsteaks, larger individual fruit has higher value per unit
+- Trellising systems: stake + string (Florida weave), cage, trellis wire, or single stake — structural comparison with cost and yield implications
+- Soil temperature and transplant timing note: tomatoes set out when soil is below 55°F show yellowing and stunted growth; soil temp at 65°F+ is the correct target for transplanting, not just air temp after last frost
+- Disease management through training: good air circulation (from proper pruning and spacing) reduces early blight (*Alternaria solani*) and Septoria leaf spot (*Septoria lycopersici*) incidence; dense, unpruned plants retain moisture and create conditions for disease; the yield argument for pruning is partly disease avoidance, not just fruit size
+- The practical case: a 4-ft cage takes 10 minutes to install and zero maintenance; single-stake with weekly tying takes 30 minutes total per plant per season; for 4 plants, the extra time investment is 80 minutes for potentially 15-20% larger fruit — worth it for beefsteak, not worth it for cherry
+- Sources: Penn State Extension tomato production guide; NC State Extension disease management; Rutgers cooperative extension
+- Internal links: /crops/tomato/, /crops/cherry-tomato/, /roi/tomato-roi-deep-dive/
+**Acceptance:**
+- 1800+ words
+- Explicit comparison table: single-stem vs. unpruned indeterminate yield and fruit size data
+- Determinate vs indeterminate distinction made clear early
+- `npx astro build` passes
+
+---
+
+### AR019 — medicinal-herb-garden.md
+**Status:** `[>]`
+**Files:** `src/content/articles/medicinal-herb-garden.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Homestead article on growing herbs for tea, tinctures, and medicinal use. Honest about evidence, focused on what actually has documented use and retail value. 2000+ words.
+**Details:**
+- Category: homestead, featured: false, publishDate: 2026-04-22
+- Title: "Medicinal and Tea Herb Garden: What's Worth Growing, What Evidence Exists"
+- Description: 150-160 chars
+- Tone note: honest and evidence-graded. Do not make unsupported medical claims. Grade each herb's evidence: "traditional use documented" vs "clinical trial evidence exists" vs "well-established mechanism." Never claim to treat or cure anything.
+- Herbs worth growing with retail value context: chamomile ($12-25/lb dried; clinical trial evidence for mild anxiolytic effect — cite meta-analysis); lemon balm ($8-18/lb dried; evidence for mild sedative and antiviral properties in vitro); peppermint ($8-15/lb dried; well-established mechanism for digestive symptoms, IBS — cite NIH); lavender ($15-30/lb dried; aromatherapy evidence for anxiety; culinary use too); echinacea ($12-22/lb dried; mixed evidence for immune function; most studied herb after St. John's Wort); valerian ($10-20/lb dried; sleep research, mixed results); ashwagandha ($15-30/lb dried; adaptogen, cortisol evidence building)
+- Tea herb economics: a pound of dried chamomile makes ~180-200 cups of tea at a standard 2g/cup; $15/lb bulk retail ÷ 190 cups = $0.08/cup home-grown equivalent vs $0.25-0.50 per tea bag at retail; the savings are real but modest
+- Growing requirements by herb: chamomile (annual, direct sow, $1.99/packet); lemon balm (perennial zones 4-9, spreads aggressively, $3-4/plant); peppermint (perennial, must be contained, spreads via rhizomes); lavender (perennial zones 5-9, needs well-drained alkaline soil); echinacea (perennial zones 3-9, slow to establish, 2-3 years to full production)
+- Harvesting and drying: most medicinal herbs are most potent at or just before full bloom; drying at 95-115°F preserves volatile oils better than higher temperatures; bundle drying vs. screen drying vs. dehydrator
+- Legal note: tincture-making for personal use is legal; selling tinctures as supplements requires FDA compliance; brief mention only
+- Sources: NIH National Center for Complementary and Integrative Health (NCCIH) for evidence grades; USDA AMS for retail prices; peer-reviewed citations for specific herbs
+- Internal links: /crops/chamomile/, /crops/lavender/, /crops/lemon-balm/, /crops/peppermint/, /crops/ashwagandha/
+**Acceptance:**
+- 2000+ words
+- Evidence grade stated for each herb (not just "used for centuries")
+- Retail price and per-cup economics table
+- No unsupported health claims
+- `npx astro build` passes
+
+---
+
+### AR020 — preserving-peppers-guide.md
+**Status:** `[>]`
+**Files:** `src/content/articles/preserving-peppers-guide.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Practical homestead guide covering all four main pepper preservation methods: drying, fermenting, freezing, and pickling. Includes which method suits which pepper type and a time/value comparison. 1800+ words.
+**Details:**
+- Category: homestead, featured: false, publishDate: 2026-04-22
+- Title: "Preserving Hot Peppers: Drying, Fermenting, Freezing, and Pickling Compared"
+- Description: 150-160 chars
+- Method overview and best use case:
+  - **Drying**: best for thin-walled peppers (cayenne, Thai chili, ancho/poblano, paprika types); removes 85-90% moisture; shelf life 1-2 years in sealed jar; produces ground spice or dried whole chilis; 115-135°F dehydrator for 6-12 hours, or air-dried on string in warm dry climate
+  - **Fermenting**: lacto-fermentation for thick-walled peppers (jalapeño, serrano, habanero); 2% salt brine; 5-7 days at room temp; produces fermented hot sauce base or pickled peppers; live cultures, refrigerator shelf life 6+ months; process produces the umami/complexity that vinegar-based sauces lack
+  - **Freezing**: fastest, lowest effort; all peppers freeze well; blanching optional (unblanched peppers turn slightly softer on thaw but are fine for cooking); frozen peppers excellent for cooked applications (chili, stir fry, stuffed peppers); not suitable for fresh use after freezing; shelf life 6-12 months in freezer
+  - **Pickling (quick/vinegar)**: jalapeños and banana peppers are the standard; 1:1 vinegar/water brine with salt and sugar; processed in water bath canner for shelf stability or kept in fridge for quick pickles; heat of pepper is muted by pickling
+- Pepper × method compatibility matrix: build a table — pepper type, wall thickness, heat level, recommended methods (✓/✗/best), notes
+- Scoville heat retention: fermenting reduces perceived heat slightly as capsaicin breaks down; drying concentrates heat (fewer grams = same capsaicin load = hotter per unit weight); freezing has no meaningful effect on heat
+- Value comparison: 10 lb jalapeños ($25-40 at retail) → dried jalapeño flakes worth $15-25 after drying (weight loss 90%); → 20 jars of pickled jalapeños worth $3-5 each = $60-100 retail equivalent; → fermented hot sauce in 5oz bottles worth $8-12 each × 15 bottles = $120-180 retail equivalent. Fermenting produces the highest retail-equivalent value.
+- Sources: National Center for Home Food Preservation (NCHFP) for safe canning/pickling procedures; USDA Complete Guide to Home Canning; fermentation safety from university extension
+- Internal links: /crops/hot-pepper/, /roi/pepper-roi-analysis/, /roi/dehydrator-roi/, /homestead/lacto-fermentation-preservation/
+**Acceptance:**
+- 1800+ words
+- Pepper × method compatibility table
+- Value comparison across all 4 methods for a standard 10 lb harvest
+- `npx astro build` passes
