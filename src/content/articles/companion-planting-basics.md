@@ -25,7 +25,7 @@ Companion deterrence doesn't eliminate pests. It reduces population pressure bel
 
 The benefits fall into a few categories:
 
-**Pest deterrence**  -  Aromatic plants (basil, mint, marigolds) can confuse or repel insects that locate host plants by smell. Basil near tomatoes really does reduce aphid and thrips populations.
+**Pest deterrence**  -  Aromatic plants (basil, mint, marigolds) can confuse or repel insects that locate host plants by smell. Basil near tomatoes reduces aphid pressure in field and lab trials; it has been associated with reduced thrips populations in some trials, though the thrips evidence is less conclusive than the aphid data (Hummelbrunner & Isman, *Journal of Chemical Ecology*, 2001).
 
 **Trap cropping**  -  Some plants attract pests away from your main crop. Nasturtiums are aphid magnets  -  they'll swarm nasturtiums and leave your vegetables alone.
 
@@ -62,7 +62,7 @@ Here is the same information organized by evidence quality. This matters because
 | Pairing | Mechanism | Evidence basis | Source |
 |---|---|---|---|
 | Tomatoes + French marigolds | Root exudates suppress nematodes; foliar volatiles deter whitefly | Controlled trials, multiple studies | Chitwood, *Annual Review of Phytopathology* (2002); Ploeg, *Phytopathology* (1999) |
-| Tomatoes + basil | Basil volatiles (*linalool*, *eugenol*) reduce aphid and thrips attraction | Lab + field studies | Hummelbrunner & Isman, *Journal of Chemical Ecology* (2001) |
+| Tomatoes + basil | Basil volatiles (*linalool*, *eugenol*) reduce aphid attraction; thrips association observed in some trials | Lab + field studies | Hummelbrunner & Isman, *Journal of Chemical Ecology* (2001) |
 | Beans + corn + squash | Nitrogen fixation (beans); physical trellis (corn); ground shade (squash) | Traditional agriculture, well-documented mechanism | USDA ARS Three Sisters intercropping research |
 | Mint + brassicas | Aromatic volatiles confuse cabbage moth (*Plutella xylostella*) host-finding | Repeatable field observation; volatile mechanism documented | Penn State Extension companion planting guide |
 | Nasturtium trap crop | Aphids preferentially colonize nasturtium over most vegetables | Repeatable field observation | UC Davis ANR integrated pest management guide |

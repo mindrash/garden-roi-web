@@ -94,4 +94,4 @@ Dig after the first frost kills the foliage. Use a garden fork, loosening the so
 
 ---
 
-**Related reading:** [Jicama](/crops/jicama/) - fellow crunchy tropical root with similar fresh eating character; [Jerusalem Artichoke](/crops/jerusalem-artichoke/) - another FOS-containing root crop
+**Related reading:** [Jicama](/crops/jicama/) - fellow crunchy tropical root with similar fresh eating character; [Jerusalem Artichoke](/crops/jerusalem-artichoke/) - another FOS-containing root crop; [Root Vegetable ROI](/roi/root-vegetable-roi/) - comparing storage roots by value per bed

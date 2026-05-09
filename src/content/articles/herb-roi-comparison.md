@@ -109,6 +109,6 @@ The annual bed gives you the highest first-year return per dollar invested. The 
 
 ---
 
-**Crop pages:** [Basil](/crops/basil/)  -  [Cilantro](/crops/cilantro/)  -  [Parsley](/crops/parsley/)  -  [Dill](/crops/dill/)  -  [Mint](/crops/mint/)  -  [Thyme](/crops/thyme/)  -  [Rosemary](/crops/rosemary/)  -  [Chives](/crops/chives/)
+**Crop pages:** [Basil](/crops/basil/)  -  [Cilantro](/crops/cilantro/)  -  [Parsley](/crops/parsley/)  -  [Dill](/crops/dill/)  -  [Mint](/crops/mint/)  -  [Thyme](/crops/thyme/)  -  [Oregano](/crops/oregano/)  -  [Chives](/crops/chives/)
 
 **Related reading:** [Seeds vs Transplants](/roi/seeds-vs-transplants/)  -  cost comparison for starting herbs from seed versus buying starts

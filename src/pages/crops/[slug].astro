@@ -1,5 +1,6 @@
 ---
 import ContentLayout from '../../layouts/ContentLayout.astro';
+import PlantCard from '../../components/PlantCard.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -32,6 +33,16 @@ const plantSlugs = new Set(allPlants.map((p) => p.id));
 function nameToSlug(n: string): string {
   return n.toLowerCase().replace(/\s+/g, '-');
 }
+
+// Related crops: same category, sorted by ROI, top 3
+const relatedCrops = allPlants
+  .filter((p) => p.id !== plant.id && p.data.category === category)
+  .sort((a, b) => {
+    const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.start_cost;
+    const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.start_cost;
+    return roiB - roiA;
+  })
+  .slice(0, 3);
 
 // M003: find related articles (crop name match first, then category)
 const nameLower = name.toLowerCase();
@@ -167,6 +178,29 @@ const articleJsonLd = {
       </div>
     )}
 
+    <!-- Related Crops -->
+    {relatedCrops.length > 0 && (
+      <div class="related-crops">
+        <h2 class="related-title">Related Crops</h2>
+        <div class="related-crops-grid">
+          {relatedCrops.map((p) => (
+            <PlantCard
+              slug={p.id}
+              name={p.data.name}
+              scientific_name={p.data.scientific_name}
+              category={p.data.category}
+              days_min={p.data.days_min}
+              days_max={p.data.days_max}
+              avg_yield_lb={p.data.avg_yield_lb}
+              avg_price_lb={p.data.avg_price_lb}
+              watering={p.data.watering}
+              sunlight={p.data.sunlight}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+
     <!-- Track CTA -->
     <div class="track-cta">
       <p>Growing {name}? Track your harvest value and break-even date in the Garden ROI app.</p>
@@ -297,6 +331,18 @@ const articleJsonLd = {
     display: flex;
     flex-direction: column;
     gap: var(--space-s);
+  }
+
+  .related-crops {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+  }
+
+  .related-crops-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: var(--space-m);
   }
 
   .related-entry {

@@ -1,6 +1,7 @@
 ---
 import ContentLayout from './ContentLayout.astro';
-import { render } from 'astro:content';
+import ArticleCard from '../components/ArticleCard.astro';
+import { render, getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -29,6 +30,19 @@ const {
 
 const { Content } = await render(article);
 const { title, description, publishDate, featured } = article.data;
+
+// Further Reading: same category, exclude current, most recent 3
+const allArticles = await getCollection('articles');
+const furtherReading = allArticles
+  .filter((a) => a.id !== article.id && a.data.category === article.data.category)
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
+  .slice(0, 3);
+
+function sectionPathFor(cat: string): string {
+  if (cat === 'roi') return '/roi';
+  if (cat === 'homestead') return '/homestead';
+  return '/guides';
+}
 
 const formattedDate = publishDate.toLocaleDateString('en-US', {
   year: 'numeric',
@@ -76,6 +90,25 @@ const articleJsonLd = {
     <div class="prose article-body">
       <Content />
     </div>
+
+    {furtherReading.length > 0 && (
+      <aside class="further-reading">
+        <h2 class="further-reading-title">Further Reading</h2>
+        <div class="further-reading-grid">
+          {furtherReading.map((a) => (
+            <ArticleCard
+              slug={a.id}
+              title={a.data.title}
+              description={a.data.description}
+              category={a.data.category}
+              publishDate={a.data.publishDate}
+              featured={a.data.featured}
+              sectionPath={sectionPathFor(a.data.category)}
+            />
+          ))}
+        </div>
+      </aside>
+    )}
 
     <footer class="article-footer">
       <a href={backHref} class="btn btn-outline">{backLabel}</a>
@@ -125,6 +158,25 @@ const articleJsonLd = {
 
   .article-body {
     margin-bottom: var(--space-xxl);
+  }
+
+  .further-reading {
+    padding-top: var(--space-xl);
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    margin-bottom: var(--space-xl);
+  }
+
+  .further-reading-title {
+    font-size: var(--text-h3);
+    font-weight: 700;
+    color: var(--color-text-primary);
+    margin: 0 0 var(--space-l);
+  }
+
+  .further-reading-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: var(--space-m);
   }
 
   .article-footer {

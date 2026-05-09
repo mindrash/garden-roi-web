@@ -1,15 +1,15 @@
 ---
 title: How to Break Even on a Raised Bed Garden
-description: A raised bed costs $100–$300 to build. Here's exactly how to plant it to recover that cost by fall - with per-crop value tables, three planting strategies, and zone-adjusted break-even dates.
+description: A 4x8 raised bed costs $97–$175 to build and fill in Year 1 (sourced 2025 lumber and soil prices). Here's exactly how to plant it to recover that cost by fall.
 category: roi
 publishDate: 2026-02-01
 featured: true
 hero_image: /images/articles/raised-bed-break-even.webp
 ---
 
-A standard 4×8 foot raised bed costs $185–$360 to build and fill in Year 1. That same 32 square feet, planted with the right crops in the right configuration, can yield $280–$550 worth of groceries in a single season.
+A standard 4×8 foot raised bed costs $93–$150 to build and fill in Year 1, depending on lumber choice and whether you use bagged or bulk soil. That same 32 square feet, planted with the right crops in the right configuration, can yield $200–$400 worth of groceries in a single season.
 
-The math works. But it only works if you make deliberate choices about what to plant and how much space to give each crop. A bed full of zucchini breaks even slowly, if at all. A bed built around high-value herbs, salad greens, and tomatoes can turn positive well before summer ends.
+The math works. But it only works if you make deliberate choices about what to plant and how much space to give each crop. A bed of low-value crops breaks even slowly. A bed built around [garlic](/crops/garlic/), [tomatoes](/crops/tomato/), [basil](/crops/basil/), and salad greens can turn positive well before summer ends.
 
 Here is exactly how to do it - with the crop-by-crop math to back it up.
 
@@ -17,19 +17,27 @@ Here is exactly how to do it - with the crop-by-crop math to back it up.
 
 First-year costs include the one-time build (lumber, hardware cloth, soil) plus annual inputs (seeds, transplants, amendments). The structure cost is amortized over the life of the bed.
 
-| Expense | Cost | Recurrence |
-|---------|------|-----------|
-| Lumber (cedar 2x6, 4x8 bed) | $60–$120 | Once (10+ year lifespan). Cedar 2x6x8 boards typically run $12–$22 each at major hardware retailers; a 4x8 bed requires four boards plus hardware. |
-| Hardware cloth (gopher protection) | $20–$30 | Once. A 10-foot roll at 24-inch height covers a standard 4x8 bed perimeter. |
-| Soil + compost (first fill) | $60–$120 | Major top-off every 3 years. A 4x8x10 inch bed requires roughly 26 cubic feet of mix. Bulk topsoil/compost blends run $35–$60 per cubic yard delivered; bagged mixes cost more. (Cornell Cooperative Extension, *Raised Bed Gardening*, 2021) |
-| Seeds | $15–$30 | Annual |
-| Transplants | $20–$40 | Annual |
-| Amendments (fertilizer, etc.) | $10–$20 | Annual |
-| **Total Year 1** | **$185–$360** | - |
+Lumber prices surveyed at Home Depot and Lowe's, 2025. Soil costs from bulk delivery quotes and bagged product pricing, 2025. Regional variation applies; prices run higher in the Pacific Northwest and Northeast.
 
-In Years 2 and beyond, your annual cost drops to roughly $45–$90 (seeds, transplants, amendments). The lumber and soil are already paid for.
+| Expense | Pine option | Cedar option | Recurrence |
+|---------|-------------|-------------|-----------|
+| Lumber (4 boards for 4x8 bed) | $32–$48 (2×10×8 Douglas fir, $8–$12/board) | $60–$100 (2×12 cedar, $15–$25/board) | Pine lasts 4–6 years; cedar lasts 10–15 years |
+| Hardware cloth (gopher protection) | $20–$30 | $20–$30 | Once |
+| Soil - bagged (Mel's Mix equivalent) | $61–$92 (bagged $0.80–$1.20/qt; 24 cu ft bed) | same | Amend with 1-2" compost annually |
+| Soil - bulk (topsoil/compost blend) | $30–$50 per yard delivered; a 4×8×10" bed uses ~1 yard | same | Cheaper than bagged for beds larger than 4×8 |
+| Seeds | $15–$30 | $15–$30 | Annual |
+| Transplants (garlic, tomatoes, basil) | $0–$15 | $0–$15 | Annual |
+| **Total Year 1 (pine + bagged soil)** | **$128–$170** | - | |
+| **Total Year 1 (pine + bulk soil)** | **$97–$123** | - | |
+| **Total Year 1 (cedar + bulk soil)** | - | **$125–$175** | Higher upfront; lower 10-year total |
 
-**The amortization math:** A $250 mid-range build cost, spread over 10 years of bed life at $25/year, means your actual amortized annual structure cost is negligible. The meaningful number is the recurring input cost of $45–$90. Against $250–$400 in annual harvest value, that is $160–$350 in net savings per bed, per year, for the life of the bed.
+The honest Year 1 range: **$97–$175** depending on lumber choice and soil source. Budget $100–$150 if you shop carefully. Budget $175+ if you use cedar and bagged soil.
+
+In Years 2 and beyond, your annual cost drops to $30–$60 (seeds, transplants, 1–2 inches of compost top-dress at $15–$30 bagged or free from a home compost pile). The lumber and initial soil fill are already paid for.
+
+**The amortization math:** Cedar at $80 in lumber, amortized over 10 years, costs $8/year. Pine at $40, lasting 5 years, costs $8/year. Lumber amortization is essentially the same once you account for replacement frequency. The difference is the upfront cash requirement and the labor of rebuilding. Cedar makes sense if you're building something permanent. Pine makes sense if you want to experiment cheaply and scale later.
+
+For Year 1 break-even: if the bed produces $200 in harvest value - realistic with garlic, tomatoes, and basil filling the space - you recover inputs ($97–$123 for pine + bulk soil) mid-season and are net positive before the first frost. See [First Three Years of Garden ROI](/roi/first-three-years-roi/) for the year-by-year picture.
 
 ## What Each Crop Actually Earns
 

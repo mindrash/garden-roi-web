@@ -141,4 +141,4 @@ The seeds can be cleaned and roasted at 325°F with oil and salt for 20-25 minut
 
 ---
 
-**Related reading:** [Butternut Squash](/crops/butternut-squash/) - longer storage, longer season; [Spaghetti Squash](/crops/spaghetti-squash/) - different texture profile, medium storage; [Zucchini](/crops/zucchini/) - same species, summer harvest
+**Related reading:** [Butternut Squash](/crops/butternut-squash/) - longer storage, longer season; [Spaghetti Squash](/crops/spaghetti-squash/) - different texture profile, medium storage

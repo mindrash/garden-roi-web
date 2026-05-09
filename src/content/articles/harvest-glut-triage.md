@@ -55,7 +55,7 @@ The rule: if you wouldn't serve it to someone for dinner tonight, do not waste f
 | Crop | Fresh shelf life | First choice | Second choice | Skip if |
 |------|-----------------|--------------|---------------|---------|
 | [Tomatoes](/crops/tomato/) | 3-5 days ripe | Sauce or paste (freeze) | Whole freeze or oven-dry | Cracked and moldy - compost |
-| [Zucchini](/crops/zucchini/) (small) | 5-7 days | Give away fresh | Shred and freeze for baking | Over 10 inches - compost |
+| Zucchini (small) | 5-7 days | Give away fresh | Shred and freeze for baking | Over 10 inches - compost |
 | Cucumbers | 7-10 days | Refrigerate or give away | Quick pickles | Overripe or seedy - compost |
 | [Basil](/crops/basil/) | 2-5 days cut | Pesto (freeze in cubes) | Dry or freeze in oil | Blackened leaves - remove before processing |
 | Green beans | 5-7 days refrigerated | Blanch and freeze | Pickle | - |
@@ -133,7 +133,7 @@ The compost pile is not a failure. If you spent 2 hours processing zucchini that
 
 You will probably have this problem again next July if you don't change anything. The eight-zucchini-plant setup was the mistake, and it happened in April when everything felt possible and the seed packets looked manageable.
 
-The rule that extension offices consistently recommend: plant in proportion to actual household consumption, not in proportion to April enthusiasm. For zucchini, that's one or two plants per household. One [zucchini](/crops/zucchini/) plant under good conditions will produce 6-10 lb per week at peak season - more than most households can eat. Two plants is plenty. Eight plants is a neighborhood problem.
+The rule that extension offices consistently recommend: plant in proportion to actual household consumption, not in proportion to April enthusiasm. For zucchini, that's one or two plants per household. One zucchini plant under good conditions will produce 6-10 lb per week at peak season - more than most households can eat. Two plants is plenty. Eight plants is a neighborhood problem.
 
 The same principle applies across your garden. [Tomatoes](/crops/tomato/) are a bigger time commitment per plant than most people expect: a single indeterminate plant can yield 15-25 lb over the season (Cornell Cooperative Extension, Tomato Production). If you planted 12 tomato plants, you are looking at potentially 200 lb of tomatoes between July and September. That's not a garden, it's a small-scale farming operation, and it should be planned like one.
 

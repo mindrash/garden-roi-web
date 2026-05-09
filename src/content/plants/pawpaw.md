@@ -107,4 +107,4 @@ Pawpaws ripen in late August through October depending on variety and location. 
 
 ---
 
-**Related reading:** [Persimmon](/crops/persimmon/) - another native tree fruit with similar late-season harvest timing; [Mulberry](/crops/mulberry/) - low-maintenance native fruit tree
+**Related reading:** [Persimmon](/crops/persimmon/) - another native tree fruit with similar late-season harvest timing; [Mulberry](/crops/mulberry/) - low-maintenance native fruit tree; [Fruit Tree Payback Timeline](/roi/fruit-tree-payback-timeline/) - when tree fruits break even on investment

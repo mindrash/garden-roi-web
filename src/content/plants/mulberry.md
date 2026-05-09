@@ -108,4 +108,4 @@ The standard harvest method: spread a tarp or old sheet under the tree and shake
 
 ---
 
-**Related reading:** [Plum](/crops/plum/) - another high-yield perennial fruit; [Herb Preservation Guide](/articles/herb-preservation-guide/) - preserving berry surplus
+**Related reading:** [Plum](/crops/plum/) - another high-yield perennial fruit; [Elderberry](/crops/elderberry/) - fellow prolific fruit shrub for zones 3-9; [Herb Preservation Guide](/homestead/herb-preservation-guide/) - preserving berry surplus

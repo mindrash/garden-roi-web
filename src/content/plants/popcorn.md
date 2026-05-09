@@ -89,4 +89,4 @@ Shell the ears by hand or by rubbing two ears together over a bucket. Dried kern
 
 ---
 
-**Related crops:** [Beans](/crops/pole-bean/) - Three Sisters companion that fixes nitrogen for heavy-feeding corn; [Winter Squash](/crops/winter-squash/) - ground-cover companion in the Three Sisters system
+**Related crops:** [Beans](/crops/pole-bean/) - Three Sisters companion that fixes nitrogen for heavy-feeding corn; [Winter Squash](/crops/winter-squash/) - ground-cover companion in the Three Sisters system; [Heirloom vs Hybrid Seeds](/roi/heirloom-vs-hybrid/) - choosing open-pollinated popcorn varieties worth saving

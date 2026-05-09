@@ -28,7 +28,7 @@ This list solves for three specific things. State them clearly, apply them visib
 | [Kale](/crops/kale/) | 5.5x | Moderate | Very High | 50-70 (baby leaf) |
 | [Radish](/crops/radish/) | 1.8x | Moderate | Very High | 22-30 |
 | [Green Bean (bush)](/crops/green-bean/) | 3-4x | High | High | 50-60 |
-| [Zucchini](/crops/zucchini/) | 3-5x | Moderate | Very High | 50-65 |
+| Zucchini | 3-5x | Moderate | Very High | 50-65 |
 | [Lettuce (leaf)](/crops/lettuce/) | 4-6x | Moderate | High (spring/fall) | 30-40 (baby leaf) |
 | [Cilantro](/crops/cilantro/) | 4.5x | Moderate | High (cool season) | 21-28 |
 | [Chives](/crops/chives/) | Negative yr 1, perennial | Moderate | Extremely High | 60-90 (year 1) |
@@ -109,7 +109,7 @@ Pick beans when the pods are full but before the seeds inside swell visibly. Ove
 
 ### 7. Zucchini
 
-[Zucchini](/crops/zucchini/) (*Cucurbita pepo*) is the most productive vegetable per plant that most home gardeners can grow. One plant, given 4 square feet and average garden soil, will produce 8 to 12 pounds of fruit in a season. Two plants produce 16 to 24 pounds. Six plants produce more zucchini than your neighbors want.
+Zucchini (*Cucurbita pepo*) is the most productive vegetable per plant that most home gardeners can grow. One plant, given 4 square feet and average garden soil, will produce 8 to 12 pounds of fruit in a season. Two plants produce 16 to 24 pounds. Six plants produce more zucchini than your neighbors want.
 
 Be honest about this up front: plant one zucchini. Maybe two if you have a family of four and you actually like zucchini. Do not plant six because a six-pack of transplants was cheaper at the nursery.
 

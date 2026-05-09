@@ -92,4 +92,4 @@ Cut rather than twist to avoid damaging vines. The cut surface weeps a small amo
 
 ---
 
-**Related reading:** [Chinese Broccoli](/crops/chinese-broccoli/) - another Asian market staple; [Summer Squash / Zucchini](/crops/zucchini/) - fellow cucurbit with different character
+**Related reading:** [Chinese Broccoli](/crops/chinese-broccoli/) - another Asian market staple; [Cucumber](/crops/cucumber/) - fellow cucurbit grown for fresh use and pickling

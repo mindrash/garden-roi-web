@@ -30,11 +30,13 @@ The category matters more with cucumbers than with most vegetables. Growing the 
 
 **Persian/snacking cucumbers** - Persian Baby, Beit Alpha - run 4–6 inches, are nearly seedless, have thin edible skin, and a sweet, clean flavor. They produce in clusters and don't require peeling. At retail they command $2–$4/lb because specialty grocers can charge it, and farmers market customers will pay $3–$4 for a basket. If you're growing for fresh eating and want the best possible fruit for snacking or appetizer boards, this is the category. They're not ideal for pickling because the flesh is denser and the size makes for awkward whole pickles.
 
-| Type | Key Varieties | Harvest Size | Retail Price | Best Use |
-|------|--------------|--------------|--------------|----------|
-| Slicing | Straight Eight, Marketmore 76, Burpless | 7–9 inches | $0.89–$2.00/fruit | Fresh eating, salads |
-| Pickling | National Pickling, Calypso, Kirby | 2–5 inches | $0.75–$1.50/lb | Pickles, preserved |
-| Persian/snacking | Persian Baby, Beit Alpha | 4–6 inches | $2–$4/lb | Fresh eating, snacking |
+Retail prices from USDA AMS; days to maturity from Johnny's Selected Seeds and Burpee variety data.
+
+| Type | Key Varieties | Days to Harvest | Harvest Size | Retail Price | Best Use |
+|------|--------------|-----------------|--------------|--------------|----------|
+| Slicing | Straight Eight, Marketmore 76, Burpless | 55–65 days | 7–9 inches | $1.00–$2.00/lb | Fresh eating, salads |
+| Pickling | National Pickling, Calypso, Kirby | 50–60 days | 2–5 inches | $1.00–$1.50/lb | Pickles, preserved |
+| Persian/snacking | Persian Baby, Beit Alpha | 60–70 days | 4–6 inches | $2.50–$4.00/lb | Fresh eating, snacking |
 
 The other split worth knowing: **monoecious** vs. **gynoecious** types. Standard cucumbers produce separate male and female flowers on the same plant. Most modern hybrid varieties are gynoecious - predominantly female flowers, more fruit set, earlier production. Gynoecious seed packets typically include a few seeds of a monoecious pollinator variety for a reason: all-female flowers need pollen from somewhere. Read the packet before assuming all the seeds are the same.
 
@@ -62,7 +64,7 @@ Soil pH of 6.0–6.8 is the target range. Cucumbers are light to moderate feeder
 
 **Trellising is not optional** if you're growing more than one or two plants. Vertical growing does three things: it improves airflow around foliage, which directly reduces powdery mildew pressure; it keeps fruit off the soil where it rots and attracts pests; and it makes harvest faster. Ground-grown cucumbers typically yield 20–30% less than the same variety trellised (Cornell Cooperative Extension, *Cucumber Production*, 2019). Hanging fruit also tends to be less bitter than ground-contact fruit because the fruit develops without pressure points that can stress the plant.
 
-A cattle panel or sturdy wire mesh trellis at 5–6 feet handles even aggressive vines. In a raised bed, a trellis doubles your effective growing area per square foot. Use cucumber clips or loose fabric ties - never wire around the stem.
+A cattle panel or sturdy wire mesh trellis at 5–6 feet handles even aggressive vines. In a 4-foot-wide raised bed, a 6-foot trellis running the length of the bed supports 2–3 plants comfortably with 18-inch spacing. In a raised bed, a trellis doubles your effective growing area per square foot. Use cucumber clips or loose fabric ties - never wire around the stem.
 
 Water 1–1.5 inches per week, consistently. Mulch 2–3 inches deep to buffer moisture between waterings. The consistency matters more than the quantity.
 
@@ -121,4 +123,4 @@ For pickling: process within 24 hours of harvest if possible. The longer cucumbe
 
 **Related crops:** [Tomato](/crops/tomato/), [Green Bean](/crops/green-bean/)
 
-**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/) - how to run the numbers on whether your garden investment pencils out; [The Financial Case for Canning](/homestead/canning-financial-case/) - converting a cucumber surplus into pickles that store for a year
+**Related reading:** [The Financial Case for Canning](/homestead/canning-financial-case/) - converting a cucumber surplus into pickles that store for a year; [Harvest Glut Triage](/homestead/harvest-glut-triage/) - what to do when the cucumber bed outruns your kitchen; [Raised Bed Break-Even](/roi/raised-bed-break-even/) - how to run the numbers on whether your garden investment pencils out

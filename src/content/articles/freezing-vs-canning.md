@@ -34,7 +34,7 @@ Freezing handles most of the high-volume crops from a productive garden. The pro
 
 Crops that freeze well and where canning would be overkill:
 
-- **[Zucchini](/crops/zucchini/)** - Shred, squeeze out excess moisture, freeze in 2-cup portions for baked goods and soups all winter. This is the single best use of a zucchini surplus.
+- **Zucchini** - Shred, squeeze out excess moisture, freeze in 2-cup portions for baked goods and soups all winter. This is the single best use of a zucchini surplus.
 - **Berries** - No blanching needed. Spread on a sheet pan, freeze solid, then bag. Texture changes but flavor is excellent.
 - **Fresh herbs** - Chop and freeze in ice cube trays with olive oil or water. Ready to add directly to pots.
 - **Corn** - Blanch 4-6 minutes for on-cob, 3-4 minutes cut. Sweet corn frozen at peak beats canned grocery store corn substantially.

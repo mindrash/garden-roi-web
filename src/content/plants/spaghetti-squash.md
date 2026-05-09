@@ -110,4 +110,4 @@ Harvest when the skin is fully yellow and hard. A fingernail pressed into the sk
 
 ---
 
-**Related reading:** [Acorn Squash](/crops/acorn-squash/) - fellow winter squash with different flavor profile; [Zucchini](/crops/zucchini/) - summer squash, same species
+**Related reading:** [Acorn Squash](/crops/acorn-squash/) - fellow winter squash with different flavor profile; [Butternut Squash](/crops/butternut-squash/) - longest storage of the winter squash types

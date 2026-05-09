@@ -56,6 +56,8 @@ A garden that produces from March through November doesn't require more space  -
 
 Most of the work that determines your spring yields happens before planting. Soil temperature matters more than calendar date - vegetable seeds don't germinate reliably below 50°F, and some crops (tomatoes, peppers) stall in soil below 60°F even if transplanted as established starts. A $10 soil thermometer is the most useful tool for February and March.
 
+All timing below is for Zones 5-6. Find your zone using the [USDA Plant Hardiness Zone Map](https://planthardiness.ars.usda.gov/) - enter your ZIP code for your zone and average frost dates.
+
 What to do by timing:
 
 **February (Zone 5-6):** If you're adding bulk compost to beds, now is the time to source it and have it delivered. Frozen ground doesn't absorb top-dressings well, but early spring thaw will work it in before planting. Order seeds. Inventory what's left from last year - most vegetable seeds remain viable for 2-3 years stored cool and dry.
@@ -66,7 +68,7 @@ What to do by timing:
 
 **2-4 weeks before last frost (Zone 5-6: late April):** Test soil temperature. If consistently above 50°F, beds are ready for cool-season transplants (lettuce, brassica starts). Add compost as a 1-inch topdressing if you didn't work it in earlier.
 
-**Last frost date:** Set tomatoes and peppers, direct sow beans, cucumber, and squash. This date is Zone-specific. Use the USDA ARS Plant Hardiness Zone finder at planthardiness.ars.usda.gov.
+**Last frost date:** Set tomatoes and peppers, direct sow beans, cucumber, and squash. This date is Zone-specific. Use the [USDA ARS Plant Hardiness Zone Map](https://planthardiness.ars.usda.gov/) to find yours.
 
 Source: Purdue Extension (*Vegetable Planting Guide*, ID-56) for soil temperature thresholds; Penn State Extension (*Starting Plants from Seeds*) for indoor start timing.
 

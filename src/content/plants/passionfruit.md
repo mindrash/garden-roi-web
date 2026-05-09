@@ -102,4 +102,4 @@ Scoop out the pulp and seeds together - the gelatinous pulp surrounding the edib
 
 ---
 
-**Related reading:** [Hardy Kiwi](/crops/hardy-kiwi/) - fellow productive tropical-flavored vine; [Loquat](/crops/loquat/) - subtropical fruit with similar limited commercial availability
+**Related reading:** [Hardy Kiwi](/crops/hardy-kiwi/) - fellow productive tropical-flavored vine; [Loquat](/crops/loquat/) - subtropical fruit with similar limited commercial availability; [Food Forest Basics](/homestead/food-forest-basics/) - establishing productive perennial systems

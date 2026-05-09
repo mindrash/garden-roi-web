@@ -117,6 +117,6 @@ If you want to verify the Brix of your harvest, a $15 handheld refractometer fro
 
 ---
 
-**Related crops:** [Radish](/crops/radish/), [Zucchini](/crops/zucchini/)
+**Related crops:** [Radish](/crops/radish/), [Watermelon](/crops/watermelon/)
 
 **Related reading:** [How to Find Local Prices](/roi/how-to-find-local-prices/)  -  how specialty variety prices at farmers markets change your ROI math

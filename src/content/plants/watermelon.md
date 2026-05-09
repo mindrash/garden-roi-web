@@ -125,6 +125,6 @@ If you have more melons than you can use fresh, they don't freeze well whole. Th
 
 ---
 
-**Related crops:** [Radish](/crops/radish/), [Zucchini](/crops/zucchini/)
+**Related crops:** [Radish](/crops/radish/), [Cantaloupe](/crops/cantaloupe/)
 
 **Related reading:** [How to Measure Yield](/roi/how-to-measure-yield/)  -  tracking actual per-vine output to validate your spacing decisions

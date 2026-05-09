@@ -18,7 +18,17 @@ hero_image: /images/crops/strawberry.webp
 
 The cultivated strawberry (*Fragaria* × *ananassa*) is an octoploid hybrid that doesn't exist in the wild  -  it was bred in 18th-century France from two American species, *F. virginiana* and *F. chiloensis*. What this history means practically is that modern garden strawberries are highly productive but also highly selected, with characteristics that respond well to deliberate management and poorly to neglect.
 
-Strawberry economics work differently than annual crops. In year one, you're building a root system, not harvesting a crop. If you plant June-bearing types and do it right, you'll suppress most of the first-year flowers to redirect energy into crown and root development. That costs you a season. In year two, well-established plants can produce 1.5–2.0 lb per plant. Fresh strawberries at retail run $3.50–$5.99 per lb for conventional, more for organic (USDA Economic Research Service, *Fruit and Tree Nuts Outlook*, 2023). An 18-plant bed costs less than $20 in bare-root crowns and returns that investment in the second season.
+Strawberry economics work differently than annual crops. In year one, you're building a root system, not harvesting a crop. With June-bearing types, most growers pinch all flowers for the first 6–8 weeks after planting to redirect energy into crown and root development. Year 1 actual harvest is minimal by design - you're investing that season to load the plant for Year 2.
+
+Year 2–3 is where the numbers work. Established June-bearing plants yield 1–2 lb per plant in their productive peak (OSU Extension, *Strawberry Production in the Home Garden*, HYG-1217-96; NCSU Extension, *Small Fruit Production*). Day-neutral types yield 0.5–1 lb/plant/season but produce continuously.
+
+Fresh strawberries at retail run $3–$5/lb for conventional and $5–$8/lb for organic (USDA AMS). An 18-plant June-bearing bed at $20 in bare-root crowns, producing 1.5 lb/plant average in Year 2 at $4/lb, returns $108 against a $20 input. The Year 1 setup cost is a real cost - don't pretend it isn't - but the payback timeline is legitimate.
+
+| Type | Year 1 harvest | Year 2-3 yield | Notes |
+|---|---|---|---|
+| June-bearing | Minimal - pinch flowers | 1–2 lb/plant | Concentrated 2–3 week harvest; best for preserving |
+| Everbearing | Light spring crop | 0.75–1.25 lb/plant | Two crops (spring + fall); lower per-harvest yield |
+| Day-neutral | Light harvest possible | 0.5–1 lb/plant/season | Continuous; best for containers; least photoperiod-dependent |
 
 ## Which type to plant
 
@@ -48,7 +58,9 @@ Mulch heavily with straw (2–3 inches) after planting. Mulch keeps fruit off th
 
 Strawberry plants produce stolons (runners) that root and form daughter plants. Let runners root 6–8 inches from the mother plant to fill in the bed; remove runners beyond that to keep the bed from overcrowding. Crowded beds have reduced airflow, more disease pressure, and smaller fruit.
 
-After three to four years, June-bearing beds typically need renovation. Immediately after harvest, mow or cut foliage to about 1 inch above the crowns, thin plants to 5–6 inches apart, fertilize with a balanced fertilizer, cultivate shallowly between rows to reduce weed competition, and water well. The bed recovers quickly and produces well for several more years.
+After three years, June-bearing plants typically show declining yield per plant. The standard recommendation is full bed replacement on a 3-year cycle. The economic advantage: runners from your existing plants root freely and can be transplanted at zero cost. A bed that cost $20 in bare-root crowns in Year 1 regenerates entirely from runners at $0 in Year 4. The runners carry the genetic characteristics of the parent plant and establish quickly with existing soil biology.
+
+To renovate rather than replace: immediately after harvest, mow foliage to 1 inch above crowns, thin plants to 5–6 inches apart, fertilize with balanced granular fertilizer, and cultivate shallowly to reduce weed pressure. Renovated beds can produce well for 1–2 additional seasons before full replanting makes more sense than renovation.
 
 ## What goes wrong
 
@@ -72,6 +84,8 @@ For longer storage, freeze whole or sliced on a baking sheet until firm, then tr
 
 ---
 
-**Related crops:** [Lettuce](/crops/lettuce/), [Mint](/crops/mint/)
+**Companion note:** Borage (*Borago officinalis*) attracts bumblebees and honeybees and is the classic companion for strawberries for this reason - strawberries require bee pollination, and borage in bloom near the bed increases pollinator visitation visibly. Do not plant strawberries adjacent to brassicas (cabbage, broccoli, kale, cauliflower) - both are heavy feeders that compete directly, and some extension guides note allelopathic interactions in close plantings.
 
-**Related reading:** [Raised Bed Break-Even](/roi/raised-bed-break-even/)  -  how to calculate whether a perennial crop like strawberries pays off over its full productive life; [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  the multi-year ROI math for established perennial fruit plantings
+**Related crops:** [Raspberry](/crops/raspberry/), [Blueberry](/crops/blueberry/), [Borage](/crops/borage/)
+
+**Related reading:** [Berry ROI Comparison](/roi/berry-roi-comparison/) - strawberry vs. raspberry vs. blueberry year-by-year return analysis; [Raised Bed Break-Even](/roi/raised-bed-break-even/) - how to calculate whether a perennial crop pays off over its full productive life; [Perennial Garden Economy](/roi/perennial-garden-economy/) - the multi-year ROI math for established perennial fruit plantings

@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: April 18, 2026 (CE001-CE005, NP001, CX001, AR001 complete; P094-P103 done; AR002-AR010 done)_
+_Last updated: May 9, 2026 (T001-T012 + CF001-CF003 + F008-F013 complete)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -5553,7 +5553,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### AR011 — berry-roi-comparison.md
-**Status:** `[>]`
+**Status:** `[x]`
 **Files:** `src/content/articles/berry-roi-comparison.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** ROI comparison of the four main home garden berries — strawberry, raspberry, blueberry, blackberry. Covers startup cost, years to full production, yield, retail price, and 5-year cumulative ROI. 2000+ words.
@@ -5578,7 +5578,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### AR012 — pepper-roi-analysis.md
-**Status:** `[>]`
+**Status:** `[x]`
 **Files:** `src/content/articles/pepper-roi-analysis.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** ROI analysis of hot peppers with emphasis on value-added processing: fresh vs. dried vs. ground vs. fermented hot sauce. Shows how drying multiplies value 5-8x. 2000+ words.
@@ -5604,7 +5604,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### AR013 — root-vegetable-roi.md
-**Status:** `[>]`
+**Status:** `[x]`
 **Files:** `src/content/articles/root-vegetable-roi.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** ROI comparison of the 5 main root vegetables: carrot, beet, parsnip, turnip, radish. Per-sq-ft yield, retail price, seed cost, days to harvest. Includes a quick-turn/slow-turn analysis. 1800+ words.
@@ -5629,7 +5629,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### AR014 — microgreens-roi.md
-**Status:** `[>]`
+**Status:** `[x]`
 **Files:** `src/content/articles/microgreens-roi.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** ROI analysis of growing microgreens — the indoor, 7-14 day crop that retails for $20-40/lb at farmers markets. Covers seed cost, tray cost, light cost, yield, and break-even. 1800+ words.
@@ -5655,7 +5655,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### AR015 — salad-greens-roi.md
-**Status:** `[>]`
+**Status:** `[x]`
 **Files:** `src/content/articles/salad-greens-roi.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** ROI comparison of growing salad greens vs. buying pre-washed clamshell mix. Covers lettuce, arugula, spinach, mache, and mesclun mix. Includes a cut-and-come-again yield model. 1800+ words.
@@ -5681,7 +5681,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### AR016 — freeze-dryer-roi.md
-**Status:** `[>]`
+**Status:** `[x]`
 **Files:** `src/content/articles/freeze-dryer-roi.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** ROI analysis of home freeze dryers ($2,500-4,000) vs. dehydrators, freezers, and canning. When the expensive appliance makes sense, when it doesn't. 2000+ words.
@@ -5708,7 +5708,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### AR017 — summer-garden-planning.md
-**Status:** `[>]`
+**Status:** `[x]`
 **Files:** `src/content/articles/summer-garden-planning.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Planning guide for the summer garden — what to direct-sow after spring crops, how to manage heat stress, which crops need to come out and which go in. Companion to spring/fall/winter planning articles. 1800+ words.
@@ -5733,7 +5733,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### AR018 — tomato-training-guide.md
-**Status:** `[>]`
+**Status:** `[x]`
 **Files:** `src/content/articles/tomato-training-guide.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Care guide on pruning and training tomatoes — specifically the yield and quality impact of different management styles for indeterminate vs determinate types. Data-backed, not just technique description. 1800+ words.
@@ -5759,7 +5759,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### AR019 — medicinal-herb-garden.md
-**Status:** `[>]`
+**Status:** `[x]`
 **Files:** `src/content/articles/medicinal-herb-garden.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Homestead article on growing herbs for tea, tinctures, and medicinal use. Honest about evidence, focused on what actually has documented use and retail value. 2000+ words.
@@ -5785,7 +5785,7 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 ---
 
 ### AR020 — preserving-peppers-guide.md
-**Status:** `[>]`
+**Status:** `[x]`
 **Files:** `src/content/articles/preserving-peppers-guide.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **What:** Practical homestead guide covering all four main pepper preservation methods: drying, fermenting, freezing, and pickling. Includes which method suits which pepper type and a time/value comparison. 1800+ words.
@@ -5808,3 +5808,464 @@ Five plant pages are under 1000 words — below the depth standard for the site.
 - Pepper × method compatibility table
 - Value comparison across all 4 methods for a standard 10 lb harvest
 - `npx astro build` passes
+
+---
+
+## Content Triage Sprint — Deletes & Rewrites (T001-T012)
+
+_Agent: Claude Code. Load skill: `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md` before any rewrite._
+_These tasks fix quality problems in existing content before new content is added. Work in order: deletes first, then rewrites._
+
+---
+
+### T001 — Delete pepper.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** No skill needed — file deletion only.
+**Files:** `src/content/plants/pepper.md`
+**What:** Delete this file. It covers bell pepper only, has wrong yield data, and omits hot pepper ROI entirely. It has been superseded by `sweet-pepper.md` and `hot-pepper.md`.
+**Details:**
+- Confirm `src/content/plants/sweet-pepper.md` and `src/content/plants/hot-pepper.md` both exist before deleting
+- Delete `src/content/plants/pepper.md`
+- Search all other content files for internal links pointing to `/crops/pepper/` — update any found links to point to `/crops/sweet-pepper/` or `/crops/hot-pepper/` as appropriate
+- Check `public/images/crops/pepper.webp` — delete if it exists (image is no longer needed)
+**Acceptance:**
+- `src/content/plants/pepper.md` does not exist
+- No broken internal links to `/crops/pepper/`
+- `npx astro build` passes with 0 errors
+
+---
+
+### T002 — Delete rosemary.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** No skill needed — file deletion only.
+**Files:** `src/content/plants/rosemary.md`
+**What:** Delete this file. It omits Zone 6/7 hardiness failure (rosemary is not reliably hardy below Zone 7) and contains absurd value math ("thousands of dollars" from a $4 plant).
+**Details:**
+- Delete `src/content/plants/rosemary.md`
+- Search all other content files for internal links pointing to `/crops/rosemary/` — remove or replace with `/crops/thyme/` or `/crops/oregano/` where contextually appropriate
+- Check `public/images/crops/rosemary.webp` — delete if it exists
+**Acceptance:**
+- `src/content/plants/rosemary.md` does not exist
+- No broken internal links to `/crops/rosemary/`
+- `npx astro build` passes with 0 errors
+
+---
+
+### T003 — Delete zucchini.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** No skill needed — file deletion only.
+**Files:** `src/content/plants/zucchini.md`
+**What:** Delete this file. Zucchini is the worst ROI vegetable (retails $0.80-1.20/lb, produces so much it becomes a burden). Presenting it as a high-value crop is misleading. It is already covered honestly in the `harvest-glut-triage.md` article.
+**Details:**
+- Delete `src/content/plants/zucchini.md`
+- Search all other content files for internal links pointing to `/crops/zucchini/` — remove or replace the link (e.g., reference the harvest-glut-triage article instead)
+- Check `public/images/crops/zucchini.webp` — delete if it exists
+**Acceptance:**
+- `src/content/plants/zucchini.md` does not exist
+- No broken internal links to `/crops/zucchini/`
+- `npx astro build` passes with 0 errors
+
+---
+
+### T004 — Delete garden-roi-explained.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** No skill needed — file deletion only.
+**Files:** `src/content/articles/garden-roi-explained.md`
+**What:** Delete this file. It uses emoji star ratings and fictional market tier percentages. It has been superseded by the `grocery-tier-roi.md` article.
+**Details:**
+- Confirm `src/content/articles/grocery-tier-roi.md` exists before deleting
+- Delete `src/content/articles/garden-roi-explained.md`
+- Search all other content files for internal links pointing to this article — update to point to `/roi/grocery-tier-roi/` where appropriate
+**Acceptance:**
+- `src/content/articles/garden-roi-explained.md` does not exist
+- No broken internal links
+- `npx astro build` passes with 0 errors
+
+---
+
+### T005 — Rewrite tomato.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/tomato.md` → keep slug, rewrite content
+**What:** Full rewrite. Add cultivar distinction (slicing vs. paste vs. cherry tomato), cited yield data by type, and zone context.
+**Details:**
+- Keep existing frontmatter fields; update values to match cited data
+- Slicing tomatoes (beefsteak, Better Boy): 10-15 lb per plant; $1.50-2.50/lb retail (USDA AMS)
+- Paste tomatoes (Roma, San Marzano): 8-12 lb per plant; $1.00-2.00/lb retail; higher processing value
+- Cherry tomatoes (Sungold, Sweet 100): 3-5 lb per plant; $3-6/lb retail; highest retail $/lb
+- Explain that `cherry-tomato.md` exists as a separate page for cherry type deep-dive; link to it
+- Yield data: cite Cornell Extension or Rutgers tomato production guide
+- Zone context: requires 60-90 frost-free days; best in zones 5-11; zone 4 requires short-season varieties
+- Disease context: early blight, late blight, septoria leaf spot — briefly mention, link to `integrated-pest-management.md`
+- Internal links: `/crops/cherry-tomato/`, `/crops/basil/`, `/roi/garlic-roi-analysis/`, `/guides/tomato-training-guide/`
+- No em dashes; no motivational closing
+**Acceptance:**
+- Cultivar type distinction (slicing/paste/cherry) is explicit
+- All yield and price figures cited
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### T006 — Rewrite basil.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/plants/basil.md`
+**What:** Fix internal math inconsistency and cite USDA ERS pricing. The current file states $14.99/lb retail in one place and "$4-6 for 1 oz" in another — these are contradictory (1 oz at $4-6 = $64-96/lb).
+**Details:**
+- Correct retail price: fresh-cut basil $6-10/lb retail (USDA AMS); specialty/organic $10-14/lb; the oz-package pricing at retail ($3-4/0.75oz) works out to $64-85/lb but that's the clamshell premium, not the bulk price — be honest about this distinction
+- Varieties: Genovese (standard culinary, highest yield), Thai basil (licorice/anise flavor, $8-14/lb), Lemon basil (citrus notes, $10-16/lb), Purple/Dark Opal (ornamental, lower yield)
+- Yield: Genovese basil 0.5-1.5 lb per plant per season with regular harvest; cite Johnny's Seeds or Penn State Extension
+- Zone context: annual everywhere; start indoors 4-6 weeks before last frost; cannot tolerate temps below 50°F
+- Preservation: best preserved as pesto frozen in ice cube trays — link to `herb-preservation-guide.md`
+- Internal links: `/crops/tomato/`, `/roi/herb-roi-comparison/`, `/homestead/herb-preservation-guide/`
+- No em dashes; no motivational closing
+**Acceptance:**
+- No contradictory price figures
+- Variety notes present (Genovese/Thai/Lemon at minimum)
+- All figures cited
+- `npx astro build` passes with 0 errors
+
+---
+
+### T007 — Rewrite strawberry.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/plants/strawberry.md`
+**What:** Distinguish June-bearing vs. everbearing vs. day-neutral types. Fix Year 1 vs. established plant yield. Cite extension data.
+**Details:**
+- June-bearing: one large crop in late spring/early summer; highest yield per plant in peak year (1-2 lb); best for preserving/freezing
+- Everbearing: two smaller crops (spring + fall); lower per-harvest yield; better for fresh eating across a longer season
+- Day-neutral: fruit continuously from June through frost; 0.5-1 lb/plant/season; best for containers; less affected by daylength
+- Year 1 reality: most growers pinch flowers in Year 1 to build root mass; actual harvest is minimal
+- Year 2-3 established yield: 1-2 lb per plant for June-bearing (cite OSU Extension or NCSU small fruit guide)
+- Retail price: $3-5/lb conventional; $5-8/lb organic (USDA AMS)
+- "Replace every 3 years" model: plants decline after 3 years; runners can be propagated as replacements at zero cost
+- Companion plant note: do not plant near brassicas; plant near borage for pollinator attraction
+- Internal links: `/roi/berry-roi-comparison/`, `/crops/raspberry/`, `/crops/blueberry/`
+- No em dashes; no motivational closing
+**Acceptance:**
+- Three type distinctions (June-bearing/everbearing/day-neutral) clearly explained
+- Year 1 vs. established yield distinction made explicit
+- All figures cited to extension sources
+- `npx astro build` passes with 0 errors
+
+---
+
+### T008 — Rewrite mint.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/plants/mint.md`
+**What:** Add hardiness zone context. Replace vague value claim with real yield math. Note that `peppermint.md` and `spearmint.md` exist as separate pages.
+**Details:**
+- Mint covers the genus broadly; this page should function as an overview with links to peppermint and spearmint pages
+- Hardiness: most mint species are hardy Zones 3-9; die back in winter but return from rhizomes in spring
+- Container requirement: mint spreads aggressively via underground rhizomes — plant only in containers or raised beds with root barriers; this is non-optional practical advice
+- Yield: a single 12-inch pot produces 0.25-0.5 lb fresh mint per season with regular harvesting; retail fresh mint $4-8/lb (USDA AMS)
+- Dried mint: $8-15/lb dried; 4:1 fresh-to-dry ratio by weight
+- The honest ROI: mint is low-maintenance perennial with modest retail value; its real value is convenience (fresh herbs on demand vs. buying $1.99 grocery store bundles)
+- Internal links: `/crops/peppermint/`, `/crops/spearmint/`, `/homestead/herb-preservation-guide/`, `/roi/herb-roi-comparison/`
+- No em dashes; no motivational closing
+**Acceptance:**
+- Container/root containment requirement stated explicitly
+- Zone hardiness stated
+- Retail price cited
+- Links to peppermint.md and spearmint.md present
+- `npx astro build` passes with 0 errors
+
+---
+
+### T009 — Rewrite cucumber.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/plants/cucumber.md`
+**What:** Distinguish slicing, pickling, and Persian types. Clarify trellised vs. ground yield difference.
+**Details:**
+- Slicing cucumbers (Straight Eight, Marketmore): 8-12 fruit per plant; $1.00-2.00/lb retail; best fresh
+- Pickling cucumbers (National Pickling, Calypso): smaller, higher skin-to-flesh ratio; $1.00-1.50/lb; required for canning quality pickles — slicers make soft pickles
+- Persian cucumbers (mini/snacking): $2.50-4.00/lb retail; high demand at grocery stores; compact plant
+- Trellis yield vs. ground: trellised plants produce 20-30% more fruit (better air circulation, easier harvest, less rot); a 6-ft trellis in a 4-ft bed width supports 2-3 plants
+- Days to harvest: 50-70 days depending on type; cite seed company data (Johnny's, Burpee)
+- Heat requirement: cucumbers sulk below 60°F; plant after soil is consistently warm (65°F+)
+- Note: cucumbers do not store well post-harvest; fresh use or pickling within 24-48 hours of harvest for best quality
+- Internal links: `/homestead/canning-financial-case/`, `/crops/zucchini/` → replace with `/guides/harvest-glut-triage/` since zucchini is being deleted
+- No em dashes; no motivational closing
+**Acceptance:**
+- Three type distinctions (slicing/pickling/Persian) present
+- Trellised vs. ground yield comparison present
+- All price/yield figures cited
+- `npx astro build` passes with 0 errors
+
+---
+
+### T010 — Rewrite lettuce.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/plants/lettuce.md`
+**What:** Source the savings estimate. Add butterhead/romaine/loose-leaf bolt timing by zone.
+**Details:**
+- Types: loose-leaf (fastest, cut-and-come-again, 30-45 days); butterhead/Bibb (45-60 days, heads; less heat-tolerant); romaine (60-75 days; most heat-tolerant lettuce type; highest retail value)
+- Retail prices (USDA AMS): romaine hearts $1.50-2.50/lb; butterhead $2.50-4.00/lb; spring mix/loose-leaf $6-12/lb (pre-washed clamshell price per pound)
+- Bolt timing by zone: Zone 5-6, loose-leaf bolts when daytime temps consistently exceed 80°F (mid-June to early July); romaine holds 2-3 weeks longer; butterhead bolts quickest
+- Cut-and-come-again yield model: 4-6 harvests of outer leaves before bolt; each harvest 0.25-0.5 lb per plant
+- Succession planting: every 2-3 weeks for continuous harvest spring and fall; link to `succession-planting-calendar.md`
+- Fall lettuce: direct sow 8 weeks before first fall frost; often more productive than spring planting (cooling temps extend season)
+- Internal links: `/roi/salad-greens-roi/`, `/guides/succession-planting-calendar/`, `/crops/arugula/`, `/crops/spinach/`
+- No em dashes; no motivational closing
+**Acceptance:**
+- Three type distinctions (loose-leaf/butterhead/romaine) present
+- Bolt timing with zone context
+- Retail prices cited (USDA AMS)
+- `npx astro build` passes with 0 errors
+
+---
+
+### T011 — Rewrite green-bean.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/plants/green-bean.md`
+**What:** Cite yield data. Source all ROI figures. Distinguish bush vs. pole bean types.
+**Details:**
+- Bush beans: determinate, all pods ready in 7-10 day window, 50-60 days; good for canning/freezing batches; 0.5-1 lb per plant (cite Cornell or OSU extension)
+- Pole beans: indeterminate, produce continuously for 6-8 weeks, 65-80 days to first harvest; higher total yield per plant (1.5-3 lb); require trellis; better for fresh eating season
+- Retail price (USDA AMS): $1.50-2.50/lb fresh; $1.00-1.50/lb frozen equivalent
+- Seed cost: $2-4 for enough seed to plant a 4×8 bed (~30 plants)
+- ROI calculation: 30 bush bean plants × 0.75 lb = 22.5 lb @ $2/lb = $45 gross value; seed cost $3; net harvest value $42 from one 4×8 bed in a 55-day window
+- Canning value: 1.5 lb fresh beans per quart jar; pressure canning required (low-acid vegetable)
+- Note: green beans do not transplant — direct sow only; soil must be above 60°F
+- Internal links: `/homestead/canning-financial-case/`, `/crops/pole-bean/`, `/guides/succession-planting-calendar/`
+- No em dashes; no motivational closing
+**Acceptance:**
+- Bush vs. pole distinction explicit
+- Yield data cited to extension source
+- ROI calculation present with stated inputs
+- `npx astro build` passes with 0 errors
+
+---
+
+### T012 — Rewrite raised-bed-break-even.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/raised-bed-break-even.md`
+**What:** Replace fictional cost ranges with sourced lumber and soil prices. Keep the break-even structure and math framework — only the input numbers need sourcing.
+**Details:**
+- Lumber: 2×10×8 Douglas fir at Home Depot/Lowe's as of 2025: $8-12/board; a 4×8 bed requires 4 boards = $32-48 in lumber (cite as surveyed retail price, regional variation noted)
+- Alternatively: 2×12 cedar (rot-resistant, lasts 10-15 years) at $15-25/board; same 4 boards = $60-100; amortized cost per year is $6-10/year over 10 years vs. $32-48 one-time for pine lasting 4-6 years
+- Soil: a 4×8×10" bed requires ~24 cubic feet of fill; bagged Mel's Mix equivalent costs $0.80-1.20/quart = $61-92 for the full bed; bulk delivery of topsoil/compost blend $30-50/yard; a 4×8 bed uses ~1 yard = $30-50
+- Total 4×8 bed setup cost: pine lumber + bagged soil = $93-140; cedar + bulk soil = $90-150; these are the honest Year 1 ranges
+- Annual input cost (Years 2+): top-dress with 1-2" of compost ($15-30 bagged or free from home pile), seeds ($15-30 for a full season of plantings) = $30-60/year
+- Break-even math: if the bed produces $200 of harvest value in Year 1 (realistic with garlic + tomatoes + basil in a 4×8), break-even is mid-first-season on inputs but Year 2 on amortized setup
+- Sources: cite specific retailer price survey date; cite Cornell or extension for harvest value estimates
+- Internal links: `/roi/first-three-years-roi/`, `/crops/garlic/`, `/crops/tomato/`, `/crops/basil/`
+- No em dashes; no motivational closing
+**Acceptance:**
+- All cost figures have a stated source or "surveyed retail price, [date]" attribution
+- Break-even calculation uses the sourced numbers
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+## Content Fixes Sprint (CF001-CF003)
+
+_Agent: Claude Code. Load skill: `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md` before any rewrite._
+_These are the remaining quality fixes from `memories/repo/content-plan.md`. Small scope — no full rewrites, just citation and copy fixes._
+
+---
+
+### CF001 — Fix beginner-homestead-crops.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/beginner-homestead-crops.md`
+**What:** Remove motivational closing paragraph. Source all yield and savings claims throughout the article.
+**Details:**
+- Read the full article first; identify every yield figure, savings claim, and price assertion
+- For each: either add an inline citation (USDA ERS/AMS, land-grant extension) or replace with a stated calculation from explicit inputs
+- Delete the closing paragraph if it contains "journey", "rewarding", "hope you enjoy", or any similar motivational register
+- Do not change the article's structure or add new sections — citation and closing fix only
+- Zero em dashes throughout
+**Acceptance:**
+- No unsourced yield or savings figures remain
+- No motivational closing paragraph
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### CF002 — Fix spring-garden-planning.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/spring-garden-planning.md`
+**What:** Link the USDA Plant Hardiness Zone Map. Source all planting calendar dates to extension recommendations.
+**Details:**
+- Add a link to the USDA zone map (`https://planthardiness.ars.usda.gov/`) where zones are first mentioned
+- For every planting date or timing recommendation in the article, add a parenthetical citation: e.g., "(Cornell Extension, 2024)" or "(OSU Extension Vegetable Planting Calendar)"
+- If a date cannot be cited to an extension source, replace it with a frost-relative date (e.g., "4-6 weeks before last frost") which is inherently defensible
+- Do not restructure the article — targeted fixes only
+- Zero em dashes throughout
+**Acceptance:**
+- USDA zone map URL present and linked
+- Every planting date either has a citation or uses frost-relative framing
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### CF003 — Add citations to companion-planting-basics.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/companion-planting-basics.md`
+**What:** Add citations for two specific claims: marigold/nematode suppression and basil/thrips deterrence. The article structure is sound — this is a citation-only fix.
+**Details:**
+- Find the marigold/nematode claim. Cite: Rickard, D.A. (2000). "Marigolds for Nematode Control." University of Florida IFAS Extension, or equivalent peer-reviewed source. If the exact mechanism stated in the article doesn't match what the research shows, correct the claim to match the evidence.
+- Find the basil/thrips deterrence claim. Cite a peer-reviewed study or university extension source. If strong evidence doesn't exist, soften the language from "repels" to "may reduce" or "has been associated with reduced thrips pressure in some trials" — do not state causation without evidence.
+- Do not restructure the article or add new sections
+- Zero em dashes throughout
+**Acceptance:**
+- Marigold/nematode claim has a linked or parenthetical citation
+- Basil/thrips claim is either cited or hedged to match actual evidence
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+## Feature Sprint 2 — IA & Homepage (F008-F013)
+
+_Agent: GitHub Copilot. These are infrastructure and UI tasks — no content writing required._
+
+---
+
+### F008 — Category Subpages for /crops/
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** `src/pages/crops/[category].astro` (new), or three separate files; `src/pages/crops/index.astro`
+**What:** Add static category subpages: `/crops/vegetables/`, `/crops/herbs/`, `/crops/fruit/`. Each is independently indexable with its own title, meta description, and h1. Resolved per decision D5 in `memories/repo/decisions.md`.
+**Details:**
+- Use a dynamic route `src/pages/crops/[category].astro` with `getStaticPaths()` returning the three categories, OR three static files — either approach is fine
+- Each page filters the plants collection by `data.plant_type` matching "Vegetable", "Herb", or "Fruit"
+- Each page has a unique `<title>` (e.g., "Vegetable Crops: ROI, Yield & Growing Guides"), unique `<meta description>`, and unique `<h1>`
+- Render the same `PlantCard` grid used on `/crops/index.astro`; reuse all existing card styles
+- Add category links to `/crops/index.astro` — e.g., filter tabs or a "Browse by type" nav that links to `/crops/vegetables/`, etc. These replace or supplement the existing client-side category filter if one exists.
+- Add BreadcrumbList JSON-LD on each category page: `Home > Crops > Vegetables`
+- All CSS via existing custom properties — no hardcoded values
+**Acceptance:**
+- `/crops/vegetables/`, `/crops/herbs/`, `/crops/fruit/` all render correctly
+- Each has a unique title, meta description, and h1
+- BreadcrumbList JSON-LD present on each
+- Crop count on each category page matches the plants collection filtered by type
+- `npx astro build` passes with 0 errors
+
+---
+
+### F009 — Rework Homepage Hero and Section Anchors
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** `src/pages/index.astro`
+**What:** Replace the feature icon strip (🌱💰🏡📱) with real content cards. Update the hero copy to be specific and numbers-forward per the IA plan spec in `memories/repo/ia-plan.md`.
+**Details:**
+- **Hero copy:** Replace current hero headline and subhead with something specific and data-grounded. Example pattern: "Garlic returns $14/sq ft. Here's how to grow it." or "Your garden should break even by August. Here's how to get there." Pull the actual top-ROI crop dynamically from the plants collection (logic already exists in `index.astro` as `topCrop`) and use its name and computed ROI in the headline.
+- **Remove icon strip:** Delete the 🌱💰🏡📱 feature block entirely
+- **Add 3-column section anchors:** One featured card each for Crops, ROI, and Homestead sections. Each card shows: section label, one featured article or crop title, a 1-sentence description, and a "View all →" link. Use the `ArticleCard` or `PlantCard` components already available, or a simpler inline card — do not write new CSS unless necessary.
+- **Featured content:** Crops anchor → `topCrop`; ROI anchor → `roiArticle` (already computed); Homestead anchor → `homesteadArticle` (already computed). Variables already exist in the frontmatter — use them.
+- All colors via CSS custom properties; no hardcoded hex values; no inline styles
+- Background opacity rule: any text section must have a solid/semi-opaque background per AGENTS.md
+**Acceptance:**
+- Icon strip is gone
+- Hero headline references a specific crop name and ROI figure (dynamic, not hardcoded)
+- 3-column section anchors are present and link to `/crops/`, `/roi/`, `/homestead/`
+- No hardcoded colors or inline styles
+- `npx astro build` passes with 0 errors
+
+---
+
+### F010 — Add Breadcrumb Component
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** `src/components/Breadcrumb.astro` (new), `src/layouts/ArticleLayout.astro`, `src/pages/crops/[slug].astro`
+**What:** Add a reusable Breadcrumb component and wire it into crop pages and article pages. Breadcrumb also serves as BreadcrumbList JSON-LD (structured data already added per-page; this consolidates it).
+**Details:**
+- Create `src/components/Breadcrumb.astro` that accepts a `crumbs` prop: array of `{ label: string, href?: string }`. Last crumb has no href (current page).
+- Example usage: `<Breadcrumb crumbs={[{ label: 'Home', href: '/' }, { label: 'Crops', href: '/crops/' }, { label: crop.data.title }]} />`
+- Style: simple text with `>` or `/` separators; use `--color-text-muted` or equivalent CSS variable for separator and inactive crumbs; active (last) crumb uses `--color-text` or similar. No complex styling.
+- Emit a `<script type="application/ld+json">` BreadcrumbList JSON-LD block from the component, generated from the `crumbs` prop, so each page gets structured data automatically.
+- Wire into `src/pages/crops/[slug].astro`: `Home > Crops > [Crop Name]`
+- Wire into `src/layouts/ArticleLayout.astro`: `Home > [Section] > [Article Title]` — derive section label from `article.data.category` (roi → "ROI", homestead → "Homestead", care → "Guides", planning → "Guides")
+- Place breadcrumb above the `<h1>` on each page
+**Acceptance:**
+- Breadcrumb renders correctly on a crop page and an article page
+- BreadcrumbList JSON-LD is present and valid on both (test with Google Rich Results Test or schema.org validator)
+- No hardcoded colors; uses CSS custom properties only
+- `npx astro build` passes with 0 errors
+
+---
+
+### F011 — Related Crops and Articles on Crop Pages
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** `src/pages/crops/[slug].astro`
+**What:** Add a "Related Crops" section (2-3 crops by same plant type or adjacent ROI tier) and a "Related Articles" section (1-2 articles that link to this crop) to the bottom of every crop page.
+**Details:**
+- **Related Crops:** Filter plants collection excluding the current crop; sort by ROI score descending; take the top 3 from the same `plant_type`. Display as a compact row of `PlantCard` components (or a simplified version — 3 cards in a row).
+- **Related Articles:** Filter articles collection to find entries where the body mentions the crop slug, OR use a simpler approach: match articles where `data.category` is `roi` or `homestead` and `data.featured` is true (top 2). A simple heuristic is fine — perfect matching is not required.
+- Section headings: "Related Crops" and "Further Reading" (or similar — keep it plain)
+- Place both sections above the existing app CTA at the bottom of the page
+- All styling via existing CSS custom properties; use `.glass-card` for card containers if appropriate
+- No new CSS classes unless unavoidable
+**Acceptance:**
+- Related Crops section shows 2-3 crop cards on every crop page
+- Related Articles section shows 1-2 article links on every crop page
+- No crop page shows itself in related crops
+- `npx astro build` passes with 0 errors
+
+---
+
+### F012 — Related Articles on Article Pages
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** `src/layouts/ArticleLayout.astro`
+**What:** Add a "Further Reading" section at the bottom of every article page showing 2-3 articles from the same category.
+**Details:**
+- In `ArticleLayout.astro`, accept the current article's `category` and `slug` as props (or derive from the content entry passed in)
+- Query the articles collection; filter to same category; exclude the current article; sort by `publishDate` descending; take top 3
+- Render as a simple list or compact card row using `ArticleCard` component
+- Section heading: "Further Reading"
+- Place above the footer, below the main article content
+- No hardcoded colors or inline styles
+**Acceptance:**
+- Every article page shows 2-3 related articles from the same category
+- No article shows itself in further reading
+- `npx astro build` passes with 0 errors
+
+---
+
+### F013 — Internal Linking Audit: Top 20 Crop Pages
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** Various `src/content/plants/*.md`
+**What:** Audit the 20 highest-traffic crop pages (highest ROI score) and ensure each links to at least 2 related crops and 1 related article, per SEO standards in AGENTS.md. This is a targeted pass — not all 192 pages.
+**Details:**
+- Identify the top 20 crops by ROI score: `avg_yield_lb * avg_price_lb / start_cost`. Check the existing sort logic in `crops/index.astro` for reference.
+- For each of the 20, open the `.md` file and check the body for internal links to other crop pages (`/crops/`) and articles (`/roi/`, `/homestead/`, `/guides/`)
+- If a crop page has fewer than 2 crop links or 0 article links, add them. Anchor text must be descriptive (crop name or article topic — not "click here" or "read more")
+- Suitable link targets: crops in the same plant type, crops mentioned in the article content, articles that reference this crop by name
+- Do not add links that feel forced; if a page already has adequate linking, move on
+- Track which pages were updated in the task completion summary
+**Acceptance:**
+- All 20 top-ROI crop pages have at minimum 2 internal crop links and 1 article link in the body
+- All new anchor text is descriptive
+- `npx astro build` passes with 0 errors

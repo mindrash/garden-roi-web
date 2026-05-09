@@ -40,14 +40,16 @@ You can grow both in the same bed. Most experienced growers do.
 
 A $2.99–$3.99 seed packet contains 25–50 seeds. If you start 8 seeds indoors, transplant 5, and lose one to a late frost, you're growing 4 plants at roughly $0.25–$0.40 each in seed cost. A $2–$4 transplant from a nursery puts your per-plant input at the high end but bypasses the indoor starting equipment.
 
-Retail tomato prices vary significantly by type:
+Yield and retail price vary significantly by tomato type. Yield figures from Cornell Cooperative Extension, *Home Vegetable Gardening in New York*, 2021; prices from USDA AMS.
 
-| Type | Retail price range | Notes |
-|---|---|---|
-| Standard slicing | $2–$4/lb | USDA ERS 2023 all-fresh average: $1.78/lb |
-| Cherry/grape | $4–$8/pint (~$6–$10/lb) | Pint containers are ~10–12 oz; retail markup is high |
-| Heirloom slicing | $4–$8/lb | Farmers market pricing; grocery stores average $3–$5/lb |
-| Paste (Roma-type) | $1.50–$3/lb | Lower fresh price; value realized in canning |
+| Type | Yield per plant | Retail price | Notes |
+|---|---|---|---|
+| Slicing (beefsteak, Better Boy) | 10–15 lb | $1.50–$2.50/lb | USDA ERS all-fresh average: $1.78/lb |
+| Paste (Roma, San Marzano) | 8–12 lb | $1.00–$2.00/lb | Lower fresh price; value realized through canning and sauce |
+| Cherry/grape (Sun Gold, Sweet 100) | 3–5 lb | $3–$6/lb | Highest retail $/lb; best case for fresh eating season-long |
+| Heirloom slicer (Brandywine, Cherokee Purple) | 10–15 lb | $4–$8/lb | Farmers market pricing; lower disease tolerance trade-off |
+
+For cherry tomatoes specifically, see [Cherry Tomato](/crops/cherry-tomato/) for variety-level detail, Brix comparisons, and container-growing considerations. This page covers the slicing and paste types in depth.
 
 One indeterminate plant producing 15 lb over a season returns:
 
@@ -61,7 +63,7 @@ Against a seed cost of $0.25–$0.40 per plant plus maybe $0.50 in transplant so
 
 ## Growing Requirements
 
-Tomatoes are warm-season annuals in all USDA zones. The limiting factor isn't your winter minimum - it's your frost-free window against your variety's days to maturity. Zone 5 growers get roughly 150 frost-free days, enough for almost any variety. Zone 3 growers need varieties that finish in 60 days or under and must start transplants 8–10 weeks before last frost indoors.
+Tomatoes are warm-season annuals in all USDA zones and are best adapted to Zones 5–11. The limiting factor isn't your winter minimum - it's your frost-free window against your variety's days to maturity. Zone 5–6 growers get 150–180 frost-free days, enough for any variety. Zone 4 growers work with 120–140 days - enough for most standard varieties but tight for late-season heirlooms over 80 days; choose 60–75 day short-season varieties like Siletz, Early Girl, or Glacier. Zone 3 growers need varieties that finish in 60 days or under and must start transplants 8–10 weeks before last frost indoors.
 
 Soil temperature matters more than air temperature at transplant time. A 72°F afternoon with 52°F soil is still wrong. Tomato roots stall below 60°F, and stressed transplants struggle to establish before heat sets in. The target is 65–75°F soil temperature (UC Cooperative Extension, *Tomato Culture*, ANR Publication 8017). A $10 soil thermometer saves you from planting two weeks too early and watching your transplants sulk.
 
@@ -122,6 +124,8 @@ Preventive copper spray at 7–10 day intervals during cool, wet weather is the 
 
 The short version: early blight starts at the bottom and moves up slowly. Late blight spreads fast in cool wet weather, produces water-soaked lesions, and can kill a plant in less than a week. Different responses required.
 
+**Septoria leaf spot** (*Septoria lycopersici*) is the third common fungal disease and frequently misidentified as early blight. Lesions start as small water-soaked spots that develop tan or gray centers with dark borders and a faint yellow halo - smaller and more uniform than early blight's target rings. Septoria typically appears mid-season on older lower leaves and moves upward under wet conditions, causing significant defoliation. Management parallels early blight: remove affected leaves, avoid overhead watering, apply copper-based fungicide preventively, and rotate the bed for 2–3 years. For a full integrated approach to tomato diseases and insect pests, see [Integrated Pest Management](/guides/integrated-pest-management/).
+
 ## Variety Guide by Use
 
 | Variety | Type | Days | Habit | Notes |
@@ -175,9 +179,9 @@ At the end of the season, when frost is coming, pull any fruit that has started 
 
 ---
 
-**Related crops:** [Basil](/crops/basil/), [Cucumber](/crops/cucumber/)
+**Related crops:** [Basil](/crops/basil/), [Cucumber](/crops/cucumber/), [Cherry Tomato](/crops/cherry-tomato/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about common pairings; [Tomato ROI: The Math by Variety](/roi/tomato-roi-deep-dive/) - per-variety break-even calculations; [Harvest Glut Triage](/homestead/harvest-glut-triage/) - what to do when tomatoes come in all at once; [Dehydrator ROI](/homestead/dehydrator-roi/) - semi-dried tomatoes from garden gluts
+**Related reading:** [Tomato Training Guide](/guides/tomato-training-guide/) - staking, caging, and suckering method comparison; [Garlic ROI Analysis](/roi/garlic-roi-analysis/) - how garlic compares to tomatoes as a high-value bed crop; [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about common pairings; [Harvest Glut Triage](/homestead/harvest-glut-triage/) - what to do when tomatoes come in all at once; [Dehydrator ROI](/homestead/dehydrator-roi/) - semi-dried tomatoes from garden gluts
 
 *Companion planting note:* The tomato-basil pairing is one of the most cited in home gardening. Volatile compounds from basil (*linalool*, *eugenol*) have shown repellent effects on *Spodoptera* species and aphids in controlled laboratory studies (Hummelbrunner & Isman, *Journal of Chemical Ecology*, 2001). Field-scale evidence for measurable yield benefit is limited. Plant basil near tomatoes if you want fresh basil; the potential pest-deterrent effect is a bonus, not a guarantee.
 

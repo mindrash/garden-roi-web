@@ -98,6 +98,6 @@ Don't plant next year's corn in the same spot. Rotate to avoid soilborne smut an
 
 ---
 
-**Related crops:** [Green Bean](/crops/green-bean/), [Zucchini](/crops/zucchini/)
+**Related crops:** [Green Bean](/crops/green-bean/), [Acorn Squash](/crops/acorn-squash/)
 
 **Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings including the Three Sisters system

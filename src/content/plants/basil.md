@@ -5,32 +5,42 @@ category: Herb
 days_min: 50
 days_max: 75
 avg_yield_lb: 0.5
-avg_price_lb: 14.99
+avg_price_lb: 8.00
 start_cost: 3.50
 start_cost_label: "Seed packet"
 is_common: true
 watering: Moderate; keep soil consistently moist, water at root zone
 sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Tomato, Oregano]
-description: "Sweet Basil (Ocimum basilicum) - 0.5-1.5 lb per plant at $15/lb retail. Pinch flower buds weekly to extend the harvest window through the growing season."
+description: "Sweet Basil (Ocimum basilicum) - Genovese type yields 0.5-1.5 lb per plant per season at $6-10/lb loose retail (USDA AMS). Pinch flower buds weekly to extend the harvest window."
 hero_image: /images/crops/basil.webp
 ---
 
-Basil (*Ocimum basilicum*) is one of the few culinary herbs where a single healthy plant genuinely offsets what you'd spend at the grocery store over a season. Fresh basil at retail runs $2.00–$4.00 for a small clamshell that weighs less than an ounce  -  that puts the price per pound north of $30 in many markets. You won't replicate commercial greenhouse yields in a raised bed, but you also don't need to. Three to four well-managed plants will cover a typical household through the growing season and leave plenty for freezing.
+Basil (*Ocimum basilicum*) is one of the few culinary herbs where a single healthy plant genuinely offsets what you'd spend at the grocery store over a season. The price picture is more complicated than it first looks: a $3–$4 clamshell at the supermarket weighs 0.75 oz, which works out to $64–$85/lb. That's the retail packaging premium, not the commodity price of the herb itself. Loose bunch fresh basil at farmers markets and grocery stores runs $6–$10/lb for conventional and $10–$14/lb for organic, based on USDA Agricultural Marketing Service retail price surveys. Those are the numbers that matter for ROI comparisons - the clamshell price tells you what the packaging costs, not what the basil is worth. You won't replicate commercial greenhouse yields in a raised bed, but you also don't need to. Three to four well-managed plants will cover a typical household through the growing season and leave plenty for freezing.
 
 ## What you're actually growing
 
-The species *Ocimum basilicum* covers a lot of ground. Genovese types (broad, cupped leaves, intensely aromatic) are what most home gardeners want if they're making pesto or cooking Italian. Thai basil (*O. basilicum* var. *thyrsiflora*) has narrower leaves, purple stems, and a licorice-anise note that holds up better in high heat  -  it won't become Genovese in the pot just because the label says basil. Lemon basil (*O. basilicum* 'Citriodorum' group) smells like it sounds. Purple basil cultivars like 'Opal' are ornamental as much as culinary; the flavor is milder than Genovese.
+The species *Ocimum basilicum* covers a lot of ground. The four types worth knowing:
 
-If you want pesto, grow Genovese. If you're cooking Southeast Asian food, Thai basil is a different plant for practical purposes. Don't treat them as interchangeable.
+**Genovese** (broad, cupped leaves, intensely aromatic) is the standard culinary type for Italian cooking and pesto. Highest leaf yield of the common types, with the familiar sweet-clove aroma driven by linalool and estragole. This is what most home gardeners want.
+
+**Thai basil** (*O. basilicum* var. *thyrsiflora*) has narrower leaves, purple stems, and a licorice-anise profile from high methyl chavicol content. It holds up better in high heat cooking than Genovese and won't substitute for it in cold applications like pesto. It's a different ingredient for practical purposes.
+
+**Lemon basil** (*O. basilicum* 'Citriodorum' group) smells like it sounds - citral-dominant aromatic profile. Lower yield but commands premium pricing at specialty markets. Useful for seafood dishes and herb-based drinks.
+
+**Purple/Dark Opal basil** is ornamental as much as culinary. Attractive in the bed, makes striking herb vinegars, but lower yield and milder flavor than Genovese. Don't expect Genovese flavor from it.
+
+If you want pesto, grow Genovese. If you're cooking Southeast Asian food, grow Thai basil. They are not interchangeable.
 
 ## The ROI case
 
 Seed cost for a full packet runs $2.50–$4.00 and contains far more seeds than you'll use in a season. Basil germinates readily; start six to eight seeds, transplant the four strongest, putting your cost per plant at $0.50–$0.75 from seed.
 
-Fresh basil at retail runs $12–$18/lb for conventional loose bunches and $20–$30/lb for organic, based on USDA Agricultural Marketing Service retail price surveys for fresh herbs. A conservatively managed plant yields around 0.5 lb across the season (the figure most extension services use for planning). A well-managed plant kept pinched and harvested regularly can push 1.0–1.5 lb. At $15/lb and 0.5–1.0 lb per plant, you're looking at $7.50–$15 in grocery value per plant. Not dramatic  -  but basil seed costs pennies per plant, and you can run four to six plants in a small bed without much effort.
+Yield and value depend on which variety you grow. Genovese basil - the standard culinary type - yields 0.5–1.5 lb per plant per season with regular harvest (Penn State Extension, *Herb Production*, 2019). At $6–$10/lb loose retail (USDA AMS), a single Genovese plant returns $3–$15 in grocery value. That's a modest number for a single plant, but the seed cost is pennies. Four to six plants in a small bed covering 8–12 sq ft will reliably outperform what you'd buy in clamshell packages over a summer.
 
-The case for growing your own is strongest if you cook with fresh basil regularly through summer. The economics don't favor growing basil over dried basil (dried is cheap), but dried basil is a different ingredient for practical purposes.
+Thai basil (*O. basilicum* var. *thyrsiflora*) yields similarly to Genovese but commands $8–$14/lb at specialty retailers and farmers markets. Lemon basil (*O. basilicum* 'Citriodorum' group) is lower-yielding (roughly 0.3–0.7 lb/plant) but runs $10–$16/lb where available. Purple or dark opal basil is ornamental as much as culinary - attractive in the bed but lower leaf yield and milder flavor than Genovese.
+
+The case for growing your own is strongest if you cook with fresh basil regularly through summer. The economics don't favor growing basil over dried basil (dried is cheap), but dried basil is a different ingredient for practical purposes - the volatile compounds that make fresh basil worth growing (linalool, eugenol, estragole) evaporate largely during drying.
 
 ## Growing requirements
 
@@ -68,7 +78,7 @@ For longer storage, blend leaves with just enough olive oil to make a paste and 
 
 **Related crops:** [Tomato](/crops/tomato/), [Mint](/crops/mint/), [Thai Basil](/crops/thai-basil/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Herb Garden ROI](/roi/herb-roi-comparison/)  -  the 8 highest-value culinary herbs compared; [Dehydrator ROI](/homestead/dehydrator-roi/)  -  dried basil returns $250+/lb retail equivalent; [Harvest Glut Triage](/homestead/harvest-glut-triage/)  -  what to do when your basil outpaces your kitchen
+**Related reading:** [Herb Preservation Guide](/homestead/herb-preservation-guide/) - basil pesto frozen in ice cube trays is the best way to store a summer surplus; [Herb Garden ROI](/roi/herb-roi-comparison/) - the 8 highest-value culinary herbs compared; [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about common pairings; [Dehydrator ROI](/homestead/dehydrator-roi/) - dried basil returns $250+/lb retail equivalent
 
 *Companion planting note:* Basil is commonly planted near [tomatoes](/crops/tomato/) based on folk claims about improved flavor and pest deterrence. Volatile compounds from basil (*linalool*, *eugenol*) have shown repellent effects on *Spodoptera* species and aphids in laboratory studies (Hummelbrunner & Isman, *Journal of Chemical Ecology*, 2001). Field-scale yield benefit has not been consistently demonstrated. Grow them together for the culinary convenience of having both in the same bed; don't count on the pest deterrence as a control strategy.
 

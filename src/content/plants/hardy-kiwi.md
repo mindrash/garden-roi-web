@@ -105,4 +105,4 @@ The fruit is perishable - 2-3 weeks at room temperature when harvested slightly 
 
 ---
 
-**Related reading:** [Grape](/crops/grape/) - fellow high-yielding fruit vine; [Serviceberry](/crops/serviceberry/) - early-season native fruit to pair with kiwi's late-season harvest
+**Related reading:** [Grape](/crops/grape/) - fellow high-yielding fruit vine; [Serviceberry](/crops/serviceberry/) - early-season native fruit to pair with kiwi's late-season harvest; [Fruit Tree Payback Timeline](/roi/fruit-tree-payback-timeline/) - how perennial fruits compare on investment return

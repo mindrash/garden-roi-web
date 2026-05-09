@@ -90,4 +90,4 @@ Harvest August-October when berries are fully orange and beginning to soften. Th
 
 ---
 
-**Related reading:** [Aronia](/crops/aronia/) - fellow high-antioxidant native shrub; [Elderberry](/crops/elderberry/) - companion planting partner with similar zone hardiness
+**Related reading:** [Aronia](/crops/aronia/) - fellow high-antioxidant native shrub; [Elderberry](/crops/elderberry/) - companion planting partner with similar zone hardiness; [Berry ROI Comparison](/roi/berry-roi-comparison/) - comparing fruit shrubs by production value

@@ -109,4 +109,4 @@ Store at cool room temperature for 2-3 weeks or refrigerated for 4-6 weeks. Cut 
 
 ---
 
-**Related reading:** [Jicama](/crops/jicama/) - fellow mild, crisp tropical root; [Luffa](/crops/luffa/) - another productive tropical climbing cucurbit
+**Related reading:** [Jicama](/crops/jicama/) - fellow mild, crisp tropical root; [Luffa](/crops/luffa/) - another productive tropical climbing cucurbit; [Vegetable Value Per Square Foot](/roi/vegetable-value-per-square-foot/) - maximizing ROI in limited garden space

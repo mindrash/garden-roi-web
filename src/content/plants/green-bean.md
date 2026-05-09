@@ -22,11 +22,15 @@ The numbers work too, which helps.
 
 ## The ROI Case
 
-A packet of bean seed runs about $2.99 for most mainstream varieties. Bush beans yield 5 to 8 lb per 10-foot row in decent conditions - University of Illinois Extension puts typical home garden yield at roughly 0.5 lb per foot of row for bush types (Illinois Extension, *Watch Your Garden Grow: Beans*, 2022). At retail prices of $1.50 to $3.00 per pound for fresh green beans (USDA ERS retail vegetable price data, 2023), that 10-foot row returns $7.50 to $24 in grocery value from seed that costs less than $3.
+Seed cost: $2–$4 for enough to plant a 4×8 bed (approximately 30 bush bean plants at 2-inch spacing). Bush beans yield 0.5–1 lb per plant in decent conditions (Cornell Cooperative Extension, *Vegetable Varieties for the Home Garden*; OSU Extension, *Snap Bean Production*, HYG-1201). Pole beans yield more per plant - 1.5–3 lb over a full season - but spread that yield across 6–8 weeks rather than concentrating it.
 
-The ROI on green beans isn't dramatic the way it is with basil or cherry tomatoes. What tilts the calculation is the flavor premium of beans you can't actually buy. The store bean you get at $1.50 to $3 per pound is a compromised product - harvested before full development for shipping durability, held in cold storage, and losing sugars to starch the whole time. The bean you pick at pencil-thin and eat within a few hours isn't a better version of that bean. It's a different food. You can't put a price on the difference, which means the ROI calculation understates the real return.
+The 4×8 bed calculation: 30 bush bean plants × 0.75 lb average yield = 22.5 lb. At $2/lb retail (USDA AMS fresh green bean average), that's $45 gross value. Seed cost: $3. Net harvest value from one 4×8 bed in a 55-day window: $42. That's not a 10:1 return on a seed investment - but green beans fill the bed once, are ready in under two months, and leave room for a fall crop of something else.
 
-Frozen beans from the store don't close the gap either. Commercially frozen beans are processed at scale quickly after harvest, so the quality is decent - but home-frozen beans from your own garden, handled the same day, blanched properly, are noticeably better. More on that below.
+Retail: fresh green beans run $1.50–$2.50/lb (USDA AMS). Frozen store green beans average $1.00–$1.50/lb equivalent. The quality premium of homegrown beats either comparison point, but those are the numbers for calculating replacement value.
+
+The honest position: green beans aren't a high-return crop in terms of $/lb relative to herbs or cherry tomatoes. What tilts the calculation is the flavor premium that store beans can't match. The commercial bean is harvested before full development for shipping durability, held in cold storage, and losing sugars to starch the whole time. The bean you pick at pencil-thin and eat within hours isn't a better version of that bean. It's a different food.
+
+Frozen beans from the store don't close the gap either. Commercially frozen beans are processed quickly after harvest, so the quality is decent - but home-frozen beans from your own garden, handled the same day, blanched properly, are noticeably better. More on that below.
 
 ## Bush vs. Pole: A Real Decision
 
@@ -34,10 +38,10 @@ This isn't just a space question. Bush beans and pole beans produce differently,
 
 | Characteristic | Bush Beans | Pole Beans |
 |---|---|---|
-| Days to maturity | 50-55 days | 60-70 days |
+| Days to maturity | 50-60 days | 65-80 days |
 | Trellis needed | No | Yes - 6-foot minimum |
-| Harvest window | 2-3 weeks concentrated | 6-8 weeks continuous |
-| Yield per plant, season | Lower | 2-3x more than bush |
+| Harvest window | 7-10 day peak window | 6-8 weeks continuous |
+| Yield per plant, season | 0.5–1 lb | 1.5–3 lb |
 | Best use | Canning, batch freezing | Fresh eating, steady supply |
 | Representative varieties | Blue Lake 274, Provider | Kentucky Wonder, Rattlesnake |
 
@@ -65,7 +69,7 @@ Dragon Tongue gets its own mention because it's genuinely good in a way that sur
 
 If you're growing beans to can, the math matters. You need to know how many rows to plant and whether to plant all at once or in succession.
 
-Water-bath canned green beans are not a safe option - beans are a low-acid vegetable and require pressure canning to reach the temperatures necessary to destroy *Clostridium botulinum* spores (National Center for Home Food Preservation, USDA, 2015). A pressure canner is required. A standard quart jar of canned green beans holds approximately 1.5 to 2 lb of fresh-trimmed beans. To put up 12 quarts, you need 18 to 24 lb of fresh beans at minimum, and accounting for trimming loss and the fact that you'll want extra for snacking during the process, 30 to 35 lb of fresh beans is a realistic planning target for 12 quarts (NCHFP, *Selecting, Preparing and Canning Vegetables: Beans, Snap and Italian*, 2023).
+Water-bath canned green beans are not a safe option - beans are a low-acid vegetable and require pressure canning to reach the temperatures necessary to destroy *Clostridium botulinum* spores (National Center for Home Food Preservation, USDA, 2015). A pressure canner is required. A standard quart jar of canned green beans holds approximately 1.5 lb of fresh-trimmed beans (NCHFP, *Selecting, Preparing and Canning Vegetables: Beans, Snap and Italian*, 2023). To put up 12 quarts, you need about 18 lb at minimum - accounting for trimming loss and the fact that you'll snack through some of it during processing, 25–30 lb of fresh beans is a realistic planning target.
 
 At 5 to 8 lb per 10-foot row, 30 to 35 lb means 4 to 5 ten-foot rows.
 
@@ -123,6 +127,6 @@ At peak season, check plants every two to three days. More frequent picking sust
 
 ---
 
-**Related crops:** [Cucumber](/crops/cucumber/), [Lettuce](/crops/lettuce/)
+**Related crops:** [Pole Bean](/crops/pole-bean/), [Cucumber](/crops/cucumber/), [Lettuce](/crops/lettuce/)
 
-**Related reading:** [Beginner Homestead Crops](/homestead/beginner-homestead-crops/) - which vegetables make sense for first-season gardens and why; [Freezer Math: Garden ROI](/homestead/freezer-math-garden-roi/) - the economics of blanching and freezing a green bean surplus; [First Garden: 10 Best Crops](/planning/beginner-10-crop-starter-guide/) - bush beans as the easiest legume for year one
+**Related reading:** [The Financial Case for Canning](/homestead/canning-financial-case/) - pressure canning green beans and the full economics of home food preservation; [Succession Planting Calendar](/guides/succession-planting-calendar/) - staggering bush bean plantings for a continuous supply; [Beginner Homestead Crops](/homestead/beginner-homestead-crops/) - which vegetables make sense for first-season gardens and why

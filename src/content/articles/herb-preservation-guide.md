@@ -103,6 +103,6 @@ The herbs where home preservation delivers the least value: cilantro (degrades q
 
 ---
 
-**Related crops:** [Basil](/crops/basil/), [Oregano](/crops/oregano/), [Thyme](/crops/thyme/), [Rosemary](/crops/rosemary/), [Parsley](/crops/parsley/), [Tarragon](/crops/tarragon/)
+**Related crops:** [Basil](/crops/basil/), [Oregano](/crops/oregano/), [Thyme](/crops/thyme/), [Sage](/crops/sage/), [Parsley](/crops/parsley/), [Tarragon](/crops/tarragon/)
 
 **Related reading:** [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  why perennial herbs like oregano and thyme compound their return every year at zero replanting cost

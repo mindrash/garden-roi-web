@@ -104,17 +104,20 @@ No lettuce variety is truly heat-proof. What these varieties offer is delayed bo
 
 ## Type comparison table
 
-| Type | Examples | Days to maturity | Spacing | Heat tolerance | Best use |
+Retail prices from USDA AMS; bolt timing by type based on Zone 5-6 observations from Penn State Extension, *Cool-Season Vegetable Production*, 2022.
+
+| Type | Examples | Days to maturity | Retail price | Bolt timing (Zone 5-6) | Best use |
 |---|---|---|---|---|---|
-| Looseleaf | Oak Leaf, Red Sails, Nevada, Merlot | 45-55 days | 1 in (baby leaf) / 8 in (full) | Low to moderate | Cut-and-come-again, continuous harvest |
-| Butterhead | Bibb, Boston, Muir | 55-65 days | 10-12 in | Low | Single harvest, premium eating quality |
-| Romaine/Cos | Parris Island, Jericho, Cimarron | 70-80 days | 10-12 in | Moderate to good | Longer season, better summer performance |
-| Crisphead/Iceberg | Great Lakes, Ithaca | 90+ days | 12-14 in | Low | Not recommended for home gardens |
-| Specialty | Freckles, Flashy Trout's Back, Drunken Woman | 55-65 days | 8-10 in | Variable | Farmers market, visual appeal |
+| Loose-leaf | Oak Leaf, Red Sails, Nevada, Merlot | 30-45 days (baby leaf) | $6–$12/lb (spring mix/baby leaf) | Bolts when daytime temps exceed 80°F, mid-June to early July | Cut-and-come-again, continuous harvest |
+| Butterhead | Bibb, Boston, Muir | 55-65 days | $2.50–$4.00/lb (USDA AMS) | Bolts quickest of the main types; same threshold but less tolerance | Single harvest, premium eating quality |
+| Romaine/Cos | Parris Island, Jericho, Cimarron | 70-80 days | $1.50–$2.50/lb for romaine hearts (USDA AMS) | Holds 2-3 weeks longer than loose-leaf; most heat-tolerant lettuce type | Longer season, better summer performance |
+| Crisphead/Iceberg | Great Lakes, Ithaca | 90+ days | $1.00–$1.50/lb | Low; requires sustained cool, forms heads late | Not recommended for home gardens |
 
-**Looseleaf types** bolt fastest but recover best from cutting - they're purpose-built for the cut-and-come-again approach. **Butterhead** produces the highest quality eating heads with sweet, tender leaves, but it's the most cold-sensitive and has poor heat tolerance compared to other types. **Romaine** takes the longest of the practical types to mature but earns it with better heat resistance and a longer productive window. **Crisphead** is genuinely difficult at home - it needs 90+ days of consistent cool, forms tight heads only under specific conditions, and sells for the lowest retail price of any lettuce type. The effort-to-return ratio is poor. Grow it if you love it; don't grow it for the economics.
+The bolt timing difference between types is practically significant: in Zone 5-6, romaine bought you an extra 2-3 weeks of harvest compared to butterhead when temperatures climb in June. Loose-leaf is fastest to bolt but also fastest to harvest - you're cutting it as baby leaf at 30-45 days, well before bolt pressure matters.
 
-**Specialty types** like Freckles (spotted green and red) and Flashy Trout's Back (heavily mottled red) have legitimate value if you're selling at farmers markets or growing for visual interest. They grow and taste similarly to butterhead-looseleaf crosses but their appearance sets them apart from anything at a grocery store.
+**Looseleaf types** bolt fastest but recover best from cutting - they're purpose-built for the cut-and-come-again approach. **Butterhead** produces the highest quality eating heads with sweet, tender leaves, but it's the most bolt-susceptible of the main types. **Romaine** takes the longest to mature but earns it with better heat resistance and a longer productive window. **Crisphead** is genuinely difficult at home - it needs 90+ days of consistent cool, forms tight heads only under specific conditions, and commands the lowest retail price. The effort-to-return ratio is poor. Grow it if you love it; don't grow it for the economics.
+
+For a full succession planting schedule by zone with specific sowing intervals, see [Succession Planting Calendar](/guides/succession-planting-calendar/).
 
 ## Growing requirements
 
@@ -154,6 +157,6 @@ Lettuce deteriorates fast after cutting. Refrigerate unwashed in an airtight bag
 
 ---
 
-**Related crops:** [Strawberry](/crops/strawberry/), [Green Bean](/crops/green-bean/)
+**Related crops:** [Arugula](/crops/arugula/), [Spinach](/crops/spinach/), [Strawberry](/crops/strawberry/)
 
-**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/) - timing your cool-season crops around frost dates and soil temperature; [Grocery Tier ROI](/roi/grocery-tier-roi/) - how salad greens rank in the retail organic price tiers most replaced by home growing; [First Garden: 10 Best Crops](/planning/beginner-10-crop-starter-guide/) - cut-and-come-again lettuce for beginners; [Continuous Harvest Crops](/planning/continuous-harvest-crops/) - succession schedule for season-long harvest; [Winter Garden Planning](/planning/winter-garden-planning/) - cold frame lettuce through zone 6 winter
+**Related reading:** [Salad Greens ROI](/roi/salad-greens-roi/) - per-type value comparison for lettuce, arugula, spinach, and mixed greens; [Succession Planting Calendar](/guides/succession-planting-calendar/) - zone-specific sowing intervals for continuous harvest; [Spring Garden Planning](/guides/spring-garden-planning/) - timing cool-season crops around frost dates; [Grocery Tier ROI](/roi/grocery-tier-roi/) - how salad greens rank in the retail organic price tiers

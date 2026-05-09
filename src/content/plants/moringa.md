@@ -100,4 +100,4 @@ For zone 9-11 gardeners, a mature moringa tree producing both fresh leaves and d
 
 ---
 
-**Related reading:** [Lemongrass](/crops/lemongrass/) - tropical perennial companion for zone 9-11 gardens; [Turmeric](/crops/turmeric/) - fellow tropical managed as annual in colder zones
+**Related reading:** [Lemongrass](/crops/lemongrass/) - tropical perennial companion for zone 9-11 gardens; [Turmeric](/crops/turmeric/) - fellow tropical managed as annual in colder zones; [Perennial Garden Economy](/roi/perennial-garden-economy/) - long-term ROI of perennial food crops

@@ -116,6 +116,6 @@ Thai basil is commonly listed as a companion for tomatoes and peppers, and these
 
 ---
 
-**Related crops:** [Basil](/crops/basil/), [Pepper](/crops/pepper/)
+**Related crops:** [Basil](/crops/basil/), [Hot Pepper](/crops/hot-pepper/)
 
 **Related reading:** [Herb Garden ROI](/roi/herb-roi-comparison/) - the 8 highest-value culinary herbs compared

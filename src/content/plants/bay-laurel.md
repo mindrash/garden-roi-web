@@ -11,7 +11,7 @@ start_cost_label: "Potted plant"
 is_common: true
 watering: Light to moderate; 0.75-1 inch/week, drought-tolerant once established
 sunlight: Full sun to partial shade (5-8 hours)
-companion_plants: [Rosemary, Thyme, Sage]
+companion_plants: [Oregano, Thyme, Sage]
 direct_sow_ok: false
 indoor_weeks_needed: 0
 hero_image: /images/crops/bay-laurel.webp
@@ -94,4 +94,4 @@ Pick individual leaves as needed year-round on established plants. For drying, h
 
 ---
 
-**Related reading:** [Rosemary](/crops/rosemary/) - fellow Mediterranean woody herb; [Thyme](/crops/thyme/) - companion herb in bouquet garni
+**Related reading:** [Oregano](/crops/oregano/) - fellow Mediterranean woody herb; [Thyme](/crops/thyme/) - companion herb in bouquet garni

@@ -11,7 +11,7 @@ start_cost_label: "Seed packet"
 is_common: true
 watering: Light; drought-tolerant, overwatering reduces flowering
 sunlight: Full sun to partial shade (4-6 hours)
-companion_plants: [Cucumber, Zucchini]
+companion_plants: [Cucumber, Squash]
 description: "Nasturtium (Tropaeolum majus) - fastest edible flower. Flowers $8-12/lb at specialty markets. Entire plant edible: flowers, leaves (peppery), seeds pickled like capers."
 hero_image: /images/crops/nasturtium.webp
 ---
@@ -125,6 +125,6 @@ Nasturtiums self-sow, though less aggressively than borage. In zones 6-9, droppe
 
 ---
 
-**Related crops:** [Cucumber](/crops/cucumber/), [Zucchini](/crops/zucchini/)
+**Related crops:** [Cucumber](/crops/cucumber/), [Squash](/crops/acorn-squash/)
 
 **Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about nasturtiums as a trap crop and aphid management

@@ -1,22 +1,24 @@
 ---
-name: Peppermint
-scientific_name: Mentha × piperita
+name: Mint
+scientific_name: Mentha spp.
 category: Herb
 days_min: 90
 days_max: 120
-avg_yield_lb: 0.5
-avg_price_lb: 15.00
+avg_yield_lb: 0.35
+avg_price_lb: 6.00
 start_cost: 4.00
 start_cost_label: "Potted plant"
 is_common: true
 watering: Regular; keep soil consistently moist, does not tolerate drought
 sunlight: Partial shade to full sun (4–6 hours); afternoon shade preferred in hot climates
 companion_plants: [Tomato, Cabbage, Broccoli, Garden Pea]
-description: "Peppermint (Mentha piperita) - 0.5 lb per season at $15/lb; one $4 transplant returns $35-50 over 5 years. Grow in a container to prevent rhizome spread."
+description: "Mint (Mentha spp.) - hardy Zones 3-9 perennial. One 12-inch container produces 0.25-0.5 lb fresh per season at $4-8/lb (USDA AMS). Grow in a container - rhizomes spread aggressively in open soil."
 hero_image: /images/crops/mint.webp
 ---
 
-Peppermint (*Mentha* × *piperita*) is one of the most productive herbs you can grow. It's also one of the most destructive plants you can put in a garden bed if you don't manage it correctly. Both things are true, and which one defines your experience depends entirely on the first decision you make.
+Mint (*Mentha* spp.) is one of the easiest herbs to grow and one of the fastest to become a problem. Both things are true, and which one defines your experience depends entirely on the first decision you make.
+
+This page covers the genus broadly. For variety-specific depth, see [Peppermint](/crops/peppermint/) - the high-menthol culinary and tea standard - and [Spearmint](/crops/spearmint/) - the mild type most useful for cooking and cocktails. Most garden mint is one or the other.
 
 ## Containment: This Comes First
 
@@ -56,11 +58,13 @@ Spearmint can be grown from seed, but germination is slow and results are variab
 
 ## The ROI Numbers
 
-A single transplant in a 12- to 16-inch container, given adequate water and a full growing season, will produce around 0.5 lb of fresh leaves in year one. An established 4-square-foot planting - one good-sized container - will yield 0.5 to 1 lb of dried mint per season once roots fill the container and the plant hits its stride.
+A single transplant in a 12-inch container, given adequate water and regular harvesting, produces 0.25–0.5 lb of fresh leaves per season in its first year. An established container fills out more and can push 0.5–0.75 lb fresh. Fresh mint bunches run $4–$8/lb at retail (USDA AMS). That's $1–$4 per container per season in raw grocery value.
 
-Dried peppermint retails at $15 to $25 per pound for specialty or organic product (USDA Agricultural Marketing Service herb price surveys). Fresh mint bunches run $3 to $5 per lb at farmers markets. The dried yield from an established container planting is worth $7.50 to $25 per season.
+The case for fresh is convenience, not ROI scale: a $1.99 grocery store bunch is all the mint most households need for a week, and home-grown replaces that without a special trip. The real value is access - cutting a handful of fresh mint whenever you need it, rather than managing a wilting bunch from the store.
 
-That's not a dramatic number. But mint is a perennial that requires no replanting. One $4 transplant that produces for five years at the low end of that range returns $37.50 in dried herb value from a $4 investment. At the high end of the range it's $125. The ongoing input cost after year one is essentially zero - water and occasional fertilizer.
+Dried mint stores differently. The fresh-to-dried ratio for mint is roughly 4:1 by weight - 4 oz fresh yields approximately 1 oz dried. Dried mint retails at $8–$15/lb for conventional and up to $25/lb for specialty organic (USDA AMS). A container producing 0.5 lb fresh per season converts to roughly 2 oz dried - worth $1–$2 per season in dried herb value. Modest numbers, but mint is a zero-replant perennial. The ongoing input cost after year one is water.
+
+Year two also changes the economics because you propagate new plants at zero cost. Mint roots readily from stem cuttings in water - new plants in 2–3 weeks. One established container becomes however many plants you want.
 
 Year two also changes the math because you can propagate your own plants at no cost. Mint roots readily from stem cuttings placed in water. Within two to three weeks, a cutting will have enough root growth to pot up. One established plant can produce a dozen cuttings in a single harvest. If you want to grow multiple varieties, your year-two cost for additional plants is $0.
 
@@ -92,7 +96,7 @@ Soil should drain freely. Mint has higher water needs than most herbs, but sitti
 
 Fertilize lightly. A half-strength balanced liquid fertilizer once a month during the growing season is sufficient. Heavy nitrogen pushes lush growth but dilutes the essential oil concentration in leaves - the same dynamic you see in basil. More fertilizer does not mean more flavor.
 
-Mint is perennial and cold-hardy through most of the continental US. Most *Mentha* species are rated for USDA Hardiness Zones 3 through 8. In cold climates, the above-ground growth dies back in late fall and the plant overwinters in the roots, re-emerging in spring without any intervention. Container plants in Zone 5 and colder may benefit from moving to an unheated garage or shed for winter to protect the root ball from hard freezes.
+Mint is perennial and cold-hardy through most of the continental US. Most *Mentha* species are rated for USDA Hardiness Zones 3–9. In cold climates, above-ground growth dies back in late fall and the plant overwinters in the roots, re-emerging in spring without any intervention. Container plants in Zone 5 and colder may benefit from moving to an unheated garage or shed for winter to protect the root ball from hard freezes.
 
 ## What Goes Wrong
 
@@ -118,6 +122,6 @@ Container mint becomes root-bound after two to three years. When you see roots c
 
 ---
 
-**Related crops:** [Basil](/crops/basil/), [Tomato](/crops/tomato/), [Catnip](/crops/catnip/)
+**Related crops:** [Peppermint](/crops/peppermint/), [Spearmint](/crops/spearmint/), [Basil](/crops/basil/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about common pairings, including mint's claimed pest-deterrent effects; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/) - why fresh herbs show the largest premium between home-grown and retail organic prices; [Herb Garden ROI](/roi/herb-roi-comparison/)  -  the 8 highest-value culinary herbs compared
+**Related reading:** [Herb Preservation Guide](/homestead/herb-preservation-guide/) - drying, freezing, and infusing mint; [Herb Garden ROI](/roi/herb-roi-comparison/) - the 8 highest-value culinary herbs compared; [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about mint's claimed pest-deterrent effects
