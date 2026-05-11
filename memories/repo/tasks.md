@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: May 11, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E020 + D001-D012 + SR001-SR004 + S001-S002 complete; Z001-Z008 + R001-R008 open [Claude])_
+_Last updated: May 11, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E020 + D001-D012 + SR001-SR004 + S001-S002 + Z001-Z008 + R001-R008 complete)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -6556,7 +6556,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### Z001 — Zone 3 Editorial Intro
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/data/zones.ts` — Zone 3 entry `intro` field
 **Zone facts:** Last frost Jun 1, first frost Sep 15, 90 frost-free days
@@ -6566,7 +6566,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### Z002 — Zone 4 Editorial Intro
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/data/zones.ts` — Zone 4 entry `intro` field
 **Zone facts:** Last frost May 15, first frost Sep 25, 130 frost-free days
@@ -6576,7 +6576,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### Z003 — Zone 5 Editorial Intro
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/data/zones.ts` — Zone 5 entry `intro` field
 **Zone facts:** Last frost May 1, first frost Oct 5, 155 frost-free days
@@ -6586,7 +6586,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### Z004 — Zone 6 Editorial Intro
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/data/zones.ts` — Zone 6 entry `intro` field
 **Zone facts:** Last frost Apr 15, first frost Oct 20, 185 frost-free days
@@ -6596,7 +6596,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### Z005 — Zone 7 Editorial Intro
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/data/zones.ts` — Zone 7 entry `intro` field
 **Zone facts:** Last frost Apr 1, first frost Nov 5, 215 frost-free days
@@ -6606,7 +6606,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### Z006 — Zone 8 Editorial Intro
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/data/zones.ts` — Zone 8 entry `intro` field
 **Zone facts:** Last frost Mar 15, first frost Nov 25, 255 frost-free days
@@ -6616,7 +6616,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### Z007 — Zone 9 Editorial Intro
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/data/zones.ts` — Zone 9 entry `intro` field
 **Zone facts:** Last frost Feb 15, first frost Dec 10, 295 frost-free days
@@ -6626,7 +6626,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### Z008 — Zone 10 Editorial Intro
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/data/zones.ts` — Zone 10 entry `intro` field
 **Zone facts:** Last frost Jan 31, first frost Dec 25, 330 frost-free days
@@ -6646,7 +6646,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### R001 — asparagus-roi-analysis.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/content/articles/roi/asparagus-roi-analysis.md` → serves at `/roi/asparagus-roi-analysis/`
 **Frontmatter:** `title: "Asparagus ROI: The 3-Year Investment That Pays Back for 20"`, `category: roi`, `description` 150–160 chars with "asparagus ROI" keyword
@@ -6657,7 +6657,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### R002 — blueberry-roi-analysis.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/content/articles/roi/blueberry-roi-analysis.md` → serves at `/roi/blueberry-roi-analysis/`
 **Frontmatter:** `title: "Blueberry ROI: When a $30 Bush Earns $200 a Year"`, `category: roi`
@@ -6668,7 +6668,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### R003 — sweet-potato-roi-analysis.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/content/articles/roi/sweet-potato-roi-analysis.md` → serves at `/roi/sweet-potato-roi-analysis/`
 **Frontmatter:** `title: "Sweet Potato ROI: Year 2 Costs Drop to Nearly Zero"`, `category: roi`
@@ -6679,7 +6679,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### R004 — onion-roi-analysis.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/content/articles/roi/onion-roi-analysis.md` → serves at `/roi/onion-roi-analysis/`
 **Frontmatter:** `title: "Onion ROI: Sets vs. Seeds vs. Transplants — Which Wins?"`, `category: roi`
@@ -6690,7 +6690,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### R005 — rhubarb-roi-analysis.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/content/articles/roi/rhubarb-roi-analysis.md` → serves at `/roi/rhubarb-roi-analysis/`
 **Frontmatter:** `title: "Rhubarb ROI: A 20-Year Plant That Pays Back by Year 3"`, `category: roi`
@@ -6701,7 +6701,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### R006 — cucumber-roi-analysis.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/content/articles/roi/cucumber-roi-analysis.md` → serves at `/roi/cucumber-roi-analysis/`
 **Frontmatter:** `title: "Cucumber ROI: Why Succession Planting Triples Your Harvest"`, `category: roi`
@@ -6712,7 +6712,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### R007 — kale-roi-analysis.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/content/articles/roi/kale-roi-analysis.md` → serves at `/roi/kale-roi-analysis/`
 **Frontmatter:** `title: "Kale ROI: The Cut-and-Come-Again Crop That Keeps Paying"`, `category: roi`
@@ -6723,7 +6723,7 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 ---
 
 ### R008 — raspberry-roi-analysis.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **File:** `src/content/articles/roi/raspberry-roi-analysis.md` → serves at `/roi/raspberry-roi-analysis/`
 **Frontmatter:** `title: "Raspberry ROI: Cane Management and the Year-2 Payoff"`, `category: roi`
