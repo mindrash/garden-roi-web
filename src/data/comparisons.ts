@@ -18,12 +18,10 @@ export const COMPARISON_PAIRS: [string, string][] = [
   // Expansion batch
   ['broccoli', 'cauliflower'],
   ['potato', 'sweet-potato'],
-  ['thyme', 'rosemary'],
   ['basil', 'parsley'],
   ['blueberry', 'strawberry'],
   ['garlic', 'shallot'],
   ['mint', 'basil'],
-  ['zucchini', 'cucumber'],
   ['carrot', 'parsnip'],
   ['lettuce', 'spinach'],
   ['tomato', 'hot-pepper'],

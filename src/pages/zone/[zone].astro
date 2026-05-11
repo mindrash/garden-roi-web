@@ -97,6 +97,8 @@ const otherZones = ZONES.filter((z) => z.zone !== zoneNum);
       </div>
     </div>
 
+    {zoneData.intro && <p class="zone-intro">{zoneData.intro}</p>}
+
     {directSow.length > 0 && (
       <section class="crop-group">
         <h2 class="group-heading group-heading--direct">
@@ -262,6 +264,13 @@ const otherZones = ZONES.filter((z) => z.zone !== zoneNum);
     font-size: var(--text-small);
     color: var(--color-text-muted);
     margin-top: var(--space-xs);
+  }
+
+  .zone-intro {
+    color: var(--color-text);
+    font-size: var(--text-base);
+    margin-bottom: var(--space-l);
+    max-width: 65ch;
   }
 
   .crop-group {

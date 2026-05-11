@@ -62,6 +62,58 @@ const relatedArticles = allArticles
 const roiEstimate = (avg_yield_lb * avg_price_lb).toFixed(2);
 const tagClass = `tag tag-${category.toLowerCase()}`;
 
+// S001: FAQPage JSON-LD for top 20 crops by ROI
+const top20Ids = new Set(
+  [...allPlants]
+    .filter((p) => p.data.start_cost > 0)
+    .sort((a, b) => {
+      const roiA = (a.data.avg_yield_lb * a.data.avg_price_lb) / a.data.start_cost;
+      const roiB = (b.data.avg_yield_lb * b.data.avg_price_lb) / b.data.start_cost;
+      return roiB - roiA;
+    })
+    .slice(0, 20)
+    .map((p) => p.id)
+);
+
+const isTop20 = top20Ids.has(plant.id);
+
+const faqJsonLd = isTop20
+  ? {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": `How long does ${name} take to grow?`,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": `From seed to harvest, ${name} takes ${days_min}–${days_max} days.`,
+          },
+        },
+        {
+          "@type": "Question",
+          "name": `How much does ${name} yield per plant?`,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": `${name} produces an average of ${avg_yield_lb} lbs per plant or per season.`,
+          },
+        },
+        ...(companion_plants.length > 0
+          ? [
+              {
+                "@type": "Question",
+                "name": `What are good companion plants for ${name}?`,
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": `Good companion plants for ${name} include ${companion_plants.join(', ')}.`,
+                },
+              },
+            ]
+          : []),
+      ],
+    }
+  : null;
+
 const cropDescription = plant.data.description ?? `Complete care guide for ${name} (${scientific_name})  -  growing tips, ROI breakdown, watering, sunlight, and companion plants.`;
 const cropImage = plant.data.hero_image
   ? new URL(plant.data.hero_image, Astro.site).toString()
@@ -88,6 +140,9 @@ const articleJsonLd = {
   breadcrumbs={[{ label: 'Crops', href: '/crops/' }]}
   pageJsonLd={articleJsonLd}
 >
+  {faqJsonLd && (
+    <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />
+  )}
   <div class="plant-detail" data-pagefind-body>
     <!-- Header -->
     <div class="plant-header">

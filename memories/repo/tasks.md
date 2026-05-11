@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: May 9, 2026 (T001-T012 + CF001-CF003 + F008-F013 complete)_
+_Last updated: May 11, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E020 + D001-D012 + SR001-SR004 + S001-S002 complete; Z001-Z008 + R001-R008 open [Claude])_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -6269,3 +6269,669 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 - All 20 top-ROI crop pages have at minimum 2 internal crop links and 1 article link in the body
 - All new anchor text is descriptive
 - `npx astro build` passes with 0 errors
+
+---
+
+## SEO Infrastructure Sprint
+
+### S001 — FAQPage JSON-LD on Top 20 Crop Pages
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** `src/pages/crops/[slug].astro`
+**What:** Add `FAQPage` JSON-LD to the top 20 highest-ROI crop pages to enable Google featured snippets for common "how long does X take to grow", "how much does X yield", "what are good companion plants for X" queries.
+**Details:**
+- Top 20 crops by ROI = `avg_yield_lb * avg_price_lb / start_cost`, same sort as `/crops/best-roi/`
+- In `[slug].astro`, build a `faqJsonLd` object from available frontmatter data. Standard FAQ questions to include for every crop:
+  1. "How long does [name] take to grow?" → Answer: "From seed to harvest, [name] takes [days_min]–[days_max] days."
+  2. "How much does [name] yield per plant?" → Answer: "[avg_yield_lb] lbs average per plant or per season."
+  3. "What are good companion plants for [name]?" → Answer built from `companion_plants` array.
+- Render as a second `<script type="application/ld+json">` block (alongside the existing Article JSON-LD) only when the current crop is in the top-20 ROI list
+- Compute the top-20 list inline at build time using the same `allPlants` collection that's already available
+- FAQPage schema: `@context: "https://schema.org"`, `@type: "FAQPage"`, `mainEntity: [{ @type: "Question", name: "...", acceptedAnswer: { @type: "Answer", text: "..." } }]`
+**Acceptance:**
+- Top 20 crop pages each have a valid FAQPage JSON-LD block in rendered HTML
+- Crop pages outside the top 20 do NOT get FAQ JSON-LD (conditional rendering)
+- FAQ answers are factually grounded in frontmatter data — no invented text
+- `npx astro build` passes with 0 errors
+
+---
+
+### S002 — Zone Page Editorial Intro Infrastructure
+**Status:** `[x]`
+**Agent:** Copilot
+**Files:** `src/data/zones.ts`, `src/pages/zone/[zone].astro`
+**What:** Add an `intro` string field to the `ZoneData` interface and render it on zone pages above the crop classification lists. Claude will fill in the content (Z001–Z008) — this task only wires the template.
+**Details:**
+- Add `intro?: string` to the `ZoneData` interface in `zones.ts`
+- Add a placeholder intro to each zone entry (one sentence each): `"Zone [N] editorial content coming soon."`
+- In `[zone].astro`, render `{zoneData.intro && <p class="zone-intro">{zoneData.intro}</p>}` below the `.zone-summary` stats block and above the first crop section
+- Style: `.zone-intro` should use `var(--color-text)`, `font-size: var(--text-base)`, `margin-bottom: var(--space-4)`, `max-width: 65ch`
+- No hardcoded colors or px values
+**Acceptance:**
+- `ZoneData` interface has `intro?: string`
+- All 8 zone entries in `ZONES` have a placeholder intro string
+- Zone pages render the intro paragraph when present
+- `npx astro build` passes with 0 errors
+
+---
+
+## Content Expansion Sprint — E-series (Crop Depth Pass)
+
+**Context:** As of May 2026, the 40 thinnest crop pages are 937–1,290 words. Full-depth reference pages (tomato, basil, kale) are ~1,800–2,200 words. The gap covers specialty/uncommon crops that Claude has written as functional stubs. The E-series expands each to full depth.
+
+**All E-series tasks:** Load skill at `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`. Target 1,800+ words in the body. Every expansion must add: cultivar specifics (named varieties with notes), zone context (which USDA zones suit this crop), at least one USDA ERS/AMS or land-grant extension citation in the ROI section, and a preservation/kitchen section if not already present. Zero em dashes. No motivational closing.
+
+**Style reference:** Read `src/content/plants/tomato.md` or `src/content/plants/basil.md` before starting — these are the depth standard.
+
+---
+
+### E001 — Expand malabar-spinach.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/malabar-spinach.md`
+**Current word count:** ~937
+**ROI angle:** Heat-tolerant spinach substitute when true spinach bolts. High yield in zone 8–10 summers. $3–5/lb fresh at farmers markets (treat as premium greens). Cultivar note: red-stemmed (Basella rubra) vs. green-stemmed (Basella alba) — flavor and appearance differ.
+**Must include:** Cultivar section (red vs green), zone fit (thrives 8–10, usable 6–7 with season extension), pest (slugs, aphids), preservation (blanch and freeze for cooked applications), kitchen (stir-fry, soups — mucilaginous texture note).
+**Acceptance:** Body 1,800+ words, zero em dashes, cited price or yield source, `npx astro build` passes.
+
+---
+
+### E002 — Expand epazote.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/epazote.md`
+**Current word count:** ~964
+**ROI angle:** Specialty herb commanding $4–8/lb fresh at Mexican/Latin grocers and farmers markets. Near-zero input cost after establishment — self-seeding annual. Dual-value: culinary and reputed antiparasitic folk medicine use drives specialty demand.
+**Must include:** Cultivar note (one species, but fresh vs. dried flavor difference worth covering), zone fit (annual everywhere, perennial zone 9+), self-seeding behavior (can become aggressive), preservation (drying method and potency loss), kitchen (black bean applications, correct usage amounts — toxic in large quantities, must note).
+**Acceptance:** Body 1,800+ words, zero em dashes, cited price source, `npx astro build` passes.
+
+---
+
+### E003 — Expand new-zealand-spinach.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/new-zealand-spinach.md`
+**Current word count:** ~1,004
+**ROI angle:** Fills the summer gap when true spinach bolts — extends the harvest window by 3+ months. $3–4/lb market price. Cut-and-come-again; one planting produces until frost.
+**Must include:** Distinct from true spinach (Tetragonia tetragonioides, not Spinacia), zone fit (warm-season, zones 5–10), germination note (slow — scarify or soak seeds 24h), heat tolerance advantage, pest (generally pest-resistant — worth noting), preservation (blanch and freeze), kitchen (mild flavor, cooks like spinach but needs more washing due to texture).
+**Acceptance:** Body 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E004 — Expand winter-savory.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/winter-savory.md`
+**Current word count:** ~1,005
+**ROI angle:** Perennial herb (zones 5+) with near-zero year-2+ input cost. $5–8/lb dried at specialty retailers. Pairs with beans — traditional companion that also commands higher fresh herb premium than common herbs.
+**Must include:** Distinction from summer savory (perennial vs. annual, stronger flavor), zone fit (woody perennial 5+, annual elsewhere), propagation (cuttings vs. seed), harvest timing (before flowering for peak flavor), preservation (drying — retains flavor better than fresh storage), kitchen (bean dishes, game meat, charcuterie applications).
+**Acceptance:** Body 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E005 — Expand yardlong-bean.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/yardlong-bean.md`
+**Current word count:** ~1,038
+**ROI angle:** Extremely productive in heat — outperforms green beans by 2–3x yield per plant in zone 7+ summers. $2–4/lb retail. 60-day crop; succession plant for continuous harvest.
+**Must include:** Cultivar section (red-seeded vs. green, black-eyed vs. light-seeded types), zone fit (heat-lover, best zones 7–11), trellising requirement (vigorous climber, 8–10 ft), harvest timing (pick at 12–18 inches — not when "yard long" which is overripe), pest (aphids, spider mites in heat), preservation (blanch-freeze, pickled), kitchen (stir-fry primary, distinct from snap bean texture — not interchangeable raw).
+**Acceptance:** Body 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E006 — Expand culantro.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/culantro.md`
+**Current word count:** ~1,052
+**ROI angle:** Specialty herb commanding $2–4/bunch at Latin and Caribbean markets — often more expensive per oz than cilantro. Heat-tolerant and bolt-resistant where cilantro fails. Not interchangeable in flavor but used in the same cuisines.
+**Must include:** Distinction from cilantro (Eryngium foetidum vs. Coriandrum sativum — related in use, not in species), zone fit (perennial zones 9–11, annual elsewhere), shade tolerance advantage (grows under taller crops), harvest (outer leaves, not whole plant), pest (slug pressure in shade conditions), preservation (freezing retains flavor better than drying), kitchen (Caribbean sofritos, Vietnamese pho, Thai curries — specific dish applications).
+**Acceptance:** Body 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E007 — Expand galangal.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/galangal.md`
+**Current word count:** ~1,054
+**ROI angle:** $8–15/lb fresh at Asian markets; $20–30/lb dried. Rhizome crop that multiplies in the ground. Low annual input cost after establishing rhizomes. Niche but commanding premium — specialty grocery demand is consistent.
+**Must include:** Distinction between greater galangal (Alpinia galanga) and lesser galangal (A. officinarum) — different culinary uses, cover both, zone fit (perennial zones 9–11, container/annual zones 5–8), rhizome division for propagation, harvest timing (1 year for fresh use, 2+ for larger rhizomes), preservation (freeze fresh, dry for powder — drying significantly reduces volatile oils), kitchen (Thai curries, tom kha, not substitutable with ginger).
+**Acceptance:** Body 1,800+ words, zero em dashes, cited price source, `npx astro build` passes.
+
+---
+
+### E008 — Expand serviceberry.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/serviceberry.md`
+**Current word count:** ~1,076
+**ROI angle:** Early-season fruit (June) filling the gap between strawberries and summer berries. $6–12/lb at farmers markets where available — undersupplied because commercial production is minimal. Multi-trunk shrub or small tree; long productive lifespan (20+ years).
+**Must include:** Species note (Amelanchier alnifolia for fruit, A. canadensis and A. arborea for ornamental — emphasize alnifolia for edible production), zone fit (extremely cold-hardy, zones 2–9), wildlife pressure (birds — netting required), harvest timing (berries ripen over 1–2 weeks, pick when deep purple-blue), preservation (fresh shelf life short — 3 days; freeze immediately or make jam), kitchen (pie, jam, fresh eating; flavor like mild blueberry with almond undertone — explain the almond note).
+**Acceptance:** Body 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E009 — Expand honeyberry.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/honeyberry.md`
+**Current word count:** ~1,087
+**ROI angle:** Earliest fruiting shrub in cold climates (ripens before strawberries, zones 3–6). $8–15/lb where sold fresh. Underserved market — most home growers don't know it. Cold-hardy to -40°F; outperforms any other berry in zone 3–4.
+**Must include:** Species note (Lonicera caerulea, haskap in Japan/Canada — same plant, different common names), cultivar pairs (requires two different cultivars for pollination — name specific compatible pairs like 'Tundra' + 'Indigo Gem'), zone fit (zones 3–6, performs poorly in zone 7+ heat), harvest (early June, berries release easily when ripe), pest (generally low pest pressure, but birds), preservation (freezes excellently — better than fresh), kitchen (strong flavor compared to blueberry, best cooked in jam/pie, raw eating is an acquired taste — honest note).
+**Acceptance:** Body 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E010 — Expand chinese-broccoli.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/chinese-broccoli.md`
+**Current word count:** ~1,090
+**ROI angle:** $3–5/lb at Asian markets; more expensive than broccoli. Succession crop — cut stems regrow. 50–60 days to first harvest, then continuous for 4–6 weeks before bolting.
+**Must include:** Cultivar section (standard vs. 'Crispy Blue' vs. 'Kaiho' — different stem thickness and bolt tolerance), zone fit (cool-season, best spring/fall zones 3–9, year-round zones 7–9 with timing), harvest trigger (harvest when 30–40% of buds are open — later than this and flavor declines), pest (imported cabbageworm, aphids — standard brassica pests), preservation (blanch-freeze; not suitable for drying), kitchen (stir-fry with oyster sauce is canonical; also steamed with ginger; stems and leaves cooked differently — stems longer, leaves added last).
+**Acceptance:** Body 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E011 — Expand vietnamese-coriander.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/vietnamese-coriander.md`
+**Current word count:** ~1,094
+**ROI angle:** $3–5/bunch at Vietnamese and Southeast Asian markets. Heat-tolerant cilantro substitute — grows where cilantro bolts. Cut-and-come-again; low input after rooting cuttings.
+**Must include:** Species note (Persicaria odorata, not related to Coriandrum), zone fit (perennial zones 9–11, frost-sensitive annual elsewhere, overwinter indoors), propagation by stem cuttings (roots in water in 1 week — fast and free), taste comparison to cilantro (similar but distinct — citrusy with a slight menthol note), pest (generally pest-free in hot weather, slug pressure in cool damp), preservation (poor — best fresh, freezing acceptable for cooked use), kitchen (Vietnamese pho, laksa, rice paper rolls — specific dish context).
+**Acceptance:** Body 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E012 — Expand water-chestnut.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/water-chestnut.md`
+**Current word count:** ~1,124
+**ROI angle:** $3–6/lb fresh at Asian markets. Aquatic crop — uses water space not competing with garden beds. Crunchy texture survives cooking (unlike most vegetables) — unique niche. High-value processed forms (canned, flour) suggest demand.
+**Must include:** Species note (Eleocharis dulcis, not the floating water chestnut Trapa natans which is invasive), growing method (containers with water, pond margins, or small water garden), zone fit (warm-season, zones 7–11 for outdoor production; zones 5–6 possible in containers brought inside), corm division propagation, harvest (drain water in fall, dig corms), pest (generally pest-free due to aquatic environment), preservation (fresh 2 weeks refrigerated; canned commercial product; can slice and freeze for stir-fry), kitchen (stir-fry standard; maintain crunch by adding late; water chestnut flour as thickener).
+**Acceptance:** Body 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E013 — Expand feijoa.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/feijoa.md`
+**Current word count:** ~1,134
+**ROI angle:** $4–8/lb at specialty and Latin markets (sold as pineapple guava). Perennial shrub — productive for 20+ years. Self-fertile varieties available, but cross-pollination improves yield. Low-maintenance once established.
+**Must include:** Cultivar section ('Coolidge' self-fertile vs. 'Mammoth', 'Nazemetz' which need cross-pollination — name them), zone fit (zones 8–11; brief cold hardiness to 15°F but fruit quality drops at limits), harvest (falls when ripe — catch with netting under tree or pick when gives to gentle squeeze), pest (generally low; occasional scale), preservation (very short shelf life — 3–5 days fresh; freeze pulp immediately; jams and chutneys best use of surplus), kitchen (scoop flesh from skin; flavor is guava-mint-pineapple; raw eating primary, also baked goods and preserves).
+**Acceptance:** Body 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E014 — Expand water-spinach.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/water-spinach.md`
+**Current word count:** ~1,141
+**ROI angle:** $2–4/lb at Asian markets; extremely fast-growing (harvest in 30 days). Semi-aquatic or moist soil growing; extremely productive in heat and humidity zones 8+.
+**Must include:** Regulatory note (Ipomoea aquatica is a Federal Noxious Weed in the US — legal to grow in FL, TX, HI with permits; other states vary — agents must include this; it's a key differentiator vs. other crops), growing method (moist soil or water culture), zone fit (best zones 9–11, usable zones 7–8 as annual), harvest (young shoots 6–8 inches; regrows rapidly), pest (aphids, spider mites in dry conditions), preservation (wilts quickly — 2 days max fresh; freezing acceptable for cooked use), kitchen (hollow stems — distinctive; stir-fry with garlic and oyster sauce canonical; morning glory greens in Thai/Vietnamese cooking).
+**Acceptance:** Body 1,800+ words, regulatory note present, zero em dashes, `npx astro build` passes.
+
+---
+
+### E015 — Expand agretti.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/agretti.md`
+**Current word count:** ~1,157
+**ROI angle:** $8–15/lb at specialty and Italian markets — highly seasonal (spring only), undersupplied in US. Seed viability short (use fresh seed); this creates a barrier to entry that keeps supply low and prices high.
+**Must include:** Common name confusion (agretti, monk's beard, roscano, land seaweed — all same plant: Salsola soda), seed freshness critical (purchase current-season seed only — germination drops sharply after 6 months; this is the most common failure point), zone fit (cool-season spring crop, zones 5–9), harvest window (short — 4–6 weeks in spring before heat causes bitterness), preservation (blanch-freeze; drying not recommended), kitchen (Italian cooking — lemon, olive oil, simple preparations; distinct texture — dense and slightly crunchy like samphire).
+**Acceptance:** Body 1,800+ words, seed freshness warning present, zero em dashes, `npx astro build` passes.
+
+---
+
+### E016 — Expand medlar.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/medlar.md`
+**Current word count:** ~1,165
+**ROI angle:** $8–20/lb at specialty markets where sold at all — extremely rare commercially. Long-lived tree (50+ years); essentially no input cost after year 5. Unique harvest timing (late fall, after frost).
+**Must include:** The bletting process (fruit must be bletted — allowed to soften/partially ferment before eating — this is non-negotiable to explain; unripe medlar is inedible), zone fit (zones 5–9, cold-hardy), cultivar section ('Nottingham', 'Royal', 'Dutch' — size and flavor differences), harvest (pick after first frost, then blet 2–6 weeks at cool room temperature until flesh turns dark brown and soft), pest (generally low; fireblight in wet springs), preservation (bletted fruit keeps 2 weeks; medlar jelly is the primary preservation method), kitchen (medlar cheese/jelly with game; roasted bletted medlar; historical British dish with cream).
+**Acceptance:** Body 1,800+ words, bletting process explained, zero em dashes, `npx astro build` passes.
+
+---
+
+### E017 — Expand hazelnut.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/hazelnut.md`
+**Current word count:** ~1,173
+**ROI angle:** $4–8/lb in-shell at markets; $12–20/lb shelled. Long-lived multi-stemmed shrub (not tree); first harvest year 3–5, then productive 40+ years. Requires two different varieties for cross-pollination.
+**Must include:** Cultivar pairs for cross-pollination ('Jefferson' + 'Eta', or 'Barcelona' + 'Ennis' — name them), species note (American hazelnut Corylus americana vs. European C. avellana — disease resistance differences), zone fit (American hazelnut zones 4–9; European 5–8), Eastern Filbert Blight (EFB) — critical disease issue for European hazelnuts in eastern US; American varieties resistant; hybrid varieties ('Jefferson', 'Eta') recommended for east coast, pest (squirrels — main economic threat), harvest (nuts fall when ripe — collect from ground), preservation (dry in shell for 1–2 months; shell and store in cool dry space 1 year; freeze shelled for 2+ years), kitchen (roasting before using intensifies flavor; blanching to remove skin; hazelnut flour from home-ground nuts).
+**Acceptance:** Body 1,800+ words, EFB disease note present, cross-pollination cultivar pairs named, zero em dashes, `npx astro build` passes.
+
+---
+
+### E018 — Expand daikon.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/daikon.md`
+**Current word count:** ~1,175
+**ROI angle:** $1–2/lb retail; extremely high yield (one root 1–2 lbs). Also sold as cover crop/tillage radish ($40–60/lb for seed — not relevant for home grower but signals commercial demand). Greens edible too — dual harvest.
+**Must include:** Cultivar section ('Miyashige', 'April Cross', 'KN-Bravo' purple — size and season differences), zone fit (cool-season, fall-planted in most zones; year-round in zones 9–10), greens harvest (leaves edible — mild flavor; harvest young for salads), soil improvement value (deep taproot breaks compaction — agronomic note), pest (root maggots — organic control), preservation (refrigerated 1–2 weeks fresh; lacto-fermented (dongchimi, kkakdugi) primary Asian preservation method — must cover; can also pickle quickly in rice vinegar), kitchen (Japanese cuisine — raw in salads, pickled as tsukemono, grated as daikon oroshi condiment, simmered in oden; Korean kimchi ingredient).
+**Acceptance:** Body 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E019 — Expand aronia.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/aronia.md`
+**Current word count:** ~1,182
+**ROI angle:** $4–8/lb fresh at farmers markets; $15–25/lb dried; $20–40/lb frozen for commercial buyers. High antioxidant profile drives premium pricing. Low-maintenance shrub; zones 3–9; heavy yields in year 3+.
+**Must include:** Species note (Aronia melanocarpa black chokeberry vs. A. arbutifolia red — black is the commercial/edible variety; red is mainly ornamental), cultivar section ('Viking', 'Nero', 'McKenzie' — yield and size differences; 'Viking' is the commercial standard), zone fit (zones 3–9; extremely cold-hardy), harvest timing (August–September; pick when fully black and slightly soft; high astringency raw — important to note), pest (generally pest-free — one of the site's most low-maintenance fruit crops), preservation (freeze fresh; dry for powder; juice; wine; jelly — cover all major options), kitchen (too astringent for raw eating in quantity; best cooked in jams, baked goods, juiced and sweetened; mix with apple or other fruit to balance tannins).
+**Acceptance:** Body 1,800+ words, astringency note present, zero em dashes, `npx astro build` passes.
+
+---
+
+### E020 — Expand peanut.md
+**Status:** `[x]`
+**Agent:** Claude
+**File:** `src/content/plants/peanut.md`
+**Current word count:** ~1,217
+**ROI angle:** $3–6/lb raw in-shell; $8–12/lb as boiled peanuts at roadside stands and farmers markets (zone 7+ Southern US). Nitrogen-fixing legume — improves soil for following crops. Unique geocarpic fruiting (peg buries in soil — must explain).
+**Must include:** Cultivar section ('Valencia' 3-4 seeds/pod, best for home boiling; 'Virginia' large kernel for roasting; 'Spanish' for peanut butter — explain the differences), zone fit (110–130 day crop, best zones 7–10; marginal zone 6 with season extension), the peg formation process (after flowers are pollinated, a peg grows down and buries into soil — the peanut develops underground; must cover because most gardeners don't know this), harvest (pull plants when leaves yellow; cure 2–4 weeks before shelling), pest (fungal issues in wet seasons — proper curing prevents aflatoxin, this is a food safety note to include), preservation (fresh boiled within 24h; raw dried in shell 6+ months; roasted in shell 3+ months), kitchen (boiled peanuts — Southern preparation; roasting at home; peanut butter from fresh-ground).
+**Acceptance:** Body 1,800+ words, peg formation explained, aflatoxin/curing note present, zero em dashes, `npx astro build` passes.
+
+---
+
+## Zone Editorial Sprint — Z-series
+
+**Context:** Zone pages at `/zone/3/` through `/zone/10/` exist and dynamically list crops classified by frost-free days. They currently have no editorial intro content. Z001–Z008 add zone-specific written context.
+
+**Dependency:** S002 must be completed first (Copilot adds `intro` field to ZoneData and renders it in `[zone].astro`).
+
+**All Z-series tasks:** Load skill at `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`. Target 250–400 words per intro. Content must cite USDA frost data (already in ZoneData), name the 2–3 highest-ROI crops that thrive in the zone with brief reasoning, and note the zone's primary constraint (season length, heat, humidity, freeze-thaw cycles). Zero em dashes. No motivational closing. Edit `src/data/zones.ts` directly — replace the placeholder intro for the zone.
+
+---
+
+### Z001 — Zone 3 Editorial Intro
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/data/zones.ts` — Zone 3 entry `intro` field
+**Zone facts:** Last frost Jun 1, first frost Sep 15, 90 frost-free days
+**Key angle:** Shortest season in the catalog — 90 days eliminates most warm-season crops. Best ROI crops are those that mature in under 70 days: fast herbs (dill, cilantro, parsley), cool-season vegetables (lettuce, spinach, kale, radish), and cold-tolerant perennials (rhubarb, asparagus, garlic). Note: garlic planted in fall, harvested next July — it straddles the growing season and is among the best ROI crops for Zone 3.
+**Acceptance:** `intro` field present and non-placeholder, 250–400 words, cites Jun 1 / Sep 15 dates, names at least 2 specific crops with ROI reasoning, zero em dashes.
+
+---
+
+### Z002 — Zone 4 Editorial Intro
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/data/zones.ts` — Zone 4 entry `intro` field
+**Zone facts:** Last frost May 15, first frost Sep 25, 130 frost-free days
+**Key angle:** 130 days opens the door to tomatoes and peppers with indoor starts. Still risky for long-season varieties — note early-maturing cultivars (determinate tomatoes 60–70 days). Garlic, herbs, and perennials (rhubarb, asparagus) are the anchor crops. Zone 4 gardeners benefit most from indoor starting infrastructure — mention payback of season extension tools.
+**Acceptance:** `intro` field present and non-placeholder, 250–400 words, cites May 15 / Sep 25 dates, names at least 2 specific crops, zero em dashes.
+
+---
+
+### Z003 — Zone 5 Editorial Intro
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/data/zones.ts` — Zone 5 entry `intro` field
+**Zone facts:** Last frost May 1, first frost Oct 5, 155 frost-free days
+**Key angle:** Zone 5 is the benchmark zone for most US gardening advice. 155 days supports full-season tomatoes, peppers, cucumbers, and squash. Garlic ROI remains exceptional. Fall extension with low tunnels adds 4–6 weeks. Kale and other brassicas can overwinter in mild Zone 5 winters with protection.
+**Acceptance:** `intro` field present and non-placeholder, 250–400 words, cites May 1 / Oct 5 dates, names at least 2 specific crops, zero em dashes.
+
+---
+
+### Z004 — Zone 6 Editorial Intro
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/data/zones.ts` — Zone 6 entry `intro` field
+**Zone facts:** Last frost Apr 15, first frost Oct 20, 185 frost-free days
+**Key angle:** 185 days is comfortable for all warm-season crops without indoor starting. Fall garden is productive — brassicas and greens planted August can produce until November. Sweet potatoes (90–120 days) are borderline viable without tricks. Garlic, tomatoes, and cucumbers are the high-ROI leaders.
+**Acceptance:** `intro` field present and non-placeholder, 250–400 words, cites Apr 15 / Oct 20 dates, names at least 2 specific crops, zero em dashes.
+
+---
+
+### Z005 — Zone 7 Editorial Intro
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/data/zones.ts` — Zone 7 entry `intro` field
+**Zone facts:** Last frost Apr 1, first frost Nov 5, 215 frost-free days
+**Key angle:** Zone 7 is the sweet spot for year-round gardening with planning. Two-season gardening: spring/summer warm crops + fall/winter cool crops (kale, collards, spinach, garlic). Summer heat limits cool-season crops June–August. High-value summer crops: hot peppers, sweet potatoes, okra (heat-lovers that underperform in colder zones). Garlic planted October harvested June.
+**Acceptance:** `intro` field present and non-placeholder, 250–400 words, cites Apr 1 / Nov 5 dates, names at least 2 specific crops, zero em dashes.
+
+---
+
+### Z006 — Zone 8 Editorial Intro
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/data/zones.ts` — Zone 8 entry `intro` field
+**Zone facts:** Last frost Mar 15, first frost Nov 25, 255 frost-free days
+**Key angle:** Zone 8 allows near-year-round production with proper crop sequencing. Summer heat (July–August) is the primary constraint — this is when cool-season crops cannot grow. Winter gardening is productive without protection for hardy greens. High-ROI crops: garlic (Oct–Jun), sweet potatoes (Apr–Sep), hot peppers, herbs (perennial in Zone 8 — thyme, sage, oregano, rosemary all become permanent fixtures reducing year-over-year input costs).
+**Acceptance:** `intro` field present and non-placeholder, 250–400 words, cites Mar 15 / Nov 25 dates, names at least 2 specific crops, zero em dashes.
+
+---
+
+### Z007 — Zone 9 Editorial Intro
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/data/zones.ts` — Zone 9 entry `intro` field
+**Zone facts:** Last frost Feb 15, first frost Dec 10, 295 frost-free days
+**Key angle:** Zone 9 (coastal CA, Gulf Coast, central FL) has a reversed gardening calendar in some regions — cool-season crops grow October–April, summer heat limits production. Perennial herbs are permanent. High-value subtropical crops viable: lemongrass, ginger, turmeric, moringa (zones 9b+). Garlic planted November harvested May. Year-round herb production is the primary ROI advantage vs. colder zones.
+**Acceptance:** `intro` field present and non-placeholder, 250–400 words, cites Feb 15 / Dec 10 dates, names at least 2 specific crops, zero em dashes.
+
+---
+
+### Z008 — Zone 10 Editorial Intro
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/data/zones.ts` — Zone 10 entry `intro` field
+**Zone facts:** Last frost Jan 31, first frost Dec 25, 330 frost-free days
+**Key angle:** Zone 10 (south FL, Hawaii, far south TX/AZ) essentially has no frost constraint. The limiting factor is summer heat and humidity rather than cold. Cool-season crops fail in summer but thrive October–March. Tropical crops (moringa, taro, ginger, turmeric, lemongrass, dragon fruit) are the differentiators — crops that cannot be grown economically anywhere else in the US. Note: many "Zone 10" gardeners are in Hawaii, which has microclimates ranging from Zone 9a to Zone 13 depending on elevation.
+**Acceptance:** `intro` field present and non-placeholder, 250–400 words, cites Jan 31 / Dec 25 dates, names at least 2 specific crops, zero em dashes.
+
+---
+
+## ROI Deep Dive Sprint — R-series
+
+**Context:** The site has ROI deep dives for garlic, tomato, herbs (aggregate), peppers, berries (aggregate), root vegetables (aggregate), microgreens, and salad greens. These stories add individual deep dives for high-traffic perennial and annual crops not yet covered solo.
+
+**Template:** Read `src/content/articles/garlic-roi-analysis.md` before starting — this is the depth and structure standard. Every article must include: actual dollar math (input cost, gross value, net value, ROI multiple), multi-year projections where applicable, cited prices (USDA ERS, USDA AMS, or land-grant extension), and a break-even analysis. Category: `roi`. Target 2,000+ words.
+
+**All R-series tasks:** Load skill at `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`.
+
+---
+
+### R001 — asparagus-roi-analysis.md
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/content/articles/roi/asparagus-roi-analysis.md` → serves at `/roi/asparagus-roi-analysis/`
+**Frontmatter:** `title: "Asparagus ROI: The 3-Year Investment That Pays Back for 20"`, `category: roi`, `description` 150–160 chars with "asparagus ROI" keyword
+**ROI angle:** Crown cost ($2–4 each, 25 crowns needed for a family = $50–100 start cost). Year 1: no harvest. Year 2: partial harvest. Year 3+: full harvest, 1–2 lbs per crown per season. At $4–6/lb (USDA AMS), 25 crowns yield $100–300/year for 20+ years. Amortize setup cost: $50–100 crown cost + $20–30 soil prep = $80–130 total. Break-even at end of year 3. Year 4–20 ROI is essentially infinite (input = $0). Cover annual maintenance (topdressing with compost; no replanting).
+**Must include:** Year-by-year yield table (Year 0 setup, Year 1 no harvest, Year 2 partial, Year 3+ full), male vs. female variety ROI difference (male plants yield more — 'Jersey Knight', 'Jersey Supreme'; explain why), bed preparation cost (deep tilling, trench method — cite extension), USDA price citation, link to asparagus crop page and fruit-tree-payback-timeline article.
+**Acceptance:** 2,000+ words, dollar math present, cited prices, year-by-year table, zero em dashes, `npx astro build` passes.
+
+---
+
+### R002 — blueberry-roi-analysis.md
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/content/articles/roi/blueberry-roi-analysis.md` → serves at `/roi/blueberry-roi-analysis/`
+**Frontmatter:** `title: "Blueberry ROI: When a $30 Bush Earns $200 a Year"`, `category: roi`
+**ROI angle:** Highbush blueberry bush costs $15–30. Year 1: minimal fruit. Year 2: 1–2 lbs. Year 3+: 5–10 lbs per bush. Retail $5–8/lb (USDA AMS). 4 bushes (minimum for cross-pollination) = $60–120 start cost, $60 soil acidification (sulfur, peat), $30 mulch = ~$150–210 total setup. Year 4: 4 bushes × 7 lbs × $6 = $168 gross. By year 5: setup costs recovered. Bushes produce 20–30+ years.
+**Must include:** Soil pH requirement (4.5–5.5 — this is the #1 failure point; explain pH testing and amendment cost), cultivar categories (highbush, lowbush, rabbiteye — different zone fits), cross-pollination requirement, bird netting as necessary capital cost, year-by-year yield projection table, USDA price citation, link to blueberry crop page and berry-roi-comparison article.
+**Acceptance:** 2,000+ words, dollar math, soil pH section, cited prices, year-by-year table, zero em dashes, `npx astro build` passes.
+
+---
+
+### R003 — sweet-potato-roi-analysis.md
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/content/articles/roi/sweet-potato-roi-analysis.md` → serves at `/roi/sweet-potato-roi-analysis/`
+**Frontmatter:** `title: "Sweet Potato ROI: Year 2 Costs Drop to Nearly Zero"`, `category: roi`
+**ROI angle:** Year 1: buy slips ($3–5 for 12 slips, typically). Grow. Harvest. Select 4–6 roots for sprouting. Year 2+: slip propagation from your own roots — input cost drops to $0 for slips. Yield: 4–8 lbs per plant from 12 plants = 50–100 lbs. At $1.50–2.50/lb (USDA AMS) = $75–250 gross value. Year 2 net (minus fertilizer and water) approaches gross. Cover: slip production method (water glass technique), curing (cure at 85–90°F for 7–10 days before storage — critical for sweetness and shelf life), storage (55–60°F, 6–12 months).
+**Must include:** Slip propagation tutorial (water glass method with jar and toothpicks), curing process and why it matters (converts starches to sugars, heals cuts), storage duration (the 6–12 month storage is a major ROI multiplier — eating your own sweet potatoes in March vs. buying at $2/lb), USDA price citation, link to sweet potato crop page and root-vegetable-roi article.
+**Acceptance:** 2,000+ words, slip propagation section, curing section, dollar math, cited prices, zero em dashes, `npx astro build` passes.
+
+---
+
+### R004 — onion-roi-analysis.md
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/content/articles/roi/onion-roi-analysis.md` → serves at `/roi/onion-roi-analysis/`
+**Frontmatter:** `title: "Onion ROI: Sets vs. Seeds vs. Transplants — Which Wins?"`, `category: roi`
+**ROI angle:** Three starting methods with different economics: (1) Sets: $3–5/lb, ~100 sets, easiest, but limited variety selection and higher bolting rate. (2) Seeds: $2–4/packet, 300+ seeds, full variety access, lower cost per plant, requires indoor start 10–12 weeks ahead. (3) Transplants: $4–8/bunch of 60, mid-range cost, good variety selection. Yield: 0.75 lb per onion, 100 plants = 75 lbs. At $1–2/lb (USDA AMS) = $75–150 gross. Best ROI: seeds ($4 for 300 seeds vs. $4 for 80 sets). Storage: cured onions store 3–6 months — value captured over winter.
+**Must include:** Side-by-side cost comparison table (sets vs. seeds vs. transplants: cost per plant, variety selection, bolting risk, yield), long-day vs. short-day vs. day-neutral cultivar explanation (zone-specific — critical to get right), curing process, storage duration as ROI amplifier, USDA price citation, link to onion crop page and root-vegetable-roi.
+**Acceptance:** 2,000+ words, comparison table, long/short day explanation, dollar math, cited prices, zero em dashes, `npx astro build` passes.
+
+---
+
+### R005 — rhubarb-roi-analysis.md
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/content/articles/roi/rhubarb-roi-analysis.md` → serves at `/roi/rhubarb-roi-analysis/`
+**Frontmatter:** `title: "Rhubarb ROI: A 20-Year Plant That Pays Back by Year 3"`, `category: roi`
+**ROI angle:** Crown cost $5–10. Year 1: minimal harvest (let plant establish). Year 2: modest harvest. Year 3+: 3–5 lbs per crown per season, ongoing for 15–20 years. At $3–5/lb fresh (USDA AMS) = $9–25 per crown per year. Single crown: setup $10, returns $15+ annually from year 3 indefinitely. Division propagation every 5–7 years expands the patch for free. Zero annual input cost after establishment (top-dress with compost annually).
+**Must include:** Division propagation (how and when — early spring; free multiplication of the patch), forced rhubarb technique (pot over crown in winter — produces pale, tender stalks worth $8–12/lb at specialty markets), cultivar section ('Victoria', 'Crimson Red', 'Canada Red' — yields and flavor), zone fit (requires cold winters for dormancy — zones 3–7 ideal; zones 8+ problematic), LEAF TOXICITY NOTE (leaves are toxic — stalks only, this is a required safety note), USDA price citation, link to rhubarb crop page and perennial-garden-economy.
+**Acceptance:** 2,000+ words, toxicity warning present, forced rhubarb section, dollar math, cited prices, zero em dashes, `npx astro build` passes.
+
+---
+
+### R006 — cucumber-roi-analysis.md
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/content/articles/roi/cucumber-roi-analysis.md` → serves at `/roi/cucumber-roi-analysis/`
+**Frontmatter:** `title: "Cucumber ROI: Why Succession Planting Triples Your Harvest"`, `category: roi`
+**ROI angle:** Single planting yields for 4–6 weeks then declines. Three successions (every 3 weeks) extend harvest June–September. Seed cost: $3–5/packet for 30+ seeds — 3 successions use 12–15 seeds total, essentially one packet. Yield: 10–20 lbs per plant; 4 plants per succession × 3 successions = 12 plants × 15 lbs = 180 lbs potential. At $1.50–3/lb (USDA AMS; higher for specialty types) = $270–540 gross. Net after seed and water: $250–500+. Single-planting comparison: 4 plants × 15 lbs × $2 = $120. The succession premium is the story.
+**Must include:** Succession planting schedule (dates, spacing between plantings), slicing vs. pickling vs. specialty variety ROI comparison (pickling cucumbers in bulk vs. English cucumbers at $3+/lb), trellising yield benefit (vertical production; more per square foot), cucumber beetle as the primary pest threat (economic threshold note), homemade pickle economics (pickling surplus value — link to lacto-fermentation-preservation or canning-financial-case), USDA price citation, link to cucumber crop page.
+**Acceptance:** 2,000+ words, succession planting schedule, dollar math showing single vs. succession comparison, cited prices, zero em dashes, `npx astro build` passes.
+
+---
+
+### R007 — kale-roi-analysis.md
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/content/articles/roi/kale-roi-analysis.md` → serves at `/roi/kale-roi-analysis/`
+**Frontmatter:** `title: "Kale ROI: The Cut-and-Come-Again Crop That Keeps Paying"`, `category: roi`
+**ROI angle:** Seed cost $2–4/packet. Start 6–8 plants. Cut outer leaves; inner growing point continues. Single planting produces spring through fall — 6+ months. In zones 6+, overwinters and produces again next spring before bolting. Yield: 1–2 lbs/week × 20 weeks = 20–40 lbs from $3 in seed. At $2–4/lb (USDA AMS organic rates higher) = $40–160 gross. ROI: 13–53x. One of the highest ROI crops on the site when harvesting continuously vs. single-harvest crops.
+**Must include:** Harvest method (outer-leaf only; never cut below the growing tip; explain what happens when you do), cultivar section ('Lacinato'/dinosaur kale vs. 'Red Russian' vs. 'Curly Green' — flavor and cold hardiness differences), overwintering in zones 6–9 (frost sweetening — flavor improves after frost; this is a genuine culinary advantage), year-round timeline (spring planting → summer harvest → fall sweetening → winter overwintering → spring bolt → replant), baby kale as microgreen-style cut (higher $/lb in smaller quantities), USDA price citation, link to kale crop page and salad-greens-roi.
+**Acceptance:** 2,000+ words, harvest method section, cultivar comparison, overwintering section, dollar math, cited prices, zero em dashes, `npx astro build` passes.
+
+---
+
+### R008 — raspberry-roi-analysis.md
+**Status:** `[ ]`
+**Agent:** Claude
+**File:** `src/content/articles/roi/raspberry-roi-analysis.md` → serves at `/roi/raspberry-roi-analysis/`
+**Frontmatter:** `title: "Raspberry ROI: Cane Management and the Year-2 Payoff"`, `category: roi`
+**ROI angle:** Cane cost $3–6 per bare-root, buy 6–10 to establish a row. Year 1: floricane varieties produce nothing (first year canes are primocanes; fruit comes on second-year floricanes). Primocane (fall-bearing) varieties produce a small fall crop year 1. Year 2: full production, 1–2 lbs per cane, 10 canes = 10–20 lbs. At $4–8/lb fresh (USDA AMS) = $40–160 gross. By year 2, setup costs ($30–60 canes + trellis materials) recovered. Years 3–10: expanding patch (suckers create new canes for free), zero replanting cost.
+**Must include:** Floricane vs. primocane distinction (critical — determines whether you get year-1 fruit; name examples: 'Heritage' primocane, 'Latham' floricane), cane management pruning schedule (after-harvest removal of spent floricanes; tipping primocanes; fall-bearing renovation), trellis system cost and amortization, patch expansion via suckers (free multiplication; patch doubles every 2–3 years without buying new canes), Japanese beetle as the primary pest (economic damage peak, timing, organic controls), USDA price citation, link to raspberry crop page and berry-roi-comparison.
+**Acceptance:** 2,000+ words, floricane/primocane section, cane management pruning calendar, dollar math, cited prices, zero em dashes, `npx astro build` passes.
+
+---
+
+## Sprint D — Problem-Diagnosis / Care Articles
+
+**Purpose:** Fill the `care` category gap (9 vs. roi's 35). These target high-intent search queries people use when something is wrong in the garden right now. Each article gets Article + BreadcrumbList JSON-LD. All are Claude tasks.
+
+---
+
+### D001 — blossom-end-rot.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/blossom-end-rot.md` → serves at `/guides/blossom-end-rot/`
+**Frontmatter:** `title: "Blossom End Rot: Cause, Fix, and Prevention"`, `category: care`
+**What it must deliver:** Explain that BER is calcium deficiency in the fruit tissue but the cause is almost always inconsistent watering preventing calcium uptake, not soil calcium shortage. Distinguish tomato, pepper, squash, and eggplant - each has different susceptibility patterns. Diagnosis section: photograph description of what BER looks like vs. other bottom rot causes (fungal). Fix section: what to do immediately (remove affected fruits, mulch, water consistently), what does NOT work (foliar calcium sprays - explain why). Prevention: mulch depth, drip irrigation scheduling, container soil considerations.
+**Must include:** The foliar calcium spray debunking (this is the #1 misinformation people encounter), crop-specific susceptibility table, watering schedule math (how many inches per week, how to measure), citation from university extension (Cornell or Penn State BER fact sheet), links to tomato crop page, pepper crop page, mulching-guide article, drip-vs-hand-watering article.
+**Acceptance:** 1,800+ words, diagnosis section, fix section, prevention section, calcium spray debunked, cited sources, zero em dashes, `npx astro build` passes.
+
+---
+
+### D002 — tomato-leaf-problems.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/tomato-leaf-problems.md` → serves at `/guides/tomato-leaf-problems/`
+**Frontmatter:** `title: "Tomato Leaf Problems: 8 Causes by Symptom"`, `category: care`
+**What it must deliver:** Symptom-first diagnostic guide. Structure around what the grower sees, not what the disease is. Eight sections: (1) lower leaves yellow + drop (early blight pattern), (2) leaves curl up (heat stress, physiological - usually harmless), (3) leaves curl under (viral: TYLCV or physiological - how to tell), (4) purple/bronze discoloration (phosphorus deficiency, cold soil, or TSWV), (5) brown/black spots (early blight vs. Septoria leaf spot - how to differentiate by spot size and ring pattern), (6) wilting despite adequate water (Fusarium wilt vs. bacterial wilt - the stem cut test), (7) mottled/mosaic pattern (TMV or other mosaic virus), (8) blossom drop (temperature extremes - blossom set thresholds).
+**Must include:** A clear table mapping symptom → likely cause → action, the stem-cut test for bacterial wilt (floating tissue in water produces milky ooze vs. Fusarium's brown vascular ring), temperature thresholds for blossom drop, link to blossom-end-rot article, tomato crop page, integrated-pest-management article.
+**Acceptance:** 1,800+ words, symptom-first structure, diagnostic table, stem-cut test described, zero em dashes, cited university extension, `npx astro build` passes.
+
+---
+
+### D003 — powdery-mildew-treatment.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/powdery-mildew-treatment.md` → serves at `/guides/powdery-mildew-treatment/`
+**Frontmatter:** `title: "Powdery Mildew: Treatment, Prevention, and Resistant Varieties"`, `category: care`
+**What it must deliver:** Clear distinction from downy mildew (same name, different pathogen, different conditions). Diagnosis: white powdery coating on upper leaf surface (vs. downy mildew's grayish fuzz on underside). Conditions that promote it: low humidity + poor airflow, NOT wet weather (opposite of most fungal diseases - this surprises people). Spray treatment options ranked by efficacy and cost: potassium bicarbonate (most effective), baking soda (works but phytotoxic at high rates - explain dosing), neem oil (preventive, not curative), copper fungicide (stronger, resistance risk). Resistant variety selection as the best long-term solution.
+**Must include:** The humidity paradox (powdery mildew thrives in dry, warm weather - not wet), crop list with high susceptibility (squash, cucumber, zucchini, peas, grapes), potassium bicarbonate spray recipe and schedule, the baking soda overdose warning, resistant variety examples for squash and cucumber, link to cucumber crop page, squash/zucchini crop page, integrated-pest-management article.
+**Acceptance:** 1,800+ words, clear downy vs. powdery distinction, humidity paradox explained, treatment comparison, zero em dashes, cited sources, `npx astro build` passes.
+
+---
+
+### D004 — squash-vine-borer.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/squash-vine-borer.md` → serves at `/guides/squash-vine-borer/`
+**Frontmatter:** `title: "Squash Vine Borer: Identification, Treatment, and Succession Planting Fix"`, `category: care`
+**What it must deliver:** Life cycle of Melittia cucurbitae (one generation in northern US, two in south - timing difference changes the control strategy). Identification: the adult moth (wasp mimic, red abdomen, flies in daytime), the egg (flat, brown, laid singly at stem base), the larva (inside the vine, frass at entry hole). Entry wound diagnosis. Treatment: if caught early, the vine surgery method (slit, extract larvae, cover wound with soil, keep moist to re-root). If past the point of saving: rapid crop termination and composting (NOT in the compost pile if larvae are present). Prevention: row cover timing based on moth emergence, second planting strategy (plant late July when moth flight is over - the real long-term fix for zone 6+), butternut and cushaw squash resistance.
+**Must include:** Moth emergence timing by zone (use USDA map or degree-day model), the vine surgery technique (step by step), resistant species list (Cucurbita moschata species: butternut, cushaw; not C. pepo: zucchini, pumpkin), second planting timing table by zone, link to zucchini crop page, squash crop page (if exists), succession-planting-calendar article.
+**Acceptance:** 1,800+ words, life cycle section, identification section, vine surgery described step by step, resistant varieties, zero em dashes, cited sources, `npx astro build` passes.
+
+---
+
+### D005 — aphid-management.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/aphid-management.md` → serves at `/guides/aphid-management/`
+**Frontmatter:** `title: "Aphid Control: When to Act and When to Wait"`, `category: care`
+**What it must deliver:** The threshold principle: a few aphids are harmless and attract beneficial predators - premature spraying destroys the predator population and makes the problem worse. Economic threshold concept applied to home gardens. Identification: species differences (green peach aphid, black bean aphid, wooly aphid on apple, root aphids in containers). The honeydew/sooty mold secondary problem. Ants as aphid farmers - if ants are climbing the plant, aphids are being protected from predators. Natural predator timeline: it takes 7-10 days for ladybug larvae to establish after first aphid colony appears. When to intervene: wilting, severe distortion, virus transmission risk (aphids as virus vectors). Controls: forceful water spray (most effective, zero cost), insecticidal soap (contact kill only, respray in 3 days), neem oil (residual).
+**Must include:** The "wait for predators" principle with timeline, ant-as-aphid-farmer section, insecticidal soap homemade recipe and concentration warning (too strong kills plants), the virus transmission risk scenario (when aphids require urgent control), link to integrated-pest-management article, tomato crop page, pepper crop page.
+**Acceptance:** 1,800+ words, threshold section, predator timeline, ant management section, when-to-act guidance, zero em dashes, cited sources, `npx astro build` passes.
+
+---
+
+### D006 — overwatering-vs-underwatering.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/overwatering-vs-underwatering.md` → serves at `/guides/overwatering-vs-underwatering/`
+**Frontmatter:** `title: "Overwatering vs. Underwatering: How to Tell the Difference"`, `category: care`
+**What it must deliver:** The core confusion: both cause wilting. Diagnosis by elimination and soil feel. The finger test and when it's reliable (raised beds vs. in-ground - soil type matters). Container-specific patterns: how plastic vs. terracotta pots change watering frequency, root-bound plants vs. fresh mix. The overwatering damage sequence: root hypoxia → root death → plant cannot take up water despite wet soil → wilting despite wet soil (the confusing case). Recovery: how to rehabilitate an overwatered container plant. Underwatering signs: crispy leaf edges, soil pulling away from container edges, specific wilting pattern (all leaves, not just lower). Soil moisture meters: are they worth it (the ones under $15 are unreliable; the ones over $40 are useful).
+**Must include:** The "wilting despite wet soil" explanation (overwatering root death), container vs. in-ground differences, specific finger test protocol, soil moisture meter assessment with price guidance, link to mulching-guide, drip-vs-hand-watering, raised-bed-break-even articles.
+**Acceptance:** 1,800+ words, overwatering root death mechanism explained, container section, diagnostic protocol, zero em dashes, cited sources, `npx astro build` passes.
+
+---
+
+### D007 — why-plants-bolt.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/why-plants-bolt.md` → serves at `/guides/why-plants-bolt/`
+**Frontmatter:** `title: "Why Plants Bolt and How to Prevent It"`, `category: care`
+**What it must deliver:** Bolting = premature flowering triggered by the plant sensing reproductive urgency. Two primary triggers: photoperiod (day length crossing a threshold) and temperature (vernalization in reverse - warm after cold breaks dormancy). Crop-specific section: lettuce bolts on day length AND heat; spinach is photoperiod-triggered almost entirely; cilantro is famously intolerant of heat; brassicas bolt on cold-then-warm cycles; beets and carrots bolt in year 2 (biennial - important to distinguish from premature bolt). What happens to flavor after bolting: bitter compounds in lettuce and spinach, seed production priority draws from leaf tissue. Prevention by crop: succession planting timing, shade cloth for heat delay, variety selection (slow-bolt cultivars - name specific ones), succession timing table. Salvage: bolt-resistant varieties, using bolted cilantro for coriander seed.
+**Must include:** Vernalization reversal explanation, per-crop bolt triggers table (lettuce/spinach/cilantro/brassicas), slow-bolt variety examples for each, using bolted cilantro for coriander, link to cilantro/coriander crop page, lettuce crop page, succession-planting-calendar article, fall-garden-planning article.
+**Acceptance:** 1,800+ words, per-crop bolt triggers section, variety table, salvage section, zero em dashes, `npx astro build` passes.
+
+---
+
+### D008 — nutrient-deficiency-guide.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/nutrient-deficiency-guide.md` → serves at `/guides/nutrient-deficiency-guide/`
+**Frontmatter:** `title: "Vegetable Nutrient Deficiencies: Visual ID and Fix"`, `category: care`
+**What it must deliver:** Visual identification guide for the 6 most common deficiencies in vegetable gardens. For each: what you see, why it happens, quick fix, and long-term prevention. (1) Nitrogen: older leaves yellow first, overall pale green - distinguish from natural senescence. (2) Phosphorus: purple-red underside of leaves, dark green overall - cold soil mimics this and is the more common cause. (3) Potassium: leaf edge scorch, older leaves first - distinguish from windburn and salt damage. (4) Calcium: BER, tip burn in lettuce/brassica heads - covered briefly, refer to D001. (5) Iron: young leaves yellow, veins stay green (interveinal chlorosis) - common in high-pH soil, note this is a soil pH problem not an iron soil shortage. (6) Magnesium: older leaves, interveinal chlorosis, V-shaped yellowing from leaf tip. The soil test as the definitive answer - connect to soil-test-roi article.
+**Must include:** The pH-lock explanation for iron (iron unavailable above pH 7.0 even if soil contains it), how cold soil mimics phosphorus deficiency, the soil test recommendation throughout, distinction between mobile nutrients (N, P, K, Mg - older leaves affected first) vs. immobile (Ca, Fe, B - new growth affected first) as the key diagnostic principle, link to soil-ph-by-crop article, soil-test-decision-chain article, soil-test-roi article.
+**Acceptance:** 1,800+ words, 6-deficiency structure, mobile vs. immobile nutrient principle, pH-lock explained, zero em dashes, cited sources, `npx astro build` passes.
+
+---
+
+### D009 — slug-and-snail-control.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/slug-and-snail-control.md` → serves at `/guides/slug-and-snail-control/`
+**Frontmatter:** `title: "Slug and Snail Control: What Works and What Doesn't"`, `category: care`
+**What it must deliver:** Honest assessment of popular control methods ranked by actual efficacy. Beer traps: work but require daily emptying and rebating - labor cost makes them impractical at scale. Copper tape: marginal evidence, does not work in rain, not cost-effective. Diatomaceous earth: only effective when bone dry, useless after rain or irrigation (i.e., the exact conditions slugs emerge in). Salt: kills on contact but damages soil and is impractical to apply at scale. Iron phosphate bait (Sluggo): breaks down to iron and phosphate, soil-safe, OMRI listed, genuinely effective - this is the clear recommendation. Metaldehyde bait: effective but toxic to pets and wildlife. Cultural controls: eliminate daytime hiding spots, water in morning not evening, copper mesh barriers for raised beds.
+**Must include:** The beer trap labor math (how many traps, how often to refill), the diatomaceous earth rain problem (why it fails exactly when slugs are most active), iron phosphate as the clear winner with price per treatment, pet safety warning for metaldehyde, link to mulching-guide (mulch as slug habitat - tradeoff), raised-bed-break-even article, integrated-pest-management article.
+**Acceptance:** 1,800+ words, method-by-method ranking, iron phosphate recommendation with reasoning, pet safety note, zero em dashes, cited sources, `npx astro build` passes.
+
+---
+
+### D010 — cucumber-beetle-control.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/cucumber-beetle-control.md` → serves at `/guides/cucumber-beetle-control/`
+**Frontmatter:** `title: "Cucumber Beetle: Identification, Damage, and Control"`, `category: care`
+**What it must deliver:** Two species: spotted (Diabrotica undecimpunctata) and striped (Acalymma vittatum) - different geographic ranges, same damage. The secondary threat: striped cucumber beetle is the primary vector of bacterial wilt (Erwinia tracheiphila) - a plant infected by a beetle can't be saved, making early control critical in eastern US. Identification: size, coloring, egg clusters at soil base. Life cycle: overwintering adult, spring emergence, root feeding by larvae, adult feeding on leaves and flowers. Control timing: adults in early spring before egg laying is the critical window. Kaolin clay as early-season physical barrier. Row cover until flowering (must remove for pollination). Pyrethrin as last resort. Resistant varieties.
+**Must include:** Bacterial wilt transmission mechanism and why infected plants cannot be saved, the stick-test for bacterial wilt (pull stem apart slowly - stringy threads = bacterial wilt), geographic range map context (striped beetle + bacterial wilt worst in eastern US, less issue west of Rockies), row cover pollination timing issue, link to cucumber crop page, powdery-mildew-treatment article (integrated pest context), integrated-pest-management article.
+**Acceptance:** 1,800+ words, two-species section, bacterial wilt transmission explained, stick-test described, control timing section, zero em dashes, cited sources, `npx astro build` passes.
+
+---
+
+### D011 — root-rot-prevention.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/root-rot-prevention.md` → serves at `/guides/root-rot-prevention/`
+**Frontmatter:** `title: "Root Rot in Vegetable Gardens: Causes, Diagnosis, and Prevention"`, `category: care`
+**What it must deliver:** Root rot is a symptom, not a single disease - caused by Pythium, Phytophthora, Fusarium, or Rhizoctonia depending on conditions. All share the common trigger: waterlogged anaerobic soil. Diagnosis: pull up the plant and look at roots - healthy roots are white and firm, rotted roots are brown/black and mushy. Aboveground signs: sudden wilting despite moist soil (same confusion as overwatering - because that IS the cause). Soil and container factors: compacted clay soils, pots without drainage, raised beds with impermeable liner. Prevention: soil structure (organic matter, perlite for drainage in containers), raised beds in heavy clay areas, drip irrigation over overhead watering. Fungicide drench: only useful as preventive or at very first sign; copper-based; pyrethrin not effective.
+**Must include:** Root pull diagnostic (white vs. brown/mushy), the clay soil compaction problem, raised bed as the structural fix, perlite ratios for container mixes, link to raised-bed-break-even, overwatering-vs-underwatering, soil-ph-by-crop articles.
+**Acceptance:** 1,800+ words, diagnosis section (root pull described), soil structure section, container section, zero em dashes, cited sources, `npx astro build` passes.
+
+---
+
+### D012 — deer-and-rabbit-fencing.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/deer-and-rabbit-fencing.md` → serves at `/guides/deer-and-rabbit-fencing/`
+**Frontmatter:** `title: "Deer and Rabbit Fencing: Heights, Materials, and Cost Breakdown"`, `category: care`
+**What it must deliver:** Two separate problems with different solutions. Rabbits: ground level, chew cleanly (vs. deer's ragged tear), 2-foot hardware cloth buried 6 inches down is the definitive solution. Deer: highly variable by season (worst in late winter when browse is scarce), jump ability overestimated in many references (8-foot vertical clear, but 6-foot fence works in most garden contexts because deer assess both height and width), and behavioral repellent options with honest efficacy assessment (motion-activated sprinklers: effective but expensive; soap bars: marginal; commercial spray repellents: work for 2-3 weeks then require reapplication). The double-fence strategy for high-pressure areas. Cost breakdown: 100-foot perimeter, hardware cloth vs. welded wire vs. polypropylene deer fence.
+**Must include:** Rabbit hardware cloth spec with burial depth, deer jump height nuance (they prefer not to jump into confined spaces - explains why 6-foot works when 8-foot seems required by physics), repellent reapplication schedule and annual cost, the double-fence principle, cost table for 100-foot perimeter in 3 material options, link to raised-bed-break-even (fencing as part of setup cost), integrated-pest-management article, the-500-dollar-garden article.
+**Acceptance:** 1,800+ words, separate rabbit and deer sections, cost table, repellent efficacy honest assessment, zero em dashes, cited sources, `npx astro build` passes.
+
+---
+
+## Sprint SR — Specialty High-Drama ROI Articles
+
+**Purpose:** The site's differentiator is honest ROI math. These four crops have the most extreme economics and generate the most shareable content. All are Claude tasks, `roi` category.
+
+---
+
+### SR001 — saffron-roi-analysis.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/saffron-roi-analysis.md` → serves at `/roi/saffron-roi-analysis/`
+**Frontmatter:** `title: "Saffron ROI: Growing the World's Most Expensive Spice"`, `category: roi`
+**ROI angle:** Retail price: $10–25/gram ($300–700/oz) for quality saffron (USDA AMS or cite specialty spice market reports). Each Crocus sativus corm produces one flower per year with 3 stigmas. It takes roughly 150–200 flowers to produce 1 gram dried saffron. Corm cost: $1–2 per bulb from specialty suppliers (Harris Seeds, Holland Bulb Farms pricing). 50 corms = $50–100. 50 corms × 1 flower each = 50 flowers = 0.25–0.33 grams dried saffron × $10–15/gram (conservative wholesale) = $2.50–5.00 year 1. BUT corms multiply: each corm produces 2–7 cormlets per season. By year 3: 50 corms → 350+ corms → 1.75+ grams saffron = $17.50–26.25+. The math improves every year as the patch expands with zero replanting cost. Labor is the real cost: harvest is 1–2 hours per gram at the scale most home gardeners operate. The honest answer: you're not producing saffron to save money on saffron. You're producing it because the patch doubles every year for free and the product is genuinely valuable.
+**Must include:** Per-corm cost and flower math (show the work), the corm multiplication rate over 3 years (table), the harvest labor reality (1-2 hours per gram), comparison to buying retail (break-even analysis), growing conditions (Crocus sativus needs dry summer dormancy - this limits zones without irrigation control), harvest timing (stigmas must be harvested the morning they open, before noon), drying and storage (correct drying preserves crocin content), link to saffron crop page, garlic-roi-analysis (as the ROI deep-dive format reference), perennial-garden-economy article.
+**Acceptance:** 2,000+ words, per-corm math, 3-year corm multiplication table, harvest labor section, break-even analysis, cited prices, zero em dashes, `npx astro build` passes.
+
+---
+
+### SR002 — wasabi-roi-analysis.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/wasabi-roi-analysis.md` → serves at `/roi/wasabi-roi-analysis/`
+**Frontmatter:** `title: "Wasabi ROI: The $100/lb Vegetable That Tests Every Gardener"`, `category: roi`
+**ROI angle:** Fresh wasabi rhizome sells for $80–150/lb at specialty retailers and Japanese restaurants (cite Oregon Wasabi or Pacific Coast Wasabi market pricing, or USDA specialty crop data). Setup cost: rhizome divisions or tissue culture plants, $15–30 per plant from specialty suppliers. Wasabi (Wasabia japonica) requires: cool temperatures (50–70°F), moving water or extremely consistent moisture, high humidity, filtered light. This is not a difficult crop in the Pacific Northwest; it is nearly impossible in most of the continental US without infrastructure. Time to harvest: 18–24 months from planting to first rhizome harvest. Yield: 100–200 grams per plant at harvest. At $80/lb ($176/kg = $5/100g): 100g = $5. NOT a financially compelling case at home scale. The honest analysis: wasabi makes financial sense only if you have a Pacific Northwest climate naturally, a restaurant buyer lined up, and space for 50+ plants. For most gardeners, it's a fascinating specialty crop with high failure risk and modest returns.
+**Must include:** The "fake wasabi" context (95% of wasabi served in the US is horseradish/mustard/dye paste - real wasabi is genuinely rare and valuable), the climate requirements and what infrastructure costs to replicate them, the 18-24 month patience requirement, yield and price math, the honest verdict (who it makes sense for, who it doesn't), comparison to growing ginger or turmeric as alternatives for exotic-crop gardeners, link to wasabi crop page, heirloom-vs-hybrid article, saffron-roi-analysis (as companion piece).
+**Acceptance:** 2,000+ words, the fake-wasabi context section, climate requirements and cost, yield/price math, honest verdict section, cited prices, zero em dashes, `npx astro build` passes.
+
+---
+
+### SR003 — hops-roi-analysis.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/hops-roi-analysis.md` → serves at `/roi/hops-roi-analysis/`
+**Frontmatter:** `title: "Hops ROI: Growing the $10/oz Craft Beer Ingredient"`, `category: roi`
+**ROI angle:** Fresh hops at farmers markets and homebrew shops: $2–4/oz fresh, $8–15/oz dried whole cone, $15–25/oz pelletized (cite homebrewing supply pricing or USDA specialty crop data). Rhizome cost: $5–15 per rhizome (variety dependent - Cascade is common and cheaper; Citra and Mosaic are proprietary and unavailable as rhizomes). Year 1: small harvest (plant establishes bine system). Year 2 onward: 1–2 lbs dried hops per plant (Cascade under good conditions). At $10/oz dried = $160/lb: 1.5 lbs = $240 per established plant per year. BUT the vertical growing infrastructure (poles, wire, twine, or trellis system) costs $30–80 per plant setup. Plants live 20+ years with crown division for free propagation. The honest math: hops are genuinely high-value if you have the vertical space (minimum 15 feet), the right climate (need cold winters for dormancy), and a use for them (homebrew or local buyers).
+**Must include:** The homebrew market context (why home growers can find buyers or self-consume at premium value), variety section (Cascade as the beginner variety, Centennial, Chinook; avoid proprietary varieties with no rhizome availability), vertical infrastructure cost and amortization, the 15-foot minimum height requirement, year 1 vs. year 2+ yield trajectory, drying and storage (hops oxidize rapidly - proper drying and vacuum storage required), link to hops crop page, perennial-garden-economy article, berry-roi-comparison (as a comparison reference for perennial crop economics).
+**Acceptance:** 2,000+ words, variety section, infrastructure cost, year 1/2+ yield table, drying/storage section, cited prices, zero em dashes, `npx astro build` passes.
+
+---
+
+### SR004 — is-corn-worth-growing.md
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/is-corn-worth-growing.md` → serves at `/roi/is-corn-worth-growing/`
+**Frontmatter:** `title: "Is Corn Worth Growing? The Home Garden Math Says Probably Not"`, `category: roi`
+**ROI angle:** Sweet corn retail: $0.25–1.00/ear at peak season, $0.50–2.00 off-season (USDA AMS). Space requirement: 12–18 inches per plant in a block (not rows - corn is wind pollinated and needs a 4×4 minimum block). 16 plants minimum for pollination in a 16 sq ft block. Yield: 1–2 ears per plant. 16 plants = 20–25 ears maximum. At $0.50/ear = $10–12.50 gross. Space cost: 16 sq ft producing $10 in corn vs. 16 sq ft of tomatoes producing $80–160 or peppers producing $60–100. The verdict: corn is the worst ROI crop in the garden on a per-square-foot basis. BUT: the "peak season eaten 30 minutes after harvest" argument is real - flavor degrades faster than any other vegetable (sugars convert to starch within hours). This is the one legitimate argument for home corn: quality you literally cannot buy.
+**Must include:** The pollination block requirement (why you can't grow 2 plants in a row), the sugar-to-starch degradation timeline (how fast corn loses sweetness after harvest - cite food science), the space opportunity cost calculation (corn vs. tomatoes vs. peppers in same square footage), heirloom varieties for flavor (not ROI), the honest verdict (the ONE reason it makes sense: flavor you can't buy), link to corn crop page, vegetable-value-per-square-foot article, tomato crop page.
+**Acceptance:** 2,000+ words, pollination block section, sugar-starch degradation, opportunity cost table, honest verdict, cited prices and food science source, zero em dashes, `npx astro build` passes.
+
