@@ -64,7 +64,9 @@ For zone 9-11 gardeners, a mature moringa tree producing both fresh leaves and d
 
 **Water:** very light once established. Moringa has evolved in drought-prone environments; overwatering is a more common failure than underwatering. In container culture, allow soil to dry somewhat between waterings.
 
-**Pruning (perennial zone management):** moringa grows fast and tall. Annual coppicing (cutting to 3-4 feet) keeps leaves within reach and stimulates bushy growth with more accessible leaf production. In zone 9-11, coppice in late winter before spring growth begins.
+**Growing from cuttings (the faster path):** moringa grows easily from stem cuttings, and this method skips the slow juvenile phase of seed-started trees. Take hardwood cuttings 18-36 inches long and at least 1 inch in diameter from established plants. Plant directly in well-drained soil, burying 4-6 inches. Cuttings root readily in warm, moist conditions and can produce a harvestable size tree in the first season - faster than seed-started plants by 2-4 months. The limitation is access: you need a friend with an established moringa or a nursery that sells cuttings. In zones 9-11, cuttings taken in late winter root quickly as temperatures rise.
+
+**Pruning and coppicing (the cut-and-come-again shrub model):** left unmanaged, moringa is a tree - eventually 15-30 feet tall with leaves accessible only to a ladder. The alternative is treating it as a coppiced shrub. Cut the main trunk to 2-4 feet above ground each late winter. The tree responds by sending out multiple lateral branches - 6-12 vigorous new shoots from the cut stump. Each shoot grows rapidly and produces leaves at a harvestable height for the entire season. This coppice model keeps a moringa at 6-8 feet maximum height, dramatically increases total leaf surface area per plant, and converts a tree into a manageable continuous-harvest shrub. The productivity is higher than allowing the tree to grow unpruned - more light reaches more leaves, and the fresh growth is more tender. In zones 9-11, coppice in late winter before spring growth begins; in container culture, heavy pruning before bringing indoors for winter accomplishes the same reset.
 
 ## What goes wrong
 
@@ -86,7 +88,7 @@ For zone 9-11 gardeners, a mature moringa tree producing both fresh leaves and d
 
 **Fresh leaf preparation:** moringa leaves have a mild, slightly peppery flavor - less assertive than most cooking greens. They wilt quickly; use within 2-3 days of harvest.
 
-**Drying for powder:** spread leaflets on a screen in shade (direct sun degrades nutrients). Dry at room temperature for 3-5 days until completely crisp, or dehydrate at 95-105°F for 6-8 hours. Grind in a blender or coffee grinder. Store in an airtight container away from light.
+**Drying for powder:** spread leaflets on a screen in shade (direct sun degrades heat-sensitive nutrients including vitamin C and some carotenoids). Dry at room temperature for 3-5 days until completely crisp, or dehydrate at 95-105°F for 6-8 hours - keeping below 120°F preserves more of the nutritional value. Grind in a blender or coffee grinder. The result should be a fine, bright green powder. Store in an airtight glass jar away from light; oxygen and UV are the primary degraders. Properly stored dried powder lasts 12-18 months.
 
 **Core preparations:**
 
@@ -97,6 +99,16 @@ For zone 9-11 gardeners, a mature moringa tree producing both fresh leaves and d
 - **Moringa leaf stir-fry:** simplest preparation. Sauté leaflets with onion, garlic, and chili in oil. Season with salt. Served over rice.
 
 - **Moringa powder in smoothies:** 1 teaspoon of dried moringa powder added to fruit or vegetable smoothies. The flavor is mild and earthy; easily masked. The nutritional addition is substantial.
+
+## Market Value and Premium Positioning
+
+Dried moringa leaf powder is the primary commercial form in the US, sold in the supplement aisle rather than the produce section. Retail pricing runs $15-30 per 8-oz bag ($30-60/lb) at natural food stores and $10-20/lb in bulk from supplement suppliers. The markup is substantial and the product is shelf-stable for 1-2 years when kept sealed and away from light.
+
+Fresh moringa leaves are rarely found outside major cities with South Asian or West African communities. When available at Indian grocery stores, they typically run $4-8/lb for loose leaves, or $3-5/bunch for stem-on leaves. The fresh product commands less than dried powder per pound but requires zero processing.
+
+**The restaurant angle:** South Indian restaurants, Jamaican or Trinidadian restaurants, and West African restaurants regularly use moringa pods (drumsticks) and leaves as featured ingredients. Fresh drumstick pods sell at Indian grocery stores for $2-4/lb; the same pods sold directly to a restaurant for daily use command a small premium and provide a reliable outlet for excess production. A moringa tree in zone 9-11 can produce 20-50 pods per flush, in 3-4 annual flushes - enough drumstick volume to supply a local restaurant that uses them consistently.
+
+For northern gardeners with container moringa, the realistic market is fresh leaf sales in the growing season. A single large container plant managed with coppicing can produce 3-5 lb of fresh leaves per season, representing $30-75 at specialty market prices. The primary value for northern growers is access to the fresh product at all - not market income.
 
 ---
 

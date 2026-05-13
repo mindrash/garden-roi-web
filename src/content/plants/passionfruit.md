@@ -35,7 +35,17 @@ Two varieties of *P. edulis* dominate commercial production:
 
 The purple form is the better culinary choice for most home growers - more intense flavor, slightly more cold tolerance, and better performance in subtropical climates. The yellow form dominates commercial production in the tropics because of vigorous growth and higher yield, but the flavor is noticeably less complex.
 
-**Maypop** (*P. incarnata*) is a native North American passionflower species, hardy to zone 5, with edible fruit that is considerably less flavorful than *P. edulis* but achievable in cold climates. Worth noting for northern growers who want the ornamental value with some edible harvest.
+**Maypop** (*P. incarnata*) deserves more than a footnote for any gardener north of zone 9. It's native to the eastern United States, grows wild from Florida to Pennsylvania to Kansas, and is genuinely cold-hardy to zone 5 or even zone 4 with some protection. The roots survive hard winters and the vine re-emerges from the ground each spring. It's the passionflower species that colonial Americans knew, that Cherokee people used medicinally, and that grows along roadsides in the South where it's treated as a weed.
+
+The fruit is smaller than commercial passionfruit - typically 1.5 to 2 inches, egg-shaped, turning yellow-green when ripe. Flavor is genuinely passionfruit-adjacent, sweet and tropical, though less intense than *P. edulis*. You won't be making restaurant-quality passionfruit curd from maypop, but you can make a passable syrup, add pulp to drinks, and get the ornamental flower show anywhere from Nebraska to Vermont. For zone 5-8 growers who want something productive and edible on an arbor or pergola, maypop is the honest answer.
+
+One key difference from *P. edulis*: maypop is deciduous and will die to the ground completely each winter in zones 5-7. What looks like a dead plant in March will re-emerge vigorously in late spring. Don't dig it up out of impatience.
+
+| Species | Common name | Cold hardiness | Fruit size | Flavor | Best for |
+|---|---|---|---|---|---|
+| *P. edulis f. edulis* | Purple passionfruit | Zone 9-11 (to ~28°F) | 2-3 inches | Intense, aromatic | Culinary use, tropics to subtropics |
+| *P. edulis f. flavicarpa* | Yellow passionfruit | Zone 10-11 | 2-4 inches | Milder, sweeter | Commercial tropical production |
+| *P. incarnata* | Maypop | Zone 5-9 | 1.5-2 inches | Tropical, less intense | Cold-climate ornamental + edible |
 
 ## The ROI case
 
@@ -80,13 +90,13 @@ Passionfruit in zone 9-11 as a perennial vine reaches peak production in year 2-
 
 ## Harvest and use
 
-Ripe passionfruit drops from the vine or detaches easily when gently pulled. The skin wrinkles slightly when fully ripe - smooth-skinned fruits may not be at peak flavor. After picking, allow 3-5 days at room temperature to develop full aroma and sweetness if the skin isn't yet wrinkled.
+Ripe passionfruit drops from the vine - this is how you know it's ready. Don't wait for it to look ripe on the vine and then pick it; the fruit falls when the chemistry is right. In a productive season, that means checking under the vine every day. A simple approach: run a strip of bird netting or fine mesh along the ground below the trellis to catch falling fruit before it bruises on hardscape. Fruit that lands on stone or concrete splits and molds quickly. Caught in netting, it stays perfect for several days.
 
-Scoop out the pulp and seeds together - the gelatinous pulp surrounding the edible seeds is the product. Strain through a sieve to separate juice from seeds (seeds are edible but the texture in drinks and sauces is easier without them).
+The skin wrinkles slightly as the dropped fruit sits at room temperature - smooth-skinned purple fruits a day or two after dropping aren't at peak flavor. Give them 3-5 days after falling to develop full aroma. Then cut in half and scoop.
 
-**Storage:** whole fruits keep 2-3 weeks refrigerated; pulp keeps 1 week refrigerated or 3-6 months frozen.
+Scoop out the pulp and seeds together - the gelatinous pulp surrounding the edible seeds is the product. Strain through a sieve to separate juice from seeds (seeds are edible but the texture in drinks and sauces is better without them). A single fruit yields 1-2 tablespoons of strained juice. That sounds small, but the flavor is concentrated. One tablespoon in a drink, a sauce, or a dressing is enough to define the whole thing.
 
-**Yield:** each fruit yields 1-2 tablespoons of strained juice/pulp. Small but concentrated.
+**Storage:** whole fruits keep 2-3 weeks refrigerated; pulp keeps 1 week refrigerated or 3-6 months frozen. Freeze pulp in ice cube trays for single-serving portions - each cube is roughly one fruit's worth of flavor.
 
 **Core preparations:**
 
@@ -99,6 +109,14 @@ Scoop out the pulp and seeds together - the gelatinous pulp surrounding the edib
 - **Mousse:** whipped cream folded with strained passionfruit pulp and a small amount of gelatin. Sets to a light, intensely flavored dessert. One of the better applications because the cold temperature amplifies the floral quality.
 
 - **Tropical fruit glaze:** reduced passionfruit juice with sugar forms a glaze that works over grilled fish, duck breast, or roasted carrots. The caramelization of the sugars with the tartness of the fruit produces a complex finish.
+
+## Market Value
+
+Fresh passionfruit at specialty grocers, upscale natural food stores, and well-stocked Asian markets runs $2-4 per fruit in season. Out of season, $4-6 per fruit is common when they appear at all. Frozen passionfruit pulp in the Latin food section or online (primarily Brazilian brands) runs $8-15/lb equivalent. Fresh, ripe passionfruit from your own vine is worth noticeably more in flavor than commercial frozen pulp - the volatile compounds that create the floral, aromatic quality degrade significantly in processing.
+
+At farmers markets, passionfruit commands attention. Most buyers have never seen the fresh fruit. Price at $3-4 each ($12-20/lb edible yield equivalent) and most customers will try one on the spot. Given the ornamental flower value, the unique tropical flavor, and the absolute rarity of fresh passionfruit in most US markets, this is a crop that markets well even in quantities that would be small for a vegetable.
+
+For zone 9-10 growers with an established vine at year 3-4, a conservative estimate of 100 fruits per season at $3 each is $300 in farm-stand value from a single vine that costs nothing to maintain beyond occasional pruning. The perennial character means this calculation compounds year over year with no replanting cost.
 
 ---
 

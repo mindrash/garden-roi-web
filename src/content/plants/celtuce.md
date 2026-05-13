@@ -76,7 +76,9 @@ The math looks good, but celtuce's real value is culinary access. There is no su
 
 ## Harvest and use
 
-Cut the plant at the base. Remove all leaves (save the young inner leaves for salad). Peel the stem with a vegetable peeler, removing the thin outer skin and any fibrous layer beneath it - the pale, translucent green interior is what you want. Peeled stem keeps well for 3-5 days refrigerated; cut into the sizes you need just before using, as it browns slightly on exposure to air.
+Cut the plant at the base. Remove all leaves (save the young inner leaves for salad). Peel the stem with a vegetable peeler, removing the thin outer skin - you can feel when you've hit the tender interior because the resistance changes. The pale, translucent green interior is what you want. Don't peel too conservatively; the outer layer is genuinely fibrous and slightly bitter, and leaving it produces a less pleasant result.
+
+**Storage:** unpeeled stems keep 1-2 weeks refrigerated. Peeled stems stored upright in a container of cold water, refrigerated, keep for up to 10 days - the water prevents browning and keeps the texture crisp, the same approach used for storing asparagus or peeled celery. Change the water every 2-3 days. Cut into the sizes you need just before cooking, as exposed cut surfaces brown faster than the whole peeled stem.
 
 The flavor is distinctly mild - cucumber-ish, slightly nutty, with a faint bitterness that dissipates with brief cooking. The texture is the point: it holds crunch even after 3-5 minutes in a hot wok, unlike most greens.
 
@@ -91,6 +93,22 @@ The flavor is distinctly mild - cucumber-ish, slightly nutty, with a faint bitte
 - **Pickled celtuce:** julienned stem, salted and pressed to draw out moisture (30 minutes), rinsed, then dressed with rice vinegar, sugar, garlic, and chili. Keeps 3-4 days refrigerated. A quick pickle that amplifies the cucumber quality.
 
 - **Leaf use:** young inner leaves are edible as salad greens. Use the same way you'd use romaine - they're more assertive than butterhead but less bitter than the outer leaves. Outer leaves are best cooked briefly in stir-fries or soups.
+
+## The Dual-Harvest Advantage
+
+Most greens are single-crop plants. You grow lettuce for lettuce. You grow spinach for spinach. Celtuce is different: the same plant gives you useful leaf harvests through most of its growing period and then a substantial stem harvest at maturity. You're not giving up one to get the other.
+
+In practice: from the time plants are 6-8 inches tall, you can strip outer leaves every 7-10 days. These are good as salad greens, stir-fry greens, or soup greens. As the plant develops, the stem fills out. At 60-80 days from transplant (depending on conditions), the stem is ready. At that point you harvest the whole plant - stem and remaining leaves together.
+
+That harvest structure gives you a rolling supply of leafy greens through a 3-4 week window, followed by a concentrated stem harvest. Space occupied by 10 celtuce plants is working harder than the same space in pure head lettuce, where you harvest everything in one cut with no interim harvest.
+
+## Specialty Market Value
+
+Outside US cities with substantial Chinese or Vietnamese communities, celtuce is essentially unavailable fresh. Asian grocery stores in those cities carry it in season for $3-5/lb; mainstream supermarkets don't stock it at all. Chinese restaurants that feature Sichuan and Cantonese cuisine use celtuce stems as a menu ingredient in cold appetizers and braised dishes - and those restaurants often buy from farmers if a local source is available.
+
+At farmers markets, celtuce sells on curiosity and novelty as much as anything. Display it with a sample of peeled stem alongside the whole plants - the pale, translucent interior and mild flavor win over buyers who've never seen it. Price at $4-5/lb for whole plants (by stem weight) or $6-8/lb for pre-peeled stems. The labor of peeling is real enough to justify the premium, and pre-peeled stems have a specific appeal for restaurant buyers who value prep-reduced product.
+
+Seed saving is simple: allow one or two plants to bolt fully and set seed. Celtuce seeds are the same type as lettuce seeds - small, light, and produced in quantity. One bolted plant produces several hundred viable seeds. Let the seed heads dry on the plant, then cut and thresh into a bag. Store dry at room temperature; viability runs 3-5 years.
 
 ---
 

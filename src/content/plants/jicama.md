@@ -24,7 +24,7 @@ The flavor is unusual: mildly sweet, nutty, with an apple-like crunch that doesn
 
 ## What it actually is
 
-*Pachyrhizus erosus* is a tropical vine in the legume family (Fabaceae), native to Mexico and Central America. It climbs aggressively - vines reach 10-20 feet - and produces attractive white to violet flowers. Here's the important part: the flowers and seeds contain rotenone, a toxic compound. The leaves and immature pods are also toxic. Only the tuber is edible. Cut the flowers off as soon as they appear - this redirects energy from seed production into tuber development and removes the toxic tissue from your garden.
+*Pachyrhizus erosus* is a tropical vine in the legume family (Fabaceae), native to Mexico and Central America. It climbs aggressively - vines reach 10-20 feet - and produces attractive white to violet flowers. Here's the important part: the flowers, seeds, leaves, and all above-ground parts of jicama contain rotenone - a naturally occurring insecticide and fish toxin. Rotenone is toxic to humans in quantity, though it degrades rapidly in sunlight and soil. The seeds are the most concentrated source. Only the tuber (the underground root) is edible. This is not an obscure or theoretical risk - it should be clearly communicated to anyone, particularly children, who may encounter the plant. Cut the flowers off as soon as they appear: this redirects energy from seed production into tuber development and eliminates the highest-concentration toxic tissue from your garden at the same time.
 
 The tuber at harvest can be anywhere from a softball to a football in size. At specialty stores, medium-sized jicama (1-2 lb each) are most common; very large ones (4+ lb) develop a woody core and are less desirable.
 
@@ -55,7 +55,11 @@ The wide yield range reflects the climate dependence. In a genuine 180-day warm 
 
 ## Growing requirements
 
+**Zone reality:** outdoor production of jicama to full-size tubers is reliably viable only in zones 9-11. Zone 8 is borderline - in a warm year with a long season and no early frost, you can harvest a small tuber; in a typical zone 8 year, you harvest an undersized root that doesn't justify the garden space. North of zone 8, greenhouse or high tunnel production is the only realistic path to full-size jicama.
+
 **Season length is the primary constraint.** Jicama needs 150-180 frost-free days with warm nights. In zones 5-7, that's borderline to impossible without a significant head start indoors and aggressive frost protection. In zones 8-11, it's workable. Know your last and first frost dates precisely before committing.
+
+**Container and greenhouse growing in cooler zones:** jicama grown in a large container (25+ gallons) inside a heated greenhouse or high tunnel can produce successfully in zones 6-8. The container approach allows you to start months before the outdoor season and continue past first outdoor frost. The limitation is container size - jicama tubers need room to expand, and a cramped container produces small, misshapen roots. A half wine barrel (25-30 gallons) is the minimum practical size. Start in the container in March for indoor growing, move outside after last frost if desired, and move back inside before first fall frost. This works but requires a greenhouse or large, sunny indoor space for spring and fall.
 
 **Starting indoors:** Start 6-8 weeks before transplant date (which is 2 weeks after last frost, when soil is reliably warm). Sow 1 inch deep in individual 4-inch pots. Germination at 75-85°F takes 7-14 days. Transplant carefully - jicama has sensitive roots. Biodegradable pots help minimize transplant shock.
 
@@ -77,13 +81,21 @@ The wide yield range reflects the climate dependence. In a genuine 180-day warm 
 
 **Sunscald on the tuber shoulder** when the top of the tuber breaks the soil surface. Hill loose soil around the base as the season progresses - same technique as with potatoes.
 
-**Pests:** Relatively pest-resistant due to rotenone in the above-ground parts. Deer and rabbits avoid the leaves. Occasional aphid pressure on tender growing tips.
+**Pests:** Relatively pest-resistant due to rotenone in the above-ground parts. Deer, rabbits, and most insects avoid the leaves. Occasional aphid pressure on tender growing tips is the main pest concern; a strong water spray is usually sufficient.
 
 ## Harvest and use
 
-Harvest at the end of the season before the first frost. Dig carefully with a garden fork - the tubers can extend 12 inches below the soil surface and are easily damaged. The skin is thin and papery; cure the tubers in a warm, dry location for 1-2 weeks to toughen the skin before storage. Properly stored jicama keeps 2-4 months at cool room temperature.
+Harvest at the end of the season before the first frost. The optimal harvest size is 4-6 inches in diameter - at this size the flesh is crisp, juicy, and mild. Tubers left to grow larger (8+ inches in diameter) develop a fibrous, starchy interior that loses the pleasant crunch and mildly sweet flavor that makes jicama worth growing. Bigger is not better with jicama; harvest on the smaller side if you're uncertain.
 
-**Preparing:** Peel with a knife rather than a vegetable peeler - the skin and outer layer are fibrous and come off more easily with a knife. The interior is white and holds its color without browning when cut (no need to acidulate like apples).
+Dig carefully with a garden fork - the tubers can extend 12 inches below the soil surface and are easily damaged by the tines. Cure the tubers in a warm, dry location for 1-2 weeks to toughen the papery skin before storage. Properly stored jicama keeps 2-4 months at cool room temperature (55-65°F).
+
+**Preparing:** peel with a knife rather than a vegetable peeler. The thin outer skin is just the beginning - beneath it is a fibrous layer that must also be removed. Work around the tuber with a paring knife, removing both layers until you reach the white, crisp flesh underneath. The interior holds its color without browning when cut; no acidulating needed.
+
+## Market Value and Price Context
+
+Jicama at grocery stores with large Mexican produce sections runs $0.80-1.50/lb - it's an affordable commodity in areas where it's available (USDA Agricultural Marketing Service, *Specialty Crops Terminal Market Reports*, 2024). At specialty grocers or natural food stores without strong Latin American customer bases, prices jump to $2-4/lb, and the product may be available only intermittently.
+
+The practical value for home growers is availability, not price. Outside of cities with Latin American grocery infrastructure, jicama is simply not on the shelf. In those areas, a home-grown tuber at any cost represents access to a product that otherwise doesn't exist locally. Fresh jicama - compared to jicama that has been in transit or storage for weeks - also has noticeably better crunch and flavor, which matters for the raw applications where it's most commonly used.
 
 **Core preparations:**
 
@@ -99,4 +111,4 @@ Harvest at the end of the season before the first frost. Dig carefully with a ga
 
 ---
 
-**Related reading:** [Yardlong Bean](/crops/yardlong-bean/) - another tropical legume for warm climates; [Taro](/crops/taro/) - similarly long-season root crop
+**Related reading:** [Yacon](/crops/yacon/) - another crunchy, mildly sweet root crop with similar fresh eating character; [Taro](/crops/taro/) - similarly long-season root crop for warm climates; [Root Vegetable ROI](/roi/root-vegetable-roi/) - comparing storage roots by value per bed foot

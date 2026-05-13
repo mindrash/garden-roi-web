@@ -36,6 +36,14 @@ The genus *Monarda* contains 16 North American native species. Three are commonl
 
 Named cultivars matter for disease resistance: standard species *M. didyma* is highly susceptible to powdery mildew. Mildew-resistant cultivars ('Jacob Cline', 'Marshall's Delight', 'Raspberry Wine') are strongly recommended - they maintain foliage through the season instead of going brown in August.
 
+## Medicinal and Antimicrobial Properties
+
+The essential oils in bee balm leaves contain thymol and carvacrol - the same compounds present in high concentrations in thyme and oregano, and responsible for those herbs' documented antimicrobial activity. In *Monarda* species, carvacrol and thymol content varies by species and growing conditions, but is measurable and consistent with other Lamiaceae herbs used medicinally (Hawkins et al., *Industrial Crops and Products*, 2013).
+
+Traditional use: the Oswego people and neighboring Great Lakes nations used *Monarda* preparations as a disinfectant for skin wounds, as a treatment for colds and fever (both the aromatic steam and the tea), and as a topical application for bee stings. When settlers adopted Oswego tea as a British tea substitute, they were borrowing from an established medicinal plant tradition, not just finding a flavored beverage.
+
+The antimicrobial claim deserves precision: lab studies showing carvacrol and thymol activity against bacterial strains in vitro do not directly translate to clinical treatment of infections in humans. The appropriate framing is "traditional use supported by reasonable phytochemical basis" rather than "proven medical treatment." But the herb's use as a topical antiseptic in mild situations (rinse for minor mouth irritation, external wash for minor skin wounds) is consistent with its chemistry and traditional record.
+
 ## The ROI case
 
 Bee balm's financial ROI is modest but consistent, and improves each year as the planting spreads.
@@ -69,7 +77,7 @@ The dollar numbers are small. The value isn't primarily financial for most growe
 
 **Overcrowding and declining bloom:** established patches that haven't been divided in 4-5 years become congested and produce fewer flowers. The center of old clumps becomes woody and unproductive. Divide every 2-3 years to maintain vigor.
 
-**Slug damage on young plants:** slugs eat emerging shoots in early spring. Diatomaceous earth ring around new growth; hand-pick at night.
+**Slug damage on young plants:** slugs eat emerging shoots in early spring when soil is still cool and moist. Diatomaceous earth ring around new growth, refreshed after rain; hand-pick at dusk or dawn. Established plants with woody crowns are rarely damaged by slugs.
 
 ## Harvest and use
 
@@ -91,6 +99,14 @@ Harvest flowers when 1/3 of the florets on the head are open. Harvest leaves fro
 
 - **Savory applications:** the *M. fistulosa* (wild bergamot) type, with its stronger oregano-adjacent flavor, works in cooked applications - added to tomato sauces, pizza preparations, or bean dishes. Use like oregano, in smaller quantities.
 
+## Pollinator Garden Value
+
+Bee balm is one of the most productive pollinator plants available to North American gardeners. The bloom period (June-August, or July-September depending on climate and variety) coincides with the peak nectar demand period for native bees. *Monarda* species are native North American plants that co-evolved with native bee populations - bumblebees, carpenter bees, and many native sweat bee species feed on them specifically. Hummingbirds visit the red and pink varieties reliably.
+
+Beyond ecological value, pollinator garden plants have a genuine commercial market. Plug plants (small divisions or seedlings) of named bee balm varieties sell for $4-8 each at native plant nurseries and farmers markets with plant sales. A well-established bee balm patch divided in early spring produces 6-12 divisions per clump. At $5/plant, one spring division of a 3-clump planting generates $30-60 in plant sales - more than the dried herb value in most years. Selling native pollinator plants at farmers markets or through community plant swaps is a realistic secondary market for gardeners with established patches.
+
+The combination of three value streams - culinary herb (fresh and dried), edible flowers (sold or used), and native pollinator plants (sold as plugs or divisions) - makes bee balm one of the more financially multidimensional perennial herbs available for home gardens, even if no single stream produces dramatic returns.
+
 ---
 
-**Related reading:** [Lavender](/crops/lavender/) - fellow perennial herb with edible flowers and tea value; [Borage](/crops/borage/) - native-friendly edible flower companion
+**Related reading:** [Lavender](/crops/lavender/) - fellow perennial herb with edible flowers, tea value, and pollinator habitat; [Echinacea](/crops/echinacea/) - native pollinator plant with medicinal herb market; [Thyme](/crops/thyme/) - culinary herb sharing thymol/carvacrol chemistry

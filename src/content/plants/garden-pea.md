@@ -48,6 +48,19 @@ Soil pH of 6.0 to 7.5 - peas are more pH-tolerant than most vegetables. Rhizobiu
 
 **Succession planting:** This is the single most important management decision for peas. A standard approach: seed the first planting as early as soil permits, then seed a second batch 2 to 3 weeks later. You extend the harvest window from 7 to 10 days (for a single planting at peak production) to 3 to 4 weeks. A third succession is worth attempting in cooler climates; in Zone 6 and above, the heat usually terminates them before the third planting reaches peak production.
 
+Fall peas are underused. In zones 5-7, count backward 8-10 weeks from the first expected fall frost date and seed another crop. The fall crop experiences the reverse problem of spring - you start in heat and finish in cold, rather than the other way around. Germination and early growth can be difficult in August heat, but once temperatures drop in September, fall peas grow quickly and produce excellent quality. Varieties with powdery mildew resistance matter more for fall production than spring, because the disease pressure extends longer into the season.
+
+**Varieties by type:**
+
+| Type | Variety | Days | Vine height | Notes |
+|---|---|---|---|---|
+| Shell | Little Marvel | 63 | 18 inches | Bush type; no trellis needed |
+| Shell | Green Arrow | 68 | 24-28 inches | Semi-dwarf; heavy producer |
+| Shell | Wando | 68 | 30 inches | Heat-tolerant; holds quality longer |
+| Snap | Sugar Ann | 52 | 24 inches | Early bush snap pea; good for short seasons |
+| Snap | Sugar Snap | 70 | 5-6 feet | Classic; needs strong trellis; best flavor |
+| Snow | Oregon Sugar Pod | 68 | 3-4 feet | Disease-resistant; good fall variety |
+
 ## What goes wrong
 
 **Powdery mildew** (*Erysiphe pisi*) is the most common disease problem, showing as white powdery patches on leaves, stems, and pods. It arrives as the season warms and humidity rises, which often coincides with the end of the pea season anyway. Resistant varieties ('Oregon Sugar Pod,' 'Maestro') are the practical solution. Fungicide applications slow progression but the plants are usually near the end of their productive life when mildew peaks.
@@ -62,11 +75,15 @@ Soil pH of 6.0 to 7.5 - peas are more pH-tolerant than most vegetables. Rhizobiu
 
 ## Harvest and storage
 
+**Nitrogen fixation and end-of-season management:** when you pull pea plants at the end of the season, don't pull the roots. Cut the vines off at soil level and compost the tops. Leave the root system in the ground. The roots carry active *Rhizobium* nodules - small white or pink growths that contain bacteria that converted atmospheric nitrogen into plant-available form throughout the growing season. Those nodules break down in the soil over the following weeks, releasing their fixed nitrogen into the soil around them. What's left behind is measurably more nitrogen than what was there when you planted, available to the next crop. It's not a large amount, but it's real and it costs you nothing - the root system does it automatically as part of normal legume biology.
+
 Shell peas are ready when pods are full and rounded but before they start to turn yellow or wrinkle. The 24-hour sugar conversion is real - pick and use immediately or cool rapidly to 32°F. Blanch and freeze within 2 hours of harvest for best quality.
 
 Snap peas are ready when the pod walls feel crisp and the seeds inside are visible but not fully developed - the pea should still snap cleanly. They hold better after harvest than shell peas but still lose sweetness within 24 to 48 hours at room temperature. Refrigerate in a perforated bag.
 
 Snow peas are picked flat, before seeds develop at all. This is a daily harvest once pods start forming - a missed day turns snow peas into something between a shell pea and a snap pea.
+
+**Seed saving:** the easiest seed saving you'll do in the garden. Peas are self-pollinating, which means varieties breed true without isolation. Let a few pods from the most vigorous plants fully mature and dry on the vine. The pods turn yellow-tan and papery; the seeds inside rattle slightly when you shake them. Pull the whole plant, hang it upside down in a dry location for another week, then shell the pods. The seeds are large and easy to handle. Stored in a paper envelope in a cool, dry place, pea seeds remain viable for 3-4 years. You already know how to shell peas - saving seed is just shelling a few extra pods.
 
 ---
 

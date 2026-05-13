@@ -20,6 +20,8 @@ description: "Quinoa (Chenopodium quinoa) - high-protein Andean grain crop. $6-1
 
 Quinoa is both easier and harder to grow at home than most gardeners expect. Easier: it's a cool-season plant that tolerates drought, poor soil, and light frost - genuinely low-maintenance once established. Harder: the timing window is narrow, the seed heads must be dried and processed before eating, and saponin washing (bitter compound removal) is required for most varieties. At $6-10/lb for organic quinoa in grocery stores, the economics work, but the yield at home garden scale is modest - expect 1-2 lb per 10-foot row.
 
+**Climate honesty first:** quinoa requires a dry period during seed maturation. The seed heads must dry on the plant before harvest. In the Pacific Northwest, humid Gulf Coast, and most of the eastern US with wet late summers and falls, the seed heads mold on the plant before they dry. This is not a timing problem that careful scheduling solves - it's a precipitation and humidity problem. Gardens in these regions can grow quinoa successfully only in unusually dry years or with covered growing structures. Where quinoa genuinely works without these complications: the high plains of Colorado and New Mexico, California's Central Valley and coastal regions with summer drought, the Mountain West's semi-arid zones, and any location with reliably dry weather in the 90-120 days from planting to harvest. Gardeners in the eastern US should treat quinoa as an experiment rather than a staple crop.
+
 The strongest argument for growing it is variety: dozens of quinoa cultivars exist with different flavors, colors, and growing periods that commercial markets never offer. Red, black, purple, and bicolor quinoas that taste substantially different from standard beige grocery store quinoa are available through seed companies.
 
 ## What it actually is
@@ -38,6 +40,7 @@ Technically quinoa is a pseudocereal - it's not a grass (true grain family), but
 | Brightest Brilliant Rainbow | Red/orange/yellow mixed | 100-120 | Ornamental and edible; low saponin |
 | Quinoa de Chile | Cream/beige | 100-110 | Short-day adapted; performs well in South |
 | Colorado Rainbow | Mixed colors | 90-100 | Short-season variety; good for zones 4-6 |
+| Colorado 407 | Cream-tan | 90-100 | Early-maturing; bred for high-altitude Colorado conditions; good mildew resistance |
 | Temuco | Black | 100-120 | Strong flavor; Chilean origin |
 
 ## The ROI case
@@ -71,7 +74,9 @@ The primary value is variety access: growing red, black, or bicolor quinoas that
 
 ## What goes wrong
 
-**Heat during flowering** is the primary failure point. If quinoa is flowering in July temperatures above 90°F, expect poor seed set and low yield. Time planting to avoid peak summer heat.
+**Heat during flowering** is the primary failure point. If quinoa is flowering in July temperatures above 90°F, expect poor seed set and low yield. Time planting to avoid peak summer heat. This means in most of the eastern US, spring quinoa must be planted early enough to flower and set seed by early June before the heat hits - which is tight. Fall planting (August in most zones) targets October flowering when temperatures are cooling, and is often more successful than spring planting in warm-summer climates.
+
+**Seed head mold from humidity** (the eastern problem in detail): even if you time planting correctly and avoid heat during flowering, the eastern US fall is often wet. Quinoa seed heads take 3-4 weeks of dry-down to reach harvestable moisture after the seeds are physiologically mature. A stretch of rainy fall weather during this period - common in zones 5-7 east of the Rockies - leads to fusarium and other mold species colonizing the seed heads. The seeds look fine from a distance but taste musty when cooked. The only solution is to cut seed heads early and dry them indoors under controlled conditions, or to grow in a region where fall dry-down is reliable.
 
 **Aphids** cluster heavily on quinoa, particularly on the seed heads. The plant can tolerate moderate aphid pressure; spray with insecticidal soap if population is high enough to damage developing seeds. Native predatory insects (lady beetles, parasitic wasps) colonize quinoa plants and provide some biological control.
 
@@ -85,7 +90,9 @@ The primary value is variety access: growing red, black, or bicolor quinoas that
 
 Cut the seed heads when mature, leaving 6-12 inches of stem for handling. Spread on a tarp or screen in a warm, dry, ventilated location to finish drying for 1-2 weeks. The seeds should be completely dry before threshing.
 
-**Threshing:** rub the seed heads between your palms over a bucket, or beat them against the inside of a bucket or barrel. The seeds fall free of the chaff. Winnow by pouring seeds from one container to another in a breeze, allowing the lighter chaff to blow away.
+**Threshing small batches:** several methods work at home scale. The simplest is rubbing dried seed heads between your palms over a bucket - the seeds fall free and the papery chaff stays in your hands. A second method: place dried seed heads in a pillowcase and run through a front-loading washing machine on the delicate spin cycle (no water). The mechanical action strips seeds from heads efficiently. Shake seeds out of the pillowcase bottom when done. A third method: lay seed heads on a tarp and walk on them gently, then gather the tarp corners to pile everything and shake/roll seeds to the center. Each method works; the pillowcase is the most efficient for batches over 2-3 lbs.
+
+Winnow by pouring seeds from one container to another in a breeze - even a fan set on low - allowing lighter chaff to blow away while seeds drop into the lower container. Repeat until seeds are mostly clean.
 
 **Washing (for most varieties):** rinse thoroughly in a fine-mesh strainer under running water, rubbing the seeds vigorously, until the rinse water runs clear. Drain and spread to dry before cooking or storing.
 
@@ -99,6 +106,8 @@ Cut the seed heads when mature, leaving 6-12 inches of stem for handling. Spread
 
 - **Quinoa porridge (atole de quinua):** traditional Andean breakfast. Simmer ground or whole quinoa in milk or water with cinnamon, sugar, and vanilla. Dense and nutritious.
 
+**Storage:** cleaned, dry quinoa stores at room temperature for 2-3 years in airtight containers. Vacuum-sealed jars or mylar bags with oxygen absorbers extend this to 5+ years. Store away from light, heat, and moisture. Homegrown quinoa stored this way constitutes a genuine grain reserve - 5 lbs of properly stored quinoa represents dozens of meals. At $7/lb retail equivalent, that's meaningful pantry value from one garden season.
+
 ---
 
-**Related reading:** [Amaranth](/crops/amaranth/) - fellow Andean pseudocereal with similar growing culture; [Corn](/crops/corn/) - grain crop companion in traditional Three Sisters planting
+**Related reading:** [Amaranth](/crops/amaranth/) - fellow Andean pseudocereal with similar growing culture and grain processing requirements; [Corn](/crops/corn/) - grain crop companion; [Harvest and Storage Planning](/homestead/harvest-and-storage-planning/) - matching grain production to long-term pantry capacity

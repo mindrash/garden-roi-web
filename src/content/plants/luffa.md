@@ -49,19 +49,23 @@ Luffa's value calculation depends on your harvest strategy. Fresh vegetable has 
 
 The mixed strategy is usually most practical: harvest a few young fruits as vegetables through summer, then leave the last fruits to mature as sponges. One season's plants can easily produce $40-60 of sponges plus fresh vegetable value.
 
+A productive, well-managed luffa vine in zones 8-11 can produce 20-30 fruits over a full season. In zones 5-7 with a 4-6 week indoor start and a stretched season, expect 10-15 fruits. The high-end yield figure requires consistent water and fertility, a very long trellis, and no serious disease or pest pressure. Most gardeners in good conditions land between these numbers.
+
 ## Growing requirements
 
 **Season requirement:** luffa needs a long, warm season. The 90-120 day maturity figure is from transplant; including a 4-week indoor start, you're planning for a 5-6 month growing season from seed to mature sponge. In zones 7-11, this is reliable. In zone 6, it's tight; zone 5 and colder requires row cover extension to get a sponge crop.
 
 **Starting indoors:** 4 weeks before last frost. Soak seeds 24 hours before planting - the hard seed coat benefits from soaking. Plant 1/2 inch deep in individual 4-inch pots. Germination at 75-85°F in 7-14 days. Transplant after last frost when nights are above 55°F.
 
-**Trellis:** essential and substantial. Luffa vines are aggressive - they reach 15-30 feet in a full season and are heavy once fruiting begins. A string trellis on T-posts or a sturdy fence works; lightweight trellises collapse under the vine weight. Space plants 2-3 feet apart at the base.
+**Trellis:** essential, substantial, and vertical. Luffa vines reach 15-30 feet in a full season and become heavy once fruiting begins - a lightweight trellis collapses. A cattle panel anchored to T-posts, or a sturdy fence at least 6 feet tall, is the minimum appropriate support. Space plants 2-3 feet apart at the base.
+
+The vertical element is critical for fruit quality, not just convenience. Luffa fruits that develop horizontally or rest on the ground develop misshapen, curved, or flattened fibrous tissue. For sponge production especially, a fruit that hangs freely and grows straight produces a uniform cylindrical sponge; a fruit that rests on something grows asymmetrically. For culinary harvest, straightness matters less, but ground contact invites rot and mold. Plan the trellis so fruits hang freely below the vine with no contact with the trellis itself - the stem holds the weight while the fruit hangs below.
 
 **Pollination:** separate male and female flowers on the same plant. Bee activity handles pollination in most gardens. Female flowers have a tiny immature luffa at the base; male flowers are on a slender stem without a basal ovary.
 
 **Fertilizing:** moderate feeder. Compost amendment at planting; balanced fertilizer side-dress when vines reach 3-4 feet; potassium-heavy fertilizer once fruiting begins to support fruit development.
 
-**Watering:** consistent moisture during fruit development prevents bitterness (bitter fruits result from water stress, similar to cucumbers).
+**Watering:** consistent moisture during fruit development prevents bitterness. Bitter luffa results from water stress, exactly as with cucumbers - the plant produces cucurbitacins in the fruit as a stress response. Drip irrigation at the base, or deep watering 2-3 times weekly, is better than shallow daily watering.
 
 ## What goes wrong
 
@@ -77,7 +81,7 @@ The mixed strategy is usually most practical: harvest a few young fruits as vege
 
 ## Harvest and use
 
-**For eating (young luffa):** harvest when fruits are 6-8 inches long and still tender. The skin should be easy to score with a fingernail. Harvest every 2-3 days during peak season - luffa develops quickly and the edible window is short.
+**For eating (young luffa):** harvest when fruits are 4-8 inches long and still tender - the younger end (4-6 inches) gives the most delicate texture, closer to zucchini. At 6-8 inches the flesh is still edible but begins to show more texture variation. The test is skin resistance: the skin should yield easily when pressed with a thumbnail. If it resists firmly, the fruit is transitioning toward sponge-suitable maturity. Harvest every 2-3 days during peak season - luffa develops quickly and the edible window is short.
 
 **For sponges (mature luffa):** leave fruits on the vine until the skin turns yellow to brown and papery. The fruit feels lighter than expected for its size - the flesh has dried. After harvest, soak in water for 30 minutes to soften the outer skin, then peel. Shake out the seeds (save for next year). Wash the sponge in diluted bleach (1 tablespoon per gallon of water) to remove remaining flesh and whiten. Rinse thoroughly, squeeze dry, and allow to dry completely before storing.
 
@@ -93,6 +97,18 @@ The mixed strategy is usually most practical: harvest a few young fruits as vege
 
 - **Luffa curry:** standard in South Asian home cooking. Peeled, cubed luffa cooked in a light tomato-onion curry with cumin, coriander, and turmeric.
 
+## Seed Saving
+
+Luffa is one of the simplest crops to save seed from because the sponge harvest and seed saving are the same process. When you harvest a mature sponge and shake out the seeds, you've already done the seed-saving work. Let the seeds dry completely on a paper plate or towel before storing. Seeds are large, flat, and dark-colored; easy to clean and handle.
+
+Store dry seeds in a paper envelope in a cool, dry location. Viability: 3-5 years. A single mature luffa contains 50-150 seeds - enough to plant 25-75 plants. You'll produce more than you need after the first season, which makes luffa an easy seed-swap crop.
+
+## Market Value: Sponges Beyond Home Use
+
+Handmade natural luffa sponges sell at farmers markets, craft fairs, and on Etsy in the $4-8 range per individual sponge, and $12-20 for sets of three. The market for natural alternatives to synthetic bath sponges is real and consistent. A 2-plant luffa planting yielding 20-30 mature sponges per season represents $80-240 at direct retail prices - from a $2.49 seed packet.
+
+Differentiation approaches that command premium pricing: sponges packaged with goat milk soap bars as bath gift sets, sponges cut into specific shapes (rounds for facial use at $6-10 each), sponges marketed as kitchen scrubbers (distinct market from bath sponges, different buyer demographics). Natural kitchen scrubbers from luffa are legitimately useful and biodegradable - a positioning that resonates with a specific buyer who pays $4-6 per sponge.
+
 ---
 
-**Related reading:** [Bitter Melon](/crops/bitter-melon/) - fellow tropical cucurbit; [Spaghetti Squash](/crops/spaghetti-squash/) - cucurbit grown for its interior texture
+**Related reading:** [Bitter Melon](/crops/bitter-melon/) - fellow tropical cucurbit for vertical trellis; [Cucumber](/crops/cucumber/) - cucurbit with similar succession and vertical growing approach

@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: May 11, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E020 + D001-D012 + SR001-SR004 + S001-S002 + Z001-Z008 + R001-R008 complete)_
+_Last updated: May 13, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E040 + D001-D012 + SR001-SR004 + S001-S002 + Z001-Z008 + R001-R008 + HG001-HG008 complete)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -6935,3 +6935,357 @@ _Agent: GitHub Copilot. These are infrastructure and UI tasks — no content wri
 **Must include:** The pollination block requirement (why you can't grow 2 plants in a row), the sugar-to-starch degradation timeline (how fast corn loses sweetness after harvest - cite food science), the space opportunity cost calculation (corn vs. tomatoes vs. peppers in same square footage), heirloom varieties for flavor (not ROI), the honest verdict (the ONE reason it makes sense: flavor you can't buy), link to corn crop page, vegetable-value-per-square-foot article, tomato crop page.
 **Acceptance:** 2,000+ words, pollination block section, sugar-starch degradation, opportunity cost table, honest verdict, cited prices and food science source, zero em dashes, `npx astro build` passes.
 
+
+---
+
+## Crop Depth Expansion — Pass 2 (E021-E040)
+
+Expand 20 thin crop pages from under 1,300 words to 1,800+ words. All entries are in `src/content/plants/`. Format matches E001-E020: expand the existing markdown body only — do not alter frontmatter. Add a Varieties section, expand Growing section, add Harvest & Storage, Troubleshooting, and at least 2 internal links to related crops or articles.
+
+**Agent:** Claude — Load skill: garden-roi-content
+
+---
+
+### E021 — Expand bitter-melon.md
+**Status:** `[x]`
+**File:** `src/content/plants/bitter-melon.md` (~1,057 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Varieties (Bitter melon has significant regional diversity - Indian types like Karela vs. Chinese types vs. Japanese Goya; flesh thickness, bitterness level, and yield differ substantially), culinary uses and preparation to reduce bitterness (salting, blanching, parboiling), growing on a trellis (fruits must hang to size properly), harvesting at the right stage (color break before full yellow), seed saving. Price context: Asian grocery stores $1.50–3.00/lb, organic $4–6/lb (cite USDA AMS or Asian market surveys).
+**Internal links:** Link to at least 2 related crop pages and 1 article.
+**Acceptance:** 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E022 — Expand yacon.md
+**Status:** `[x]`
+**File:** `src/content/plants/yacon.md` (~1,159 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** The FOS (fructooligosaccharide) content and why it makes yacon a low-glycemic sweetener - this is the primary reason people grow it and the strongest case for its value. Varieties are limited but note differences between cutting stock sources. Curing process post-harvest (2-4 weeks in sun converts starches to FOS and increases sweetness - this is non-negotiable for flavor). Propagation from rhizome crowns vs. stem cuttings. Storage in cool dry conditions for 2-3 months. Market value: dried yacon slices and syrup sell at premium ($8-15 for 8oz syrup at health food stores - cite retailer pricing).
+**Internal links:** Link to at least 2 related crop pages and 1 article.
+**Acceptance:** 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E023 — Expand moringa.md
+**Status:** `[x]`
+**File:** `src/content/plants/moringa.md` (~1,205 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Moringa as a cut-and-come-again shrub vs. tree - the coppicing technique that keeps it productive and harvestable at manageable height. Nutritional profile and why it commands premium prices (dried leaf powder is the primary market form - $10-20/lb at health food stores, cite retailer pricing). Growing from seed vs. cuttings (cuttings root easily, skip juvenile phase). Zone limitations: truly tropical, frost-kills to ground below zone 9, but regrows from roots in zone 9; container growing in colder zones. Powder processing: drying at low temp to preserve nutrients, grinding. Seed pods (drumsticks) as a separate harvest. Internal market: restaurants specializing in Indian or Caribbean cuisine.
+**Internal links:** Link to at least 2 related crop pages and 1 article.
+**Acceptance:** 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E024 — Expand butternut-squash.md
+**Status:** `[x]`
+**File:** `src/content/plants/butternut-squash.md` (~1,219 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Butternut squash is one of the highest-value storage crops by ROI - emphasize this. Varieties: Waltham Butternut (standard), Honeynut (mini, higher sugar, farmers market premium $3-5 each), Butterscotch (bush habit for small spaces). Curing protocol is critical and often omitted: 10-14 days at 80-85°F and 80% humidity hardens the skin and converts starch to sugar - skip this and storage life drops from 6 months to 6 weeks. Storage: 50-55°F, dry, good air circulation, up to 6 months. Space vs. yield: vines sprawl 8-12 feet, but vertical growing on a trellis with a hammock sling for fruits is viable. Pest pressure: squash vine borer (link to squash-vine-borer article), squash bugs.
+**Internal links:** Link to squash-vine-borer article, at least 1 other crop page, 1 article.
+**Acceptance:** 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E025 — Expand quinoa.md
+**Status:** `[x]`
+**File:** `src/content/plants/quinoa.md` (~1,220 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** The honest case for and against home quinoa: it requires a dry climate for harvest (Pacific Northwest coast and humid East Coast gardens can't mature it without the seed molding on the plant - this needs to be stated plainly). Where it genuinely works: Colorado, high-altitude New Mexico, parts of California. Varieties: Brightest Brilliant Rainbow (ornamental and edible), Colorado 407 (shorter season), Cherry Vanilla. Saponin washing - the bitter coating that must be removed before eating (2-3 vigorous rinse cycles, rub between hands, rinse until foam stops). Threshing small batches at home (hang-dry the seed heads, thresh by hand or pillowcase in a front-load washer). Yield: 1-2 lbs per 10 row feet. Market price: organic quinoa $4-8/lb at retail (USDA ERS or retail survey).
+**Internal links:** Link to at least 2 related crop pages and 1 article.
+**Acceptance:** 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E026 — Expand bay-laurel.md
+**Status:** `[x]`
+**File:** `src/content/plants/bay-laurel.md` (~1,223 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Bay laurel is a perennial shrub/tree that produces continuously for decades - the lifetime ROI angle is compelling and probably missing. Varieties: True bay (Laurus nobilis, culinary) vs. California bay (Umbellularia californica, stronger/more camphor-like, not ideal for cooking) vs. Indian bay leaf (Cinnamomum tamala, entirely different plant - clarify this confusion). Container growing in cold climates (bring indoors in winter below zone 8). Drying: fresh leaves are actually more flavorful when dried for 1-2 weeks vs. fresh-picked (volatile oils concentrate). Market value: fresh bay leaves sold in bunches at farmers markets $3-6/bunch; dried herb retail $4-8/oz. Pest: scale insects on container plants.
+**Internal links:** Link to at least 2 related herb pages and 1 article.
+**Acceptance:** 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E027 — Expand summer-savory.md
+**Status:** `[x]`
+**File:** `src/content/plants/summer-savory.md` (~1,223 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Distinguish summer savory (Satureja hortensis, annual, milder) from winter savory (Satureja montana, perennial, more pungent) - many gardeners don't know both exist and it's a useful comparison. Culinary uses: traditional bean herb (reduces flatulence - cite the traditional use, it's real and interesting), pairs with poultry, sausage, stuffings. Dried vs. fresh flavor profile differences. Succession planting for continuous harvest. Seed saving is easy - let some go to flower, seed heads ripen in late summer, collect before they shatter. Market: specialty herb bundles at farmers markets. Comparison to thyme as a substitute.
+**Internal links:** Link to at least 2 related herb pages and 1 article.
+**Acceptance:** 1,800+ words, zero em dashes, `npx astro build` passes.
+
+---
+
+### E028 — Expand jicama.md
+**Status:** `[x]`
+**File:** `src/content/plants/jicama.md` (~1,230 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Jicama is a long-season crop (9-10 months) with significant zone restrictions - this needs to be honest. Viable without a greenhouse only in zones 9-11 or with a very long growing season. Container/greenhouse growing in cooler zones to extend the season. The leaf and seed toxicity note: the seeds and aerial parts of jicama contain rotenone (toxic) - only the root is edible - this is a food safety point that should be in every jicama entry. Harvest timing: roots harvested at 4-6 inches diameter, larger roots become fibrous and starchy. Peeling: the papery skin and underlying fibrous layer must both be removed. Market value: jicama at $0.80-1.50/lb in stores with Mexican produce sections, $2-3/lb at specialty grocers (cite USDA AMS or market survey).
+**Internal links:** Link to at least 2 related crop pages and 1 article.
+**Acceptance:** 1,800+ words, food safety note on seed/leaf toxicity present, zero em dashes, `npx astro build` passes.
+
+---
+
+### E029 — Expand sea-buckthorn.md
+**Status:** `[x]`
+**File:** `src/content/plants/sea-buckthorn.md` (~1,232 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Sea buckthorn is one of the highest-value perennial fruits by unit price and nutritional density - this should anchor the ROI section. Market value: frozen sea buckthorn berries $8-15/lb, juice $15-25 per liter, oil (cosmetic grade, vitamin E/carotenoid-rich) $20-50/oz - cite specialty food or supplement retailer pricing. Pollination requirement: need male and female plants (1 male per 5-8 females); selecting a named male variety improves yield predictability. Harvest challenge: thorns + berries that squish when picked by hand - describe the branch-freezing harvest method (cut fruiting branches, freeze, then strip berries over a sheet). Nitrogen fixing root nodules - value as a hedgerow plant. Salt and drought tolerance. Processing: berries are too tart to eat raw; juice, jam, or oil extraction are the typical end products.
+**Internal links:** Link to at least 2 related fruit/berry pages and 1 article.
+**Acceptance:** 1,800+ words, pollination requirement explained, harvest method covered, zero em dashes, `npx astro build` passes.
+
+---
+
+### E030 — Expand luffa.md
+**Status:** `[x]`
+**File:** `src/content/plants/luffa.md` (~1,238 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Luffa is unique because it has two distinct market forms: culinary (eaten young, common in Asian cuisine) and craft/bath sponge (dried mature gourd). Expand both pathways. Culinary: harvest at 4-6 inches when skin is still tender (much younger than most growers expect), flavor similar to zucchini. Sponge: leave on vine until fully mature and skin begins to dry, peel away outer skin, soak in water to loosen, rinse seeds out, dry completely. Yield: a productive vine can produce 20-30 gourds per season. Market value for sponges: handmade natural luffa sponges sell for $4-8 each at farmers markets or Etsy. Season length requirement: 90-120 days, zone 7+ without a head start, or start indoors 6-8 weeks early in cooler zones. Vertical growing is necessary - fruits must hang to develop properly.
+**Internal links:** Link to at least 2 related crop pages and 1 article.
+**Acceptance:** 1,800+ words, both culinary and sponge harvest pathways covered, zero em dashes, `npx astro build` passes.
+
+---
+
+### E031 — Expand pigeon-pea.md
+**Status:** `[x]`
+**File:** `src/content/plants/pigeon-pea.md` (~1,238 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Pigeon pea is a perennial shrub in zones 9-11 and an annual elsewhere - the perennial angle is valuable and probably underemphasized. As a perennial, a single planting provides harvests for 3-5 years with minimal input. Nitrogen fixing at very high rates compared to most legumes - quantify this if possible (cite extension data). Varieties: short-duration (90-120 days, annual use in colder climates), medium-duration, and long-duration (perennial types). Culinary context: dal (toor dal) is one of the most consumed legumes globally; dried pigeon peas are a staple in Caribbean, South Asian, and East African cuisines. Green fresh peas vs. dried: fresh pods harvested at green stage are sweet and eaten like snap peas; dried form for dal requires full maturity. Market value: dried toor dal $2-4/lb, fresh green pods at farmers markets $2-4/lb in season.
+**Internal links:** Link to at least 2 related crop pages and 1 article.
+**Acceptance:** 1,800+ words, perennial vs. annual usage covered, nitrogen-fixing covered, zero em dashes, `npx astro build` passes.
+
+---
+
+### E032 — Expand pomegranate.md
+**Status:** `[x]`
+**File:** `src/content/plants/pomegranate.md` (~1,246 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Pomegranate is a long-lived, drought-tolerant fruit tree (or large shrub) with one of the best long-term ROIs for zones 7-11 once established - lean into this. Varieties: Wonderful (commercial standard), Ambrosia (sweeter, less tart), Angel Red (softer arils, easy to eat), Sirenevyi (cold-hardy to zone 6, Russian variety). Cold hardiness varies substantially by variety - this is important for zones 6-7 growers. Years to production: 2-3 from transplant, full production by year 4-5. Cracking issue: fruit cracks when rains follow a dry period just before harvest - timing and irrigation consistency matters. Arils vs. juice: processing for juice at home (freeze whole fruit, roll to break arils, puncture and squeeze) vs. hand-seeding for fresh arils. Market value: whole fruit $2-4 each retail, fresh arils $6-10 per small container (USDA AMS or grocery survey).
+**Internal links:** Link to at least 2 related fruit pages and 1 article.
+**Acceptance:** 1,800+ words, varieties with cold hardiness notes, cracking issue addressed, zero em dashes, `npx astro build` passes.
+
+---
+
+### E033 — Expand bee-balm.md
+**Status:** `[x]`
+**File:** `src/content/plants/bee-balm.md` (~1,250 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Bee balm (Monarda) straddles culinary herb, medicinal plant, and pollinator attractor - cover all three value streams. Species distinction: Monarda didyma (Oswego tea, bright red, most culinary), Monarda fistulosa (wild bergamot, lavender, more drought-tolerant). Traditional uses: the Oswego people used it as a tea herb; colonists brewed it as a substitute during the tea boycott - this context is interesting and accurate. Culinary uses: leaves and flowers both edible, oregano-like flavor with floral notes, flowers in salads and as garnish. Medicinal context: thymol and carvacrol content (same compounds in thyme/oregano) - antimicrobial properties. Powdery mildew is the primary disease issue and which varieties resist it (Jacob Cline and Marshall's Delight have good resistance). Division every 2-3 years to prevent the center dying out. Market: fresh herb bundles and dried, pollinator garden plants.
+**Internal links:** Link to at least 2 related herb pages and 1 article.
+**Acceptance:** 1,800+ words, three value streams covered, powdery mildew and resistant varieties noted, zero em dashes, `npx astro build` passes.
+
+---
+
+### E034 — Expand loquat.md
+**Status:** `[x]`
+**File:** `src/content/plants/loquat.md` (~1,264 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Loquat is one of the most underrated fruit trees for zones 8-10: low-maintenance, attractive, evergreen, and produces fruit in late winter/early spring when nothing else is fruiting - this off-season harvest window is the key market angle. Varieties: Big Jim (large fruit, self-fertile), Gold Nugget (high quality), Champagne (white-fleshed, sweeter), Advance (semi-dwarf). Pollination: most varieties are self-fertile but cross-pollination improves yield. Seed vs. grafted: seedling trees take 8-10 years to fruit; grafted trees fruit in 2-3 years. Fruit thinning: thin to 4-6 fruits per cluster for larger, higher-quality fruit. Seed toxicity note: loquat seeds contain amygdalin (as do apple seeds and stone fruit pits) - seeds should not be eaten. Processing: fresh, jam, jelly, wine, or sorbet. Market value: $3-6/lb at farmers markets due to extremely limited commercial availability - most Americans have never tasted a fresh loquat.
+**Internal links:** Link to at least 2 related fruit pages and 1 article.
+**Acceptance:** 1,800+ words, seed toxicity note present, off-season harvest angle emphasized, zero em dashes, `npx astro build` passes.
+
+---
+
+### E035 — Expand passionfruit.md
+**Status:** `[x]`
+**File:** `src/content/plants/passionfruit.md` (~1,266 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Species distinction matters here: Passiflora edulis (purple, most common edible), Passiflora edulis f. flavicarpa (yellow, commercial tropical), Passiflora incarnata (maypop, cold-hardy to zone 6, native to eastern US, smaller fruit but genuinely cold-hardy). The cold-hardy maypop angle is worth substantial coverage for northern growers. Pollination: purple passionfruit is self-fertile; yellow requires cross-pollination or hand pollination. Growing on a sturdy trellis or fence (20-30 foot vines). Fruit falls when ripe - harvest daily or use a net. Processing: scoop the seedy pulp and strain for juice; the flavor is intense and a little goes far (1 fruit = significant flavoring for drinks or desserts). Market value: passionfruit $4-8 each at specialty grocers; pulp $8-15/lb frozen (cite USDA AMS or specialty retailer).
+**Internal links:** Link to at least 2 related fruit pages and 1 article.
+**Acceptance:** 1,800+ words, species distinction with cold-hardy maypop covered, pollination explained, zero em dashes, `npx astro build` passes.
+
+---
+
+### E036 — Expand curry-leaf.md
+**Status:** `[x]`
+**File:** `src/content/plants/curry-leaf.md` (~1,270 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Curry leaf (Murraya koenigii) is essential to South Indian cooking and available fresh only from Indian grocers in most of the US - the substitution value is real. Market value: fresh curry leaf bunches at Indian grocery stores $2-4/bunch; dried (loses most flavor) $5-8/oz - fresh is irreplaceable for authentic flavor, which is the core ROI argument. Container growing is how most gardeners in zones below 9 manage it - goes outdoors in summer, indoors under grow light in winter. Sunlight requirement: full sun is critical for dense, flavorful leaves; shade produces leggy growth with less oil content. Propagation: seed (fresh only - loses viability rapidly), stem cuttings, or root suckers from established plants. Root suckers are the easiest propagation method if you have a friend with an established plant. Fertilizing: needs regular nitrogen for leaf production; liquid fertilizer every 2-3 weeks in growing season. Cooking: add to hot oil first (tadka) - the leaves bloom in oil, releasing their aromatic compounds.
+**Internal links:** Link to at least 2 related herb pages and 1 article.
+**Acceptance:** 1,800+ words, container growing covered, tadka/culinary use explained, market value cited, zero em dashes, `npx astro build` passes.
+
+---
+
+### E037 — Expand celtuce.md
+**Status:** `[x]`
+**File:** `src/content/plants/celtuce.md` (~1,272 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Celtuce (stem lettuce, Lactuca sativa var. angustana) is one of the most underplanted crops for value gardeners - a single plant produces both a leafy green harvest and a substantial edible stem that tastes like a cross between cucumber and artichoke heart. This dual-harvest angle should be front and center. Varieties are limited in US seed catalogs but note: Red Celtuce for ornamental value and similar eating quality, and the standard green type. Growing: direct sow or transplant, treat like a headed lettuce in terms of timing and spacing. Harvesting leaves during the growing phase, then harvesting the central stem when it's 12-18 inches tall and about 1.5 inches in diameter. Peeling: remove the outer skin (bitter) to reveal the pale green interior. Storage: peeled stem keeps 1-2 weeks refrigerated in water. Culinary: stir-fried, pickled, raw in salads. Market: rarely seen outside Asian grocery stores; Chinese restaurants use it - specialty value.
+**Internal links:** Link to at least 2 related crop pages and 1 article.
+**Acceptance:** 1,800+ words, dual-harvest angle covered, peeling and storage explained, zero em dashes, `npx astro build` passes.
+
+---
+
+### E038 — Expand garden-pea.md
+**Status:** `[x]`
+**File:** `src/content/plants/garden-pea.md` (~1,282 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Garden peas (shelling peas) vs. snap peas vs. snow peas - the three distinct market forms and their different growing habits and yields. Shelling pea economics: substantial labor input (shelling), but fresh shelled peas are $3-6/lb at farmers markets - a value that justifies the work if you grow a lot. Sugar conversion after harvest: like corn, peas begin converting sugars to starch within hours of picking - the flavor argument for home-growing is strong. Succession planting every 2-3 weeks from first frost-free date until temperatures exceed 75°F; repeat in fall 8-10 weeks before first fall frost. Nitrogen fixing and the value of leaving roots in the soil when the plants are done. Varieties: shell peas (Little Marvel, Green Arrow), snap (Sugar Ann, Sugar Snap), snow (Oregon Sugar Pod). Saving seed is easy since the seed IS the crop - let a few pods fully mature and dry.
+**Internal links:** Link to at least 2 related crop pages and 1 article.
+**Acceptance:** 1,800+ words, three pea types covered, sugar-conversion freshness argument included, zero em dashes, `npx astro build` passes.
+
+---
+
+### E039 — Expand sweet-pepper.md
+**Status:** `[x]`
+**File:** `src/content/plants/sweet-pepper.md` (~1,282 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** Sweet peppers are among the best ROI crops in the garden when ripened to red, orange, or yellow - the price premium for colored peppers vs. green is significant and worth quantifying. Market value: green bell peppers $1-2/lb, red/orange/yellow bell peppers $3-5/lb (USDA AMS). All colored peppers start green - the difference is simply leaving them on the plant longer. This is the central ROI insight. Varieties: California Wonder (standard bell), Corno di Toro (bull horn, high yield, excellent flavor), Jimmy Nardello (frying pepper, prolific, sweet), Carmen (Italian type, earlier than standard bells). Starting indoors: 8-10 weeks before last frost, need consistent 80°F+ for germination. Pepper flavor development: capsaicin decreases as peppers ripen to red (sweet peppers never get hot, but the biology is related to hot peppers). Heat-set: peppers drop flowers when temperatures exceed 90°F - shade cloth or watering to cool soil during heat waves. Roasting and storage: roasted peppers freeze well for 6-12 months.
+**Internal links:** Link to at least 2 related crop pages and 1 article.
+**Acceptance:** 1,800+ words, green vs. red price premium math present, varieties section, heat-set issue covered, zero em dashes, `npx astro build` passes.
+
+---
+
+### E040 — Expand persimmon.md
+**Status:** `[x]`
+**File:** `src/content/plants/persimmon.md` (~1,290 words → 1,800+)
+**Agent:** Claude — Load skill: garden-roi-content
+**Expand:** The astringent vs. non-astringent distinction is the most important thing to understand about persimmons and is probably underexplained. Astringent types (Hachiya, most American persimmons) are mouth-puckeringly inedible until fully ripe/soft; non-astringent types (Fuyu, Jiro) can be eaten crisp like an apple. Getting this wrong is why people hate persimmons. American persimmon (Diospyros virginiana) vs. Asian persimmon (Diospyros kaki) - the American type is native, cold-hardy to zone 4, produces small but intensely flavored fruit; the Asian types are zone 7-10 but produce larger commercial-quality fruit. Variety selection: Fuyu and Hachiya are the two most common Asian types; Meader and Early Golden are good cold-hardy American varieties. Market value: Fuyu $2-4/each, Hachiya $3-5/each at specialty grocers and farmers markets. Long harvest window: fruit hangs on the tree well into fall after leaves drop. Dehydrating persimmons - traditional Japanese hoshigaki (hand-massaged dried persimmon) is a premium product worth covering.
+**Internal links:** Link to at least 2 related fruit pages and 1 article.
+**Acceptance:** 1,800+ words, astringent vs. non-astringent fully explained with eating-stage guidance, American vs. Asian species covered, zero em dashes, `npx astro build` passes.
+
+---
+
+## Homestead Gaps — HG001-HG008
+
+Expand `homestead` category coverage from 16 to 24 articles. These are practical how-to and decision pieces for the food self-sufficiency audience.
+
+**Agent:** Claude — Load skill: garden-roi-content
+
+---
+
+### HG001 — pressure-canning-vegetables.md
+**Status:** `[x]`
+**File:** `src/content/articles/pressure-canning-vegetables.md`
+**Agent:** Claude — Load skill: garden-roi-content
+**Frontmatter:** `title: "Pressure Canning Vegetables: Safety, Process, and Cost Per Jar"`, `category: homestead`, `publishDate: 2026-05-11`, `featured: false`
+**What:** The definitive practical guide to pressure canning low-acid vegetables - what it is, why it's required (not optional) for low-acid foods, and how to do it cost-effectively.
+**Must cover:** Why low-acid vegetables (green beans, corn, beets, carrots, potatoes) require pressure canning not water bath - the botulism risk is real and the USDA/NCHFP guidance is non-negotiable; cite it. Equipment: dial-gauge vs. weighted-gauge canners (All American vs. Presto), cost comparison ($80-300), maintenance differences (dial gauges need annual testing at extension office). Processing: headspace, processing times, pressure levels by altitude (critical - processing pressure must be increased above 1,000 ft elevation). Cost per jar math: amortized equipment cost + lid + energy = true cost per jar vs. store-bought equivalent. Best crops for pressure canning ROI: green beans (highest value preserved per jar vs. retail), tomatoes (water bath for high-acid, pressure for low-acid mixtures), corn. What you cannot pressure can safely at home: butter, milk, pasta, rice, flour-thickened products.
+**Internal links:** Link to /crops/green-bean/, /crops/tomato/, and /homestead/canning-financial-case/.
+**Acceptance:** 1,800+ words, NCHFP cited, altitude pressure adjustment table present, zero em dashes, `npx astro build` passes.
+
+---
+
+### HG002 — vacuum-sealing-garden-harvest.md
+**Status:** `[x]`
+**File:** `src/content/articles/vacuum-sealing-garden-harvest.md`
+**Agent:** Claude — Load skill: garden-roi-content
+**Frontmatter:** `title: "Vacuum Sealing Garden Produce: What Lasts, What Doesn't"`, `category: homestead`, `publishDate: 2026-05-11`, `featured: false`
+**What:** Practical guide to vacuum sealing as a preservation method for the home garden - when it extends shelf life meaningfully, when it doesn't.
+**Must cover:** How vacuum sealing works (removes oxygen that drives oxidation and aerobic bacterial growth) and what it cannot do (does not prevent anaerobic bacteria, does not replace refrigeration for fresh produce). Equipment: chamber sealers (best, expensive $400-800) vs. edge sealers (FoodSaver type, $60-200) - when each is worth it. What vacuum seals well: dried goods (extended shelf life from months to years), blanched and frozen vegetables (prevents freezer burn), dried herbs, hard cheeses, cured meats. What vacuum sealing does NOT help with: fresh non-blanched vegetables (still respire and decompose), soft high-moisture produce, anything that will be crushed. Blanching before vacuum sealing: the non-negotiable step for most vegetables (deactivates enzymes that cause texture/color/flavor loss even when frozen). Cost of a FoodSaver-type sealer vs. savings from reduced food waste and extended shelf life - make the math work. Bags vs. canisters vs. rolls.
+**Internal links:** Link to /homestead/freezer-math-garden-roi/, /homestead/dehydrator-roi/, and 1 crop page.
+**Acceptance:** 1,800+ words, chamber vs. edge sealer distinction, blanching requirement explained, anaerobic bacteria note present, zero em dashes, `npx astro build` passes.
+
+---
+
+### HG003 — cold-frame-construction-roi.md
+**Status:** `[x]`
+**File:** `src/content/articles/cold-frame-construction-roi.md`
+**Agent:** Claude — Load skill: garden-roi-content
+**Frontmatter:** `title: "Cold Frame ROI: Build Cost, Season Extension, and Payback Math"`, `category: homestead`, `publishDate: 2026-05-11`, `featured: false`
+**What:** Cold frames are the lowest-cost season extension tool available. This article makes the financial case with real build costs and yield math.
+**Must cover:** What a cold frame is and how it extends the season (passive solar, 1-2 zone equivalent protection, 4-8 weeks earlier spring start, 4-8 weeks later fall end). DIY build cost: salvaged window or old storm door + lumber frame = $0-40. New materials: 2x6 rot-resistant lumber + polycarbonate sheet = $35-75. Commercial cold frame: $80-200. Season extension math: what crops benefit most (spinach, arugula, kale, radishes, lettuce) and their retail value per square foot per week. Example: 4x4 cold frame growing spinach for 6 extra weeks in spring = approximately 4-6 lbs spinach at $4-6/lb retail = $16-36 additional harvest value on a $40 investment. Venting: cold frames must be vented on warm days (even in winter/early spring) or temperatures inside will exceed 100°F and cook the plants - this is the primary management task. Hotbed variant: add bottom heat (buried heating cable or fresh manure) for seed starting.
+**Internal links:** Link to /crops/spinach/, /crops/arugula/, /homestead/greenhouse-roi/ or similar article.
+**Acceptance:** 1,800+ words, DIY build cost vs. commercial, specific payback math, venting requirement emphasized, zero em dashes, `npx astro build` passes.
+
+---
+
+### HG004 — backyard-chickens-garden-integration.md
+**Status:** `[x]`
+**File:** `src/content/articles/backyard-chickens-garden-integration.md`
+**Agent:** Claude — Load skill: garden-roi-content
+**Frontmatter:** `title: "Backyard Chickens and the Garden: Integration, Costs, and Real ROI"`, `category: homestead`, `publishDate: 2026-05-11`, `featured: false`
+**What:** Honest analysis of backyard chickens integrated with a food garden - the actual costs, the egg math, the garden benefits and damage risks.
+**Must cover:** True cost of backyard eggs: chicks ($4-8 each), coop ($200-800 DIY, $600-2,500 commercial), feed ($15-25/50 lb bag, a hen eats about 1/4 lb per day), bedding, vet/medications. A flock of 4 hens producing 3 eggs/day = about 90 dozen eggs/year at a true cost of $4-8/dozen including all inputs - often more expensive than store-bought eggs, sometimes competitive with premium pasture-raised eggs at $7-9/dozen (cite USDA AMS for egg price data). The garden integration value that changes the math: manure composting (one hen produces roughly 1 cubic foot of manure per month - high nitrogen), pest reduction (chickens eat grasshoppers, beetles, grubs, slugs), tilling fallow beds in fall. The garden damage risk: chickens will destroy seedlings, scratch mulch out of beds, eat ripening strawberries - rotational access with temporary fencing is the management solution. Chicken tractors as a tool for bed preparation. Breed selection: dual-purpose breeds (Rhode Island Red, Plymouth Rock, Australorp) vs. high-production breeds (ISA Brown, Leghorn).
+**Internal links:** Link to /homestead/composting-roi/, /crops/strawberry/ or similar, and 1 other relevant page.
+**Acceptance:** 1,800+ words, true cost per dozen eggs calculated, manure nitrogen value quantified, damage management addressed, zero em dashes, `npx astro build` passes.
+
+---
+
+### HG005 — solar-food-dehydrating.md
+**Status:** `[x]`
+**File:** `src/content/articles/solar-food-dehydrating.md`
+**Agent:** Claude — Load skill: garden-roi-content
+**Frontmatter:** `title: "Solar Food Dehydrating: Free Preservation When It Works"`, `category: homestead`, `publishDate: 2026-05-11`, `featured: false`
+**What:** Solar dehydration as the lowest-cost food preservation method - when it's practical, when it's not, and how to do it correctly.
+**Must cover:** Solar dehydrator vs. electric dehydrator vs. oven drying - energy cost comparison. Solar dehydrator types: box dryer (insulated box, dark interior, clear glazing, screened shelves), indirect dryer (same but food not in direct sun - better for foods that lose color/nutrients in direct UV), tent/screen dryer (simplest, lowest cost). When solar dehydrating works: consistently hot dry climates (Southwest US, parts of California, arid Mountain West). When it fails: humid climates (Southeast, Gulf Coast, Pacific Northwest) where ambient humidity prevents sufficient drying and creates mold risk. Food safety requirement: all dehydrated food must reach 140°F and maintain it - solar dryers must include a thermometer and growers must verify temperature. Best crops for solar drying: tomatoes (paste varieties), herbs, hot peppers, beans for seed, apricots, figs. USDA/NCHFP guidance on safe moisture levels for storage.
+**Internal links:** Link to /homestead/dehydrator-roi/, /crops/tomato/, and 1 other crop or article.
+**Acceptance:** 1,800+ words, food safety temperature requirement stated, climate suitability section, USDA/NCHFP cited, zero em dashes, `npx astro build` passes.
+
+---
+
+### HG006 — water-bath-vs-pressure-canning.md
+**Status:** `[x]`
+**File:** `src/content/articles/water-bath-vs-pressure-canning.md`
+**Agent:** Claude — Load skill: garden-roi-content
+**Frontmatter:** `title: "Water Bath vs. Pressure Canning: Which Method for Which Food"`, `category: homestead`, `publishDate: 2026-05-11`, `featured: false`
+**What:** Decision guide - the science behind the two methods, and a clear reference for which crops require which method.
+**Must cover:** The pH threshold: foods with pH below 4.6 are safe for water bath (boiling water reaches 212°F, sufficient to destroy non-spore-forming pathogens in high-acid environments); low-acid foods require pressure canning to reach 240°F+ (kills Clostridium botulinum spores). This is food safety, not preference - get the science right and cite USDA/NCHFP. Water bath crops: tomatoes (with added acid - lemon juice or citric acid per USDA), all fruits, pickles (acidity from vinegar), jams and jellies, fruit salsas. Pressure canning crops: green beans, corn, beets, carrots, potatoes, squash, asparagus, meat-containing products. Gray areas: tomato salsas with peppers and onions (low-acid additions require tested recipes - don't improvise). The "old recipe" danger: pre-1990s canning books may have incorrect processing times or unsafe low-acid water bath instructions - only use tested USDA or NCHFP recipes. Equipment comparison: water bath canner $20-50, pressure canner $80-300.
+**Internal links:** Link to /homestead/canning-financial-case/, /homestead/pressure-canning-vegetables/, /crops/tomato/.
+**Acceptance:** 1,800+ words, pH 4.6 threshold explained, both methods' crop lists present, old-recipe safety warning included, NCHFP cited, zero em dashes, `npx astro build` passes.
+
+---
+
+### HG007 — harvest-and-storage-planning.md
+**Status:** `[x]`
+**File:** `src/content/articles/harvest-and-storage-planning.md`
+**Agent:** Claude — Load skill: garden-roi-content
+**Frontmatter:** `title: "Harvest and Storage Planning: Matching Garden Output to Pantry Capacity"`, `category: homestead`, `publishDate: 2026-05-11`, `featured: false`
+**What:** Practical planning guide for managing harvest glut and matching what you grow to what you can realistically store and use.
+**Must cover:** The harvest overlap problem - most gardens produce a flood of tomatoes, peppers, and cucumbers simultaneously in August and September; the solution is advance planning and matched storage capacity. Storage method decision tree: fresh (days to weeks, no processing), refrigerator (days to weeks), root cellar/cool storage (weeks to months for right crops), freezing (months to 1 year), dehydrating (1-2 years), canning (1-5 years). Crops by optimal storage method: root vegetables (cellar), tomatoes and beans (canning or freezing), peppers (freezing without blanching), herbs (drying or freezing in oil), garlic and onions (dry hanging). Quantities to grow for a year's supply: rough math for common crops (example: 10-15 lbs dried beans per person/year = roughly a 25 foot row; 50 quarts canned tomatoes = 150 lbs fresh tomatoes = about 30 plants). Storage capacity audit - before planting, assess how much freezer space, canning shelf space, and root cellar capacity you actually have, then plant to match.
+**Internal links:** Link to /homestead/harvest-glut-triage/, /homestead/freezer-math-garden-roi/, and 1 crop page.
+**Acceptance:** 1,800+ words, storage method decision tree present, annual quantity estimates for at least 4 common crops, capacity audit concept covered, zero em dashes, `npx astro build` passes.
+
+---
+
+### HG008 — wild-edibles-foraging-basics.md
+**Status:** `[x]`
+**File:** `src/content/articles/wild-edibles-foraging-basics.md`
+**Agent:** Claude — Load skill: garden-roi-content
+**Frontmatter:** `title: "Wild Edibles in the Garden: Weeds Worth Eating and Foraging Basics"`, `category: homestead`, `publishDate: 2026-05-11`, `featured: false`
+**What:** Practical foraging focused on what grows in and around home gardens - not a wilderness survival guide, but a guide to valuable edibles that most gardeners already have and pull as weeds.
+**Must cover:** The ROI angle: free food that requires zero planting, zero watering, and zero fertilizing. Start with the common garden "weeds" that are highly edible: purslane (omega-3 rich, one of the most nutritious greens available, sells for $4-6/lb at farmers markets), lamb's quarters (nutritionally superior to spinach by most metrics, excellent cooked green), wood sorrel (lemony, salad green, ornamental), chickweed (delicate spring green, one of the first edibles of the year), dandelion (every part edible - roots, leaves, flowers; bitter greens are a culinary ingredient not a flaw). The positive identification requirement - non-negotiable: only eat what you can positively identify using multiple features, not just appearance. Recommend 2-3 reputable field guides (Peterson Field Guide to Edible Wild Plants, Samuel Thayer's Forager's Harvest). Look-alike dangers for common plants (wild carrot vs. poison hemlock - this is a real danger for beginners; wild garlic vs. lily of the valley). Encourage starting with the zero-look-alike species (purslane, dandelion, lamb's quarters have no dangerous look-alikes in North America).
+**Internal links:** Link to /homestead/beginner-homestead-crops/, /guides/companion-planting-basics/ or similar, and 1 crop page.
+**Acceptance:** 1,800+ words, positive ID requirement emphasized, look-alike dangers covered, field guide recommendations included, zero em dashes, `npx astro build` passes.
+
+---
+
+## New Capabilities — N001-N002
+
+### N001 — Companion Planting Correlator
+**Status:** `[ ]`
+**Agent:** Copilot
+**Files:** `src/pages/tools/companion-planting.astro`
+**What:** Interactive tool at `/tools/companion-planting/` — select a crop, see what grows well with it and what to avoid. Data already exists in `companion_plants` frontmatter on every crop page. Build a reverse index at build time.
+**Details:**
+- Read all plants via `getCollection('plants')`. Build two maps: `grows_with[crop] → [crops]` and `avoid[crop] → [crops]`. The `companion_plants` array in frontmatter is "grows well with" — check if there's a separate `avoid_plants` field; if not, derive conflict pairs from any explicit avoid lists or note them as TBD.
+- Page renders a searchable/filterable crop picker. Selecting a crop shows two columns: "Plant near" and "Keep away". Each entry links to the crop page.
+- No client-side JS framework — use a `<select>` or search input + vanilla JS to filter a pre-rendered list, or render all data into a JSON object in a `<script>` tag and filter client-side.
+- Add to `/plan/` index as a new tool card.
+- SEO: title "Companion Planting Guide: What Grows Well Together", meta description 150-160 chars.
+- Structured data: BreadcrumbList JSON-LD.
+- Follow all AGENTS.md coding standards: CSS custom properties only, no inline styles, background coverage on all text sections.
+**Acceptance:** Page renders at `/tools/companion-planting/`, selecting a crop shows companion and avoid lists with working links to crop pages, linked from `/plan/` index, `npx astro build` passes 0 errors.
+
+---
+
+### N002 — Glossary
+**Status:** `[ ]`
+**Agent:** Copilot (infra) + Claude (content)
+**Files:** `src/pages/glossary/index.astro`, `src/pages/glossary/[term].astro`, `src/content/resources/` (or a new `glossary` collection)
+**What:** Garden and ROI terminology reference at `/glossary/`. ~60-80 terms with definitions, each linking to relevant crop pages and articles. Strong long-tail SEO surface.
+
+**Copilot scope (infra first):**
+- Decide on content storage: a new `glossary` content collection in `src/content/glossary/` with glob loader, schema: `term` (string), `slug` (string), `definition` (string, markdown body), `related_crops` (string[], optional), `related_articles` (string[], optional), `category` (enum: growing | preservation | soil | economics | pests | tools).
+- Create `src/content.config.ts` additions for the glossary collection.
+- Create `src/pages/glossary/index.astro` — alphabetical index with category filter. Links to each term page.
+- Create `src/pages/glossary/[slug].astro` — individual term page with definition, related links, BreadcrumbList JSON-LD, DefinedTerm schema markup.
+- Add to site nav or resources page.
+- Write 3 stub entries to verify the pipeline works: `bolting.md`, `days-to-maturity.md`, `hardening-off.md`.
+- `npx astro build` must pass before handing to Claude.
+
+**Claude scope (content, separate story):**
+- Fill remaining ~60 terms across all categories. Load skill: garden-roi-content.
+- Terms to cover: direct sow, transplant, succession planting, cold stratification, scarification, damping off, blossom end rot, companion planting, cover crop, green manure, nitrogen fixation, pH, soil amendment, compost, vermicompost, mulch, raised bed, square foot gardening, intensive planting, crop rotation, heirloom, hybrid, F1, open-pollinated, GMO, organic, integrated pest management, beneficial insects, row cover, frost date, hardiness zone, microclimate, vernalization, photoperiod, day-neutral, short-day, long-day, determinate, indeterminate, curing, blanching, dehydrating, water activity, headspace, botulism, pressure canning, water bath canning, fermentation, lacto-fermentation, root cellar, cold storage, season extension, cold frame, hoop house, grow light, DLI, photoperiodism, transpiration, wilt, crown rot, fusarium, powdery mildew, aphid, nematode, allelopathy, intercropping, polyculture.
+
+**Acceptance (Copilot phase):** Collection schema defined, index + term pages render, 3 stub entries work, `npx astro build` passes.

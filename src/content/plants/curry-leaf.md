@@ -51,11 +51,19 @@ The financial case is modest compared to high-yield vegetables, but the access c
 
 **Container culture:** use a well-draining potting mix; add extra perlite for drainage. A 5-10 gallon pot accommodates a productive plant. Repot annually as the plant grows. Move outdoors when nighttime temperatures reliably stay above 50°F; bring back indoors before first frost. Keep near a south-facing window indoors; supplemental grow lights improve winter growth significantly.
 
-**Propagation:** seeds germinate slowly and erratically (germination rates vary widely; 3-6 weeks is typical at 70-80°F). More reliable approach: root semi-hardwood cuttings in late summer - take 6-inch cuttings from new growth, remove lower leaves, dip in rooting hormone, keep in a warm humid location (70-80°F) until roots develop (4-8 weeks). Division of rooted suckers from an established plant is the fastest method.
+**Propagation:** there are three approaches, and they're not equally reliable.
+
+Seeds: germinate slowly and erratically at 70-80°F, typically 3-6 weeks, often longer. The critical issue is seed viability. Curry leaf seeds lose viability rapidly after the berry is removed from the plant - within weeks, not months. Fresh seed direct from a ripe berry germinates acceptably; dried seed sold in packets often has poor germination rates because of age. If you want to grow from seed, get it fresh from a plant with ripe berries, remove the berry flesh, plant immediately.
+
+Stem cuttings: take 6-inch semi-hardwood cuttings from new growth in late summer, remove lower leaves, dip the cut end in rooting hormone powder, and keep in a warm, humid location at 70-80°F until roots develop (4-8 weeks). Success rate is moderate. This method requires patience and doesn't always work.
+
+Root suckers: by far the easiest method. Established curry leaf plants produce suckers - new shoots arising from the roots around the base of the plant. These are already rooted, genetically identical to the parent plant, and need only to be dug carefully with their attached roots and potted. If you know someone with an established plant, ask for a sucker. One established plant produces several per year, and dividing them is a 10-minute task. An Indian grocery store with live potted curry leaf trees is the fastest path to an established plant.
 
 **Water:** consistent moisture during the growing season. Does not tolerate prolonged drought; leaves drop quickly under water stress. In winter (indoor storage), reduce watering significantly - allow soil to partially dry between waterings.
 
-**Fertilizing:** light monthly feeding with balanced fertilizer during the growing season. Nitrogen supports leaf production. Iron deficiency (yellowing between leaf veins) can occur in alkaline soils or alkaline tap water; treat with chelated iron.
+**Fertilizing:** curry leaf trees are moderate nitrogen feeders when actively growing. Liquid fertilizer (fish emulsion, liquid kelp, or a balanced liquid fertilizer with nitrogen) every 2-3 weeks during the growing season produces noticeably more leaf growth than monthly feeding. Slow-release granular fertilizers are less effective here because the plant responds better to regular, smaller doses of available nitrogen than infrequent larger ones. Iron deficiency (yellowing between leaf veins on new growth, with veins remaining green) can occur in alkaline soils or with alkaline tap water; treat with chelated iron applied as a foliar spray or soil drench.
+
+**Hardening off in spring:** container plants brought outdoors after winter indoor storage need gradual reintroduction to outdoor light levels. Move the plant to a shaded outdoor location for 3-5 days before transitioning to full sun. Skipping this step causes sun scorch on leaves that have adapted to indoor light - a setback that slows the plant's productive season by several weeks.
 
 **Pruning:** regular harvesting is the primary pruning. Remove entire branch tips as needed to keep the plant compact and bushy. The plant responds well to shaping.
 
@@ -88,6 +96,14 @@ Harvest individual leaflets as needed, or cut entire leaf stalks for larger quan
 - **Keema (minced meat curry):** curry leaves tempered in oil at the start of cooking provide an aromatic base that distinguishes South Indian keema from North Indian versions.
 
 - **Curry leaf oil:** heat neutral oil with a large quantity of fresh curry leaves until the leaves crisp. Cool, strain. Use as a finishing oil over dosas, rice, or roasted vegetables.
+
+## Market Value and the Substitution Argument
+
+Fresh curry leaves at Indian grocery stores in US cities with significant South Indian populations run $2-4 per bunch (roughly 2-3 oz of leaves). That's $10-20/lb when you do the math, though most buyers purchase by the bunch without thinking about per-pound cost. Outside those markets, fresh curry leaves are hard to find. Dried curry leaves sell for $5-8 per oz in the spice aisle - a price that would suggest high value, but dried curry leaves are not a real substitute for fresh. The volatile compounds that define the flavor - the citrusy, aromatic quality that makes them worth cooking with - are largely gone after drying.
+
+This is the core substitution argument for growing your own: no commercial product adequately replaces the fresh leaf. Frozen curry leaves (which can be purchased from some Indian grocery stores or online) retain roughly 70-80% of fresh flavor and are the practical alternative when you can't grow outdoors year-round. But a container plant with 6 months of productive growing season produces enough fresh leaves to keep up with regular South Indian cooking and still have surplus to freeze for winter.
+
+For gardeners who sell at farmers markets or through a CSA, fresh curry leaves are a specialty item with a specific customer - the South Indian home cook who can't find them locally. Pricing at $3-4 per bunch is appropriate and sells readily to that buyer. The market is narrow but not tiny, and demand is consistent with the supply.
 
 ---
 

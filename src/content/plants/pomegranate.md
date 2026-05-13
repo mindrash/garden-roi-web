@@ -41,6 +41,8 @@ The fruit is technically a berry - a thick leathery rind enclosing hundreds of a
 
 'Sienevyi' and 'Kazake' extend pomegranate culture meaningfully into zone 6-7 gardens.
 
+**Grafted vs. seedling:** for fruit quality, buy grafted trees from a named variety. Pomegranate grown from seed does not breed true - the offspring from 'Wonderful' seed produces a plant with unpredictable fruit characteristics, often inferior to the parent. Grafted trees also fruit 2-3 years earlier than seedlings. Named grafted trees cost $20-40 from mail-order nurseries; seedling trees from big-box stores may be inexpensive but you won't know what you're getting until year 4 or 5.
+
 ## The ROI case
 
 Pomegranates begin producing at year 3-4 and reach full production by year 5-7. The 10-year calculation below uses a conservative $4/lb and assumes zone 8-9 reliable production after year 3.
@@ -70,9 +72,9 @@ Juice value changes the calculation significantly. Fresh pomegranate juice retai
 
 ## What goes wrong
 
-**Fruit splitting** is the most common production problem. Irregular irrigation during fruit development - a dry period followed by heavy water - causes the rind to expand faster than the interior can accommodate. The fruit cracks open, inviting mold and insects. Consistent irrigation from late summer through harvest prevents most splitting.
+**Fruit splitting** is the most common production problem and the one that most frustrates gardeners who have successfully grown a tree to full production. The mechanism: the rind is a living structure that expands slowly over the growing season. A dry period causes the rind to harden slightly; heavy rain or irrigation following that dry period causes rapid expansion of the interior juice sacs that the hardened rind can't accommodate. The fruit cracks open, sometimes completely in half. Once cracked, mold and insects enter within days and the fruit is lost. Prevention: consistent irrigation from the time fruits reach full size (August) through harvest. This is the entire management task for avoiding splitting - do not irrigate heavily and lightly in alternating cycles. A drip system on a timer is better than hand-watering for maintaining consistency through late summer heat.
 
-**Alternate bearing:** pomegranates sometimes produce heavily one year and lightly the next. Consistent fertilization and irrigation smooths out this tendency. Thinning fruit in heavy years also helps.
+**Alternate bearing:** pomegranates sometimes produce heavily one year and lightly the next, a pattern common in many fruit trees. Consistent fertilization and irrigation smooths out this tendency over time. Thinning fruit in heavy years (remove 30-40% of developing fruits in June) also helps by reducing the metabolic load that pushes the tree toward a rest year.
 
 **Leaf-footed bug** (*Leptoglossus* spp.): large, brown-and-orange bugs that pierce fruit and cause premature dropping. Handpick adults; neem oil spray on nymphs. More problematic in the Southwest.
 
@@ -84,7 +86,7 @@ Juice value changes the calculation significantly. Fresh pomegranate juice retai
 
 Pomegranates ripen late - August through November depending on variety and location, with 'Wonderful' typically hitting peak in October in California. The fruit signals ripeness: the skin develops a matte finish (the sheen of unripe fruit disappears), the fruit feels heavy for its size, and a gentle tap produces a metallic sound. Color development is variety-dependent - don't rely on redness alone.
 
-Harvest by cutting the stem, not pulling. Pomegranates don't ripen further off the tree but keep well - 1-2 months at room temperature, 2-4 months refrigerated. This is the storage advantage: a tree producing 30 lb in October provides fruit through February.
+Harvest by cutting the stem, not pulling. Pomegranates don't ripen further off the tree but keep exceptionally well - 1-2 months at room temperature in cool, dry conditions; 2-4 months refrigerated at 32-41°F. This extended storage life is one of the practical advantages of home growing over grocery purchasing: a tree producing 30 lb in October provides fruit through February without any processing, canning, or preservation effort. Whole ariled pomegranate seeds also freeze well (spread on a sheet pan to freeze individually, then transfer to bags) for up to 1 year - a convenient way to extend the utility of a large harvest past the fresh storage window.
 
 **Ariling technique:** submerge the halved fruit in a bowl of water, then break apart the sections and pop out the arils underwater. The arils sink; the white pith floats. This contains the juice and prevents staining.
 
@@ -100,6 +102,14 @@ Harvest by cutting the stem, not pulling. Pomegranates don't ripen further off t
 
 - **Pomegranate vinaigrette:** pomegranate juice reduced by half, whisked with olive oil, shallot, and salt. Better than commercial pomegranate dressings.
 
+## Market Value and Long-Term ROI
+
+Retail pomegranate pricing varies significantly by variety and season. Standard 'Wonderful' fruits at grocery stores in October-November run $2-4 each (roughly 1-2 lb per fruit at $1.50-3.00/lb). Fresh arils (pre-seeded, ready-to-eat) at specialty grocers and Trader Joe's run $6-10 per small container, which is roughly 4-6 oz of arils - making the per-pound aril price $16-26 (USDA Agricultural Marketing Service, *Specialty Crops Terminal Market Reports*, 2024). At that value, 5 lb of arils from home processing equates to $80-130 in retail equivalent.
+
+Pomegranate juice at specialty grocers runs $8-12 per liter. 1 lb of arils yields approximately 4-6 oz of juice, making the per-liter input cost roughly 2.5-3 lb of arils ($7-9 worth at specialty grocery aril pricing) for a liter of juice that retails at $8-12. The margin is thin for juice but positive.
+
+The long-term case for pomegranate is simple: a single 'Wonderful' or 'Sienevyi' shrub purchased for $25-40 and properly sited in zones 7-10 produces fruit for 20-30 years or more. Pomegranate trees in Southern California and the Mediterranean exceed 50 years of production. The upfront investment per decade of production is trivial. Consistent fertilization, irrigation, and annual pruning - an hour of work per season on a mature shrub - sustains that production. There are very few perennial fruit crops with this combination of longevity, low input, and high fruit value.
+
 ---
 
-**Related reading:** [Quince](/crops/quince/) - fellow Middle Eastern/Mediterranean fruit; [Fig](/crops/fig/) - drought-tolerant companion fruit tree
+**Related reading:** [Fig](/crops/fig/) - drought-tolerant companion fruit tree with similar Mediterranean origin and long-term ROI; [Quince](/crops/quince/) - fellow Middle Eastern fruit with long-lived tree economics

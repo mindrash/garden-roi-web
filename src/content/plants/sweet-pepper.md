@@ -28,6 +28,10 @@ Bell peppers are the blocky, four-lobed types most people picture. 'California W
 
 Frying peppers are a different shape and thinner-walled, and they're worth knowing about. 'Carmen' is an Italian frying type that matures earlier than most bells (about 60 days to red), produces heavily in heat, and has a rich, sweet flavor that stands up to high-heat cooking. 'Cubanelle' is a pale yellow-green frying pepper with thin walls - it's what you want for sautéing or stuffing when you don't want the bulk of a bell.
 
+'Corno di Toro' (Italian for "bull's horn") is a long, curved frying pepper that can reach 8-10 inches. It ripens to red or yellow depending on the strain, thin-walled with exceptional sweetness. One of the best peppers for roasting whole - the thin wall chars beautifully and the flesh underneath is tender and richly flavored. In Italian-American communities, this is the pepper, the one you see hanging in markets in late summer.
+
+'Jimmy Nardello' is a Slow Food heritage variety, originally from Calabria in southern Italy, and it deserves its cult following. The fruit is long and thin - 8-12 inches, sometimes more - turning from pale green to a deep, shiny red at maturity. What makes Jimmy Nardello distinctive is the extremely thin wall and concentrated sweetness: it's genuinely one of the sweetest frying peppers available, and when you fry it in olive oil for 2-3 minutes, the skin blisters and the flesh melts. The plant is prolific. One well-established Jimmy Nardello plant can produce 40-60 peppers in a season. The seed is available from Seed Savers Exchange and a few specialty vegetable seed companies.
+
 'Lipstick' is a pimento-type - heart-shaped, very thick walls, exceptionally sweet when red. If you're eating peppers raw off the plant or in salads, 'Lipstick' is worth the space.
 
 ## The ROI case
@@ -67,6 +71,18 @@ A bell pepper is technically harvestable as soon as it reaches full size and fee
 If you want the value - and the flavor - leave it. The color change from green to red, yellow, or orange takes 2–3 weeks on the plant and coincides with a meaningful increase in sweetness and vitamin C content (Marin et al., *Journal of Food Composition and Analysis*, 2004). You're not waiting for aesthetics. The chemistry is different.
 
 Once picked, refrigerate peppers in a plastic bag and use within 1–2 weeks. Green bells keep longer on refrigeration than colored bells - the same shelf-life asymmetry that drives grocery store behavior applies in your own refrigerator. Colored peppers picked at full ripeness are best used within a week.
+
+## Roasting and Freezing: Capturing the Surplus
+
+By September, a well-managed four-plant pepper bed in zone 6-7 will be producing more colored bells and frying peppers than any household can eat fresh. Roasting and freezing is the right answer for surplus peppers, and it's one of the most straightforward preservation tasks in the garden.
+
+**Roasting:** char the peppers over an open gas flame, under a broiler, or on a hot grill, turning until the skin is blackened on all sides. Transfer to a bowl, cover tightly with plastic wrap or a lid, and steam for 10-15 minutes. The skin slips off cleanly. Remove seeds and stems. The roasted flesh at this point can be refrigerated for 3-4 days or frozen immediately.
+
+**Freezing roasted peppers:** spread roasted pepper strips or halves on a parchment-lined sheet pan in a single layer. Freeze until solid (2-3 hours), then transfer to vacuum-sealed bags or freezer bags with as much air removed as possible. Frozen roasted peppers keep 9-12 months at 0°F with minimal quality loss. They come out of the freezer ready to use in sandwiches, pasta sauces, omelettes, and soups without further cooking.
+
+**Freezing fresh peppers:** raw peppers can be frozen without blanching, though the texture after thawing is softer and they're best used in cooked applications. Dice, seed, and freeze in measured portions (1/2 cup or 1 cup) for use through winter in stir-fries, soups, and egg dishes. No blanching required - peppers are one of the few vegetables that freeze acceptably raw.
+
+The math for surplus: at 2 lb per plant and four plants, a surplus of 4-6 lb (after fresh eating) can be roasted down to roughly 3-4 lb of roasted pepper, which fills about 4-5 pint bags. That's a winter's supply of roasted pepper for most households, from a crop that cost $3.99 in seed.
 
 ---
 

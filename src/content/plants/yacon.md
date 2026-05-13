@@ -18,7 +18,7 @@ hero_image: /images/crops/yacon.webp
 description: "Yacon (Smallanthus sonchifolius) - Andean root crop with crunchy, naturally sweet tubers. $5-10/lb at farmers markets and specialty stores. Tastes like apple-crossed-with-jicama. 150-210 days; zones 5-9 as annual."
 ---
 
-Yacon's strangest quality is what it doesn't do: unlike almost every other starchy root, yacon doesn't convert its carbohydrate storage to sugar when you eat it. The sweetness is real - it tastes like apple, watermelon rind, and jicama had a child - but it comes from fructooligosaccharides (FOS), which pass through the human digestive system without being absorbed. The result is a root vegetable that tastes genuinely sweet and contains almost no digestible calories. This is why it's been adopted by low-glycemic diet communities and sold as a specialty health food at $5-10/lb.
+Yacon's strangest quality is what it doesn't do: unlike almost every other starchy root, yacon doesn't convert its carbohydrate storage to sugar when you eat it. The sweetness is real - it tastes like apple, watermelon rind, and jicama had a child - but it comes from fructooligosaccharides (FOS), chains of fructose molecules that human digestive enzymes can't break down. They pass through without being absorbed, feeding gut bacteria in the large intestine instead. The result is a root vegetable that tastes genuinely sweet and contains almost no digestible calories. This is why it's been adopted by low-glycemic diet communities and people managing blood sugar, and why it sells as a specialty health food at $5-10/lb fresh and considerably more as syrup.
 
 The plant itself is impressive: it reaches 5-8 feet tall with large leaves, produces a clump of tubers at harvest that can weigh 10-20 lb total, and requires almost no pest management. In zones 7-9 it's one of the more productive food plants you can put in a sunny spot.
 
@@ -29,7 +29,9 @@ The plant itself is impressive: it reaches 5-8 feet tall with large leaves, prod
 - **Tubers** (the edible storage roots): 2-8 inches long, oval to carrot-shaped, pale yellow to purple depending on variety, with crisp, watery, sweet flesh. These are the harvest.
 - **Rhizome crowns** (propagating stems): reddish-purple knobby structures at the crown where the tubers attach to the plant. These are saved and replanted the following spring.
 
-The FOS content is highest in tubers that have been exposed to brief cold (below 50°F) after harvest - this is why traditionally harvested and stored yacon is sweeter than freshly dug. A day or two in the refrigerator after harvest noticeably increases perceived sweetness.
+The FOS content is highest in tubers that have been exposed to cold or sunlight after harvest - this is why traditionally harvested and stored yacon is sweeter than freshly dug. A day or two in the refrigerator noticeably increases perceived sweetness, as does the traditional Andean practice of laying tubers in the sun for several days to a few weeks post-harvest. The sun-sweetening process degrades longer-chain FOS into shorter, sweeter chains without introducing digestible sugar. This "sunning" step, done after harvest before eating or processing, is why yacon for direct eating should not go straight from the field to the kitchen.
+
+**Variety sources:** true named varieties are rare in North American commerce. Most yacon is sold as undifferentiated rhizome stock with yellow-fleshed tubers. A few specialty sources offer purple-fleshed varieties (higher anthocyanin content) and varieties selected for early maturity in shorter-season climates. The yellow-fleshed types from Peru are the commercial standard. When sourcing rhizomes, prefer suppliers who describe where their stock originated and how it's been selected - quality varies considerably between commercial sources.
 
 ## The ROI case
 
@@ -58,6 +60,8 @@ The wide yield range reflects the growing season length and available summer hea
 
 **Fertilizing:** moderate feeder. Generous compost at planting; side-dress with balanced fertilizer when plants reach 3-4 feet. Avoid excess nitrogen, which produces vegetative growth at the expense of tuber development.
 
+**Propagation from stem cuttings:** in addition to rhizome crown division, yacon can be propagated from stem cuttings taken in mid-summer. Take 6-8 inch cuttings from side branches (not the main stem), strip the lower leaves, and root in moist potting mix. Cuttings root in 2-3 weeks. This method is useful for expanding a planting without reducing the primary plants, or for establishing new plants from a friend's garden without having to wait for fall harvest to share crowns.
+
 **Harvest timing:** harvest after the first light frost kills the foliage, which signals the plant has stopped growing. The foliage death is natural and desirable - it triggers the final sugar conversion in the tubers. Dig carefully with a fork; tubers can extend 12-18 inches from the plant base.
 
 ## What goes wrong
@@ -76,7 +80,9 @@ The wide yield range reflects the growing season length and available summer hea
 
 Dig after the first frost kills the foliage. Use a garden fork, loosening the soil in a wide circle before lifting - the tubers can be far from the central stalk. Wash gently; cure at room temperature for a few days.
 
-**Storage:** yacon keeps 2-4 weeks at cool room temperature; 1-2 months refrigerated. Sweetness increases noticeably after 2-3 days in the refrigerator as FOS converts. Don't store with ethylene-producing fruit (apples, bananas); it accelerates deterioration.
+**Sun-sweetening post-harvest:** before refrigerating or processing, lay tubers in a single layer in direct sun for 3-7 days (up to 2-3 weeks for maximum sweetness in the traditional Andean approach). This is not drying - the skin toughens slightly but the interior remains moist and crisp. The sunning converts long-chain FOS to shorter, sweeter forms. Tubers treated this way taste measurably sweeter than those that go directly into cold storage.
+
+**Storage:** after sun-sweetening, yacon keeps 2-4 weeks at cool room temperature; up to 2-3 months in a cool, dry cellar at 40-50°F. Refrigerated tubers last 1-2 months. Sweetness continues to increase slightly in cool storage. Don't store with ethylene-producing fruit (apples, bananas); it accelerates skin breakdown.
 
 **Saving crowns:** select the firmest rhizome crowns with the most growth buds. Store in barely moist sand or peat at 40-50°F over winter. Inspect monthly and remove any that rot.
 
@@ -92,6 +98,16 @@ Dig after the first frost kills the foliage. Use a garden fork, loosening the so
 
 - **Yacon syrup:** boil down yacon juice to a dark, sweet syrup (the commercial product is produced this way). The home version: juice the tubers, simmer the juice in a heavy pot over medium heat for 1-2 hours until reduced and syrupy. Used as a low-glycemic sweetener.
 
+## Market Value: Fresh vs. Processed
+
+Fresh yacon at farmers markets in areas where it's sold runs $4-8/lb, with significant regional variation - it's largely unknown outside food-forward urban markets and areas with Latin American grocery presence. As a specialty crop at farm stands, $5-7/lb is achievable from buyers who recognize it.
+
+The processed market tells a different story. Yacon syrup (the concentrated juice, boiled down to a dark, molasses-like liquid) sells at health food stores and online at $10-20 per 8-oz jar. This is marketed primarily as a low-glycemic sweetener for people managing blood sugar. Dried yacon slices sell at $6-12 per small bag (2-4 oz dried, equivalent to roughly 1 lb fresh) at the same outlets.
+
+The home production math for yacon syrup: approximately 10 lb of fresh tubers yields 1-1.5 lb of syrup (roughly one 8-oz jar after cooking down). Given retail pricing, a 3-plant planting producing 15-20 lb of tubers could theoretically yield $20-40 worth of syrup at retail equivalent - plus the fresh eating value of tubers retained for direct consumption. The economics are better when you have a market for the product; for household use, the syrup is genuinely a useful sweetener for baking and beverages.
+
+Yacon's market position is in the gap between standard grocery store produce and specialty health foods. That gap is real and the prices reflect genuine scarcity - most Americans have never seen a fresh yacon root. Growing it yourself closes the gap entirely and gives you access to a fresh product that dried and syrup forms only approximate.
+
 ---
 
-**Related reading:** [Jicama](/crops/jicama/) - fellow crunchy tropical root with similar fresh eating character; [Jerusalem Artichoke](/crops/jerusalem-artichoke/) - another FOS-containing root crop; [Root Vegetable ROI](/roi/root-vegetable-roi/) - comparing storage roots by value per bed
+**Related reading:** [Jicama](/crops/jicama/) - fellow crunchy tropical root with similar fresh eating character; [Jerusalem Artichoke](/crops/jerusalem-artichoke/) - another FOS-containing root crop with management considerations; [Root Vegetable ROI](/roi/root-vegetable-roi/) - comparing storage roots by value per bed

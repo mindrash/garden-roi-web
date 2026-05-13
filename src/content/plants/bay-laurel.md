@@ -28,11 +28,15 @@ The tree is slow-growing but long-lived and requires almost no maintenance once 
 
 The bay family (Lauraceae) includes avocado, cinnamon, and sassafras. The culinary compound in bay leaves is eucalyptol (1,8-cineole), which provides the camphor-like aromatic quality, along with linalool and other terpenoids.
 
-**Important distinction:** bay laurel (*Laurus nobilis*) is the culinary bay. Two other plants are sometimes sold as "bay" and should not be confused:
-- **California bay** (*Umbellularia californica*): much more pungent; medicinal quality; causes headaches in large quantities when used in cooking. Used only sparingly, if at all, as a culinary substitute.
-- **Cherry laurel** (*Prunus laurocerasus*): ornamental shrub; contains prussic acid; **not edible**.
+**Important distinction - three "bay leaves" that are entirely different plants:**
 
-If you purchase a bay tree, confirm it is *Laurus nobilis*.
+*Laurus nobilis* (true bay, Mediterranean bay) is the culinary standard in European and American cooking. This is the plant described in this entry.
+
+**California bay** (*Umbellularia californica*): native to the Pacific Coast of North America. Leaves look similar to *Laurus nobilis* but contain much higher concentrations of umbellulone - the compound responsible for its intensely medicinal, almost mentholated aroma. A single California bay leaf is roughly 5-10x more potent than a European bay leaf. Used sparingly as a culinary substitute, it works, but full substitution in a recipe calling for *L. nobilis* results in an overpowering, headache-inducing dish. California bay also grows wild throughout the Bay Area and coastal California - foragers harvest it freely, which is fine in small amounts.
+
+**Indian bay leaf** (*Cinnamomum tamala*, also called *tej patta* in Hindi): entirely different plant, entirely different family (Lauraceae, but the cinnamon genus). The leaves look somewhat similar to *L. nobilis* leaves but the flavor is decidedly cinnamon-clove-like rather than eucalyptol-camphor. Indian recipes calling for "bay leaf" typically mean *Cinnamomum tamala*. Using European bay leaf as a substitute in Indian biryani or meat dishes produces a noticeably different result. Indian grocery stores carry dried *Cinnamomum tamala* leaves; they are rarely sold outside that context. Growing your own *Cinnamomum tamala* requires zone 9+ conditions, similar to the tree cinnamon relatives it's related to.
+
+If you purchase a bay tree, confirm it is *Laurus nobilis* by checking that the leaf, when crushed, smells distinctly eucalyptol/herbal and not overwhelmingly strong.
 
 ## The ROI case
 
@@ -54,7 +58,7 @@ The real value is "never buy bay leaves again for 30 years."
 
 **Climate:** *Laurus nobilis* is hardy to approximately 10°F (-12°C) in established specimens; young plants are more cold-sensitive. Zone 8-11 for outdoor culture; zone 7 with protection on a south-facing wall. In zones 5-6, container culture is standard.
 
-**Container culture:** bay is one of the best container tree candidates available. It tolerates pruning extremely well and can be maintained at exactly the size needed. Use a well-draining potting mix; terracotta pots dry faster and suit bay better than plastic. Pot up as the plant grows; root-bound bay trees become stressed and more susceptible to scale insects. Move indoors when temperatures drop below 20°F; keep near a bright window.
+**Container culture:** bay is one of the best container tree candidates available. It tolerates pruning extremely well and can be maintained at exactly the size needed. Use a well-draining potting mix; terracotta pots dry faster and suit bay better than plastic. Pot up as the plant grows - a root-bound bay becomes stressed and significantly more susceptible to scale insect infestation. Move indoors when temperatures drop below 20°F; a south-facing window or grow light maintains the plant through winter. In spring, harden off gradually before moving back outdoors - a bay that has been inside all winter can sunscald if moved directly to full outdoor sun.
 
 **Slow growth:** bay grows slowly - 6-12 inches per year under good conditions. Don't expect a harvestable quantity of leaves in year one. By year 3-4 of a container-grown plant, you'll have enough leaves for regular harvesting.
 
@@ -76,9 +80,17 @@ The real value is "never buy bay leaves again for 30 years."
 
 ## Harvest and use
 
-Pick individual leaves as needed year-round on established plants. For drying, harvest in late spring and summer when the leaves are at peak essential oil content. Dry on screens or in bundles in a warm, ventilated location out of direct sun; leaves dry in 1-2 weeks. Store dried leaves in an airtight container away from light.
+Pick individual leaves as needed year-round on established plants. For drying, harvest in late spring and summer when essential oil content is highest.
 
-**Fresh vs. dried:** fresh bay leaves are more pungent than dried - use 1 fresh leaf where a recipe calls for 2 dried. The fresh flavor is more eucalyptus-forward; the dried is mellower and more integrated in slow-cooked preparations. Both have their place.
+**The drying paradox:** bay leaves are one of the few herbs that become more flavorful after drying, not less. Freshly picked bay leaves are noticeably green-smelling and somewhat harsh - the full characteristic bay aroma develops only after the leaves are dried for 1-2 weeks, during which the volatile compounds stabilize and integrate. Dry on screens or in loose bundles (not tightly wrapped) in a warm, ventilated location out of direct sun. Direct sun bleaches color and drives off some volatile compounds. Room temperature drying over 1-2 weeks produces better results than oven drying. At the end, the leaves should be dry but not brittle - still slightly flexible, very dark green.
+
+**Fresh vs. dried:** use 1 fresh leaf where a recipe calls for 2 dried - fresh leaves are more assertively pungent before the drying process concentrates the flavor compounds. The fresh flavor is more eucalyptus-forward; the dried is mellower and integrates differently into slow-cooked preparations. Home-dried bay from a living plant, used within 1-2 years, is dramatically more aromatic than store-bought dried bay, which may be 3-5 years old at purchase.
+
+## Market Value
+
+Fresh bay leaves sold in small bunches (5-10 leaves) at farmers markets run $3-6 per bunch in markets where the seller has established premium herb pricing. Dried bay leaves at specialty herb shops retail at $4-8/oz, sometimes higher for certified organic. The grocery store pricing ($3-5 for a tiny jar of 3-4 leaves) understates the market rate because the grocery product is commodity-grade commercial dried leaf.
+
+The practical market for home-grown bay is more limited than for most herbs: bay is a background flavoring that most cooks use a leaf or two of per week. Surplus production from a mature tree goes further than most gardeners can sell directly. The highest-value use of excess bay is as part of herb bundles (bouquet garni kits with bay, thyme, and rosemary, sold as a gift or farmers market product) or as an ingredient in herb-infused vinegars and oils sold at specialty food markets.
 
 **Core preparations:**
 
@@ -94,4 +106,4 @@ Pick individual leaves as needed year-round on established plants. For drying, h
 
 ---
 
-**Related reading:** [Oregano](/crops/oregano/) - fellow Mediterranean woody herb; [Thyme](/crops/thyme/) - companion herb in bouquet garni
+**Related reading:** [Oregano](/crops/oregano/) - fellow Mediterranean woody perennial herb with similar container culture; [Thyme](/crops/thyme/) - companion herb in bouquet garni preparations; [Rosemary](/crops/rosemary/) - Mediterranean shrub with similar lifetime ROI case

@@ -44,7 +44,9 @@ Sea buckthorn is slow to establish and requires two plants minimum. But establis
 
 *Three plants at ~$20 each (1 male, 2 female).
 
-**Juice value:** sea buckthorn juice at health food stores runs $15-25 per liter. A liter requires roughly 1-1.5 lbs of berries. At 10 lbs of berries from two established shrubs, you're producing juice that would retail at $100-150 per liter equivalent.
+**Juice value:** sea buckthorn juice at health food stores runs $15-25 per liter. A liter requires roughly 1-1.5 lbs of berries. At 10 lbs of berries from two established shrubs, you're producing the equivalent of $100-150 in retail juice value.
+
+**Seed oil value:** sea buckthorn seed oil - cold-pressed from the seeds after juice extraction - is a premium cosmetic ingredient sold at $20-50/oz at health food and cosmetic retailers. The oil is rich in omega-7 fatty acids (palmitoleic acid), vitamin E, and carotenoids that give it a distinctive orange color. Used in skin-care applications for hydration and anti-aging effects. The seeds are a byproduct of juice pressing - if you're processing for juice anyway, saving and cold-pressing the seeds captures additional value from material that would otherwise go to compost. Cold-pressing seeds requires a dedicated oil press; at home scale, a small screw press capable of handling hard seeds is the appropriate tool. Yield: approximately 1 oz of oil per pound of seeds, and you'll collect seeds from the juice-pressing process in proportion to berry volume processed.
 
 ## Growing requirements
 
@@ -58,6 +60,10 @@ Sea buckthorn is slow to establish and requires two plants minimum. But establis
 
 **Wind pollination:** no bees required; pollen is wind-dispersed. Plant male within 100 feet, preferably upwind of females.
 
+**Nitrogen fixation:** sea buckthorn fixes atmospheric nitrogen through *Frankia* bacteria in root nodules - the same mechanism as alder and sweet fern. An established planting accumulates nitrogen in the surrounding soil over years. This is worth considering in site planning: sea buckthorn grown as a hedgerow alongside a vegetable garden fertilizes the adjacent beds passively. The nitrogen-fixing rate has been measured at 40-180 kg N/ha/year in established stands (Gupta et al., *Bioresource Technology*, 2003) - meaningful contribution to soil fertility.
+
+**Salt and wind tolerance:** sea buckthorn's native habitat is coastal dunes and mountain slopes where wind, salt spray, and poor soil would eliminate most plants. It functions as a windbreak in exposed locations where other shrubs fail to establish. For coastal and high-elevation gardens, sea buckthorn fills a productive role where most fruiting shrubs can't survive. The combination of nitrogen fixation, wind tolerance, and high-value fruit production in a single low-maintenance plant is unusual in temperate horticulture.
+
 ## What goes wrong
 
 **No fruit on female plants:** almost always either (1) no male in range, (2) male and female varieties have non-overlapping bloom periods, or (3) plants are too young (typically 3-4 years minimum). Confirm you have a correctly timed male variety within range.
@@ -66,7 +72,7 @@ Sea buckthorn is slow to establish and requires two plants minimum. But establis
 
 **Root suckers taking over:** the most common management problem. Sea buckthorn will colonize a surprisingly large area over time if suckers aren't controlled. Establish a clear perimeter at planting and mow the boundary annually.
 
-**Harvest difficulty:** underestimated by most first-time growers. The frozen-branch method is strongly recommended. Cut fruiting branches in August-September when berries are fully orange, place in a freezer overnight, and strip frozen berries into a container over a tarp. The juice stains skin and clothing - it doesn't wash out easily.
+**Harvest difficulty:** underestimated by most first-time growers. The frozen-branch method is strongly recommended. Cut fruiting branches in August-September when berries are fully orange, place in a freezer overnight or until solid, and strip frozen berries into a container over a tarp. Work over a surface you don't mind staining permanently. The juice is oil-based, deeply pigmented, and does not wash out of fabric or wash off skin easily - wear old clothes and nitrile gloves. Harvest early in the morning before temperatures warm and berries begin to soften.
 
 ## Harvest and use
 
@@ -87,6 +93,21 @@ Harvest August-October when berries are fully orange and beginning to soften. Th
 - **Berry leather:** puréed berries spread thin on a dehydrator sheet and dried at 135°F until pliable. Concentrated and shelf-stable; the flavor is intense. Used in tea preparations and as a flavor concentrate.
 
 - **Russian sea buckthorn tea (oblepikha chai):** dried berries or berry leather simmered in hot water with honey. Traditional in Russian folk medicine and still common in Russia and Central Asia. The flavor is fruity, tart, and warming.
+
+- **Sea buckthorn jam:** cooked with sugar (2:1 berries to sugar by weight) and strained for seeds. High natural pectin content produces a firm set without added pectin. The orange color is striking; flavor is intensely tart-sweet with floral notes.
+
+## Summary of Value Streams
+
+| Product | Retail price | Home production notes |
+|---|---|---|
+| Fresh/frozen berries | $8-15/lb | Primary harvest; sell or process |
+| Juice | $15-25/liter | Berry processing; dilute before drinking |
+| Syrup | $12-20/8 oz jar | Reduced juice + sugar |
+| Seed oil (cosmetic) | $20-50/oz | Cold-press seeds from juice processing |
+| Dried berries/leather | $8-15/oz | Dehydrate; concentrated form |
+| Jam/preserves | $8-14/8 oz jar | High pectin; sets easily |
+
+An established two-female planting producing 15 lb of berries annually, converted to multiple products rather than sold fresh, represents $200-400+ in retail-equivalent value from a $60 initial investment. The plant lasts 30+ years.
 
 ---
 

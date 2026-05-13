@@ -60,7 +60,9 @@ Summer savory is an undemanding, fast-growing annual that tolerates poor soil be
 
 **Soil:** prefers well-drained, lean soil. Rich soil produces lush growth with reduced essential oil concentration - the same phenomenon seen with basil and oregano. Don't amend heavily with compost if flavor intensity is the goal. Adequate drainage is more important than fertility.
 
-**Sowing:** direct-sow after last frost, or 4-6 weeks before last frost for an early start. Surface-sow (seeds need light to germinate) or cover no more than 1/8 inch. Germination takes 10-14 days at 65-70°F. Thin to 6-8 inches apart. Succession-sow every 4-6 weeks through summer for continuous harvest.
+**Sowing:** direct-sow after last frost, or 4-6 weeks before last frost for an early start. Surface-sow (seeds need light to germinate) or cover no more than 1/8 inch. Germination takes 10-14 days at 65-70°F. Thin to 6-8 inches apart.
+
+**Succession planting:** summer savory bolts to flower by midsummer, after which leaf production slows and flavor concentrates (useful for drying but less good for fresh use). Sow a second planting 6-8 weeks after the first for late-summer and fall fresh harvest. The fall planting often produces the best-flavored fresh leaves as cooler temperatures concentrate volatile compounds.
 
 **Light:** full sun required. Partial shade reduces essential oil production and produces less flavorful, more leggy plants.
 
@@ -95,6 +97,26 @@ For drying: harvest just as flower buds appear, before any open. Bundle loosely 
 
 Fresh summer savory is more delicate than the dried; use it like thyme in applications where fresh herb matters. The dried is more intense and works well in anything that cooks for more than a few minutes.
 
+**Summer savory as a thyme substitute:** the flavor overlap between summer savory and thyme is substantial - both are dominated by thymol and carvacrol in similar proportions, both work in the same culinary contexts, and both pair with the same proteins (beans, chicken, pork, lamb). Summer savory is slightly softer and more peppery where thyme is more earthy and assertive. As a direct substitute, use the same quantity. Summer savory is particularly useful in early spring before thyme is producing, and in the kitchen it fills the same role with slightly more pepper and less dirt-earthiness. Gardeners who grow both find they alternate between them rather than defaulting to one.
+
+## Seed Saving
+
+Summer savory is one of the easiest annual herbs to save seed from - it produces prolific small seeds readily and crosses only with other *Satureja* species.
+
+Allow a portion of the planting to flower and set seed fully. The small white flowers become tiny seed capsules that turn brown as they mature. Timing is the challenge: ripe seeds shatter and fall to the ground quickly. Watch the seed heads as they begin to turn brown; harvest the branches when most capsules are brown but before they split open.
+
+Cut seed-bearing stems into a paper bag and shake vigorously. The tiny seeds fall to the bag bottom; chaff remains with the stems. Shake and sift to clean. Store in a sealed paper envelope or glass jar in a cool, dry location. Viability: 3-5 years.
+
+One 4-foot row of summer savory allowed to go to seed produces enough seed for years of plantings - the seeds are small and a little goes far. This makes summer savory essentially free to grow after the first season.
+
+## Specialty Market Value
+
+Fresh summer savory in specialty herb bundles at farmers markets sells for $2-4 per small bunch. Dried summer savory in labeled glass jars (1 oz) from specialty herb producers runs $5-8 at farmers markets and local food events.
+
+The highest-value application for summer savory in a market context is as a component in herbes de Provence blends (summer savory, thyme, rosemary, marjoram, lavender). Homemade herbes de Provence in attractive packaging sells at $8-15 per 2-3 oz jar at specialty markets. Summer savory is one of the defining components - without it, the blend lacks the peppery complexity that distinguishes the real thing from generic Italian herb blends.
+
+A 10-foot row of summer savory, harvested at peak for drying, could contribute 1-2 oz of dried savory per harvest to 5-10 jars of herbes de Provence worth $8-15 each. At that scale, the economics of growing, blending, and packaging specialty herb products from a small planting are legitimate.
+
 ---
 
-**Related reading:** [Runner Bean](/crops/runner-bean/) - traditional companion pairing; [Herb Preservation Guide](/articles/herb-preservation-guide/) - drying herbs at peak flavor
+**Related reading:** [Thyme](/crops/thyme/) - the closest flavor analog with similar culinary uses; [Oregano](/crops/oregano/) - fellow Mediterranean herb with carvacrol/thymol profile; [Harvest and Storage Planning](/homestead/harvest-and-storage-planning/) - planning herb harvests and drying schedules

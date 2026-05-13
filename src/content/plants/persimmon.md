@@ -26,7 +26,12 @@ The asterisk is the tannins. Astringent persimmons - which includes most of the 
 
 Two species dominate the home garden and market:
 
-**American persimmon** (*Diospyros virginiana*): native to eastern North America. Small to medium fruit (1-2 oz), orange to reddish-purple at full ripeness. Astringent until fully ripe - usually after first frost softens the fruit. Very cold-hardy (zones 4-9). Self-fertile but produces better with cross-pollination. Improved named cultivars exist ('Meader', 'Prok', 'Szukis') with larger fruit than wild specimens.
+**American persimmon** (*Diospyros virginiana*): native to eastern North America. Small to medium fruit (1-2 oz), orange to reddish-purple at full ripeness. Astringent until fully ripe - usually after first frost softens the fruit. Very cold-hardy (zones 4-9). Self-fertile but produces better with cross-pollination. Improved named cultivars exist with meaningfully larger fruit than wild specimens:
+
+- **'Meader'**: one of the most widely planted named American persimmons; reliably self-fertile; large fruit for the species; selected by Edward Meader of New Hampshire in the 1940s
+- **'Early Golden'**: earlier ripening (September-October rather than October-November); sweeter than most American types; good choice for zones 4-5 where a short season limits late-ripening varieties
+- **'Prok'**: prolific producer, consistent yield; slightly tart compared to 'Meader' and 'Early Golden'
+- **'Szukis'**: selected for large fruit size; good flavor when fully ripe
 
 **Asian/Japanese persimmon** (*Diospyros kaki*): the large, tomato-shaped orange persimmon sold at grocery stores. Fruit 6-18 oz, often marketed as "Fuyu" (non-astringent) or "Hachiya" (astringent). Zones 7-10 primarily; some cultivars hardy to zone 6 with protection.
 
@@ -92,11 +97,19 @@ The Asian persimmon (Fuyu) matures faster - first meaningful harvest often at ye
 
 - **Persimmon pudding:** traditional Indiana and Ozarks preparation using American persimmon pulp. Ripe pulp pressed through a colander to remove skins and seeds, then baked into a dense, spiced pudding. The classic American persimmon preparation - genuinely distinct from any other dessert.
 
-- **Dried persimmons** (*hoshigaki*): traditional Japanese method of drying Hachiya persimmons. Peeled, hung to dry in a cool, ventilated location, massaged every few days to distribute moisture. After 6-8 weeks, the sugar blooms to the surface as a white coating. The result is a concentrated, intensely sweet dried fruit with no added sugar.
+- **Dried persimmons** (*hoshigaki*): traditional Japanese method of drying Hachiya persimmons, and one of the highest-value processing options available to home growers. The process: peel Hachiya persimmons while still firm, leaving the stem and a short section of branch attached. Tie twine to the branch stub and hang the fruit in a cool, dry location with good airflow - a garage, covered porch, or unheated room works. After 1 week, begin massaging each fruit gently for 30-60 seconds every 2-3 days. The massage breaks down the interior gel structure and distributes moisture evenly, preventing a hard outer crust from forming while the inside remains wet. After 4-6 weeks, the fruit shrinks significantly, the exterior firms, and white powdery sugar crystals bloom to the surface. That white bloom is pure fructose. The finished hoshigaki is dense, intensely sweet, and nothing like commercially dried fruit. At Japanese grocery stores and specialty food shops, artisan hoshigaki sells for $3-6 per individual fruit - considerably more than the fresh fruit's retail value. A mature Hachiya tree producing 40 lb of fruit can yield 20+ lb of hoshigaki (roughly 50% weight loss in drying) - a project that takes patience but no inputs beyond time.
 
 - **Persimmon bread:** like banana bread but richer. Ripe Hachiya or American persimmon pulp, warm spices, walnuts or pecans.
 
 - **Persimmon jam/preserves:** standard jam process with ripe pulp, sugar, and lemon juice. High sugar content in ripe persimmons means less added sugar needed than most fruit.
+
+## Market Value
+
+Persimmons occupy a specific market niche: a fall fruit that most American consumers either love deeply or have never tasted, with essentially no fresh competition from other locally grown fruit in October and November.
+
+Fuyu persimmons at specialty grocers and Whole Foods-type markets run $1.50-3.00 each, or $2-4/lb, during peak season (October-December). Hachiya persimmons, because they require more handling knowledge and have a shorter usable window once ripe, sell for similar per-fruit prices but less consistently. At California farmers markets (the primary domestic growing region for Asian persimmons), Fuyu and Hachiya sell for $2-4 each and $3-5/lb is realistic for premium-looking fruit. Smaller American persimmons can't command the same per-fruit price but sell by the pound ($4-6/lb) to buyers who know them, often at a premium over store persimmons because they're local and tree-ripe.
+
+The most direct financial argument for persimmon is the 10-year and 20-year tree economics. A single mature 'Fuyu' or 'Hachiya' tree at 30-40 lb of production, priced at $3.50/lb, generates $105-140 per season. The upfront investment of $25-40 for a grafted tree is recovered in the fourth or fifth year and the tree keeps producing, potentially for 50+ years, with no replanting costs. The American persimmon is similarly long-lived and adds the dimension of a tree that is genuinely ornamental - brilliant orange fall color, attractive bark, persistent fruit after leaf drop.
 
 ---
 

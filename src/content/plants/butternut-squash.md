@@ -57,6 +57,18 @@ The full storage math, assuming a September harvest and typical 4-month pantry l
 
 Two vines producing 8 squash total, stored through December: roughly $40-50 in pantry value at off-season retail prices. The 5-month window from harvest to February is where butternut's economics justify the garden space it requires. Summer squash delivers more raw pounds, but butternut delivers value when grocery prices are highest.
 
+On a per-input basis, butternut squash is among the highest-value storage crops available to home gardeners. A $2.99 seed packet, $10-15 in soil amendments, and one growing season yield 10-20 lbs of food that stores itself at room temperature with no electricity, no processing equipment, and no ongoing labor. That is not true of frozen vegetables, canned goods, or fermented products. The pantry value of butternut is the stored value - a physical reserve that doesn't require a trip to the grocery store at the precise moment winter squash demand peaks and prices rise. Grow 4 vines and you can give some away and still eat squash twice a week through December.
+
+## Space Management: Ground vs. Vertical
+
+Standard butternut vines sprawl 8-12 feet. A 3-vine planting in traditional hill spacing requires 100-150 square feet - a meaningful portion of a home garden. Two options exist for tighter spaces.
+
+**Bush types:** Butterscotch (listed above) and several other compact varieties produce on shorter vines, 3-4 feet. They yield fewer fruits per plant but produce them in substantially less space. In a raised bed garden, a bush butternut that fits a 4x4 bed is more useful than a standard vine that consumes a 10x10 area.
+
+**Vertical trellis growing:** standard-size butternut can be trained up a sturdy trellis (cattle panel, heavy wire, or 2-inch mesh fencing secured to T-posts). The critical addition is fruit support: butternut fruits can reach 2-5 lbs on a vine growing vertically, and the vine connection to the fruit isn't strong enough to hold that weight for 85-110 days. Each developing fruit needs a sling - an old t-shirt sleeve, mesh onion bag, or piece of nylon stocking tied from the trellis above the fruit, cradling the fruit's weight. Check slings weekly as fruits grow and adjust if the sling is cutting into the skin.
+
+Vertical growing has real advantages beyond space: better air circulation (reduces mildew pressure), easier fruit inspection, and no ground contact (fruits growing on the ground develop a pale yellow belly from contact with soil). The setup cost is a trellis and fabric slings; neither is expensive.
+
 ## Growing requirements
 
 Direct sow after last frost when soil temperature exceeds 60°F. Standard hill spacing: 4–5 feet between hills for vining types, hills 4–6 feet apart in rows (Penn State Extension, *Pumpkin and Squash Production*, 2019). Compact types can be planted as close as 2–3 feet. Thin to 2 plants per hill after true leaves develop.
@@ -81,12 +93,16 @@ Butternut requires cross-pollination between male and female flowers. Male flowe
 
 Butternut is ready when the skin color changes from green to fully tan-beige with no green striping remaining, and the rind resists a thumbnail firmly. The vine connection at the stem should be hardening and beginning to look corky. Days from planting give you a rough guide, but color and rind firmness are more reliable indicators than calendar dates.
 
-Cut with a sharp knife leaving 1–2 inches of stem. Cure at 80–85°F with good air circulation for 10–14 days (University of Illinois Extension, *Storing Vegetables*, C1373, 2021). Curing heals any surface wounds and hardens the skin for long storage. Skipping curing reduces storage life significantly.
+Cut with a sharp knife leaving 1-2 inches of stem. Curing is the step most home gardeners either skip or rush, and it's the reason pantry storage fails.
 
-Store cured squash at 50–55°F in low to moderate humidity. Do not refrigerate. Do not store near apples or pears (ethylene from those fruits accelerates squash deterioration). Properly cured Waltham Butternut stores 3–6 months; some years longer in good conditions. Check monthly and use any showing soft spots first.
+**The curing protocol:** hold harvested squash at 80-85°F with 80% relative humidity for 10-14 days. The back seat of a car on a sunny fall day works. An unheated room with a space heater and a pan of water achieves the conditions. What curing does biologically: the heat and humidity trigger two processes simultaneously. First, any surface wounds (from harvest, insect damage, or rough handling) seal over with a corky layer, preventing mold entry. Second, the skin hardens through suberization - the outer cell walls thicken and become more impermeable. A properly cured butternut squash can survive minor surface handling without the skin breaking; an uncured squash bruises and begins to rot within weeks. Third - and this is the one worth knowing - internal starch begins converting to sugar during curing, which is why cured butternut tastes noticeably sweeter than squash eaten fresh off the vine in September.
+
+Skip curing and your storage window drops from 6 months to 6 weeks. This is not marginal.
+
+Store cured squash at 50-55°F in low to moderate humidity (University of Illinois Extension, *Storing Vegetables*, C1373, 2021). Do not refrigerate. Do not store near apples or pears (ethylene from those fruits accelerates squash deterioration). Properly cured Waltham Butternut stores 3–6 months; some years longer in good conditions. Check monthly and use any showing soft spots first.
 
 ---
 
-**Related crops:** [Corn](/crops/corn/), [Pumpkin](/crops/pumpkin/)
+**Related crops:** [Corn](/crops/corn/), [Pumpkin](/crops/pumpkin/), [Zucchini](/crops/zucchini/)
 
-**Related reading:** [Freezing vs. Canning](/homestead/freezing-vs-canning/)  -  when to freeze butternut vs. when long-term pantry storage of the whole fruit makes more sense
+**Related reading:** [Squash Vine Borer Control](/guides/squash-vine-borer-control/) - timing, identification, and why *C. moschata* has an advantage; [Freezing vs. Canning](/homestead/freezing-vs-canning/) - when to freeze butternut vs. whole-fruit pantry storage

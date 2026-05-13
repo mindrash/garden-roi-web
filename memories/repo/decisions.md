@@ -4,6 +4,8 @@
 
 ## Compare Tool Architecture (Resolved — do not re-propose comparison article writing)
 
+> **STOP. If you are about to suggest "expanding comparison pairs" as a Claude content task or article writing task, you are wrong. Read this.**
+
 **Decision:** The `/compare/` route is a **data-driven static generator**, not a content writing surface.
 
 **How it works:**

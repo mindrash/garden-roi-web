@@ -32,10 +32,12 @@ Two type groups dominate home production:
 
 | Group | Flesh color | Flavor profile | Examples | Best use |
 |---|---|---|---|---|
-| Japanese | White | Mild, sweet, delicate | Champagne, Vista White | Fresh eating |
-| Chinese | Orange | Rich, more tart, aromatic | Advance, Early Red | Preserves, fresh eating |
+| Japanese | White | Mild, sweet, delicate | Champagne, Vista White, Big Jim | Fresh eating |
+| Chinese | Orange | Rich, more tart, aromatic | Advance, Early Red, Gold Nugget | Preserves, fresh eating |
 
-**Champagne** (white-fleshed) is the most commonly available variety in the US and is excellent for fresh eating - mild enough that the flavor doesn't overwhelm. **Advance** (orange-fleshed) has more complex flavor but can be more tart. Both are self-fruitful - no cross-pollination required.
+**Champagne** (white-fleshed) is the most commonly available variety in the US and is excellent for fresh eating - mild enough that the flavor doesn't overwhelm. **Advance** (orange-fleshed) has more complex flavor and higher natural pectin content, making it the better jam and jelly choice. **Big Jim** is one of the largest-fruited varieties, producing fruits up to 2.5 inches long with a higher flesh-to-seed ratio than most - the practical advantage being less seeding labor per pound of edible yield. **Gold Nugget** is a California-bred orange-fleshed variety with good sweetness and strong production in zone 9-10. All four are self-fruitful.
+
+**A note on seed sources:** nurseries sell both named grafted trees and seedling trees. The distinction matters. A grafted 'Champagne' or 'Big Jim' will fruit in 2-3 years, produce fruit true to the variety's flavor and size, and reach full production by year 5-7. A seedling tree - often sold more cheaply with no variety name - will take 8-10 years to fruit and produce fruit of unknown quality. For a backyard planting where you're committing decades of space to a single tree, buy the grafted named variety. The $5-10 premium over a seedling is trivial against a decade of earlier production.
 
 ## The ROI case
 
@@ -83,6 +85,8 @@ Handle carefully - the skin bruises easily. Store at room temperature for up to 
 
 **Preparation:** peel the thin skin (comes off easily when ripe), cut in half, remove the seeds (1-5 per fruit), and eat fresh. The seed cavity is large relative to the fruit; expect 50-60% edible yield by weight after seeding.
 
+**Seed toxicity:** loquat seeds contain amygdalin, a cyanogenic glycoside present in the seeds of most rose family fruits - apple seeds, cherry pits, apricot pits, and peach pits all contain it too. When chewed or crushed, amygdalin breaks down to release hydrogen cyanide. The seed-to-flesh ratio in loquat is high enough that this is worth being explicit about: discard the seeds entirely. Don't chew them out of curiosity. Don't feed them to children who might mistake them for something edible. The flesh is completely safe; the seeds are not food.
+
 **Core preparations:**
 
 - **Fresh eating:** the primary use. Ripe loquats need nothing. The flavor - sweet-tart, apricot-peach adjacent with a floral note - is best understood fresh. Cut in half and remove seeds; no peeling required if you don't mind the slight tannic quality of the skin.
@@ -94,6 +98,16 @@ Handle carefully - the skin bruises easily. Store at room temperature for up to 
 - **Sorbet:** pureed loquat flesh (seeded, peeled for smoothest texture) frozen with simple syrup. The flavor holds well in frozen form; the slight tartness is amplified by cold, which makes it more interesting than the fresh fruit alone.
 
 - **Japanese preserved loquat (biwa no kanroni):** the Japanese preparation - loquats poached in sugar syrup with sake and salt until translucent. A traditional Japanese confection that extends the short harvest window.
+
+## The Off-Season Advantage at Market
+
+Loquat's February-April harvest window is its strongest commercial argument. At farmers markets during those months, the competition is almost entirely stored root vegetables, greenhouse greens, and citrus. Fresh tree fruit is nonexistent except in the warmest zones. A loquat grower showing up with a flat of ripe fruit in late February is selling something no one else has.
+
+This timing advantage doesn't happen by accident - it's a function of the tree's unusual phenology. Loquat flowers in November-December, when most other fruit trees are fully dormant. That November bloom means February fruit. Any grower who understands this can plan around it: hold back a portion of the crop from the first ripening branches, keep harvesting as more clusters ripen through March, and you have 6-8 weeks of market presence with essentially no local competition.
+
+Fresh loquat at farmers markets in zones 8-10 sells for $3-6/lb when available and often higher. The reason prices can hold at the top of that range is simple supply scarcity: the fruit doesn't exist in supermarkets, almost no one is selling it locally, and buyers who know the fruit will pay for it. Buyers who don't know it will try it at a sample price and often buy a full flat. The barrier isn't finding customers - it's having enough fruit. A single mature loquat at 30-40 lb production generates $150-240 at $5/lb, from one tree in a season that runs 6-8 weeks.
+
+**Processing for extended market presence:** fresh loquats have a 2-week room-temperature shelf life, which limits how long you can hold inventory. Converting surplus into jam, jelly, or syrup extends the earning window well past the fresh harvest. Loquat jam is uncommon enough that it commands premium pricing - $10-15 per 8 oz jar at specialty markets and farmers market stands. A 10 lb surplus run of loquat jam (after accounting for the seeding labor and the 50-60% edible yield) might yield 12-15 jars, representing $120-225 in product from fruit that would otherwise rot before it could be sold. Loquat syrup in small bottles ($8-12 per 8 oz bottle) is a faster processing path than jam: no canning required, just refrigerate and sell fresh or frozen.
 
 ---
 
