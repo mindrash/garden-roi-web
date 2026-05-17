@@ -1,5 +1,5 @@
 ---
-title: "Backyard Chickens and the Garden: Integration, Costs, and Real ROI"
+title: "Backyard Chickens and the Garden: Costs and ROI"
 description: "Backyard chickens are more expensive than most people expect and more valuable to the garden than most people realize. Here's the honest math on both."
 category: homestead
 publishDate: 2026-05-11

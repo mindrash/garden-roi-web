@@ -1,5 +1,5 @@
 ---
-title: "Root Rot in Vegetable Gardens: Causes, Diagnosis, and Prevention"
+title: "Root Rot in Vegetable Gardens: Causes and Prevention"
 description: "Root rot is a symptom, not a single disease. Four different pathogens cause it, all triggered by waterlogged soil. How to diagnose which one you have and fix the conditions that allow it."
 category: care
 publishDate: 2025-06-12

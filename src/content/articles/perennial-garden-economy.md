@@ -1,5 +1,5 @@
 ---
-title: "The Perennial Garden Economy: Crops You Plant Once and Harvest for Decades"
+title: "Perennial Garden Economy: Plant Once, Harvest Decades"
 description: "The most overlooked ROI category in home gardening. 10-year net value tables for asparagus, rhubarb, strawberries, raspberries, blackberries, and perennial herbs - with the establishment costs and yield data to back them up."
 category: roi
 publishDate: 2026-04-22

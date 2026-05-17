@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Zone Map: What Hardiness Ratings Don't Tell You"
+title: "Beyond the Zone Map: What Hardiness Ratings Miss"
 description: "USDA hardiness zones only measure average minimum winter temps. Here's the AHS heat zone map, microclimate factors, and what zone actually predicts vs. what it doesn't."
 category: care
 featured: false

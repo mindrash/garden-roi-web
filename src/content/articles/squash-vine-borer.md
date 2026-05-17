@@ -1,5 +1,5 @@
 ---
-title: "Squash Vine Borer: Identification, Treatment, and Succession Planting Fix"
+title: "Squash Vine Borer: ID, Treatment, Succession Fix"
 description: "Squash vine borer kills zucchini by midsummer. Here's the life cycle, how to identify it early, the vine surgery rescue technique, and the second planting that sidesteps it entirely."
 category: care
 publishDate: 2025-06-16

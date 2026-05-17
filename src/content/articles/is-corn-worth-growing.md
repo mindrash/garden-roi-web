@@ -1,5 +1,5 @@
 ---
-title: "Is Corn Worth Growing? The Home Garden Math Says Probably Not"
+title: "Is Corn Worth Growing? The Home Garden Math"
 description: "Sweet corn needs a minimum 4x4 block for pollination, produces 1-2 ears per plant, and delivers the lowest return per square foot of any vegetable. Here's the math and the one case where it makes sense anyway."
 category: roi
 publishDate: 2025-06-02

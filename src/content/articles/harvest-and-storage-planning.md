@@ -1,5 +1,5 @@
 ---
-title: "Harvest and Storage Planning: Matching Garden Output to Pantry Capacity"
+title: "Harvest and Storage Planning: Match Output to Pantry"
 description: "Most gardens produce too much of everything at once in August. Planning harvest quantities and matching them to actual storage capacity prevents waste and captures real value."
 category: homestead
 publishDate: 2026-05-11

@@ -1,5 +1,5 @@
 ---
-title: "Garden Layout Compared: Square Foot vs. Row vs. Keyhole Yield Data"
+title: "Garden Layout ROI: Square Foot vs. Row vs. Keyhole"
 description: "Square foot gardening yields 2-4x more per sq ft than traditional row gardening on paper - but the math ignores path width and bed economics. A layout comparison with real numbers."
 category: planning
 publishDate: 2026-04-15

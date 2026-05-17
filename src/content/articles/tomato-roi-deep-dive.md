@@ -1,5 +1,5 @@
 ---
-title: "Tomato ROI: The Math Behind Growing vs. Buying (By Variety)"
+title: "Tomato ROI: Growing vs. Buying Math by Variety"
 description: "Cherry tomatoes outperform beefsteaks on ROI math. Full per-variety breakdown with seed vs. transplant scenarios, real input costs, and the honest case for and against growing tomatoes."
 category: roi
 publishDate: 2026-04-20

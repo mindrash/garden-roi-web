@@ -1,5 +1,5 @@
 ---
-title: "Continuous Harvest Crops: What Keeps Producing and What Gives You Everything at Once"
+title: "Continuous Harvest Crops: What Keeps Producing"
 description: "Kale, cherry tomatoes, and herbs harvest for months. Garlic, corn, and beets are done in one week. Classification table, succession schedules, and a month-by-month harvest calendar for zones 5-7."
 category: planning
 publishDate: 2026-04-20

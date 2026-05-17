@@ -1,5 +1,5 @@
 ---
-title: "Cold Frame ROI: Build Cost, Season Extension, and Payback Math"
+title: "Cold Frame ROI: Build Cost, Season Extension, Payback"
 description: "Cold frames are the lowest-cost season extension tool available. Here's how to build one, what it's actually worth in extended harvest value, and when it pays for itself."
 category: homestead
 publishDate: 2026-05-11

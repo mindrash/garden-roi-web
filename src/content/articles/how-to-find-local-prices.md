@@ -1,5 +1,5 @@
 ---
-title: "How to Find Local Produce Prices for Accurate Garden ROI"
+title: "How to Find Local Produce Prices for Garden ROI"
 description: "National averages understate ROI in high-cost cities and overstate it in rural areas. Here is how to find the actual prices in your market."
 category: roi
 publishDate: 2026-04-14

@@ -1,5 +1,5 @@
 ---
-title: "Water Bath vs. Pressure Canning: Which Method for Which Food"
+title: "Water Bath vs. Pressure Canning: Which for Which Food"
 description: "The choice between water bath and pressure canning is determined by the food's pH, not by preference. Here's the science, the crop lists, and the common mistakes."
 category: homestead
 publishDate: 2026-05-11

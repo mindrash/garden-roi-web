@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: May 15, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E040 + D001-D012 + SR001-SR004 + S001-S002 + Z001-Z008 + R001-R008 + HG001-HG008 + N001-N003 complete; 424 pages; site audit complete)_
+_Last updated: May 15, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E040 + D001-D012 + SR001-SR004 + S001-S002 + Z001-Z008 + R001-R008 + HG001-HG008 + N001-N004 complete; 424 pages; site audit + title fixes complete)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -7329,7 +7329,7 @@ Expand `homestead` category coverage from 16 to 24 articles. These are practical
 ## Post-Audit Fixes — N004-N006
 
 ### N004 — Article Title Length Fixes
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Copilot
 **What:** 50 article titles exceed 55 chars. Google truncates `<title>` tags; the full rendered title is `[article title] | Garden ROI` so the article title itself must be ≤55 chars.
 **How:**

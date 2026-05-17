@@ -1,5 +1,5 @@
 ---
-title: "Fall Garden Planning: Timing, Crops, and What Actually Works"
+title: "Fall Garden Planning: Timing, Crops, and What Works"
 description: "The fall garden is more productive per hour invested than spring in most climates. Zone-by-zone timing table, crop ROI by fall timing, and how to transition summer beds to fall production."
 category: planning
 publishDate: 2026-04-12

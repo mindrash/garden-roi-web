@@ -1,5 +1,5 @@
 ---
-title: "Crop Rotation Guide: The 4-Year Plan That Prevents Most Soilborne Disease"
+title: "Crop Rotation: The 4-Year Plan for Disease Prevention"
 description: "Crop rotation costs nothing and prevents soilborne diseases that would cost you entire plantings. Four plant families, four beds, four years. Here's the complete rotation plan with disease prevention rationale and nitrogen fixation math."
 category: care
 publishDate: 2026-04-12

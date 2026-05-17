@@ -1,5 +1,5 @@
 ---
-title: "Pressure Canning Vegetables: Safety, Process, and Cost Per Jar"
+title: "Pressure Canning Vegetables: Safety and Cost Per Jar"
 description: "Low-acid vegetables require pressure canning - not water bath canning - to be safe. Here's the science, the equipment choices, and the math on cost per jar."
 category: homestead
 publishDate: 2026-05-11

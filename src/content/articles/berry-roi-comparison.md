@@ -1,5 +1,5 @@
 ---
-title: "Berry Patch ROI: Strawberry, Raspberry, Blueberry, and Blackberry Compared"
+title: "Berry Patch ROI: 4-Crop Comparison"
 description: "Blueberries need 3 years and a pH overhaul. Strawberries replace every 3 years. Blackberries spread whether you want them to or not. The 5-year ROI numbers, sourced."
 category: roi
 publishDate: 2026-04-22

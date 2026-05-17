@@ -1,5 +1,5 @@
 ---
-title: "First Garden: The 10 Crops That Give New Growers the Best Chance"
+title: "First Garden: 10 Crops for New Growers"
 description: "Ten crops selected on explicit criteria: ROI multiple over 3x, forgiving of beginner mistakes, and garden-fresh quality noticeably better than store-bought. Plus what to leave out year one."
 category: planning
 publishDate: 2026-04-20

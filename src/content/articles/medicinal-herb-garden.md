@@ -1,5 +1,5 @@
 ---
-title: "Medicinal and Tea Herb Garden: What's Worth Growing, What Evidence Exists"
+title: "Medicinal Herb Garden: What Is Worth Growing"
 description: "Chamomile has clinical trial support for mild anxiolytic effects. Echinacea evidence is mixed. A pound of home-dried chamomile makes 190 cups of tea. The honest breakdown."
 category: homestead
 publishDate: 2026-04-22

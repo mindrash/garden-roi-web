@@ -1,5 +1,5 @@
 ---
-title: "Deer and Rabbit Fencing: Heights, Materials, and Cost Breakdown"
+title: "Deer and Rabbit Fencing: Heights, Materials, Cost"
 description: "Deer and rabbits require completely different fencing solutions. This guide covers the hardware specs, heights, and cost breakdown for a 100-foot perimeter in three materials."
 category: care
 publishDate: 2025-06-10

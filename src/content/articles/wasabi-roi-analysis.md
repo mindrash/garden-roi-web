@@ -1,5 +1,5 @@
 ---
-title: "Wasabi ROI: The $100/lb Vegetable That Tests Every Gardener"
+title: "Wasabi ROI: The $100/lb Crop That Tests Every Gardener"
 description: "Fresh wasabi rhizome sells for $80-150 per pound at specialty retailers. Here's the yield math, climate requirements, and honest verdict on who this crop makes sense for."
 category: roi
 publishDate: 2025-06-06

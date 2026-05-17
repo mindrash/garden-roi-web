@@ -1,5 +1,5 @@
 ---
-title: "Wild Edibles in the Garden: Weeds Worth Eating and Foraging Basics"
+title: "Wild Edibles: Garden Weeds Worth Eating"
 description: "Some of the most nutritious plants in your garden are the ones you're pulling out. Here's which common garden weeds are worth eating, and the basics of foraging safely."
 category: homestead
 publishDate: 2026-05-11

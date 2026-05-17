@@ -1,5 +1,5 @@
 ---
-title: "How to Measure Garden Yield: Kitchen Scale vs. Estimating"
+title: "How to Measure Garden Yield: Scale vs. Estimating"
 description: "Accurate yield measurement is what separates real ROI from guesswork. Here is how to log harvests correctly with a kitchen scale or estimates."
 category: roi
 publishDate: 2026-04-13

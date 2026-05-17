@@ -1,5 +1,5 @@
 ---
-title: "Garden Pest ID and Treatment Thresholds: When to Act, When to Wait"
+title: "Garden Pest ID and Treatment: When to Act, When to Wait"
 description: "A few aphids on a tomato plant don't need treatment - the parasitic wasps will handle it in 48 hours. IPM thresholds for 12 common vegetable garden pests, with identification and first-response guidance."
 category: care
 publishDate: 2026-04-20

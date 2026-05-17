@@ -1,5 +1,5 @@
 ---
-title: "Value Per Square Foot: Which Vegetables Pay the Most for the Space They Take"
+title: "Value Per Square Foot: Which Vegetables Pay Most"
 description: "Herbs and salad greens dominate the $/sq ft ranking. Corn and winter squash are near the bottom. Full ranking of 20+ crops with succession planting multipliers and a worked 4x8 bed plan."
 category: roi
 publishDate: 2026-04-20

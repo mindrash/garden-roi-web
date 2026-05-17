@@ -1,5 +1,5 @@
 ---
-title: "Preserving Hot Peppers: Drying, Fermenting, Freezing, and Pickling Compared"
+title: "Preserving Hot Peppers: Drying, Fermenting, Freezing"
 description: "10 lb of jalapeños becomes 20 jars of pickled peppers worth $80 retail, or fermented hot sauce worth $150. The method-by-method comparison with value and shelf life data."
 category: homestead
 publishDate: 2026-04-22

@@ -1,5 +1,5 @@
 ---
-title: "Herb Garden ROI: The 8 Highest-Value Culinary Herbs Compared"
+title: "Herb Garden ROI: The 8 Highest-Value Culinary Herbs"
 description: "Which culinary herbs give the best return on a seed packet? Dill, parsley, and cilantro beat basil on pure ROI math. Full comparison table with sourced numbers."
 category: roi
 publishDate: 2026-04-18

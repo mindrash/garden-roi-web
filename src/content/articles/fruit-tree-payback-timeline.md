@@ -1,5 +1,5 @@
 ---
-title: "Fruit Tree Payback Timeline: When Each Tree Covers Its Cost"
+title: "Fruit Tree Payback: When Each Tree Covers Its Cost"
 description: "A dwarf apple tree pays for itself by year 3-4. A peach tree by year 2. A sweet cherry by year 6-8. Full payback timeline for 8 common fruit trees with dwarf vs. standard math."
 category: roi
 publishDate: 2026-04-20

@@ -1,5 +1,5 @@
 ---
-title: "Cucumber ROI: Why Succession Planting Triples Your Harvest"
+title: "Cucumber ROI: Succession Planting Triples Your Harvest"
 description: "A single cucumber planting produces for 4-6 weeks then collapses. Three successions spaced 3 weeks apart extend harvest June through September. Here's the math showing the difference."
 category: roi
 publishDate: 2025-05-20

@@ -1,5 +1,5 @@
 ---
-title: "Food Forest Basics: 7-Layer System and 1,000 sq ft Economics"
+title: "Food Forest Basics: 7-Layer System and Economics"
 description: "A food forest mimics woodland structure with canopy, sub-canopy, shrub, herb, ground cover, root, and vine layers. 1,000 sq ft example with species list and 10-year ROI."
 category: homestead
 publishDate: 2026-04-15

@@ -1,5 +1,5 @@
 ---
-title: "Small-Space Vegetable Garden: Maximizing Value per Square Foot"
+title: "Small-Space Vegetable Garden: Value Per Square Foot"
 description: "The question isn't how much space you have - it's whether you're using it for crops that earn their square footage. Value-per-sq-ft table, vertical growing guide, intensive spacing, and a 20 sq ft succession plan."
 category: planning
 publishDate: 2026-04-12

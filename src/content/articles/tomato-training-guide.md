@@ -1,5 +1,5 @@
 ---
-title: "Pruning and Training Tomatoes: Indeterminate vs. Determinate and the Yield Data"
+title: "Pruning and Training Tomatoes: Yield Data by Type"
 description: "Single-stem indeterminate tomatoes produce 15-25% larger fruit than unpruned plants in Penn State trials. Whether that matters depends on what you're growing and why."
 category: care
 publishDate: 2026-04-22

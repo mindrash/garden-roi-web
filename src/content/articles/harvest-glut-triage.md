@@ -1,5 +1,5 @@
 ---
-title: "Harvest Glut Triage: What to Process First, What to Give Away, What to Let Go"
+title: "Harvest Glut Triage: What to Process, Give Away, Drop"
 description: "Tomatoes rot in 3 days; winter squash stores 3 months without processing. A decision framework for 15+ crops when everything comes in at once, with time-per-pound estimates for each preservation method."
 category: homestead
 publishDate: 2026-04-20

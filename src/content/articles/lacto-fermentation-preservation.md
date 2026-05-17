@@ -1,5 +1,5 @@
 ---
-title: "Lacto-Fermentation: No-Equipment Preservation for Garden Surplus"
+title: "Lacto-Fermentation: No-Equipment Garden Preservation"
 description: "Salt, water, a jar, and a vegetable. Lacto-fermentation is the safest home preservation method and the only one that requires zero equipment. Cost analysis and 5 staple recipes."
 category: homestead
 publishDate: 2026-04-15

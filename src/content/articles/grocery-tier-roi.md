@@ -1,5 +1,5 @@
 ---
-title: "Organic Buyer ROI: Which Crops Justify Growing vs. Buying"
+title: "Organic Buyer ROI: Which Crops to Grow vs. Buy"
 description: "USDA ERS price data shows organic produce costs 50-100% more than conventional for 12 key crops. Home-grown payback analysis by household type and consumption level."
 category: roi
 publishDate: 2026-04-15

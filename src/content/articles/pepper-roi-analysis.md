@@ -1,5 +1,5 @@
 ---
-title: "Hot Pepper ROI: Fresh, Dried, and Fermented Value Compared"
+title: "Hot Pepper ROI: Fresh, Dried, and Fermented Value"
 description: "Fresh jalapeños retail at $3/lb. Dried cayenne is $20/lb. Fermented hot sauce is $10 a bottle. The same plant, three different value tiers - the math on each."
 category: roi
 publishDate: 2026-04-22

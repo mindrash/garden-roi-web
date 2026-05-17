@@ -1,5 +1,5 @@
 ---
-title: "Microgreens ROI: The 14-Day Crop That Returns $25 a Pound"
+title: "Microgreens ROI: The 14-Day Crop at $25 a Pound"
 description: "Broccoli microgreens retail for $30/lb and grow in 10 days without a garden. The per-tray economics, setup cost, and honest limits of indoor microgreen production."
 category: roi
 publishDate: 2026-04-22

@@ -1,5 +1,5 @@
 ---
-title: "Price Seasonality: When Your Garden Saves the Most Money"
+title: "Price Seasonality: When Your Garden Saves Most"
 description: "USDA ERS monthly retail price data shows produce costs 30-80% more in winter than summer for the same crops. Here's how to time your preservation to capture the maximum savings."
 category: roi
 featured: false

@@ -1,5 +1,5 @@
 ---
-title: "Overwatering vs. Underwatering: How to Tell the Difference"
+title: "Overwatering vs. Underwatering: How to Tell"
 description: "Both overwatering and underwatering cause wilting. Here's how to diagnose which one you're dealing with, the root death mechanism, and how to recover a waterlogged plant."
 category: care
 publishDate: 2025-06-20

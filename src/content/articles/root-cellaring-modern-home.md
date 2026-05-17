@@ -1,5 +1,5 @@
 ---
-title: "Root Cellaring Without a Root Cellar: Modern Storage by Crop"
+title: "Root Cellaring Without a Root Cellar: By Crop"
 description: "Unheated garage, basement corner, or refrigerator drawer - every home has usable cold storage. Temperature and humidity requirements for 15 crops, with storage life data."
 category: homestead
 publishDate: 2026-04-15

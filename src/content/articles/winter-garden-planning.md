@@ -1,5 +1,5 @@
 ---
-title: "Winter Garden Planning: What Grows Cold, How Cold, and How to Extend It"
+title: "Winter Garden Planning: Cold Crops and Season Extension"
 description: "Spinach survives to 20°F. Mache survives to 0°F. A cold frame adds 8-15°F of protection and extends your season by 4-6 weeks on each end. Zone-differentiated planting calendar and ROI calculation."
 category: planning
 publishDate: 2026-04-20

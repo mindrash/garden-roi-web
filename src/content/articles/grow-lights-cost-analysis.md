@@ -1,5 +1,5 @@
 ---
-title: "Grow Lights Cost Analysis: When the Math Works, When It Doesn't"
+title: "Grow Lights Cost Analysis: When the Math Works"
 description: "Grow lights pay off clearly for seed starting. The math deteriorates fast for year-round vegetable production. Here's the electricity cost breakdown, light type comparison, and the specific cases where grow lights earn their place."
 category: roi
 publishDate: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Powdery Mildew: Treatment, Prevention, and Resistant Varieties"
+title: "Powdery Mildew: Treatment, Prevention, and Varieties"
 description: "Powdery mildew thrives in dry weather with poor airflow, not wet conditions. Here's what to spray, when to spray it, and which varieties resist it."
 category: care
 publishDate: 2025-06-14

@@ -1,5 +1,5 @@
 ---
-title: "Asparagus ROI: The 3-Year Investment That Pays Back for 20"
+title: "Asparagus ROI: 3-Year Investment, 20-Year Payback"
 description: "Asparagus crowns cost $50-100 to plant a family bed. Year 1 produces nothing. Year 3+ yields $100-300 annually for 20 years. Here's the year-by-year math and why male varieties matter."
 category: roi
 publishDate: 2025-05-30

@@ -1,5 +1,5 @@
 ---
-title: "Summer Garden Planning: Succession After Spring, Heat Management, and the August Reset"
+title: "Summer Garden Planning: Succession, Heat, August Reset"
 description: "The August 1 planting window is the most commonly missed date in home gardening. Broccoli transplants set out Aug 1-10 in zone 6 mature before frost. The full summer timeline."
 category: planning
 publishDate: 2026-04-22

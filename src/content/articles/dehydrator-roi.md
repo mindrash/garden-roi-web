@@ -1,5 +1,5 @@
 ---
-title: "Dehydrator ROI: When the Appliance Pays for Itself and Which Crops Make It Worth It"
+title: "Dehydrator ROI: When the Appliance Pays for Itself"
 description: "Two batches of homegrown basil cover an $80 dehydrator. Dried herbs return $10-40/oz at retail equivalent. Full crop-by-crop dehydration ROI with weight-loss factors and payback calculations."
 category: homestead
 publishDate: 2026-04-20

@@ -1,5 +1,5 @@
 ---
-title: "Root Vegetable ROI: Carrot, Beet, Parsnip, Turnip, and Radish Compared"
+title: "Root Vegetable ROI: Carrot, Beet, Parsnip, Radish"
 description: "Radish pays back in 25 days. Parsnip takes 120 and needs a frost to sweeten. The per-square-foot ROI numbers for five root crops, with succession math."
 category: roi
 publishDate: 2026-04-22

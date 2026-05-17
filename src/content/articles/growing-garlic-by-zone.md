@@ -1,5 +1,5 @@
 ---
-title: "Growing Garlic in Every US Climate Zone: A Zone-by-Zone Guide"
+title: "Growing Garlic by Zone: The US Climate Zone Guide"
 description: "Zone-specific planting timing, variety selection, mulching requirements, and curing specs for garlic across USDA Hardiness Zones 3 through 10. Real timing data, not approximations."
 category: care
 publishDate: 2026-04-15
