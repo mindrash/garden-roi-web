@@ -1,0 +1,248 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allTerms = await getCollection('glossary');
+const sorted = [...allTerms].sort((a, b) => a.data.term.localeCompare(b.data.term));
+
+const categories = [
+  { value: 'all', label: 'All' },
+  { value: 'growing', label: 'Growing' },
+  { value: 'soil', label: 'Soil' },
+  { value: 'preservation', label: 'Preservation' },
+  { value: 'economics', label: 'Economics' },
+  { value: 'pests', label: 'Pests' },
+  { value: 'tools', label: 'Tools' },
+];
+
+const categoryLabels: Record<string, string> = {
+  growing: 'Growing',
+  soil: 'Soil',
+  preservation: 'Preservation',
+  economics: 'Economics',
+  pests: 'Pests',
+  tools: 'Tools',
+};
+
+const termsForJs = sorted.map(t => ({
+  slug: t.id,
+  term: t.data.term,
+  category: t.data.category,
+  summary: t.data.summary,
+}));
+---
+
+<BaseLayout
+  title="Garden Glossary"
+  description="Definitions for 60+ gardening, soil, preservation, and economics terms. Quick reference for home growers from bolting to water bath canning."
+>
+  <div class="page-header">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <ol>
+          <li><a href="/">Home</a></li>
+          <li aria-current="page">Glossary</li>
+        </ol>
+      </nav>
+      <h1>Garden Glossary</h1>
+      <p>Definitions for gardening, soil, preservation, and economics terms used across the site.</p>
+    </div>
+  </div>
+
+  <div class="container glossary-page">
+
+    <div class="filter-row" role="group" aria-label="Filter by category">
+      {categories.map(cat => (
+        <button
+          class:list={['filter-btn', { 'filter-btn--active': cat.value === 'all' }]}
+          data-filter={cat.value}
+          type="button"
+          aria-pressed={cat.value === 'all' ? 'true' : 'false'}
+        >
+          {cat.label}
+        </button>
+      ))}
+    </div>
+
+    <div id="terms-grid" class="terms-grid">
+      {sorted.map(term => (
+        <a
+          href={`/glossary/${term.id}/`}
+          class="term-card"
+          data-category={term.data.category}
+        >
+          <span class="term-name">{term.data.term}</span>
+          <span class="term-badge">{categoryLabels[term.data.category]}</span>
+          <p class="term-summary">{term.data.summary}</p>
+        </a>
+      ))}
+    </div>
+
+    <p id="no-results" class="no-results" hidden>No terms in this category yet.</p>
+
+  </div>
+</BaseLayout>
+
+<script define:vars={{ termsForJs }}>
+  (function () {
+    var filterBtns = document.querySelectorAll('.filter-btn');
+    var termCards = document.querySelectorAll('.term-card');
+    var noResults = document.getElementById('no-results');
+
+    function applyFilter(filter) {
+      var visible = 0;
+      termCards.forEach(function (card) {
+        var cat = card.getAttribute('data-category');
+        var show = filter === 'all' || cat === filter;
+        card.style.display = show ? '' : 'none';
+        if (show) visible++;
+      });
+      if (noResults) {
+        noResults.hidden = visible > 0;
+      }
+    }
+
+    filterBtns.forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        filterBtns.forEach(function (b) {
+          b.classList.remove('filter-btn--active');
+          b.setAttribute('aria-pressed', 'false');
+        });
+        btn.classList.add('filter-btn--active');
+        btn.setAttribute('aria-pressed', 'true');
+        applyFilter(btn.getAttribute('data-filter') || 'all');
+      });
+    });
+  })();
+</script>
+
+<style>
+  .breadcrumb ol {
+    display: flex;
+    gap: var(--space-xs);
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-m);
+    font-size: var(--text-small);
+  }
+  .breadcrumb li {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .breadcrumb li:not(:last-child)::after {
+    content: '/';
+    color: rgba(255, 255, 255, 0.4);
+  }
+  .breadcrumb a {
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+  }
+  .breadcrumb a:hover {
+    color: var(--color-white);
+    text-decoration: underline;
+  }
+
+  .glossary-page {
+    padding: var(--space-xl) var(--space-l);
+  }
+
+  .filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs);
+    margin-bottom: var(--space-l);
+  }
+
+  .filter-btn {
+    padding: var(--space-xs) var(--space-m);
+    font-size: var(--text-small);
+    font-family: var(--font-body);
+    font-weight: 500;
+    background: rgba(248, 249, 245, 0.97);
+    border: 1px solid var(--color-card-border);
+    border-radius: var(--radius-full);
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    transition: background 0.12s, color 0.12s, border-color 0.12s;
+  }
+
+  .filter-btn:hover,
+  .filter-btn--active {
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+    color: var(--color-white);
+  }
+
+  .terms-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-m);
+  }
+
+  .term-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    padding: var(--space-m);
+    background: rgba(248, 249, 245, 0.97);
+    border: 1px solid var(--color-card-border);
+    border-radius: var(--radius-m);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+
+  .term-card:hover {
+    border-color: var(--color-primary);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  }
+
+  .term-name {
+    font-family: var(--font-display);
+    font-size: var(--text-h3);
+    color: var(--color-primary);
+    line-height: 1.2;
+  }
+
+  .term-badge {
+    display: inline-block;
+    font-size: var(--text-micro);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-secondary);
+    background: rgba(92, 61, 46, 0.08);
+    border-radius: var(--radius-full);
+    padding: 2px var(--space-xs);
+    width: fit-content;
+  }
+
+  .term-summary {
+    font-size: var(--text-small);
+    color: var(--color-text-secondary);
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  .no-results {
+    font-size: var(--text-body);
+    color: var(--color-text-muted);
+    font-style: italic;
+    text-align: center;
+    padding: var(--space-xl) 0;
+  }
+
+  @media (max-width: 900px) {
+    .terms-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 600px) {
+    .terms-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

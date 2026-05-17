@@ -1,0 +1,365 @@
+---
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPlants = await getCollection('plants');
+
+// Slug → plant lookup
+const plantBySlug = new Map(allPlants.map(p => [p.id, p]));
+
+// Name → slug lookup (display names like "Basil" → "basil")
+const nameToSlug = new Map<string, string>();
+allPlants.forEach(p => {
+  // Direct slug match ("Malabar Spinach" → "malabar-spinach")
+  nameToSlug.set(p.data.name.toLowerCase().replace(/\s+/g, '-'), p.id);
+  // Lowercase name match ("basil" → "basil")
+  nameToSlug.set(p.data.name.toLowerCase(), p.id);
+});
+
+function resolveSlug(displayName: string): string | undefined {
+  const lower = displayName.toLowerCase();
+  const asSlug = lower.replace(/\s+/g, '-');
+  if (plantBySlug.has(asSlug)) return asSlug;
+  return nameToSlug.get(lower) ?? nameToSlug.get(asSlug);
+}
+
+// Build bidirectional companion map
+const companionSets = new Map<string, Set<string>>();
+allPlants.forEach(p => companionSets.set(p.id, new Set<string>()));
+
+for (const plant of allPlants) {
+  for (const companionName of plant.data.companion_plants) {
+    const companionSlug = resolveSlug(companionName);
+    if (companionSlug && plantBySlug.has(companionSlug) && companionSlug !== plant.id) {
+      companionSets.get(plant.id)!.add(companionSlug);
+      companionSets.get(companionSlug)!.add(plant.id);
+    }
+  }
+}
+
+// Serialize for client-side JS
+const plantData = allPlants
+  .map(p => ({
+    slug: p.id,
+    name: p.data.name,
+    companions: Array.from(companionSets.get(p.id) ?? [])
+      .map(s => ({ slug: s, name: plantBySlug.get(s)!.data.name }))
+      .sort((a, b) => a.name.localeCompare(b.name)),
+  }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+const totalPairs = plantData.reduce((sum, p) => sum + p.companions.length, 0) / 2;
+---
+
+<ContentLayout
+  title="Companion Planting Guide: What Grows Well Together"
+  description="Select any crop to see which plants make the best neighbors. Companion planting data for all 190 crops in the Garden ROI database, built from research-backed pairings."
+  breadcrumbs={[{ label: 'Plan', href: '/plan/' }]}
+>
+  <h1 class="page-title">Companion Planting Guide</h1>
+  <p class="page-intro">
+    Select a crop to see which plants grow well as neighbors.
+    Covers all {allPlants.length} crops in the Garden ROI database
+    with {Math.round(totalPairs).toLocaleString()} recorded pairings.
+  </p>
+
+  <div class="tool-panel">
+    <div class="search-row">
+      <label for="crop-search" class="search-label">Search crops</label>
+      <input
+        type="search"
+        id="crop-search"
+        class="search-input"
+        placeholder="e.g. Tomato, Basil, Carrot..."
+        autocomplete="off"
+        spellcheck="false"
+      />
+    </div>
+
+    <div id="crop-grid" class="crop-grid" role="group" aria-label="Select a crop to see companions">
+      <p class="state-msg">Loading crops&hellip;</p>
+    </div>
+
+    <div id="result-panel" class="result-panel" aria-live="polite" hidden>
+    </div>
+  </div>
+
+  <div class="about-panel">
+    <h2>How companion planting data works</h2>
+    <p>
+      Relationships are drawn from extension service recommendations and horticultural research.
+      They are bidirectional: if Tomato lists Basil as a companion, selecting Basil will also show Tomato.
+      Use this as a planning starting point - companion planting effects vary by soil, climate, and variety.
+    </p>
+    <p>
+      For growing details, yield data, and ROI estimates on any crop, browse the
+      <a href="/crops/">full crop directory</a> or visit individual crop pages linked from the results.
+    </p>
+  </div>
+</ContentLayout>
+
+<script define:vars={{ plantData }}>
+  (function () {
+    var data = plantData;
+    var bySlug = {};
+    data.forEach(function (p) { bySlug[p.slug] = p; });
+
+    var searchInput = document.getElementById('crop-search');
+    var cropGrid = document.getElementById('crop-grid');
+    var resultPanel = document.getElementById('result-panel');
+
+    if (!searchInput || !cropGrid || !resultPanel) return;
+
+    var selectedSlug = '';
+
+    function renderGrid(filter) {
+      var q = filter ? filter.toLowerCase() : '';
+      var filtered = q
+        ? data.filter(function (p) { return p.name.toLowerCase().includes(q); })
+        : data;
+
+      if (filtered.length === 0) {
+        cropGrid.innerHTML = '<p class="state-msg">No crops match your search.</p>';
+        return;
+      }
+
+      cropGrid.innerHTML = filtered.map(function (p) {
+        var active = p.slug === selectedSlug;
+        return (
+          '<button class="crop-chip' + (active ? ' crop-chip--active' : '') + '" data-slug="' + p.slug + '" type="button" aria-pressed="' + (active ? 'true' : 'false') + '">' +
+          p.name +
+          '</button>'
+        );
+      }).join('');
+    }
+
+    function showResult(slug) {
+      selectedSlug = slug;
+      var plant = bySlug[slug];
+      if (!plant || !resultPanel) return;
+
+      resultPanel.removeAttribute('hidden');
+
+      var html = '<h2 class="result-title">Plant near <span class="result-name">' + plant.name + '</span></h2>';
+
+      if (plant.companions.length === 0) {
+        html += '<p class="state-msg">No companion data recorded for this crop.</p>';
+      } else {
+        var count = plant.companions.length;
+        html += '<p class="result-count">' + count + ' companion' + (count !== 1 ? 's' : '') + '</p>';
+        html += '<ul class="companion-list">';
+        plant.companions.forEach(function (c) {
+          html += '<li><a href="/crops/' + c.slug + '/" class="companion-link">' + c.name + '</a></li>';
+        });
+        html += '</ul>';
+        html +=
+          '<p class="result-footer">See the full <a href="/crops/' +
+          slug +
+          '/">' +
+          plant.name +
+          ' growing guide</a> for variety selection, yield data, and ROI estimates.</p>';
+      }
+
+      resultPanel.innerHTML = html;
+      renderGrid(searchInput ? searchInput.value : '');
+    }
+
+    cropGrid.addEventListener('click', function (e) {
+      var btn = e.target.closest('.crop-chip');
+      if (btn && btn.dataset.slug) {
+        showResult(btn.dataset.slug);
+      }
+    });
+
+    searchInput.addEventListener('input', function (e) {
+      renderGrid(e.target.value);
+    });
+
+    renderGrid('');
+  })();
+</script>
+
+<style>
+  .page-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h1);
+    color: var(--color-primary);
+    margin-bottom: var(--space-s);
+  }
+
+  .page-intro {
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    line-height: 1.6;
+    margin-bottom: var(--space-l);
+  }
+
+  .tool-panel {
+    background: rgba(248, 249, 245, 0.97);
+    border: 1px solid var(--color-card-border);
+    border-radius: var(--radius-m);
+    padding: var(--space-l);
+    margin-bottom: var(--space-l);
+  }
+
+  .search-row {
+    margin-bottom: var(--space-m);
+  }
+
+  .search-label {
+    display: block;
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-text-primary);
+    margin-bottom: var(--space-xs);
+  }
+
+  .search-input {
+    width: 100%;
+    padding: var(--space-s) var(--space-m);
+    font-size: var(--text-body);
+    font-family: var(--font-body);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-s);
+    background: var(--color-white);
+    color: var(--color-text-primary);
+    box-sizing: border-box;
+  }
+
+  .search-input:focus {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 1px;
+    border-color: var(--color-primary);
+  }
+
+  .crop-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs);
+    max-height: 280px;
+    overflow-y: auto;
+    padding: var(--space-xs) 0;
+    margin-bottom: var(--space-s);
+  }
+
+  .crop-chip {
+    padding: var(--space-xs) var(--space-s);
+    font-size: var(--text-small);
+    font-family: var(--font-body);
+    background: var(--color-card-bg);
+    border: 1px solid var(--color-card-border);
+    border-radius: var(--radius-full);
+    color: var(--color-text-primary);
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background 0.12s, color 0.12s, border-color 0.12s;
+  }
+
+  .crop-chip:hover,
+  .crop-chip--active {
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+    color: var(--color-white);
+  }
+
+  .crop-chip--active {
+    font-weight: 600;
+  }
+
+  .result-panel {
+    border-top: 1px solid var(--color-border);
+    padding-top: var(--space-m);
+    margin-top: var(--space-xs);
+  }
+
+  .result-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    color: var(--color-primary);
+    margin: 0 0 var(--space-xs);
+  }
+
+  .result-name {
+    color: var(--color-secondary);
+  }
+
+  .result-count {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    margin: 0 0 var(--space-m);
+  }
+
+  .companion-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-m);
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs);
+  }
+
+  .companion-link {
+    display: inline-block;
+    padding: var(--space-xs) var(--space-s);
+    background: var(--color-card-bg);
+    border: 1px solid var(--color-card-border);
+    border-radius: var(--radius-full);
+    color: var(--color-primary);
+    text-decoration: none;
+    font-size: var(--text-small);
+    font-weight: 500;
+    transition: background 0.12s, color 0.12s, border-color 0.12s;
+  }
+
+  .companion-link:hover {
+    background: var(--color-primary);
+    color: var(--color-white);
+    border-color: var(--color-primary);
+  }
+
+  .result-footer {
+    font-size: var(--text-small);
+    color: var(--color-text-muted);
+    margin: 0;
+  }
+
+  .result-footer a {
+    color: var(--color-primary);
+  }
+
+  .state-msg {
+    font-size: var(--text-body);
+    color: var(--color-text-muted);
+    font-style: italic;
+    margin: 0;
+  }
+
+  .about-panel {
+    background: rgba(248, 249, 245, 0.97);
+    border: 1px solid var(--color-card-border);
+    border-radius: var(--radius-m);
+    padding: var(--space-l);
+  }
+
+  .about-panel h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-h3);
+    color: var(--color-primary);
+    margin: 0 0 var(--space-s);
+  }
+
+  .about-panel p {
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    line-height: 1.6;
+    margin: 0 0 var(--space-s);
+  }
+
+  .about-panel p:last-child {
+    margin-bottom: 0;
+  }
+
+  .about-panel a {
+    color: var(--color-primary);
+  }
+</style>

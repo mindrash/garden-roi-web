@@ -11,9 +11,14 @@ interface Props {
 
 const {
   title,
-  description = 'Plant care tips, homestead advice, and ROI guides to help your garden pay for itself.',
+  description: rawDescription = 'Plant care tips, homestead advice, and ROI guides to help your garden pay for itself.',
   ogImage = '/bg-1.webp',
 } = Astro.props;
+
+// Truncate meta description to 160 chars max (Google truncates longer ones)
+const description = rawDescription.length > 160
+  ? rawDescription.slice(0, 157).trimEnd() + '...'
+  : rawDescription;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---

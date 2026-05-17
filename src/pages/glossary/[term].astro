@@ -1,0 +1,205 @@
+---
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const terms = await getCollection('glossary');
+  return terms.map(entry => ({
+    params: { term: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const { term, summary, category, related_crops, related_articles } = entry.data;
+
+const categoryLabels: Record<string, string> = {
+  growing: 'Growing',
+  soil: 'Soil',
+  preservation: 'Preservation',
+  economics: 'Economics',
+  pests: 'Pests',
+  tools: 'Tools',
+};
+
+const allPlants = related_crops.length > 0 ? await getCollection('plants') : [];
+const allArticles = related_articles.length > 0 ? await getCollection('articles') : [];
+
+const linkedCrops = related_crops
+  .map(slug => allPlants.find(p => p.id === slug))
+  .filter(Boolean);
+
+const linkedArticles = related_articles
+  .map(slug => allArticles.find(a => a.id === slug))
+  .filter(Boolean);
+
+const definedTermJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTerm',
+  name: term,
+  description: summary,
+  inDefinedTermSet: {
+    '@type': 'DefinedTermSet',
+    name: 'Garden ROI Glossary',
+    url: new URL('/glossary/', Astro.site).toString(),
+  },
+};
+---
+
+<ContentLayout
+  title={`${term}: Definition and Growing Context`}
+  description={summary.length <= 160 ? summary : summary.slice(0, 157) + '...'}
+  breadcrumbs={[{ label: 'Glossary', href: '/glossary/' }]}
+  pageJsonLd={definedTermJsonLd}
+>
+  <div class="term-header">
+    <span class="category-badge">{categoryLabels[category]}</span>
+    <h1 class="page-title">{term}</h1>
+    <p class="term-summary">{summary}</p>
+  </div>
+
+  <div class="prose term-body">
+    <Content />
+  </div>
+
+  {(linkedCrops.length > 0 || linkedArticles.length > 0) && (
+    <div class="related-section">
+      {linkedCrops.length > 0 && (
+        <div class="related-group">
+          <h2 class="related-heading">Related crops</h2>
+          <ul class="related-list">
+            {linkedCrops.map(crop => (
+              <li>
+                <a href={`/crops/${crop!.id}/`} class="related-link">
+                  {crop!.data.name}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+      {linkedArticles.length > 0 && (
+        <div class="related-group">
+          <h2 class="related-heading">Related articles</h2>
+          <ul class="related-list">
+            {linkedArticles.map(article => (
+              <li>
+                <a href={`/${article!.data.category}/${article!.id}/`} class="related-link">
+                  {article!.data.title}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </div>
+  )}
+
+  <div class="back-link-row">
+    <a href="/glossary/" class="back-link">&larr; Back to Glossary</a>
+  </div>
+</ContentLayout>
+
+<style>
+  .term-header {
+    margin-bottom: var(--space-l);
+  }
+
+  .category-badge {
+    display: inline-block;
+    font-size: var(--text-micro);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-secondary);
+    background: rgba(92, 61, 46, 0.08);
+    border-radius: var(--radius-full);
+    padding: 2px var(--space-xs);
+    margin-bottom: var(--space-xs);
+  }
+
+  .page-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h1);
+    color: var(--color-primary);
+    margin: 0 0 var(--space-s);
+    line-height: 1.2;
+  }
+
+  .term-summary {
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    line-height: 1.6;
+    margin: 0;
+    border-left: 3px solid var(--color-primary);
+    padding-left: var(--space-m);
+  }
+
+  .term-body {
+    margin-bottom: var(--space-l);
+  }
+
+  .related-section {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-l);
+    padding: var(--space-l);
+    background: rgba(248, 249, 245, 0.97);
+    border: 1px solid var(--color-card-border);
+    border-radius: var(--radius-m);
+    margin-bottom: var(--space-l);
+  }
+
+  .related-heading {
+    font-family: var(--font-display);
+    font-size: var(--text-h3);
+    color: var(--color-primary);
+    margin: 0 0 var(--space-s);
+  }
+
+  .related-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs);
+  }
+
+  .related-link {
+    display: inline-block;
+    padding: var(--space-xs) var(--space-s);
+    background: var(--color-card-bg);
+    border: 1px solid var(--color-card-border);
+    border-radius: var(--radius-full);
+    color: var(--color-primary);
+    text-decoration: none;
+    font-size: var(--text-small);
+    font-weight: 500;
+    transition: background 0.12s, color 0.12s, border-color 0.12s;
+  }
+
+  .related-link:hover {
+    background: var(--color-primary);
+    color: var(--color-white);
+    border-color: var(--color-primary);
+  }
+
+  .back-link-row {
+    padding-top: var(--space-m);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .back-link {
+    font-size: var(--text-small);
+    font-weight: 500;
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+
+  .back-link:hover {
+    text-decoration: underline;
+  }
+</style>

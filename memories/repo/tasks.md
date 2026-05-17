@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: May 13, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E040 + D001-D012 + SR001-SR004 + S001-S002 + Z001-Z008 + R001-R008 + HG001-HG008 complete)_
+_Last updated: May 15, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E040 + D001-D012 + SR001-SR004 + S001-S002 + Z001-Z008 + R001-R008 + HG001-HG008 + N001-N003 complete; 424 pages; site audit complete)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -7253,7 +7253,7 @@ Expand `homestead` category coverage from 16 to 24 articles. These are practical
 ## New Capabilities — N001-N002
 
 ### N001 — Companion Planting Correlator
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Copilot
 **Files:** `src/pages/tools/companion-planting.astro`
 **What:** Interactive tool at `/tools/companion-planting/` — select a crop, see what grows well with it and what to avoid. Data already exists in `companion_plants` frontmatter on every crop page. Build a reverse index at build time.
@@ -7270,7 +7270,7 @@ Expand `homestead` category coverage from 16 to 24 articles. These are practical
 ---
 
 ### N002 — Glossary
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Copilot (infra) + Claude (content)
 **Files:** `src/pages/glossary/index.astro`, `src/pages/glossary/[term].astro`, `src/content/resources/` (or a new `glossary` collection)
 **What:** Garden and ROI terminology reference at `/glossary/`. ~60-80 terms with definitions, each linking to relevant crop pages and articles. Strong long-tail SEO surface.
@@ -7289,3 +7289,81 @@ Expand `homestead` category coverage from 16 to 24 articles. These are practical
 - Terms to cover: direct sow, transplant, succession planting, cold stratification, scarification, damping off, blossom end rot, companion planting, cover crop, green manure, nitrogen fixation, pH, soil amendment, compost, vermicompost, mulch, raised bed, square foot gardening, intensive planting, crop rotation, heirloom, hybrid, F1, open-pollinated, GMO, organic, integrated pest management, beneficial insects, row cover, frost date, hardiness zone, microclimate, vernalization, photoperiod, day-neutral, short-day, long-day, determinate, indeterminate, curing, blanching, dehydrating, water activity, headspace, botulism, pressure canning, water bath canning, fermentation, lacto-fermentation, root cellar, cold storage, season extension, cold frame, hoop house, grow light, DLI, photoperiodism, transpiration, wilt, crown rot, fusarium, powdery mildew, aphid, nematode, allelopathy, intercropping, polyculture.
 
 **Acceptance (Copilot phase):** Collection schema defined, index + term pages render, 3 stub entries work, `npx astro build` passes.
+
+---
+
+## Site Audit — N003
+
+### N003 — Site Audit
+**Status:** `[x]`
+**Agent:** Copilot
+**What:** Systematic quality check across 424 pages covering internal linking coverage, SEO meta completeness, hero image gaps, and keyboard accessibility on interactive tools.
+
+**Scope:**
+
+**1. Internal linking audit (automated)**
+- Crop pages: every crop page must link to at least 2 related crops and 1 article. Report slugs that fall short.
+- Articles: every article must link to at least 2 crop pages and 1 related article. Report filenames that fall short.
+- Orphan check: find any crop or article pages with zero inbound links from other content pages (excluding index/listing pages).
+
+**2. SEO meta audit (automated)**
+- Meta description length: flag any description outside 150–160 chars. Check both plant frontmatter `description` field and article frontmatter `description`.
+- Title length: flag any `title` that exceeds 55 chars (BaseLayout appends ` | Garden ROI`, so effective max is 55 before that suffix).
+- Missing `description` fields on any plant or article.
+
+**3. Hero image coverage (automated)**
+- Cross-reference every plant slug against `public/images/crops/*.webp`. List all slugs with no matching image file.
+- Cross-reference every article slug against `public/images/articles/*.webp`. List all slugs with no matching image file.
+
+**4. Keyboard accessibility on interactive tools (manual check)**
+- Tools to check: `/plan/what-to-plant-now/`, `/plan/budget/`, `/tools/companion-planting/`, `/glossary/` (category filter), search modal.
+- Verify: all interactive elements reachable by Tab, Enter/Space activates buttons/chips, focus ring visible, no keyboard traps.
+- Fix any failures found.
+
+**Deliverable:** For items 1–3, produce a clear findings report in the terminal (no markdown files). For item 4, fix issues in-place. Run `npx astro build` after any fixes and confirm 0 errors.
+
+**Acceptance:** Audit report produced for 1–3 (even if findings are "none"), keyboard issues in item 4 fixed, build passes 0 errors.
+
+---
+
+## Post-Audit Fixes — N004-N006
+
+### N004 — Article Title Length Fixes
+**Status:** `[ ]`
+**Agent:** Copilot
+**What:** 50 article titles exceed 55 chars. Google truncates `<title>` tags; the full rendered title is `[article title] | Garden ROI` so the article title itself must be ≤55 chars.
+**How:**
+- Run a script to list all articles with `title` > 55 chars and their current lengths.
+- Shorten each title to ≤55 chars while preserving the primary keyword and meaning. Do not change the article slug or URL.
+- Titles must remain keyword-first per AGENTS.md SEO standards.
+- Update the `title` field in each article's frontmatter.
+- Run `npx astro build` and confirm 0 errors.
+**Acceptance:** Zero articles with title > 55 chars, build passes, no slugs or URLs changed.
+
+---
+
+### N005 — Download Missing Article Hero Images
+**Status:** `[ ]`
+**Agent:** Copilot
+**What:** 57 of 105 articles have no hero image in `public/images/articles/`. These are from the HG-series, ROI analysis, and pest/care sprints. Missing images fall back to `/logo.png` for OG sharing.
+**How:**
+- Ensure `UNSPLASH_KEY` env var is set.
+- Review `scripts/download-article-images.mjs` - add any search term overrides needed for specialty topics (e.g. "lacto-fermentation", "pressure canning", "squash vine borer").
+- Run `node scripts/download-article-images.mjs` - it skips slugs that already have a `.webp`.
+- Commit new `.webp` files.
+- Run `npx astro build` and confirm 0 errors.
+**Acceptance:** All 105 articles have `/images/articles/[slug].webp`, build passes.
+
+---
+
+### N006 — Internal Linking Cross-Link Pass
+**Status:** `[ ]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**What:** 35 article orphans and 46 articles below the ≥2 crop + ≥1 article linking threshold. The fix is adding relevant internal links into article bodies - not rewriting content, just inserting contextual links where appropriate.
+**Scope:**
+- Focus on the 35 fully orphaned articles first (zero inbound links from any other content page). These are the highest-priority because they receive no PageRank from the internal link graph.
+- For each orphaned article: find 2-3 related articles or crop pages that naturally mention the same topic, and add a link from those pages to the orphaned article.
+- Do not manufacture links - only add them where the anchor text fits naturally in existing sentences.
+- The 53 orphaned crop pages (specialty/exotic crops with no inbound links) are lower priority - note them as a future pass but do not attempt all 53 in this story.
+**Acceptance:** At least 30 of 35 orphaned articles have ≥1 inbound link from another content page, build passes 0 errors.

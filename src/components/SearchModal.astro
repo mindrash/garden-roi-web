@@ -50,7 +50,34 @@
   backdrop?.addEventListener('click', closeSearch);
   closeBtn?.addEventListener('click', closeSearch);
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && modal && !modal.hidden) closeSearch();
+    if (!modal || modal.hidden) return;
+
+    if (e.key === 'Escape') {
+      closeSearch();
+      return;
+    }
+
+    // Focus trap: keep Tab cycling inside the modal
+    if (e.key === 'Tab') {
+      const focusable = modal.querySelectorAll<HTMLElement>(
+        'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
+      );
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (!first) return;
+
+      if (e.shiftKey) {
+        if (document.activeElement === first) {
+          e.preventDefault();
+          last?.focus();
+        }
+      } else {
+        if (document.activeElement === last) {
+          e.preventDefault();
+          first?.focus();
+        }
+      }
+    }
   });
 
   function loadPagefind() {
@@ -142,6 +169,11 @@
   .search-close:hover {
     color: var(--color-text-primary);
     background-color: var(--color-highlight);
+  }
+
+  .search-close:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
   }
 
   .search-dev-note {

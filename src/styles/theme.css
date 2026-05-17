@@ -422,6 +422,13 @@ li {
   border: 0;
 }
 
+/* Global keyboard focus ring — applied only via keyboard (not mouse) */
+:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+  border-radius: var(--radius-s);
+}
+
 /* Skip to main content link */
 .skip-to-content {
   position: absolute;

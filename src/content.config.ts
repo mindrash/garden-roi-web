@@ -36,4 +36,15 @@ const articles = defineCollection({
   }),
 });
 
-export const collections = { plants, articles };
+const glossary = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/glossary' }),
+  schema: z.object({
+    term: z.string(),
+    summary: z.string(),
+    category: z.enum(['growing', 'preservation', 'soil', 'economics', 'pests', 'tools']),
+    related_crops: z.array(z.string()).default([]),
+    related_articles: z.array(z.string()).default([]),
+  }),
+});
+
+export const collections = { plants, articles, glossary };
