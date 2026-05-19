@@ -14,6 +14,15 @@ sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Borage, Spinach, Lettuce, Thyme]
 description: "Strawberry (Fragaria ananassa) - 1.5 lb per plant at $4.99/lb starting in year two. Suppress first-year flowers to build root mass for higher second-year yield."
 hero_image: /images/crops/strawberry.webp
+faq:
+  - q: "How much do strawberries yield per plant?"
+    a: "An established strawberry plant produces about 1.5 lbs in its first fruiting year. Second-year plants with runner fill-in can yield 2 to 3 lbs per plant."
+  - q: "How long do strawberries take to produce fruit?"
+    a: "June-bearing varieties produce one large crop 60 to 90 days after spring planting. Everbearing and day-neutral types produce lighter harvests from spring through fall."
+  - q: "Is growing strawberries worth it financially?"
+    a: "Grocery strawberries average $4.99/lb for conventional. At that price, each plant yields $7.50 in first-year value. Established beds multiply this as runners spread and production increases."
+  - q: "How do you store strawberries?"
+    a: "Refrigerate unwashed strawberries in a single layer on paper towels for 3 to 5 days. Wash just before eating. For large harvests, freeze whole hulled berries on a sheet tray before bagging."
 ---
 
 The cultivated strawberry (*Fragaria* × *ananassa*) is an octoploid hybrid that doesn't exist in the wild  -  it was bred in 18th-century France from two American species, *F. virginiana* and *F. chiloensis*. What this history means practically is that modern garden strawberries are highly productive but also highly selected, with characteristics that respond well to deliberate management and poorly to neglect.

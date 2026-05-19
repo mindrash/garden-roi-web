@@ -77,7 +77,20 @@ const top20Ids = new Set(
 
 const isTop20 = top20Ids.has(plant.id);
 
-const faqJsonLd = isTop20
+const faqJsonLd = plant.data.faq && plant.data.faq.length > 0
+  ? {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": plant.data.faq.map((item) => ({
+        "@type": "Question",
+        "name": item.q,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": item.a,
+        },
+      })),
+    }
+  : isTop20
   ? {
       "@context": "https://schema.org",
       "@type": "FAQPage",
@@ -217,6 +230,21 @@ const articleJsonLd = {
     <div class="prose plant-body">
       <Content />
     </div>
+
+    <!-- FAQ section -->
+    {plant.data.faq && plant.data.faq.length > 0 && (
+      <div class="faq-section">
+        <h2 class="related-title">Frequently Asked Questions</h2>
+        <div class="faq-list">
+          {plant.data.faq.map((item) => (
+            <details class="faq-item">
+              <summary class="faq-question">{item.q}</summary>
+              <p class="faq-answer">{item.a}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+    )}
 
     <!-- Related Articles (M003) -->
     {relatedArticles.length > 0 && (
@@ -445,6 +473,61 @@ const articleJsonLd = {
     font-size: var(--text-body);
     margin: 0;
     max-width: 500px;
+  }
+
+  .faq-section {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+  }
+
+  .faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+  }
+
+  .faq-item {
+    background-color: var(--color-white);
+    border-radius: var(--radius-m);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    overflow: hidden;
+  }
+
+  .faq-question {
+    display: block;
+    padding: var(--space-m) var(--space-l);
+    font-size: var(--text-body);
+    font-weight: 600;
+    color: var(--color-text-primary);
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+  }
+
+  .faq-question::-webkit-details-marker {
+    display: none;
+  }
+
+  .faq-question::before {
+    content: '+';
+    display: inline-block;
+    margin-right: var(--space-s);
+    font-weight: 700;
+    color: var(--color-primary);
+    transition: transform 0.15s;
+  }
+
+  details[open] .faq-question::before {
+    content: '-';
+  }
+
+  .faq-answer {
+    padding: 0 var(--space-l) var(--space-m) calc(var(--space-l) + 1.2em);
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    line-height: var(--leading-body);
+    margin: 0;
   }
 
   @media (max-width: 700px) {

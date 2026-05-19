@@ -14,6 +14,15 @@ sunlight: Full sun to partial shade (4–6 hours minimum; accepts afternoon shad
 companion_plants: [Dill, Nasturtium, Garlic]
 description: "Kale (Brassica oleracea var. acephala) - 5.5 lb per plant at $3.50/lb over an 8-month season. Harvest outer leaves every 7-14 days; plant survives frost to Zone 5."
 hero_image: /images/crops/kale.webp
+faq:
+  - q: "How much does a kale plant yield?"
+    a: "A single kale plant can produce 5 to 6 lbs of leaves over the season with continuous harvest of outer leaves. Plants remain productive for multiple months in cool weather."
+  - q: "How long does kale take to grow?"
+    a: "Kale reaches harvest size in 55 to 75 days. You can begin taking outer leaves around day 50, letting the center continue to grow."
+  - q: "Is kale worth growing at home?"
+    a: "Grocery kale averages $3.50/lb. One seed packet ($3) yields multiple plants producing $19 or more in harvest value - over 6x return on seed cost."
+  - q: "How do you store fresh kale?"
+    a: "Refrigerate kale unwashed in a plastic bag with a damp paper towel for up to a week. Blanch and freeze for long-term storage of large harvests."
 ---
 
 Kale (*Brassica oleracea* var. *acephala*) is one of the few vegetables that actually gets better after the first frost. Leave it in the ground through November in Zone 6, and the same plant you were pulling tough leaves off in August becomes something noticeably different - sweeter, less bitter, more tender. Most people who don't like kale have only eaten August kale. That's not the best version of the plant.

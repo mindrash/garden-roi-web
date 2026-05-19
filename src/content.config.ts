@@ -21,6 +21,7 @@ const plants = defineCollection({
     indoor_weeks_needed: z.number().int().min(0).default(0),
     hero_image: z.string().optional(),
     description: z.string().optional(),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
   }),
 });
 

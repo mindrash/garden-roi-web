@@ -14,6 +14,15 @@ sunlight: Partial shade to full sun (4–6 hours); afternoon shade preferred in 
 companion_plants: [Tomato, Cabbage, Broccoli, Garden Pea]
 description: "Mint (Mentha spp.) - hardy Zones 3-9 perennial. One 12-inch container produces 0.25-0.5 lb fresh per season at $4-8/lb (USDA AMS). Grow in a container - rhizomes spread aggressively in open soil."
 hero_image: /images/crops/mint.webp
+faq:
+  - q: "How much does a mint plant produce?"
+    a: "A single container mint plant produces about 0.35 lbs of fresh leaves per season when harvested regularly. In-ground plants spread aggressively and can produce several pounds from a small patch."
+  - q: "How long does mint take to establish?"
+    a: "Mint takes 90 to 120 days to become a full, productive plant from a new starter. By the second year, established plants produce heavily each spring."
+  - q: "Is growing mint worth it financially?"
+    a: "Grocery fresh mint averages $6/lb and is sold in small bunches for $2 to $4 each. A $4 potted plant provides years of free harvests and is one of the easiest herbs to propagate from cuttings."
+  - q: "How do you store fresh mint?"
+    a: "Store fresh mint stems in a glass of water at room temperature for up to a week. For longer storage, freeze whole leaves flat on a tray then bag them, or dry in a low oven until brittle."
 ---
 
 Mint (*Mentha* spp.) is one of the easiest herbs to grow and one of the fastest to become a problem. Both things are true, and which one defines your experience depends entirely on the first decision you make.

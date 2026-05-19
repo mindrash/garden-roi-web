@@ -14,6 +14,15 @@ sunlight: Partial to full sun (4–6 hours); afternoon shade beneficial in warm 
 companion_plants: [Carrot, Radish, Strawberry, Chives]
 description: "Lettuce (Lactuca sativa) - 1.5 lb per plant at $3.50/lb vs. $12-20/lb for packaged greens at retail. Succession plant every 2-3 weeks through spring and fall."
 hero_image: /images/crops/lettuce.webp
+faq:
+  - q: "How long does lettuce take to grow?"
+    a: "Leaf lettuce is ready to harvest in 45 to 65 days. Baby leaf can be cut in as little as 30 days. Head lettuce such as romaine or butterhead takes the full 65 days."
+  - q: "How much does a lettuce plant yield?"
+    a: "A loose-leaf lettuce plant produces about 1.5 lbs over its productive life with repeated outer-leaf harvesting. Cut-and-come-again varieties can be harvested multiple times from the same plant."
+  - q: "Is growing lettuce worth it financially?"
+    a: "Grocery romaine or leaf lettuce averages $3.50/lb. A $2.50 seed packet can grow 20 or more plants, making the per-plant seed cost under 15 cents against $5 or more in harvest value each."
+  - q: "How do you store lettuce?"
+    a: "Store lettuce in the refrigerator in a container lined with paper towels to absorb moisture. Whole heads keep up to 2 weeks; cut leaves last 3 to 5 days."
 ---
 
 Lettuce (*Lactuca sativa*) is probably the most immediate win available to a beginning home gardener. Forty-five days from seed to first harvest. A $2.49 packet. And if you're growing baby leaf in a 4x2 bed with decent succession planting, you can realistically pull 8 to 12 pounds of greens over a spring and fall season combined - greens that sell for $6 to $10 per pound at specialty grocers.

@@ -14,6 +14,15 @@ sunlight: Full sun (6+ hours)
 companion_plants: ["Green Bean", "Mint"]
 description: "Potato (Solanum tuberosum) yields 5 lb per seed piece on average. Fingerling and purple varieties command $3-5/lb, tripling the standard ROI on specialty markets."
 hero_image: /images/crops/potato.webp
+faq:
+  - q: "How much do potatoes yield per plant?"
+    a: "Each seed potato piece typically produces 5 to 8 potatoes, yielding about 1 lb per plant in average conditions. A 10-foot row (10 to 15 seed pieces) yields 5 to 10 lbs."
+  - q: "How long do potatoes take to grow?"
+    a: "Potatoes take 70 to 90 days from planting seed potatoes to harvest. New potatoes can be dug at 60 to 70 days; mature storage potatoes are ready at 90 or more days."
+  - q: "Is growing potatoes worth it financially?"
+    a: "Grocery potatoes average $1.25/lb - among the lowest-cost produce. The real value is variety selection: fingerling, purple, and yellow varieties unavailable at most stores can fetch $2 to $4/lb at farmers markets."
+  - q: "How do you store potatoes?"
+    a: "Cure freshly dug potatoes at 60 to 65 degrees for 2 weeks to toughen the skin, then store at 40 to 50 degrees in darkness. Do not refrigerate - cold converts starch to sugar and causes discoloration when cooked."
 ---
 
 Potatoes (*Solanum tuberosum*) are one of the more reliable high-yield crops in the home garden. A single seed piece - a cut chunk of certified seed potato - typically returns 5–10 pounds of tubers. At $1.25/lb retail (USDA ERS, *Vegetables and Pulses Yearbook*, 2023), that's $6–$12.50 per planting hole. Fingerling and purple varieties at specialty and farmers market prices of $3–$5/lb change that math considerably.

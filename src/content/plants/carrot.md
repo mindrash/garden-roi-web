@@ -14,6 +14,15 @@ sunlight: Full sun (6+ hours minimum)
 companion_plants: [Tomato, Lettuce]
 description: "Carrot (Daucus carota) - a $2.49 packet plants multiple rows returning 5+ lbs at $1.75/lb conventional or $4-6/lb for heirloom varieties at market. Loose, rock-free soil prevents forking and split roots."
 hero_image: /images/crops/carrot.webp
+faq:
+  - q: "How long do carrots take to grow?"
+    a: "Carrots take 70 to 80 days from seed to harvest. Germination is slow (10 to 21 days), so patience is required early; once roots form, growth is steady."
+  - q: "How much do carrots yield per planting?"
+    a: "A 10-foot row of carrots spaced 3 inches apart yields roughly 5 lbs. Dense planting increases count but results in smaller individual roots."
+  - q: "Is growing carrots worth it financially?"
+    a: "Grocery carrots average $1.75/lb. A $2.49 seed packet can fill multiple rows yielding 15 to 20 lbs total, returning well over the seed cost - especially for specialty varieties unavailable at most stores."
+  - q: "How do you store carrots?"
+    a: "Refrigerate carrots in a sealed container with a damp paper towel. Remove tops before storing - they draw moisture from the root. For bulk storage, pack in damp sand in a cool root cellar."
 ---
 
 Carrot (*Daucus carota* subsp. *sativus*) is one of those crops that looks simple and isn't. The seed is cheap, the days to maturity are reasonable, and the plant itself doesn't ask for much above ground. Below ground is where things go wrong. If your soil isn't right - loose, deep, rock-free, well-drained - you will pull up forked, stubby, split roots that taste fine but look like something that lost an argument with a shovel. Get the soil right and carrots are one of the most efficient vegetables you can grow.

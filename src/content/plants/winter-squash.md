@@ -14,6 +14,15 @@ sunlight: Full sun (6-8 hours minimum)
 companion_plants: [Green Bean, Corn, Nasturtium, Dill]
 description: "Winter Squash (Cucurbita maxima) - butternut yields 10-15 lb per plant at $1.99/lb, storing 3-6 months when cured. One planting covers needs into late winter."
 hero_image: /images/crops/winter-squash.webp
+faq:
+  - q: "How much does a winter squash plant yield?"
+    a: "A single winter squash vine typically produces 2 to 4 squash per plant, weighing 8 to 15 lbs total depending on variety. Butternut averages 3 squash; acorn and delicata yield more, smaller fruits."
+  - q: "How long does winter squash take to grow?"
+    a: "Winter squash takes 85 to 100 days from direct sowing to harvest. The fruit should be picked after the vine dies back and the skin resists a fingernail."
+  - q: "Is growing winter squash worth it financially?"
+    a: "Grocery winter squash averages $1.99/lb. A vine yielding 12 lbs returns about $24 against a $3.50 seed investment - nearly 7x. Cured squash also stores 3 to 6 months without refrigeration."
+  - q: "How do you store winter squash?"
+    a: "Cure freshly harvested squash at 80 to 85 degrees for 10 to 14 days to harden the skin, then store at 50 to 60 degrees in a dry place. Properly cured butternut squash keeps 3 to 6 months."
 ---
 
 The term "winter squash" isn't a species name - it's a storage category. Most of the popular varieties sold in grocery stores come from one of three species: *Cucurbita maxima* (kabocha, Hubbard, Buttercup, Jarrahdale), *Cucurbita moschata* (butternut), and *Cucurbita pepo* (acorn, delicata, spaghetti). All are annual vines, all require a long frost-free season, and all store for months after harvest. The "winter" refers to when you eat them, not when you grow them.

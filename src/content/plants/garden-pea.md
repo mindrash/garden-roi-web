@@ -14,6 +14,15 @@ sunlight: Full sun to partial shade (4-6 hours minimum)
 companion_plants: [Carrot, Radish, Lettuce, Mint]
 description: "Garden Pea (Pisum sativum) - 3 lb per 10-ft row at $3.00/lb. Direct seed 4-6 weeks before last frost; freshness matters as sugar drops 50% within 24 hours."
 hero_image: /images/crops/garden-pea.webp
+faq:
+  - q: "How long do garden peas take to grow?"
+    a: "Garden peas take 55 to 70 days from direct sowing to harvest. They are cool-season crops - plant in early spring 4 to 6 weeks before last frost, or plant in late summer for a fall harvest."
+  - q: "How much do garden peas yield?"
+    a: "A 10-foot row of peas yields about 3 lbs of shelled peas. For sugar snap or snow peas, yield is higher because you eat the entire pod."
+  - q: "Is growing garden peas worth it financially?"
+    a: "Grocery fresh peas average $3/lb. A $2.50 seed packet can fill a 20-foot row yielding 5 to 6 lbs. The bigger value is freshness: homegrown peas lose sugar within hours of harvest."
+  - q: "How do you store garden peas?"
+    a: "Fresh peas are best used the day of harvest. If storing, refrigerate unshelled for 1 to 2 days. Blanch and freeze immediately for the best frozen quality - sugar converts to starch within hours."
 ---
 
 Garden peas (*Pisum sativum*) operate on a different calendar than most vegetable crops. You plant them before the last frost - not after - and you're harvesting before the summer heat arrives to end them. In Zones 5 through 7, that means seeding in March or early April and pulling the plants by July. The window is real but it's short, which is exactly why succession planting matters more for peas than for almost anything else in the spring garden.

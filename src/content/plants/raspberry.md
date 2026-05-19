@@ -14,6 +14,15 @@ sunlight: Full sun (6+ hours)
 companion_plants: ["Garlic", "Arugula"]
 description: "Raspberry (Rubus idaeus) - 2-4 lb per cane cluster at $5-8/lb. Spreads via suckers for free expansion. Everbearing types yield twice per season."
 hero_image: /images/crops/raspberry.webp
+faq:
+  - q: "How much do raspberry canes yield?"
+    a: "A single established raspberry cane produces about 2 lbs per season. A 10-foot row of canes (6 to 8 plants) yields 12 to 16 lbs at maturity."
+  - q: "How long do raspberry plants take to produce?"
+    a: "Summer-bearing raspberries fruit in their second year from planting; fall-bearers can produce in their first year on new canes. Full production takes 2 to 3 years."
+  - q: "Is growing raspberries worth it financially?"
+    a: "Fresh raspberries average $6/lb at grocery stores. At 2 lbs per cane, a 4-cane planting returns $48 annually against a roughly $20 initial plant investment - payback within 1 to 2 years."
+  - q: "How do you store raspberries?"
+    a: "Raspberries are highly perishable. Refrigerate in a single layer on paper towels and use within 2 days. Spread on a tray, freeze 2 hours, then bag for longer storage."
 ---
 
 Fresh raspberries run $5–$8 per half-pint at retail (USDA AMS Market News, 2023). A half-pint is less than a third of a pound. That makes raspberry one of the highest-value crops per square foot in a home garden, and unlike most high-value produce, it produces year after year once established with minimal per-season investment.

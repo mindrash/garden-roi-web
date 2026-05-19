@@ -14,6 +14,15 @@ sunlight: Full sun to partial shade (4–6 hours; afternoon shade extends season
 companion_plants: [Tomato, Carrot, Cucumber, Green Bean]
 description: "Arugula (Eruca vesicaria) - 0.5 lb per sq ft at $8/lb retail. Matures in 28 days, making it the fastest-payback salad green for spring and fall gardens."
 hero_image: /images/crops/arugula.webp
+faq:
+  - q: "How long does arugula take to grow?"
+    a: "Arugula is one of the fastest crops in the garden - ready to cut in 28 to 45 days from seed. Baby leaves can be harvested in as little as 21 days."
+  - q: "How much does arugula yield?"
+    a: "A standard planting yields around 0.5 lbs per cutting. With successive cuts from the same plants, a 4-foot row can yield multiple pounds over a season."
+  - q: "Is growing arugula worth it financially?"
+    a: "Grocery arugula costs $8/lb or more. A $2.50 seed packet planted in a small bed can produce 3 or more cuttings. Plan two plantings - one in spring, one in fall - since it bolts in heat."
+  - q: "How do you store arugula?"
+    a: "Store arugula in the refrigerator wrapped in a damp paper towel inside a loose bag. Use within 3 to 5 days - it wilts quickly after cutting."
 ---
 
 Arugula is the fastest-payback crop in a home garden. A single square foot of bed space seeded with arugula costs roughly $0.10 in seed. In 30 to 40 days, that square foot yields 0.25 to 0.5 pounds of baby greens. At $6 to $10 per pound retail (USDA Agricultural Marketing Service Specialty Crops Market News, 2023-2024 terminal market averages for packaged baby arugula), that's $1.50 to $5.00 in recovered grocery cost from a single square foot in just over a month. No other food crop - not tomatoes, not peppers, not beans - approaches that payback speed. Tomatoes require 60 to 80 days before first fruit and heavy infrastructure; arugula requires a rake and some seed.

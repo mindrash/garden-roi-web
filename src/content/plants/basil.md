@@ -14,6 +14,15 @@ sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Tomato, Oregano]
 description: "Sweet Basil (Ocimum basilicum) - Genovese type yields 0.5-1.5 lb per plant per season at $6-10/lb loose retail (USDA AMS). Pinch flower buds weekly to extend the harvest window."
 hero_image: /images/crops/basil.webp
+faq:
+  - q: "How much basil does one plant produce?"
+    a: "A single basil plant produces around 0.5 lbs of fresh leaves over a growing season with regular pinching. Heavy harvesting encourages branching and extends productive life."
+  - q: "How long does basil take to grow?"
+    a: "Basil takes 50 to 75 days from seed to a mature, productive plant. It begins producing harvestable leaves around day 30 when about 6 inches tall."
+  - q: "Is growing basil worth it financially?"
+    a: "Grocery basil costs $8/lb or more as fresh bunches. A $3.50 seed packet can grow multiple plants, each producing 0.5 lbs or more - returns of 10x on seed cost are common in a good season."
+  - q: "How do you store fresh basil?"
+    a: "Fresh basil keeps best at room temperature in a glass of water like cut flowers. Refrigeration causes blackening. For longer storage, freeze in olive oil in ice cube trays or blend into pesto and freeze."
 ---
 
 Basil (*Ocimum basilicum*) is one of the few culinary herbs where a single healthy plant genuinely offsets what you'd spend at the grocery store over a season. The price picture is more complicated than it first looks: a $3–$4 clamshell at the supermarket weighs 0.75 oz, which works out to $64–$85/lb. That's the retail packaging premium, not the commodity price of the herb itself. Loose bunch fresh basil at farmers markets and grocery stores runs $6–$10/lb for conventional and $10–$14/lb for organic, based on USDA Agricultural Marketing Service retail price surveys. Those are the numbers that matter for ROI comparisons - the clamshell price tells you what the packaging costs, not what the basil is worth. You won't replicate commercial greenhouse yields in a raised bed, but you also don't need to. Three to four well-managed plants will cover a typical household through the growing season and leave plenty for freezing.

@@ -14,6 +14,15 @@ sunlight: Full sun (6-8 hours)
 companion_plants: ["Strawberry", "Arugula"]
 description: "Blueberry (Vaccinium corymbosum) - 5-10 lb/bush from year 3+, $5-8/lb retail. 20-year productive life. Soil pH 4.5-5.5 is non-negotiable."
 hero_image: /images/crops/blueberry.webp
+faq:
+  - q: "How much do blueberries yield per bush?"
+    a: "A mature blueberry bush (3 to 4 years old) produces 5 to 10 lbs annually. First-year plants yield little; production peaks around year 4 to 6."
+  - q: "How long does it take for blueberry bushes to produce fruit?"
+    a: "New blueberry plants produce a small amount in years 2 to 3 and reach full production by year 4 to 6. The 60 to 90 day figure refers to the time from flowering to ripe fruit."
+  - q: "Is growing blueberries worth it financially?"
+    a: "Fresh blueberries average $5/lb at grocery stores. A mature bush yielding 5 or more lbs returns $25 or more annually against a one-time $8.99 plant cost. Payback typically occurs by year 3."
+  - q: "How do you store blueberries?"
+    a: "Refrigerate unwashed blueberries for up to 2 weeks. Freeze on a single-layer sheet tray for 2 hours before transferring to bags - frozen blueberries keep 12 months and retain their nutrition well."
 ---
 
 Blueberry (*Vaccinium corymbosum*) plants routinely live 20 to 30 years in home gardens, and a mature bush in good soil returns more in fresh fruit value than most annuals ever will. The catch is year one and year two. You won't harvest much, and you shouldn't try. The establishment period is the investment, and skipping it by harvesting too early is the most common reason blueberry plantings underperform.

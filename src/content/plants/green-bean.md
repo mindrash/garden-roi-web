@@ -14,6 +14,15 @@ sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Carrot, Cucumber, Squash]
 description: "Green Bean (Phaseolus vulgaris) - 3-5 lb per 10-ft row at $2.26/lb. Bush types produce all at once for preserving; pole types yield continuously for months."
 hero_image: /images/crops/green-bean.webp
+faq:
+  - q: "How long do green beans take to grow?"
+    a: "Bush green beans are ready in 50 to 65 days from direct sowing. They produce most of their crop over 2 to 3 weeks, so succession planting every 3 weeks extends harvest through summer."
+  - q: "How much do green beans yield per planting?"
+    a: "A 10-foot row of bush beans yields about 3 lbs total. Pole beans take slightly longer but produce more per plant over a longer season."
+  - q: "Is growing green beans worth it financially?"
+    a: "Grocery green beans average $2.26/lb. A $3.50 seed packet planted in two 10-foot rows can yield 6 or more lbs ($13.50 value) - nearly 4x the seed cost."
+  - q: "How do you store green beans?"
+    a: "Fresh green beans keep in the refrigerator for about a week. For long-term storage, blanch for 3 minutes and freeze in single layers before bagging; they keep 8 to 12 months."
 ---
 
 Green bean (*Phaseolus vulgaris*) is one of those crops where the case for growing your own doesn't rest on complex economics. It rests on eating a bean you picked twenty minutes ago versus eating a bean that was harvested three weeks ago, refrigerated, shipped, and shelved. The difference is real enough that people who have grown beans for years stop buying them fresh at the store almost entirely - not because store beans are terrible, but because homegrown beans at peak flavor make them taste that way by comparison.

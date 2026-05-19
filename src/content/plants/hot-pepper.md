@@ -14,6 +14,15 @@ sunlight: Full sun (8+ hours preferred)
 companion_plants: [Tomato, Carrot, Basil, Onion]
 description: "Hot Pepper (Capsicum annuum) - cayenne yields 4 lb fresh per plant, drying to 0.8 lb at $15/lb. Jalapeños yield 25-35 pods per plant for fresh use or pickling."
 hero_image: /images/crops/hot-pepper.webp
+faq:
+  - q: "How much do hot pepper plants produce?"
+    a: "A productive hot pepper plant yields about 3 lbs of pods per season. High-heat varieties like habanero and ghost pepper often produce more fruit by count, though smaller in weight."
+  - q: "How long do hot peppers take to grow?"
+    a: "Hot peppers take 70 to 85 days from transplant to first harvest. They are slower than sweet peppers, so start indoors 10 to 12 weeks before last frost."
+  - q: "Is growing hot peppers worth it financially?"
+    a: "Grocery hot peppers average $3.49/lb. A single plant returning 3 lbs yields about $10.50 against a $3.50 transplant - 3x return. Specialty varieties like shishito or Fresno can fetch $5 to $8/lb at farmers markets."
+  - q: "How do you store hot peppers?"
+    a: "Fresh hot peppers keep refrigerated for 1 to 2 weeks. Dry whole peppers in a dehydrator or string them to air-dry. Frozen peppers maintain heat and work well for cooking."
 ---
 
 Hot peppers (*Capsicum annuum*) have a value multiplier that most garden crops don't: fresh, they return $2.00 to $5.00 per pound at retail. Dried, they can return $8.00 to $15.00 per pound. Fermented into hot sauce, the per-ounce value of a jar you made yourself is essentially what you'd pay at a specialty food store. Jalapeños and cayennes are both *C. annuum*, both easy to grow, and both give you options for what to do with the harvest that most vegetables don't.

@@ -1,0 +1,157 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const pageJsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Garden Planning Tools: Budget, ROI, Zone Planner",
+    "description": "Free garden planning tools. Calculate your break-even, estimate ROI by crop, find what to plant now by zone, and look up companion plants.",
+    "url": "https://gardenroi.com/tools/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Garden ROI",
+      "logo": "https://gardenroi.com/logo.png"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://gardenroi.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Tools",
+        "item": "https://gardenroi.com/tools/"
+      }
+    ]
+  }
+];
+---
+
+<BaseLayout
+  title="Garden Planning Tools: Budget, ROI, Zone Planner"
+  description="Free garden planning tools. Calculate your break-even, estimate ROI by crop, find what to plant now by zone, and look up companion plants."
+>
+  {pageJsonLd.map((schema) => (
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  ))}
+
+  <div class="page-header">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <ol>
+          <li><a href="/">Home</a></li>
+          <li aria-current="page">Tools</li>
+        </ol>
+      </nav>
+      <h1>Garden Planning Tools</h1>
+      <p>Free tools to plan your season, estimate returns, and make smarter planting decisions.</p>
+    </div>
+  </div>
+
+  <div class="container tools-page">
+    <div class="tools-grid">
+
+      <a href="/plan/budget/" class="glass-card tool-card">
+        <div class="tool-icon" aria-hidden="true">💰</div>
+        <h2 class="tool-title">Budget Planner</h2>
+        <p class="tool-desc">Select your bed count, size, and crops to estimate total input cost and expected harvest value for the full season.</p>
+        <span class="tool-cta">Open tool →</span>
+      </a>
+
+      <a href="/" class="glass-card tool-card">
+        <div class="tool-icon" aria-hidden="true">📊</div>
+        <h2 class="tool-title">ROI Estimator</h2>
+        <p class="tool-desc">Select any crop and instantly see gross return, net return, and ROI multiple based on real USDA yield and price data.</p>
+        <span class="tool-cta">Estimate ROI →</span>
+      </a>
+
+      <a href="/plan/what-to-plant-now/" class="glass-card tool-card">
+        <div class="tool-icon" aria-hidden="true">🗓️</div>
+        <h2 class="tool-title">What to Plant Now</h2>
+        <p class="tool-desc">Enter your USDA hardiness zone and see exactly which crops to direct-sow, which to start indoors, and which are ready to harvest this month.</p>
+        <span class="tool-cta">Find crops for your zone →</span>
+      </a>
+
+      <a href="/tools/companion-planting/" class="glass-card tool-card">
+        <div class="tool-icon" aria-hidden="true">🌿</div>
+        <h2 class="tool-title">Companion Planting Guide</h2>
+        <p class="tool-desc">Find beneficial plant pairings and incompatibilities for any crop in the database. Covers all 190+ crops with bidirectional companion data.</p>
+        <span class="tool-cta">Find companions →</span>
+      </a>
+
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .breadcrumb ol { display: flex; gap: var(--space-xs); list-style: none; padding: 0; margin: 0 0 var(--space-m); font-size: var(--text-small); }
+  .breadcrumb li { display: flex; align-items: center; gap: var(--space-xs); color: rgba(255, 255, 255, 0.7); }
+  .breadcrumb li:not(:last-child)::after { content: '/'; color: rgba(255, 255, 255, 0.4); }
+  .breadcrumb a { color: rgba(255, 255, 255, 0.85); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-white); text-decoration: underline; }
+
+  .tools-page {
+    padding: var(--space-xl) var(--space-l);
+  }
+
+  .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-l);
+  }
+
+  .tool-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+    text-decoration: none;
+    color: inherit;
+    transition: box-shadow 0.15s, transform 0.15s;
+  }
+
+  .tool-card:hover {
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.22);
+    transform: translateY(-2px);
+  }
+
+  .tool-icon {
+    font-size: 2rem;
+    line-height: 1;
+  }
+
+  .tool-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    color: var(--color-primary);
+    margin: 0;
+  }
+
+  .tool-desc {
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    line-height: 1.6;
+    margin: 0;
+    flex: 1;
+  }
+
+  .tool-cta {
+    font-size: var(--text-small);
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-top: var(--space-xs);
+  }
+
+  @media (max-width: 700px) {
+    .tools-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

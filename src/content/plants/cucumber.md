@@ -14,6 +14,15 @@ sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Green Bean, Dill, Sunflower]
 description: "Cucumber (Cucumis sativus) - 8 lb per plant at $1.78/lb. Trellised plants yield 20-30% more; consistent watering prevents bitter cucurbitacin in the fruit."
 hero_image: /images/crops/cucumber.webp
+faq:
+  - q: "How much does a cucumber plant produce?"
+    a: "A healthy cucumber vine produces about 8 lbs over the season with consistent picking. Leaving cucumbers on the vine slows production, so harvest every 2 to 3 days."
+  - q: "How long do cucumbers take to grow?"
+    a: "Cucumbers take 55 to 70 days from seed to first harvest. Slicing varieties mature around 55 to 60 days; pickling types are similar."
+  - q: "Is growing cucumbers worth it?"
+    a: "At $1.78/lb grocery price, a single vine yielding 8 lbs returns about $14 on a $3 seed investment - nearly 5x. They are low-input and highly productive."
+  - q: "How do you store cucumbers?"
+    a: "Store cucumbers at room temperature for 1 to 2 days or in the warmest part of the refrigerator (crisper) for up to a week. Cold below 50 degrees causes pitting and watery flesh."
 ---
 
 The most compelling math in cucumber growing has nothing to do with fresh eating. It's this: 4 pounds of pickling cucumbers - worth maybe $3 at retail - plus $2 in vinegar, salt, dill, and garlic, packed into jars you already own, produces 4 pints of refrigerator dill pickles. At farmers markets and specialty grocery stores, those pints retail for $5–$7 each. That's $20–$28 of product from $5 in inputs. Scale it up with water bath canning and you're putting up shelf-stable pickles for 12–18 months. A single productive pickling cucumber plant running 8–10 weeks can supply the cucumbers for 15–20 pints of pickles. That's why serious home food preservers grow a dedicated row of pickling cucumbers every year, not just a plant or two for salads.

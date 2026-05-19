@@ -14,6 +14,15 @@ sunlight: Full sun (8+ hours; more sun = more fruit)
 companion_plants: [Basil, Tomato]
 description: "Sweet Pepper (Capsicum annuum) - 2 lb per plant; ripe colored bells fetch $3.50-6/lb vs. $1.50 for green. Leave fruit an extra 2-3 weeks on the plant to color."
 hero_image: /images/crops/sweet-pepper.webp
+faq:
+  - q: "How much does a sweet pepper plant yield?"
+    a: "A single sweet pepper plant produces about 2 lbs of peppers per season. Bell pepper plants produce 6 to 10 peppers; smaller varieties like cubanelle produce more."
+  - q: "How long do sweet peppers take to grow?"
+    a: "Sweet peppers take 70 to 90 days from transplant. Bell peppers are green at full size; waiting for red or yellow color adds another 2 to 3 weeks."
+  - q: "Is growing sweet peppers worth it financially?"
+    a: "Grocery bell peppers average $3/lb and often exceed $1.50 per individual pepper. A $3.99 transplant yielding 2 lbs returns about $6 in harvest value, with the advantage of thicker-walled fruit than commercial varieties."
+  - q: "How do you store sweet peppers?"
+    a: "Whole sweet peppers keep in the refrigerator for 1 to 2 weeks. Once cut, use within 3 days. Freeze sliced peppers raw for use in cooked dishes - they lose crunch but retain flavor and color."
 ---
 
 This entry covers sweet peppers - bell types, Italian frying peppers, and pimento types. If you're growing hot peppers (*jalapeño*, *cayenne*, *habanero*), see the [Hot Pepper](/crops/hot-pepper/) entry. Same species, very different crop, very different ROI story.

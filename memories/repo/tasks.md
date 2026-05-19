@@ -7422,7 +7422,7 @@ _Rationale: The site has 424 pages of solid content. The next lever is convertin
 ---
 
 ### CV003 — FAQPage JSON-LD on Top 20 Crop Pages
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Copilot
 **What:** FAQ rich results in Google Search show expanded Q&A directly in the SERP, roughly doubling click-through rate for informational queries. The crop pages already contain Q&A content — they just need the machine-readable signal.
 **How:**
@@ -7452,7 +7452,7 @@ _Rationale: The site has 424 pages of solid content. The next lever is convertin
 ---
 
 ### CV004 — /tools/ Landing Page
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Copilot
 **What:** Four interactive tools exist (`BudgetPlanner`, `RoiEstimator`, `WhatToPlantNow`, `CompanionPlanting`) but are buried inside `/plan/` with no overview page. A `/tools/` index would make them discoverable and linkable from crop pages and articles.
 **How:**

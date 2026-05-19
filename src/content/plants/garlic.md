@@ -14,6 +14,15 @@ sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Tomato, Chamomile]
 description: "Garlic (Allium sativum) - 1 lb of seed garlic at $12 produces 6-8 lb of cured heads at $5-14/lb. Scapes removed in spring boost final bulb size by up to 30%."
 hero_image: /images/crops/garlic.webp
+faq:
+  - q: "How much garlic does one plant produce?"
+    a: "Each clove planted produces one bulb at harvest. A pound of seed garlic (40-60 cloves) typically yields 6 to 7 lbs of cured garlic."
+  - q: "How long does garlic take to grow?"
+    a: "Garlic planted in fall matures in 240 to 280 days (8 to 9 months) with harvest in early summer. Spring-planted garlic is possible in some zones but produces smaller bulbs."
+  - q: "Is garlic worth growing at home?"
+    a: "A pound of seed garlic ($12) planted in a 4x4 bed can yield 6-7 lbs, returning $30 or more at grocery rates - a 2.5x return. Premium hardneck varieties at farmers markets fetch $8 to $12/lb."
+  - q: "How do you cure and store garlic?"
+    a: "After harvest, hang or lay garlic in a dry, well-ventilated space for 3 to 6 weeks until the skin is papery. Properly cured softneck garlic keeps up to 12 months at room temperature."
 ---
 
 Garlic (*Allium sativum*) is one of the better-argued cases for growing your own food. The garlic sold in most grocery stores is Chinese-grown softneck that was harvested months ago, fumigated for import, and sometimes irradiated to prevent sprouting (USDA APHIS import treatment requirements). The hardneck garlic you grow at home is fresh-cured, unirradiated, and so different in flavor from the imported commodity that comparing them is like comparing a ripe backyard tomato to a February grocery store tomato. You grow it in fall and harvest it the following summer, which means the crop occupies bed space through winter when there's nothing else going in those beds anyway.

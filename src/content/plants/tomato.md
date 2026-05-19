@@ -14,6 +14,15 @@ sunlight: Full sun (6–8 hours minimum)
 companion_plants: [Basil, Carrot, Parsley]
 description: "Tomato (Solanum lycopersicum) - returns $17-60 per plant at $1.78/lb. Full ROI breakdown, variety guide, pest management, and harvest guide for home gardeners."
 hero_image: /images/crops/tomato.webp
+faq:
+  - q: "How much does a tomato plant yield?"
+    a: "A single tomato plant typically produces around 10 lbs per season. Indeterminate varieties continue fruiting until frost; determinate types ripen most fruit over 2 to 3 weeks."
+  - q: "How long do tomatoes take to grow?"
+    a: "Tomatoes take 60 to 85 days from transplant to first harvest. Cherry tomatoes mature at the shorter end; large slicers like beefsteak take up to 85 days."
+  - q: "Is growing tomatoes worth it financially?"
+    a: "A single plant yielding 10 lbs at $1.78/lb returns about $17.80 in harvest value against a $3.50 transplant cost - over 5x return before water and fertilizer costs."
+  - q: "How do you store fresh tomatoes?"
+    a: "Store tomatoes at room temperature, stem-side down, away from sunlight. Refrigeration causes mealy texture. Freeze, can, or dehydrate large harvests for extended storage."
 ---
 
 Tomato (*Solanum lycopersicum*) is the most-grown home garden crop in the United States, and the ROI case is strong enough that it barely needs arguing. One well-tended indeterminate plant can produce 10–20 pounds of fruit over a season. At farmers market prices for heirlooms, that's $40–$160 from a single plant that started as a $0.25 seed. Even at ordinary grocery store prices for slicers, you're looking at $18–$36. The seed packet paid for itself by the second harvest.

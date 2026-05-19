@@ -14,6 +14,15 @@ sunlight: "Full sun (6+ hours)"
 companion_plants: ["corn", "carrot"]
 description: "Pole Bean (Phaseolus vulgaris) - 5 lbs/10-foot row over 8-10 weeks of continuous harvest. Unlike bush beans, picking triggers new production for the rest of the season."
 hero_image: /images/crops/pole-bean.webp
+faq:
+  - q: "How much do pole beans yield per plant?"
+    a: "Pole bean plants produce more than bush beans over a longer season - about 0.5 to 0.75 lbs per plant. A trellised row of 10 plants yields 5 to 8 lbs total."
+  - q: "How long do pole beans take to grow?"
+    a: "Pole beans take 55 to 65 days from direct sowing to first harvest. Unlike bush beans, they continue producing for 4 to 6 weeks after first harvest, not just 2 to 3 weeks."
+  - q: "Is growing pole beans worth it financially?"
+    a: "Grocery green beans average $2/lb. A $2.99 seed packet planted on a 6-foot trellis can yield 5 or more lbs, returning more than twice the seed cost without the need for successive planting."
+  - q: "How do you store pole beans?"
+    a: "Fresh pole beans keep in the refrigerator for about a week. Blanch 3 minutes and freeze for 8 to 12 months of storage. Dry beans can be left on the vine to fully mature and dried for winter storage."
 ---
 
 Pole beans and bush beans are the same species (*Phaseolus vulgaris*), but they operate on entirely different production logic. The distinction isn't just about height. It's about how the plant allocates resources and what that means for your harvest over a season.

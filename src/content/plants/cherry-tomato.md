@@ -14,6 +14,15 @@ sunlight: Full sun (6-8 hours minimum)
 companion_plants: [Basil, Carrot, Parsley]
 description: "Cherry Tomato (Solanum lycopersicum var. cerasiforme) - 12 lb per plant at $3.50/lb. Indeterminate vines need 6-ft support and daily harvest at peak season."
 hero_image: /images/crops/cherry-tomato.webp
+faq:
+  - q: "How much does a cherry tomato plant yield?"
+    a: "Cherry tomato plants are among the most productive tomatoes - a single indeterminate plant typically yields 12 lbs or more per season with regular harvesting."
+  - q: "How long do cherry tomatoes take to grow?"
+    a: "Cherry tomatoes mature in 60 to 70 days from transplant - faster than most large-fruited varieties. First fruits appear around day 60, with peak production following shortly after."
+  - q: "Is growing cherry tomatoes worth it financially?"
+    a: "Cherry tomatoes fetch $3.50/lb at grocery stores. A single plant yielding 12 lbs returns about $42 against a $3.50 transplant cost - over 12x return on investment."
+  - q: "How do you store cherry tomatoes?"
+    a: "Store cherry tomatoes at room temperature and use within a week. Refrigeration makes them mealy. Roast and freeze, or dehydrate excess production to concentrate flavor for off-season use."
 ---
 
 Cherry tomatoes (*Solanum lycopersicum* var. *cerasiforme*) are the most reliable producers in the tomato category and, pound for pound, the most profitable crop most home gardeners can grow. USDA ERS retail price data puts cherry and grape-type tomatoes at $3.00 to $4.50 per pound at grocery stores - roughly double what slicing types fetch. At farmers markets, pints run $4 to $8 depending on variety and region, and an attractive mix of colors and shapes will hit the top of that range consistently. A healthy indeterminate plant running a full season can produce 5 to 10 lb. Do the math before you plant slicers in a small bed.
