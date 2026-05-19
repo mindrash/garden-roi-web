@@ -144,6 +144,6 @@ Most warm-season vegetables extract. Edamame deposits. That asymmetry is worth a
 
 ---
 
-**Related crops:** [Garden Pea](/crops/garden-pea/), [Green Bean](/crops/green-bean/)
+**Related crops:** [Garden Pea](/crops/garden-pea/), [Green Bean](/crops/green-bean/), [Soybean](/crops/soybean/), [Mung Bean](/crops/mung-bean/), [Adzuki Bean](/crops/adzuki-bean/), [Tepary Bean](/crops/tepary-bean/), [Cowpea](/crops/cowpea/)
 
 **Related reading:** [Beginner Homestead Crops](/homestead/beginner-homestead-crops/) - crops that build soil as well as feed you, including nitrogen-fixing legumes

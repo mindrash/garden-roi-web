@@ -149,6 +149,8 @@ Zone 9-10 deserves a specific note: the productive growing seasons in California
 
 ---
 
-**Related reading:** [Spring Garden Planning](/planning/spring-garden-planning/) - the planning framework for the season before this one; [Fall Garden Planning](/planning/fall-garden-planning/) - what happens after the August reset; [Winter Garden Planning](/planning/winter-garden-planning/) - extending production beyond first frost; [Succession Planting Calendar](/planning/succession-planting-calendar/) - the full week-by-week timing reference
+**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/) - the planning framework for the season before this one; [Fall Garden Planning](/guides/fall-garden-planning/) - what happens after the August reset; [Winter Garden Planning](/guides/winter-garden-planning/) - extending production beyond first frost; [Succession Planting Calendar](/guides/succession-planting-calendar/) - the full week-by-week timing reference
 
 **Crops featured:** [Broccoli](/crops/broccoli/), [Kale](/crops/kale/), [Spinach](/crops/spinach/)
+
+**Heat-tolerant specialty crops for warm-climate gardeners:** Zone 8-10 gardeners growing through summer heat should look at crops that tolerate and even prefer it. [Chayote](/crops/chayote/) is a vigorous tropical vine that thrives in Zone 8+ summer heat and yields prolifically once established. [Water spinach](/crops/water-spinach/) (*Ipomoea aquatica*) is a heat-loving Asian green that grows rapidly in warm, moist conditions and provides continuous cut-and-come-again harvest through summer months when other greens fail. [Celtuce](/crops/celtuce/) (stem lettuce) is more heat-tolerant than heading lettuce and extends the cool-season green window. [Stevia](/crops/stevia/) is a subtropical herb that grows readily as a summer annual in most zones and provides a zero-calorie sweetener with strong specialty market demand.

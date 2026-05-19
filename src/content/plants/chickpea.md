@@ -138,4 +138,4 @@ Young fresh pods (under 1 inch) can be eaten pod and all - they taste like a swe
 
 ---
 
-**Related reading:** [Garden Pea](/crops/garden-pea/) - fellow cool-season legume with similar timing; [Edamame](/crops/edamame/) - comparable fresh-bean harvest model; [Peanut](/crops/peanut/) - fellow nitrogen-fixing legume
+**Related reading:** [Garden Pea](/crops/garden-pea/) - fellow cool-season legume with similar timing; [Edamame](/crops/edamame/) - comparable fresh-bean harvest model; [Peanut](/crops/peanut/) - fellow nitrogen-fixing legume; [Fava Bean](/crops/fava-bean/) - large-seeded cool-season alternative; [Adzuki Bean](/crops/adzuki-bean/) - Asian dry bean with similar growth habit; [Tepary Bean](/crops/tepary-bean/) - drought-tolerant alternative for hot-dry climates; [Pigeon Pea](/crops/pigeon-pea/) - perennial legume for warm climates

@@ -18,7 +18,7 @@ Most home vegetable gardens draw from four major plant families, and grouping by
 
 **Solanaceae (the nightshade family):** tomatoes, peppers, eggplant, potatoes, ground cherries, tomatillos. Share: Late Blight (*Phytophthora infestans*), Early Blight (*Alternaria solani*), Fusarium wilt (*F. oxysporum*), Verticillium wilt (*V. dahliae*), bacterial spot, common scab (potatoes). This is typically the highest-risk family in humid climates.
 
-**Brassicaceae (the mustard/cabbage family):** broccoli, cabbage, kale, Brussels sprouts, arugula, radishes, turnips, bok choy, mustard greens. Share: Clubroot (*Plasmodiophora brassicae*), Black rot (*Xanthomonas campestris*), Downy mildew (*Peronospora parasitica*), Alternaria leaf spot, cabbage aphid, cabbage loopers, flea beetles. Clubroot is the most serious - it persists in soil for 20+ years.
+**Brassicaceae (the mustard/cabbage family):** broccoli, cabbage, kale, [Brussels sprouts](/crops/brussels-sprouts/), arugula, radishes, turnips, bok choy, [mustard greens](/crops/mustard-greens/), [napa cabbage](/crops/napa-cabbage/), [kohlrabi](/crops/kohlrabi/), [rutabaga](/crops/rutabaga/), romanesco. Share: Clubroot (*Plasmodiophora brassicae*), Black rot (*Xanthomonas campestris*), Downy mildew (*Peronospora parasitica*), Alternaria leaf spot, cabbage aphid, cabbage loopers, flea beetles. Clubroot is the most serious - it persists in soil for 20+ years.
 
 **Fabaceae (the legume/bean family):** beans, peas, lentils, fava beans, soybeans, edamame. Share fewer soilborne pathogens than the other families and - critically - fix atmospheric nitrogen. This makes Fabaceae the "beneficial" family in a rotation: they give something back to the soil.
 
@@ -106,7 +106,7 @@ Most home gardeners don't have four dedicated beds of equal size. Rotation still
 
 ## The crops that don't rotate well
 
-**Perennial vegetables** (asparagus, rhubarb, horseradish) don't rotate because they occupy a permanent bed. Siting these crops carefully at the outset - in a dedicated bed separate from annual vegetable rotation - is the management approach.
+**Perennial vegetables** (asparagus, rhubarb, [horseradish](/crops/horseradish/), [Jerusalem artichoke](/crops/jerusalem-artichoke/), [sorrel](/crops/sorrel/), and [lovage](/crops/lovage/)) don't rotate because they occupy a permanent bed. Siting these crops carefully at the outset - in a dedicated bed separate from annual vegetable rotation - is the management approach.
 
 **Annual herbs** (basil, dill, cilantro, parsley) are generally not in the major disease-susceptible families for most soilborne pathogens. They can be placed wherever is convenient in the rotation without significantly disrupting the four-family plan.
 
@@ -116,4 +116,4 @@ Most home gardeners don't have four dedicated beds of equal size. Rotation still
 
 **Related crops:** [Tomato](/crops/tomato/), [Potato](/crops/potato/), [Kale](/crops/kale/), [Green Bean](/crops/green-bean/), [Cucumber](/crops/cucumber/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence says about plant interactions beyond rotation
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence says about plant interactions beyond rotation; [No-Dig Gardening ROI](/roi/no-dig-gardening-roi/) - how no-till systems interact with rotation planning; [Mulching Guide](/guides/mulching-guide/) - using mulch between rotation cycles to suppress weeds and retain soil structure

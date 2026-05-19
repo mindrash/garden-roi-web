@@ -255,3 +255,5 @@ The $500 garden is real. So is the return - you just have to account for when it
 ---
 
 **High-value crops for your first bed:** [Tomatoes](/crops/tomato/) and [basil](/crops/basil/) are the first two plants every new bed should include - highest retail value per square foot, low seed cost, and easy to grow alongside each other. [Lettuce](/crops/lettuce/) fills the early spring and fall gaps when those beds sit idle.
+
+**Related reading:** [Small-Space Vegetable Garden](/guides/small-space-vegetable-garden/) - maximizing production when the available square footage is under 100 square feet; [Vertical Gardening ROI](/roi/vertical-gardening-roi/) - how trellising and vertical systems change the space math; [Greenhouse ROI](/roi/greenhouse-roi/) - whether a permanent structure pencils out once you're past the first bed; [Crop Loss Risk Management](/roi/crop-loss-risk-management/) - what can go wrong with a first bed and how to hedge against it.

@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: May 15, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E040 + D001-D012 + SR001-SR004 + S001-S002 + Z001-Z008 + R001-R008 + HG001-HG008 + N001-N004 complete; 424 pages; site audit + title fixes complete)_
+_Last updated: May 18, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E040 + D001-D012 + SR001-SR004 + S001-S002 + Z001-Z008 + R001-R008 + HG001-HG008 + N001-N006 + CV001-CV005 + EX001-EX006 complete; 424 pages)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -7343,7 +7343,7 @@ Expand `homestead` category coverage from 16 to 24 articles. These are practical
 ---
 
 ### N005 — Download Missing Article Hero Images
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Copilot
 **What:** 57 of 105 articles have no hero image in `public/images/articles/`. These are from the HG-series, ROI analysis, and pest/care sprints. Missing images fall back to `/logo.png` for OG sharing.
 **How:**
@@ -7357,7 +7357,7 @@ Expand `homestead` category coverage from 16 to 24 articles. These are practical
 ---
 
 ### N006 — Internal Linking Cross-Link Pass
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **Load skill:** garden-roi-content
 **What:** 35 article orphans and 46 articles below the ≥2 crop + ≥1 article linking threshold. The fix is adding relevant internal links into article bodies - not rewriting content, just inserting contextual links where appropriate.
@@ -7367,3 +7367,221 @@ Expand `homestead` category coverage from 16 to 24 articles. These are practical
 - Do not manufacture links - only add them where the anchor text fits naturally in existing sentences.
 - The 53 orphaned crop pages (specialty/exotic crops with no inbound links) are lower priority - note them as a future pass but do not attempt all 53 in this story.
 **Acceptance:** At least 30 of 35 orphaned articles have ≥1 inbound link from another content page, build passes 0 errors.
+
+---
+
+## Conversion Sprint — App, Schema, Tools
+
+_Rationale: The site has 424 pages of solid content. The next lever is converting that traffic into app downloads and improving search result appearance via rich results. CV001-CV004 are pure Copilot infrastructure. EX001-EX006 are Claude Code content work._
+
+---
+
+### CV001 — App Screenshots on /app/ Page
+**Status:** `[x]`
+**Agent:** Copilot
+**What:** The /app/ page has no visual proof of what the app looks like. This is the highest-friction gap in the conversion funnel. App store listings with screenshots convert 2-3x better than text-only pages.
+**How:**
+- Screenshots exist at `~/projects/garden-roi/screenshots/ios/iphone-6-9/screen1.png` and `~/projects/garden-roi/screenshots/ios/ipad-13/screen1.png`
+- Copy both to `public/images/app/screen-iphone.png` and `public/images/app/screen-ipad.png`
+- Add a "See it in action" section to `/app/` between the "What the app does" and "How site and app work together" sections
+- Show the iPhone screenshot prominently (max-width 320px, centered or in a phone-frame div), iPad screenshot optional/secondary
+- Use `loading="eager"` since this is above-fold on a short page
+- Every `<img>` needs `alt`, `width`, `height`
+- Check `src/styles/theme.css` for `.glass-card` and existing layout patterns — do not write custom CSS that duplicates existing globals
+**Acceptance:** /app/ page displays at least one real app screenshot, build passes 0 errors, no inline styles.
+
+---
+
+### CV002 — SoftwareApplication JSON-LD on /app/ Page
+**Status:** `[x]`
+**Agent:** Copilot
+**What:** The /app/ page has no machine-readable signal that it describes a software product. Adding `SoftwareApplication` schema makes it eligible for app-specific rich results in Google Search (star ratings, price, OS compatibility).
+**How:**
+- Add a `<script type="application/ld+json">` block to `src/pages/app.astro` with:
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Garden ROI",
+  "operatingSystem": "iOS, Android",
+  "applicationCategory": "LifestyleApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/garden-roi/id6760734178",
+  "description": "Track harvests, log expenses, and see your garden break-even date. 800+ USDA variety database built in.",
+  "screenshot": "https://gardenroi.com/images/app/screen-iphone.png"
+}
+```
+- The `screenshot` field should only be added after CV001 ships the image
+- Do it inline in the `.astro` frontmatter using `JSON.stringify` pattern matching `ContentLayout.astro`'s existing JSON-LD
+**Acceptance:** /app/ page has valid SoftwareApplication JSON-LD (validate at schema.org/SchemaValidator), build passes 0 errors.
+
+---
+
+### CV003 — FAQPage JSON-LD on Top 20 Crop Pages
+**Status:** `[ ]`
+**Agent:** Copilot
+**What:** FAQ rich results in Google Search show expanded Q&A directly in the SERP, roughly doubling click-through rate for informational queries. The crop pages already contain Q&A content — they just need the machine-readable signal.
+**How:**
+- Target: all crop pages where `is_common: true` (currently ~20 pages including tomato, garlic, basil, kale, arugula, cucumber, lettuce, carrot, green-bean, strawberry, blueberry, raspberry, cherry-tomato, hot-pepper, sweet-pepper, mint, garden-pea, pole-bean, winter-squash, potato)
+- Add a `faq` field to the plants content schema in `src/content.config.ts`:
+  ```ts
+  faq: z.array(z.object({ q: z.string(), a: z.string() })).optional()
+  ```
+- Add 3-5 FAQ entries to each of the ~20 `is_common` plant files. Questions should match real search queries:
+  - "How much does [crop] yield per plant?"
+  - "Is growing [crop] worth it financially?"
+  - "How long does [crop] take to grow?"
+  - "What does [crop] cost at the grocery store?"
+  - "How do you store [crop] after harvest?"
+- In `src/pages/crops/[slug].astro`, if `entry.data.faq` exists, render `FAQPage` JSON-LD:
+  ```json
+  {
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "...", "acceptedAnswer": { "@type": "Answer", "text": "..." } }
+    ]
+  }
+  ```
+- Also render the FAQ visually on the page in a `<details>`/`<summary>` or flat Q&A section using existing `.glass-card` styles
+**Acceptance:** All ~20 `is_common` crop pages have valid FAQPage JSON-LD with 3-5 questions each, FAQ renders visually on page, build passes 0 errors.
+
+---
+
+### CV004 — /tools/ Landing Page
+**Status:** `[ ]`
+**Agent:** Copilot
+**What:** Four interactive tools exist (`BudgetPlanner`, `RoiEstimator`, `WhatToPlantNow`, `CompanionPlanting`) but are buried inside `/plan/` with no overview page. A `/tools/` index would make them discoverable and linkable from crop pages and articles.
+**How:**
+- Create `src/pages/tools/index.astro` — a landing page listing all four tools with name, 1-sentence description, and link
+- Title: `Garden Planning Tools: Budget, ROI, Zone Planner`
+- Meta description: `Free garden planning tools. Calculate your break-even, estimate ROI by crop, find what to plant now by zone, and look up companion plants.`
+- Each tool card uses `.glass-card` layout — no new CSS unless absolutely necessary
+- The four tools and their current paths:
+  - Budget Planner → `/plan/budget/`
+  - ROI Estimator → `/plan/` (check `src/pages/plan/index.astro` for the actual URL)
+  - What to Plant Now → `/plan/what-to-plant-now/`
+  - Companion Planting → `/compare/companion-planting/`
+- Add `<link>` from Footer to `/tools/` — update `src/components/Footer.astro`
+- Add Article JSON-LD (type: `WebPage`) and BreadcrumbList
+- Add `npx astro build` passes with 0 errors
+**Acceptance:** `/tools/` page renders all 4 tools with links, Footer links to it, build passes 0 errors.
+
+---
+
+### CV005 — Orphaned Specialty Crop Linking Pass
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**What:** N006 noted 53 specialty/exotic crop pages with zero inbound links. These pages (agretti, ashwagandha, cardoon, celtuce, chayote, chrysanthemum-greens, culantro, etc.) receive no PageRank from internal links and are effectively invisible to search engines.
+**How:**
+- For each of the 53 orphaned crop pages, find 2-3 existing content pages (articles or other crop pages) where the crop is naturally relevant and could be mentioned in passing
+- Add a brief contextual mention and link — e.g., in `herb-roi-comparison.md`, a sentence like "Less common herbs like [culantro](/crops/culantro/) and [epazote](/crops/epazote/) command even higher premiums at Latin markets" with links
+- Focus on grouping: link exotic herbs from herb articles, exotic greens from salad/greens articles, root vegetables from root vegetable articles
+- Do not manufacture context — only add links where the text genuinely supports it
+- Prioritize the 15-20 most commercially interesting specialty crops first (culantro, epazote, shiso, perilla, lemongrass, turmeric, ginger, cardamom, etc.)
+**Acceptance:** At least 40 of 53 orphaned specialty crops have ≥1 inbound link, build passes 0 errors.
+
+---
+
+## Expansion Sprint — Anchor Content Depth
+
+_Rationale: The top 5-8 crop pages (garlic, tomato, basil, kale, arugula, cucumber, lettuce) drive the majority of organic search traffic. They are currently 80-188 lines — good but not definitive. Making them the most comprehensive guides on the internet for their primary keyword is the highest-leverage SEO move available. All EX stories are Claude Code content work._
+
+---
+
+### EX001 — Garlic: Expand to Definitive Anchor Guide
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/garlic.md`
+**What:** Garlic is the highest-ROI crop on the site and the anchor for the garlic-roi-analysis article. The current page (135 lines) covers hardneck vs. softneck and storage well but is missing: zone-by-zone planting calendar, scape harvest and use, troubleshooting (white rot, fusarium, rust), year-2+ seed-saving economics, and a companion planting section. Target 2,000+ words.
+**What to add:**
+- Zone-by-zone planting calendar table (zones 3-10, fall plant date, expected harvest window)
+- Scape harvest section: when to cut, what to do with scapes (pesto, roasting, pickling), effect on bulb size (Penn State Extension)
+- Troubleshooting table: white rot (*Sclerotium cepivorum*), fusarium basal rot, garlic rust — symptoms, cause, mitigation
+- Year-2+ economics: seed-saving eliminates the $12/lb seed cost; ROI math for steady-state garlic production
+- Companion planting: what garlic deters (aphids, Japanese beetles), what it benefits (roses, brassicas), what to avoid (beans, peas — allicin inhibits nitrogen fixation)
+- Internal links: `/roi/garlic-roi-analysis/`, `/crops/onion/`, `/crops/shallot/`, `/homestead/seed-saving-guide/`
+**Acceptance:** Page is 2,000+ words, all new factual claims cited, zero em dashes, build passes 0 errors.
+
+---
+
+### EX002 — Tomato: Add Disease Resistance Table and Zone Timing
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/tomato.md`
+**What:** Tomato page (188 lines) is the strongest on the site but is missing two high-search content areas: disease resistance by cultivar (VFN codes), and a zone-by-zone transplant/harvest timing table. These are the top "tomato growing" queries that don't yet have a home in this page.
+**What to add:**
+- Disease resistance notation section: explain VFFNTA codes (Verticillium, Fusarium, Nematode, Tobacco mosaic, Alternaria), give table of common cultivars with their resistance profiles (Celebrity, Better Boy, Sun Gold, Cherokee Purple, Roma, San Marzano)
+- Zone transplant timing table: zones 3-10, last frost date range, transplant date, first harvest window, frost-kill date
+- End-of-season green tomato section: when to pull vines, how to ripen green tomatoes off-vine, which varieties finish best indoors
+- Internal links to `/guides/tomato-leaf-problems/`, `/guides/blossom-end-rot/`, `/guides/tomato-training-guide/`
+**Acceptance:** Page adds 600-900 words of new material, all claims cited, zero em dashes, build passes 0 errors.
+
+---
+
+### EX003 — Basil: Add Preservation Deep-Dive and Cultivar Expansion
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/basil.md`
+**What:** Basil page covers the ROI case and cultivar overview well. Missing: detailed preservation section (freezing methods, pesto batch math, drying vs. freezing tradeoffs), and a Genovese variety comparison (Eleonora, Classico, Nufar) for disease resistance against Fusarium wilt which has devastated conventional Genovese basil.
+**What to add:**
+- Fusarium wilt section: the epidemic in commercial Genovese since 2012, how to identify it, resistant varieties (Nufar, Devotion, Dolce Fresca — Cornell Plant Breeding sourced)
+- Preservation section: oil-blanch freezing vs. raw freeze (texture tradeoff), pesto batch math (1 lb basil → ~2 cups pesto at $8-12/cup retail = $16-24 from a $0.10 seed), drying (loses volatile aromatics, not recommended for Genovese), basil salt
+- Full-season management: how to turn one $0.10 seed into a plant that yields through October (pinching, pot up in September, bring indoors before first frost)
+- Internal links: `/homestead/herb-preservation-guide/`, `/crops/thai-basil/`, `/crops/holy-basil/`
+**Acceptance:** Page adds 600-900 words, all claims cited (Cornell, USDA, or extension), zero em dashes, build passes 0 errors.
+
+---
+
+### EX004 — Kale: Full Cultivar + Nutrition ROI + Season Extension Guide
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/kale.md`
+**What:** Kale is one of the highest-value grocery greens at $3-6/lb and a cut-and-come-again crop with a 6-month productive window in most zones. The page needs: cultivar comparison (Lacinato vs. Siberian vs. Red Russian vs. Winterbor), fall-planting economics (sweetens after frost — covered crop through December in zones 5-7), and the nutrition-per-dollar argument that makes kale a legitimate ROI outlier among greens.
+**What to add:**
+- Cultivar comparison table: Lacinato (Tuscan/dinosaur, tender, best for cooking), Siberian (most cold-hardy, survives zone 3 winters), Red Russian (flat leaf, mildest flavor, best raw), Winterbor (curly, commercial standard, heaviest yield), Premier (fastest, 50 days)
+- Fall planting section: direct-seed 6-8 weeks before first frost, frost-sweetening mechanism (glucosinolates convert to sugars), how to extend under row cover through December in zones 5-7
+- Nutrition per dollar argument: USDA FoodData Central kale nutritional density vs. price — one plant yields ~1 lb at $4-6/lb vs. a Netflix subscription. The point is: kale's caloric density is low but its micronutrient density per dollar is exceptional.
+- Cut-and-come-again harvest guide: cut outer leaves only, leave center bud, harvest every 1-2 weeks; one planting of 4 plants covers household greens through the season
+- Internal links: `/crops/collard-greens/`, `/crops/swiss-chard/`, `/roi/salad-greens-roi/`
+**Acceptance:** Page is 1,500+ words, all claims cited, zero em dashes, build passes 0 errors.
+
+---
+
+### EX005 — Arugula: The 30-Day ROI Story
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/arugula.md`
+**What:** Arugula is the fastest-payback crop on the site — 30-40 days from seed to harvest, $6-10/lb at retail, virtually zero pest pressure, grows in cool weather when most garden beds sit empty. The page needs to lean hard into this story and add: succession planting calendar for year-round harvest where possible, wild arugula vs. garden arugula distinction, bolt management, and the spring/fall window math.
+**What to add:**
+- The 30-day ROI argument up front: $0.10 seed investment → first harvest in 30-40 days at 0.25-0.5 lb per ft² → $1.50-5.00 return. No other crop approaches this payback speed.
+- Wild arugula (*Diplotaxis tenuifolia*) vs. garden arugula (*Eruca vesicaria*): wild is perennial in zones 6+, slower-growing, stronger peppery flavor, more heat tolerant; garden arugula is annual, faster, milder, bolts faster in heat
+- Succession planting: direct sow every 2 weeks starting 4 weeks before last frost through mid-spring; pause in summer heat; resume in late summer for fall harvest; in zones 7+, grow through winter under row cover
+- Bolt management: arugula bolts fast in heat (above 75°F consistently); flower shoots are edible and peppery; let one plant bolt and self-seed for next year's volunteer crop
+- Internal links: `/crops/lettuce/`, `/crops/spinach/`, `/roi/salad-greens-roi/`, `/guides/succession-planting-calendar/`
+**Acceptance:** Page is 1,200+ words, all claims cited, zero em dashes, build passes 0 errors.
+
+---
+
+### EX006 — Cucumber: Distinguish Slicing/Pickling/Persian + Trellis ROI Math
+**Status:** `[x]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/plants/cucumber.md`
+**What:** The cucumber page (content-plan noted "distinguish slicing/pickling/Persian; clarify trellised vs. ground yield") needs a full rework of its type distinction and yield math. Pickling cucumbers at $2-4/lb (or the equivalent value of pickled product) vs. slicers at $1.50-2/lb vs. Persian/mini at $3-5/lb are three different ROI calculations. The trellis math (vertical growing doubles usable yield per sq ft) is the practical hook.
+**What to add:**
+- Type comparison table: Slicing (Marketmore, Straight Eight, Diva — 8-9" fruit, $1.50-2.00/lb), Pickling (Calypso, National Pickling, H-19 Little Leaf — 3-5" fruit, lower fresh price but high processed value), Persian/Mini (Beit Alpha types, 4-6" seedless, $3-5/lb, highest fresh retail)
+- Trellis yield math: ground-grown cucumber at 8 sq ft per plant; trellised at 2 sq ft per plant at same yield = 4x more crops per bed. Actual yield data from University of Kentucky Extension trellised cucumber trials.
+- Pickling math: 10 lb cucumbers → 7-8 quarts dill pickles at $5-7/quart retail equivalent = $35-56 preserved value from 2-3 plants
+- Powdery mildew and cucumber beetle management (brief — link to dedicated articles)
+- Internal links: `/guides/cucumber-beetle-control/`, `/guides/powdery-mildew-treatment/`, `/crops/zucchini/` (comparison), `/homestead/lacto-fermentation-preservation/`
+**Acceptance:** Page is 1,500+ words, all yield/price claims cited (extension or USDA AMS), zero em dashes, build passes 0 errors.

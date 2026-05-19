@@ -142,3 +142,5 @@ Before next spring, add up what your household actually used of each crop last y
 The harvest glut is a predictable outcome of a specific planning input. Change the input, change the outcome. But for now, the tomatoes are ripe, the basil is on day three, and the zucchini are only getting bigger.
 
 Start with the tomatoes.
+
+**Related reading:** [Wild Edibles Foraging Basics](/homestead/wild-edibles-foraging-basics/) - supplementing the garden harvest with foraged produce from your property.

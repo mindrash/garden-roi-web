@@ -2,12 +2,28 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AppStoreBadges from '../components/AppStoreBadges.astro';
 
+const softwareAppJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Garden ROI",
+  "operatingSystem": "iOS, Android",
+  "applicationCategory": "LifestyleApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/garden-roi/id6760734178",
+  "description": "Track harvests, log expenses, and see your garden break-even date. 800+ USDA variety database built in.",
+  "screenshot": "https://gardenroi.com/images/app/screen-iphone.png"
+};
 ---
 
 <BaseLayout
   title="Garden ROI App: Track Harvests and Break-Even"
   description="The Garden ROI app tracks your harvests, expenses, and break-even date on iOS and Android. See which crops earn their space and grow smarter every season."
 >
+  <script type="application/ld+json" set:html={JSON.stringify(softwareAppJsonLd)} />
   <!-- Hero — mirrors homepage hero exactly -->
   <section class="hero">
     <div class="hero-bg">
@@ -64,6 +80,44 @@ import AppStoreBadges from '../components/AppStoreBadges.astro';
           <h3>800+ crop varieties</h3>
           <p>Pull from a library of over 800 USDA varieties — or add your own. Days to harvest, spacing, and grocery value all included.</p>
           <p class="feature-note">The app includes the full 800+ variety database. The <a href="/crops/">web crop library</a> features in-depth ROI guides for the highest-return crops.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- See it in action -->
+    <section class="glass-card content-section">
+      <h2 class="section-title">See it in action</h2>
+      <div class="screenshot-section">
+        <div class="screenshot-frame">
+          <img
+            src="/images/app/screen-iphone.png"
+            alt="Garden ROI app showing harvest log with tomato yield, break-even date progress, and crop value comparison"
+            width="264"
+            height="573"
+            loading="eager"
+            class="app-screenshot"
+          />
+        </div>
+        <div class="screenshot-details">
+          <div class="screenshot-stat">
+            <span class="stat-number">800+</span>
+            <span class="stat-label">USDA crop varieties in the built-in database — spacing, days to harvest, and grocery value included</span>
+          </div>
+          <div class="screenshot-stat">
+            <span class="stat-number">Real-time</span>
+            <span class="stat-label">Break-even date updates every time you log a harvest — no spreadsheet required</span>
+          </div>
+          <div class="screenshot-stat">
+            <span class="stat-number">Per sq ft</span>
+            <span class="stat-label">Compare crops by value per square foot, not just total yield — see which crops actually earn their bed space</span>
+          </div>
+          <div class="screenshot-stat">
+            <span class="stat-number">Free</span>
+            <span class="stat-label">No subscription. Download once, track as many gardens and crops as you want</span>
+          </div>
+          <div class="screenshot-cta">
+            <AppStoreBadges />
+          </div>
         </div>
       </div>
     </section>
@@ -269,6 +323,78 @@ import AppStoreBadges from '../components/AppStoreBadges.astro';
     margin-top: var(--space-xs);
     border-top: 1px solid rgba(0, 0, 0, 0.06);
     padding-top: var(--space-xs);
+  }
+
+  /* Screenshot section */
+  .screenshot-section {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: var(--space-xxl);
+    align-items: start;
+  }
+
+  .screenshot-frame {
+    flex-shrink: 0;
+    border-radius: var(--radius-l);
+    overflow: hidden;
+    box-shadow: var(--shadow-card);
+    background: var(--color-tab-bar);
+    padding: var(--space-xs);
+  }
+
+  .app-screenshot {
+    display: block;
+    border-radius: calc(var(--radius-l) - 4px);
+    width: 264px;
+    height: auto;
+  }
+
+  .screenshot-details {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-l);
+    padding-top: var(--space-s);
+  }
+
+  .screenshot-stat {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xxs);
+    padding-bottom: var(--space-l);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  }
+
+  .screenshot-stat:last-of-type {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .stat-number {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    color: var(--color-primary);
+    line-height: 1;
+  }
+
+  .stat-label {
+    font-size: var(--text-body);
+    color: var(--color-text-secondary);
+    line-height: 1.5;
+  }
+
+  .screenshot-cta {
+    padding-top: var(--space-s);
+  }
+
+  @media (max-width: 640px) {
+    .screenshot-section {
+      grid-template-columns: 1fr;
+    }
+
+    .screenshot-frame {
+      width: fit-content;
+      margin: 0 auto;
+    }
   }
 
   /* Together section */

@@ -26,10 +26,11 @@ Kale splits into four practical categories. They taste different, tolerate cold 
 
 | Type | Key Cultivars | Days to Maturity | Cold Hardiness | Flavor / Best Use |
 |---|---|---|---|---|
-| Curly | Winterbor, Redbor, Vates | 55-65 days | Hardy to 10°F | Most familiar; textured, slightly bitter; best cooked |
+| Curly | Winterbor, Redbor, Vates | 55-65 days | Hardy to 10°F | Most familiar; textured, slightly bitter; best cooked or frozen |
 | Lacinato (Dinosaur) | Nero di Toscana, Cavolo Nero | 60-70 days | Hardy to 15°F | Dark, wrinkled strap leaves; sweetens strongly with frost; Italian cooking standard |
-| Red Russian | Red Russian | 50-60 days | Hardy to 10°F | Feathery, purple-veined, flattest and mildest; best raw in salads |
+| Red Russian | Red Russian | 50-60 days | Hardy to 10°F | Feathery, purple-veined, flattest and mildest; best raw in salads or sandwiches |
 | Siberian | Siberian, True Siberian | 65-75 days | Hardy to -10°F (Zone 3) | Coarser texture, blue-green, heavy producer; best choice for Zone 3-4 |
+| Premier | Premier | 50 days | Hardy to 10°F | Fast-maturing curly type; earliest spring harvest and fastest fall establishment |
 
 Curly kale (Winterbor, Redbor) is what fills most grocery store bins. The heavy crinkling catches dressings and cooking fats well, and the texture is built for braising. It's the most cold-hardy of the cooking kales.
 
@@ -90,6 +91,75 @@ Lacinato kale is especially responsive to this. December lacinato from a Zone 5-
 
 The practical implication: don't pull kale in October because the season "feels over." The best harvest of the year is coming. Leave the plants in the ground through the first hard freezes and plan on eating kale through Thanksgiving and into December. In Zone 6, that's the window where the leaves are at their best and the grocery store price for fresh greens is at its highest.
 
+## Fall planting: the most underused kale window
+
+Most gardeners plant kale in spring and accept that by August the heat and caterpillar pressure will have degraded the crop. The better move is a fall planting specifically timed to produce through winter.
+
+The target for fall kale is to direct-seed 6-8 weeks before your first expected frost. In Zone 6 (first frost typically October 15), that means seeding between August 15 and September 1. The goal is a plant with at least 8-10 mature leaves - substantial root mass and established foliage - before temperatures drop consistently below 40°F. A seedling hit by hard frost before it's established won't recover the way a mature plant will.
+
+Why direct seed rather than transplant for fall? Transplant shock slows establishment, and you're racing the calendar. Direct-seeded kale that germinates into warm soil (soil temps are still 65-75°F in August) establishes faster than a transplant stressed from moving. Sow three to four seeds per spot at the final spacing (18-24 inches), thin to one plant per spot when seedlings are 4 inches tall.
+
+The frost-sweetening mechanism becomes your ally with fall-planted kale. The first frost hits leaves that haven't been through a full summer of heat stress, so the flavor transition is especially pronounced. Gardeners who only grow spring kale often don't understand what the fuss is about. Fall kale is a different food.
+
+**Row cover in zones 5-7:** A single layer of floating row cover (1.5 oz/sq yd weight) raises overnight temperatures by 4-6°F and is enough to keep kale productive through December in Zone 5-6, and often into January in Zone 7. You don't need a cold frame - drape the fabric directly over the plants and anchor the edges. The plants don't need pollination at that stage, so there's no downside to keeping it on continuously from late October through February. A 10-foot roll of row cover costs roughly $15-20 and lasts multiple seasons (Johnny's Selected Seeds cultural notes; Penn State Extension, *Season Extension for Vegetables*, 2020).
+
+In Zone 7, fall-planted kale often requires nothing more than the plant itself. The winters are mild enough that established kale produces more or less continuously from September through April, with only brief slowdowns during hard freezes.
+
+## The cut-and-come-again math: 4 plants covering a household
+
+The cut-and-come-again method is the reason kale's season math works. Done correctly, you're not replanting - you're harvesting from the same plants for months.
+
+The principle: cut outer leaves first, leave the central growing bud and at least 4-6 inner leaves intact. The plant produces new leaves from the center continuously. Harvest every 7-14 days during active growth periods; every 3-4 weeks during cold-weather slowdowns when growth rate drops.
+
+Here's what 4 plants actually produces for a household:
+
+| Phase | Duration | Growth Rate | Yield (4 plants) | Notes |
+|---|---|---|---|---|
+| Spring establishment | April - May | Slow | 0.25 lb/week | Plants sizing up; harvest lightly |
+| Peak spring | June - early July | Active | 0.5-0.75 lb/week | Full production; cut every 7-10 days |
+| Summer heat | mid-July - August | Slow | 0.25 lb/week | Heat stress; harvest what looks good |
+| Fall recovery | September - October | Active | 0.5-0.75 lb/week | Best eating before frost |
+| Post-frost sweetened | November - December | Moderate | 0.3-0.5 lb/week | Peak flavor; growth slows |
+| Deep winter | January - February | Minimal | 0.1-0.2 lb/week | Harvest on warm days; plants dormant |
+
+Across 40+ weeks, 4 plants at the conservative end of these ranges produces 18-22 lbs of greens for the season. At $3/lb (USDA AMS retail composite for mature kale, 2023), that's $54-66 from a single planting. At $4/lb (organic specialty retail), the range is $72-88.
+
+Four plants occupy roughly 32 square feet (4 plants × 8 sq ft per plant at 24-inch spacing in a 4-foot-wide bed). That's a manageable footprint - a single 4×8 raised bed handles it with room for a row of herbs along the front edge.
+
+The strip-harvest mistake is the main reason people think kale "stops producing." If you pull all the leaves off a plant - or worse, cut the central growing tip - the plant is done. Leave the center intact every single time. The growing tip is the whole operation.
+
+## Nutrition per dollar: why kale is a genuine outlier
+
+The ROI case for kale isn't just about price per pound. It's about what you're getting per dollar spent.
+
+Kale is not a high-calorie crop. One cup of chopped raw kale contains about 33 calories (USDA FoodData Central, ID 169206). You're not growing it for energy density - you're growing it for micronutrient density, and on that measure it's difficult to match.
+
+The numbers from USDA FoodData Central for one cup of raw kale (67g):
+
+| Nutrient | Amount | % Daily Value |
+|---|---|---|
+| Vitamin K | 547 mcg | 456% |
+| Vitamin C | 80 mg | 89% |
+| Vitamin A (as RAE) | 206 mcg | 23% |
+| Calcium | 91 mg | 7% |
+| Iron | 1.2 mg | 7% |
+| Folate | 19 mcg | 5% |
+| Manganese | 0.5 mg | 22% |
+
+(Source: USDA FoodData Central, SR Legacy, Kale, raw, FDC ID 169206)
+
+That's more than four times your daily vitamin K need from one cup. One cup of kale delivers nearly a full day's vitamin C - comparable to an orange, at a fraction of the growing cost per calorie.
+
+What does this cost to produce at home? At 22 lbs per season from 4 plants, and roughly 453g per pound, you're producing about 9,966g of kale across the season. At 67g per cup, that's approximately 149 cups. The seed cost is $2.49. The implicit cost per cup - excluding time and any infrastructure you'd have anyway - is around $0.02.
+
+A cup of organic packaged kale at a mid-range grocery store runs $1.00-1.50 (retail weight calculated from a $4-6/lb price and approximately 3 cups per 100g serving). You're replacing a $1.25/cup grocery item with a $0.02/cup garden item.
+
+For context: a monthly Netflix subscription is approximately $15-22. That budget, spent once on kale seed and a bag of fertilizer, produces 149+ cups of one of the most nutrient-dense vegetables available across a 40-week season. This isn't a condemnation of streaming services. It's a useful anchor for what garden spending actually buys.
+
+The vitamin K numbers deserve a specific note. Most people have no idea how deficient their diet is in vitamin K1 (phylloquinone). Dark leafy greens are the primary dietary source, and fresh garden kale is one of the richest sources available. The conversion of glucosinolates to sugars during frost doesn't meaningfully affect the vitamin K content - the fat-soluble vitamins remain stable through light cooking and freeze-thaw cycles.
+
+Kale compares favorably to other high-value greens in the garden. For the full picture on how kale stacks up against Swiss chard and collard greens for production value, see [Collard Greens](/crops/collard-greens/) and [Swiss Chard](/crops/swiss-chard/). The [Salad Greens ROI analysis](/roi/salad-greens-roi/) shows where kale sits in the broader landscape of cut-and-come-again crops by dollar-per-square-foot.
+
 ## The winter and early-spring harvest window
 
 Kale that survives a Zone 5-6 winter doesn't just sit there dormant - it resumes active growth in late February or early March, several weeks before anything else in the garden is producing.
@@ -136,6 +206,6 @@ Kale chips are the most practical way to use a surplus. Dehydration concentrates
 
 ---
 
-**Related crops:** [Lettuce](/crops/lettuce/), [Garlic](/crops/garlic/)
+**Related crops:** [Lettuce](/crops/lettuce/), [Garlic](/crops/garlic/), [Collard Greens](/crops/collard-greens/), [Swiss Chard](/crops/swiss-chard/), [Mustard Greens](/crops/mustard-greens/), [Chrysanthemum Greens](/crops/chrysanthemum-greens/), [Mizuna](/crops/mizuna/)
 
-**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  how to time your cool-season plantings around frost dates to maximize the shoulder seasons; [Grocery Tier ROI](/roi/grocery-tier-roi/)  -  why organic kale sits in the highest-value tier home gardens can replace; [First Garden: 10 Best Crops](/planning/beginner-10-crop-starter-guide/) - kale as the highest-forgiveness beginner crop; [Continuous Harvest Crops](/planning/continuous-harvest-crops/) - kale as a cut-and-come-again perennial; [Winter Garden Planning](/planning/winter-garden-planning/) - kale improves after first frost
+**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  how to time your cool-season plantings around frost dates to maximize the shoulder seasons; [Grocery Tier ROI](/roi/grocery-tier-roi/)  -  why organic kale sits in the highest-value tier home gardens can replace; [Salad Greens ROI](/roi/salad-greens-roi/)  -  where kale ranks among cut-and-come-again greens by dollar per square foot; [First Garden: 10 Best Crops](/guides/beginner-10-crop-starter-guide/) - kale as the highest-forgiveness beginner crop; [Continuous Harvest Crops](/guides/continuous-harvest-crops/) - kale as a cut-and-come-again perennial; [Winter Garden Planning](/guides/winter-garden-planning/) - kale improves after first frost; [Kale ROI Analysis](/roi/kale-roi-analysis/) - the per-square-foot value case with real yield and price data

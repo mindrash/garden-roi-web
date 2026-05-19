@@ -101,6 +101,6 @@ Fresh broccoli holds in the refrigerator for 4-7 days. Don't wash before storing
 
 ---
 
-**Related crops:** [Kale](/crops/kale/), [Arugula](/crops/arugula/)
+**Related crops:** [Kale](/crops/kale/), [Arugula](/crops/arugula/), [Cauliflower](/crops/cauliflower/), [Romanesco](/crops/romanesco/), [Kohlrabi](/crops/kohlrabi/), [Brussels Sprouts](/crops/brussels-sprouts/), [Mustard Greens](/crops/mustard-greens/), [Napa Cabbage](/crops/napa-cabbage/)
 
 **Related reading:** [Soil pH by Crop](/guides/soil-ph-by-crop/)  -  why brassicas tolerate a higher pH ceiling than most vegetables, and how clubroot pressure relates to soil acidity; [Seeds vs. Transplants](/roi/seeds-vs-transplants/)  -  why broccoli is a case where starting transplants indoors often outperforms direct seeding on both yield and ROI

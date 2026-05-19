@@ -184,6 +184,8 @@ If you want the fastest return on investment after year one, raspberries and bla
 
 ---
 
+The four berries in this comparison are the highest-volume choices for most home gardens. Less familiar alternatives worth considering once those are established: [cape gooseberry](/crops/cape-gooseberry/) (physalis) produces tangy husked berries at $6-12/lb and is manageable as an annual; [goji berry](/crops/goji-berry/) is a perennial shrub with dedicated health-food demand commanding $8-15/lb dried; [sea buckthorn](/crops/sea-buckthorn/) yields tart orange berries extremely high in vitamin C that sell for $8-20/lb at specialty stores; and [medlar](/crops/medlar/) is an unusual heritage fruit that requires frost or bletted ripening and is nearly unavailable commercially.
+
 **Crop pages:** [Strawberry](/crops/strawberry/) - [Raspberry](/crops/raspberry/) - [Blueberry](/crops/blueberry/) - [Blackberry](/crops/blackberry/)
 
 **Related:** [Fruit Tree Payback Timeline](/roi/fruit-tree-payback-timeline/) - for comparison to tree fruit timelines and permanent-asset ROI math. [Perennial vs. Annual Crops: ROI Comparison](/roi/perennial-vs-annual-roi/) - how establishment cost and payback timing play out across perennial garden plants.

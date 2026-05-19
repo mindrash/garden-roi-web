@@ -137,4 +137,4 @@ The key technique note: stems and leaves cook at different rates. For stir-fry, 
 
 **Related crops:** [Broccoli Rabe](/crops/broccoli-rabe/) - similar fast brassica, more bitter flavor; [Bok Choy](/crops/bok-choy/) - fellow Asian brassica for cool seasons; [Broccoli](/crops/broccoli/) - closely related heading type with longer maturity
 
-**Related reading:** [Succession Planting Calendar](/guides/succession-planting-calendar/) - zone-specific cool-season sowing intervals; [Spring Garden Planning](/planning/spring-garden-planning/) - timing brassica successions around frost dates
+**Related reading:** [Succession Planting Calendar](/guides/succession-planting-calendar/) - zone-specific cool-season sowing intervals; [Spring Garden Planning](/guides/spring-garden-planning/) - timing brassica successions around frost dates

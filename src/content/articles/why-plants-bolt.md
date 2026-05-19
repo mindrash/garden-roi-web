@@ -121,6 +121,6 @@ Slow-bolt breeding does not eliminate bolting - it postpones it. A "slow-bolt" c
 
 ---
 
-**Related reading:** [Succession Planting Calendar](/guides/succession-planting-calendar/) - timing succession sowings to maintain continuous production; [Fall Garden Planning](/planning/fall-garden-planning/) - planning cool-season crops that avoid summer bolt conditions
+**Related reading:** [Succession Planting Calendar](/guides/succession-planting-calendar/) - timing succession sowings to maintain continuous production; [Fall Garden Planning](/guides/fall-garden-planning/) - planning cool-season crops that avoid summer bolt conditions
 
 **Related crops:** [Lettuce](/crops/lettuce/) - full harvest timing guide; [Spinach](/crops/spinach/) - cool-season growing window; [Cilantro](/crops/cilantro/) - growing through succession and using the coriander seed

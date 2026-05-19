@@ -129,6 +129,8 @@ The crops that don't make sense are the ones where commercial production at scal
 
 Get a dehydrator with adjustable temperature - this is not optional if you plan to dry herbs. Keep it below 115°F for leaf herbs. Do the rest of your processing in September when the late-season glut is real and you'd otherwise be composting perfectly good produce.
 
+**Related reading:** [Food Preservation Equipment ROI](/roi/food-preservation-equipment-roi/) - comparing dehydrator, freeze dryer, pressure canner, and vacuum sealer payback across preservation methods; [Solar Food Dehydrating](/homestead/solar-food-dehydrating/) - passive drying options for climates with reliable summer heat; [Freeze Dryer ROI](/roi/freeze-dryer-roi/) - when the $2,000 to $4,000 freeze dryer investment makes sense versus a dehydrator.
+
 ---
 
 *Electricity pricing: U.S. Energy Information Administration, Electric Power Monthly, 2024 national average residential rate. Dried herb retail pricing: Mountain Rose Herbs and Frontier Co-op current catalog pricing. Fresh produce prices: USDA Agricultural Marketing Service National Retail Report. Dehydration weight-loss ratios: National Center for Home Food Preservation, University of Georgia Cooperative Extension.*

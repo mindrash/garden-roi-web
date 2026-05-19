@@ -185,6 +185,8 @@ Brown paper bags or glass jars in a cool, dark location. Clear glass jars on a s
 
 ## What to Grow First
 
+Other herbs worth considering beyond these seven: [catnip](/crops/catnip/) (*Nepeta cataria*) - a perennial mint-family herb with documented mild sedative properties used in traditional herbal medicine, easy to grow, and available as a pleasant mild tea; [lemon verbena](/crops/lemon-verbena/) - an intensely lemon-scented perennial (or tender perennial in cooler zones) that makes excellent tea and commands $12-20/lb at specialty stores; and [moringa](/crops/moringa/) - occasionally called the "miracle tree," with leaves that are among the most nutritionally dense of any leafy green, growable as an annual in zones 8 and warmer or as a large container plant elsewhere.
+
 If you're planting a first medicinal herb garden, chamomile + lemon balm + peppermint is the practical starting point. All three have the easiest growing requirements on this list. Chamomile is a direct-sow annual that self-seeds after year one. Lemon balm and peppermint are perennials that establish without much intervention and spread on their own.
 
 That combination also covers the best-evidenced categories: peppermint for digestive use (the one herb on this list where the clinical evidence is genuinely strong), chamomile for the anxiety/calming category (modest but real trial evidence), and lemon balm as a pleasant addition to the tea rotation regardless of its evidence grade.

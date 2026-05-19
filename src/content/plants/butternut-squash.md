@@ -105,4 +105,4 @@ Store cured squash at 50-55°F in low to moderate humidity (University of Illino
 
 **Related crops:** [Corn](/crops/corn/), [Pumpkin](/crops/pumpkin/), [Zucchini](/crops/zucchini/)
 
-**Related reading:** [Squash Vine Borer Control](/guides/squash-vine-borer-control/) - timing, identification, and why *C. moschata* has an advantage; [Freezing vs. Canning](/homestead/freezing-vs-canning/) - when to freeze butternut vs. whole-fruit pantry storage
+**Related reading:** [Squash Vine Borer](/guides/squash-vine-borer/) - timing, identification, and why *C. moschata* has an advantage; [Freezing vs. Canning](/homestead/freezing-vs-canning/) - when to freeze butternut vs. whole-fruit pantry storage

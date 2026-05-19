@@ -157,6 +157,6 @@ Lettuce deteriorates fast after cutting. Refrigerate unwashed in an airtight bag
 
 ---
 
-**Related crops:** [Arugula](/crops/arugula/), [Spinach](/crops/spinach/), [Strawberry](/crops/strawberry/)
+**Related crops:** [Arugula](/crops/arugula/), [Spinach](/crops/spinach/), [Strawberry](/crops/strawberry/), [Mache](/crops/mache/), [Sorrel](/crops/sorrel/), [Mizuna](/crops/mizuna/), [Tatsoi](/crops/tatsoi/), [Chrysanthemum Greens](/crops/chrysanthemum-greens/), [Endive](/crops/endive/)
 
-**Related reading:** [Salad Greens ROI](/roi/salad-greens-roi/) - per-type value comparison for lettuce, arugula, spinach, and mixed greens; [Succession Planting Calendar](/guides/succession-planting-calendar/) - zone-specific sowing intervals for continuous harvest; [Spring Garden Planning](/guides/spring-garden-planning/) - timing cool-season crops around frost dates; [Grocery Tier ROI](/roi/grocery-tier-roi/) - how salad greens rank in the retail organic price tiers
+**Related reading:** [Salad Greens ROI](/roi/salad-greens-roi/) - per-type value comparison for lettuce, arugula, spinach, and mixed greens; [Succession Planting Calendar](/guides/succession-planting-calendar/) - zone-specific sowing intervals for continuous harvest; [Spring Garden Planning](/guides/spring-garden-planning/) - timing cool-season crops around frost dates; [Grocery Tier ROI](/roi/grocery-tier-roi/) - how salad greens rank in the retail organic price tiers; [Slug and Snail Control](/guides/slug-and-snail-control/) - the primary soft-bodied pest on lettuce and how to manage it

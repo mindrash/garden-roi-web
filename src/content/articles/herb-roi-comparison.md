@@ -109,6 +109,8 @@ The annual bed gives you the highest first-year return per dollar invested. The 
 
 ---
 
+Less common culinary herbs carry even higher retail premiums than those in the table above. [Shiso](/crops/shiso/) (Japanese perilla) sells for $8-15/lb at Asian grocery stores and is rarely available at conventional supermarkets. [Chervil](/crops/chervil/) - a mild anise-flavored herb common in French cooking - commands $10-18/lb at specialty grocers. [Marjoram](/crops/marjoram/) and [winter savory](/crops/winter-savory/) occupy a similar premium niche, both retailing at $10-16/lb where available. [Lemon verbena](/crops/lemon-verbena/) and [bay laurel](/crops/bay-laurel/) are perennials that, once established, provide free harvests for years.
+
 **Crop pages:** [Basil](/crops/basil/)  -  [Cilantro](/crops/cilantro/)  -  [Parsley](/crops/parsley/)  -  [Dill](/crops/dill/)  -  [Mint](/crops/mint/)  -  [Thyme](/crops/thyme/)  -  [Oregano](/crops/oregano/)  -  [Chives](/crops/chives/)
 
-**Related reading:** [Seeds vs Transplants](/roi/seeds-vs-transplants/)  -  cost comparison for starting herbs from seed versus buying starts
+**Related reading:** [Seeds vs Transplants](/roi/seeds-vs-transplants/)  -  cost comparison for starting herbs from seed versus buying starts; [Medicinal Herb Garden](/homestead/medicinal-herb-garden/) - valerian, echinacea, and the crops where medicinal value compounds the ROI case; [Grow Lights Cost Analysis](/roi/grow-lights-cost-analysis/) - whether indoor herb production under lights pencils out; [Microgreens ROI](/roi/microgreens-roi/) - fastest-turn herbs and greens grown as microgreens

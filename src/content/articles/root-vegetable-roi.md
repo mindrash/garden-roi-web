@@ -131,6 +131,8 @@ Parsnip: grow it if you can't buy it locally, or if you want to serve something 
 
 **Sources:** USDA AMS Specialty Crop Market News (retail price data); Purdue Extension Vegetable Production Guides (yield per square foot, spacing requirements); University of Minnesota Extension Root Vegetable Guides (days to maturity, storage, frost tolerance).
 
+Beyond the five crops compared here, several specialty root vegetables command higher retail prices and can outperform conventional roots on ROI math. [Celeriac](/crops/celeriac/) (celery root) retails for $3-5/lb and is rarely well-represented in grocery stores outside urban specialty markets. [Salsify](/crops/salsify/) and [scorzonera](/crops/scorzonera/) - oyster-flavored roots popular in European cooking - are nearly impossible to buy at retail and command $4-8/lb where they're offered at farmers markets. [Horseradish](/crops/horseradish/) is a perennial root that sells for $4-8/lb fresh and once established requires almost no annual maintenance. [Kohlrabi](/crops/kohlrabi/) and [rutabaga](/crops/rutabaga/) are faster-maturing brassica roots that fill the same seasonal slot as turnip with different flavor profiles worth exploring if you have bed space. [Mashua](/crops/mashua/) and [oca](/crops/oca/) are Andean tubers gaining interest among specialty growers - they're rarely available at retail and offer good opportunity for farmers market and community supported agriculture (CSA) sales.
+
 **Related crop pages:** [Carrot](/crops/carrot/) - [Beet](/crops/beet/) - [Radish](/crops/radish/) - [Turnip](/crops/turnip/) - [Parsnip](/crops/parsnip/)
 
 **Related articles:** [Vegetable Value Per Square Foot](/roi/vegetable-value-per-square-foot/) - [Raised Bed Break-Even](/roi/raised-bed-break-even/)

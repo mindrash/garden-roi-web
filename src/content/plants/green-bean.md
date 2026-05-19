@@ -127,6 +127,6 @@ At peak season, check plants every two to three days. More frequent picking sust
 
 ---
 
-**Related crops:** [Pole Bean](/crops/pole-bean/), [Cucumber](/crops/cucumber/), [Lettuce](/crops/lettuce/)
+**Related crops:** [Pole Bean](/crops/pole-bean/), [Cucumber](/crops/cucumber/), [Lettuce](/crops/lettuce/), [Runner Bean](/crops/runner-bean/), [Yardlong Bean](/crops/yardlong-bean/), [Hyacinth Bean](/crops/hyacinth-bean/)
 
 **Related reading:** [The Financial Case for Canning](/homestead/canning-financial-case/) - pressure canning green beans and the full economics of home food preservation; [Succession Planting Calendar](/guides/succession-planting-calendar/) - staggering bush bean plantings for a continuous supply; [Beginner Homestead Crops](/homestead/beginner-homestead-crops/) - which vegetables make sense for first-season gardens and why

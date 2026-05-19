@@ -153,4 +153,4 @@ The corn-just-harvested experience is real. It is not available at any grocery s
 
 **Related reading:** [Vegetable Value per Square Foot](/guides/vegetable-value-per-square-foot/) - complete crop comparison by space efficiency; [Succession Planting Calendar](/guides/succession-planting-calendar/) - timing back-to-back plantings in limited space
 
-**Related crops:** [Sweet Corn](/crops/sweet-corn/) - full growing guide with Three Sisters planting instructions; [Tomato](/crops/tomato/) - the high-value alternative for the same space
+**Related crops:** [Corn](/crops/corn/) - full growing guide with Three Sisters planting instructions; [Tomato](/crops/tomato/) - the high-value alternative for the same space; [Popcorn](/crops/popcorn/) - the one corn type that can justify home garden space through long storage and storable grain value; [Sunflower](/crops/sunflower/) - high-yield seed crop that uses comparable space with better per-square-foot returns; [Quinoa](/crops/quinoa/) - grain alternative for small-space gardens; [Soybean](/crops/soybean/) - protein crop that works in the same rotation without the space minimum

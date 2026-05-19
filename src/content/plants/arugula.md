@@ -16,6 +16,8 @@ description: "Arugula (Eruca vesicaria) - 0.5 lb per sq ft at $8/lb retail. Matu
 hero_image: /images/crops/arugula.webp
 ---
 
+Arugula is the fastest-payback crop in a home garden. A single square foot of bed space seeded with arugula costs roughly $0.10 in seed. In 30 to 40 days, that square foot yields 0.25 to 0.5 pounds of baby greens. At $6 to $10 per pound retail (USDA Agricultural Marketing Service Specialty Crops Market News, 2023-2024 terminal market averages for packaged baby arugula), that's $1.50 to $5.00 in recovered grocery cost from a single square foot in just over a month. No other food crop - not tomatoes, not peppers, not beans - approaches that payback speed. Tomatoes require 60 to 80 days before first fruit and heavy infrastructure; arugula requires a rake and some seed.
+
 A $2.49 packet of arugula seed contains enough seed to harvest somewhere between 15 and 20 pounds of baby greens across a full season. At Whole Foods, baby arugula runs $8 to $10 per pound. Do that math and you're looking at $120 to $200 in grocery value from a packet that costs less than a cup of coffee. No other salad green comes close on a per-dollar-of-seed basis. That's the whole argument, and it's a strong one - but only if you run successions correctly and understand when your arugula is producing its best leaves.
 
 ## What you're actually growing
@@ -88,6 +90,34 @@ Soil temperatures in late August are warm enough for fast germination (5-7 days 
 
 With this schedule, you have arugula available from early April through mid-May and again from mid-September through late October - roughly 12 to 14 weeks of active harvest across the season.
 
+## Zone 7+ winter production: the case for year-round arugula
+
+If you're in Zone 7 or warmer (average minimum winter temperatures above 0°F), arugula doesn't have to be a spring and fall crop. It can be a near-year-round one.
+
+Arugula survives light frosts without protection down to about 22 to 25°F. Under a single layer of floating row cover, it tolerates temperatures down to about 10 to 15°F. That covers most of winter in Zones 7 through 9. Below that, you need a low tunnel or cold frame. In Zones 9 and 10, arugula can grow through December, January, and February in open beds with no protection at all - the limiting factor shifts from cold to heat, and your summer gap becomes April through September rather than June through August.
+
+**Zone 7 year-round succession calendar:**
+
+| Sowing # | Direct Seed Date | Expected First Cut | Notes |
+|---|---|---|---|
+| 1 | Feb 15 | Mar 17-22 | Under row cover; last frost typically late Mar in Zone 7 |
+| 2 | Mar 1 | Apr 1-5 | Row cover optional by late March |
+| 3 | Mar 15 | Apr 14-18 | Last spring sowing before heat pressure builds |
+| 4 | Apr 1 | May 1-5 | Bolt watch begins; harvest at 3 inches |
+| --- | Apr 15 - Aug 1 | --- | Summer gap; direct seeding fails above 85°F soil temp |
+| 5 | Aug 1 | Aug 28 - Sep 4 | Early fall restart; evenings cooling, germination still reliable |
+| 6 | Aug 15 | Sep 12-17 | |
+| 7 | Sep 1 | Sep 29 - Oct 5 | Peak fall quality |
+| 8 | Sep 15 | Oct 13-18 | |
+| 9 | Oct 1 | Oct 29 - Nov 4 | Row cover helpful as nights drop below 40°F |
+| 10 | Oct 15 | Nov 12-17 | Row cover required; growth slows significantly |
+| 11 | Nov 1 | Dec 5-15 | Winter planting; very slow growth under cover |
+| 12 | Jan 15 | Feb 20-28 | Late winter planting as days lengthen |
+
+In the coldest months - December through February - growth slows dramatically because arugula's optimal growth temperature is 45 to 65°F and short days limit photosynthesis. A November planting may take 5 to 6 weeks to reach harvest size instead of the usual 3 to 4. But the plants do survive, and they do produce. Eliot Coleman's work on overwintering salad crops (Coleman, *Four-Season Harvest*, 1999) documents arugula as one of the hardiest candidates for cold-climate tunnel production precisely because it tolerates temperature swings and recovers quickly after freezes.
+
+Wild arugula (*Diplotaxis tenuifolia*) is particularly suited to year-round Zone 7+ production. Because it's perennial in Zone 6 and warmer, you can establish a permanent patch that comes back each spring from its root system. It grows more slowly than standard arugula - expect 45 to 60 days for a first cut rather than 28 to 35 - but once established, the regrowth is faster than starting from seed each time. A wild arugula patch in its second or third year can produce its first spring cut before standard arugula seedlings are even two inches tall.
+
 ## Spring vs. fall flavor: they're not the same crop
 
 This is the thing most arugula guides skip, and it matters.
@@ -126,9 +156,13 @@ Fall plantings often only yield two cuts before frost limits further regrowth, w
 
 ## What goes wrong
 
-**Bolting** is the defining failure mode. A bolting plant sends up a central flower stalk, the leaf production slows or stops, and the remaining leaves become sharply peppery and often tough. Once bolting starts, it doesn't reverse. Harvest everything you can immediately, then pull the plant. The flowers are edible - mildly peppery, good scattered in a salad - but the plant's useful life as a leaf crop is over.
+**Bolting** is the defining failure mode. A bolting plant sends up a central flower stalk, the leaf production slows or stops, and the remaining leaves become sharply peppery and often tough. Once bolting starts, it doesn't reverse. Harvest everything you can immediately, then pull the plant.
 
-Prevention: plant on time, harvest on schedule (don't let plants sit un-cut for three weeks), and use Astro or another heat-tolerant variety for late-spring plantings.
+The flowers are edible - mildly peppery, good scattered in a salad - and the shoot tips of a young bolt are actually a usable vegetable in their own right, like broccoli raab before the flowers fully open. A plant that has bolted isn't dead weight; it's just shifted into a different product category.
+
+Here's the move that costs nothing and pays dividends next year: let one plant per sowing complete its bolt and set seed. The seed pods dry down in 3 to 4 weeks from flowering. When the pods are brown and papery, give the plant a shake over your open hand - most home seed-savers don't even bother to collect formally, they just let a bolted plant stand in place until it drops its seeds into the bed. The following spring, you'll have volunteers emerging without any planting on your part. This is how arugula becomes effectively self-sustaining in a kitchen garden.
+
+Prevention on the front end: plant on time, harvest on schedule (don't let plants sit un-cut for three weeks), water consistently, and use Astro or another heat-tolerant variety for late-spring plantings. Arugula bolts fastest when it experiences drought stress followed by heat - the combination signals the plant that its window is closing and it needs to reproduce. Consistent soil moisture is the most reliable single bolt-prevention tool.
 
 **Flea beetles** (*Phyllotreta* spp.) are the most common arugula pest. These are tiny black or striped beetles, 1/16 to 1/8 inch long, that chew small round holes in leaves until the foliage looks like it was perforated with a hole punch. Seedling-stage plants are most vulnerable; established plants outgrow the damage. Row cover is the most effective control - install it at seeding and leave it in place until plants are 3 to 4 inches tall, or through the entire harvest if beetle pressure is severe. Floating row cover also provides a few degrees of frost protection in early spring and late fall, making it doubly useful for arugula.
 
@@ -146,6 +180,6 @@ If you let a few late-season plants flower and go to seed, the seed pods dry dow
 
 ---
 
-**Related crops:** [Lettuce](/crops/lettuce/), [Kale](/crops/kale/)
+**Related crops:** [Lettuce](/crops/lettuce/), [Spinach](/crops/spinach/), [Kale](/crops/kale/)
 
-**Related reading:** [Spring Garden Planning](/guides/spring-garden-planning/)  -  timing cool-season crops by zone so arugula has the right weather window to produce; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  why pre-washed arugula carries a premium that home-grown replaces at near-zero marginal cost; [Winter Garden Planning](/planning/winter-garden-planning/) - arugula survives to 22°F, extends the season; [Continuous Harvest Crops](/planning/continuous-harvest-crops/) - arugula succession every 2 weeks
+**Related reading:** [Salad Greens ROI](/roi/salad-greens-roi/)  -  per-pound retail price data and full ROI comparison across arugula, lettuce, spinach, and mixed greens; [Succession Planting Calendar](/guides/succession-planting-calendar/)  -  zone-by-zone sowing schedule for continuous harvest across all cool-season crops; [Spring Garden Planning](/guides/spring-garden-planning/)  -  timing cool-season crops by zone so arugula has the right weather window to produce; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  why pre-washed arugula carries a premium that home-grown replaces at near-zero marginal cost; [Winter Garden Planning](/guides/winter-garden-planning/) - arugula survives to 22°F, extends the season

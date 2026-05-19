@@ -64,6 +64,24 @@ You don't need to be precise about this. Harvest frequently by cutting stems six
 
 **Fusarium wilt** (*Fusarium oxysporum* f.sp. *basilici*) causes sudden wilting of one branch or the whole plant, often with brown vascular discoloration visible if you cut the stem. It's soilborne and persists for years. There's no treatment. Don't plant basil in the same bed where you've had fusarium wilt. Some commercial sweet basil cultivars are fusarium-resistant; check seed catalogs for this designation.
 
+### Fusarium wilt and the Genovese problem
+
+Fusarium wilt has fundamentally changed what Genovese basil looks like in commercial production since around 2012. *Fusarium oxysporum* f.sp. *basilici* spread through contaminated seed and is now endemic in most major basil-producing regions in the U.S. and Europe. Cornell University Plant Pathology documented the outbreak's progression and the near-collapse of the fresh-cut Genovese market in certain regions (Elmer & Ferrandino, Cornell Cooperative Extension, 2014). The pathogen clogs the plant's vascular system; by the time you see wilting, the plant is already dying.
+
+Identification is specific: the plant wilts suddenly, often in one branch first, and the stem shows brown or reddish-brown discoloration in the vascular tissue when cut crosswise. This is different from drought wilt, which recovers with water, and from root rot, which usually shows at the base first. If the stem is brown inside and the soil isn't bone dry, assume fusarium.
+
+The soilborne inoculum persists for years. Crop rotation doesn't fully eliminate it because the pathogen can persist in soil even without a host. Resistant varieties are the practical answer.
+
+**The Cornell-linked varieties worth knowing:**
+
+- **Nufar** - the first commercially successful fusarium-resistant Genovese type, developed through breeding work that included Cornell collaborators. It has the Genovese leaf shape and flavor profile and has been widely adopted in commercial production as the standard resistant cultivar. Seed is readily available from major suppliers.
+
+- **Devotion** - bred by PanAmerican Seed, also fusarium-resistant, with a compact habit that works well in containers. Flavor runs close to standard Genovese.
+
+- **Dolce Fresca** - All-America Selections winner, bred for fusarium resistance and downy mildew tolerance. Compact plant, good for small-space growing or pots. Flavor is mild Genovese, not as intense as Nufar.
+
+If you're growing Genovese basil in a bed that has had basil previously, start with Nufar or Dolce Fresca and avoid standard Genovese seed unless you can confirm the bed has no history of wilt. The yield penalty for using resistant varieties is negligible; there's no good reason to gamble on susceptible seed in a contaminated bed.
+
 **Aphids** colonize new growth and secrete honeydew that leads to sooty mold. A hard water spray removes most colonies. Insecticidal soap works for heavier infestations.
 
 **Japanese beetle** (*Popillia japonica*) feeds on basil leaves and can skeletonize plants quickly in regions where populations are high. Hand-picking in the morning (when beetles are sluggish) is the most practical control for a small number of plants.
@@ -74,11 +92,49 @@ Cut stems in the morning after dew dries and the aromatic oils are at their peak
 
 For longer storage, blend leaves with just enough olive oil to make a paste and freeze in ice cube trays. The color won't be as bright as fresh, but the flavor holds better than drying. Full-leaf drying works but results in significant flavor loss compared to the fresh herb  -  dried basil is useful for long-cooked dishes, not for finishing.
 
+## Preservation: the real numbers
+
+Most gardeners who grow basil well end up with more of it than they can use fresh in August and early September. This is where the ROI story gets more interesting, because the gap between home-grown and retail gets wider when you're measuring preserved product.
+
+### Freezing: two methods, different results
+
+**Oil-blanch freezing** gives you the closest result to fresh. Blanch whole leaves in boiling water for two seconds, then transfer immediately to ice water. Pat dry, layer in a single layer on a baking sheet lined with parchment, freeze solid (one to two hours), then transfer to a sealed freezer bag. Frozen this way, basil holds for eight to ten months with minimal flavor loss. The blanching step deactivates the polyphenol oxidase enzyme responsible for browning, which is why the leaves come out green rather than black (UC Davis Postharvest Technology Center, *Herb Handling*, 2015). The texture goes soft - these leaves are for cooking, not for garnishing.
+
+**Raw freezing** skips the blanch. The leaves turn black and the texture deteriorates faster, but the method is faster and works fine if you're making pesto or soups where color doesn't matter. Freeze in a single layer first to keep leaves from clumping, then bag them. Use within four to six months.
+
+**Oil paste** - the method described above in the storage section - is the most practical approach for high-volume surplus. Blend leaves with olive oil in roughly a 2:1 ratio by volume, pour into ice cube trays, freeze solid, bag the cubes. Each cube equals roughly two tablespoons of fresh-packed basil. Drop a cube directly into a hot pan or into a sauce at the end of cooking.
+
+Drying Genovese basil is not worth your time for culinary purposes. Linalool and eugenol - the volatile compounds that define fresh basil's aroma - are largely gone after drying. What you get is a faint shadow of the fresh herb that functions as a completely different flavoring. Dried basil has its uses, but they don't include replacing fresh basil in applications where fresh basil matters. If you have so much basil you don't know what to do with it, make pesto.
+
+### Pesto batch math
+
+One pound of fresh basil leaves (stems removed, leaves only) makes approximately two cups of finished pesto by standard formulations - about 1 cup basil packed, 1/3 cup pine nuts, 1/3 cup Parmesan, 2-3 cloves garlic, 1/2 cup olive oil per batch (Cornell Cooperative Extension, *Basil*, Vegetable Varieties for Gardeners database). Scale that up to a full-pound batch: roughly 3.5-4 cups of pesto.
+
+At retail, prepared fresh basil pesto runs $8–$12 per cup (USDA AMS retail surveys for specialty food items, 2023). A full-pound batch produces $28–$48 in retail-equivalent pesto, not counting pine nuts, Parmesan, garlic, and oil. Strip out the added ingredients (figure $6–$9 in nuts, $3–$4 in Parmesan, $2–$3 in oil), and the basil itself is returning $17–$36 in final product value from one pound of leaves.
+
+Now trace that back to seed cost. A healthy Genovese plant started from a $0.10 seed - pennies in a packet of 50-plus - yields 0.5–1.5 lb of leaves in a season with regular pinching (Penn State Extension, *Herb Production*, 2019). At the lower yield, that's one batch of pesto, $17–$36 retail equivalent. At 1.5 lb yield, you're closer to $25–$54. The $0.10 seed is not the variable that matters here.
+
+What actually limits your return is whether you have freezer space and whether you make the pesto before the plant flowers. Both are solvable problems.
+
+**Basil salt** is a preservation option with a longer shelf life than frozen pesto. Layer fresh basil leaves with fine sea salt in a jar (roughly 1 part salt to 3 parts basil by weight), pack tightly, and refrigerate or keep in a cool dark place. The salt draws moisture and acts as a preservative; the result keeps six months to a year and flavors pasta water, brines, and marinades directly. It's not a substitute for fresh basil, but it's a use for the stems and smaller leaves you'd otherwise discard.
+
+## Full-season management: one seed, one plant, October harvest
+
+The typical trajectory for a basil plant is: plant in May, flush growth through July, set flower stalks in August, get ignored, die at first frost. That's a 90-day plant. You can extend it to 150-plus days with two additional steps.
+
+**Pinching through August.** The critical intervention is removing every flower stalk before it opens. Set a weekly reminder if you need to. Once basil goes fully to seed, the leaves turn bitter and production stops. Keep it from flowering and it keeps producing. This isn't complicated but it requires showing up consistently.
+
+**September pot-up and indoor move.** In the last week of August or first week of September - depending on your frost dates - dig your best-performing plant and move it into a 10–12" container with fresh potting mix. Bring it inside before the first frost forecast. A sunny south-facing window with six-plus hours of direct light will keep it alive and productive. Growth slows indoors but doesn't stop. You can reasonably harvest fresh basil from a garden-started plant through October and into November if you started the transition early enough.
+
+This doesn't work if you wait until the night before frost. The plant needs time to adjust to indoor conditions - lower light, lower humidity, less airflow. Make the move two to three weeks before your average first frost date and you'll have a plant that transitions successfully.
+
+**One practical note:** basil grown indoors over winter tends to get leggy and is susceptible to spider mites in dry indoor air. It's not a permanent houseplant. The goal is extending the harvest window by six to eight weeks, not overwintering indefinitely. Start fresh from seed next spring.
+
 ---
 
-**Related crops:** [Tomato](/crops/tomato/), [Mint](/crops/mint/), [Thai Basil](/crops/thai-basil/)
+**Related crops:** [Tomato](/crops/tomato/), [Mint](/crops/mint/), [Thai Basil](/crops/thai-basil/), [Holy Basil](/crops/holy-basil/)
 
-**Related reading:** [Herb Preservation Guide](/homestead/herb-preservation-guide/) - basil pesto frozen in ice cube trays is the best way to store a summer surplus; [Herb Garden ROI](/roi/herb-roi-comparison/) - the 8 highest-value culinary herbs compared; [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about common pairings; [Dehydrator ROI](/homestead/dehydrator-roi/) - dried basil returns $250+/lb retail equivalent
+**Related reading:** [Herb Preservation Guide](/homestead/herb-preservation-guide/) - detailed methods for freezing, drying, and salting herbs through the season; [Herb Garden ROI](/roi/herb-roi-comparison/) - the 8 highest-value culinary herbs compared; [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about common pairings; [Dehydrator ROI](/homestead/dehydrator-roi/) - dried basil returns $250+/lb retail equivalent
 
 *Companion planting note:* Basil is commonly planted near [tomatoes](/crops/tomato/) based on folk claims about improved flavor and pest deterrence. Volatile compounds from basil (*linalool*, *eugenol*) have shown repellent effects on *Spodoptera* species and aphids in laboratory studies (Hummelbrunner & Isman, *Journal of Chemical Ecology*, 2001). Field-scale yield benefit has not been consistently demonstrated. Grow them together for the culinary convenience of having both in the same bed; don't count on the pest deterrence as a control strategy.
 

@@ -105,6 +105,6 @@ For drying, tie small bundles and hang upside down in a dry, ventilated space ou
 
 ---
 
-**Related crops:** [Tomato](/crops/tomato/), [Basil](/crops/basil/)
+**Related crops:** [Tomato](/crops/tomato/), [Basil](/crops/basil/), [Marjoram](/crops/marjoram/), [Winter Savory](/crops/winter-savory/), [Summer Savory](/crops/summer-savory/)
 
 **Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  perennial herbs that produce at zero replanting cost once established

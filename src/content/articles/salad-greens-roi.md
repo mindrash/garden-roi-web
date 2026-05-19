@@ -157,7 +157,7 @@ Pre-washed, pre-dried, pre-bagged salad is convenient in a way that homegrown is
 
 Whether that time has value depends on your situation. If you're already in the garden pulling weeds or watering, the harvest adds almost nothing to the visit. If the garden is a separate activity from everything else, the time cost is real and should be counted.
 
-The second thing you can't fully replace: specific items in specialty mixes. Commercial spring mix often includes frisee, tatsoi, radicchio, and mizuna alongside the core lettuce and arugula. These are growable at home (tatsoi in particular is easy and cold-hardy), but they require separate packets, separate succession planning, and more management complexity. A simple 4-crop bed of lettuce, arugula, spinach, and mache covers 80 to 90% of what's in a commercial mix. Getting to 100% requires going deeper into specialty green production.
+The second thing you can't fully replace: specific items in specialty mixes. Commercial spring mix often includes tatsoi, mizuna, radicchio, and chrysanthemum greens alongside the core lettuce and arugula. These are growable at home - [tatsoi](/crops/tatsoi/) in particular is easy and cold-hardy, [mizuna](/crops/mizuna/) germinates fast and cuts cleanly, and [chrysanthemum greens](/crops/chrysanthemum-greens/) add a distinctive flavor popular in Asian cuisines. [Sorrel](/crops/sorrel/) is another cut-and-come-again perennial green worth adding once you're ready to expand beyond the basics - it provides a lemony tartness that no other salad green replicates. A simple 4-crop bed of lettuce, arugula, spinach, and mache covers 80 to 90% of what's in a commercial mix. Getting to 100% requires going deeper into specialty green production.
 
 ## Comparing to Other High-Value Garden Crops
 
@@ -165,7 +165,7 @@ Salad greens are not the highest-value crop per square foot in every garden. See
 
 The seed-to-harvest time is short (30 to 45 days vs. 70 to 90 days for tomatoes). The retail equivalent price is high ($12 to $28/lb for the mix equivalent). The cut-and-come-again model gives you multiple harvests from one planting. And the crop is one you actually buy regularly at a price point that makes the comparison visible every week.
 
-For planning when and where to plant salad greens in a full-season rotation, see the [succession planting calendar](/planning/succession-planting-calendar/). Salad greens fit into bed transitions between winter cover crops and summer fruiting crops in a way that fills calendar gaps rather than competing for prime summer bed space.
+For planning when and where to plant salad greens in a full-season rotation, see the [succession planting calendar](/guides/succession-planting-calendar/). Salad greens fit into bed transitions between winter cover crops and summer fruiting crops in a way that fills calendar gaps rather than competing for prime summer bed space.
 
 ## Tracking the Numbers
 

@@ -138,4 +138,4 @@ Three problems are worth knowing before they appear.
 
 **Related crops:** [Strawberry](/crops/strawberry/), [Arugula](/crops/arugula/)
 
-**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  how perennial fruit crops build value over time; [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  the economics of cane fruits across a 10-year planting lifecycle
+**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  how perennial fruit crops build value over time; [Perennial Garden Economy](/roi/perennial-garden-economy/)  -  the economics of cane fruits across a 10-year planting lifecycle; [Raspberry ROI Analysis](/roi/raspberry-roi-analysis/) - per-cane yield data and break-even calculation for a home planting

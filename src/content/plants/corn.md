@@ -100,4 +100,4 @@ Don't plant next year's corn in the same spot. Rotate to avoid soilborne smut an
 
 **Related crops:** [Green Bean](/crops/green-bean/), [Acorn Squash](/crops/acorn-squash/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings including the Three Sisters system
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings including the Three Sisters system; [Is Corn Worth Growing?](/roi/is-corn-worth-growing/) - space requirements versus return compared with high-value alternatives

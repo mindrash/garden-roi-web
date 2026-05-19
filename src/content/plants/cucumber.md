@@ -24,19 +24,21 @@ For fresh eating, the returns are still solid. At $1.78/lb average retail (USDA 
 
 The category matters more with cucumbers than with most vegetables. Growing the wrong type for your intended use is the most common mistake beginners make, and it's entirely avoidable.
 
-**Slicing cucumbers** - Straight Eight, Marketmore 76, Burpless types - are bred for fresh eating. They run 7–9 inches, have thick smooth skin, mild flavor, and low bitterness. The flesh is moist and seedy toward the center. They're what you find in every grocery store. Harvest them at the right size and they're excellent. Try to pickle them and you'll get soft, waterlogged pickles because the thick skin slows brine penetration and the wet flesh doesn't hold its crunch after processing.
+**Slicing cucumbers** - Marketmore 76, Straight Eight, Diva - are bred for fresh eating. They run 8–9 inches, have thick smooth skin, mild flavor, and low bitterness. Diva is an All-America Selections winner with seedless interior and thin skin - it's the best slicing choice if you want a fruit that eats more like a Persian without paying Persian prices at the seed counter. At $1.50–$2.00/lb retail (USDA AMS 2023), slicers deliver solid fresh-eating ROI but limited premium pricing potential. The flesh is moist and seedy toward the center. They're what you find in every grocery store. Harvest them at the right size and they're excellent. Try to pickle them and you'll get soft, waterlogged pickles because the thick skin slows brine penetration and the wet flesh doesn't hold its crunch after processing.
 
-**Pickling cucumbers** - National Pickling, Calypso, Kirby - are shorter (3–5 inches at full size), have thinner skin, bumpier surface, and drier, crisper flesh. The thin skin lets brine penetrate quickly and evenly. The dry flesh stays firm through the vinegar bath. You can eat them fresh - they're good - but they won't impress anyone expecting a grocery-store slicer. Process them at 2–4 inches for whole dill pickles, or 4–5 inches for sliced bread-and-butter style. If you want pickles that actually hold their crunch, grow pickling cucumbers. There's no substitute.
+**Pickling cucumbers** - Calypso, National Pickling, H-19 Little Leaf - are shorter (3–5 inches at full size), have thinner skin, bumpier surface, and drier, crisper flesh. H-19 Little Leaf is worth calling out specifically: it's a compact, parthenocarpic variety (sets fruit without pollination), which makes it useful for protected growing under row cover or in areas with low bee activity. It also has strong powdery mildew resistance. Fresh, pickling cucumbers retail for $1.00–$1.50/lb - lower than slicers or Persians. The value case for pickling types is not in fresh sale price. It's in the processed value of what comes out of the canning jar. The thin skin lets brine penetrate quickly and evenly. The dry flesh stays firm through the vinegar bath. You can eat them fresh - they're good - but they won't impress anyone expecting a grocery-store slicer. Process them at 2–4 inches for whole dill pickles, or 4–5 inches for sliced bread-and-butter style. If you want pickles that actually hold their crunch, grow pickling cucumbers. There's no substitute.
 
-**Persian/snacking cucumbers** - Persian Baby, Beit Alpha - run 4–6 inches, are nearly seedless, have thin edible skin, and a sweet, clean flavor. They produce in clusters and don't require peeling. At retail they command $2–$4/lb because specialty grocers can charge it, and farmers market customers will pay $3–$4 for a basket. If you're growing for fresh eating and want the best possible fruit for snacking or appetizer boards, this is the category. They're not ideal for pickling because the flesh is denser and the size makes for awkward whole pickles.
+**Persian/mini cucumbers** - Beit Alpha types, Persian Baby - run 4–6 inches, are nearly seedless, have thin edible skin, and a sweet, clean flavor. They produce in clusters and don't require peeling. At retail they command $3–$5/lb (USDA AMS Fresh Fruit and Vegetable Shipment Reports; Whole Foods Market and specialty grocer pricing surveys, 2023), and farmers market customers will pay that rate for a pint basket without hesitation. The premium over slicers reflects both the seedless interior and the absence of the thick waxy peel you have to shave off a standard grocery-store slicer. If you're growing for fresh eating and want the best ROI per pound at market or as a home grower avoiding retail, this is the category to prioritize. They're not ideal for pickling because the denser flesh and compact size makes for awkward whole pickles and slower brine penetration.
 
 Retail prices from USDA AMS; days to maturity from Johnny's Selected Seeds and Burpee variety data.
 
 | Type | Key Varieties | Days to Harvest | Harvest Size | Retail Price | Best Use |
 |------|--------------|-----------------|--------------|--------------|----------|
-| Slicing | Straight Eight, Marketmore 76, Burpless | 55–65 days | 7–9 inches | $1.00–$2.00/lb | Fresh eating, salads |
-| Pickling | National Pickling, Calypso, Kirby | 50–60 days | 2–5 inches | $1.00–$1.50/lb | Pickles, preserved |
-| Persian/snacking | Persian Baby, Beit Alpha | 60–70 days | 4–6 inches | $2.50–$4.00/lb | Fresh eating, snacking |
+| Slicing | Marketmore 76, Straight Eight, Diva | 55–65 days | 8–9 inches | $1.50–$2.00/lb | Fresh eating, salads |
+| Pickling | Calypso, National Pickling, H-19 Little Leaf | 50–58 days | 3–5 inches | $1.00–$1.50/lb fresh; high processed value | Dill pickles, bread-and-butter, preserved |
+| Persian/Mini | Beit Alpha types, Persian Baby | 60–70 days | 4–6 inches, seedless | $3.00–$5.00/lb | Fresh eating, snacking, appetizer boards |
+
+Retail price ranges from USDA AMS Fresh Fruit and Vegetable Shipment Reports (2023) and specialty produce market surveys. Variety days-to-maturity from Johnny's Selected Seeds and Burpee trial data.
 
 The other split worth knowing: **monoecious** vs. **gynoecious** types. Standard cucumbers produce separate male and female flowers on the same plant. Most modern hybrid varieties are gynoecious - predominantly female flowers, more fruit set, earlier production. Gynoecious seed packets typically include a few seeds of a monoecious pollinator variety for a reason: all-female flowers need pollen from somewhere. Read the packet before assuming all the seeds are the same.
 
@@ -44,15 +46,41 @@ The other split worth knowing: **monoecious** vs. **gynoecious** types. Standard
 
 A $2.99 packet of National Pickling or Calypso cucumber seed contains 25–30 seeds. Start four plants and thin to three. Those three plants, trellised and well-watered, will produce 25–35 lb of cucumbers over an 8–10 week harvest window. You don't need all of it for pickles, but here's what the math looks like when you use 10 lb:
 
-**10 lb pickling cucumbers** (from plants you grew from a $2.99 packet)
+**10 lb pickling cucumbers** (from 2–3 plants grown from a $2.99 packet)
 **Brine ingredients:** 2 quarts white vinegar ($1.50), pickling salt ($0.25), fresh dill ($0.50 or free if you grow it), garlic ($0.25) - total roughly $2.50
 **Jars:** reused from previous seasons, or $12–$15 for a case of 12 wide-mouth pints
 
-10 lb of 3–4 inch cucumbers packs approximately 8–10 pint jars. Water bath processed at 10 minutes, they're shelf-stable for 1–2 years. At $4–$7 per pint retail (USDA ERS specialty food pricing; farmers market surveys), that's $32–$70 in product value from $2.99 in seed plus $2.50 in brine ingredients.
+Ten pounds of 3–4 inch pickling cucumbers packs approximately 7–8 quart jars or 14–16 pint jars. Water bath processed at 10 minutes, they're shelf-stable for 12–18 months. At $5–$7 per quart jar retail (USDA ERS specialty food pricing; farmers market surveys from the Upper Midwest and Northeast), that's $35–$56 in preserved value from 7–8 quarts - from $2.99 in seed plus $2.50 in brine ingredients. The raw cucumbers themselves, at $1.00–$1.50/lb fresh, represent $10–$15 in field value. You're tripling to quadrupling that value in the jar.
 
-The first year you buy jars, the jar cost eats into returns. After that, the math is lopsided in your favor. A case of 12 pint jars at $13 amortized over five years of use is essentially zero.
+The 2–3 plants that supply 10 lb of cucumbers for a pickling batch represent the low end of what productive pickling plants deliver. Three well-managed Calypso plants trellised on a 5-foot panel will typically produce 25–35 lb over an 8–10 week season - enough for three or four full pickling batches. That's 21–32 quarts of shelf-stable dill pickles from a garden footprint smaller than a card table.
+
+The first year you buy jars, the jar cost eats into returns. After that, the math is lopsided in your favor. A case of 12 quart jars at $14 amortized over five years of use is essentially zero. If you're preserving with lacto-fermentation instead of vinegar pickling, the economics get even more favorable - no vinegar, no lids to replace, and the process adds probiotic value that refrigerator or canned pickles don't deliver. See [lacto-fermentation and preservation](/homestead/lacto-fermentation-preservation/) for how the process works and what it costs.
 
 **Quick refrigerator pickle framework:** For 4 pints refrigerator dills, pack 4 lb of 4-inch pickling cucumbers (halved or speared) into clean pint jars. Bring 2 cups white vinegar, 2 cups water, and 2 tablespoons pickling salt to a boil. Add 2 cloves garlic and 1 fresh dill head per jar, pour hot brine over cucumbers leaving 1/2 inch headspace, cool, cap, and refrigerate. Ready in 48 hours. Good for 2–3 months in the refrigerator without water bath processing.
+
+## Trellis vs. ground: the yield-per-square-foot math
+
+This is where cucumber ROI separates from most vegetables. Ground-grown cucumbers sprawl. A standard recommendation for non-trellised cucumbers is one plant per 6–9 square feet to avoid vine tangling and allow harvest access. A four-plant planting of slicing cucumbers running in hills on the ground will consume 30–36 square feet of bed space.
+
+Trellis the same four plants on a 5-foot cattle panel or wire mesh trellis, spacing them 18 inches apart in a row, and they occupy 6 linear feet of trellis - roughly 6–8 square feet of bed footprint. The vines climb vertically. The fruit hangs. The footprint shrinks by roughly 75%.
+
+The University of Kentucky Cooperative Extension Service cucumber production trials (UK Extension publication ID-128) found that trellised cucumbers consistently produce equivalent or higher per-plant yields compared to ground-grown, while requiring 50–70% less horizontal bed space. This is not a minor operational detail. In a 4x8 raised bed, the math looks like this:
+
+**Ground-grown cucumbers - 4x8 raised bed (32 sq ft)**
+- 2 plants at 12–14 sq ft each = 28–32 sq ft
+- Per-plant yield: 8–10 lb slicing cucumbers
+- Total bed yield: 16–20 lb
+- At $1.75/lb: $28–$35 per bed per season
+
+**Trellised cucumbers - 4x8 raised bed with 6-foot back trellis**
+- 5–6 plants at 18-inch spacing along trellis
+- Per-plant yield: 8–10 lb (equivalent to ground, per UK Extension trials)
+- Total bed yield: 40–60 lb
+- At $1.75/lb: $70–$105 per bed per season
+
+The difference is not yield per plant but plants per bed. Trellising does not magic additional production out of each vine; it compresses the footprint so you can run more plants in the same space. If you're comparing cucumber to zucchini on a square-footage basis, see the [zucchini comparison](/crops/zucchini/) - zucchini wins on raw pounds per plant but loses on space efficiency once you account for its fixed sprawl.
+
+A 5-foot cattle panel arch between two 4x4 beds lets both beds use the same trellis, effectively doubling the growing surface while leaving the bed soil fully accessible. This is the standard setup for serious market gardeners growing cucumbers intensively.
 
 ## Growing requirements
 
@@ -88,7 +116,7 @@ For occasional bitter fruit: peel the cucumber starting from the blossom end, cu
 
 Powdery mildew (*Podosphaera xanthii*) is the primary foliar disease in cucumbers. It shows as gray-white powdery patches on the upper surfaces of older leaves, typically appearing in late summer as days shorten and dew periods lengthen. Mildew doesn't kill plants immediately, but it progressively weakens them and cuts the productive season short by 2–4 weeks. Plants that hit peak production in mid-July often show significant mildew by mid-August.
 
-Fungicide applications - sulfur-based or potassium bicarbonate - can slow progression but won't reverse existing infection. They work best as a preventive spray applied before symptoms appear on susceptible varieties.
+Fungicide applications - sulfur-based or potassium bicarbonate - can slow progression but won't reverse existing infection. They work best as a preventive spray applied before symptoms appear on susceptible varieties. For a full treatment protocol, see [powdery mildew treatment](/guides/powdery-mildew-treatment/).
 
 The better answer is variety selection. The following varieties carry documented powdery mildew resistance:
 
@@ -103,7 +131,7 @@ Non-resistant varieties like National Pickling and Straight Eight will typically
 
 **Cucumber beetles** - the striped cucumber beetle (*Acalymma vittatum*) and spotted cucumber beetle (*Diabrotica undecimpunctata howardi*) - are the most consequential pest. They feed on leaves, flowers, and fruit, but the real damage is what they carry: bacterial wilt (*Erwinia tracheiphila*). A plant that wilts suddenly during warm weather and doesn't recover overnight likely has bacterial wilt. Confirm by cutting a wilted stem and slowly pulling the cut ends apart - if sticky bacterial threads form between them, it's wilt. Remove the plant immediately. There is no treatment.
 
-Row cover from transplant until first flowers appear dramatically reduces beetle feeding during the vulnerable seedling stage. Remove the cover when female flowers open so pollinators can reach them.
+Row cover from transplant until first flowers appear dramatically reduces beetle feeding during the vulnerable seedling stage. Remove the cover when female flowers open so pollinators can reach them. For a complete management strategy including trap crops, kaolin clay, and spinosad application timing, see [cucumber beetle control](/guides/cucumber-beetle-control/).
 
 **Pollination failure** shows up as flowers dropping without setting fruit. Male flowers open first, one to two weeks before female flowers, which you can identify by the small swelling at the base of the flower. If female flowers appear but drop without setting, hand-pollinate by transferring pollen from a male flower to the female's center with a small paintbrush. Low bee activity during rain or cool spells is the usual cause, and it resolves on its own once weather improves.
 
@@ -121,6 +149,8 @@ For pickling: process within 24 hours of harvest if possible. The longer cucumbe
 
 ---
 
-**Related crops:** [Tomato](/crops/tomato/), [Green Bean](/crops/green-bean/)
+**Related crops:** [Tomato](/crops/tomato/), [Green Bean](/crops/green-bean/), [Zucchini](/crops/zucchini/)
 
-**Related reading:** [The Financial Case for Canning](/homestead/canning-financial-case/) - converting a cucumber surplus into pickles that store for a year; [Harvest Glut Triage](/homestead/harvest-glut-triage/) - what to do when the cucumber bed outruns your kitchen; [Raised Bed Break-Even](/roi/raised-bed-break-even/) - how to run the numbers on whether your garden investment pencils out
+**Related reading:** [The Financial Case for Canning](/homestead/canning-financial-case/) - converting a cucumber surplus into pickles that store for a year; [Lacto-Fermentation and Preservation](/homestead/lacto-fermentation-preservation/) - fermenting cucumbers without vinegar or canning equipment; [Harvest Glut Triage](/homestead/harvest-glut-triage/) - what to do when the cucumber bed outruns your kitchen; [Raised Bed Break-Even](/roi/raised-bed-break-even/) - how to run the numbers on whether your garden investment pencils out; [Cucumber ROI Analysis](/roi/cucumber-roi-analysis/) - yield per square foot and real return on a 4x8 bed
+
+**Pest and disease guides:** [Cucumber Beetle Control](/guides/cucumber-beetle-control/); [Powdery Mildew Treatment](/guides/powdery-mildew-treatment/)

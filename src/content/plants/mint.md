@@ -122,6 +122,6 @@ Container mint becomes root-bound after two to three years. When you see roots c
 
 ---
 
-**Related crops:** [Peppermint](/crops/peppermint/), [Spearmint](/crops/spearmint/), [Basil](/crops/basil/)
+**Related crops:** [Peppermint](/crops/peppermint/), [Spearmint](/crops/spearmint/), [Basil](/crops/basil/), [Apple Mint](/crops/apple-mint/), [Catnip](/crops/catnip/), [Bee Balm](/crops/bee-balm/), [Lemon Balm](/crops/lemon-balm/), [Lemon Verbena](/crops/lemon-verbena/)
 
 **Related reading:** [Herb Preservation Guide](/homestead/herb-preservation-guide/) - drying, freezing, and infusing mint; [Herb Garden ROI](/roi/herb-roi-comparison/) - the 8 highest-value culinary herbs compared; [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about mint's claimed pest-deterrent effects

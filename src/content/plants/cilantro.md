@@ -107,6 +107,6 @@ Drying cilantro is not worth the effort; the volatile oils responsible for its f
 
 ---
 
-**Related crops:** [Basil](/crops/basil/), [Garlic](/crops/garlic/)
+**Related crops:** [Basil](/crops/basil/), [Garlic](/crops/garlic/), [Shiso](/crops/shiso/), [Vietnamese Coriander](/crops/vietnamese-coriander/), [Chervil](/crops/chervil/), [Culantro](/crops/culantro/)
 
-**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  fresh herb prices at retail and what home-grown replaces per season; [Herb Garden ROI](/roi/herb-roi-comparison/)  -  the 8 highest-value culinary herbs compared; [First Garden: 10 Best Crops](/planning/beginner-10-crop-starter-guide/)  -  why cilantro makes the beginner list; [Continuous Harvest Crops](/planning/continuous-harvest-crops/)  -  succession planting schedule for cilantro
+**Related reading:** [Companion Planting Basics](/guides/companion-planting-basics/)  -  what the evidence actually says about common pairings; [Organic Produce Cost Analysis](/roi/organic-produce-cost-analysis/)  -  fresh herb prices at retail and what home-grown replaces per season; [Herb Garden ROI](/roi/herb-roi-comparison/)  -  the 8 highest-value culinary herbs compared; [First Garden: 10 Best Crops](/guides/beginner-10-crop-starter-guide/)  -  why cilantro makes the beginner list; [Continuous Harvest Crops](/guides/continuous-harvest-crops/)  -  succession planting schedule for cilantro

@@ -94,4 +94,4 @@ Cut the entire bine down (or lower it from overhead support) to harvest at groun
 
 ---
 
-**Related reading:** [Borage](/crops/borage/) - fellow companion plant; [Lavender](/crops/lavender/) - fellow perennial herb with high per-ounce value
+**Related reading:** [Borage](/crops/borage/) - fellow companion plant; [Lavender](/crops/lavender/) - fellow perennial herb with high per-ounce value; [Hops ROI Analysis](/roi/hops-roi-analysis/) - rhizome cost, expected yield in years 1-3, and the home-brewing cost case

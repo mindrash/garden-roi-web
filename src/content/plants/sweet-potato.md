@@ -112,4 +112,4 @@ After curing, store at 55–60°F in moderate humidity. Do not refrigerate - tem
 
 **Related crops:** [Arugula](/crops/arugula/), [Winter Squash](/crops/winter-squash/)
 
-**Related reading:** [Beginner Homestead Crops](/homestead/beginner-homestead-crops/)  -  where sweet potatoes fit in a first-year homestead growing plan; [Root Cellaring for the Modern Home](/homestead/root-cellaring-modern-home/)  -  how sweet potatoes cure and store for months, changing the seasonal harvest economics
+**Related reading:** [Beginner Homestead Crops](/homestead/beginner-homestead-crops/)  -  where sweet potatoes fit in a first-year homestead growing plan; [Root Cellaring for the Modern Home](/homestead/root-cellaring-modern-home/)  -  how sweet potatoes cure and store for months, changing the seasonal harvest economics; [Sweet Potato ROI Analysis](/roi/sweet-potato-roi-analysis/) - slip cost versus yield and the per-pound grocery savings comparison

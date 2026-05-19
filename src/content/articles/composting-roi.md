@@ -131,4 +131,4 @@ For gardeners already running [several beds year-round](/homestead/beginner-home
 
 ---
 
-**Related:** [Soil Test ROI](/roi/soil-test-roi/) covers whether a $20 county extension test is worth it before amending. Crops that benefit most from compost-improved soil: [tomatoes](/crops/tomato/), [kale](/crops/kale/), [garlic](/crops/garlic/), and [potatoes](/crops/potato/) - all heavy feeders on organic matter.
+**Related:** [Soil Test ROI](/roi/soil-test-roi/) covers whether a $20 county extension test is worth it before amending. Crops that benefit most from compost-improved soil: [tomatoes](/crops/tomato/), [kale](/crops/kale/), [garlic](/crops/garlic/), and [potatoes](/crops/potato/) - all heavy feeders on organic matter. See also: [Backyard Chickens Garden Integration](/homestead/backyard-chickens-garden-integration/) - using flock manure as a free composting input; [No-Dig Gardening ROI](/roi/no-dig-gardening-roi/) - how the no-till method interacts with compost application and soil biology.

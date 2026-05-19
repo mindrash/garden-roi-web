@@ -222,6 +222,8 @@ The fig, peach, and tart cherry break-even in years 2-5 are the most relevant ch
 
 For context on long-term perennial garden economics generally, see [Perennial vs. Annual Crops: 10-Year ROI Comparison](/roi/perennial-vs-annual-roi/), which covers how establishment cost and payback timing play out across perennial vegetables and herbs as well.
 
+Beyond the eight trees compared here, several specialty fruits are worth noting. [Passionfruit](/crops/passionfruit/) is a fast-payback vine in Zone 9-10 that produces intensely flavored fruit at $4-8 each retail and bears within its first or second year. [Feijoa](/crops/feijoa/) (pineapple guava) is a multi-use evergreen shrub in Zone 8-10 with fruit that retails for $3-6 each where it's available at all. [Hazelnut](/crops/hazelnut/) is a productive nut shrub in Zone 4-8 that bears in Years 3-5; nuts retail for $4-8/lb and the shrub provides wildlife habitat and landscape value beyond the harvest. [Peach](/crops/peach/) - the fastest-payback tree in the comparison - is the entry point for anyone planting a first orchard in Zones 5-8.
+
 ---
 
 The peach or fig you plant this spring will likely cover its cost before you harvest its third crop. The sweet cherry you plant this spring might not cover its cost until the second term of a president who hasn't run for office yet. Both are legitimate choices. The math makes the trade-off clear enough to decide.

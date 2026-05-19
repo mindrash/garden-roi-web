@@ -29,6 +29,56 @@ const CONTENT_DIR = path.resolve('src/content/articles');
 
 // Manual overrides for slugs where the title produces poor Unsplash results
 const SEARCH_OVERRIDES = {
+  // Pest and disease articles
+  'aphid-management': 'green aphid insect pest close up',
+  'blossom-end-rot': 'tomato blossom end rot calcium deficiency',
+  'cucumber-beetle-control': 'cucumber beetle garden pest striped',
+  'slug-and-snail-control': 'garden slugs snails pest lettuce leaves',
+  'squash-vine-borer': 'squash plant stem borer damage garden',
+  'tomato-leaf-problems': 'tomato plant leaf disease spots yellowing',
+  'nutrient-deficiency-guide': 'plant nutrient deficiency yellow leaves garden',
+  'overwatering-vs-underwatering': 'wilting plant soil moisture garden',
+  'powdery-mildew-treatment': 'powdery mildew white fungus plant leaves',
+  'root-rot-prevention': 'raised bed drainage soil healthy roots garden',
+  'why-plants-bolt': 'lettuce bolting flower going to seed garden',
+  // Specialty ROI articles
+  'hops-roi-analysis': 'hops bines growing harvest home brewery',
+  'saffron-roi-analysis': 'saffron crocus flower harvest spice',
+  'wasabi-roi-analysis': 'wasabi plant fresh root green',
+  'kale-roi-analysis': 'kale harvest garden bunches fresh',
+  'onion-roi-analysis': 'onion harvest curing drying garden',
+  'pepper-roi-analysis': 'hot pepper harvest colorful garden pile',
+  'rhubarb-roi-analysis': 'rhubarb stalks harvest garden spring',
+  'sweet-potato-roi-analysis': 'sweet potato harvest garden pile',
+  'blueberry-roi-analysis': 'blueberry harvest picking bush garden',
+  'raspberry-roi-analysis': 'raspberry harvest canes garden picking',
+  'asparagus-roi-analysis': 'asparagus harvest spring shoots garden',
+  'cucumber-roi-analysis': 'cucumber harvest garden vine picking',
+  'berry-roi-comparison': 'berry patch strawberry blueberry raspberry garden',
+  // Homestead and preservation
+  'wild-edibles-foraging-basics': 'foraging wild plants purslane dandelion garden',
+  'backyard-chickens-garden-integration': 'backyard chickens coop garden vegetables',
+  'cold-frame-construction-roi': 'cold frame garden season extension wood glass',
+  'solar-food-dehydrating': 'solar food dehydrator herbs drying outdoor',
+  'vacuum-sealing-garden-harvest': 'vacuum seal food preservation bags harvest',
+  'water-bath-vs-pressure-canning': 'canning jars water bath pressure canning kitchen',
+  'harvest-and-storage-planning': 'vegetable cellar storage root vegetables shelves',
+  'lacto-fermentation-preservation': 'fermented vegetables mason jars brine sauerkraut',
+  'pressure-canning-vegetables': 'pressure canner canning vegetables home kitchen',
+  // Pest management and planning
+  'deer-and-rabbit-fencing': 'deer fence garden protection netting',
+  'microgreens-roi': 'microgreens tray growing harvest seedlings',
+  'medicinal-herb-garden': 'medicinal herbs garden dried chamomile lavender',
+  'continuous-harvest-crops': 'cut and come again lettuce garden harvest',
+  'vegetable-value-per-square-foot': 'dense planting raised bed square foot garden',
+  'vertical-gardening-roi': 'vertical trellis garden pole beans cucumbers climbing',
+  'wasabi-roi-analysis': 'wasabi fresh green root Japanese ingredient',
+  'water-bath-vs-pressure-canning': 'canning jars preserved food mason jar shelf',
+  'why-plants-bolt': 'lettuce spinach bolting tall flower spring garden',
+  'wild-edibles-foraging-basics': 'dandelion purslane wild edible plants garden',
+  'winter-garden-planning': 'kale winter garden cold season vegetable',
+  'harvest-glut-triage': 'garden harvest abundance surplus vegetables overflow',
+
   'the-500-dollar-garden': 'raised bed vegetable garden first year',
   'csa-vs-home-garden': 'farmers market vegetables fresh produce',
   'how-to-find-local-prices': 'grocery store vegetables produce aisle',
@@ -59,7 +109,7 @@ const SEARCH_OVERRIDES = {
   'no-dig-gardening-roi': 'no dig garden cardboard compost mulch',
   'food-preservation-equipment-roi': 'canning jars dehydrator food preservation kitchen',
   'vertical-gardening-roi': 'vertical garden trellis pole beans cucumbers',
-  'crop-loss-risk-management': 'garden pest disease row cover plant protection',
+  'crop-loss-risk-management': 'row cover frost protection vegetable garden',
 };
 
 // Extract a usable search term from the article's frontmatter title

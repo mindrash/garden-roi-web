@@ -186,3 +186,5 @@ For most households that cook regularly and buy organic, the list tops out with 
 A 4x8 bed planted with 3 basil plants, a section of succession-planted greens, 2 tomato plants, 4 peppers, and a trellised cucumber - with garlic going in the same bed in October for next year's harvest - covers the core of what an organic-buying household wants to replace. Total input cost for that bed: $45-85. Estimated organic-price harvest value: $280-580 depending on season length and yield.
 
 The premium you were paying at the register doesn't disappear. You just stop paying it.
+
+**Related reading:** [CSA vs. Home Garden](/roi/csa-vs-home-garden/) - comparing the all-in cost of a CSA share against growing the same produce yourself; [ROI by Region](/roi/roi-by-region/) - how retail organic prices and growing seasons vary enough by geography to change the return calculation.

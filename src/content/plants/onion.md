@@ -100,6 +100,6 @@ The implication for garden planning: you can grow both types. Start yellow stora
 
 ---
 
-**Related crops:** [Tomato](/crops/tomato/), [Garlic](/crops/garlic/)
+**Related crops:** [Tomato](/crops/tomato/), [Garlic](/crops/garlic/), [Shallot](/crops/shallot/), [Scallion](/crops/scallion/), [Leek](/crops/leek/)
 
-**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  how storage crops like onions change the annual ROI calculation; [Root Cellaring for the Modern Home](/homestead/root-cellaring-modern-home/)  -  how cured onions store through winter and what that does to the seasonal harvest analysis
+**Related reading:** [First Three Years ROI](/roi/first-three-years-roi/)  -  how storage crops like onions change the annual ROI calculation; [Root Cellaring for the Modern Home](/homestead/root-cellaring-modern-home/)  -  how cured onions store through winter and what that does to the seasonal harvest analysis; [Onion ROI Analysis](/roi/onion-roi-analysis/) - per-square-foot returns on onion sets versus seed-grown bulbs

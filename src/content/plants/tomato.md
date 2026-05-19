@@ -177,11 +177,95 @@ At the end of the season, when frost is coming, pull any fruit that has started 
 
 **Stinkbugs** (*Halyomorpha halys*, brown marmorated stink bug, in the eastern US) pierce fruit skin to feed, leaving corky discolored patches under the surface. Hand-pick adults into soapy water. Row cover works as a physical barrier during fruit set but needs to come off once flowering starts to allow pollination.
 
+## Disease Resistance Codes: What VFN and VFFNTA Mean
+
+When you pick up a seed packet or a nursery transplant tag, you'll often see a string of letters after the variety name - "Celebrity VFFNTA" or "Better Boy VFN." These abbreviations are a shorthand disease resistance rating, and they matter more than most growers realize, especially in the humid eastern U.S. where soil-borne pathogens are common.
+
+Here is what each letter stands for:
+
+| Code | Full Name | Pathogen | Notes |
+|------|-----------|----------|-------|
+| V | Verticillium wilt | *Verticillium dahliae* | Soil-borne fungus; yellowing and wilt from lower leaves up; worse in cool, wet soils |
+| F | Fusarium wilt | *Fusarium oxysporum* f.sp. *lycopersici* race 1 | Soil-borne fungus; internal stem browning; common in warm southeastern soils |
+| FF | Fusarium wilt races 1 and 2 | *F. oxysporum* races 1 and 2 | Extended resistance; race 2 more prevalent in Florida and Gulf Coast |
+| N | Root-knot nematode | *Meloidogyne* spp. | Soil-borne; causes galling on roots; most severe in sandy soils with warm winters |
+| T | Tobacco mosaic virus | TMV | Viral; mosaic leaf pattern and stunting; spreads by contact and tools |
+| A | Alternaria stem canker | *Alternaria alternata* f.sp. *lycopersici* | Fungal; brown sunken cankers at stem base; different from early blight |
+
+Resistance is not immunity. A variety rated "V" will slow the progression of Verticillium wilt and often produce a viable crop even in infested soil; it won't stay symptom-free in heavily infested ground. In a new garden with no history of tomato disease, these codes matter less. In a bed where you've grown tomatoes for years, or in ground with naturally high nematode pressure (Florida, Gulf Coast, the Southeast generally), a cultivar's resistance package can be the difference between a crop and a total loss. The land-grant extension recommendation for growers in the Mid-Atlantic and Southeast is consistently to plant V and F rated varieties as a baseline (Cooperative Extension, University of Maryland, *Vegetable Diseases*, HG69, 2021; Penn State Extension, *Tomato Production for the Home Garden*, 2022).
+
+### Cultivar Resistance Profiles
+
+| Cultivar | Type | Resistance Codes | Habit | Notes |
+|----------|------|-----------------|-------|-------|
+| Celebrity | Slicer | VFFNTA | Determinate | The most complete resistance package of any widely available home garden variety; recommended by nearly every eastern extension service for disease pressure areas |
+| Better Boy | Slicer | VFN | Indeterminate | Long-season producer; good resistance for the common soil-borne trio; no TMV or Alternaria rating |
+| Sun Gold | Cherry | None listed | Indeterminate | No formal resistance codes; outstanding flavor and productivity; use in lower-pressure sites or with good rotation |
+| Cherokee Purple | Slicer/heirloom | None | Indeterminate | No disease resistance; susceptible to cracking and blight; grows best in drier climates (Pacific Northwest, Intermountain West) or with strict management |
+| Roma | Paste | VF | Determinate | Covers the core soil-borne fungi; no nematode resistance; good for beds with some Fusarium history |
+| San Marzano | Paste | None (traditional) | Indeterminate | True Neapolitan San Marzano has no coded resistance; commercial hybrids labeled "San Marzano type" sometimes carry VF; check the specific seed lot |
+
+If you're starting a new bed, any of these will work. If your soil has a history of tomato production, move toward Celebrity or Better Boy in the resistance column. If you're in a confirmed nematode zone (sandy soil, Zone 7b or warmer), the N rating is not optional - it's the one trait that separates a functional crop from one that stalls at knee height and never sizes fruit. For more on diagnosing disease by leaf symptoms, see [Tomato Leaf Problems](/guides/tomato-leaf-problems/).
+
+## Zone Transplant and Harvest Timing
+
+The single number on the seed packet - "days to maturity" - is measured from the date you set a 6-week-old transplant into the ground, not from seed germination. An 80-day tomato takes 80 days in the garden after transplant day. Add 6 weeks of indoor starting time to get your true seed-to-harvest window.
+
+The table below uses last-spring-frost and first-fall-frost averages from NOAA Climate Normals 1991-2020, matched to typical USDA hardiness zone ranges. Exact dates vary by location - use your county's local NOAA data or your state's extension service frost date lookup to dial in your site. These are regional averages, not guarantees.
+
+| Zone | Last Spring Frost | Transplant Window | First Harvest | First Fall Frost | Notes |
+|------|------------------|-------------------|---------------|-----------------|-------|
+| 3 | June 1-15 | June 10-20 | Late Aug (65-day varieties only) | Sept 1-15 | Frost-free window: ~90-100 days. Short-season varieties (Siletz, Early Girl, Glacier) required. Start transplants 8-10 weeks indoors before last frost. |
+| 4 | May 15-31 | May 20 - June 5 | Late July - Aug | Oct 1-15 | Frost-free: 120-140 days. Adequate for most 75-day varieties. Tight for 80+ day heirlooms; choose short-season options or use row cover at end of season. |
+| 5 | May 1-15 | May 5-20 | Late July | Oct 15 - Nov 1 | Frost-free: 150-170 days. Comfortable for any standard variety through 80 days. |
+| 6 | Apr 15 - May 1 | Apr 20 - May 5 | Mid-July | Oct 15 - Nov 1 | Frost-free: 170-190 days. Full range of varieties; consistent production through September. |
+| 7 | Apr 1-15 | Apr 5-20 | Early July | Nov 1-15 | Frost-free: 190-210 days. Two successions possible in some microclimates (spring and fall planting). |
+| 8 | Mar 1-31 | Mar 10 - Apr 1 | Late June | Nov 15 - Dec 1 | Frost-free: 220-240 days. Spring planting standard; summer heat (90°F+ sustained) can cause blossom drop July-Aug; fall planting (August transplant) avoids peak heat. |
+| 9 | Feb 1-28 | Feb 15 - Mar 10 | Late May - June | Dec 1-15 | Two full seasons typical: spring (transplant Feb-Mar) and fall (transplant Aug-Sept). Summer heat makes July-August a rest period. |
+| 10 | Frost-free or near | Jan-Mar; Aug-Sept | May (spring); Nov (fall) | Dec or frost-free | Near year-round production in coastal areas. Sustained heat (95°F+) is the limiting factor in summer, not frost. Fall season often the most productive. |
+
+A few notes that don't fit in a table:
+
+Zone 4-5 growers: if you're going for an 80-day heirloom like Brandywine, start transplants 8 weeks indoors, not the standard 6. The extra two weeks of indoor growth gives you a larger transplant that establishes faster and cuts two weeks off your in-ground window.
+
+Zone 7-8 growers: blossom drop during sustained heat above 90°F (day) or 75°F (night) is a real production limiter (UC Cooperative Extension, *Tomato Culture*, ANR 8017). Blossoms abort when night temperatures stay above 75°F because pollen tube elongation is disrupted. This isn't a disease or a management failure - it's the plant's response to heat. Production resumes when temperatures moderate. Heat-tolerant varieties like Heatmaster, Solar Fire, and Costoluto Genovese handle these windows better than standard slicers.
+
+For blossom end rot prevention across all zones, which becomes more common during the uneven watering that often follows transplant stress, see [Blossom End Rot](/guides/blossom-end-rot/).
+
+## End-of-Season Green Tomatoes
+
+The date frost shows up on your forecast doesn't have to mean the end of the harvest. How you handle the last three weeks of the season determines whether you get another 10-20 pounds of tomatoes or watch them freeze on the vine.
+
+**When to pull the vines:** If a frost below 32°F is predicted and the plants have set fruit at various stages of ripeness, pull the vines on the day before the frost, not after. A frost-damaged tomato is worthless - it collapses, develops off-flavors, and won't ripen indoors. A green tomato pulled 24 hours before frost can ripen on your counter. Watch for a hard freeze (28°F or below) specifically - a light frost at 31°F on a calm night may spare the fruit if you cover plants, but a 28°F freeze will kill both vines and fruit.
+
+**Ripening green tomatoes off-vine:** The ethylene-driven ripening process continues after harvest. What the fruit needs is warmth and darkness, not sunlight. The common advice to "put them in a sunny window" is wrong - light has no role in post-harvest ripening and heat from direct sun can cause uneven ripening or scalding. Store green tomatoes at 55-70°F in a single layer, not touching, in a dark or low-light location. A basement shelf or a drawer works. Check every 2-3 days and move any showing color to the counter for final ripening.
+
+Temperature matters: fruit stored at 55°F ripens slowly over 3-4 weeks. Fruit stored at 68-70°F ripens in 1-2 weeks. Below 50°F, the ripening process stalls and the tomato is likely to rot before it colors fully (USDA Complete Guide to Home Canning, Agriculture Information Bulletin 539, 2015, Section 3; Maul et al., *Postharvest Biology and Technology*, 2000). Don't refrigerate green tomatoes.
+
+**Which varieties finish best indoors:** Not all tomatoes ripen well off the vine. The varieties that handle end-of-season ripening best are the ones that have already begun the ripening process - fruit that has reached "mature green" stage (full size, seeds fully developed, internal gel formed) rather than immature green (small, hard, seeds not yet formed).
+
+| Variety | Off-vine ripening quality | Notes |
+|---------|--------------------------|-------|
+| Roma | Good | Paste varieties have denser flesh and fewer quality issues ripening indoors |
+| Celebrity | Good | Consistent ripener; flavor holds reasonably well |
+| Better Boy | Good | Standard slicer; ripens well if picked at mature green |
+| Rutgers | Good | Dense, less water-prone than heirlooms; holds texture |
+| Brandywine | Fair | Large fruit ripens unevenly indoors; texture can be mealy at room temp |
+| Cherokee Purple | Fair | Heirloom cell structure breaks down more quickly off-vine; use within a week of color change |
+| San Marzano | Good | Dense paste flesh; handles extended counter ripening well |
+| Sun Gold | Poor | Cherry tomatoes ripen fast and collapse quickly; eat within days of color change |
+
+The rule of thumb: paste and determinate varieties finish better off the vine than large heirlooms. Heirlooms like Brandywine and Cherokee Purple are worth pulling and ripening indoors if you're facing a hard freeze, but expect lower quality than vine-ripened fruit.
+
+Fully green, immature tomatoes - small and white-green inside with underdeveloped seeds - won't ripen satisfactorily indoors regardless of variety. If the interior gel hasn't formed, the fruit can't complete the ripening biochemistry. These are candidates for green tomato salsa, fried green tomatoes, or pickling, not for countertop ripening. The visual test: cut one open. If the seed cavities look like a ripe tomato's interior (gel-filled, seeds clearly developed), the remaining uncut fruit will ripen. If it looks like a dense white interior with immature seeds, it won't.
+
+For integrated management of tomato diseases that can affect your end-of-season fruit, see [Tomato Training Guide](/guides/tomato-training-guide/) for late-season staking adjustments that keep fruit off the ground as plants decline.
+
 ---
 
 **Related crops:** [Basil](/crops/basil/), [Cucumber](/crops/cucumber/), [Cherry Tomato](/crops/cherry-tomato/)
 
-**Related reading:** [Tomato Training Guide](/guides/tomato-training-guide/) - staking, caging, and suckering method comparison; [Garlic ROI Analysis](/roi/garlic-roi-analysis/) - how garlic compares to tomatoes as a high-value bed crop; [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about common pairings; [Harvest Glut Triage](/homestead/harvest-glut-triage/) - what to do when tomatoes come in all at once; [Dehydrator ROI](/homestead/dehydrator-roi/) - semi-dried tomatoes from garden gluts
+**Related reading:** [Tomato Training Guide](/guides/tomato-training-guide/) - staking, caging, and suckering method comparison; [Garlic ROI Analysis](/roi/garlic-roi-analysis/) - how garlic compares to tomatoes as a high-value bed crop; [Companion Planting Basics](/guides/companion-planting-basics/) - what the evidence actually says about common pairings; [Harvest Glut Triage](/homestead/harvest-glut-triage/) - what to do when tomatoes come in all at once; [Dehydrator ROI](/homestead/dehydrator-roi/) - semi-dried tomatoes from garden gluts; [Tomato Leaf Problems](/guides/tomato-leaf-problems/) - diagnosing yellowing, spots, and curl by cause; [Aphid Management](/guides/aphid-management/) - identification and control on high-value crops; [Root Rot Prevention](/guides/root-rot-prevention/) - drainage and watering practices that stop fungal root failure; [Pest ID and Treatment Thresholds](/guides/pest-id-treatment-thresholds/) - when to treat and when to ignore; [Nutrient Deficiency Guide](/guides/nutrient-deficiency-guide/) - reading deficiency symptoms from leaf color and pattern
 
 *Companion planting note:* The tomato-basil pairing is one of the most cited in home gardening. Volatile compounds from basil (*linalool*, *eugenol*) have shown repellent effects on *Spodoptera* species and aphids in controlled laboratory studies (Hummelbrunner & Isman, *Journal of Chemical Ecology*, 2001). Field-scale evidence for measurable yield benefit is limited. Plant basil near tomatoes if you want fresh basil; the potential pest-deterrent effect is a bonus, not a guarantee.
 

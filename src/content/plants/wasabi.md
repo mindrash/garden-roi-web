@@ -124,4 +124,4 @@ Price that risk honestly against the $25-40 of fresh rhizome at the end of it. F
 
 **Related crops:** [Arugula](/crops/arugula/), [Watercress](/crops/watercress/)
 
-**Related reading:** [Herb Garden ROI](/roi/herb-roi-comparison/) - value comparison for specialty herbs
+**Related reading:** [Herb Garden ROI](/roi/herb-roi-comparison/) - value comparison for specialty herbs; [Wasabi ROI Analysis](/roi/wasabi-roi-analysis/) - the case for rhizome-to-table production and whether the effort justifies the retail replacement value

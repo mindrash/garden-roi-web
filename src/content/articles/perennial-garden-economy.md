@@ -161,7 +161,7 @@ The median 10-year net across four perennial herbs ($0.50 lb yield per plant per
 
 That's from a space smaller than a large houseplant pot, for a one-time investment of $20.
 
-Chives, thyme, and oregano also divide readily every 3 to 4 years, giving you new divisions to expand plantings or share. Sorrel is a cut-and-come-again green through the whole season. Lovage - often called the poor man's celery - grows to 6 feet tall and provides celery-flavored stems, leaves, and seeds for kitchen use with zero annual input after Year 1.
+Chives, thyme, and oregano also divide readily every 3 to 4 years, giving you new divisions to expand plantings or share. [Sorrel](/crops/sorrel/) is a cut-and-come-again perennial green through the whole season - the lemony, slightly acidic leaves are excellent in salads and soups. [Lovage](/crops/lovage/) - often called the poor man's celery - grows to 6 feet tall and provides celery-flavored stems, leaves, and seeds for kitchen use with zero annual input after Year 1. [Bee balm](/crops/bee-balm/) (*Monarda* spp.) is another productive perennial in this category - both the flowers and leaves are edible, the dried flowers make a distinctive tea, and the plant spreads readily once established. [Sea buckthorn](/crops/sea-buckthorn/) is worth considering if you have space for a shrub: the tart orange berries are extremely high in vitamin C and sell for $8-20/lb at specialty stores when available at all.
 
 ---
 
