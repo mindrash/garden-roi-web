@@ -14,6 +14,13 @@ sunlight: Full sun (8+ hours; heat-loving, more sun = more fruit)
 companion_plants: [Basil, Tomato]
 description: "Eggplant (Solanum melongena) - Japanese types yield 5-11 lb per plant at $2.50/lb vs. 2-4 lb for globe types. Harvest when skin is glossy to avoid bitterness."
 hero_image: /images/crops/eggplant.webp
+faq:
+  - q: "How much does an eggplant yield per plant?"
+    a: "Globe types like Black Beauty yield 4 to 6 fruits (2 to 4 lb) per plant. Japanese and Chinese types yield 8 to 15 fruits (5 to 11 lb) per plant under good conditions. Asian varieties produce substantially more in the same space and are the better choice for ROI."
+  - q: "When should I harvest eggplant?"
+    a: "Harvest when the skin is glossy and the flesh springs back slightly when pressed. Dull skin indicates overripeness and bitterness. Cut rather than pull to avoid damaging the stem. Plants continue producing until frost if harvested regularly."
+  - q: "Does eggplant need a lot of heat?"
+    a: "Yes. Eggplant performs best with soil temperatures above 60 degrees and daytime highs of 70 to 85 degrees. In short-season zones, start transplants 8 to 10 weeks before last frost and use black plastic mulch to warm the soil and speed early production."
 ---
 
 Most people who grow eggplant grow Black Beauty, get four to six fruits per plant, and conclude that eggplant isn't worth the space. They're half right - Black Beauty isn't worth the space. Japanese and Chinese eggplant varieties are a different calculation entirely.

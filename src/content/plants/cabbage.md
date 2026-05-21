@@ -16,6 +16,13 @@ direct_sow_ok: false
 indoor_weeks_needed: 8
 description: "Cabbage (Brassica oleracea) stores fresh for weeks and ferments into sauerkraut worth $6-10/lb retail. One 3-lb head becomes multiple jars of shelf-stable food."
 hero_image: /images/crops/cabbage.webp
+faq:
+  - q: "Why do cabbage heads split?"
+    a: "Heads crack when rapid water uptake follows a dry period - the tight head cannot expand fast enough. Prevent this by maintaining consistent moisture throughout the season and harvesting promptly once heads are firm and fully formed."
+  - q: "How long does cabbage store after harvest?"
+    a: "Whole cabbage heads store 3 to 5 months at 32 to 40 degrees with high humidity (95%). Fermented into sauerkraut, the same heads keep 4 to 6 months refrigerated or up to 2 years if properly sealed in jars."
+  - q: "Is cabbage worth growing given the low retail price?"
+    a: "Fresh cabbage retails at $0.59 to $1.25/lb. The ROI case rests on fermentation: a 3 lb head (worth $3.75 at retail) fermented into sauerkraut produces 3 to 4 jars retailing at $6 to $10 each - a 5 to 10x value increase over raw weight."
 ---
 
 Cabbage (*Brassica oleracea* var. *capitata*) is cheap in the store - $0.59–$1.50/lb depending on season and location (USDA AMS National Retail Report, Fruits and Vegetables, 2023). At that price, the case for growing it on raw retail value alone is thin. The case for growing it rests on two things: the fermentation multiplier and storage. A 3-lb head of cabbage at $1.25/lb is $3.75. Fermented into sauerkraut and sold at a farmers market or premium grocery, that same cabbage yields 3–4 jars retailing at $6–$10 each. The transformation adds $18–$40 in value to a $3 raw ingredient.

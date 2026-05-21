@@ -14,6 +14,13 @@ sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Tomato", "Arugula"]
 description: "Parsley (Petroselinum crispum) - biennial that overwinters in zones 6+; cut-and-come-again through the season. Flat-leaf types have stronger flavor and better kitchen value."
 hero_image: /images/crops/parsley.webp
+faq:
+  - q: "What is the difference between flat-leaf and curly parsley?"
+    a: "Flat-leaf (Italian) parsley has significantly stronger flavor and is preferred for cooked dishes and sauces. Curly parsley has milder flavor, better texture for raw garnish, and slightly better cold tolerance. Flat-leaf is the more valuable culinary crop at $6/lb retail."
+  - q: "Is parsley an annual or a perennial?"
+    a: "Parsley is a biennial - it grows vegetatively in year one and flowers in year two before dying. In zones 6 and warmer, it overwinters and provides fresh herb through spring of year two before bolting. You can get up to 18 months of harvest from a single planting."
+  - q: "Why is parsley slow to germinate?"
+    a: "Parsley seeds have naturally slow germination, taking 3 to 4 weeks at 70 degrees. Soaking seeds in warm water for 24 hours before sowing speeds this significantly. Starting indoors 8 to 10 weeks before last frost gives transplants a strong head start on the season."
 ---
 
 Parsley (*Petroselinum crispum*) is one of the most persistently undervalued garden plants. It's slow to germinate, slow to establish, and then - once it does - it produces steadily for months, overwinters in most of the country, and comes back the following spring before bolting to seed. A single plant can provide fresh parsley from June through the following May in zone 6. That's an 11-month harvest from one $2.49 seed packet.

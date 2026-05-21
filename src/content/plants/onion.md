@@ -14,6 +14,13 @@ sunlight: Full sun (6-8 hours minimum)
 companion_plants: ["Tomato", "Carrot"]
 description: "Onion (Allium cepa) cures and stores 6-8 months, extending harvest value through winter. Sets cost $0.10-0.20 each and return $0.50-1.00 at retail weight."
 hero_image: /images/crops/onion.webp
+faq:
+  - q: "Should I plant onion sets or seeds?"
+    a: "Sets (small bulbs) are faster at 90 to 100 days to maturity versus 110 to 130 days from seed, and easier to plant. Seeds cost less and offer more variety options. For long-term storage onions, starting seeds indoors in January gives the best results in most zones."
+  - q: "How do I cure onions for long-term storage?"
+    a: "After pulling, dry onions in a warm location with good airflow for 2 to 4 weeks until tops and outer skin are papery-dry. Store cured onions at 35 to 50 degrees with low humidity. Properly cured storage onions keep 6 to 8 months."
+  - q: "What is the difference between long-day and short-day onions?"
+    a: "Long-day onions (Ailsa Craig, Yellow Sweet Spanish) bulb when days reach 14 to 16 hours - grown in zones 6 and north. Short-day onions (Vidalia types, Texas Super Sweet) bulb at 10 to 12 hours - suited for zones 7 to 9. Planting the wrong type for your latitude results in no bulb development."
 ---
 
 Onions (*Allium cepa*) are fundamentally a storage crop, and that's what separates their ROI math from crops you eat immediately. A tomato has to be consumed within days of harvest. An onion harvested in August sits in a cool pantry until February. That 6-month storage window means the value doesn't disappear if you have more than you can use in a week - which is almost always the case with a productive bed.

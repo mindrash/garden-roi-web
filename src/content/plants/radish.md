@@ -16,6 +16,13 @@ direct_sow_ok: true
 indoor_weeks_needed: 0
 description: "Radish (Raphanus sativus) - matures in 25 days at $2.50/lb, the fastest bed-rotation vegetable. Succession plant every 2 weeks for continuous spring harvests."
 hero_image: /images/crops/radish.webp
+faq:
+  - q: "How quickly does radish mature?"
+    a: "Spring radishes (Cherry Belle, French Breakfast) mature in 25 to 30 days from direct sowing - the fastest turnaround of any common vegetable. Daikon and winter radishes take 55 to 70 days. The speed makes radish ideal for succession planting and filling gaps between slower crops."
+  - q: "How do I prevent radishes from bolting?"
+    a: "Direct sow when soil temperature is 45 to 65 degrees - radishes bolt in heat and long days. Succession plant every 10 to 14 days from early spring until late spring, then restart in late summer for fall harvest. Avoid planting during summer in most zones."
+  - q: "Can I eat radish greens?"
+    a: "Yes. Young radish greens are edible and mildly peppery; older leaves become hairy and bitter. Seed pods that form after bolting are also edible when still green and tender - mild in flavor and good raw or lightly cooked."
 ---
 
 Radish (*Raphanus sativus*) matures in 25 days. That is the fastest turnaround of any vegetable in the garden, and it is the entire ROI case for the crop. The individual roots are small and cheap at retail - USDA Agricultural Marketing Service market surveys put fresh radishes at $2-$3/lb at most outlets - but the speed changes the math. You can cycle radish through a bed multiple times in the same window that a tomato is just getting established.

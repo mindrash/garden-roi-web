@@ -14,6 +14,13 @@ sunlight: Full sun (6+ hours minimum)
 companion_plants: ["Mint", "Garlic"]
 description: "Cauliflower at $3.50/lb conventional or $5-8/lb for colored varieties. Timing precision - not variety - is what determines whether you get a usable head."
 hero_image: /images/crops/cauliflower.webp
+faq:
+  - q: "What causes loose or ricey cauliflower heads?"
+    a: "Temperature stress during curd formation is the primary cause. Temperatures above 80 degrees while the head is forming produce loose, discolored curds. Time plantings so head development occurs in consistently cool weather (60 to 65 degrees)."
+  - q: "What does blanching cauliflower mean?"
+    a: "Blanching ties or bands the outer leaves over the developing curd to block sunlight. This keeps white varieties white and prevents the bitterness that sun exposure causes. Self-blanching varieties like Snowball and Igloo do this naturally without intervention."
+  - q: "How long does cauliflower take to grow?"
+    a: "Cauliflower matures in 80 to 100 days from transplant. Most growers back-calculate from first frost to time heading for cool September or October weather, starting transplants in mid-summer."
 ---
 
 Cauliflower (*Brassica oleracea* var. *botrytis*) is the most temperature-sensitive brassica in the home garden. Heat at the wrong moment - specifically during head formation - produces loose, ricey curds or no head at all. Get the timing right and you have a crop that retails for $3.50-5.00/lb for standard white heads and $5-8/lb for orange, purple, or romanesco types (USDA AMS Specialty Crop Market News, 2023). Get the timing wrong and you have an expensive ornamental.

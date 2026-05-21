@@ -14,6 +14,13 @@ sunlight: Full sun (8+ hours)
 companion_plants: ["Arugula", "Spinach"]
 description: "Sweet potato (Ipomoea batatas) yields 4+ lb per slip. Year 2+ input costs drop to near zero once you propagate your own slips from stored roots."
 hero_image: /images/crops/sweet-potato.webp
+faq:
+  - q: "What are sweet potato slips?"
+    a: "Slips are rooted stem cuttings grown from a stored sweet potato - you plant slips, not tubers or seeds. Each stored root produces 5 to 20 slips over 4 to 6 weeks in warm, moist conditions. In year 2, save roots from your own harvest and grow slips at no cost."
+  - q: "How do I cure sweet potatoes after harvest?"
+    a: "Cure freshly dug sweet potatoes at 85 to 90 degrees with high humidity (85 to 90%) for 4 to 7 days. Curing converts starches to sugars (improving flavor), heals skin wounds, and prevents rot. Improperly cured roots are starchy and bland."
+  - q: "How long do cured sweet potatoes keep?"
+    a: "Properly cured sweet potatoes store 6 to 10 months at 55 to 60 degrees with moderate humidity. Do not refrigerate - temperatures below 50 degrees cause chilling injury that produces a hard center and off-flavor."
 ---
 
 Sweet potatoes (*Ipomoea batatas*) are not related to potatoes. They're a member of the morning glory family (Convolvulaceae), and the biology of propagating them reflects that - you don't plant tubers or seeds, you plant slips, which are rooted stem cuttings grown from a stored sweet potato. Once you understand how slips work, the year-over-year economics of growing sweet potatoes become substantially better than almost any other vegetable crop.

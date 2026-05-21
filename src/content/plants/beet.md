@@ -14,6 +14,13 @@ sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Kale", "Arugula"]
 description: "Beet (Beta vulgaris) yields roots at $2.50/lb and free greens worth $3-4/lb retail. Specialty varieties like Chioggia command $4-6/lb at market."
 hero_image: /images/crops/beet.webp
+faq:
+  - q: "How do I prevent woody or pithy beet roots?"
+    a: "Thin seedlings to 3 to 4 inches apart after germination - overcrowded roots compete for space and produce woody texture. Harvest roots at 2 to 3 inches diameter before they overmature, especially in warm weather where large roots go pithy quickly."
+  - q: "Are beet greens edible?"
+    a: "Yes. Beet greens are nutritionally comparable to Swiss chard (same species) and retail at $3 to $4/lb at farmers markets. Thinnings and outer leaves harvested throughout the season are a free second crop - saute, blanch, or add to soups."
+  - q: "How do I store beet roots?"
+    a: "Remove greens leaving 1 inch of stem to reduce bleeding, then store unwashed beets in a sealed container with damp sand at 32 to 40 degrees. Properly stored beets keep 3 to 5 months without significant quality loss."
 ---
 
 Beets (*Beta vulgaris* subsp. *vulgaris*) are the only common garden crop where you harvest the same plant twice. The roots are the main event, but the greens are essentially a free second crop. Beet greens at the farmers market run $3–$4/lb and are nutritionally comparable to Swiss chard - they're the same species. When you thin your beet seedlings, you're pulling young plants that would otherwise be composted. Those thinnings are fully edible greens. The math for a $2.49 seed packet becomes noticeably better once you account for both harvests.

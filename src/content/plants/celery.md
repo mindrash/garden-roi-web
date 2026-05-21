@@ -14,6 +14,13 @@ sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Tomato", "Leek"]
 description: "Celery (Apium graveolens) - $1.50-2.50/lb at retail, requires consistent heavy moisture and 12+ weeks to mature. The hardest common vegetable to grow well; self-blanching varieties help."
 hero_image: /images/crops/celery.webp
+faq:
+  - q: "Why is celery difficult to grow at home?"
+    a: "Celery requires consistent heavy watering (1.5 to 2 inches/week), a narrow temperature window (60 to 70 degrees), and a long season of 85 to 120 days. Moisture stress at any point causes hollow, pithy, or bitter stalks. It is the most technically demanding common vegetable for most home setups."
+  - q: "What does blanching celery mean?"
+    a: "Blanching celery blocks sunlight to the stalks for the final 2 to 3 weeks before harvest by mounding soil, wrapping cardboard, or using a collar around the base. This reduces bitterness and lightens the color. Self-blanching varieties (Tall Utah, Golden Self-Blanching) require less intervention."
+  - q: "Is leaf celery easier to grow than stalk celery?"
+    a: "Yes. Leaf celery (cutting celery) tolerates inconsistent moisture, warmer temperatures, and shorter seasons. It delivers the same deep celery flavor for soups and stocks from a plant grown much like an herb. For most home gardeners it is the practical choice over demanding stalk celery."
 ---
 
 Celery (*Apium graveolens*) is the most technically demanding common vegetable in the home garden. Not in a romantic, challenging-but-rewarding way. In a genuinely difficult, many-things-can-go-wrong way. The crop wants a narrow temperature window, more water than almost anything else you can grow, a long season that doesn't fit neatly into most climates, and consistent soil fertility to avoid hollow or pithy stalks. If you've been gardening for years and want to test your setup's limits, celery will do it.

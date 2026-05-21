@@ -14,6 +14,13 @@ sunlight: Full sun (8+ hours)
 companion_plants: ["Corn", "Green Bean"]
 description: "Pumpkin (Cucurbita pepo) produces high volume at low per-lb price. Pie and specialty varieties at $2-4/lb are where the actual ROI lives, not carving types."
 hero_image: /images/crops/pumpkin.webp
+faq:
+  - q: "How much space does a pumpkin plant need?"
+    a: "Standard carving varieties require 15 to 20 sq ft per plant and 90 to 120 days. Bush types (Bush Sugar, Hooligan) fit in 6 to 8 sq ft. Pie and specialty varieties offer better return per square foot than large carving types for most home gardeners."
+  - q: "How do I cure pumpkins after harvest?"
+    a: "Hold freshly harvested pumpkins at 80 to 85 degrees with good airflow for 10 to 14 days. Curing hardens the skin, seals stem wounds, and extends storage life to 3 to 6 months at 50 to 55 degrees."
+  - q: "Are carving pumpkins worth growing compared to pie types?"
+    a: "Carving pumpkins retail at $0.25 to $0.75/lb in fall. Pie and specialty varieties (Cinderella, Sugar Pie, Rouge Vif d'Etampes) retail at $1.50 to $4.00/lb and produce substantially better ROI per square foot with more culinary utility."
 ---
 
 Carving pumpkins retail for $0.25-$0.75 per pound at peak season (USDA AMS, *Fresh Fruit and Vegetable Prices*, 2023). You can buy a 20-pound jack-o'-lantern pumpkin for $8-$12 at a farm stand in October. Growing one takes 15-20 square feet of ground for 90-120 days, plus consistent water, reliable pollination, and enough luck to avoid squash vine borer. The ROI on carving pumpkins grown for home use is poor. That's worth saying plainly before anything else.

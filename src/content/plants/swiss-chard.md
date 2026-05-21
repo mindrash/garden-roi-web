@@ -14,6 +14,13 @@ sunlight: Full sun to partial shade (4–6 hours minimum; heat tolerant with aft
 companion_plants: [Garlic, Strawberry]
 description: "Swiss Chard (Beta vulgaris var. cicla) - 1 lb per plant at $3.50/lb in a season running May through November. One planting outlasts 3 successive spinach crops."
 hero_image: /images/crops/swiss-chard.webp
+faq:
+  - q: "How do I harvest Swiss chard so it keeps producing?"
+    a: "Cut outer leaves at the base, leaving the inner growing crown intact. This cut-and-come-again approach allows the plant to continuously push new leaves. Do not pull the entire plant. A single planting can produce from May through November in most zones from one $2.49 packet."
+  - q: "Does Swiss chard tolerate heat better than spinach?"
+    a: "Yes. Chard continues producing through summer temperatures that bolt spinach and lettuce. Quality decreases in extreme heat above 90 degrees and leaves can become mildly bitter, but the plant survives and resumes full production as temperatures moderate in fall."
+  - q: "How long does Swiss chard produce in a season?"
+    a: "A single planting in zones 5 to 7 typically produces from late May through October or November - 5 to 6 months from one direct sowing. Chard tolerates light frost to about 28 degrees, extending the harvest window well past what most greens allow."
 ---
 
 Swiss chard (*Beta vulgaris* var. *cicla*) is the crop that keeps producing leafy greens after spinach has quit. Once temperatures climb above 75°F, spinach bolts - it throws up a flower stalk, the leaves turn bitter, and the plant is done. In most of Zone 5-6, that happens in late May or early June. Chard doesn't care. It keeps going through July, August, and into November. That season extension, from a single planting and a $2.49 seed packet, is the whole argument for growing it.

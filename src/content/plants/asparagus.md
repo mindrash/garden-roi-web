@@ -14,6 +14,13 @@ sunlight: Full sun (6-8 hours minimum)
 companion_plants: ["Tomato", "Basil"]
 description: "Asparagus (Asparagus officinalis) - 2-year establishment, then 20+ years of free spears at $4-6/lb. Long-term ROI math, planting depth, and crown vs. seed guide."
 hero_image: /images/crops/asparagus.webp
+faq:
+  - q: "How long before I can harvest asparagus?"
+    a: "Asparagus from crowns requires 2 full growing seasons before meaningful harvest. In year 3, harvest lightly for 2 to 3 weeks. By year 4 to 5, the bed supports a 6 to 8 week harvest annually. From seed, add one more year. Once established, the bed produces for 20 years or more."
+  - q: "Should I plant asparagus from crowns or seeds?"
+    a: "Crowns (1-year-old dormant root clusters at $5 to $10 each) are the standard choice - they give you a 1-year head start. Seeds are cheaper but add a full season to establishment. Crowns planted at $5 to $10 each pay back within 5 to 7 years at $4 to $6/lb retail."
+  - q: "How do I maintain an asparagus bed after the harvest season?"
+    a: "Stop harvesting when spears thin to pencil diameter or after 6 to 8 weeks, whichever comes first. Allow remaining spears to grow into ferny fronds - this foliage builds root energy for next year's crop. Cut fronds to the ground in late fall or early spring after they yellow."
 ---
 
 Asparagus (*Asparagus officinalis*) is the only perennial vegetable most home gardeners will ever plant that pays dividends for two decades from a single investment. You put crowns or seeds in the ground in year one, resist harvesting for two full seasons, and starting in year three you cut spears every spring for 20 years or more. The wait is the whole argument. Once you're through it, the input cost drops to almost nothing.

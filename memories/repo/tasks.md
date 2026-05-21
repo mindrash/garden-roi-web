@@ -1,5 +1,5 @@
 # Garden ROI Web — Task Backlog
-_Last updated: May 18, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E040 + D001-D012 + SR001-SR004 + S001-S002 + Z001-Z008 + R001-R008 + HG001-HG008 + N001-N006 + CV001-CV005 + EX001-EX006 complete; 424 pages)_
+_Last updated: May 19, 2026 (T001-T012 + CF001-CF003 + F008-F013 + E001-E040 + D001-D012 + SR001-SR004 + S001-S002 + Z001-Z008 + R001-R008 + HG001-HG008 + N001-N006 + CV001-CV005 + EX001-EX006 complete; 425 pages)_
 
 This is the **single source of truth** for all implementation work. Plan files (`ia-plan.md`, `seo-plan.md`, `content-plan.md`, `decisions.md`) are reference docs — this file is the tracker.
 
@@ -7585,3 +7585,88 @@ _Rationale: The top 5-8 crop pages (garlic, tomato, basil, kale, arugula, cucumb
 - Powdery mildew and cucumber beetle management (brief — link to dedicated articles)
 - Internal links: `/guides/cucumber-beetle-control/`, `/guides/powdery-mildew-treatment/`, `/crops/zucchini/` (comparison), `/homestead/lacto-fermentation-preservation/`
 **Acceptance:** Page is 1,500+ words, all yield/price claims cited (extension or USDA AMS), zero em dashes, build passes 0 errors.
+
+---
+
+## Discovery & Authority Sprint — SP Series
+
+_Rationale: The site has 425 pages but two structural gaps remain. (1) The App page at `/app/` is not linked from the header nav — it exists but is invisible unless a user finds it via footer or direct URL. (2) FAQPage JSON-LD covers only 20 crops; 96 more `is_common: true` crops have no FAQ structured data. (3) No cornerstone article exists targeting the primary site query "does growing your own food save money" — the existing articles address sub-questions but none owns the top-level keyword directly._
+
+---
+
+### SP101 — Add App to Header Nav
+**Status:** `[x]`
+**Agent:** Copilot
+**What:** The IA plan lists `App` as one of 5 primary nav items. The `/app/` page exists and has full conversion content, but it is not linked from `src/components/Header.astro`. Users who land on any crop or article page have no path to the download page unless they scroll to the footer.
+**How:**
+- Add `{ label: 'App', href: '/app/' }` to the `navItems` array in `src/components/Header.astro`
+- Insert after `Guides` and before `Resources` — keeping `Resources` last since it is lower-priority
+- No style changes needed; the existing `.nav-link` and `.mobile-nav-link` styles apply automatically
+- Verify the active highlight works correctly when on `/app/` (the `startsWith` check already handles it)
+**Acceptance:** Header renders `App` nav item on desktop and mobile. Active state highlights correctly on `/app/`. Build passes 0 errors.
+
+---
+
+### SP102 — FAQPage JSON-LD: Second Batch of 20 Common Crops
+**Status:** `[>]`
+**Agent:** Copilot
+**What:** CV003 added FAQPage JSON-LD to the top-20-ROI crops. The `faq` field in the content schema is already defined; only frontmatter additions are needed. This batch targets the next 20 high-traffic `is_common: true` crops that currently have no FAQ data.
+**Target crops (in this order):**
+1. `broccoli` — growing time, side-shoot harvest, spacing
+2. `spinach` — bolt triggers, baby vs. full leaf, succession
+3. `onion` — sets vs. seed, curing, long-day vs. short-day
+4. `eggplant` — heat requirements, harvest timing, bitterness
+5. `cabbage` — head cracking, succession, storage
+6. `cauliflower` — blanching heads, heat sensitivity, days to maturity
+7. `pumpkin` — vine space, curing, sugar vs. jack-o-lantern
+8. `sweet-potato` — slip production, curing, storage
+9. `beet` — thinning, greens harvest, storage
+10. `radish` — succession timing, bolt prevention, varieties
+11. `cilantro` — bolt management, second harvest, coriander seed
+12. `thyme` — perennial zones, harvest timing, culinary vs. ornamental
+13. `oregano` — Greek vs. Italian, drying, perennial management
+14. `parsley` — flat vs. curly, biennial lifecycle, harvest
+15. `chives` — division, flower use, winter dormancy
+16. `snap-pea` — trellis height, harvest window, succession
+17. `asparagus` — 3-year establishment, fern management, crown planting
+18. `celery` — blanching, water needs, self-blanching varieties
+19. `swiss-chard` — cut-and-come-again, heat tolerance, stem colors
+20. `shallot` — multiplier habit, curing, substitution for onion
+**Format:** Same as CV003 — 3 Q&A pairs per crop in the `faq:` frontmatter field. Questions must be specific and answerable (not vague). No em dashes.
+**Acceptance:** All 20 plant files have a valid `faq:` block (3 items each), FAQ accordion renders on each crop page, FAQPage JSON-LD emits in page source, build passes 0 errors.
+
+---
+
+### SP103 — Authority Article: Does Growing Your Own Food Save Money?
+**Status:** `[ ]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/does-growing-food-save-money.md`
+**What:** The single most important SEO gap on the site. "Does growing your own food save money" and "does vegetable gardening save money" are high-volume queries that match the site's exact positioning. No existing article owns this keyword. The existing articles (`first-three-years-roi`, `the-500-dollar-garden`, `csa-vs-home-garden`) address sub-questions but none directly answers the primary query with the depth and math it deserves.
+**Spec:**
+- Category: `roi`
+- Title: `Does Growing Your Own Food Save Money? The Real Numbers`
+- Target: 2,500+ words (anchor piece — this is the site's cornerstone ROI article)
+- Must include: actual break-even math for a representative 4x8 raised bed (input costs vs. harvest value over 3 years), comparison table of high-ROI vs. low-ROI crops, USDA ERS price citations, honest caveats (labor time, water costs, failure rate), and a year-by-year cumulative savings table
+- Must answer directly: Yes, under specific conditions — and quantify those conditions. No vague "it depends" without numbers.
+- Internal links required: `/crops/garlic/`, `/crops/tomato/`, `/crops/basil/`, `/crops/kale/`, `/roi/raised-bed-break-even/`, `/roi/first-three-years-roi/`, `/roi/garlic-roi-analysis/`, `/tools/`
+- No em dashes. No motivational closing paragraph.
+**Acceptance:** Article is 2,500+ words, contains at least one break-even calculation table, all price claims cited, zero em dashes, build passes 0 errors.
+
+---
+
+### SP104 — Authority Article: Most Profitable Vegetables to Grow at Home
+**Status:** `[ ]`
+**Agent:** Claude
+**Load skill:** garden-roi-content
+**File:** `src/content/articles/most-profitable-vegetables-to-grow.md`
+**What:** "Most profitable vegetables to grow" and "highest ROI vegetables home garden" are high-volume commercial queries with weak competition. The site has individual crop pages and scattered ROI articles but no single rankings piece that directly answers "what should I grow to save the most money?"
+**Spec:**
+- Category: `roi`
+- Title: `Most Profitable Vegetables to Grow at Home: Ranked by ROI`
+- Target: 2,000+ words
+- Must include: a ranked table of the top 10-15 crops by net return per square foot (using the site's existing yield/price data), explanation of the ranking methodology, a "beginner shortlist" (3-5 crops for first-timers), and a "space-constrained shortlist" (crops for containers or small beds)
+- Rankings must use actual math: `(avg_price_lb × avg_yield_lb) - start_cost` with values from the plant entries, not invented figures
+- Internal links required: `/crops/garlic/`, `/crops/basil/`, `/crops/kale/`, `/crops/arugula/`, `/crops/cherry-tomato/`, `/crops/lettuce/`, `/crops/hot-pepper/`, `/roi/garlic-roi-analysis/`, `/roi/herb-roi-comparison/`, `/tools/`
+- No em dashes. No motivational closing paragraph.
+**Acceptance:** Article is 2,000+ words, contains a ranked crop table with ROI math, all values traceable to plant frontmatter or USDA ERS, zero em dashes, build passes 0 errors.

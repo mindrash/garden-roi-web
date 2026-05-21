@@ -14,6 +14,13 @@ sunlight: Full sun to partial shade; afternoon shade in spring extends the harve
 companion_plants: [Strawberry, Garlic]
 description: "Spinach (Spinacia oleracea) - a $2.99 packet plants a 10 sq ft bed returning ~5 lbs at $3.50/lb. Fall crops outperform spring because cooling temperatures slow bolting and sweeten the leaves."
 hero_image: /images/crops/spinach.webp
+faq:
+  - q: "Why does spinach bolt so quickly?"
+    a: "Spinach bolts when day length exceeds 14 hours or temperatures stay above 75 degrees. In most zones, spring plantings bolt by early June. Fall plantings timed to finish before first hard frost avoid this entirely and often produce larger yields."
+  - q: "How long does spinach take to grow?"
+    a: "Spinach matures in 37 to 50 days. Baby leaf harvest can start around day 25 by cutting outer leaves and leaving the center growing. Succession planting every 2 to 3 weeks extends the harvest window through spring."
+  - q: "How do I store spinach after harvest?"
+    a: "Refrigerate unwashed spinach in a sealed bag with a dry paper towel to absorb moisture. Use within 5 to 7 days. For large harvests, blanch 2 minutes, cool in ice water, drain well, and freeze for long-term storage."
 ---
 
 Spinach (*Spinacia oleracea*) is a cool-season annual with a short fuse. At 37 to 50 days to maturity, it comes in fast - but the window it needs is narrow. Push it into warm weather and it bolts, the leaves turn bitter, and the crop is over. Work within that window and spinach returns $3 to $5 per pound (USDA Agricultural Marketing Service, local retail surveys of salad greens) from a $2.99 seed packet.

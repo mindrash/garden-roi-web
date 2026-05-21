@@ -14,6 +14,13 @@ sunlight: Full sun (6-8 hours minimum)
 companion_plants: [Mint, Arugula]
 description: "Broccoli (Brassica oleracea var. italica) - 1.5 lb main head plus 2 lb of side shoots per plant at $2.50/lb. Cut side shoots every 5-7 days to extend yield."
 hero_image: /images/crops/broccoli.webp
+faq:
+  - q: "How much does a broccoli plant yield?"
+    a: "A single plant produces one central head (1 to 1.5 lb) plus 1.5 to 2 lb of side shoots harvested over 4 to 6 weeks after cutting the main head. Total per-plant yield is typically 2.5 to 3.5 lb."
+  - q: "How long does broccoli take to grow?"
+    a: "Broccoli matures in 80 to 100 days from transplant. Start seeds indoors 6 to 8 weeks before last frost and transplant when daytime temperatures stay below 75 degrees to ensure reliable head formation."
+  - q: "Is broccoli worth growing at home?"
+    a: "Conventional broccoli averages $2.50/lb; organic runs $3.50 to $5.00/lb. A $3.49 seed packet funding 3 to 4 plants can return $18 to $30 in harvest value when side shoots are harvested every 5 to 7 days after the main head is cut."
 ---
 
 Most gardeners harvest the main head, pull the plant, and move on. That's leaving most of the yield in the ground. The real production from a broccoli plant comes after the central head is cut - side shoots that keep coming for four to six weeks, sometimes longer in cool weather. A plant that yielded 1 lb from the main head can put out another 1.5 to 2 lb in side shoots if you leave the stem, keep the plant watered, and harvest every five to seven days. That's the number that changes the ROI calculation.

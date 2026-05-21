@@ -14,6 +14,13 @@ sunlight: Full sun (6+ hours)
 companion_plants: [Lettuce, Spinach]
 description: "Snap pea (Pisum sativum var. macrocarpon) - 3-5 lb per packet/row at $4-5/lb. Eat pod and pea together. Higher value than shelling peas. 55-70 days, cool-season."
 hero_image: /images/crops/snap-pea.webp
+faq:
+  - q: "How tall a trellis do snap peas need?"
+    a: "Standard varieties (Sugar Snap, Super Sugar Snap) grow 4 to 6 feet and need a sturdy trellis at that height. Dwarf types (Sugar Ann, Oregon Sugar Pod) stay 18 to 24 inches and can be grown without support. Match the trellis to the variety on the packet."
+  - q: "How long is the snap pea harvest window?"
+    a: "Snap peas produce for 2 to 4 weeks in cool weather before heat stops flowering. Harvest pods every 1 to 2 days once production starts - unharvested pods signal the plant to stop producing. Consistent picking is the most reliable way to extend the harvest."
+  - q: "Can I plant snap peas in fall as well as spring?"
+    a: "Yes. Plant a fall crop 8 to 10 weeks before first frost. Fall peas often have better flavor because pods develop as temperatures cool rather than warm. In zones 8 to 10, snap peas are grown as a winter crop from October through February."
 ---
 
 Snap peas are the clearest argument in vegetable gardening for growing something yourself. A $2.99 seed packet, a 10-foot row, and decent spring weather gets you 3-5 pounds of peas worth $4.50/lb at the grocery store. That's roughly $18 of produce against $3 in seeds. No other crop makes that case so quickly or so clearly.

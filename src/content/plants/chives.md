@@ -14,6 +14,13 @@ sunlight: Full sun to partial shade (4-6 hours)
 companion_plants: ["Tomato", "Carrot"]
 description: "Chives (Allium schoenoprasum) - perennial that divides every 3 years for free propagation. Purple flowers are edible. Near-zero ongoing cost after the first season."
 hero_image: /images/crops/chives.webp
+faq:
+  - q: "Is chives a perennial?"
+    a: "Yes. Chives are cold-hardy perennials (zones 3 to 9) that re-emerge from the base each spring. A single planting can last 10 or more years when divided periodically. The initial $2.49 seed cost is a one-time expense."
+  - q: "How and when should I divide chives?"
+    a: "Divide every 3 to 4 years in early spring or fall when the clump becomes crowded. Dig the entire clump, split into sections of 6 to 10 bulbs each, and replant at the original spacing. This maintains vigor and gives you free new plants to expand or share."
+  - q: "Are chive flowers edible?"
+    a: "Yes. The purple-pink flowers have a mild onion flavor. Use them fresh in salads, as garnishes, or steep in white vinegar to make chive flower vinegar. Remove spent flower heads promptly to prevent aggressive self-seeding in the garden."
 ---
 
 Chives (*Allium schoenoprasum*) are the lowest-maintenance perennial herb most gardens can accommodate. Plant them once, divide them every three years, and you'll have free plants indefinitely. The clump that starts as a dozen seedlings becomes a dense 12-inch mound by year three - at which point you split it into three or four divisions, replant one, give the rest away. Your initial $2.49 seed cost is a one-time expense.

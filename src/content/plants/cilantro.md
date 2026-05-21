@@ -14,6 +14,13 @@ sunlight: Full sun to partial shade (4-6 hours; afternoon shade extends season)
 companion_plants: ["Tomato", "Spinach"]
 description: "Cilantro (Coriandrum sativum) - bolts fast in heat; succession plant every 3 weeks. Coriander seed from spent plants is a second harvest worth having."
 hero_image: /images/crops/cilantro.webp
+faq:
+  - q: "How do I stop cilantro from bolting?"
+    a: "You can slow but not prevent bolting in warm weather. Plant in partial shade to reduce heat, keep soil consistently moist, and avoid nitrogen-heavy fertilizers. The most practical approach is succession planting every 3 weeks rather than trying to extend a single planting."
+  - q: "Is cilantro worth growing if it bolts fast?"
+    a: "At $5 to $8/lb retail (USDA AMS), even a 3 to 4 week harvest from one planting pays. Once a plant bolts, allow the seeds to dry on the plant - these are coriander seeds, a separate spice retailing at $3 to $6/oz, representing a second harvest from the same plant."
+  - q: "Can I harvest coriander seeds from bolted cilantro?"
+    a: "Yes. When seed heads turn from green to tan-brown, cut stems into a paper bag and hang to dry for 1 to 2 weeks. Thresh by rubbing between your hands. Coriander is a distinct culinary spice with broad use in pickling, baking, and spice blends."
 ---
 
 Cilantro (*Coriandrum sativum*) bolts. That's the central fact about this herb, and every growing decision flows from it. In warm weather, a cilantro plant can go from leaf to flower stalk in under two weeks, which means a single planting gives you a few weeks of harvest and then you're done. The solution isn't to fight the bolting - it's to plant small amounts every three weeks from early spring through early summer, then again in late summer through fall.

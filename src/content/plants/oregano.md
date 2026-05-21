@@ -14,6 +14,13 @@ sunlight: Full sun (6-8 hours)
 companion_plants: ["Tomato", "Sweet Pepper"]
 description: "Oregano (Origanum vulgare) - perennial in zones 5+, so year 2+ seed cost is $0. Dried weight is concentrated; 1 lb fresh reduces to roughly 0.25 lb dried."
 hero_image: /images/crops/oregano.webp
+faq:
+  - q: "What is the difference between Greek and Italian oregano?"
+    a: "Greek oregano (Origanum vulgare subsp. hirtum) has stronger, more pungent flavor - the standard in Mediterranean cooking. Common Italian oregano (O. vulgare) is milder and more variable. Crush a leaf and smell it before buying a plant; flavor intensity varies widely even within the same labeled variety."
+  - q: "Is oregano a perennial?"
+    a: "Yes, in zones 5 to 10. Oregano dies back in winter and re-emerges in spring. Cut plants back to 2 to 3 inches in late fall to encourage vigorous regrowth. By year 3, one plant becomes a large woody shrub producing 0.5 lb or more of fresh herb per season at near-zero input cost."
+  - q: "How do I dry oregano?"
+    a: "Cut stems in the morning, bundle 4 to 6 stems together, and hang upside down in a warm, well-ventilated spot for 1 to 2 weeks. Once crisp, strip leaves from stems. Dried oregano keeps 1 to 2 years at full potency in an airtight container."
 ---
 
 Oregano (*Origanum vulgare*) is the argument for planting perennial herbs over annuals. You plant it once, it comes back every spring in zones 5 through 10, and by year three it's a substantial woody shrub you're dividing and giving away. The input cost after the first season is essentially zero. Growing oregano from seed requires patience - it's slow to germinate and slow to establish - but the long-term return on a $2.49 packet is hard to match.
