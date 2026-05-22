@@ -3663,6 +3663,146 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 
 ---
 
+## Regrow & Propagation Sprint — Claude Code (RS001+)
+
+### RS001 — Create kitchen-scrap-regrowing.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/kitchen-scrap-regrowing.md`
+**What:** Anchor article on regrowing food from grocery store scraps - a high-search-intent topic that lacks an ROI-focused treatment anywhere on the site. Not a list post. A dollar-and-sense breakdown of what works, what's limited, and what the math actually looks like.
+**Details:**
+- Intro framing: the difference between "regrow a scallion for free food" vs. "regrow celery for 3 weeks of leaves you'd never buy" - honesty about scope matters
+- **Scallions/green onions** (the reliable case): root end in water or soil → harvest-ready in 10-14 days; 3-4 cycles before vigor declines; a $1.50 grocery bunch gives ~2 additional bunches at full retail = $3 in free produce; volume math if you run 4-6 jars in rotation
+- **Celery** (limited but real): place base in shallow water or soil; produces inner stalks and leaves over 2-4 weeks; not a replacement head - inner stalks are small and thin; honest value: free celery leaf seasoning and 4-6 small interior stalks; retail value $0.50-$1.00 max; best framed as a kitchen herb not a vegetable replacement
+- **Romaine lettuce** (most limited): base cutting in water produces leaf growth for 1-2 weeks; USDA-cited data shows regrowth is 10-20% the size of original head; honest assessment: this is compost-avoidance, not food production; gross value $0.20-$0.40
+- **Sweet potato slips from grocery store tubers**: suspend a store sweet potato half-submerged in water; sprouts/slips emerge in 4-6 weeks; each slip produces a full plant (same as purchased slips at $3-5/dozen); ROI: one $1.50 grocery store sweet potato can produce 8-12 slips = $2-5 in avoided slip cost; caveat: grocery store sweet potatoes may be treated with sprouting inhibitors - organic more reliable; source: NC State Extension sweet potato slip production
+- **Ginger from store rhizomes**: grocery store ginger at $3-5/lb can be planted directly; ROI: $0.50 of store ginger planted in spring → 1-2 lbs fresh harvest in fall = $4-8 in retail equivalent; organic preferred (less likely treated); link to /crops/ginger/ for full growing guide
+- **Turmeric from store rhizomes**: same concept, even higher value; $1 of store turmeric → 1 lb+ harvest at $8-12/lb specialty retail; link to /crops/turmeric/
+- **Herb cuttings** (basil, mint): basil stems in water root in 7-10 days; one $3 nursery pot → 6-10 rooted cuttings → free additional plants; mint runners root on contact with soil; brief treatment here, full detail in RS002
+- **What doesn't work well**: avocado pits (houseplant only, no fruit in temperate zones), grocery store garlic (often treated; use seed garlic), store-bought potato eyes (disease risk if not certified seed potato)
+- ROI summary table: crop / input cost / weeks to regrowth / estimated gross value / net vs. buying
+- `publishDate: 2026-05-15`, `category: roi`, `featured: false`
+**Acceptance:**
+- 1,800+ words
+- ROI summary table present with all covered crops
+- Honest about limits for each method (no over-claiming)
+- All retail prices cited (USDA AMS or AMS Specialty Crop Market News)
+- Internal links: /crops/scallion/, /crops/ginger/, /crops/turmeric/, /crops/sweet-potato/, /homestead/herb-propagation-from-cuttings/ (RS002)
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### RS002 — Create herb-propagation-from-cuttings.md
+**Status:** `[x]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/herb-propagation-from-cuttings.md`
+**What:** The economics of propagating culinary herbs from cuttings instead of buying new transplants every year. Most gardeners re-buy basil and rosemary annually. Most don't know they don't have to.
+**Details:**
+- The transplant cost problem: annual herb transplants cost $3-6 each at nurseries; a gardener who buys 6 herb transplants/year spends $18-36; over 5 years, $90-180 on plants that could have been free after Year 1
+- **Basil from cuttings** (fastest and easiest): take 4-6" tip cuttings; strip lower leaves; place in water; roots form in 7-10 days; transplant to soil; one $3 nursery pot → 8-12 rooted cuttings; at $3/transplant retail that's $24-36 in free plants; basil doesn't overwinter outdoors north of Zone 9, but rooted cuttings can overwinter as houseplants if given a south-facing window and 65°F+ nights
+- **Mint from runners and division**: mint spreads via underground stolons; pull a rooted runner and plant it; division is free; caution about invasive growth - containers recommended; once established, mint is zero-cost to multiply indefinitely; a single plant in a container can be divided every 1-2 seasons into 3-5 new plants
+- **Rosemary from cuttings**: semi-hardwood cuttings in late summer root in 4-6 weeks with rooting hormone; or without hormone in 6-10 weeks; in Zones 7+, one established plant provides all the cuttings you need each year forever; in Zones 3-6, overwinter cuttings indoors under a grow light or in a cool basement window to replace the outdoor plant each spring; economics: rosemary transplants $4-8 at nurseries; one rooted cutting eliminates that annual purchase
+- **Thyme and oregano by division**: established clumps can be divided with a shovel in spring or fall; each division produces a full plant; once you have thyme established, you never buy it again; division schedule and method
+- **Sage from cuttings**: softwood cuttings root in 4-6 weeks; layering (bending a stem to the ground and pinning it until it roots, then severing) also works without any equipment
+- Equipment needed (honest): clear glass jars or cups (free), rooting hormone (optional, $5-8 for a container that lasts years), 4" pots and potting mix ($5-10 for starter supplies); total startup $0-18
+- Timing section: when to take cuttings by herb type; best in active growth season; avoid woody old growth for softwood cuttings
+- Success rate table: herb / method / days to root / success rate / notes
+- `publishDate: 2026-05-15`, `category: homestead`, `featured: false`
+**Acceptance:**
+- 1,600+ words
+- Success rate/timing table present
+- Break-even math at realistic scale (6 transplants/year at $4 average)
+- Internal links: /crops/basil/, /crops/mint/, /crops/rosemary/, /crops/thyme/, /crops/sage/, /roi/kitchen-scrap-regrowing/ (RS001)
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+### RS003 — Create indoor-sprouting-guide.md
+**Status:** `[ ]`
+**Agent:** Claude Code
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**Files:** `src/content/articles/indoor-sprouting-guide.md`
+**What:** The natural third piece in the regrow/low-input cluster (alongside RS001 and microgreens-roi). Indoor sprouting in a jar is the highest-ROI food production method on the site - zero outdoor space, zero soil, zero grow lights, year-round. No existing article covers it.
+**Details:**
+- ROI framing: mung bean seed costs ~$2/lb dry weight and produces 6-8 lbs of sprouts in 4-5 days; retail sprouts run $3-6/lb → 10:1 to 24:1 return by weight in under a week. Contrast with waiting 60-90 days for a garden crop.
+- **The crops that work**: mung beans (fastest, most reliable, classic bean sprout), lentils (brown and green only - red disintegrate), radish (spicy, 3-4 days), fenugreek (slightly bitter, 4-5 days), sunflower (large seed, robust flavor), broccoli (4-6 days, highest sulforaphane concentration before light exposure), chickpea (larger sprout, nuttier)
+- **Equipment**: quart mason jar ($2 if you don't have one), sprouting lid or cheesecloth + rubber band ($1-3), bowl for draining. Total: $3-5 one-time cost. Nothing else.
+- **Method**: rinse seed, soak 8-12 hours, drain, rinse twice daily, harvest day 3-6. No grow lights, no heat mat, no soil.
+- **Space math**: one quart jar produces 1-2 lbs sprouts per batch. Run 3 jars on a 2-day offset = continuous daily harvest from 6 inches of counter space.
+- **Year-round production**: this is the critical angle. In Zone 4 in January when the garden is frozen, you can still grow food at home. Mung beans don't care about season.
+- **Nutrition context**: sprouts are living food at point of consumption - higher enzyme activity and vitamin C than the dry seed; cite USDA ARS phytochemical data. Broccoli sprouts specifically have 10-100x sulforaphane concentration vs. mature broccoli heads (Johns Hopkins research on glucoraphanin).
+- **Cost table**: seed type / retail seed cost per lb / yield multiplier / days to harvest / retail equivalent per lb / net return per $1 invested
+- **Where to buy seed**: buy sprouting-grade seed, not garden seed (often treated with fungicide); bulk organic sprouting seeds $3-8/lb; links to mung-bean.md, radish.md as the garden-growing alternatives
+- **What fails**: seeds that mold (usually too much moisture between rinses), seeds that don't germinate (old stock or treated seed), fenugreek soaked too long (gets mucilaginous)
+- `publishDate: 2026-05-20`, `category: roi`, `featured: false`
+- `hero_image: /images/articles/indoor-sprouting-guide.webp`
+**Acceptance:**
+- 1,800+ words
+- Cost/ROI table present
+- Year-round production angle explicit
+- Seed source caveat (sprouting-grade vs. garden seed) present
+- Internal links: /crops/mung-bean/, /crops/radish/, /crops/fenugreek/, /roi/microgreens-roi/, /roi/kitchen-scrap-regrowing/
+- Zero em dashes
+- `npx astro build` passes with 0 errors
+
+---
+
+## Plant Page Expansion Sprint 6 — Claude Code (PE032+)
+
+### PE032 — Expand ginger.md
+**Status:** `[ ]`
+**Owner:** Claude Code (content)
+**File:** `src/content/plants/ginger.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Expand from ~1,615w to 1,800+ words. Ginger is now directly linked from the kitchen-scrap-regrowing article (RS001) and deserves full-depth treatment. Must have: (1) ROI section with the grocery-store-to-garden math: $0.50 of store ginger → 1-2 lbs fresh harvest = $4-12 in retail equivalent at $4-8/lb (USDA AMS organic specialty); organic vs. conventional sprouting success rate; (2) container growing guide for Zones 3-8 where ginger can't overwinter - pot size, soil mix, overwintering rhizomes indoors; (3) harvesting options - "young ginger" at 4-6 months (mild, skin-on usable) vs. mature at 8-10 months (fibrous, full flavor); flavor and culinary use difference; (4) storage and preservation - fresh root refrigerates 3-4 weeks; freezing whole rhizomes; making ginger paste (freezes in ice cube trays); candied ginger value multiplication; (5) variety note - common grocery ginger is *Zingiber officinale*; Galangal (*Alpinia galanga*) is a related but distinct crop. No em dashes.
+**Acceptance:** 1,800+ words, grocery-to-garden ROI math present, container guide included, zero em dashes, build passes.
+
+---
+
+### PE033 — Expand turmeric.md
+**Status:** `[ ]`
+**Owner:** Claude Code (content)
+**File:** `src/content/plants/turmeric.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Expand from ~1,597w to 1,800+ words. Turmeric is the highest-value rhizome in the kitchen-scrap-regrowing cluster. Must have: (1) ROI section - fresh turmeric $8-14/lb at natural food stores (USDA AMS specialty/organic data); $1 of store turmeric planted → 1+ lb fresh harvest at 8-10x return; compare to dried ground turmeric ($12-20/oz specialty retail) - home-fresh vs. processed value; (2) color and staining warning - turmeric stains everything permanently; handling and harvesting precautions are part of the practical guide; (3) container growing - same requirements as ginger; pot size, overwintering dormant rhizomes in a paper bag at 55-65°F; (4) curing and drying for dried powder production - fresh rhizome boiled 30-45 min, sliced thin, dried at 120-140°F until brittle (4-6 hours dehydrator or 2-3 days air); grinding to powder; (5) companion growing with ginger - same bed, same cultural needs, complementary harvest schedule. No em dashes.
+**Acceptance:** 1,800+ words, fresh vs. dried value comparison present, container/overwintering guide included, zero em dashes, build passes.
+
+---
+
+### PE034 — Expand hot-pepper.md
+**Status:** `[ ]`
+**Owner:** Claude Code (content)
+**File:** `src/content/plants/hot-pepper.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Expand from ~1,625w to 2,000+ words. Tier 1 crop that's underweight relative to the herb pages. Must have: (1) ROI section - fresh hot peppers $4-8/lb retail; processed value multiplier: 1 lb fresh jalapeños → 4 oz dried flakes ($8-15/oz specialty retail) = 10-15x value amplification; fermented hot sauce math; (2) variety depth - cayenne (drying/powder focus), jalapeño (fresh + pickling + fermenting), habanero/scotch bonnet (specialty hot sauce market $8-15/5oz bottle), serrano (hotter, smaller, slower), Thai hot (prolific, drying); Scoville context without being a Scoville ranking list; (3) zone guidance - peppers stall below 60°F soil; Zone 5 growers need indoor start 10-12 weeks before last frost and row cover at transplant; (4) overwintering peppers as houseplants - peppers are perennial in their native climate; bring indoors before first frost, keep at 55°F+, cut back by 1/3; resumes full production in Year 2 without transplant cost; (5) preservation depth - drying methods (dehydrator, oven, air-dry/ristra), fermentation (lacto-fermented hot sauce, 2% brine, 5-7 days), freezing whole (roast first for better texture). No em dashes.
+**Acceptance:** 2,000+ words, processed value math present, overwintering section included, variety comparison table or section, zero em dashes, build passes.
+
+---
+
+### PE035 — Expand spaghetti-squash.md
+**Status:** `[ ]`
+**Owner:** Claude Code (content)
+**File:** `src/content/plants/spaghetti-squash.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Expand from ~1,388w to 1,600+ words. Must have: (1) ROI section - spaghetti squash $1.50-2.50/lb retail; one fruit weighs 4-8 lbs; 2-4 fruits per plant = $12-40 gross value per plant; seed cost $2-3 per packet; (2) the pasta substitute angle - a 5 lb spaghetti squash replaces $2.50-3.50 of dried pasta at retail; the culinary case is distinct from other winter squash; (3) storage - cured properly, stores 3-5 months; storage value math extending into winter months; (4) vining vs. bush varieties - traditional types vine 8-10 feet; bush varieties ('Hasta La Pasta') fit smaller gardens; yield tradeoff; (5) companion winter squash comparison - how does spaghetti squash ROI compare to butternut (higher value per lb but different culinary use) and acorn? Internal link to /crops/butternut-squash/ and /crops/winter-squash/. No em dashes.
+**Acceptance:** 1,600+ words, pasta substitute value framing included, storage ROI math present, price cited, zero em dashes, build passes.
+
+---
+
+### PE036 — Expand horseradish.md
+**Status:** `[ ]`
+**Owner:** Claude Code (content)
+**File:** `src/content/plants/horseradish.md`
+**Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
+**What:** Expand from ~1,558w to 1,800+ words. Horseradish is a strong regrow-theme crop - propagates entirely from root divisions, essentially free after Year 1, and is invasive if not contained. Must have: (1) ROI section - prepared horseradish $4-8/6oz jar retail; fresh root $3-6/lb at farmers markets; one established root yields 2-4 lbs fresh per season; (2) propagation from root divisions - the primary propagation method; buying one plant or root piece establishes a permanent supply; division math (one plant → 3-5 divisions per year); zero seed cost after establishment; connect to RS001/RS002 propagation cluster; (3) containment strategy - horseradish spreads aggressively; raised bed isolation or buried root barrier (12" deep) required; what happens if you don't contain it (root pieces scattered by digging → new plants everywhere); (4) harvest and processing - roots harvested fall or early spring; grating releases isothiocyanates (the heat); process outdoors or with ventilation; vinegar stabilizes the heat (add immediately to stop enzymatic reaction); homemade prepared horseradish vs. store-bought freshness difference; (5) perennial value calculation - one plant, established cost ~$4 (one crown or root piece), produces 2-4 lbs/year for 20+ years; 20-year value at $4/lb = $160-320 from a $4 investment. No em dashes.
+**Acceptance:** 1,800+ words, perennial ROI calculation present, propagation/division section included, containment strategy explicit, zero em dashes, build passes.
+
+---
+
 ## New Article Sprint 2 — Claude Code (NA006+)
 
 ### NA006 — Create mulching-roi.md
@@ -7608,7 +7748,7 @@ _Rationale: The site has 425 pages but two structural gaps remain. (1) The App p
 ---
 
 ### SP102 — FAQPage JSON-LD: Second Batch of 20 Common Crops
-**Status:** `[>]`
+**Status:** `[x]`
 **Agent:** Copilot
 **What:** CV003 added FAQPage JSON-LD to the top-20-ROI crops. The `faq` field in the content schema is already defined; only frontmatter additions are needed. This batch targets the next 20 high-traffic `is_common: true` crops that currently have no FAQ data.
 **Target crops (in this order):**
@@ -7638,7 +7778,7 @@ _Rationale: The site has 425 pages but two structural gaps remain. (1) The App p
 ---
 
 ### SP103 — Authority Article: Does Growing Your Own Food Save Money?
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **Load skill:** garden-roi-content
 **File:** `src/content/articles/does-growing-food-save-money.md`
@@ -7656,7 +7796,7 @@ _Rationale: The site has 425 pages but two structural gaps remain. (1) The App p
 ---
 
 ### SP104 — Authority Article: Most Profitable Vegetables to Grow at Home
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude
 **Load skill:** garden-roi-content
 **File:** `src/content/articles/most-profitable-vegetables-to-grow.md`

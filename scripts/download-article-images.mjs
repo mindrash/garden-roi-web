@@ -79,6 +79,10 @@ const SEARCH_OVERRIDES = {
   'winter-garden-planning': 'kale winter garden cold season vegetable',
   'harvest-glut-triage': 'garden harvest abundance surplus vegetables overflow',
 
+  'kitchen-scrap-regrowing': 'scallions spring onions growing water windowsill',
+  'herb-propagation-from-cuttings': 'basil herb cuttings rooting water glass propagation',
+  'most-profitable-vegetables-to-grow': 'vegetable garden harvest abundance produce raised bed',
+  'does-growing-food-save-money': 'vegetable garden harvest fresh produce savings',
   'the-500-dollar-garden': 'raised bed vegetable garden first year',
   'csa-vs-home-garden': 'farmers market vegetables fresh produce',
   'how-to-find-local-prices': 'grocery store vegetables produce aisle',
