@@ -60,6 +60,10 @@ A standard vine plant produces 2-4 squash per season (2-3 lb each). Three plants
 
 The storage argument is the real value. Squash harvested in September and stored properly are worth the same in February as they were at harvest. Many winter vegetables don't offer this: lettuce and fresh greens require continuous planting, but a squash sitting in the basement requires nothing.
 
+**Winter storage value math:** a 4 lb spaghetti squash harvested in September and stored properly to February represents $6-10 in avoided produce cost in a month when winter squash at retail is at its seasonal price peak. Three plants producing 9 squash (3 per plant) between September and first frost gives you roughly 36 lb of stored squash - enough to supply a household weekly serving through February. That's $54-90 in produce value consumed over 5 months, from a $1.25 seed investment and a single growing season.
+
+**The pasta substitute angle:** a 5 lb spaghetti squash cooked and separated into strands yields roughly 4 cups of cooked "pasta." Replacing one pasta dinner per week for a household of four replaces approximately 8 oz of dry pasta per meal. Dried pasta at grocery store prices runs $0.50-1.50 per 8 oz serving (mainstream brands) to $2-4 per serving (specialty/artisan pasta). A 5 lb squash at $1.50-2.50/lb costs $7.50-12.50 retail - about even or slightly higher per serving than commodity pasta, but comparable to specialty pasta, and with better nutritional density. From your own garden, the cost per squash is fractions of a cent in seed.
+
 ## Growing requirements
 
 **Timing:** direct sow after soil reaches 65°F and frost risk is past. In zones 5-7, this is late May to early June. Spaghetti squash matures in 90-100 days, which means starting by early June in zone 5 to harvest before frost.
@@ -107,6 +111,14 @@ Harvest when the skin is fully yellow and hard. A fingernail pressed into the sk
 - **Spaghetti squash fritters:** mix strands with egg, cheese, and herbs; pan-fry like latkes. Good way to use up squash mid-winter.
 
 - **Cold in salads:** the strands hold texture well cold. Dress with vinaigrette, add cherry tomatoes, cucumber, and fresh herbs for a grain-free grain-salad type dish.
+
+## How Spaghetti Squash ROI Compares to Other Winter Squash
+
+[Butternut squash](/crops/butternut-squash/) retails at $1.75-2.50/lb versus spaghetti squash's $1.50-2.50/lb - a modest price advantage for butternut, with better storage life (butternut commonly holds 4-6 months versus spaghetti squash's 3-5 months). Butternut's denser flesh means more usable cooked weight per pound. In straight ROI terms, butternut is a slightly stronger performer per pound of seed investment.
+
+[Winter squash varieties](/crops/winter-squash/) as a category - delicata, acorn, kabocha, hubbard - cover different culinary applications. Acorn squash ($1.50-2.00/lb) stores 2-3 months; its smaller size (1.5-2.5 lb per fruit) means individual-serving portions without leftovers, which has practical kitchen value. Spaghetti squash's niche is the pasta-substitute angle - no other winter squash delivers the same texture in that role. The choice between them is partly culinary and partly based on how much storage space and growing area you have available.
+
+For a first-time winter squash planting, spaghetti squash and butternut together provide complementary harvest windows, different culinary applications, and good overall season coverage from two seed packets costing $2-3 each.
 
 ---
 

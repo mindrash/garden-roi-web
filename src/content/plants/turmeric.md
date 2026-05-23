@@ -56,6 +56,10 @@ After year one, replant a portion of your harvest as the following year's starti
 
 One 10-gallon container with 2-3 turmeric starts yields enough fresh root for a household's annual use, plus surplus for gifting or drying.
 
+**The grocery-store starter math:** a 0.1-0.15 lb piece of store turmeric - about $0.80-1.50 at $8-10/lb for organic - can produce 0.75-1.5 lb of fresh rhizome by fall. At $10/lb average fresh specialty retail, that's $7.50-15.00 from a $1 investment. Organic grocery turmeric is significantly more reliable as a starter than conventional for the same reasons as ginger: conventional root is often treated to suppress sprouting. If organic isn't available locally, seed turmeric from tropical plant suppliers ($4-8 for 0.5 lb) is the more reliable option.
+
+**Fresh vs. dried value comparison:** fresh turmeric root sells for $8-14/lb. Dried, ground turmeric at specialty and natural food retailers runs $12-20 per ounce ($192-320/lb equivalent). Processing your own fresh harvest into dried powder at home captures a fraction of that value differential - home-ground dried turmeric won't command the same premium as a branded retail product, but the flavor and color quality of freshly processed root is substantially better than supermarket powder that may be 18-24 months old.
+
 ## Growing requirements
 
 Turmeric's cultural requirements are nearly identical to ginger with a few differences worth noting.
@@ -88,6 +92,8 @@ Pre-sprouting indoors on damp paper towel at 75-80°F before transplanting to co
 
 **Short season in zone 5-6:** Turmeric planted in late May may only have 4-5 months before frost. The rhizome will be smaller than a full-season plant, but it's still usable. You can extend the season by bringing containers in before first frost and letting the plant continue growing in a warm indoor location through October-November.
 
+**Overwintering dormant rhizomes:** when the tops die back and the season ends, dig the rhizomes, brush off loose soil, and let them air-dry for 1-2 days. Store dormant rhizomes in a paper bag (not plastic - they need airflow) at 55-65°F. A cool basement shelf, the interior of a root cellar, or a cabinet near an exterior wall in an unheated room all work. Check monthly and discard any that show soft spots or mold. Stored correctly, turmeric rhizomes hold well for 4-5 months and restart readily in spring. Alternatively, leave rhizomes in their container with watering reduced to near-zero and store the whole pot in a frost-free space above 45°F - same as the ginger container overwintering method.
+
 **Rhizome fly** (*Mimegralla coeruleifrons*) and nematodes (*Pratylenchus*, *Meloidogyne*) are commercial production concerns in the tropics; rarely significant in home gardens.
 
 ## Harvest and use
@@ -98,7 +104,7 @@ Fresh turmeric should be handled carefully - the orange juice stains nearly ever
 
 **Storage:** Fresh turmeric root keeps 2-3 weeks at room temperature, 2 months refrigerated wrapped in paper towels inside a container. For longer storage: peel and freeze whole (grate from frozen), slice thinly and dry at 95°F for 8-10 hours then grind to powder, or ferment in brine (black turmeric paste, used in some South Asian preparations).
 
-**Drying your own:** thinly sliced turmeric dried at low temperature and ground produces a powder noticeably more flavorful than commercial ground turmeric, which is often old and has lost much of its volatile compound content. Dry until bone-dry and brittle (snaps cleanly), then grind in a dedicated spice grinder. The orange color of fresh-ground homegrown turmeric is substantially more vivid than commercial versions.
+**Drying your own:** the traditional commercial process for dried turmeric involves boiling or steaming the fresh rhizomes before drying - this gelatinizes the starch, speeds drying, reduces bitterness, and helps produce a more evenly colored powder. For home processing: wash and boil whole rhizomes for 30-45 minutes until a knife inserts easily, then slice thinly (1/8 inch or less). Dry slices at 120-140°F in a food dehydrator for 4-6 hours until completely brittle (they should snap cleanly, not bend). Air-drying without a dehydrator works but takes 2-3 days in good airflow and requires protection from moisture. Grind dried slices in a dedicated spice grinder - turmeric stains plastic grinder bowls permanently. The resulting powder has a noticeably more vivid orange color and sharper aroma than commercial ground turmeric, which is often 18-24 months from harvest by the time it reaches retail.
 
 **In the kitchen:** fresh turmeric is used grated or minced. A 1-inch piece grated fresh into a dish delivers more intensity than a teaspoon of ground dried. Core applications include golden milk (turmeric-ginger-milk-honey drink, served warm), fresh turmeric paste for curries and rice dishes, turmeric-ginger tea, and pickling (the same young-harvest pickling technique used for ginger works well). The fresh root is sharper and more complex than dried; reduce quantity from dried recipes by about 50% when substituting fresh.
 

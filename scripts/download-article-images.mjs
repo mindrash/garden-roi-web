@@ -79,6 +79,7 @@ const SEARCH_OVERRIDES = {
   'winter-garden-planning': 'kale winter garden cold season vegetable',
   'harvest-glut-triage': 'garden harvest abundance surplus vegetables overflow',
 
+  'indoor-sprouting-guide': 'mung bean sprouts jar mason glass sprouting kitchen',
   'kitchen-scrap-regrowing': 'scallions spring onions growing water windowsill',
   'herb-propagation-from-cuttings': 'basil herb cuttings rooting water glass propagation',
   'most-profitable-vegetables-to-grow': 'vegetable garden harvest abundance produce raised bed',

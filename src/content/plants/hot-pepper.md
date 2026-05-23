@@ -35,9 +35,9 @@ The core trade-off compared to sweet peppers is heat tolerance at the cost of yi
 
 **Cayenne** (*C. annuum* 'Cayenne Long Red Slim' and similar types) runs 70 to 85 days to maturity. Pods are 5 to 8 inches long, thin-walled, and measure 30,000 to 50,000 SHU. The thin wall dehydrates quickly and efficiently - you can air-dry cayennes by stringing them or finish them in a dehydrator in 6 to 8 hours at 125°F. Dried cayenne keeps its heat for 18 months in an airtight container.
 
-Other *C. annuum* hot types worth noting: 'Serrano' ripens in 75 to 85 days and runs 10,000 to 25,000 SHU with a fruity, bright flavor preferred in Mexican salsas. 'Anaheim' and 'New Mexico' types are mild (500 to 2,500 SHU), thick-walled, and excellent for roasting and canning - not the same use case as a jalapeño but in the same species.
+Other *C. annuum* hot types worth noting: 'Serrano' ripens in 75 to 85 days and runs 10,000 to 25,000 SHU with a fruity, bright flavor preferred in Mexican salsas. Thai hot varieties ('Thai Dragon', 'Prik Kee Nu') are prolific *C. annuum* types that produce hundreds of small, thin-walled pods per plant. Their compact size and thin walls make them among the best candidates for air-drying and dehydrating. 'Anaheim' and 'New Mexico' types are mild (500 to 2,500 SHU), thick-walled, and excellent for roasting and canning - not the same use case as a jalapeño but in the same species.
 
-For actual high-heat varieties - habanero, ghost pepper, Carolina Reaper - you're looking at *Capsicum chinense*, a different species with longer days to maturity (90 to 120 days), higher temperature requirements, and yields typically lower than *C. annuum* types.
+For actual high-heat varieties - habanero, ghost pepper, Carolina Reaper - you're looking at *Capsicum chinense*, a different species with longer days to maturity (90 to 120 days), higher temperature requirements, and yields typically lower than *C. annuum* types. Habanero and scotch bonnet (*C. chinense*) are the basis for Caribbean-style hot sauces. A 5-oz bottle of artisan habanero hot sauce at a farmers market or specialty food store runs $8-15 retail. The ingredient cost of homemade habanero sauce from 0.5 lb of peppers, white vinegar, garlic, and salt is roughly $1-2. If you sell at markets or give as gifts, the value conversion is compelling; even as a household consumer, making your own eliminates a $8-12 purchase per bottle.
 
 ## The ROI case
 
@@ -51,7 +51,7 @@ Jalapeño pickling works the same way. A quart of pickled jalapeños (en escabec
 
 Hot peppers need warmer conditions than most warm-season crops. Start seeds indoors 10 to 12 weeks before the last frost date. Germination is optimal at soil temperatures of 80 to 85°F - below 65°F, germination rate drops significantly (Purdue Extension, *Pepper Production*, HO-192). Use bottom heat if your germination area runs cool.
 
-Transplant outdoors when soil temperature is at or above 65°F and nighttime air temperatures are reliably above 55°F. Cold nights - anything below 55°F - stall growth and can prevent fruit set. This is stricter than the guidance for tomatoes or sweet peppers. A late-spring cold snap after transplanting won't kill the plants but will set them back two to three weeks.
+Transplant outdoors when soil temperature is at or above 65°F and nighttime air temperatures are reliably above 55°F. Cold nights - anything below 55°F - stall growth and can prevent fruit set. This is stricter than the guidance for tomatoes or sweet peppers. A late-spring cold snap after transplanting won't kill the plants but will set them back two to three weeks. In Zone 5, where last frost dates commonly run into mid-May and soil takes until late May to warm, use row cover (floating row cover, not plastic) over transplants for the first 2-3 weeks after planting to buffer nighttime temperature drops and give roots time to establish in soil that hasn't fully warmed.
 
 Full sun is more important for hot peppers than for most garden crops. Eight hours of direct sun is the practical minimum; more sun means more capsaicin production in the pods (Estrada et al., *HortScience*, 2000). A hot pepper in partial shade will grow, flower, and fruit - it just won't be as hot, and yields will be lower.
 
@@ -74,6 +74,18 @@ Removing seeds doesn't significantly reduce heat - the seeds themselves contain 
 **European corn borer** (*Ostrinia nubilalis*) larvae bore into pepper pods, making them unmarketable and allowing secondary fungal rot. Check pods for small entry holes with frass. Bt-k applied to developing pods when moths are active prevents larval entry.
 
 **Aphids** and **thrips** colonize new growth and transmit viruses including pepper mottle virus and tomato spotted wilt virus. Control with insecticidal soap; more importantly, manage weeds around the planting that serve as virus reservoirs.
+
+## Overwintering Peppers Indoors
+
+Hot peppers are perennial plants in their native tropical and subtropical climates (*Capsicum* species originate in Central and South America). In temperate zones, they're grown as annuals by default - but they don't have to be.
+
+Bring a healthy pepper plant indoors before the first frost and it will survive winter as a houseplant, resume full production the following season, and eliminate your transplant cost for Year 2 and beyond. An overwintered pepper plant starts the season weeks ahead of a new transplant because it already has a mature root system. Many experienced gardeners report higher yields from overwintered plants than from first-year starts.
+
+**The protocol:** before first frost (with plants still actively growing), dig or unpot the plant. Prune it back by about one-third, removing all fruit and most of the leafy growth - this reduces the plant's moisture demand during the lower-light winter period. Pot into fresh potting mix if not already in a container. Move indoors to the brightest available window (south-facing is ideal). Night temperatures above 55°F are essential; below 50°F, the plant may drop leaves and go dormant. Reduce watering significantly compared to the outdoor growing season - the plant is barely growing and needs far less moisture.
+
+Through winter, the plant will look rough - some leaf drop, slow growth, little or no fruiting. This is normal. In late winter or early spring, as day length increases, move it to a south window with better light and increase watering. New growth flushes quickly. By the time outdoor transplant time arrives, the overwintered plant is already producing new branches and may have flower buds. Transplant it back out once temperatures allow, and it will fruit 4-6 weeks earlier than a new transplant.
+
+The economic case: a $3.50 transplant cost for one pepper variety, eliminated for the life of the overwintered plant. If you overwinter 4-6 plants annually, that's $14-21 in transplant cost avoided each year, with better early-season production as a bonus.
 
 ## Drying, fermenting, and storage
 

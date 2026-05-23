@@ -3722,7 +3722,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### RS003 — Create indoor-sprouting-guide.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Agent:** Claude Code
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
 **Files:** `src/content/articles/indoor-sprouting-guide.md`
@@ -3754,7 +3754,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ## Plant Page Expansion Sprint 6 — Claude Code (PE032+)
 
 ### PE032 — Expand ginger.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Owner:** Claude Code (content)
 **File:** `src/content/plants/ginger.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
@@ -3764,7 +3764,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### PE033 — Expand turmeric.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Owner:** Claude Code (content)
 **File:** `src/content/plants/turmeric.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
@@ -3774,7 +3774,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### PE034 — Expand hot-pepper.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Owner:** Claude Code (content)
 **File:** `src/content/plants/hot-pepper.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
@@ -3784,7 +3784,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### PE035 — Expand spaghetti-squash.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Owner:** Claude Code (content)
 **File:** `src/content/plants/spaghetti-squash.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`
@@ -3794,7 +3794,7 @@ All stories in this sprint expand underweight articles and plant pages. Load `/U
 ---
 
 ### PE036 — Expand horseradish.md
-**Status:** `[ ]`
+**Status:** `[x]`
 **Owner:** Claude Code (content)
 **File:** `src/content/plants/horseradish.md`
 **Load skill:** `/Users/tlawson/.claude/skills/garden-roi-content/SKILL.md`

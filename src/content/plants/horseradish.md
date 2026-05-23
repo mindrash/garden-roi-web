@@ -57,6 +57,8 @@ The persistent nature of horseradish is both the challenge and the compounding a
 
 That $4.99 investment returns roughly $65 in fresh root value over five years from a single planting - before accounting for the value of preparing your own sauce rather than buying jars.
 
+**20-year value calculation:** Horseradish in a well-managed bed produces 3-4 lb per year once established. At $4/lb (conservative fresh root value - prepared sauce equivalent is higher), a mature bed returns $12-16 per year. Over 20 years from a single $4.99 crown investment: $240-320 in fresh root value. Net of the original investment: $235-315. If you value it against the prepared horseradish equivalent ($10-16 per 6-oz jar, roughly $27-43/lb), the 20-year return from one crown exceeds $800. One planting is genuinely permanent; the plant outlives most garden structures.
+
 One jar of prepared horseradish made from a single large root (roughly 1 lb of fresh root + 2 tbsp white vinegar + pinch salt, grated in a food processor) provides the equivalent of $10-16 of retail product. The quality is genuinely superior.
 
 ## Growing requirements
@@ -69,7 +71,15 @@ One jar of prepared horseradish made from a single large root (roughly 1 lb of f
 
 **Feeding:** Horseradish isn't a heavy feeder compared to many vegetables. An application of balanced fertilizer in spring when growth resumes, and again mid-summer, is sufficient. Excess nitrogen produces lush top growth at the expense of root development - don't overdo it.
 
-**Containment:** If growing in-ground, install a physical barrier - a bottomless 5-gallon bucket sunk in the ground, or a 12-inch-deep metal or plastic edging strip around the bed. Crown pieces left in the soil when harvesting will produce new plants the following year. This is fine in a designated bed; it's a management problem in a mixed vegetable garden.
+**Containment:** If growing in-ground, install a physical barrier - a bottomless 5-gallon bucket sunk in the ground, or a 12-inch-deep metal or plastic edging strip around the bed. Crown pieces left in the soil when harvesting will produce new plants the following year. This is fine in a designated bed; it's a management problem in a mixed vegetable garden. Any piece of root smaller than your thumb, left in disturbed soil during harvest or tilling, will produce a new plant with no help from you. If you dig the bed to transplant something else and scatter a few horseradish root fragments in the process, expect horseradish plants appearing across that garden area for the next 2-3 seasons. Contain first; regret avoidance later.
+
+## Propagation from Root Divisions
+
+Horseradish propagates exclusively from root divisions - it doesn't produce viable seed in most temperate growing conditions. This makes it one of the easiest perennial crops to multiply for free.
+
+The propagation method is the harvest itself. When you dig in fall, you'll find the main taproot (which you'll process) plus numerous pencil-thick side roots 4-10 inches long branching from the crown. These side roots are your planting stock. Select 4-8 inch sections with visible growth nodes (small bumps on the root surface), cut cleanly, and store upright in barely moist sand or sawdust at 35-40°F over winter. Plant them in early spring at a 45-degree angle, 2 inches below the surface.
+
+One established plant yields 5-10 division pieces per fall harvest. Each piece becomes a new productive plant by the following fall. If you want to expand your planting, give divisions away, or simply replace a plant that was misplanted, you generate the starting material for free every year. This connects horseradish to the broader propagation category covered in [herb propagation from cuttings](/homestead/herb-propagation-from-cuttings/) - same principle, zero ongoing seed cost after establishment.
 
 ## What goes wrong
 

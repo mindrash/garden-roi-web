@@ -58,6 +58,8 @@ The young ginger case (harvesting at specialty prices after 5 months rather than
 
 One important note: save back 20-30% of your best rhizomes each year as planting stock for the following year. After year one, your seed cost drops to zero.
 
+**The grocery-store starter math:** a single inch-long knob of grocery ginger - the kind left over after a recipe - weighs roughly 0.1-0.2 lb and costs $0.30-1.00 at $3-5/lb retail. That piece, if it sprouts, returns 1-2 lb of fresh rhizome by fall at a gross value of $4-12. The limiting factor is sprouting reliability. Grocery conventional ginger is frequently treated with sprout inhibitors applied during storage and transport. Organic grocery ginger - available at natural food stores and Asian markets with high turnover - treats significantly better because it reaches stores without inhibitor application. In testing by home growers and documented in extension guidance (NC State Cooperative Extension, *Ginger Production*, 2022), organic grocery ginger has a sprouting success rate of 60-80% versus 20-40% for conventional. If you're going to start from grocery ginger rather than certified seed stock, organic is worth the extra $1-3/lb premium.
+
 ## Growing requirements
 
 Ginger needs three things to thrive: warmth, consistent moisture, and patience. In zones 9-12, plant rhizomes directly in-ground in spring in a partially shaded location. In zones 5-8, start 8 weeks before your last frost date.
@@ -70,7 +72,11 @@ Ginger needs three things to thrive: warmth, consistent moisture, and patience. 
 
 **Feeding:** Heavy feeders. Apply balanced fertilizer (10-10-10 or similar) every 4-6 weeks through the growing season, or side-dress with compost monthly. Nitrogen deficiency shows up as yellowing older leaves and slow growth. Ginger responds well to foliar feeding with fish emulsion.
 
-**Containers:** Ginger grows well in large containers (5-gallon minimum, 10-gallon preferred for full harvests). Plant rhizomes just below the soil surface, horizontal. Use a potting mix heavy in compost. Containers let you bring the plant inside before frost and extend the season significantly in northern climates.
+**Containers:** In Zones 3-8, containers are the practical path to a full-season ginger harvest. Minimum size is 5 gallons per plant; a 10-gallon or 15-gallon container gives the rhizomes room to expand and supports a meaningful harvest weight. Use a well-draining potting mix amended with 30-40% compost by volume - ginger needs the organic matter for both moisture retention and nutrition. Plant rhizomes 2 inches below the surface, horizontal.
+
+The container strategy pays off most in the shoulder seasons. Move pots outside once nighttime temperatures are reliably above 50°F in spring, bring them back in before the first frost in fall. In a good year for Zone 6, that's a window of roughly May through October - close enough to the 8-10 month requirement that a container plant started early indoors in February or March can produce a harvestable crop.
+
+**Overwintering dormant rhizomes in the North:** when frost kills the tops and the growing season ends, you have two options. First, you can harvest everything and store the rhizomes for replanting the following spring (refrigerate in a paper bag at 50-55°F). Second, you can leave dormant rhizomes in their container, reduce watering to near-zero, and store the pot in a frost-free space - a cool basement, garage, or heated porch at 45-55°F. Dormant rhizomes stored in the pot resume growth in spring without repotting. This second method is simpler and loses less rhizome mass than harvesting and re-drying.
 
 ## Starting from rhizomes
 
@@ -101,6 +107,10 @@ Dig carefully with a garden fork rather than a spade - rhizomes spread laterally
 Fresh ginger stores 3-4 weeks at room temperature, 2-3 months refrigerated. For longer storage: peel and freeze whole (grate directly from frozen - it's easier than grating fresh), or process into ginger paste with a food processor and freeze in tablespoon portions.
 
 In the kitchen, fresh ginger's applications are wide. Stir-fries, marinades, and sauces are the obvious uses. Less expected: ginger tea (simmer fresh slices with lemon and honey), ginger-scallion oil (a finishing condiment for steamed fish and tofu), fresh ginger lemonade, and the aforementioned young-ginger pickling. The fresh-grated version of minced-ginger-from-a-jar is measurably more aromatic and bright.
+
+**Candied ginger and value multiplication:** one pound of fresh ginger root, processed into crystallized/candied ginger (sliced, simmered in sugar syrup, dried, and coated in sugar), produces roughly 0.8-1 lb of finished product. Specialty food stores and online retailers sell crystallized ginger at $12-22/lb. That's a 3-4x value amplification over the raw fresh root price. The process is time-intensive - about 2-3 hours of active work - but the product keeps for 6 months at room temperature and a year refrigerated. A surplus harvest at the end of the season that would otherwise sit in the refrigerator becoming fibrous is a reasonable candidate for candying.
+
+**Galangal distinction:** galangal (*Alpinia galanga*) is a closely related member of the same family (*Zingiberaceae*), looks similar, and grows under the same conditions, but it is a distinct plant with a different flavor - sharper, more piney, and more medicinal-tasting than common ginger. It is not a substitute for ginger in most recipes. If you find rhizomes labeled "galangal" or "Thai ginger" at an Asian market, they sprout and grow using the same method as *Zingiber officinale*, but the culinary result is different. Both are worth growing if you cook Southeast Asian food regularly.
 
 ---
 
