@@ -58,7 +58,7 @@ There's a second-order benefit that takes 3-5 seasons to become visible. When yo
 
 Most vegetables give you a harvest window measured in days or weeks. Garlic gives you 6 to 9 months of storage for hardneck varieties, and up to a year for properly-cured softneck (University of Minnesota Extension, *Garlic Production*, 2018). Harvest in June or July. Start pulling heads off the string in November. Still cooking from your harvest in March.
 
-One season's production, managed correctly, covers your household for a year. That compresses the ROI timeline significantly: you're not comparing the cost of garlic you grow in June to garlic you buy in June. You're comparing it to every head of garlic you buy across 12 months.
+One season's production, managed correctly, covers your household for a year. That compresses the ROI timeline across 12 months of household use: you're not comparing the cost of garlic you grow in June to garlic you buy in June. You're comparing it to every head of garlic you buy across 12 months.
 
 A household that uses two heads of garlic per week - a real number for anyone who cooks regularly - goes through roughly 100 heads per year. At $1–$2 per head for quality domestic garlic, that's $100–$200 annually. One serious planting of 50–60 cloves gets you most of the way there. Two pounds of seed garlic covers it entirely.
 
@@ -124,7 +124,7 @@ The detail the table doesn't show: 200 plants require about 2 lbs of seed garlic
 
 ## How Garlic Compares to Other High-ROI Crops
 
-The crops that compete with garlic on ROI math are herbs (basil, especially) and [tomatoes](/crops/tomato/). Basil returns extraordinary value per square foot but requires continuous active harvest and doesn't store. Tomatoes require significant management and yield heavy but perishable. Garlic requires almost no attention from November through April, stores for months without refrigeration, and improves your seed stock when you harvest well.
+The crops that compete with garlic on ROI math are herbs (basil, especially) and [tomatoes](/crops/tomato/). Basil returns extraordinary value per square foot but requires continuous active harvest and doesn't store. Tomatoes require consistent pruning, scouting, and 60–80 days to first harvest, and yield heavy but perishable. Garlic requires almost no attention from November through April, stores for months without refrigeration, and improves your seed stock when you harvest well.
 
 See the [garlic crop page](/crops/garlic/) for full growing details: planting timing, soil requirements, the scape harvest, disease risk (white rot is the one thing that can derail the whole enterprise), and post-harvest curing protocol.
 

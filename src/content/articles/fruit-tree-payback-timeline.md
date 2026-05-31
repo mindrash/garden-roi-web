@@ -38,9 +38,9 @@ Break-even is the year when cumulative value first equals or exceeds tree cost p
 - Sweet cherry (dwarf): 15-30 lb/year × $4.50-$5.50/lb = $67-$165/year. Low early-year yields drag the cumulative totals despite high per-pound value.
 - Tart cherry (dwarf): 15-25 lb/year × $3.50-$4.50/lb = $52-$112/year. University of Missouri Extension tart cherry yield data.
 - Fig (in-ground, Zone 7+): 20-30 lb/year × $4.00-$5.00/lb = $80-$150/year. Figs bear in their second or third year from a one-gallon nursery plant.
-- Persimmon: 20-40 lb/year × $3.50-$4.50/lb = $70-$180/year. Production is delayed but yields increase significantly at maturity; persimmon trees can live 60+ years.
+- Persimmon: 20-40 lb/year × $3.50-$4.50/lb = $70-$180/year. Production is delayed but a mature persimmon can yield 40-100 lb per season; persimmon trees can live 60+ years.
 
-The Year 20 values for peach are notably lower than other trees because peach productive lifespan is only 10-15 years for most varieties. After year 15, you're looking at a new tree.
+The Year 20 values for peach are notably lower than other trees because peach productive lifespan is only 10-15 years for most varieties; production can fall 50-70% in the second decade as disease pressure accumulates. After year 15, you're looking at a new tree.
 
 ---
 
@@ -78,13 +78,13 @@ Peaches are self-fertile, which means one tree fruits without a partner. That's 
 
 Plum sits in the middle of the payback range - faster than cherry, slower than peach. European plums (*Prunus domestica* - 'Stanley', 'Italian', 'Damson') are self-fertile and bear reliably in Zones 4-9, making them genuinely lower-maintenance than apples or pears from a disease management standpoint. Japanese plums (*Prunus salicina*) are somewhat more productive and earlier to bear, but most require cross-pollination and are less cold-hardy, best suited to Zones 5-9.
 
-Brown rot is the primary disease concern for plum, particularly in wet years. The fruit rots quickly after any blemish, and in a humid summer you can lose a significant portion of a crop within days of ripeness. Harvest timing is critical - don't leave ripe plums on the tree.
+Brown rot is the primary disease concern for plum, particularly in wet years. The fruit rots quickly after any blemish, and in a humid summer you can lose 30-50% of a crop within days of ripeness. Harvest timing is critical - don't leave ripe plums on the tree.
 
 European plum varieties tend toward heavier biennial bearing than Japanese types, meaning a very productive year is often followed by a light year. The annual yield figures in the table are averages; actual individual years may vary by 50% above or below.
 
 ### Sweet Cherry (Dwarf)
 
-Sweet cherry is the worst short-term payback in this group, and the gap between potential and reality is larger than for any other tree on this list. The tree is slow to produce - year 4 or 5 before a significant crop - and the per-pound value is high but the yields from a dwarf tree in a backyard setting are often dramatically reduced by one factor: birds.
+Sweet cherry is the worst short-term payback in this group, and the gap between potential and reality is larger than for any other tree on this list. The tree is slow to produce - year 4 or 5 before a significant crop - and the per-pound value is high but the yields from a dwarf tree in a backyard setting are often reduced by 80-90% by one factor: birds.
 
 Cherry is a bird favorite. Without netting over the tree at ripening, you may harvest 10-20% of what the tree actually produces. The rest goes to robins, starlings, and cedar waxwings, who will strip a dwarf cherry in two days. Netting a dwarf cherry requires a frame or a cone shape of bird exclusion netting - this is a real annual cost and effort, and it's not optional if you want the math to work. Budget $20-$40 for netting and the time to install and remove it annually.
 
@@ -106,7 +106,7 @@ Fig (*Ficus carica*) delivers the fastest payback of any tree in this table in w
 
 In Zone 7, fig is reliably winter-hardy with root protection. In Zone 6, the above-ground portion dies back to the ground in most winters. The roots survive, and the tree resprouts vigorously in spring. This means in Zone 6 you're essentially treating the fig as a large perennial plant rather than a tree - it produces fruit on new-season wood, and that production is real, but the figs ripen late in the season and some years a hard fall frost arrives before the crop is fully ripe. If you're in Zone 6, the cumulative values in the table are achievable, but the timing is less predictable than in Zone 7+.
 
-In Zones 8-10, a mature fig tree can produce 50-100+ lb per season. The 20-30 lb figure in the table is conservative and reflects a younger tree in Zone 7. If you're in a warmer climate, the actual returns are considerably higher.
+In Zones 8-10, a mature fig tree can produce 50-100+ lb per season. The 20-30 lb figure in the table is conservative and reflects a younger tree in Zone 7. If you're in a warmer climate, a mature fig in Zone 9-10 can yield $200-$500 per year from a single tree.
 
 ### Persimmon
 

@@ -128,7 +128,7 @@ The mixed strategy is the most forgiving. If your tomatoes disappoint, the herbs
 
 Zone 4 gardeners have the hardest path to a positive Year 1 ROI. A shorter season means fewer harvests, especially for slow-maturing crops like peppers and cucumbers. If you are in Zone 4, lean harder on herbs and greens - they produce quickly and handle cool temperatures better than nightshades.
 
-Zone 7 and warmer gardeners get a meaningful advantage: two full growing seasons are possible if you plant cool-season greens in both spring and fall. A zone 7 bed running spring through November can realistically yield $400–$600 in a single year, which changes the Year 1 math significantly.
+Zone 7 and warmer gardeners get a meaningful advantage: two full growing seasons are possible if you plant cool-season greens in both spring and fall. A zone 7 bed running spring through November can realistically yield $400–$600 in a single year, which can turn a break-even season into a $250–$450 net positive.
 
 ## The High-ROI Planting Plan
 
@@ -159,7 +159,7 @@ Succession planting every 3 weeks through late summer extends the greens harvest
 
 Two indeterminate tomato plants produce 20–40 lbs in a good season. At $2.50–$4.00/lb retail (USDA AMS, 2024), that is $50–$160 in grocery value from two plants. Four pepper plants add another $12–$54 depending on harvest luck and variety.
 
-The trade-off: tomatoes take the most time, the most water, and the most space. They also face the most pest and disease pressure. When tomatoes work, they are the MVP of the bed. When they fail - due to blight, drought stress, or pests - they take a significant portion of the bed's gross value down with them. That is why mixing in herbs and greens is important; they insulate your total return.
+The trade-off: tomatoes take the most time, the most water, and the most space. They also face the most pest and disease pressure. When tomatoes work, they are the MVP of the bed. When they fail - due to blight, drought stress, or pests - they can pull $80–$160 in expected harvest value down with them. That is why mixing in herbs and greens is important; they insulate your total return.
 
 Stake or cage tomatoes along the north edge of the bed to avoid shading shorter crops to their south.
 
