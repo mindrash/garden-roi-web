@@ -2,8 +2,8 @@
 name: Hardy Kiwi
 scientific_name: Actinidia arguta
 category: Fruit
-days_min: 150
-days_max: 165
+days_min: 1825
+days_max: 2555
 avg_yield_lb: 30.0
 avg_price_lb: 6.00
 start_cost: 24.99

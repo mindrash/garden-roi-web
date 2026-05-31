@@ -2,8 +2,8 @@
 name: Apricot
 scientific_name: Prunus armeniaca
 category: Fruit
-days_min: 60
-days_max: 80
+days_min: 1095
+days_max: 1460
 avg_yield_lb: 20.0
 avg_price_lb: 3.00
 start_cost: 24.99

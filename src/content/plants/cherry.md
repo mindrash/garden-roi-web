@@ -2,8 +2,8 @@
 name: Cherry
 scientific_name: Prunus avium
 category: Fruit
-days_min: 55
-days_max: 75
+days_min: 1095
+days_max: 1825
 avg_yield_lb: 25.0
 avg_price_lb: 5.00
 start_cost: 29.99

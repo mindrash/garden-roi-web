@@ -2,8 +2,8 @@
 name: Blueberry
 scientific_name: Vaccinium corymbosum
 category: Fruit
-days_min: 60
-days_max: 90
+days_min: 730
+days_max: 1095
 avg_yield_lb: 5.0
 avg_price_lb: 5.00
 start_cost: 8.99
@@ -18,7 +18,7 @@ faq:
   - q: "How much do blueberries yield per bush?"
     a: "A mature blueberry bush (3 to 4 years old) produces 5 to 10 lbs annually. First-year plants yield little; production peaks around year 4 to 6."
   - q: "How long does it take for blueberry bushes to produce fruit?"
-    a: "New blueberry plants produce a small amount in years 2 to 3 and reach full production by year 4 to 6. The 60 to 90 day figure refers to the time from flowering to ripe fruit."
+    a: "New blueberry plants produce a small amount in years 2 to 3 and reach full production by year 4 to 6."
   - q: "Is growing blueberries worth it financially?"
     a: "Fresh blueberries average $5/lb at grocery stores. A mature bush yielding 5 or more lbs returns $25 or more annually against a one-time $8.99 plant cost. Payback typically occurs by year 3."
   - q: "How do you store blueberries?"

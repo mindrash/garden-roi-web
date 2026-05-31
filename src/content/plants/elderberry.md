@@ -2,8 +2,8 @@
 name: Elderberry
 scientific_name: Sambucus nigra
 category: Fruit
-days_min: 90
-days_max: 120
+days_min: 730
+days_max: 1095
 avg_yield_lb: 10.0
 avg_price_lb: 8.00
 start_cost: 19.99

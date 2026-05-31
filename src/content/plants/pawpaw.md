@@ -2,8 +2,8 @@
 name: Pawpaw
 scientific_name: Asimina triloba
 category: Fruit
-days_min: 60
-days_max: 90
+days_min: 1825
+days_max: 2920
 avg_yield_lb: 20.0
 avg_price_lb: 8.00
 start_cost: 19.99

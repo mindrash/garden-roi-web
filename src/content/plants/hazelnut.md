@@ -2,8 +2,8 @@
 name: Hazelnut
 scientific_name: Corylus americana
 category: Fruit
-days_min: 90
-days_max: 120
+days_min: 1095
+days_max: 1825
 avg_yield_lb: 5.0
 avg_price_lb: 6.00
 start_cost: 19.99

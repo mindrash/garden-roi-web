@@ -2,8 +2,8 @@
 name: Pomegranate
 scientific_name: Punica granatum
 category: Fruit
-days_min: 150
-days_max: 200
+days_min: 1095
+days_max: 1825
 avg_yield_lb: 20.0
 avg_price_lb: 4.00
 start_cost: 24.99

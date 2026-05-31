@@ -2,8 +2,8 @@
 name: Pecan
 scientific_name: Carya illinoinensis
 category: Fruit
-days_min: 90
-days_max: 120
+days_min: 2190
+days_max: 2920
 avg_yield_lb: 30.0
 avg_price_lb: 8.00
 start_cost: 39.99
@@ -17,8 +17,6 @@ indoor_weeks_needed: 0
 hero_image: /images/crops/pecan.webp
 description: "Pecan trees yield 50-100+ lb per year at $7-14/lb in-shell. One tree, 20 years of harvests. Two-variety cross-pollination required. Full growing guide."
 ---
-
-The 90-120 days in the frontmatter refers to the fall harvest window from nut set to maturity - not from planting to first harvest. Your first meaningful harvest will be year 6-8. Full production comes in year 10-15. Plan accordingly.
 
 Pecan is the only nut tree native to North America, and the math on a mature tree is hard to ignore. Retail in-shell pecans run $7-14/lb at grocery stores. Shelled pecans go for $12-20/lb. A tree in full production - somewhere between years 10 and 20 - yields 50-100 lbs of in-shell nuts per season. Run the numbers on a single $39.99 bare-root tree: at year 10, producing 40 lb at $8/lb, that's $320 per year from one tree. By year 20, a well-managed tree in good conditions will outproduce that estimate by a wide margin.
 

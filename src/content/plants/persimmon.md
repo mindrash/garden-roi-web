@@ -2,8 +2,8 @@
 name: Persimmon
 scientific_name: Diospyros virginiana
 category: Fruit
-days_min: 70
-days_max: 100
+days_min: 1460
+days_max: 2555
 avg_yield_lb: 20.0
 avg_price_lb: 5.00
 start_cost: 24.99

@@ -2,8 +2,8 @@
 name: Mulberry
 scientific_name: Morus rubra
 category: Fruit
-days_min: 45
-days_max: 60
+days_min: 1095
+days_max: 1825
 avg_yield_lb: 30.0
 avg_price_lb: 6.00
 start_cost: 19.99

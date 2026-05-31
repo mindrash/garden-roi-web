@@ -27,6 +27,10 @@ const {
 
 const tagClass = `tag tag-${category.toLowerCase()}`;
 const roiEstimate = (avg_yield_lb * avg_price_lb).toFixed(2);
+const isPerennial = days_min >= 365;
+const daysDisplay = isPerennial
+  ? `${Math.round(days_min / 365)}–${Math.ceil(days_max / 365)} yrs`
+  : `${days_min}–${days_max}`;
 ---
 
 <a href={`/crops/${slug}/`} class="plant-card">
@@ -39,8 +43,8 @@ const roiEstimate = (avg_yield_lb * avg_price_lb).toFixed(2);
   </div>
   <div class="plant-stats">
     <div class="stat">
-      <span class="stat-value">{days_min}–{days_max}</span>
-      <span class="stat-label">Days to harvest</span>
+      <span class="stat-value">{daysDisplay}</span>
+      <span class="stat-label">{isPerennial ? 'Yrs to harvest' : 'Days to harvest'}</span>
     </div>
     <div class="stat">
       <span class="stat-value">{avg_yield_lb} lb</span>

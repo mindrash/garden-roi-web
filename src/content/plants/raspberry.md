@@ -2,8 +2,8 @@
 name: Raspberry
 scientific_name: Rubus idaeus
 category: Fruit
-days_min: 60
-days_max: 90
+days_min: 365
+days_max: 545
 avg_yield_lb: 2.0
 avg_price_lb: 6.00
 start_cost: 4.99

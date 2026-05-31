@@ -2,8 +2,8 @@
 name: Grape
 scientific_name: Vitis vinifera
 category: Fruit
-days_min: 90
-days_max: 180
+days_min: 1095
+days_max: 1460
 avg_yield_lb: 10.0
 avg_price_lb: 2.50
 start_cost: 6.99

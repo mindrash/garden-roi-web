@@ -2,8 +2,8 @@
 name: Plum
 scientific_name: Prunus domestica
 category: Fruit
-days_min: 75
-days_max: 100
+days_min: 1095
+days_max: 1460
 avg_yield_lb: 20.0
 avg_price_lb: 2.00
 start_cost: 24.99

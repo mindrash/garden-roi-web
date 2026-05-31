@@ -2,8 +2,8 @@
 name: Fig
 scientific_name: Ficus carica
 category: Fruit
-days_min: 90
-days_max: 150
+days_min: 365
+days_max: 730
 avg_yield_lb: 8.0
 avg_price_lb: 4.50
 start_cost: 9.99

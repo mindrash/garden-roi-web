@@ -2,8 +2,8 @@
 name: Blackberry
 scientific_name: Rubus allegheniensis
 category: Fruit
-days_min: 60
-days_max: 90
+days_min: 365
+days_max: 545
 avg_yield_lb: 3.0
 avg_price_lb: 5.50
 start_cost: 4.99

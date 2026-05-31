@@ -2,8 +2,8 @@
 name: Chestnut
 scientific_name: Castanea spp.
 category: Fruit
-days_min: 90
-days_max: 120
+days_min: 1825
+days_max: 2555
 avg_yield_lb: 20.0
 avg_price_lb: 4.00
 start_cost: 29.99
