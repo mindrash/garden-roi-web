@@ -6,7 +6,7 @@ related_crops: [pawpaw, elderberry, lavender, echinacea, black-currant]
 related_articles: []
 ---
 
-Cold stratification is the process of giving dormant seeds a cold, moist period before attempting to germinate them. Many seeds native to temperate and cold climates are programmed to not germinate until they've experienced winter conditions - a mechanism that prevents seeds from sprouting in fall and being killed by the coming cold. Cold stratification replicates that winter experience artificially, unlocking germination.
+Cold stratification is the process of giving dormant seeds a cold, moist period before attempting to germinate them. Many seeds native to temperate and cold climates are programmed to not germinate until they've experienced winter conditions - a mechanism that prevents seeds from sprouting in fall and being killed by the coming cold. Cold stratification replicates that winter experience artificially, and the seed germinates once temperatures warm.
 
 ## Why Seeds Need It
 

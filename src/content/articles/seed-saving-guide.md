@@ -115,7 +115,7 @@ Cucumbers are the clearest example to walk through. If you grow a single cucumbe
 
 **Solution 3: Hand pollination with tagging.** For crops where you want to maintain two varieties, identify flowers the day before they open (they swell and show color but haven't unfolded). Tape them closed with masking tape or a twist tie. The following morning, transfer pollen from a male flower (carefully opened, tape removed) to the tagged female flower of the same variety using a small brush or cotton swab. Re-tape the female flower for 2 days. Harvest the tagged fruits for seed; leave untagged fruits for eating. This works reliably and is standard practice for plant breeders.
 
-For squash, the same principles apply with one important clarification: only varieties within the same species cross. Zucchini (*Cucurbita pepo*) won't cross with butternut squash (*C. moschata*) or Hubbard squash (*C. maxima*). But zucchini and acorn squash will cross freely - both are *C. pepo*. Learning which species your squash belong to before saving seed prevents unpleasant surprises. Seed catalogs and packets list the species; it's worth noting when you buy.
+For squash, the same principles apply with one important clarification: only varieties within the same species cross. Zucchini (*Cucurbita pepo*) won't cross with butternut squash (*C. moschata*) or Hubbard squash (*C. maxima*). But zucchini and acorn squash will cross freely - both are *C. pepo*. Learning which species your squash belong to before saving seed prevents unpleasant surprises. Seed catalogs and packets list the species; check the label when you buy.
 
 ## What to Do With Surplus Seed
 

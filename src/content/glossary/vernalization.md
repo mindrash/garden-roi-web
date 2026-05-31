@@ -6,7 +6,7 @@ related_crops: [garlic, onion, carrot, parsley, cabbage]
 related_articles: []
 ---
 
-Vernalization is the requirement of certain plants to experience a defined period of cold - typically 32-50°F - before they can flower or set seed. The cold period "unlocks" the transition from vegetative growth to reproductive growth. Plants that need vernalization will not bolt, flower, or seed without it, no matter how long the growing season.
+Vernalization is the requirement of certain plants to experience a defined period of cold - typically 32-50°F - before they can flower or set seed. The cold period triggers the transition from vegetative growth to reproductive growth. Plants that need vernalization will not bolt, flower, or seed without it, no matter how long the growing season.
 
 The term comes from the Latin *vernus* (of spring): the cold of winter prepares the plant to flower in spring.
 

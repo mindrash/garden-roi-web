@@ -18,7 +18,7 @@ The term comes from the Greek *allelon* (of each other) and *pathos* (harm). It 
 
 **Fennel (*Foeniculum vulgare*):** Widely cited as inhibiting many neighboring plants. The evidence is less definitive than for walnut, but fennel is generally isolated from vegetable beds as a precaution. Fennel is also allelopathically suppressive toward other fennel plants (autotoxic), which partially explains its tendency to fail in succession if replanted in the same spot.
 
-**Garlic and alliums:** Release sulfur compounds through roots. The evidence for broad allelopathic effects is mixed; some studies show inhibition of beans and legumes, while garlic is often recommended as a companion for other reasons (insect repellency via aromatic compounds).
+**Garlic and alliums:** Release sulfur compounds through roots. The evidence for broad allelopathic effects is mixed; laboratory studies at elevated allicin concentrations document inhibited germination in common bean, but field effects at normal garden spacing are inconsistent and not well-documented. Garlic is often recommended as a companion for other reasons - insect repellency via aromatic volatile compounds - not allelopathy.
 
 ## Allelopathy and "Companion Planting" Claims
 

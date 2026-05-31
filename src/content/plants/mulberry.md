@@ -53,7 +53,7 @@ A standard mulberry tree reaches meaningful production in year 3-4 and full prod
 | 2 | $3 mulch/care | 3-5 lb | $30-50 | $7.01-27.01 |
 | 3 | $3 mulch/care | 10-15 lb | $100-150 | $104.02-171.02 |
 | 4 | $3 mulch/care | 20-30 lb | $200-300 | $301.02-465.02 |
-| 5-10 (avg/year) | $3/year | 40-60 lb | $400-600/year | — |
+| 5-10 (avg/year) | $3/year | 40-60 lb | $400-600/year | - |
 | **10-year cumulative** | ~$38 | ~250 lb | **~$2,500** | **~$2,462** |
 
 The $10/lb figure reflects farmers market pricing where mulberries are sold fresh and premium. Actual household value depends on what you do with the fruit - fresh eating, freezing, jam, wine, or simply what you'd have paid at market.

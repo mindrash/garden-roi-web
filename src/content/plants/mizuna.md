@@ -70,7 +70,7 @@ Spring and fall windows run in opposite directions relative to day length. Sprin
 | Spring 1 | Mar 15-20 | 45-50°F | 25-28 | Apr 9 - May 5 | Longest window; coolest temps |
 | Spring 2 | Apr 1-5 | 50-55°F | 22-25 | Apr 24 - May 18 | |
 | Spring 3 | Apr 18-22 | 55-60°F | 20-22 | May 8 - Jun 1 | Heat may end it early |
-| Gap | May-Aug | — | — | — | Too hot; skip |
+| Gap | May-Aug | - | - | - | Too hot; skip |
 | Fall 1 | Aug 18-22 | 65-70°F | 20-22 | Sep 8 - Oct 10 | Fast germination in warm soil |
 | Fall 2 | Sep 3-7 | 60-65°F | 22-25 | Sep 26 - Oct 28 | |
 | Fall 3 | Sep 18-22 | 55-60°F | 25-30 | Oct 15 - Nov 15 | Row cover extends into Nov |

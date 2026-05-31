@@ -57,7 +57,7 @@ A $2.49 seed packet contains 200–300 seeds. You'll start more than you need an
 | 4x8 bed, fermented (home use) | 6 | 18 lb → ~16 lb sauerkraut | $96-160** | $1.25* | $94.75-158.75** |
 
 *Estimated from $2.49 packet at ~2 plants per dollar.
-**At $6-10/lb retail for premium sauerkraut — reflects home-use value substitution or direct sales under cottage food provisions.
+**At $6-10/lb retail for premium sauerkraut - reflects home-use value substitution or direct sales under cottage food provisions.
 
 The fermentation math is striking but needs context. One pound of shredded cabbage with 1.5–2% salt by weight (the standard ratio for lacto-fermented sauerkraut) produces approximately 0.8–0.9 lbs of sauerkraut after fermentation and some liquid loss. Retail sauerkraut runs $6–$10/lb for small-batch or premium product (USDA AMS Specialty Crop Market News, 2023). A 3-lb head produces 2.4–2.7 lbs of sauerkraut - worth $14–$27 retail.
 

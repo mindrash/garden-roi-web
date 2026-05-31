@@ -18,7 +18,7 @@ The digestive process of earthworms transforms organic material in specific ways
 
 **Microbial activity:** Worm guts are high-diversity microbial environments. The passage of material through the gut increases microbial populations and diversity. Fresh vermicompost has substantially higher bacterial and fungal biomass than equivalent thermophilic compost, which translates to more active soil biology when applied.
 
-**Plant growth promoting compounds:** Earthworm castings contain humates, fulvates, and plant growth regulators (cytokinins, auxins) at detectable concentrations. Multiple studies show plant growth responses to vermicompost that exceed what nutrient analysis alone would predict.
+**Plant growth promoting compounds:** Earthworm castings contain humates, fulvates, and plant growth regulators (cytokinins, auxins) at detectable concentrations. Plant growth responses to vermicompost consistently exceed what the nutrient profile alone predicts - an effect attributed to plant growth regulators and elevated microbial activity (Atiyeh et al., *Bioresource Technology*, 2000).
 
 ## Setup and Operation
 

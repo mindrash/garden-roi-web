@@ -16,7 +16,7 @@ Vegetables contain enzymes - primarily peroxidase and catalase - that remain act
 
 Freezing without blanching doesn't produce an immediately unsafe product, but quality deteriorates quickly. Unblanched broccoli, green beans, or corn frozen for 3 months will taste noticeably different - more off-flavor and duller in color - than properly blanched product.
 
-Additionally, blanching:
+Blanching also:
 - Reduces surface microbial loads
 - Removes some surface pesticide residues
 - Wilts leafy vegetables to reduce bulk (important for spinach and chard)

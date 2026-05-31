@@ -53,7 +53,7 @@ Plum is a long-horizon investment. The economics over a 15-year period look like
 | 2 | $5 fertilizer | 2 lb | $4 | -$35.99 |
 | 3 | $5 fertilizer | 10 lb | $20 | -$20.99 |
 | 4 | $5 fertilizer | 25 lb | $50 | $24.01 |
-| 5-10 (per year avg) | $5/year | 60 lb | $120/year | — |
+| 5-10 (per year avg) | $5/year | 60 lb | $120/year | - |
 | **10-year cumulative** | ~$95 total | ~300 lb | **~$600** | **~$505** |
 
 The tree breaks even at year 4 and returns roughly $115/year net in fruit value for the following decade, from a fixed one-time investment. Years 4-20 cost essentially nothing; the tree just produces.

@@ -25,7 +25,7 @@ Distinguishing the species matters primarily for understanding your risk level. 
 
 ## Life Cycle and Seasonal Timing
 
-Understanding when beetles are most active and what they're doing at each stage gives you better control leverage.
+Understanding when beetles are most active and what they're doing at each stage gives you better control over timing.
 
 **Overwintering adults:** adult beetles overwinter in leaf litter and woodland edges, emerging in spring when temperatures consistently exceed 55-60°F. The emergence timing varies by geography: in zone 5-6, this is typically late May to early June. In zone 7-8, April to early May. The first emerging adults are hungry and immediately seek cucurbit tissue.
 

@@ -18,7 +18,7 @@ hero_image: /images/crops/pomegranate.webp
 description: "Pomegranate (Punica granatum) - drought-tolerant deciduous shrub/small tree. $3-6/lb; $3-8 per fruit at peak season. 20-40 lb per mature plant. Zones 7-11 outdoors; container culture in colder zones."
 ---
 
-Pomegranates are one of the most forgiving high-value fruit crops you can grow in a warm climate. They tolerate drought, alkaline soil, and summer heat that would stress most stone fruits. A mature bush - they're more shrub than tree in most garden situations - produces 20-40 lb of fruit annually at $3-8 per fruit retail. The arils (seeds with their juice sacs) and juice retail for substantially more per pound when processed.
+A pomegranate planted in the right zone will handle drought, shrug off alkaline soil, and keep producing through summer heat that would stress most stone fruits. The plant is native to the region from Iran to northern India - adapted to arid and semi-arid conditions over 4,000 years of cultivation - which is why it performs reliably in low-water gardens from California to the Gulf Coast. A mature bush (they're more shrub than tree in most garden situations) produces 20-40 lb of fruit annually at $3-8 per fruit retail. The arils (seeds with their juice sacs) and juice retail for substantially more per pound when processed.
 
 In zones 8-11, pomegranates are a reliable, low-input perennial. In zone 7, they need a sheltered south-facing site. In zones 5-6, container culture with winter indoor storage is the approach - a 15-gallon pot produces limited but real fruit.
 

@@ -88,7 +88,7 @@ Annual cost calculation for a 200-square-foot perimeter application zone, reappl
 - 3-10 deer per square mile: repellents reduce damage but don't eliminate it; physical fencing is more reliable
 - Above 10 deer per square mile: repellents fail under sustained feeding pressure when food is scarce; physical fencing is necessary
 
-**Soap bars:** bars of deodorant soap hung at deer head height around the garden perimeter are a traditional remedy. The evidence is mixed. Some studies show marginal efficacy for 2-4 weeks before deer habituate; others show no effect. This is not a recommended primary control strategy (though it costs almost nothing and doesn't hurt to try alongside other measures).
+**Soap bars:** bars of deodorant soap hung at deer head height around the garden perimeter are a traditional remedy. Deer repellent studies - including reviews by USDA Wildlife Services and Cornell Cooperative Extension - find soap provides at most 2-4 weeks of reduced browsing before deer habituate, and several field trials found no consistent deterrent effect. This is not a recommended primary control strategy (though it costs almost nothing and doesn't hurt to try alongside other measures).
 
 **Human hair:** no reliable evidence for deer deterrence beyond a few days.
 
