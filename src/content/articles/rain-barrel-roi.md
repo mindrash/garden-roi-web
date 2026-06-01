@@ -31,7 +31,7 @@ That's from a single inch of rain on a fairly large catchment area. Most residen
 
 That number - roughly 106 gallons per inch of rainfall - is the working figure for a single standard downspout serving one barrel or small barrel array. You can scale it up proportionally if you add a second barrel or tap a larger roof section.
 
-A standard 55-gallon rain barrel fills after about 0.52 inches of rain on a 200 sq ft catchment. In most US regions, individual rain events exceed that threshold regularly through the spring and summer months. The barrel will fill, overflow into a linked barrel or the overflow hose, and refill repeatedly through the season. The more meaningful number is how much total water you can collect and use across the growing season, not just per storm.
+A standard 55-gallon rain barrel fills after about 0.52 inches of rain on a 200 sq ft catchment. In most US regions, individual rain events exceed that threshold regularly through the spring and summer months. The barrel will fill, overflow into a linked barrel or the overflow hose, and refill repeatedly through the season. The more useful number is how much total water you can collect and use across the growing season, not just per storm.
 
 ## Regional Rainfall and Collection by City
 
@@ -54,7 +54,7 @@ A few caveats on these numbers:
 
 Phoenix's 848 gallons per year is actually overstated for practical garden use. Phoenix receives the majority of its rainfall during the winter months and the summer monsoon season (July–September). The hottest, driest months - when outdoor irrigation demand peaks - see very little rainfall. You may collect 848 gallons annually, but most of it arrives when you least need it. Seattle has the opposite timing problem: the Pacific Northwest receives most of its rainfall October through April, when outdoor watering needs are minimal. The summer months are notably dry. This is relevant for garden planning even if the annual totals look favorable.
 
-Atlanta and New York, both at roughly 50 inches annually, have much more even year-round rainfall distribution, with reasonably consistent monthly totals and meaningful summer precipitation. For rain barrel utility, that distribution is more useful than a high annual total concentrated in winter.
+Atlanta and New York, both at roughly 50 inches annually, have much more even year-round rainfall distribution, with reasonably consistent monthly totals and real summer precipitation. For rain barrel utility, that distribution is more useful than a high annual total concentrated in winter.
 
 ## Municipal Water Rates by Region
 
@@ -73,15 +73,15 @@ That average obscures wide regional variation - roughly 3x from lowest to highes
 | Desert Southwest (Phoenix metro) | ~$0.010–$0.016 | Scarcity pricing; upper tiers expensive |
 | Southern California (Los Angeles) | ~$0.014–$0.018 | Tiered rates; Tier 3 water expensive |
 
-In drought-affected Western regions, tiered pricing structures are important. Many utilities in Arizona, California, and Colorado impose tiered rates where baseline indoor water use stays at a moderate per-gallon cost, but outdoor irrigation - which pushes households into higher usage tiers - gets billed at significantly higher rates. This means marginal outdoor water in Phoenix or Los Angeles can cost two or three times the average rate. If your rain barrel water is genuinely displacing Tier 2 or Tier 3 municipal water, the actual savings per gallon may be closer to $0.018–$0.025.
+In drought-affected Western regions, tiered pricing structures are important. Many utilities in Arizona, California, and Colorado impose tiered rates where baseline indoor water use stays at a moderate per-gallon cost, but outdoor irrigation - which pushes households into higher usage tiers - gets billed at much higher rates. This means marginal outdoor water in Phoenix or Los Angeles can cost two or three times the average rate. If your rain barrel water is displacing Tier 2 or Tier 3 municipal water, the actual savings per gallon may be closer to $0.018–$0.025.
 
-For the break-even calculations below, the table uses the standard average rate for each city rather than peak-tier rates. In drought regions, the actual break-even time may be shorter if the barrel is genuinely offsetting higher-tier usage.
+For the break-even calculations below, the table uses the standard average rate for each city rather than peak-tier rates. In drought regions, the actual break-even time may be shorter if the barrel is offsetting higher-tier usage.
 
 ## Break-Even Calculations for Four Scenarios
 
 A basic 55-gallon polyethylene rain barrel with spigot and overflow hose costs $60–$80 at most home improvement retailers. Larger 100-gallon barrels or decorative units run $120–$200. The math below uses the standard 55-gallon unit at $70 mid-range.
 
-For the annual collection figures, these scenarios use a downspout catchment scaled to match the collection potential needed for meaningful garden use. Seattle and Atlanta figures assume a slightly larger catchment (250–300 sq ft of roof area serving two linked 55-gallon barrels) to reflect the higher annual collection potential in wetter climates. Phoenix and Los Angeles figures use the standard 200 sq ft single-barrel setup.
+For the annual collection figures, these scenarios use a downspout catchment scaled to match the collection potential needed for real garden use. Seattle and Atlanta figures assume a slightly larger catchment (250–300 sq ft of roof area serving two linked 55-gallon barrels) to reflect the higher annual collection potential in wetter climates. Phoenix and Los Angeles figures use the standard 200 sq ft single-barrel setup.
 
 | Scenario | Barrel Cost | Annual Collection (gal) | Water Rate ($/gal) | Annual Savings | Years to Break Even |
 |----------|------------|------------------------|-------------------|---------------|---------------------|
@@ -92,7 +92,7 @@ For the annual collection figures, these scenarios use a downspout catchment sca
 
 The Seattle numbers are instructive. Despite 38 inches of annual rainfall, the low municipal water rate ($0.005/gal) makes each gallon of collected water worth very little. The barrel pays for itself in 5–6 years - not a terrible return, but not a compelling one either. If Seattle's water rate were at the Phoenix level, the same barrel would generate $40/year in savings and break even in under 2 years.
 
-Phoenix is the worst scenario for rain barrel economics, despite having some of the highest water rates in the country. The problem is volume: 8 inches of annual rainfall, concentrated in seasons when garden watering isn't the priority, means the barrel simply doesn't collect enough to generate significant annual savings. High water rates don't rescue a fundamentally thin collection opportunity.
+Phoenix is the worst scenario for rain barrel economics, despite having some of the highest water rates in the country. The problem is volume: 8 inches of annual rainfall, concentrated in seasons when garden watering isn't the priority, means the barrel simply doesn't collect enough for real annual savings. High water rates don't rescue a fundamentally thin collection opportunity.
 
 Los Angeles is interesting because it combines moderate rainfall (roughly 15 inches annually) with very high water rates. Even on the thin collection side, each gallon saved is worth $0.018 or more, which means the barrel earns its keep in 4–5 years despite relatively modest total collection. Add even one more barrel and tap a larger roof section, and the break-even compresses to 2–3 years.
 
@@ -102,9 +102,9 @@ One factor not in these tables: many municipalities offer rebates on rain barrel
 
 ## When Rain Barrels Make Sense
 
-**High municipal water rates.** If you're paying $0.012/gal or more for water - which means you're in Los Angeles, Phoenix, or a Southern California water district on upper-tier pricing - the economics of a rain barrel improve substantially. Every gallon collected and used is a gallon not charged at that premium rate.
+**High municipal water rates.** If you're paying $0.012/gal or more for water - which means you're in Los Angeles, Phoenix, or a Southern California water district on upper-tier pricing - the economics of a rain barrel improve. Every gallon collected and used is a gallon not charged at that premium rate.
 
-**Supplemental summer watering for large gardens.** A rain barrel is not a replacement for a connected hose. A 55-gallon barrel waters a 200 sq ft garden once or twice between rainfall events. What it does well is supplement - it keeps plants alive through a 3–5 day dry stretch without drawing from the municipal supply. For a [large vegetable garden](/roi/the-500-dollar-garden/) with significant summer irrigation needs, even modest barrel savings compound year over year.
+**Supplemental summer watering for large gardens.** A rain barrel is not a replacement for a connected hose. A 55-gallon barrel waters a 200 sq ft garden once or twice between rainfall events. What it does well is supplement - it keeps plants alive through a 3–5 day dry stretch without drawing from the municipal supply. For a [large vegetable garden](/roi/the-500-dollar-garden/) with high summer irrigation needs, even modest barrel savings compound year over year.
 
 **Regions with moderate to high rainfall distributed across summer.** The Southeast, the Midwest, and parts of the Mid-Atlantic are natural fits. Consistent summer rainfall means the barrel turns over regularly - you're collecting and using water, not just letting it sit.
 
@@ -118,7 +118,7 @@ One factor not in these tables: many municipalities offer rebates on rain barrel
 
 **Jurisdictions with regulatory restrictions.** This one catches people off guard. Rainwater collection was illegal or heavily restricted in several Western states for most of the 20th century under the prior appropriation water rights doctrine, which held that rainwater was legally part of the surface water system and subject to allocation. Colorado is the most commonly cited example: the state restricted residential rainwater collection until 2016, when SB16-141 legalized collection of up to 110 gallons (two 55-gallon barrels) per household for outdoor residential use. The law change was recent enough that some Colorado gardeners still believe it's prohibited. Before you install a barrel in any Western state, check current state regulations and any local ordinances. In most of the Eastern US, collection is unrestricted, but it's worth confirming.
 
-**Very small gardens with low irrigation needs.** A 50 sq ft herb and salad garden in Zone 6 may need only 200–400 gallons of supplemental water per season. Even one good rain event fills a 55-gallon barrel, and the total irrigation demand doesn't justify the hardware cost. The [water cost per crop analysis](/roi/water-cost-per-crop/) shows that water is rarely the significant cost in a home garden - soil amendments, transplants, and time consistently outrank irrigation as expense drivers. A rain barrel makes sense as a water cost reducer only when water costs are actually a meaningful line item.
+**Very small gardens with low irrigation needs.** A 50 sq ft herb and salad garden in Zone 6 may need only 200–400 gallons of supplemental water per season. Even one good rain event fills a 55-gallon barrel, and the total irrigation demand doesn't justify the hardware cost. The [water cost per crop analysis](/roi/water-cost-per-crop/) shows that water is rarely the main cost in a home garden - soil amendments, transplants, and time consistently outrank irrigation as expense drivers. A rain barrel makes sense as a water cost reducer only when water costs are actually a real line item.
 
 ## Sizing the System to Your Actual Needs
 

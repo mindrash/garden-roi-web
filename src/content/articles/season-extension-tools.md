@@ -94,7 +94,7 @@ Fall greens + extended pepper harvest (conservative):
 
 **Total first-year harvest value (both seasons combined): $211.25**
 
-Against a $400 mid-range investment, that is about a two-year break-even. By Year 3, a well-used mini greenhouse is firmly in the black. The break-even shortens significantly if you factor in the value of starting your own transplants - a 6-pack of lettuce transplants at a garden center costs $4–$6; a packet of seed costs $2–$3 and produces 5–10 times as many plants.
+Against a $400 mid-range investment, that is about a two-year break-even. By Year 3, a well-used mini greenhouse is firmly in the black. The break-even shortens further if you factor in the value of starting your own transplants - a 6-pack of lettuce transplants at a garden center costs $4–$6; a packet of seed costs $2–$3 and produces 5–10 times as many plants.
 
 The risk with this tier: mini greenhouses need ventilation management. An unvented greenhouse on a sunny 40°F day will cook plants inside. If you are not able to vent during the day, factor that into your assessment. A neglected mini greenhouse can destroy more value than it creates.
 
@@ -131,13 +131,13 @@ High tunnels are not for most home gardeners. A 30x96 foot commercial high tunne
 
 If you are at that scale - running a market garden, a farm stand, or a CSA - the USDA NRCS Environmental Quality Incentives Program (EQIP) offers cost-share payments that can cover 50–75% of high tunnel installation costs for qualifying operations. A $6,000 high tunnel that qualifies for 60% cost-share has an out-of-pocket cost of $2,400. The payment schedule, application process, and local office contacts are at nrcs.usda.gov. EQIP high tunnel payments are administered at the county level, so eligibility and payment rates vary by state and by operation type.
 
-To be direct: EQIP high tunnel cost-share is designed for operations producing food commercially or for food access programs. A backyard gardener planting a 4x8 bed does not qualify, and the application process is not worth pursuing for less than 500 square feet of production. If you are asking whether a high tunnel pencils out for your home garden, the answer is almost certainly no without cost-share - and even with it, the management overhead is significant.
+To be direct: EQIP high tunnel cost-share is designed for operations producing food commercially or for food access programs. A backyard gardener planting a 4x8 bed does not qualify, and the application process is not worth pursuing for less than 500 square feet of production. If you are asking whether a high tunnel pencils out for your home garden, the answer is almost certainly no without cost-share - and even with it, the management overhead is real.
 
 Row covers and cold frames are the right tools for 95% of the people reading this article.
 
 ## Crops That Do Not Benefit
 
-Season extension tools protect plants from cold. They do not change soil temperature in any meaningful way, and they do not make warm-weather crops viable in cool conditions.
+Season extension tools protect plants from cold. They do not change soil temperature in any real way, and they do not make warm-weather crops viable in cool conditions.
 
 Corn (*Zea mays*), summer squash (*Cucurbita pepo*), winter squash (*Cucurbita maxima* and *C. moschata*), and melons (*Cucumis melo*) need soil temperatures above 60°F to germinate reliably. Below that threshold, seeds rot in the ground rather than sprouting. A row cover on a 50°F soil surface in April does not solve this problem - the soil is still cold. For these crops, the limiting factor is soil heat, not air temperature, and no passive season extension tool changes that equation enough to matter.
 
@@ -145,7 +145,7 @@ The crops that respond well to season extension fall into two groups:
 
 **Cool-season crops that benefit from earlier spring planting and later fall harvest:** Arugula, spinach, lettuce, kale, chard, mâche, pac choi, mizuna, radishes, turnips, beets, carrots, onions, leeks, and most brassicas. These crops germinate in soil temperatures as low as 40°F (spinach, lettuce, arugula) and tolerate frost with varying degrees of hardiness. Season extension tools expand both ends of their growing window.
 
-**Warm-season crops that benefit from fall protection at the end of the season:** Tomatoes (*Solanum lycopersicum*) and peppers (*Capsicum annuum*) continue setting and ripening fruit until frost kills them. Row cover or a mini greenhouse can extend their productive period 3–5 weeks past first frost if the plants were healthy going into fall. A mature pepper plant protected from a 28°F frost can produce for another 3 weeks if temperatures stay above 35°F on average. That is meaningful for a crop that took 90 days to reach full production.
+**Warm-season crops that benefit from fall protection at the end of the season:** Tomatoes (*Solanum lycopersicum*) and peppers (*Capsicum annuum*) continue setting and ripening fruit until frost kills them. Row cover or a mini greenhouse can extend their productive period 3–5 weeks past first frost if the plants were healthy going into fall. A mature pepper plant protected from a 28°F frost can produce for another 3 weeks if temperatures stay above 35°F on average. That matters for a crop that took 90 days to reach full production.
 
 The fall extension does not work for squash and cucumbers. By the time first frost arrives in most zones, squash vines have senescent leaves and minimal remaining fruit set potential. Cucumbers are even more frost-sensitive and shut down at the first cold snap. Protecting them past their natural season with row cover rarely produces enough additional fruit to justify the effort.
 

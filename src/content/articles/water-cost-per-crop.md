@@ -7,7 +7,7 @@ featured: false
 hero_image: /images/articles/water-cost-per-crop.webp
 ---
 
-If you've ever wondered whether your water bill is eating your garden's ROI, the short answer is: probably not. For a typical home garden under 200 square feet, you're looking at $10 to $30 per season in irrigation costs. That's less than a bag of fertilizer. Water is almost never the significant expense.
+If you've ever wondered whether your water bill is eating your garden's ROI, the short answer is: probably not. For a typical home garden under 200 square feet, you're looking at $10 to $30 per season in irrigation costs. That's less than a bag of fertilizer. Water is almost never the main expense.
 
 That said, it's worth knowing exactly where that number comes from, how it varies by crop and region, and why your watering habits matter far more than the dollar amount on your bill.
 
@@ -15,7 +15,7 @@ That said, it's worth knowing exactly where that number comes from, how it varie
 
 The EPA WaterSense program reports average US residential water rates between $0.004 and $0.009 per gallon - roughly $4 to $9 per 1,000 gallons (EPA WaterSense, "Statistics and Facts"). The midpoint, $0.006 per gallon, is a reasonable working number for most US households.
 
-But rates vary significantly by region. Municipal water in the Midwest and Southeast typically runs $0.003–$0.006 per gallon. Western utilities - especially in drought-affected areas of California, Arizona, and Nevada - frequently charge $0.008–$0.015 per gallon, and some tiered-rate structures push above that for high-volume users. Private well users pay near-zero marginal cost for water itself, though pumping energy adds a small amount.
+But rates vary by region. Municipal water in the Midwest and Southeast typically runs $0.003–$0.006 per gallon. Western utilities - especially in drought-affected areas of California, Arizona, and Nevada - frequently charge $0.008–$0.015 per gallon, and some tiered-rate structures push above that for high-volume users. Private well users pay near-zero marginal cost for water itself, though pumping energy adds a small amount.
 
 Three benchmarks are useful for the tables below:
 
@@ -60,15 +60,15 @@ The reason water optimization is usually the wrong focus is that it represents a
 
 **Garlic (10 sq ft):** $0.40–$0.70 total water cost. Seed garlic input: $3–$5 (from $12–$20/lb seed garlic at ~40–50 cloves per lb). Retail value of harvest: $12–$30 at $8–$12/lb hardneck (USDA ERS). **Water as % of inputs: under 15%.**
 
-In every case, water is a rounding error compared to seed/transplant inputs and dramatically smaller than harvest value. Spending time optimizing irrigation costs rather than maximizing yield is working on the wrong variable.
+In every case, water is a rounding error compared to seed/transplant inputs and much smaller than harvest value. Spending time optimizing irrigation costs rather than maximizing yield is working on the wrong variable.
 
 ## Regional Variation: Where Water Rates Actually Matter
 
-For most US gardeners, the rate difference between the low and high benchmarks above adds $5–$15 to a season's water bill for a 100–200 sq ft garden. That's not a meaningful number.
+For most US gardeners, the rate difference between the low and high benchmarks above adds $5–$15 to a season's water bill for a 100–200 sq ft garden. That's not a large number.
 
 The exception is gardeners in tiered-rate western markets who are already near their tier thresholds. In some California water districts, usage that pushes you into a higher tier can effectively charge $0.015–$0.020 per gallon for marginal water. At $0.018/gallon, a 200-square-foot garden's irrigation cost climbs to $40–$90 per season - still not dominant, but no longer negligible.
 
-Private well users are at the other end. If your irrigation doesn't push pumping costs meaningfully higher than baseline, your marginal water cost is near zero. Drip irrigation still makes agronomic sense for well users, but the financial case is purely about yield quality, not water savings.
+Private well users are at the other end. If your irrigation doesn't push pumping costs higher than baseline, your marginal water cost is near zero. Drip irrigation still makes agronomic sense for well users, but the financial case is purely about yield quality, not water savings.
 
 ## Drip vs. Overhead: The Payback Math
 
@@ -98,7 +98,7 @@ You are not buying drip irrigation to cut your water bill. You are buying it bec
 
 Container gardens and raised beds with limited soil volume dry out 2–3 times faster than in-ground plantings under the same conditions. A container tomato in a hot July may need watering daily or even twice daily.
 
-Extrapolating from the per-sq-ft table: a container tomato in a 5-gallon pot needs the equivalent of 1–2 gallons of water per day in peak summer. At 90 days of active production, that is 90–180 gallons per plant. At $0.006/gallon: $0.54–$1.08. At $0.009/gallon: $0.81–$1.62. Still not a significant expense.
+Extrapolating from the per-sq-ft table: a container tomato in a 5-gallon pot needs the equivalent of 1–2 gallons of water per day in peak summer. At 90 days of active production, that is 90–180 gallons per plant. At $0.006/gallon: $0.54–$1.08. At $0.009/gallon: $0.81–$1.62. Still not a notable expense.
 
 What matters for containers is not the water cost but the watering frequency. A container that goes dry for 48 hours in July will set fewer fruits, show blossom end rot symptoms, and recover slowly. Automatic drip on containers is more justified than in-ground because the consequence of missing a watering is more immediate.
 
@@ -112,7 +112,7 @@ Inconsistent watering causes more crop loss than any other variable in home gard
 
 **Cracked tomato skin** happens when dry soil is followed by heavy rain or irrigation. The plant absorbs water faster than the skin can expand. This is a cosmetic problem at best and an entry point for disease at worst. Mulching and consistent irrigation reduce the frequency.
 
-**Lettuce bolts faster under stress.** Heat and drought are both triggers for lettuce bolting - the plant transitions to seed production early and turns bitter. Cool-season crops like lettuce and spinach planted in late spring or early fall can be extended significantly with consistent moisture and light shade. An extra 2–3 weeks of lettuce harvest before bolting is worth $4–$8 per cutting from 6 square feet.
+**Lettuce bolts faster under stress.** Heat and drought are both triggers for lettuce bolting - the plant transitions to seed production early and turns bitter. Cool-season crops like lettuce and spinach planted in late spring or early fall can be extended with consistent moisture and light shade. An extra 2–3 weeks of lettuce harvest before bolting is worth $4–$8 per cutting from 6 square feet.
 
 A $25 drip timer set to water every two days eliminates most of these problems. The cost of one ruined tomato crop - even conservatively - exceeds five years of drip kit payback on water savings alone.
 

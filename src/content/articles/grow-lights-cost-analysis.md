@@ -83,7 +83,7 @@ $84.61 spent to produce $7 in lettuce. This is the case against grow lights for 
 
 ## Where grow lights do make sense beyond seed starting
 
-**Microgreens:** the exception to the year-round math. Microgreens (sunflower, pea shoots, radish, mustard) grow in 7-14 days, require only 2-3 inches of soil depth, and sell for $15-25/lb at farmers markets. Under a single T8 shop light covering one 10x20 tray, you can produce one tray every 2 weeks. At 0.2 lb per tray × $18/lb = $3.60 per tray × 26 trays/year = $93.60. Annual electricity for one light: $24. Annual net: $69.60. This is a different crop than full-size lettuce because the production density and value per ounce is dramatically higher.
+**Microgreens:** the exception to the year-round math. Microgreens (sunflower, pea shoots, radish, mustard) grow in 7-14 days, require only 2-3 inches of soil depth, and sell for $15-25/lb at farmers markets. Under a single T8 shop light covering one 10x20 tray, you can produce one tray every 2 weeks. At 0.2 lb per tray × $18/lb = $3.60 per tray × 26 trays/year = $93.60. Annual electricity for one light: $24. Annual net: $69.60. This is a different crop than full-size lettuce because the production density and value per ounce is much higher.
 
 **High-value herbs in winter:** fresh basil in January costs $4-6 per 0.5 oz package at specialty grocery. If you use it regularly, growing under lights through winter can make economic sense. Basil needs 400+ µmol/m²/s and temperatures above 65°F - this requires more powerful fixtures than basic seed-starting lights, but quality LED bars in the $50-100 range deliver adequate PPFD for herb production.
 
@@ -97,7 +97,7 @@ For practical purposes, what spectrum matters for:
 
 **Blue light (400-500nm):** drives compact, stocky vegetative growth. Seeds started under blue-heavy light develop thick stems and short internodes - exactly what you want for transplants. Insufficient blue light produces leggy, weak seedlings that fall over. This is why seed starting under incandescent bulbs (red-heavy, low blue) produces poor results. Standard T8 LED shop lights have adequate blue output for seedlings.
 
-**Red light (600-700nm):** drives flowering and fruiting. Fruiting crops like tomatoes and peppers need red light to trigger flower initiation. A setup heavy on blue but light on red will produce robust vegetative growth but poor flowering. For seed starting, this is irrelevant - you're not trying to flower the plants. For fruiting crop production under lights, it matters.
+**Red light (600-700nm):** drives flowering and fruiting. Fruiting crops like tomatoes and peppers need red light to trigger flower initiation. A setup heavy on blue but light on red will produce strong vegetative growth but poor flowering. For seed starting, this is irrelevant - you're not trying to flower the plants. For fruiting crop production under lights, it matters.
 
 **Full spectrum (400-700nm):** the best choice for any single-fixture setup that needs to do multiple things. Full-spectrum LEDs at adequate wattage handle seedlings, greens, herbs, and fruiting crops (if mounted close enough).
 
@@ -121,7 +121,7 @@ Adjust height as plants grow. A seedling tray needs lights close during germinat
 
 **For seed starting plus winter herbs:** add one full-spectrum LED bar (40-50W) at 6-8 inch mounting height over a small shelf or window box for herbs. Run herbs at 14-16 hours in winter. Additional annual electricity: $20-25 for 5 months of winter operation.
 
-**For year-round production beyond herbs:** run the actual numbers for your specific crop, electricity rate, and production volume before committing to a substantial setup. Most crops don't pencil out against the electricity cost unless the crop has high value per ounce (microgreens, specialty herbs) or you're supplying a market where retail prices are meaningfully higher than grocery.
+**For year-round production beyond herbs:** run the actual numbers for your specific crop, electricity rate, and production volume before committing to a large setup. Most crops don't pencil out against the electricity cost unless the crop has high value per ounce (microgreens, specialty herbs) or you're supplying a market where retail prices are higher than grocery.
 
 ---
 

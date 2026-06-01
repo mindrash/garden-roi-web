@@ -61,7 +61,7 @@ This is the core reason a soil test pays for itself: it identifies whether you h
 | 5.5-6.0 | Phosphorus availability still reduced; acceptable for acid-tolerant crops like potatoes and blueberries |
 | 6.0-6.8 | Optimal for most vegetables; full nutrient availability |
 | 6.8-7.5 | Acceptable; slight phosphorus reduction at upper end; good for brassicas |
-| Above 7.5 | Iron, manganese, zinc availability drops significantly; blueberries and strawberries will underperform |
+| Above 7.5 | Iron, manganese, zinc availability drops; blueberries and strawberries will underperform |
 
 Source: Penn State Extension, *Soil pH for Vegetable Crops* (2022).
 
@@ -77,7 +77,7 @@ One note on dolomitic versus agricultural (calcitic) lime: dolomitic contains bo
 
 **Lowering pH (alkaline soil):** Elemental sulfur is the standard amendment. The approximate rate to drop pH by 0.5 units is 1 pound per 100 square feet in sandy soil, up to 2 to 3 pounds per 100 square feet in clay soil (Ohio State University Extension, *Adjusting Soil pH*, 2021). Sulfur acts slowly - soil bacteria convert it to sulfuric acid over 3 to 6 months - so fall application before spring planting applies here too.
 
-This is particularly relevant if you're growing blueberries. Blueberries want pH 4.5 to 5.5 (USDA ARS, *Blueberry Production Guidelines*) - significantly more acidic than vegetable crops. Most soils in the eastern US are not naturally in that range. Sulfur application is not optional; it's the difference between a blueberry planting that produces and one that slowly declines. See the [blueberry growing guide](/crops/blueberry/) for specific amendment rates and timeline.
+This is particularly relevant if you're growing blueberries. Blueberries want pH 4.5 to 5.5 (USDA ARS, *Blueberry Production Guidelines*) - much more acidic than vegetable crops. Most soils in the eastern US are not naturally in that range. Sulfur application is not optional; it's the difference between a blueberry planting that produces and one that slowly declines. See the [blueberry growing guide](/crops/blueberry/) for specific amendment rates and timeline.
 
 **What the correction costs versus what the yield loss costs:**
 
@@ -151,7 +151,7 @@ For a new garden bed, test before you plant anything. You may be putting crops i
 
 Most home gardeners with a maintained vegetable bed should retest every 2 to 3 years. pH drifts over time. Rainfall acidifies soil by leaching base cations. Wood ash applications raise pH rapidly. Annual additions of high-phosphorus fertilizers or composts accumulate phosphorus. You can't see these shifts without testing, and by the time symptoms appear in your crops, you've lost a season.
 
-Annual testing is overkill for most home gardeners. Once you've corrected deficiencies and established a stable amendment routine, the soil doesn't change fast enough to warrant yearly testing. The exception: if you're making significant amendments - starting a new bed, adding large quantities of compost or wood chips, or adjusting pH by more than 1 unit - retest the following spring to confirm the correction landed where you intended.
+Annual testing is overkill for most home gardeners. Once you've corrected deficiencies and established a stable amendment routine, the soil doesn't change fast enough to warrant yearly testing. The exception: if you're making major amendments - starting a new bed, adding large quantities of compost or wood chips, or adjusting pH by more than 1 unit - retest the following spring to confirm the correction landed where you intended.
 
 Gardens with a history of phosphorus buildup from years of heavy composting should test more frequently. Phosphorus accumulates, doesn't leach, and at high enough levels begins to interfere with zinc and iron uptake. A test showing very high phosphorus (above 100 ppm on Mehlich-3 extraction) tells you to back off on compost and phosphorus-containing fertilizers for several seasons.
 
@@ -163,7 +163,7 @@ Not every crop responds identically to pH problems. Some are forgiving across a 
 - Blueberries: require pH 4.5 to 5.5; above 6.0 they decline steadily (see [blueberry growing guide](/crops/blueberry/))
 - Potatoes: prefer 5.0 to 6.0; scab (*Streptomyces scabiei*) pressure increases sharply above pH 5.8
 - Garlic: performs best at pH 6.0 to 7.0; at pH 5.5 or below, sulfur compounds critical to flavor and storage quality are reduced (Penn State Extension, *Garlic Production for the Home Garden*, 2021) - see [garlic ROI analysis](/crops/garlic/) for yield context
-- Spinach: intolerant of pH below 6.0; at pH 5.5 develops interveinal chlorosis and significantly reduced yield
+- Spinach: intolerant of pH below 6.0; at pH 5.5 develops interveinal chlorosis and reduced yield
 
 **Most pH-tolerant (wider acceptable range):**
 - Sweet potatoes: pH 5.0 to 6.8

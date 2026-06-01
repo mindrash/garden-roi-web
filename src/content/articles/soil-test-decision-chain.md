@@ -79,7 +79,7 @@ Good. Move to macronutrients.
 
 **If P is below 20 ppm:** Add superphosphate (0-20-0) at 2 to 4 lb per 100 sq ft, incorporated 4 to 6 inches into the bed before planting. Cost: $12 to $18 for a 20 lb bag. Alternatively, bone meal (3-15-0) at 3 to 5 lb per 100 sq ft - slower release, good for perennial beds. Bone meal costs $15 to $20 for a 4 lb bag, making it more expensive per pound of phosphorus but gentler.
 
-**Yield penalty for skipping:** A phosphorus-deficient bed will show delayed maturity of 7 to 14 days, reduced root mass in carrots, beets, and root crops, and reduced tomato fruit set. In practical terms, expect 15 to 25 percent lower yields across fruiting vegetables and root crops. On a $150 harvest value, that's $22 to $37 in lost production - significantly more than the cost of a $12 bag of superphosphate.
+**Yield penalty for skipping:** A phosphorus-deficient bed will show delayed maturity of 7 to 14 days, reduced root mass in carrots, beets, and root crops, and reduced tomato fruit set. In practical terms, expect 15 to 25 percent lower yields across fruiting vegetables and root crops. On a $150 harvest value, that's $22 to $37 in lost production - much more than the cost of a $12 bag of superphosphate.
 
 **If P is above 100 ppm:** Stop adding phosphorus in any form (including compost-heavy applications). High phosphorus builds up over time in heavily fertilized beds and can inhibit zinc and iron uptake at extreme levels. Your fertilizer strategy should shift to nitrogen-only or potassium-only products until phosphorus comes down.
 

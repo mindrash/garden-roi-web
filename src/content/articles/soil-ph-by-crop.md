@@ -19,7 +19,7 @@ What pH controls is nutrient availability - whether the minerals already in your
 
 **Manganese and aluminum** behave differently. At low pH (below 5.5), their solubility increases sharply, and both reach concentrations that are toxic to plant tissue. Manganese toxicity shows up as brown speckling on older leaves. Aluminum toxicity stunts root growth, which in turn limits the plant's ability to take up water and everything else (Penn State Extension, *Soil Acidity and Aglime*, 2019).
 
-**Nitrogen fixation in legumes** adds another layer. The *Rhizobia* bacteria that live in legume root nodules and pull nitrogen from the air have their own pH preferences. Nodule formation and activity drop significantly below pH 6.0. A bean plant at pH 5.5 can still grow - it just can't access the free nitrogen your soil microbes would otherwise be providing (OSU Extension, *Legumes and Nitrogen Fixation*, AGF-016).
+**Nitrogen fixation in legumes** adds another layer. The *Rhizobia* bacteria that live in legume root nodules and pull nitrogen from the air have their own pH preferences. Nodule formation and activity drop below pH 6.0. A bean plant at pH 5.5 can still grow - it just can't access the free nitrogen your soil microbes would otherwise be providing (OSU Extension, *Legumes and Nitrogen Fixation*, AGF-016).
 
 ## pH Ranges by Crop Family
 
@@ -62,7 +62,7 @@ The material you choose depends on what you're correcting, how fast you need it 
 
 Sources: Penn State Extension, *Soil Acidity and Aglime* (2019); OSU Extension, *Changing the pH of Your Soil*, HYG-1133; USDA NRCS, *Soil Quality Indicators: pH* (2001).
 
-The wood ash caveat is worth expanding. Ash is alkaline - pH 9.0 to 11.0 - and acts fast compared to lime. But it also delivers a concentrated potassium load. For most beds, that's fine or beneficial. For tomatoes and potatoes in particular, excess potassium competes with calcium uptake and can contribute to blossom end rot (in tomatoes) or hollow heart (in potatoes). Use wood ash freely on brassicas, root crops, and alliums. Skip it on nightshades unless your soil test confirms potassium is genuinely low.
+The wood ash caveat is worth expanding. Ash is alkaline - pH 9.0 to 11.0 - and acts fast compared to lime. But it also delivers a concentrated potassium load. For most beds, that's fine or beneficial. For tomatoes and potatoes in particular, excess potassium competes with calcium uptake and can contribute to blossom end rot (in tomatoes) or hollow heart (in potatoes). Use wood ash freely on brassicas, root crops, and alliums. Skip it on nightshades unless your soil test confirms potassium is low.
 
 ## Adjusting pH
 
@@ -118,7 +118,7 @@ Here's what a realistic correction looks like in practice, with costs and yield 
 - Tomato yield impact: phosphorus deficiency during fruit set reduces yields by 15-25% in research trials (OSU Extension, HYG-1132). On a 6-plant tomato bed averaging 15 lb per plant at full production: 90 lb × 20% reduction = 18 lb lost yield. At $3.50/lb for a summer paste tomato: $63 in missing produce per season.
 - Cumulative impact: the yield loss runs every season you delay. Two seasons of deferred correction costs roughly $120 to $160 in reduced tomato production alone, against a $24 to $36 lime investment. The math isn't close.
 
-The cost of the test ($15 to $25) plus the lime ($24 to $36) totals $39 to $61. The produce value at stake in a single season on a reasonable-sized garden is substantially more.
+The cost of the test ($15 to $25) plus the lime ($24 to $36) totals $39 to $61. The produce value at stake in a single season on a reasonable-sized garden is much more.
 
 ## Where You're Starting From: Regional Soil Tendencies
 

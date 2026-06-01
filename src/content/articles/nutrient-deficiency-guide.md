@@ -41,7 +41,7 @@ If soil temperature is below 55°F: wait. The discoloration usually disappears w
 
 **Why it happens:** in addition to cold soil, phosphorus is unavailable in very acidic soils (pH below 5.5) and very alkaline soils (pH above 7.5) even when present. Soil pH in the 6.0-7.0 range provides maximum phosphorus availability.
 
-**Quick fix:** bone meal (3-15-0) worked into the soil or liquid phosphoric acid products. Mycorrhizal fungi inoculants (applied at transplanting) significantly improve phosphorus uptake by expanding the effective root surface area.
+**Quick fix:** bone meal (3-15-0) worked into the soil or liquid phosphoric acid products. Mycorrhizal fungi inoculants (applied at transplanting) improve phosphorus uptake by expanding the effective root surface area.
 
 ## 3. Potassium Deficiency
 
@@ -53,7 +53,7 @@ If soil temperature is below 55°F: wait. The discoloration usually disappears w
 
 **Why it happens:** potassium is relatively abundant in most garden soils but can be deficient in sandy soils, highly leached soils, or beds that have been heavily cropped for several years. High levels of calcium or magnesium in soil can antagonize potassium uptake.
 
-**Quick fix:** kelp meal or potassium sulfate (0-0-50) applied to the soil and watered in. Wood ash is a traditional potassium source (approximately 5-8% K) but also raises pH significantly; use it only in acidic soils.
+**Quick fix:** kelp meal or potassium sulfate (0-0-50) applied to the soil and watered in. Wood ash is a traditional potassium source (approximately 5-8% K) but also raises pH quickly; use it only in acidic soils.
 
 ## 4. Calcium Deficiency
 
