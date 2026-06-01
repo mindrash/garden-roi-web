@@ -45,7 +45,7 @@ At $3.00/lb and 3 lb per 10-foot row (a conservative estimate for shell peas; sn
 
 ## Growing requirements
 
-Peas are cold-tolerant and genuinely frost-hardy. You can seed them 4 to 6 weeks before your last frost date, once soil temperature reaches 40°F. Germination is faster at higher soil temps - expect 6 to 10 days at 55°F vs. 3 to 5 days at 65°F - but 40°F is workable (University of Minnesota Extension, *Growing Peas in Minnesota*, 2020). The plants will withstand temperatures down to about 28°F once they've germinated and leafed out.
+Peas are cold-tolerant and frost-hardy. You can seed them 4 to 6 weeks before your last frost date, once soil temperature reaches 40°F. Germination is faster at higher soil temps - expect 6 to 10 days at 55°F vs. 3 to 5 days at 65°F - but 40°F is workable (University of Minnesota Extension, *Growing Peas in Minnesota*, 2020). The plants will withstand temperatures down to about 28°F once they've germinated and leafed out.
 
 Don't delay the planting date trying to warm up the soil. The key limiting factor is heat at the other end - once daytime temperatures push above 85°F, pea quality drops sharply and plants start to fail. If you plant late, you lose those weeks of production at the end of the season. Err early.
 

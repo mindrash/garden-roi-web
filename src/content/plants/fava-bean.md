@@ -34,7 +34,7 @@ A $3.49 seed packet plants a 10-foot row at the standard spacing of one seed eve
 
 Fresh shelled fava beans retail at $4-8 per pound at specialty grocers and farmers markets when they appear at all, which in most US markets is a narrow window in April-May. Call it $6/lb as a mid-point. Four pounds of fresh favas at $6/lb equals $24 of retail value from a $3.49 packet. That's a 6x return on seed cost before accounting for your labor and water - a solid ROI, comparable to snap peas and better than most root vegetables.
 
-The catch is that fresh favas are genuinely perishable and genuinely labor-intensive to prepare. Neither of those things changes the math, but they're part of the honest picture.
+The catch is that fresh favas are perishable and labor-intensive to prepare. Neither of those things changes the math, but they're part of the honest picture.
 
 Dried favas are a different calculation. For dried storage, you need to let the pods go to brown and papery at 95-110 days rather than harvesting green. Dried fava beans retail at $1.50-3.00 per pound. At 4 lbs of dried yield from a 10-foot row (dried beans weigh less than fresh shelled, but you lose no weight to moisture during cooking the same way), that's $6-12 in retail value - still positive, but the fresh math is more compelling if you actually want to eat them as a spring vegetable. Dried favas make sense if you grow a longer row specifically for pantry stock, since they store without a freezer and last 1-2 years in a cool dry location.
 

@@ -22,7 +22,7 @@ The fenugreek seeds in your spice cabinet are the same seeds you plant in the ga
 
 Fenugreek (*Trigonella foenum-graecum*) is a legume in the family Fabaceae, native to the Mediterranean and western Asia. It's been cultivated for at least 4,000 years - seeds have been found in Egyptian archaeological sites. The plant grows 18-24 inches tall with clover-like trifoliate leaves, small white flowers, and elongated seed pods containing 10-20 hard, yellow-brown seeds.
 
-The leaves (called *methi* in South Asian cooking) have a flavor that's bitter, slightly maple-like, and distinctive. The characteristic maple-curry flavor comes from sotolone, a lactone compound that's also responsible for the maple note in aged fenugreek-spiked cheeses and, at low concentrations, in maple syrup itself. That same compound is present in both the fresh leaf and the dried seed, though the proportions differ significantly between them.
+The leaves (called *methi* in South Asian cooking) have a flavor that's bitter, slightly maple-like, and distinctive. The characteristic maple-curry flavor comes from sotolone, a lactone compound that's also responsible for the maple note in aged fenugreek-spiked cheeses and, at low concentrations, in maple syrup itself. That same compound is present in both the fresh leaf and the dried seed, though the proportions differ between them.
 
 Both leaf and seed are distinctly flavored and not interchangeable with each other or with other herbs. If you cook Indian food and have ever struggled to find fresh methi, you already understand the value here.
 
@@ -50,7 +50,7 @@ Fenugreek seeds at Indian and Middle Eastern grocery stores sell for $2-4 per 8 
 
 Buy organic or verify the seeds are whole and untreated before planting. Most culinary fenugreek is sold as-is with no coating or fungicide treatment - just the raw seed. If the bag says "whole fenugreek seeds" and lists fenugreek as the only ingredient, you're good.
 
-This is genuinely one of the few crops where the spice aisle functions as the seed source. The $2.49 seed packet is optional.
+This is one of the few crops where the spice aisle functions as the seed source. The $2.49 seed packet is optional.
 
 ## South Asian culinary context
 
@@ -70,7 +70,7 @@ That price is why the kasoori methi production angle is worth understanding.
 
 The retail price of dried kasuri methi - $48-96/lb - reflects how labor-intensive commercial production is, how small the crop is at industrial scale, and how concentrated demand is in specific communities. For a home grower, that price gap is an opportunity.
 
-Harvest your second and third leaf cuts, strip the leaves from the stems, and spread them in a single layer on a clean surface or screen. Air-dry for 4-5 days in a warm spot with good air circulation. The leaves shrink dramatically - fresh-to-dried ratio is roughly 8:1 by weight. Crumble the dried leaves and store in an airtight glass jar.
+Harvest your second and third leaf cuts, strip the leaves from the stems, and spread them in a single layer on a clean surface or screen. Air-dry for 4-5 days in a warm spot with good air circulation. The leaves shrink sharply - fresh-to-dried ratio is roughly 8:1 by weight. Crumble the dried leaves and store in an airtight glass jar.
 
 The yield math: 0.5 lb of fresh methi leaves produces about 1 oz of dried kasuri methi. At $4/oz retail, that's $4 in value from a single cutting of a modest planting. Over a season of successions, a dedicated 4 sq ft bed of fenugreek can realistically produce 3-4 oz of dried kasuri methi worth $12-16 at grocery store prices.
 

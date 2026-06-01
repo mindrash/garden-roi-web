@@ -18,7 +18,7 @@ hero_image: /images/crops/endive.webp
 
 Endive (*Cichorium endivia*) is a bitter green that most American home gardeners have never grown despite it being a regular item at upscale restaurants and European-style grocery stores. It's related to radicchio and chicory, shares their characteristic bitterness, and like them it's most useful to a cook who knows what to do with that bitterness - which is mostly: balance it with fat, acid, or heat.
 
-The blanching technique - covering the developing head to exclude light for 1-2 weeks before harvest - mellows the bitterness substantially, turns the interior leaves pale yellow, and is what separates grocery store endive from the sharper field-grown version. You can skip blanching and eat it at full bitterness, or blanch it and have something closer to what you'd pay $4-5/lb for at the store.
+The blanching technique - covering the developing head to exclude light for 1-2 weeks before harvest - mellows the bitterness, turns the interior leaves pale yellow, and is what separates grocery store endive from the sharper field-grown version. You can skip blanching and eat it at full bitterness, or blanch it and have something closer to what you'd pay $4-5/lb for at the store.
 
 ## What you're actually growing
 

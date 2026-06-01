@@ -16,7 +16,7 @@ description: "Fennel (Foeniculum vulgare) - bulb, fronds, and seeds yield three 
 hero_image: /images/crops/fennel.webp
 ---
 
-Fennel (*Foeniculum vulgare*) gives you three different harvests from a single planting: the bulb, the feathery fronds, and the seeds. Retail prices for fennel bulbs run $3–$6/lb at grocery stores and significantly more at farmers markets (USDA AMS Market News, 2023). The practical challenge is that fennel produces allelopathic compounds that suppress the growth of most neighboring plants. It needs its own space, physically separated from the main vegetable garden.
+Fennel (*Foeniculum vulgare*) gives you three different harvests from a single planting: the bulb, the feathery fronds, and the seeds. Retail prices for fennel bulbs run $3–$6/lb at grocery stores and more at farmers markets (USDA AMS Market News, 2023). The practical challenge is that fennel produces allelopathic compounds that suppress the growth of most neighboring plants. It needs its own space, physically separated from the main vegetable garden.
 
 ## Florence versus bronze fennel
 
@@ -107,7 +107,7 @@ For seed harvest from bronze fennel or bolted Florence fennel: allow seed heads 
 
 The three harvest components have completely separate kitchen applications.
 
-**Fennel bulb:** the inner layers are tender and sweet with pronounced anise flavor when raw. Slice thin on a mandoline for raw fennel salad with orange, arugula, and shaved Parmesan. For cooked applications, the flavor mellows significantly: braised in olive oil and white wine for 30-40 minutes until very tender (the standard accompaniment to fish in Italian cooking), or halved and roasted at 400°F until caramelized. Cooking converts the sharp anise edge to a gentle sweetness. The flavor of cooked fennel is mild enough that people who claim to dislike fennel often eat it without knowing what they're eating.
+**Fennel bulb:** the inner layers are tender and sweet with pronounced anise flavor when raw. Slice thin on a mandoline for raw fennel salad with orange, arugula, and shaved Parmesan. For cooked applications, the flavor mellows: braised in olive oil and white wine for 30-40 minutes until very tender (the standard accompaniment to fish in Italian cooking), or halved and roasted at 400°F until caramelized. Cooking converts the sharp anise edge to a gentle sweetness. The flavor of cooked fennel is mild enough that people who claim to dislike fennel often eat it without knowing what they're eating.
 
 **Fennel fronds:** use as you would fresh dill - their flavor is similar but lighter and more anise-forward. Scattered over a salmon fillet before roasting, mixed into grain salads, or used in compound butter for fish.
 

@@ -59,7 +59,7 @@ For Zone 8+ growers with no winter dieback, both crops are reliable. Plan for th
 
 A rooted cutting or small container plant runs $14.99-$24.99 at a reputable nursery. Bare-root plants can be cheaper; mail-order cuttings cheaper still. Figure $20 as a reasonable starting cost.
 
-Year 1 is establishment. Don't expect significant fruit. Year 2 you'll get some - maybe 2-4 lb on a young container plant, 3-6 lb in-ground in a warm climate. Year 3 is when production becomes meaningful.
+Year 1 is establishment. Don't expect much fruit. Year 2 you'll get some - maybe 2-4 lb on a young container plant, 3-6 lb in-ground in a warm climate. Year 3 is when production becomes real.
 
 **Warm-climate scenario (Zone 7+, in-ground, established year 3+):**
 - Yield: 10-20 lb per season (USDA Agricultural Research Service data on *Ficus carica* production; UC Davis ANR Publication 7296 reports mature California trees at 20-40 lb, but those are multi-stem training systems in ideal conditions)
@@ -99,7 +99,7 @@ This is the technique that opens fig production to Zone 5-6 growers who want som
 
 ## Growing Requirements
 
-Full sun is non-negotiable. Eight or more hours of direct sun per day produces fruit; less produces a nice ornamental tree with poor yields. In northern zones, a south-facing wall with light-colored masonry behind the tree raises the effective growing temperature by several degrees through reflected heat and radiant thermal mass. This can meaningfully extend what a Zone 6 grower can ripen.
+Full sun is non-negotiable. Eight or more hours of direct sun per day produces fruit; less produces a nice ornamental tree with poor yields. In northern zones, a south-facing wall with light-colored masonry behind the tree raises the effective growing temperature by several degrees through reflected heat and radiant thermal mass. This can extend what a Zone 6 grower can ripen.
 
 Soil pH 6.0-7.0 is the target range, though figs tolerate alkalinity better than most fruit trees and will perform adequately up to pH 8.0. They grow in poor soils but fruit better with reasonable organic matter and good drainage. Avoid high nitrogen - excess nitrogen pushes vegetative growth at the expense of fruit, producing large, lush trees with small, poorly flavored figs. A balanced 10-10-10 fertilizer applied once in spring at a conservative rate is sufficient. Container trees need more frequent feeding (every 3-4 weeks during the growing season) because nutrients leach with irrigation.
 

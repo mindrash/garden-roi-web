@@ -16,7 +16,7 @@ description: "Eggplant (Solanum melongena) - Japanese types yield 5-11 lb per pl
 hero_image: /images/crops/eggplant.webp
 faq:
   - q: "How much does an eggplant yield per plant?"
-    a: "Globe types like Black Beauty yield 4 to 6 fruits (2 to 4 lb) per plant. Japanese and Chinese types yield 8 to 15 fruits (5 to 11 lb) per plant under good conditions. Asian varieties produce substantially more in the same space and are the better choice for ROI."
+    a: "Globe types like Black Beauty yield 4 to 6 fruits (2 to 4 lb) per plant. Japanese and Chinese types yield 8 to 15 fruits (5 to 11 lb) per plant under good conditions. Asian varieties produce more in the same space and are the better choice for ROI."
   - q: "When should I harvest eggplant?"
     a: "Harvest when the skin is glossy and the flesh springs back slightly when pressed. Dull skin indicates overripeness and bitterness. Cut rather than pull to avoid damaging the stem. Plants continue producing until frost if harvested regularly."
   - q: "Does eggplant need a lot of heat?"
@@ -68,7 +68,7 @@ A 4x50 ft roll of black plastic mulch costs $15-25 at farm supply stores. For a 
 - Fall harvest extends 1-2 weeks later (soil stays warmer longer)
 - Total additional productive season: potentially 3-4 weeks
 
-For Japanese eggplant at 10-15 fruits per plant, even a partial additional week of fruit set is meaningful. Conservative estimate: 2 plants × 2 additional fruits from extended season × 0.6 lb × $2.50/lb = $6 in additional value. Against a $3-4 material cost per bed, the plastic pays off in year one. In year two, if the plastic survives intact, it's essentially free additional yield. The same plastic can be used for peppers simultaneously, which spreads the material cost further.
+For Japanese eggplant at 10-15 fruits per plant, even a partial additional week of fruit set matters. Conservative estimate: 2 plants × 2 additional fruits from extended season × 0.6 lb × $2.50/lb = $6 in additional value. Against a $3-4 material cost per bed, the plastic pays off in year one. In year two, if the plastic survives intact, it's essentially free additional yield. The same plastic can be used for peppers simultaneously, which spreads the material cost further.
 
 In Zone 7 and south, black plastic mulch for eggplant is less beneficial - soil warming isn't the limiting factor. In those climates, organic mulch (straw, wood chips) applied after the soil warms serves the more important purpose of conserving moisture during summer heat.
 

@@ -37,7 +37,7 @@ A $2.99 seed packet plants a 10-foot row and returns roughly 1.5-2 lb of shelled
 - Net value above seed cost: $4.51-$7.01
 - Return on seed investment: 2.5x-3.3x
 
-That calculation understates the real case. The return-on-seed math is straightforward, but the reason to grow edamame isn't the math - it's that fresh edamame eaten within two hours of harvest is a genuinely different product than anything you can buy. The sugars haven't converted to starch yet. The flavor is sweet, grassy, and clean in a way that frozen can't replicate. That gap has a real dollar value.
+That calculation understates the real case. The return-on-seed math is straightforward, but the reason to grow edamame isn't the math - it's that fresh edamame eaten within two hours of harvest is a different product than anything you can buy. The sugars haven't converted to starch yet. The flavor is sweet, grassy, and clean in a way that frozen can't replicate. That gap has a real dollar value.
 
 ### What you're actually comparing against
 
@@ -49,13 +49,13 @@ That calculation understates the real case. The return-on-seed math is straightf
 | Farmers market, fresh shelled | Fresh, shelled | $5.00-$7.00/lb | When available |
 | Home-grown, day of harvest | Fresh, shelled | $2.99/row (seed cost) | Flavor window: 2-4 hours |
 
-The frozen Costco bag is a fine product for stir-fries and smoothies. But it left a field in China 6-12 months ago. The fresh farmers market product is genuinely good, and at $5-7/lb for shelled beans it represents what the home-grown alternative replaces in dollar terms.
+The frozen Costco bag is a fine product for stir-fries and smoothies. But it left a field in China 6-12 months ago. The fresh farmers market product is good, and at $5-7/lb for shelled beans it represents what the home-grown alternative replaces in dollar terms.
 
 The freshness argument is not marketing language. Edamame - like sweet corn - converts sugars to starch rapidly after harvest. University of Illinois Extension research on sweet corn documents this conversion beginning within hours of harvest; the same biochemistry applies to edamame. Growing your own and eating it the same day eliminates that conversion entirely.
 
 ## Variety selection
 
-Not all edamame varieties perform equally in all climates. Days-to-maturity ranges matter a lot if you're in a short-season region, and pod size and sweetness vary meaningfully by variety.
+Not all edamame varieties perform equally in all climates. Days-to-maturity ranges matter a lot if you're in a short-season region, and pod size and sweetness vary by variety.
 
 | Variety | Days to Maturity | Pod Size | Notes |
 |---|---|---|---|
@@ -120,9 +120,9 @@ Edamame doesn't need staking, side-dressing with fertilizer mid-season, or pruni
 
 **Bean leaf beetle** (*Cerotoma trifurcata*) chews round holes in leaves and pods. Damage is mostly cosmetic unless pressure is severe. Spinosad or pyrethrin-based sprays handle heavy populations. Row cover over young plants prevents early-season colonization.
 
-**Soybean aphid** (*Aphis glycines*) can build to damaging populations quickly, particularly in the upper Midwest. Natural enemies - lady beetles, lacewing larvae, parasitic wasps - provide meaningful biological control when not disrupted by broad-spectrum insecticides. If aphid pressure is severe, insecticidal soap is effective and gentle on beneficials.
+**Soybean aphid** (*Aphis glycines*) can build to damaging populations quickly, particularly in the upper Midwest. Natural enemies - lady beetles, lacewing larvae, parasitic wasps - provide real biological control when not disrupted by broad-spectrum insecticides. If aphid pressure is severe, insecticidal soap is effective and gentle on beneficials.
 
-**Soybean cyst nematode** (*Heterodera glycines*) is a serious soilborne pest in Midwestern production regions. It causes yellowing, stunted growth, and substantially reduced yield. If you're in the corn-soybean belt and have a history of nematode problems in that bed, check with your state extension office. Resistant varieties exist. Rotation with non-host crops (corn, wheat, brassicas) reduces populations over time.
+**Soybean cyst nematode** (*Heterodera glycines*) is a serious soilborne pest in Midwestern production regions. It causes yellowing, stunted growth, and sharply reduced yield. If you're in the corn-soybean belt and have a history of nematode problems in that bed, check with your state extension office. Resistant varieties exist. Rotation with non-host crops (corn, wheat, brassicas) reduces populations over time.
 
 **Pod shattering** happens when edamame is left past its harvest window. Dry, rattling pods mean the green-bean window closed and you're now growing dried soybeans. That's not a failure - dried soybeans are useful. But if you wanted edamame and missed the window, it's gone for that planting.
 
@@ -138,7 +138,7 @@ Cook immediately or refrigerate for up to three days. For freezing: blanch pods 
 
 ## What you leave behind
 
-After pulling plants, cut the roots and turn the plant matter back into the bed. The nitrogen-fixing nodules on the roots release their stored nitrogen as they decompose. This is not a small benefit - a healthy edamame planting can contribute 40-100 lbs of nitrogen per acre to subsequent crops (USDA SARE, *Managing Cover Crops Profitably*, 3rd ed.). Scaled to a 10-foot row, that's a meaningful addition to soil fertility that carries into next season's planting.
+After pulling plants, cut the roots and turn the plant matter back into the bed. The nitrogen-fixing nodules on the roots release their stored nitrogen as they decompose. This is not a small benefit - a healthy edamame planting can contribute 40-100 lbs of nitrogen per acre to subsequent crops (USDA SARE, *Managing Cover Crops Profitably*, 3rd ed.). Scaled to a 10-foot row, that's a real addition to soil fertility that carries into next season's planting.
 
 Most warm-season vegetables extract. Edamame deposits. That asymmetry is worth accounting for when you're deciding what goes in a particular bed.
 

@@ -20,9 +20,9 @@ Elderberry (*Sambucus nigra*) is a perennial shrub that will produce berries for
 
 ## Food Safety - Read This First
 
-**Raw elderberries contain sambunigrin, a cyanogenic glycoside that causes nausea and vomiting.** The seeds, stems, leaves, and bark contain it in higher concentrations than the ripe berries, but the berries themselves are not safe to eat raw in any meaningful quantity. This is not a footnote. It is the central operating fact of this plant.
+**Raw elderberries contain sambunigrin, a cyanogenic glycoside that causes nausea and vomiting.** The seeds, stems, leaves, and bark contain it in higher concentrations than the ripe berries, but the berries themselves are not safe to eat raw in quantity. This is not a footnote. It is the central operating fact of this plant.
 
-Cooking destroys sambunigrin. Ripe berries that have been simmered, baked, or processed into syrup are safe to eat. Elderflowers - the flat-topped white flower clusters that appear in June - are safe to eat raw and are commonly used in cordials, fritters, and teas. Unripe green berries are significantly more toxic than ripe dark ones and should never be consumed.
+Cooking destroys sambunigrin. Ripe berries that have been simmered, baked, or processed into syrup are safe to eat. Elderflowers - the flat-topped white flower clusters that appear in June - are safe to eat raw and are commonly used in cordials, fritters, and teas. Unripe green berries are more toxic than ripe dark ones and should never be consumed.
 
 Cornell Cooperative Extension documents this clearly: "The ripe black berries are edible when cooked, but the unripe berries, bark, leaves, and roots contain sambunigrin, a cyanogenic glycoside that can cause nausea, vomiting, and diarrhea." (Cornell Cooperative Extension, *Sambucus nigra*.)
 
@@ -50,7 +50,7 @@ The plant produces minimal fruit in year one while it establishes. Year two, you
 
 The $19.99 plant cost pays back somewhere in year two at the low end of the yield range, or by mid-year two at the high end. By the end of year five, the cumulative value from a single shrub is $350-550 from a one-time investment of $19.99. There are no replanting costs. Pruning takes 20-30 minutes per year. Fertilization is a bag of compost spread around the base in spring.
 
-One important caveat: elderberries produce significantly more fruit when two different cultivars are planted together. The shrub is partially self-fertile, but cross-pollination from a second variety drives a measurable yield increase. Plant in pairs. The cost becomes $39.98 for two plants, and the cumulative five-year value from both is $700-1,100.
+One important caveat: elderberries produce more fruit when two different cultivars are planted together. The shrub is partially self-fertile, but cross-pollination from a second variety drives a measurable yield increase. Plant in pairs. The cost becomes $39.98 for two plants, and the cumulative five-year value from both is $700-1,100.
 
 ### Syrup Value
 
@@ -74,7 +74,7 @@ These are not pie-in-the-sky numbers. They are the math behind why elderberry sy
 
 ## Varieties
 
-Not all elderberries perform equally. The named cultivars developed through university programs produce significantly higher and more consistent yields than wild-type plants or unnamed seedlings. Here are the four you will actually see in nursery catalogs.
+Not all elderberries perform equally. The named cultivars developed through university programs produce higher and more consistent yields than wild-type plants or unnamed seedlings. Here are the four you will actually see in nursery catalogs.
 
 | Variety | Origin | Expected Yield | Notes |
 |---------|--------|---------------|-------|
@@ -89,7 +89,7 @@ Bob Gordon is the commercial grower's choice in the Midwest for a reason - the M
 
 ## Growing Requirements
 
-Elderberries are genuinely adaptable. They are native to woodland edges and stream banks across eastern North America, which tells you something about what they can tolerate. Heavy clay, periodic flooding, part shade - they handle conditions that would kill most fruit crops.
+Elderberries are adaptable. They are native to woodland edges and stream banks across eastern North America, which tells you something about what they can tolerate. Heavy clay, periodic flooding, part shade - they handle conditions that would kill most fruit crops.
 
 That said, full sun (6+ hours of direct sun) drives maximum berry production. Four to six hours produces a crop, but you leave yield on the table. If you have a choice of planting location, put them where they get morning and midday sun, which also helps leaves dry quickly after rain and reduces fungal pressure.
 
