@@ -91,7 +91,7 @@ Store dried root in airtight glass jars away from light. Properly dried root kee
 
 ## The name and the smell
 
-"Ashwagandha" comes from Sanskrit: *ashwa* (horse) and *gandha* (smell). The traditional explanation is twofold - the root smells distinctly horse-like, and the plant was believed in Ayurvedic practice to confer the strength of a horse. The first part is accurate. When you slice fresh ashwagandha root, the smell is unmistakable - earthy, musky, with a specific livestock quality that's not unpleasant but is distinctive. The smell mellows significantly during drying. Ground dried root has a faintly bitter, earthy aroma that doesn't suggest anything equine.
+"Ashwagandha" comes from Sanskrit: *ashwa* (horse) and *gandha* (smell). The traditional explanation is twofold - the root smells distinctly horse-like, and the plant was believed in Ayurvedic practice to confer the strength of a horse. The first part is accurate. When you slice fresh ashwagandha root, the smell is unmistakable - earthy, musky, with a specific livestock quality that's not unpleasant but is distinctive. The smell mellows during drying. Ground dried root has a faintly bitter, earthy aroma that doesn't suggest anything equine.
 
 ## Active compounds
 

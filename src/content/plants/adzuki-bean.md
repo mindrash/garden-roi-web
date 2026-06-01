@@ -32,7 +32,7 @@ Unlike edamame or garden beans, adzuki is almost exclusively grown for the dry s
 
 ## Market context
 
-The primary driver of adzuki demand in the US is anko - the sweet red bean paste used in mochi, dorayaki, daifuku, yokan, and a range of Japanese and Korean confectionery. US grocery store shelf presence for adzuki beans expanded significantly alongside the growth of Japanese supermarkets (H Mart, Mitsuwa, Nijiya) and the mainstreaming of Japanese and Korean cuisine in major metros. Outside those retail channels, adzuki are a specialty item.
+The primary driver of adzuki demand in the US is anko - the sweet red bean paste used in mochi, dorayaki, daifuku, yokan, and a range of Japanese and Korean confectionery. US grocery store shelf presence for adzuki beans expanded alongside the growth of Japanese supermarkets (H Mart, Mitsuwa, Nijiya) and the mainstreaming of Japanese and Korean cuisine in major metros. Outside those retail channels, adzuki are a specialty item.
 
 Retail pricing breaks down this way, based on USDA AMS commodity price reports and retail survey:
 
@@ -49,9 +49,9 @@ Growing your own at $5.00 in seed cost, producing 1-1.5 lbs of dry beans per 10-
 
 ## Growing profile
 
-Adzuki is a warm-season annual that needs soil temperatures above 65°F to germinate reliably. In zone 5, that puts direct sow around Memorial Day with harvest coming right at or just after first fall frost - viable but tight, requiring a full-season warm summer. In zones 6-9, the schedule opens up considerably, with first frost dates in October-November giving 140-160 frost-free days.
+Adzuki is a warm-season annual that needs soil temperatures above 65°F to germinate reliably. In zone 5, that puts direct sow around Memorial Day with harvest coming right at or just after first fall frost - viable but tight, requiring a full-season warm summer. In zones 6-9, the schedule opens up, with first frost dates in October-November giving 140-160 frost-free days.
 
-Sow seeds 1 inch deep, 4-6 inches apart, in rows 18-24 inches apart. Germination in 7-10 days at 70°F soil temperature. Direct sow is strongly preferred - disturbing roots during transplanting disrupts nitrogen-fixing nodule formation. There is no meaningful benefit to starting indoors; adzuki germinates and establishes fast in warm soil.
+Sow seeds 1 inch deep, 4-6 inches apart, in rows 18-24 inches apart. Germination in 7-10 days at 70°F soil temperature. Direct sow is strongly preferred - disturbing roots during transplanting disrupts nitrogen-fixing nodule formation. There is no benefit to starting indoors; adzuki germinates and establishes fast in warm soil.
 
 Soil pH of 6.0-7.0. Average soil fertility is sufficient; avoid high-nitrogen amendments, which push vegetative growth at the expense of pod set and suppress nitrogen fixation. If you haven't grown legumes in that bed before, inoculate seeds with cowpea/mung bean inoculant (*Bradyrhizobium* spp. appropriate for *Vigna*) - the species group is distinct from soybean (*Bradyrhizobium japonicum*) and from garden bean (*Rhizobium leguminosarum* bv. *phaseoli*). Mismatched inoculant doesn't harm the plant; it just doesn't improve nitrogen fixation.
 

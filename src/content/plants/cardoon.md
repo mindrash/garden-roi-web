@@ -40,7 +40,7 @@ About 3-4 weeks before your intended harvest date - which should be at or just b
 
 Wrap the bundled plant with burlap, heavy brown paper, or corrugated cardboard. The goal is to exclude light from the stalks and midribs. A few layers of material are sufficient - you don't need a completely lightproof wrap, just enough to reduce light to near-zero. Secure the wrap with twine. Leave the top of the plant somewhat open for air circulation; completely sealing the plant in plastic promotes botrytis.
 
-Leave the wrap in place for 3-4 weeks. In that time, the inner stalks will pale from green to cream-yellow and the bitterness will diminish substantially.
+Leave the wrap in place for 3-4 weeks. In that time, the inner stalks will pale from green to cream-yellow and the bitterness will diminish.
 
 Harvest by cutting the entire plant at the base. Peel away the outer wrapper, discard the tough outer stalks, and work toward the inner stalks - these are the product. Trim away the thorny leaf edges with kitchen shears before cooking.
 
@@ -84,9 +84,9 @@ Space plants 3-4 feet apart. This is not a suggestion - cardoon gets large and n
 
 Cardoon is a heavy feeder. Work 4-6 inches of compost into the planting bed before transplanting and side-dress with a balanced fertilizer (10-10-10) monthly through midsummer. The plant is building a large vegetative structure over 120-150 days; it needs consistent nitrogen throughout.
 
-Water 1-1.5 inches per week. Inconsistent moisture doesn't affect the stalks as dramatically as it does some other crops, but drought stress during the main growth period produces a tougher stalk.
+Water 1-1.5 inches per week. Inconsistent moisture doesn't affect the stalks as much as some other crops, but drought stress during the main growth period produces a tougher stalk.
 
-**Zone differences:** In Zones 8-10, cardoon is perennial. Leave the crown in place after harvest, cut back the old foliage, and mulch lightly. The plant will push new growth in spring and establish itself as a substantial permanent feature. Second and third year plants are significantly more productive than first-year plants. In Zones 5-7, treat as an annual - the long season limits your planning window, which is why the 8-week indoor start is non-negotiable in northern climates. Zone 7 growers may see root survival through mild winters with heavy mulching over the crown.
+**Zone differences:** In Zones 8-10, cardoon is perennial. Leave the crown in place after harvest, cut back the old foliage, and mulch lightly. The plant will push new growth in spring and establish itself as a substantial permanent feature. Second and third year plants are more productive than first-year plants. In Zones 5-7, treat as an annual - the long season limits your planning window, which is why the 8-week indoor start is non-negotiable in northern climates. Zone 7 growers may see root survival through mild winters with heavy mulching over the crown.
 
 ## Variety
 

@@ -45,7 +45,7 @@ At the low end of specialty retail - $8/lb - that's $24 in gross value from a $2
 
 Sources: USDA AMS Specialty Crop Market News (2023); Cornell Cooperative Extension *Specialty Vegetable Crops* (2022).
 
-This table doesn't include soil amendments, transplant containers, or labor - inputs you'd carry for any tomato-family crop in the same space. The seed cost is the meaningful delta over what you'd otherwise spend.
+This table doesn't include soil amendments, transplant containers, or labor - inputs you'd carry for any tomato-family crop in the same space. The seed cost is the real difference from what you'd otherwise spend.
 
 ## Zone and season requirements
 
@@ -55,7 +55,7 @@ The fix is an 8-10 week indoor start. Sow seeds indoors in late February or earl
 
 Do not direct-sow cape gooseberry outdoors. Germination requires soil temperatures of 65-70°F and takes 3-4 weeks even under good conditions. Sowing in place after last frost leaves too little season remaining.
 
-Zone 4 is the effective northern limit for annual production. Growing days between last and first frost average around 120 in Zone 4, which is right at the minimum. A greenhouse or hoop tunnel extends that meaningfully if you're pushing the edge.
+Zone 4 is the effective northern limit for annual production. Growing days between last and first frost average around 120 in Zone 4, which is right at the minimum. A greenhouse or hoop tunnel extends that if you're pushing the edge.
 
 ## Growing: start to harvest
 
@@ -83,7 +83,7 @@ The harvest cue: husk turns fully tan and papery and pulls cleanly from the stem
 
 **Aphids** colonize cape gooseberry the same way they colonize tomato - clustering on new growth, particularly on tender shoot tips. Knock them off with a sharp water spray. Insecticidal soap handles heavier infestations. Inspect the undersides of leaves on new growth; that's where colonies establish.
 
-**Whitefly** (*Bemisia tabaci* and *Trialeurodes vaporariorum*) becomes a significant problem in humid conditions and can build to damaging populations quickly. Yellow sticky traps provide monitoring and some control. Neem oil or insecticidal soap applied in the evening (to avoid leaf burn) knocks populations down when they're caught early. In the southeastern US, whitefly pressure on cape gooseberry can be severe enough to make the crop genuinely difficult without regular intervention.
+**Whitefly** (*Bemisia tabaci* and *Trialeurodes vaporariorum*) becomes a significant problem in humid conditions and can build to damaging populations quickly. Yellow sticky traps provide monitoring and some control. Neem oil or insecticidal soap applied in the evening (to avoid leaf burn) knocks populations down when they're caught early. In the southeastern US, whitefly pressure on cape gooseberry can be severe enough to make the crop difficult without regular intervention.
 
 **Short seasons** are the most common production failure in Zones 5-6. If the indoor start didn't begin until April, transplants go out in late May or early June and first harvest arrives in August - which leaves only 6-8 weeks before frost. Two to three pounds of fruit is achievable in that window but not reliable. Start indoors no later than early March in Zone 6.
 

@@ -20,7 +20,7 @@ description: "Catnip dries to $10-20/lb and repels aphids and flea beetles as a 
 
 Most of what garden centers sell as "catmint" is not catnip. This distinction matters more than you'd expect.
 
-The plant you want - the one that significantly affects cats, has documented insect-repellent properties, and a history of medicinal use - is *Nepeta cataria*. The plants commonly sold as ornamental perennials in the catmint category are *N. mussinii* or its hybrid *N. faassenii*. Those are good border plants. They have smaller, paler blue-purple flowers, silver-grey foliage, and a tidy mounding habit. They also contain far less nepetalactone than *N. cataria*, which is the volatile compound responsible for the cat response and most of the plant's functional value. If you buy catmint at a nursery, expect a nice perennial. If you want catnip - the real thing - buy seed labeled *Nepeta cataria* and grow it yourself.
+The plant you want - the one that affects cats, has documented insect-repellent properties, and a history of medicinal use - is *Nepeta cataria*. The plants commonly sold as ornamental perennials in the catmint category are *N. mussinii* or its hybrid *N. faassenii*. Those are good border plants. They have smaller, paler blue-purple flowers, silver-grey foliage, and a tidy mounding habit. They also contain far less nepetalactone than *N. cataria*, which is the volatile compound responsible for the cat response and most of the plant's functional value. If you buy catmint at a nursery, expect a nice perennial. If you want catnip - the real thing - buy seed labeled *Nepeta cataria* and grow it yourself.
 
 ## The Chemistry: What Nepetalactone Does
 
@@ -34,13 +34,13 @@ That second finding is worth sitting with for a moment. The cat response to catn
 
 ## Human Use
 
-Humans can use catnip too, though the mu-opioid explanation doesn't translate across species. The relevant compounds for human use are nepetalactone and related iridoids that have mild sedative effects via ingestion. The traditional application is a calming herbal tea for anxiety and insomnia. Hatch (1972, *Economic Botany*) documented both the chemistry and human pharmacology of *N. cataria* in detail. The practical preparation: 1 to 2 teaspoons of dried aerial parts (leaves and stems) steeped in 8 oz of hot water for 10 minutes. Strain and drink before bed. The effect is milder than chamomile and is often combined with it. This isn't a knock-you-out sedative - it's a traditional relaxant that many people find genuinely useful.
+Humans can use catnip too, though the mu-opioid explanation doesn't translate across species. The relevant compounds for human use are nepetalactone and related iridoids that have mild sedative effects via ingestion. The traditional application is a calming herbal tea for anxiety and insomnia. Hatch (1972, *Economic Botany*) documented both the chemistry and human pharmacology of *N. cataria* in detail. The practical preparation: 1 to 2 teaspoons of dried aerial parts (leaves and stems) steeped in 8 oz of hot water for 10 minutes. Strain and drink before bed. The effect is milder than chamomile and is often combined with it. This isn't a knock-you-out sedative - it's a traditional relaxant that many people find useful.
 
 The dried herb for human tea use sells for $12 to $20 per pound at herb suppliers. The same catnip you grow for your cat functions equally well as tea herb. One planting serves both purposes.
 
 ## The ROI Case
 
-Dried catnip at pet stores runs $10 to $20 per lb for plain bulk herb, and considerably more in branded toy and pouch form. Specialty herb suppliers price it at $12 to $20 per lb. Using $15 per lb as a midpoint:
+Dried catnip at pet stores runs $10 to $20 per lb for plain bulk herb, and more in branded toy and pouch form. Specialty herb suppliers price it at $12 to $20 per lb. Using $15 per lb as a midpoint:
 
 | Scenario | Yield (dried) | Gross Value | Seed Cost | Net |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ The limitation on yield is real. Catnip produces 0.3 to 0.75 lb of dried aerial 
 
 Nepetalactone's insect-repellent properties extend beyond mosquitoes. Cornell Cooperative Extension and EPA documentation both reference nepetalactone as an effective natural deterrent for several pest species. Aphids, flea beetles, and squash bugs show documented avoidance of plants with high nepetalactone concentrations in the vicinity. The effect comes from the volatile compound diffusing from intact plant tissue - it's strongest from a living, actively growing plant, not from dried herb.
 
-This is why catnip planted near squash and cucumbers provides some functional protection against squash bugs and aphids. The volatile release from the catnip acts as a deterrent before the insects establish on the nearby crop. The effect is not a guarantee and doesn't replace monitoring - squash bugs especially can build to damaging populations quickly once they arrive. But the evidence for nepetalactone as a legitimate insect deterrent is substantially better than most companion planting claims, which tend to rest on anecdote rather than mechanism.
+This is why catnip planted near squash and cucumbers provides some functional protection against squash bugs and aphids. The volatile release from the catnip acts as a deterrent before the insects establish on the nearby crop. The effect is not a guarantee and doesn't replace monitoring - squash bugs especially can build to damaging populations quickly once they arrive. But the evidence for nepetalactone as a legitimate insect deterrent is better supported than most companion planting claims, which tend to rest on anecdote rather than mechanism.
 
 One practical note: the insect-deterrent effect requires the plant to be alive and releasing volatiles. Placing dried catnip near your squash does nothing. The growing plant is the functional element.
 
@@ -72,7 +72,7 @@ One practical note: the insect-deterrent effect requires the plant to be alive a
 
 **Soil and site.** Catnip is not particular. It performs well in average to poor soil with good drainage. Sandy loam is ideal; heavy clay that holds moisture encourages root rot. Full sun produces the most volatile compounds and the best yield. The plant tolerates partial shade, especially afternoon shade in hot climates, but you'll get somewhat lower nepetalactone content compared to full-sun plants. Once established, catnip is drought tolerant. It will wilt visibly under extreme drought but recovers quickly from watering. Overwatering or poorly drained sites are bigger problems than underwatering once plants are past the seedling stage.
 
-**Water needs by stage.** Keep seedlings consistently moist until they're 6 inches tall. After that, water when the top 2 inches of soil are dry. In the second year and beyond, established plants need water only during extended dry periods - 10 or more days without meaningful rain.
+**Water needs by stage.** Keep seedlings consistently moist until they're 6 inches tall. After that, water when the top 2 inches of soil are dry. In the second year and beyond, established plants need water only during extended dry periods - 10 or more days without rain.
 
 ## Harvest
 
@@ -96,7 +96,7 @@ Cut plants back by one-third to one-half. Don't strip them to the ground - you w
 
 ## Self-Seeding and Spread
 
-*N. cataria* self-seeds aggressively. In zones 5 through 7 this usually isn't a problem - seedlings show up near the parent plant and are easy to manage. In zones 8 and 9, the plant can naturalize substantially. If spread is a concern, deadhead spent flower heads before seeds fully mature. The plant sets seed prolifically, so consistent deadheading takes some attention. Alternatively, cut the entire plant back after each bloom cycle before flowers set seed. You'll get more vegetative growth and no seedling spread.
+*N. cataria* self-seeds aggressively. In zones 5 through 7 this usually isn't a problem - seedlings show up near the parent plant and are easy to manage. In zones 8 and 9, the plant can naturalize freely. If spread is a concern, deadhead spent flower heads before seeds fully mature. The plant sets seed prolifically, so consistent deadheading takes some attention. Alternatively, cut the entire plant back after each bloom cycle before flowers set seed. You'll get more vegetative growth and no seedling spread.
 
 If you want more plants - and after the first season you likely will - let a few seed heads go. The seeds are viable and germination rates are decent. Seedlings that come up in fall can be transplanted in spring, or left where they are if the location works.
 

@@ -39,7 +39,7 @@ Both types grow and taste essentially the same; the purple variety is more ornam
 
 ## The ROI case
 
-Celtuce produces two crops simultaneously: stem weight plus usable leaf weight. At 2 lb per plant for the stem harvest, a modest planting delivers meaningful produce per square foot.
+Celtuce produces two crops simultaneously: stem weight plus usable leaf weight. At 2 lb per plant for the stem harvest, a modest planting delivers real produce per square foot.
 
 | Planting | Plants | Stem yield | Leaf yield | Combined value @$4/lb | Seed cost | Net |
 |---|---|---|---|---|---|---|
@@ -76,7 +76,7 @@ The math looks good, but celtuce's real value is culinary access. There is no su
 
 ## Harvest and use
 
-Cut the plant at the base. Remove all leaves (save the young inner leaves for salad). Peel the stem with a vegetable peeler, removing the thin outer skin - you can feel when you've hit the tender interior because the resistance changes. The pale, translucent green interior is what you want. Don't peel too conservatively; the outer layer is genuinely fibrous and slightly bitter, and leaving it produces a less pleasant result.
+Cut the plant at the base. Remove all leaves (save the young inner leaves for salad). Peel the stem with a vegetable peeler, removing the thin outer skin - you can feel when you've hit the tender interior because the resistance changes. The pale, translucent green interior is what you want. Don't peel too conservatively; the outer layer is fibrous and slightly bitter, and leaving it produces a less pleasant result.
 
 **Storage:** unpeeled stems keep 1-2 weeks refrigerated. Peeled stems stored upright in a container of cold water, refrigerated, keep for up to 10 days - the water prevents browning and keeps the texture crisp, the same approach used for storing asparagus or peeled celery. Change the water every 2-3 days. Cut into the sizes you need just before cooking, as exposed cut surfaces brown faster than the whole peeled stem.
 

@@ -49,7 +49,7 @@ The financial case is modest compared to high-yield vegetables, but the access c
 
 **Climate:** *Murraya koenigii* is tropical and frost-sensitive. Outdoor in-ground culture works in zones 9-11. In zones 7-8, container culture with winter indoor storage is the standard approach. In zones 5-6, the container overwinters in a warm, sunny indoor location.
 
-**Container culture:** use a well-draining potting mix; add extra perlite for drainage. A 5-10 gallon pot accommodates a productive plant. Repot annually as the plant grows. Move outdoors when nighttime temperatures reliably stay above 50°F; bring back indoors before first frost. Keep near a south-facing window indoors; supplemental grow lights improve winter growth significantly.
+**Container culture:** use a well-draining potting mix; add extra perlite for drainage. A 5-10 gallon pot accommodates a productive plant. Repot annually as the plant grows. Move outdoors when nighttime temperatures reliably stay above 50°F; bring back indoors before first frost. Keep near a south-facing window indoors; supplemental grow lights improve winter growth.
 
 **Propagation:** there are three approaches, and they're not equally reliable.
 
@@ -59,7 +59,7 @@ Stem cuttings: take 6-inch semi-hardwood cuttings from new growth in late summer
 
 Root suckers: by far the easiest method. Established curry leaf plants produce suckers - new shoots arising from the roots around the base of the plant. These are already rooted, genetically identical to the parent plant, and need only to be dug carefully with their attached roots and potted. If you know someone with an established plant, ask for a sucker. One established plant produces several per year, and dividing them is a 10-minute task. An Indian grocery store with live potted curry leaf trees is the fastest path to an established plant.
 
-**Water:** consistent moisture during the growing season. Does not tolerate prolonged drought; leaves drop quickly under water stress. In winter (indoor storage), reduce watering significantly - allow soil to partially dry between waterings.
+**Water:** consistent moisture during the growing season. Does not tolerate prolonged drought; leaves drop quickly under water stress. In winter (indoor storage), reduce watering - allow soil to partially dry between waterings.
 
 **Fertilizing:** curry leaf trees are moderate nitrogen feeders when actively growing. Liquid fertilizer (fish emulsion, liquid kelp, or a balanced liquid fertilizer with nitrogen) every 2-3 weeks during the growing season produces noticeably more leaf growth than monthly feeding. Slow-release granular fertilizers are less effective here because the plant responds better to regular, smaller doses of available nitrogen than infrequent larger ones. Iron deficiency (yellowing between leaf veins on new growth, with veins remaining green) can occur in alkaline soils or with alkaline tap water; treat with chelated iron applied as a foliar spray or soil drench.
 

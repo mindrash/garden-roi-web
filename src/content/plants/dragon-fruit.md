@@ -67,11 +67,11 @@ The plant cost recovers itself inside the first productive harvest if you're gro
 
 ## Zone Strategy
 
-**Zones 9-11** (South Florida, coastal California, Hawaii, South Texas): In-ground, perennial, minimal management. Plant in well-draining soil, install the support structure, water occasionally, and harvest. This is the zone where dragon fruit production is genuinely low-effort.
+**Zones 9-11** (South Florida, coastal California, Hawaii, South Texas): In-ground, perennial, minimal management. Plant in well-draining soil, install the support structure, water occasionally, and harvest. This is the zone where dragon fruit production is low-effort.
 
 **Zones 7-8** (Southeast, Pacific Northwest coast, mid-Atlantic): In-ground production is possible with frost protection. The plant can tolerate brief dips to 28°F, but extended freezes kill stems and damage the root crown. Growers in this range report reduced production and need to cover plants or use frost cloth on cold nights. Production is real but not as reliable as Zone 9+. Research your microclimate before committing to in-ground planting.
 
-**Zones 4-6** (most of the continental US): Container growing required. Dragon fruit in a container can produce real fruit - but the logistics change substantially. The plant still needs full sun, still needs a support structure, and still needs the same well-draining soil. The new constraint is mobility: everything has to move inside below 32°F. See the container section below.
+**Zones 4-6** (most of the continental US): Container growing required. Dragon fruit in a container can produce real fruit - but the logistics change. The plant still needs full sun, still needs a support structure, and still needs the same well-draining soil. The new constraint is mobility: everything has to move inside below 32°F. See the container section below.
 
 ## Support Structure
 
@@ -81,7 +81,7 @@ The standard approach in commercial and serious home production: a 4x4 or 6-inch
 
 The plant can exceed 20 feet of vine length and produce for 20-30 years. Install the post before you plant. Retrofitting a support around an established plant is difficult and risks damaging the root zone.
 
-For container growers: the post has to be anchored into the container, not into the ground. Use a container large enough that the post can be set in concrete within the container itself, or use a tripod-style trellis designed for containers. The whole assembly has to be stable enough not to tip over in wind - a mature plant with a canopy of vines creates meaningful wind resistance.
+For container growers: the post has to be anchored into the container, not into the ground. Use a container large enough that the post can be set in concrete within the container itself, or use a tripod-style trellis designed for containers. The whole assembly has to be stable enough not to tip over in wind - a mature plant with a canopy of vines creates real wind resistance.
 
 ## Pollination
 
@@ -103,7 +103,7 @@ Dragon fruit is a cactus from the wet tropics - which sounds contradictory until
 
 **Light:** Six or more hours of direct sun daily is the floor. Eight or more hours produces the best yields. In marginal light conditions, the plant will grow but flower infrequently and set little fruit. This is not a shade-tolerant species.
 
-**Temperature:** Active growth occurs between 65-95°F. Optimal fruiting temperature is 65-80°F. The plant slows significantly below 50°F and can sustain tissue damage at 32°F and below, particularly at the growing tips. Established plants with good root systems can survive brief cold snaps but should not be left unprotected in sustained freezing weather.
+**Temperature:** Active growth occurs between 65-95°F. Optimal fruiting temperature is 65-80°F. The plant slows below 50°F and can sustain tissue damage at 32°F and below, particularly at the growing tips. Established plants with good root systems can survive brief cold snaps but should not be left unprotected in sustained freezing weather.
 
 **Fertilization:** Feed with a balanced fertilizer (10-10-10 or similar) three to four times during the growing season. During flowering and fruit development, shift to a lower-nitrogen, higher-phosphorus and potassium formula to support fruiting rather than vegetative growth. Container plants need more frequent feeding as nutrients leach with irrigation.
 
@@ -123,7 +123,7 @@ Dragon fruit does not continue to ripen after picking - what you harvest is what
 
 Signs of readiness: the skin has fully developed its varietal color (bright pink-red for most varieties, deep yellow for *S. megalanthus*), the wings are starting to wilt and lose their green color at the tips, and the fruit yields slightly to firm pressure without feeling mushy. At this stage, the fruit pulls free from the stem with a quarter-turn twist - no cutting tool needed.
 
-Refrigerate immediately after harvest. Dragon fruit holds well for up to a week under refrigeration. It tastes significantly better cold - serve it straight from the refrigerator, halved and scooped out of the skin with a spoon.
+Refrigerate immediately after harvest. Dragon fruit holds well for up to a week under refrigeration. It tastes better cold - serve it straight from the refrigerator, halved and scooped out of the skin with a spoon.
 
 For longer storage: halve, remove the flesh from the skin, cut into cubes, and freeze on a sheet pan before transferring to bags. The texture becomes softer after thawing, which rules out fresh eating, but frozen dragon fruit works well in smoothies. Red-flesh varieties hold their color through freezing better than white-flesh types.
 
@@ -137,7 +137,7 @@ Container production is viable but requires honest preparation. Half-measures do
 
 **Root binding:** The plant tolerates being root-bound better than most fruiting plants, but production suffers when the root zone is completely saturated with roots and irrigation efficiency drops. Every 2-3 years, remove the plant from the container in late winter, prune the outer root mass by a few inches on all sides, and repot into fresh mix. This resets the root zone and maintains productivity.
 
-**The mobility constraint:** Everything described above - the 25+ gallon container, the support post anchored in concrete, the established vine canopy - has to move indoors when temperatures drop to 32°F. In Zone 6, that's potentially six months indoors. The overwintering location needs to be frost-free; temperatures between 40-55°F are fine. The plant will slow dramatically and may drop some stem segments, but it will resume growth when returned to warmth and full sun. Indoor light during overwintering is supplemental at best - the plant survives, it doesn't thrive. Accept that your northern container dragon fruit will produce less than a Zone 9 in-ground plant. It's the access and the variety selection that make it worth doing.
+**The mobility constraint:** Everything described above - the 25+ gallon container, the support post anchored in concrete, the established vine canopy - has to move indoors when temperatures drop to 32°F. In Zone 6, that's potentially six months indoors. The overwintering location needs to be frost-free; temperatures between 40-55°F are fine. The plant will slow and may drop some stem segments, but it will resume growth when returned to warmth and full sun. Indoor light during overwintering is supplemental at best - the plant survives, it doesn't thrive. Accept that your northern container dragon fruit will produce less than a Zone 9 in-ground plant. It's the access and the variety selection that make it worth doing.
 
 ---
 

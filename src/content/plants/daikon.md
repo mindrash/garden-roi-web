@@ -98,7 +98,7 @@ The greens and roots, when tilled under, add organic matter and break up the soi
 
 **Hollow roots:** internal browning or hollowness from irregular watering or boron deficiency. Consistent irrigation prevents most hollow root issues. Boron deficiency is rare but correctable: borax at very low rates (1 teaspoon per 100 square feet) dissolved in water and applied to soil.
 
-**Flea beetles** on seedlings: small shothole damage on leaves. Row cover prevents. Rarely impacts root development significantly.
+**Flea beetles** on seedlings: small shothole damage on leaves. Row cover prevents. Rarely impacts root development.
 
 ## Preservation
 

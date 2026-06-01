@@ -94,7 +94,7 @@ Cut rather than twist to avoid damaging vines. The cut surface weeps a small amo
 
 - **Stir-fried bitter melon with egg** (*ku gua chao dan*): the most accessible introduction. Thin slices stir-fried with beaten egg and soy sauce; the egg softens the bitterness.
 - **Stuffed karela**: Indian type, hollowed and stuffed with spiced potato or minced meat, pan-fried or baked.
-- **Bitter melon soup**: Chinese preparation with pork ribs and black bean sauce; the long braise mellows the bitterness significantly.
+- **Bitter melon soup**: Chinese preparation with pork ribs and black bean sauce; the long braise mellows the bitterness.
 - **Bitter melon pickle**: slice, salt, press, pack in rice vinegar with garlic and chili. Keeps for weeks in the refrigerator.
 - **Bitter melon chips**: slice very thin, fry at 325°F until crisp. The bitterness concentrates and becomes more interesting; served as a snack throughout Southeast Asia.
 
@@ -106,7 +106,7 @@ Leave selected fruits on the vine until they yellow and begin to split open. The
 
 To clean: scoop seeds and red aril into a colander, rinse vigorously under running water while rubbing the aril off. Spread seeds on a paper plate or ceramic plate (not paper towel - seeds will stick) and dry at room temperature for 2-3 weeks. Seeds are fully dry when they snap cleanly rather than bending. Store in a paper envelope or glass jar in a cool, dry location. Viable for 3-5 years under good storage conditions.
 
-One consideration with saving seed from hybrid varieties (marked as F1): the offspring will not breed true and may differ significantly from the parent plant. Open-pollinated varieties like 'Bitter Gourd Long' or traditional Indian karela types breed true from saved seed. Check the seed packet - if it says F1, buy fresh seed each season or switch to an OP variety.
+One consideration with saving seed from hybrid varieties (marked as F1): the offspring will not breed true and may differ from the parent plant. Open-pollinated varieties like 'Bitter Gourd Long' or traditional Indian karela types breed true from saved seed. Check the seed packet - if it says F1, buy fresh seed each season or switch to an OP variety.
 
 ## Market Value and Price Context
 

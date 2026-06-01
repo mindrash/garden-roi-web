@@ -26,7 +26,7 @@ The boysenberry (*Rubus ursinus* x *idaeus*) is a complex hybrid developed in th
 
 The precise parentage is still debated in horticultural literature. The USDA Agricultural Research Service describes the boysenberry as a complex hybrid involving *Rubus ursinus* (Pacific blackberry/dewberry), *Rubus idaeus* (red raspberry), and loganberry parentage, though some sources suggest additional European blackberry (*R. fruticosus*) genetics. What's not debated is the result: an unusually large berry, typically 1 to 1.5 inches long, with a deep purple-maroon color, a flavor that sits somewhere between blackberry and raspberry, and an acidity that makes it excellent in cooked applications.
 
-The fruit is significantly larger than blackberry or raspberry. It also produces a hollow core like raspberry when picked - the receptacle stays on the plant, and you're left with a tender, juice-loaded berry with no structural center to protect it from pressure. That's why it bruises so quickly. That's why you can't buy it at Kroger.
+The fruit is larger than blackberry or raspberry. It also produces a hollow core like raspberry when picked - the receptacle stays on the plant, and you're left with a tender, juice-loaded berry with no structural center to protect it from pressure. That's why it bruises so quickly. That's why you can't buy it at Kroger.
 
 ## Why you can't buy it fresh
 
@@ -42,7 +42,7 @@ Growing your own is not an alternative to buying fresh boysenberries. It's the o
 
 A bare-root boysenberry cane runs $12-$16 from nurseries like Stark Bros or Raintree Nursery. The startup cost is higher than blackberry or raspberry because the crop is less mainstream and nursery volume is lower. You're paying a scarcity premium at planting, but that same scarcity is what makes the fruit worth $7/lb.
 
-Boysenberries are a multi-year crop. Year one is establishment. You won't get meaningful fruit until year two, and full production doesn't arrive until year three. This is the same timeline as blackberry and raspberry - the root system needs to establish before the plant can support a serious fruit load.
+Boysenberries are a multi-year crop. Year one is establishment. You won't get real fruit until year two, and full production doesn't arrive until year three. This is the same timeline as blackberry and raspberry - the root system needs to establish before the plant can support a serious fruit load.
 
 | Year | Yield per plant | Value at $7/lb | Cumulative value (1 plant) | Notes |
 |------|-----------------|----------------|---------------------------|-------|
@@ -78,7 +78,7 @@ Boysenberries are adapted to USDA Hardiness Zones 5-9. They are less cold-hardy 
 
 In Zones 7-9, cold hardiness is not a concern. The limiting factor shifts to heat and water availability in summer.
 
-**Soil:** pH 5.5-6.5, well-drained, loose to 12 inches depth. Boysenberry is more sensitive to waterlogged soil than blackberry. If drainage is marginal, build a raised row or bed - even 6-8 inches of elevation helps significantly. Phytophthora root rot is a real threat in saturated conditions. Incorporate 2-3 inches of compost before planting.
+**Soil:** pH 5.5-6.5, well-drained, loose to 12 inches depth. Boysenberry is more sensitive to waterlogged soil than blackberry. If drainage is marginal, build a raised row or bed - even 6-8 inches of elevation helps. Phytophthora root rot is a real threat in saturated conditions. Incorporate 2-3 inches of compost before planting.
 
 **Sun:** Full sun, 6+ hours daily minimum. Eight or more hours drives maximum production. Boysenberries planted in partial shade produce longer, weaker canes, lower fruit set, and more disease pressure. Don't compromise on light.
 
@@ -86,7 +86,7 @@ In Zones 7-9, cold hardiness is not a concern. The limiting factor shifts to hea
 
 **Planting time:** Spring, once soil is workable and daytime temperatures are consistently above 45°F. Plant bare-root canes when dormant. Set the crown at soil level, spread the roots, firm the soil, water thoroughly. Apply 3-4 inches of mulch around (but not against) the crown.
 
-**Water:** 1-1.5 inches per week through the growing season, consistent rather than sporadic. Drip irrigation is strongly preferred - it delivers water at the root zone without wetting foliage, which reduces fungal disease pressure meaningfully. During fruit development, consistent soil moisture prevents cracking and improves berry size and sweetness.
+**Water:** 1-1.5 inches per week through the growing season, consistent rather than sporadic. Drip irrigation is strongly preferred - it delivers water at the root zone without wetting foliage, which reduces fungal disease pressure. During fruit development, consistent soil moisture prevents cracking and improves berry size and sweetness.
 
 **Fertilizer:** Apply balanced fertilizer (10-10-10 or similar) at bud break in spring. A second light nitrogen application after harvest supports primocane development. Avoid heavy nitrogen applications in late summer - you don't want to push tender new growth into fall that won't harden before frost.
 
@@ -120,7 +120,7 @@ A ripe boysenberry releases from the receptacle with almost no force - a gentle 
 
 Use shallow containers for harvesting. A single layer of berries in a half-pint basket is about the limit before the bottom layer starts taking damage from the weight above. This matters for quality: damaged berries at the bottom of a deep container develop mold faster and drag down the quality of everything they contact.
 
-**Fresh storage:** Refrigerate immediately. Spread berries in a single layer on paper-towel-lined trays if possible - the towels absorb condensation that accelerates mold. Eat within 1-2 days. There is no technique that extends boysenberry fresh shelf life significantly beyond this. The biology of the fruit is working against you.
+**Fresh storage:** Refrigerate immediately. Spread berries in a single layer on paper-towel-lined trays if possible - the towels absorb condensation that accelerates mold. Eat within 1-2 days. There is no technique that extends boysenberry fresh shelf life beyond this. The biology of the fruit is working against you.
 
 **Freezing:** Spread berries in a single layer on parchment-lined sheet pans and freeze until firm, typically 2-4 hours. Transfer to freezer bags and remove as much air as possible. Frozen boysenberries hold quality for 10-12 months and are excellent for jam, syrup, pie filling, and sauces. The freezing process softens the cell structure somewhat, so thawed berries won't hold their shape, but the flavor holds exceptionally well and the color is better than most frozen bramble fruit.
 

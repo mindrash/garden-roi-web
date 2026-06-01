@@ -20,7 +20,7 @@ description: "Agretti / monk's beard (Salsola soda) - Italian spring vegetable; 
 
 Agretti is a vegetable that turns up at Italian restaurants with enough frequency to have a reputation, and in grocery stores almost never. The plant looks like a clump of chives crossed with a succulent - thin, cylindrical, bright green leaves growing in tufts from branching stems. The flavor is mineral, slightly salty, and green in a way that's adjacent to spinach but not identical: the texture is crisp and slightly succulent, the taste carries a salinity that comes from the plant's halophyte (salt-tolerant) biology rather than added salt.
 
-In Italy it's a spring seasonal vegetable eaten raw in salads or briefly blanched and dressed with olive oil. At American specialty grocers and Italian markets, when it appears at all, it runs $8-15/lb. Its near-total absence from supermarkets is entirely a supply chain problem, not a demand problem - it's genuinely difficult to source, ships poorly, and has a short season. Sourcing the seed is also more complicated than most vegetables, for reasons that matter.
+In Italy it's a spring seasonal vegetable eaten raw in salads or briefly blanched and dressed with olive oil. At American specialty grocers and Italian markets, when it appears at all, it runs $8-15/lb. Its near-total absence from supermarkets is entirely a supply chain problem, not a demand problem - it's difficult to source, ships poorly, and has a short season. Sourcing the seed is also more complicated than most vegetables, for reasons that matter.
 
 ## What It Actually Is
 
@@ -43,7 +43,7 @@ The plant grows 12-18 inches tall as a loose, branching clump of cylindrical lea
 
 **Agretti seed loses viability rapidly - within 6-12 months of harvest.** This is the most important thing to know before attempting this crop.
 
-Always use fresh seed from the current season or the prior year. Seed more than one year old has dramatically reduced germination - often 10-20% instead of 70-80% with fresh seed. This single factor explains the majority of agretti planting failures in US home gardens.
+Always use fresh seed from the current season or the prior year. Seed more than one year old has sharply reduced germination - often 10-20% instead of 70-80% with fresh seed. This single factor explains the majority of agretti planting failures in US home gardens.
 
 **What to do:**
 - Purchase from a reputable supplier who specifies the seed harvest year and turns over inventory annually
@@ -78,7 +78,7 @@ The financial case isn't spectacular on a per-pound basis. The real value is acc
 
 **Zones 8-9:** three-season potential. In mild winters (zone 9), sow in fall and harvest through winter and early spring; sow again in late winter for a spring crop. The summer gap (May through August) is unavoidable in zone 8-9 as heat above 75°F triggers bolting. Zone 9 coastal microclimates (Pacific Coast) extend the spring harvest into early June.
 
-**Zone 10+:** not suitable. The plant cannot complete its growth cycle without cool temperatures. A brief cool-season window in coastal zone 10 areas may allow a short crop, but productivity is significantly reduced.
+**Zone 10+:** not suitable. The plant cannot complete its growth cycle without cool temperatures. A brief cool-season window in coastal zone 10 areas may allow a short crop, but productivity is reduced.
 
 ## Growing Requirements
 

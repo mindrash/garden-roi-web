@@ -31,7 +31,7 @@ Two growth forms exist in cultivation:
 - **Small-leaf type** (*hoso-ba*): narrow, deeply divided leaves; strongly aromatic and pungent; the type most associated with Japanese cooking and nabe.
 - **Large-leaf type** (*ohaba*): broader, less divided leaves; milder flavor; preferred in Chinese stir-fry and soup applications.
 
-Both grow identically in the garden. Flavor intensity and leaf form are the only meaningful differences.
+Both grow identically in the garden. Flavor intensity and leaf form are the only real differences.
 
 ## Variety comparison
 
@@ -106,9 +106,9 @@ Once a plant sends up a flower stalk, the leaves on that stalk become bitter and
 
 **Bolting before adequate size:** the most common failure in spring plantings. Sow 4-6 weeks before last frost, earlier than feels right, and plan to harvest young. Better to cut slightly small plants than to lose the whole planting to a warm week.
 
-**Flavor surprise:** gardeners expecting something like spinach or lettuce will encounter a strongly herbal, almost medicinal flavor in raw mature leaves. This is not a defect; it's the point of the plant. The flavor moderates significantly with cooking. Young leaves under 3 inches are mild enough for salads when mixed with milder greens - use them as an accent, not as the base.
+**Flavor surprise:** gardeners expecting something like spinach or lettuce will encounter a strongly herbal, almost medicinal flavor in raw mature leaves. This is not a defect; it's the point of the plant. The flavor moderates with cooking. Young leaves under 3 inches are mild enough for salads when mixed with milder greens - use them as an accent, not as the base.
 
-**Poor germination in warm soil:** see the germination temperature note above. If you're getting spotty stands in a fall planting, check soil temp. Above 70°F, germination rate drops significantly. Cool the bed or wait for a cooler window.
+**Poor germination in warm soil:** see the germination temperature note above. If you're getting spotty stands in a fall planting, check soil temp. Above 70°F, germination rate drops. Cool the bed or wait for a cooler window.
 
 **Damping off:** in cool, wet conditions, seedlings can rot at the soil line. Improve drainage, thin promptly to improve air circulation. Don't overwater young seedlings in cold weather.
 

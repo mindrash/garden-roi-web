@@ -20,7 +20,7 @@ description: "Chervil (Anthriscus cerefolium) - delicate cool-season herb, one o
 
 Chervil is French parsley's more interesting cousin, used in French classical cuisine for 400 years and still largely absent from American grocery stores. When you find it fresh, it costs $8-12/lb at specialty grocers, usually wilted and well past its best. The plant grows in 30-45 days, tolerates shade, and performs best in conditions that challenge other crops - cool, partly shaded spots under taller plants or against north-facing walls. It occupies space that would otherwise be wasted.
 
-The flavor is difficult to describe without reference to other herbs. It's parsley-like but lighter, with a distinct anise undertone somewhere between tarragon and fennel frond. It's a genuinely different flavor profile from parsley, and it degrades rapidly in cooking - chervil should be added after the heat is off, or used raw. Heating it destroys what makes it worth using.
+The flavor is difficult to describe without reference to other herbs. It's parsley-like but lighter, with a distinct anise undertone somewhere between tarragon and fennel frond. It's a different flavor profile from parsley, and it degrades rapidly in cooking - chervil should be added after the heat is off, or used raw. Heating it destroys what makes it worth using.
 
 ## What it actually is
 

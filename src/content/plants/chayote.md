@@ -59,7 +59,7 @@ Chayote's economics depend heavily on whether you're in a zone where it's perenn
 |---|---|---|---|---|
 | 1 vine | 20-40 | $30-60 | $2.00 | $28-58 |
 
-The annual production is still positive but significantly lower than the perennial case. In zone 8, a perennial root system that survives mild winters gives a meaningful production boost in year 2+.
+The annual production is still positive but lower than the perennial case. In zone 8, a perennial root system that survives mild winters gives a real production boost in year 2+.
 
 **The seed cost advantage:** the "seed" is a grocery store chayote, available for $1-2. You don't need a special seed packet. Next year's seed comes from this year's harvest.
 
@@ -81,7 +81,7 @@ The annual production is still positive but significantly lower than the perenni
 
 **Vine growth without fruit:** happens when the plant has insufficient warmth during flowering, or when male and female flowers aren't open simultaneously (unusual but occurs). Also happens with excess nitrogen fertilization, which drives vegetative growth at the expense of fruiting.
 
-**Powdery mildew:** universal in cucurbits by late summer. Keep plants well-watered; improve airflow. Doesn't significantly reduce production on established plants if it arrives in August when fruits are already developing.
+**Powdery mildew:** universal in cucurbits by late summer. Keep plants well-watered; improve airflow. Doesn't reduce production much on established plants if it arrives in August when fruits are already developing.
 
 **Angular leaf spot** (*Pseudomonas* spp.): water-soaked angular spots on leaves. Avoid overhead irrigation; the bacterial disease spreads in water splash.
 

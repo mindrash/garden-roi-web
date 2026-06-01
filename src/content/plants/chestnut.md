@@ -28,7 +28,7 @@ The American Chestnut Foundation (acf.org) has been breeding backcross hybrids s
 
 Chestnuts at grocery stores in fall run $3-6/lb fresh. Farmers market pricing in the northeast and Pacific northwest reaches $5-8/lb for local, freshly harvested nuts. The $4/lb figure used here is conservative; USDA AMS retail data for shell-on chestnuts in October-November 2023 showed an average of $3.80-5.20/lb at conventional grocery. If you're near a farmers market with any foot traffic, $5-6/lb is realistic for clean, fresh-fallen nuts.
 
-The honest picture on chestnut ROI is that this is a 20-year investment, not a 3-year one. Trees don't produce commercially meaningful crops until year 5-7. A mature tree in years 13 and beyond yields 50-100+ lbs per year from a single tree. Two trees - the minimum for cross-pollination - at $29.99 each is a $59.98 initial investment. By year 20, those two trees should be producing $400-800+ in retail-equivalent value annually from a planting cost of under $60.
+The honest picture on chestnut ROI is that this is a 20-year investment, not a 3-year one. Trees don't produce commercially viable crops until year 5-7. A mature tree in years 13 and beyond yields 50-100+ lbs per year from a single tree. Two trees - the minimum for cross-pollination - at $29.99 each is a $59.98 initial investment. By year 20, those two trees should be producing $400-800+ in retail-equivalent value annually from a planting cost of under $60.
 
 | Period | Yield per 2-tree planting | Value @ $4/lb | Notes |
 |---|---|---|---|
@@ -75,7 +75,7 @@ For pure Chinese chestnut selections like 'Peach', the advantage is cold hardine
 
 ## Planting requirements
 
-Chestnuts are acidic-soil specialists. Target pH 5.0-6.5. They will not thrive in alkaline or calcareous soils - even neutral pH (7.0) causes enough iron chlorosis to reduce production significantly. If your native soil is alkaline, chestnuts are probably not the right tree for your site. Do a soil test before planting, not after. Texas A&M AgriLife Extension notes that pH adjustment with sulfur takes 12-18 months to take full effect on established plantings; applying it before planting gives the trees a better start.
+Chestnuts are acidic-soil specialists. Target pH 5.0-6.5. They will not thrive in alkaline or calcareous soils - even neutral pH (7.0) causes enough iron chlorosis to reduce production. If your native soil is alkaline, chestnuts are probably not the right tree for your site. Do a soil test before planting, not after. Texas A&M AgriLife Extension notes that pH adjustment with sulfur takes 12-18 months to take full effect on established plantings; applying it before planting gives the trees a better start.
 
 Drainage is non-negotiable. Chestnuts will not tolerate waterlogged soil or even prolonged soil saturation. They are susceptible to *Phytophthora* root and crown rot in poorly drained sites. Choose a gentle slope or elevated site. If your best site has any drainage concern, plant on a raised berm - pull soil up 8-10 inches in a 3-foot diameter circle around each planting site. This costs nothing extra and may be the difference between a tree that thrives and one that dies in year two.
 
@@ -113,7 +113,7 @@ The practical implication: don't harvest 50 lbs of chestnuts and leave them in a
 
 The starch-vs-oil distinction is worth dwelling on because it determines how chestnuts cook and what they're used for. Every other commonly grown tree nut - almond, walnut, pecan, hazelnut, pistachio - is primarily fat and protein. Chestnuts are roughly 80% carbohydrate with 2-3% fat. They behave like a starchy vegetable or grain in cooking.
 
-**Roasted chestnuts:** score an X through the flat side of each nut with a sharp knife before roasting. This prevents the nut from exploding as steam builds inside and makes peeling the shell and inner skin after roasting significantly easier. Roast in a 400-425°F oven for 20-25 minutes, or in a dry cast iron pan over medium-high heat shaking constantly, until the scored cuts peel back and the flesh is tender. Peel while hot - the shell and papery inner skin remove easily when warm and become difficult when cool.
+**Roasted chestnuts:** score an X through the flat side of each nut with a sharp knife before roasting. This prevents the nut from exploding as steam builds inside and makes peeling the shell and inner skin after roasting easier. Roast in a 400-425°F oven for 20-25 minutes, or in a dry cast iron pan over medium-high heat shaking constantly, until the scored cuts peel back and the flesh is tender. Peel while hot - the shell and papery inner skin remove easily when warm and become difficult when cool.
 
 **Chestnut flour:** dried chestnuts ground to flour. Lower gluten potential than wheat; used for pasta (Italian *pappardelle di castagne*), pancakes, polenta, and as a wheat substitute in quick breads. Chestnut flour is a significant commercial product in Corsica, southern France, and northern Italy, where chestnut forests historically provided a grain-equivalent food source for upland communities.
 

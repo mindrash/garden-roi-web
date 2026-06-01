@@ -26,9 +26,9 @@ At Latin American and Caribbean markets it runs $4-8/lb for fresh bunches. Outsi
 
 *Eryngium foetidum* is in the carrot family (Apiaceae), native to tropical Central America and the Caribbean. Despite common names like "false cilantro," "long coriander," and "Mexican coriander," it is a distinct genus with no particularly close botanical relationship to cilantro beyond family membership and flavor similarity. Cilantro is in the genus *Coriandrum*; culantro is in *Eryngium* (the same genus as sea holly), and the two plants share a culinary niche, not a lineage.
 
-The plant grows as a flat basal rosette of long, serrated leaves - 4-10 inches long, dark green, with spiny teeth along the edges that distinguish it visually from every other common culinary herb. It looks nothing like cilantro. After several months of growth, it sends up a central branching flower stalk; at this point leaf production slows significantly.
+The plant grows as a flat basal rosette of long, serrated leaves - 4-10 inches long, dark green, with spiny teeth along the edges that distinguish it visually from every other common culinary herb. It looks nothing like cilantro. After several months of growth, it sends up a central branching flower stalk; at this point leaf production slows.
 
-The flavor compounds overlap substantially with cilantro's (including (*E*)-2-alkenals and related aldehydes) but at significantly higher concentration. This explains why culantro is used in smaller quantities - a few leaves deliver the flavor that would require a large bunch of regular cilantro.
+The flavor compounds overlap with cilantro's (including (*E*)-2-alkenals and related aldehydes) but at higher concentration. This explains why culantro is used in smaller quantities - a few leaves deliver the flavor that would require a large bunch of regular cilantro.
 
 **Regional names:** recao (Puerto Rico), culantro (most of Latin America), ngò gai (Vietnam), pak chi farang (Thailand), shadow beni and chadon beni (Trinidad, eastern Caribbean), ngò om and rau mùi tàu (Southeast Asia). The name varies by region but the plant is the same.
 
@@ -49,7 +49,7 @@ Because it's 5-10x more potent than cilantro per leaf, a small planting covers a
 
 ## Zone Fit
 
-**Zones 9-11:** culantro becomes a short-lived perennial. Established plants survive mild frosts but will be damaged by temperatures below 32°F. In truly frost-free conditions, plants produce year-round and self-seed readily. This is the zone where it's genuinely low-maintenance once established - plant once, maintain indefinitely.
+**Zones 9-11:** culantro becomes a short-lived perennial. Established plants survive mild frosts but will be damaged by temperatures below 32°F. In truly frost-free conditions, plants produce year-round and self-seed readily. This is the zone where it's low-maintenance once established - plant once, maintain indefinitely.
 
 **Zones 7-8:** grown as a warm-season annual. Direct sow after last frost; harvest through summer and fall until first frost kills the plant. In mild Zone 8 winters, plants sometimes survive with protection (mulch, row cover over a cloche).
 
@@ -63,7 +63,7 @@ Because it's 5-10x more potent than cilantro per leaf, a small planting covers a
 
 This shade tolerance creates a useful companion planting opportunity: culantro thrives under the canopy of taller crops - corn, tomatoes, tall peppers, trellised beans. The taller crop provides afternoon shade; the culantro fills space that would otherwise be bare ground. Plant culantro 12 inches from the base of taller plants.
 
-**Germination:** seeds germinate slowly - 10-21 days at 65-75°F. Fresh seed is significantly more viable than stored seed; culantro loses germination viability faster than most herbs. Purchase seed from the current year's crop when possible. Pre-soaking seed for 12-24 hours before planting improves germination rate and timing.
+**Germination:** seeds germinate slowly - 10-21 days at 65-75°F. Fresh seed is more viable than stored seed; culantro loses germination viability faster than most herbs. Purchase seed from the current year's crop when possible. Pre-soaking seed for 12-24 hours before planting improves germination rate and timing.
 
 Surface sow or barely cover - 1/8 inch maximum. Press lightly. The seeds need warmth and moisture; germination fails in cold soil (below 65°F) or dry conditions.
 
@@ -91,13 +91,13 @@ Surface sow or barely cover - 1/8 inch maximum. Press lightly. The seeds need wa
 
 **Fresh:** culantro wilts within 24-48 hours after harvest. Wrap in a damp paper towel and refrigerate; use within 3-4 days. Do not wash until you're ready to use.
 
-**Freezing:** freezing preserves culantro flavor substantially better than drying. Blanch leaves very briefly (10-15 seconds in boiling water), transfer to ice water, pat dry, and freeze flat on a baking sheet before bagging. Alternatively, blend fresh leaves with a small amount of water or oil, freeze in ice cube trays, and store the cubes in a bag. Add frozen cubes directly to cooking without thawing. This is the method recommended for sofrito preparation - freeze finished sofrito in ice cube trays for year-round use.
+**Freezing:** freezing preserves culantro flavor better than drying. Blanch leaves very briefly (10-15 seconds in boiling water), transfer to ice water, pat dry, and freeze flat on a baking sheet before bagging. Alternatively, blend fresh leaves with a small amount of water or oil, freeze in ice cube trays, and store the cubes in a bag. Add frozen cubes directly to cooking without thawing. This is the method recommended for sofrito preparation - freeze finished sofrito in ice cube trays for year-round use.
 
 **Drying:** drying causes significant loss of volatile compounds in culantro. The dried herb is pale and weak compared to fresh; the characteristic pungency that makes culantro useful is largely gone. If you must dry it for long-term storage, dry quickly at low temperature (95°F in a dehydrator) and store in an airtight container. Accept that the result will be usable but not equivalent to fresh.
 
 ## Kitchen Applications
 
-The intensity adjustment is the key skill with culantro. One or two leaves in a soup or stew that calls for a quarter cup of cilantro is the right ratio - not tablespoon for tablespoon. Cooking significantly mellows the intensity; fresh raw culantro is more assertive than cooked culantro in a long-simmered sofrito.
+The intensity adjustment is the key skill with culantro. One or two leaves in a soup or stew that calls for a quarter cup of cilantro is the right ratio - not tablespoon for tablespoon. Cooking mellows the intensity; fresh raw culantro is more assertive than cooked culantro in a long-simmered sofrito.
 
 **Puerto Rican sofrito (recao):** the defining application. Recao, ají dulce peppers, onion, garlic, and often cilantro, blended into a coarse paste. Used as the aromatic base for arroz con pollo, beans, stews, and most rice dishes. Without culantro, the sofrito tastes different; cilantro is a tolerable substitute but misses the depth the recao provides. Make a large batch; freeze in ice cube trays. Each cube is one portion.
 

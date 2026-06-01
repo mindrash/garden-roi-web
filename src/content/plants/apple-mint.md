@@ -67,7 +67,7 @@ Dried apple mint for specialty tea commands a premium over the fresh price when 
 
 At $3/oz and 12 oz harvested from one container: $36 in market value from a $3 initial investment. In year two and beyond, the investment is zero.
 
-The container limitation is real: apple mint in the ground at garden scale would yield significantly more, but the stolon-spreading behavior makes in-ground production practical only for growers who want to dedicate a section of their property to a mint bed and manage the borders aggressively.
+The container limitation is real: apple mint in the ground at garden scale would yield more, but the stolon-spreading behavior makes in-ground production practical only for growers who want to dedicate a section of their property to a mint bed and manage the borders aggressively.
 
 ## Growing requirements
 
