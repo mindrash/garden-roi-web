@@ -36,7 +36,7 @@ The honest limitation: unlike tomatoes or peppers, which give you a range of mar
 
 ## Varieties
 
-Not all romanesco is the same. Performance varies meaningfully by variety, particularly for spring planting and in warmer zones. Source: Johnny's Selected Seeds and High Mowing Organic Seeds variety trial data.
+Not all romanesco is the same. Performance varies by variety, particularly for spring planting and in warmer zones. Source: Johnny's Selected Seeds and High Mowing Organic Seeds variety trial data.
 
 | Variety | Days to Maturity | Head Size | Color | Performance Notes |
 |---------|-----------------|-----------|-------|-------------------|

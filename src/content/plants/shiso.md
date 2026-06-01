@@ -34,7 +34,7 @@ Four selections cover most of what you'll encounter in seed catalogs and at mark
 
 **Red shiso** (*aka-jiso*) carries deep purple-red leaves and a more intense flavor. It's primarily a pickling herb. The anthocyanin pigments - cyanidin 3-glucoside and peonidin 3-glucoside - are unstable at neutral pH but turn vivid crimson when acidified (Yoshida et al., *Bioscience, Biotechnology, and Biochemistry*, 1996). This reaction is exactly what colors umeboshi pink and beni shoga red. Red shiso is rarely sold fresh outside Japanese neighborhoods. Growing your own is the only practical way to make traditional umeboshi at home.
 
-**Korean perilla** (*kkaennip*) deserves separate attention because it's often mislabeled and genuinely different from Japanese shiso despite being the same species. The leaves are noticeably larger - 4-5 inches compared to Japanese green shiso's 3-4 inches. The flavor leans more herbaceous and less anise-forward. In Korean cooking, it's used as ssam - a wrap for grilled meat - and in kimchi, and eaten as a vegetable alongside rice in its own right. It's not interchangeable with Japanese shiso in most applications; the flavor profile and texture are distinct enough that Korean cooks consider it a separate ingredient. Seed sources that reliably carry Korean perilla include Kitazawa Seed Co. and Evergreen Seeds, both of which specialize in Asian vegetable varieties.
+**Korean perilla** (*kkaennip*) deserves separate attention because it's often mislabeled and different from Japanese shiso despite being the same species. The leaves are noticeably larger - 4-5 inches compared to Japanese green shiso's 3-4 inches. The flavor leans more herbaceous and less anise-forward. In Korean cooking, it's used as ssam - a wrap for grilled meat - and in kimchi, and eaten as a vegetable alongside rice in its own right. It's not interchangeable with Japanese shiso in most applications; the flavor profile and texture are distinct enough that Korean cooks consider it a separate ingredient. Seed sources that reliably carry Korean perilla include Kitazawa Seed Co. and Evergreen Seeds, both of which specialize in Asian vegetable varieties.
 
 ## The ROI case
 
@@ -52,7 +52,7 @@ Red shiso adds a separate value layer that doesn't fit neatly into a per-pound c
 
 ## Seed germination: the stratification step most people skip
 
-Shiso seed has a dormancy mechanism that dramatically affects germination rates. Without treatment, you'll see 30-40% germination. With proper treatment, 70-85% is achievable (Johnny's Selected Seeds germination trial data).
+Shiso seed has a dormancy mechanism that sharply affects germination rates. Without treatment, you'll see 30-40% germination. With proper treatment, 70-85% is achievable (Johnny's Selected Seeds germination trial data).
 
 You have two options for breaking dormancy:
 
@@ -74,7 +74,7 @@ Water consistently but don't saturate. One inch per week is adequate. Shiso is r
 
 ## Bolting management
 
-Bolting is the primary management challenge for shiso, and understanding what drives it changes how you manage it. Shiso is a short-day plant: it flowers when night length exceeds approximately 13-14 hours, which in most of North America occurs in late summer and fall. In zone 6, that threshold typically hits in late August. The flowering trigger is daylength, not temperature. Pinching delays it - sometimes significantly - but nothing stops it once the photoperiod flips.
+Bolting is the primary management challenge for shiso, and understanding what drives it changes how you manage it. Shiso is a short-day plant: it flowers when night length exceeds approximately 13-14 hours, which in most of North America occurs in late summer and fall. In zone 6, that threshold typically hits in late August. The flowering trigger is daylength, not temperature. Pinching delays it - sometimes by weeks - but nothing stops it once the photoperiod flips.
 
 The practical implication: a single sowing in spring gives you 6-8 weeks of peak leaf quality before the plant begins redirecting energy toward flowering. Leaf size decreases, stems get woodier, and flavor shifts.
 

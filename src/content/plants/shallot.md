@@ -20,7 +20,7 @@ faq:
   - q: "How do I cure shallots?"
     a: "After pulling, dry shallots in a warm, well-ventilated spot with low humidity for 3 to 4 weeks until tops and outer skins are completely papery-dry. Braiding or laying flat on a screen works well. Properly cured shallots keep 6 to 8 months at room temperature in a cool, dark location."
   - q: "What makes shallots different from small onions?"
-    a: "Shallots have more complex flavor - milder and sweeter than standard onions with a hint of garlic. They multiply from a single bulb rather than forming one large bulb, and at $4 to $7/lb retail they are substantially more valuable per pound than storage onions at $1 to $1.50/lb."
+    a: "Shallots have more complex flavor - milder and sweeter than standard onions with a hint of garlic. They multiply from a single bulb rather than forming one large bulb, and at $4 to $7/lb retail they are more valuable per pound than storage onions at $1 to $1.50/lb."
 ---
 
 Each shallot bulb you plant produces a cluster of 6-8 new bulbs at harvest. Plant one, pull seven to ten. That multiplication rate is the central ROI argument for shallot (*Allium cepa* var. *aggregatum*): your seed cost in year one is $3.99, and if you save the largest bulbs from the harvest, your seed cost in year two is zero. Retail price runs $4-7/lb (USDA AMS Specialty Crop Market News, 2023) for a crop that is, by weight, mostly what you put in the ground a few months ago.
@@ -57,7 +57,7 @@ Cumulative 3-year value: $71-113.50 from a $3.99 initial investment. By year two
 
 ## Shallot vs onion: the same bed, different return
 
-For a 4x8 bed (32 sq ft) dedicated to alliums, shallots significantly outperform storage onions per pound of retail value. At 6-inch spacing, that bed holds 128 sets/plants of either crop.
+For a 4x8 bed (32 sq ft) dedicated to alliums, shallots outperform storage onions per pound of retail value. At 6-inch spacing, that bed holds 128 sets/plants of either crop.
 
 | Crop | Plants per 4x8 bed | Yield per plant | Total yield | Retail price | Bed value |
 |---|---|---|---|---|---|

@@ -20,7 +20,7 @@ Radicchio (*Cichorium intybus var. foliosum*) is the deep red Italian bitter gre
 
 ## What you're actually growing
 
-*C. intybus var. foliosum* encompasses several regional Italian types, and they're meaningfully different:
+*C. intybus var. foliosum* encompasses several regional Italian types, and they're different:
 
 **Chioggia type** ('Palla Rossa,' 'Rossa di Verona') forms compact, round heads with deep red leaves and white ribs. This is what most North American seed catalogs sell when they list "radicchio." It's the most forgiving type for home gardens.
 
@@ -47,7 +47,7 @@ The timing column determines which variety suits your fall. If your first hard f
 
 Radicchio retails at $4.00-$6.00/lb at specialty grocers and farmers markets (USDA AMS Specialty Crop Market News, 2023). A $2.99 packet plants a generous row. Heads average 0.5-1 lb at harvest. A 10-foot row with 10-12 plants yields 5-12 lbs.
 
-Fresh radicchio is rarely found in conventional grocery stores and is often sold at premium prices where it does appear. For cooks who use it regularly, growing it is genuinely economical compared to specialty grocery pricing. For cooks who have never tried it, don't commit a bed to it before you've eaten it at least twice.
+Fresh radicchio is rarely found in conventional grocery stores and is often sold at premium prices where it does appear. For cooks who use it regularly, growing it is economical compared to specialty grocery pricing. For cooks who have never tried it, don't commit a bed to it before you've eaten it at least twice.
 
 ### ROI vs. Other Chicory Family Crops
 

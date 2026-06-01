@@ -24,7 +24,7 @@ Rhubarb is a perennial vegetable classified and sold as a fruit. Only the stalks
 
 The stalk color - red, pink, or green - varies by cultivar and has no bearing on ripeness or flavor. 'Victoria' is a green-stalked cultivar that predates most red types and is highly productive. 'Canada Red,' 'Crimson Red,' and 'Valentine' are red-stalked cultivars marketed for appearance. Red-stalked types are popular for fresh sale but taste essentially the same as green (University of Minnesota Extension, *Rhubarb in the Garden*, 2021).
 
-Rhubarb requires a dormancy period with temperatures below 40°F to break dormancy properly and produce vigorously. This makes it genuinely suited to Zones 3–7 but problematic in Zones 8 and warmer, where insufficient winter chill leads to poor spring regrowth. It is not a warm-climate crop.
+Rhubarb requires a dormancy period with temperatures below 40°F to break dormancy properly and produce vigorously. This makes it suited to Zones 3–7 but problematic in Zones 8 and warmer, where insufficient winter chill leads to poor spring regrowth. It is not a warm-climate crop.
 
 ## The ROI case
 
@@ -131,7 +131,7 @@ Zone 9 and warmer: rhubarb is not a viable long-term perennial. Plants may survi
 
 ## A note on the leaves
 
-Rhubarb leaves contain oxalic acid at concentrations high enough to cause poisoning. USDA FoodData Central data shows rhubarb leaves contain substantially higher oxalic acid than the stalks; ingestion of large quantities has caused toxicity cases in humans and fatalities in livestock. This is not a fringe concern or a precautionary overstatement - it is an established toxicological fact.
+Rhubarb leaves contain oxalic acid at concentrations high enough to cause poisoning. USDA FoodData Central data shows rhubarb leaves contain higher oxalic acid than the stalks; ingestion of large quantities has caused toxicity cases in humans and fatalities in livestock. This is not a fringe concern or a precautionary overstatement - it is an established toxicological fact.
 
 Only the stalks are edible. Cut leaves off immediately after harvest and compost or discard them. Do not leave cut leaves on the ground in areas accessible to children, poultry, or other livestock.
 

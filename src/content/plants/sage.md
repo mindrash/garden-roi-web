@@ -22,7 +22,7 @@ Sage (*Salvia officinalis*) takes a full season to establish and then lasts 5-7 
 
 *Salvia officinalis* is a Mediterranean shrub in the mint family (Lamiaceae) with gray-green, textured leaves and lavender-blue flowers. The primary flavor compounds are thujone (alpha and beta), cineole, and camphor - the combination that gives sage its distinctive warm, slightly medicinal flavor. Alpha-thujone is the compound responsible for sage's mildly bitter edge when consumed in large quantities; culinary use levels are well within safe thresholds (European Medicines Agency, *Salvia officinalis Assessment Report*, 2016).
 
-Common sage is what most gardeners grow, but the Salvia genus contains over 900 species and dozens of named cultivars in the *officinalis* group with meaningful differences.
+Common sage is what most gardeners grow, but the Salvia genus contains over 900 species and dozens of named cultivars in the *officinalis* group with real differences.
 
 | Variety | Leaf | Thujone level | Culinary use | Hardiness | Notes |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@ Harvest in spring before flowering and again in late summer or fall after the pl
 
 Cut stem tips 4-6 inches back to a leaf node. Never remove more than one-third of the plant at one time. Frequent light harvesting keeps the plant in active growth and extends the productive season.
 
-For drying, hang small bundles in a warm, dark, well-ventilated space. Sage dries well and holds its volatile oils better than most fresh herbs - dried sage is a genuinely useful pantry item, not a degraded substitute for fresh. Shelf-stable for 1-2 years in a sealed container.
+For drying, hang small bundles in a warm, dark, well-ventilated space. Sage dries well and holds its volatile oils better than most fresh herbs - dried sage is a useful pantry item, not a degraded substitute for fresh. Shelf-stable for 1-2 years in a sealed container.
 
 Fresh sage keeps for 1-2 weeks refrigerated in a plastic bag with a damp paper towel, or stems in a glass of water at room temperature. It also freezes reasonably well for cooked applications.
 

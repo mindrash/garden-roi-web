@@ -25,7 +25,7 @@ faq:
 
 Snap peas are the clearest argument in vegetable gardening for growing something yourself. A $2.99 seed packet, a 10-foot row, and decent spring weather gets you 3-5 pounds of peas worth $4.50/lb at the grocery store. That's roughly $18 of produce against $3 in seeds. No other crop makes that case so quickly or so clearly.
 
-The math gets better when you factor in what you're actually buying at the store. Retail snap peas are picked days before they reach you. Sugar in snap peas converts to starch at 70°F - at room temperature, 50% of the sugars convert in six hours. Refrigeration slows this considerably, but it doesn't stop it. By the time a grocery store snap pea reaches you, it's a shadow of what it was when it left the field. The peas you eat within hours of picking from your own garden are genuinely different in flavor from what you can buy. That's not marketing language. It's biochemistry.
+The math gets better when you factor in what you're actually buying at the store. Retail snap peas are picked days before they reach you. Sugar in snap peas converts to starch at 70°F - at room temperature, 50% of the sugars convert in six hours. Refrigeration slows this, but it doesn't stop it. By the time a grocery store snap pea reaches you, it's a shadow of what it was when it left the field. The peas you eat within hours of picking from your own garden are different in flavor from what you can buy. That's not marketing language. It's biochemistry.
 
 ## What it actually is
 
@@ -35,7 +35,7 @@ The original 'Sugar Snap' variety was introduced by Calvin Lamborn through the C
 
 ## Variety comparison
 
-Not all snap peas behave the same in the garden. Bush types stay short and need no support. Climbing types need a trellis but yield significantly more per linear foot. The table below covers the most widely available varieties (days to maturity from direct sow, per Cornell Cooperative Extension and variety trial data from Oregon State University Extension).
+Not all snap peas behave the same in the garden. Bush types stay short and need no support. Climbing types need a trellis but yield more per linear foot. The table below covers the most widely available varieties (days to maturity from direct sow, per Cornell Cooperative Extension and variety trial data from Oregon State University Extension).
 
 | Variety | Type | Days to Maturity | Height | Disease Resistance | Notes |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@ The table below is built for Zone 5-6 with a last frost date around May 10-15 an
 | Fall 1 | Aug 15 | Oct 1 | Oct 1 - Oct 18 | 3-4 lb |
 | Fall 2 | Sep 1 | Oct 12 | Oct 12 - Oct 25 | 2-3 lb (frost risk) |
 
-A few notes on this table. Spring sowing 3 is marginal in a hot year - if your June temperatures run consistently above 80°F, that sowing will stall before it finishes. The fall sowings are often the most rewarding. Cool fall temps dramatically slow sugar-to-starch conversion on the vine, so fall-harvested snap peas are frequently sweeter than spring ones. Fall sowing 2 races the frost, and you may need to cover plants if a hard freeze arrives before the pods fill out.
+A few notes on this table. Spring sowing 3 is marginal in a hot year - if your June temperatures run consistently above 80°F, that sowing will stall before it finishes. The fall sowings are often the most rewarding. Cool fall temps slow sugar-to-starch conversion on the vine, so fall-harvested snap peas are frequently sweeter than spring ones. Fall sowing 2 races the frost, and you may need to cover plants if a hard freeze arrives before the pods fill out.
 
 Five successions per season from one crop is unusual. Most crops don't give you this flexibility. Snap peas do because the cool-season windows on both ends of summer align perfectly with a two-week sowing interval.
 
@@ -93,7 +93,7 @@ Inoculate seeds with pea-specific rhizobium inoculant (*Rhizobium leguminosarum*
 
 Soil pH of 6.0-7.0 is the target. Peas tolerate average fertility - in fact, high-nitrogen fertilizers push leafy growth at the expense of pod production. If your soil is reasonably amended, skip the nitrogen side-dress and let the rhizobia do the work.
 
-Water at 1 inch per week consistently through flowering and early pod set. Drought stress during flowering causes flower drop. A missed week at the wrong time can cut yield significantly. Reduce irrigation slightly once pods begin to fill - waterlogged roots at that stage promote root rot.
+Water at 1 inch per week consistently through flowering and early pod set. Drought stress during flowering causes flower drop. A missed week at the wrong time can cut yield. Reduce irrigation slightly once pods begin to fill - waterlogged roots at that stage promote root rot.
 
 ### Trellis requirements by type
 
@@ -107,7 +107,7 @@ Simple trellis options: two T-posts at row ends with jute twine strung horizonta
 
 Once you cut or snap a pea pod from the plant, enzymes begin converting its simple sugars to complex starches. This is the same mechanism that drives the "harvest to pot immediately" advice for sweet corn. At 70°F, roughly 50% of the sugar content of a fresh snap pea converts to starch within 6 hours. That's not a slow degradation - it's a noticeable one. The pea that tasted bright and sweet at 8am tastes duller and starchier at 2pm if left on the counter.
 
-Refrigeration slows the conversion significantly but doesn't stop it. At 35-40°F, the same process takes days rather than hours. This is why same-day garden snap peas taste so different from store-bought: a commercial pea travels from field to packinghouse to truck to distribution center to store shelf over 4-7 days, refrigerated the whole way. By the time you buy it, a substantial fraction of its sugar has already converted. You're tasting a pod that has already declined.
+Refrigeration slows the conversion but doesn't stop it. At 35-40°F, the same process takes days rather than hours. This is why same-day garden snap peas taste so different from store-bought: a commercial pea travels from field to packinghouse to truck to distribution center to store shelf over 4-7 days, refrigerated the whole way. By the time you buy it, a substantial fraction of its sugar has already converted. You're tasting a pod that has already declined.
 
 The practical rule: harvest in the morning when it's cool, refrigerate immediately, eat within 24 hours for full sweetness. If you're blanching and freezing, do it within 2-3 hours of harvest to lock in as much sugar as possible before the conversion advances.
 
