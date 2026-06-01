@@ -20,7 +20,7 @@ hero_image: /images/crops/apple.webp
 
 An apple tree in the ground is not a garden crop. It's a 20-year infrastructure decision. You're buying a tree that will cost you nothing to plant and very little to maintain - if you choose the right variety. Choose wrong and you're looking at 30-60% crop loss every humid summer without a spray program most home growers won't sustain.
 
-The single most important decision you'll make is variety selection based on disease resistance. Not flavor. Not harvest date. Disease resistance. Pick that correctly, and the rest of apple growing is genuinely manageable. Pick wrong, and you've planted a high-maintenance project that will either exhaust you with a spray schedule or disappoint you with scabby, deformed fruit.
+The single most important decision you'll make is variety selection based on disease resistance. Not flavor. Not harvest date. Disease resistance. Pick that correctly, and the rest of apple growing is manageable. Pick wrong, and you've planted a high-maintenance project that will either exhaust you with a spray schedule or disappoint you with scabby, deformed fruit.
 
 ## Rootstock determines size and timeline
 
@@ -30,7 +30,7 @@ The tree you buy from a nursery is not a single organism. It's two trees grafted
 
 **Semi-dwarf rootstock (EMLA 7 or EMLA 26):** Trees reach 12-15 feet. Fruiting begins in Year 4-6. Mature yield is 80-120 lbs per year. No staking required. Pruning requires a ladder by year five or six. This is the most practical size for a home grower who wants real volume without the infrastructure demands of a standard tree.
 
-**Standard rootstock (seedling):** Trees reach 20-30 feet. Fruiting begins in Year 7-10. Mature yield is 400-800 lbs per year. Too large for most home lots, and the wait before first fruit is long enough that most people lose patience. Unless you have significant land, skip it.
+**Standard rootstock (seedling):** Trees reach 20-30 feet. Fruiting begins in Year 7-10. Mature yield is 400-800 lbs per year. Too large for most home lots, and the wait before first fruit is long enough that most people lose patience. Unless you have real acreage, skip it.
 
 Source: Penn State Extension, *Apple Rootstock and Tree Size* (Penn State Fruit Research and Extension Center, agsci.psu.edu).
 
@@ -57,7 +57,7 @@ The practical recommendation: grow a disease-resistant variety in a humid climat
 
 Source: Cornell University NYSAES Apple Breeding Program (nysaes.cornell.edu).
 
-Honeycrisp deserves its own note because it's what everyone asks for. It's genuinely the best-tasting apple on that list. It's also the most disease-susceptible, the most demanding to grow, and the one most likely to disappoint a home grower in a humid region. Commercial Honeycrisp growers spray on a 7-10 day schedule through the season. If you're not prepared to do that, grow Enterprise or Liberty and save yourself the frustration. If you're in a dry climate (eastern Washington, parts of Colorado and Utah), Honeycrisp is more viable - scab and fire blight pressure are lower where summers are dry.
+Honeycrisp deserves its own note because it's what everyone asks for. It's the best-tasting apple on that list. It's also the most disease-susceptible, the most demanding to grow, and the one most likely to disappoint a home grower in a humid region. Commercial Honeycrisp growers spray on a 7-10 day schedule through the season. If you're not prepared to do that, grow Enterprise or Liberty and save yourself the frustration. If you're in a dry climate (eastern Washington, parts of Colorado and Utah), Honeycrisp is more viable - scab and fire blight pressure are lower where summers are dry.
 
 Enterprise is the most defensible choice for most home growers in the eastern US. High resistance to both fire blight and scab, good fruit quality, late harvest timing that allows full sugar development, and excellent storage life.
 
@@ -69,7 +69,7 @@ The rule: plant two different compatible apple varieties with overlapping bloom 
 
 The physical requirement is proximity. Pollinators should be within 50-100 feet for reliable bee transfer. A neighbor's apple tree two houses down may or may not provide consistent pollination depending on local bee populations and timing. Don't count on it. If you're planting for production, plant two trees yourself.
 
-The exceptions: Honeycrisp, Fuji, and Golden Delicious are considered self-fertile and will produce some fruit without a companion. But even self-fertile varieties yield significantly more with cross-pollination. A self-fertile apple planted alone is not operating at full production. Budget for two trees, plant them 15-20 feet apart, and you'll get substantially better results.
+The exceptions: Honeycrisp, Fuji, and Golden Delicious are considered self-fertile and will produce some fruit without a companion. But even self-fertile varieties yield more with cross-pollination. A self-fertile apple planted alone is not operating at full production. Budget for two trees, plant them 15-20 feet apart, and you'll get better results.
 
 The economic implication: the "one apple tree" plan becomes a "two apple tree" plan. At $35-75 per bare-root or potted dwarf tree, that's $70-150 in initial tree investment. Factor this into your ROI calculation from the start.
 
@@ -90,7 +90,7 @@ Sources: USDA NASS apple production statistics; Cornell Cooperative Extension fr
 
 The break-even on tree cost alone - not counting the opportunity cost of your time - is typically Year 5-6 at conventional pricing and Year 4-5 at organic equivalent. After that, annual maintenance cost is low and yield is stable for 20+ years from a dwarf tree.
 
-Organic pricing is worth noting because homegrown apples from a disease-resistant variety grown without synthetic pesticides are effectively the organic equivalent. You're not paying for organic certification, but you're producing fruit free of synthetic fungicides and insecticides. The $3.50/lb figure reflects USDA AMS retail organic apple prices from 2023 market reports - that's what you'd otherwise pay at the grocery store for the equivalent product.
+Organic pricing matters here because homegrown apples from a disease-resistant variety grown without synthetic pesticides are effectively the organic equivalent. You're not paying for organic certification, but you're producing fruit free of synthetic fungicides and insecticides. The $3.50/lb figure reflects USDA AMS retail organic apple prices from 2023 market reports - that's what you'd otherwise pay at the grocery store for the equivalent product.
 
 ## Storage value and variety selection
 

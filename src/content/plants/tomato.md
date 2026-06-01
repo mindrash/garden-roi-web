@@ -49,7 +49,7 @@ You can grow both in the same bed. Most experienced growers do.
 
 A $2.99–$3.99 seed packet contains 25–50 seeds. If you start 8 seeds indoors, transplant 5, and lose one to a late frost, you're growing 4 plants at roughly $0.25–$0.40 each in seed cost. A $2–$4 transplant from a nursery puts your per-plant input at the high end but bypasses the indoor starting equipment.
 
-Yield and retail price vary significantly by tomato type. Yield figures from Cornell Cooperative Extension, *Home Vegetable Gardening in New York*, 2021; prices from USDA AMS.
+Yield and retail price vary by tomato type. Yield figures from Cornell Cooperative Extension, *Home Vegetable Gardening in New York*, 2021; prices from USDA AMS.
 
 | Type | Yield per plant | Retail price | Notes |
 |---|---|---|---|
@@ -88,7 +88,7 @@ This is where most home gardeners leave yield on the table.
 
 An indeterminate tomato produces "suckers" - new vegetative shoots that emerge from the junction where a leaf branch meets the main stem. Left alone, each sucker becomes a second main stem, which develops its own suckers, and within 6 weeks you have a plant that looks like it's trying to become a shrub. The foliage is dense, airflow is poor, and the plant is spreading its energy across dozens of developing fruit clusters instead of concentrating it.
 
-Removing suckers redirects that energy. Fewer active growing tips means the plant can size and ripen the fruit it has rather than starting new ones. It also opens the canopy, which reduces humidity at the leaf surface and cuts disease pressure significantly.
+Removing suckers redirects that energy. Fewer active growing tips means the plant can size and ripen the fruit it has rather than starting new ones. It also opens the canopy, which reduces humidity at the leaf surface and cuts disease pressure.
 
 **Single-stem training:** Remove every sucker as it appears. The plant grows as one central vine, is easier to stake, has maximum airflow, and produces fewer but larger fruit. This is the commercial greenhouse method. It requires vigilance - check plants twice a week. A sucker left to reach 6 inches before removal sets the plant back more than one pinched at 1–2 inches.
 
@@ -120,7 +120,7 @@ The affected fruit is not salvageable - cut off the rotted end and use what's le
 
 These two diseases share one word in their common names and almost nothing else. Confusing them leads to wrong management decisions. Late blight left untreated can destroy an entire plant in 3–5 days.
 
-**Early blight** (*Alternaria solani*) is a fungal disease. It shows up as brown lesions with concentric rings - like a target pattern - on the lower, older leaves first, then works upward. In mild cases it's mostly cosmetic. The plant keeps producing fruit even with significant early blight defoliation in the lower canopy. Management: remove affected leaves promptly, keep them out of the compost, don't overhead water, and space plants for airflow. Copper-based fungicide applied preventively helps slow spread; it won't reverse existing infection. Rotate tomatoes out of that bed for 2–3 years because the fungus overwinters in soil and plant debris (Cornell Cooperative Extension, *Tomato Diseases*, 2021).
+**Early blight** (*Alternaria solani*) is a fungal disease. It shows up as brown lesions with concentric rings - like a target pattern - on the lower, older leaves first, then works upward. In mild cases it's mostly cosmetic. The plant keeps producing fruit even with heavy early blight defoliation in the lower canopy. Management: remove affected leaves promptly, keep them out of the compost, don't overhead water, and space plants for airflow. Copper-based fungicide applied preventively helps slow spread; it won't reverse existing infection. Rotate tomatoes out of that bed for 2–3 years because the fungus overwinters in soil and plant debris (Cornell Cooperative Extension, *Tomato Diseases*, 2021).
 
 **Late blight** (*Phytophthora infestans*) is an oomycete - technically closer to algae than to true fungi, which is why fungicide timing and selection matter more than with *Alternaria*. This is the same pathogen that destroyed the Irish potato crop in the 1840s. In tomatoes, it produces pale green to grayish, water-soaked lesions on leaves and stems that turn brown-black fast. Under cool, wet conditions (60–70°F nights, high humidity, overcast days), it can spread from a few lesions to complete plant collapse in 3–5 days. There is a white fuzzy sporulation visible on leaf undersides under humid conditions - that's not something you see with early blight.
 
@@ -129,11 +129,11 @@ There is no cure once late blight is established in a plant. Your options:
 - If you catch it early and the infection is limited to a few leaves: remove those leaves immediately, bag them, and dispose in the trash. Do not compost. Apply a copper-based fungicide to the remaining plant and all nearby plants as a barrier treatment.
 - If the infection has reached the stem or more than 20% of the canopy: pull the plant. Bag it. Trash it. Do not compost. Leaving it standing infects neighboring plants and puts spores into the soil.
 
-Preventive copper spray at 7–10 day intervals during cool, wet weather is the main management tool for late blight in the home garden. Resistant cultivars - 'Mountain Magic,' 'Defiant PhR,' 'Legend,' 'Jasper' - are worth planting if late blight pressure is consistent in your region. They won't eliminate infection risk but they slow it significantly.
+Preventive copper spray at 7–10 day intervals during cool, wet weather is the main management tool for late blight in the home garden. Resistant cultivars - 'Mountain Magic,' 'Defiant PhR,' 'Legend,' 'Jasper' - are worth planting if late blight pressure is consistent in your region. They won't eliminate infection risk but they slow it.
 
 The short version: early blight starts at the bottom and moves up slowly. Late blight spreads fast in cool wet weather, produces water-soaked lesions, and can kill a plant in less than a week. Different responses required.
 
-**Septoria leaf spot** (*Septoria lycopersici*) is the third common fungal disease and frequently misidentified as early blight. Lesions start as small water-soaked spots that develop tan or gray centers with dark borders and a faint yellow halo - smaller and more uniform than early blight's target rings. Septoria typically appears mid-season on older lower leaves and moves upward under wet conditions, causing significant defoliation. Management parallels early blight: remove affected leaves, avoid overhead watering, apply copper-based fungicide preventively, and rotate the bed for 2–3 years. For a full integrated approach to tomato diseases and insect pests, see [Integrated Pest Management](/guides/integrated-pest-management/).
+**Septoria leaf spot** (*Septoria lycopersici*) is the third common fungal disease and frequently misidentified as early blight. Lesions start as small water-soaked spots that develop tan or gray centers with dark borders and a faint yellow halo - smaller and more uniform than early blight's target rings. Septoria typically appears mid-season on older lower leaves and moves upward under wet conditions, causing heavy defoliation. Management parallels early blight: remove affected leaves, avoid overhead watering, apply copper-based fungicide preventively, and rotate the bed for 2–3 years. For a full integrated approach to tomato diseases and insect pests, see [Integrated Pest Management](/guides/integrated-pest-management/).
 
 ## Variety Guide by Use
 
@@ -164,7 +164,7 @@ To cover your full annual supply from the garden, you'd need 14–18 San Marzano
 
 The value calculation: store-brand canned crushed tomatoes run $1.50–$2.50 per 28-oz can (roughly 0.875 quart). A quart of home-canned crushed tomatoes costs you $0 in grocery value, plus roughly $0.35 in canning supplies (lids, citric acid or lemon juice for acidification) and the cost of fuel to run the water bath canner. Call it $0.50 per quart in hard costs against a $1.75–$2.25 grocery equivalent. Not a dramatic savings on a per-quart basis.
 
-The real value of canning tomatoes is that you know exactly what's in them - no added salt, no citric acid if you prefer it plain, and the variety you actually chose. A quart of home-canned San Marzano from plants you grew tastes meaningfully different from the generic store-brand can. Whether that's worth the effort is a personal calculation, not a financial one.
+The real value of canning tomatoes is that you know exactly what's in them - no added salt, no citric acid if you prefer it plain, and the variety you actually chose. A quart of home-canned San Marzano from plants you grew tastes different from the generic store-brand can. Whether that's worth the effort is a personal calculation, not a financial one.
 
 **Acidification is not optional.** Tomatoes fall close to the 4.6 pH threshold for safe water bath canning. Always add bottled lemon juice (2 tablespoons per quart) or citric acid (1/2 teaspoon per quart) to ensure safe acidity regardless of tomato variety. This is the USDA recommendation and not something to work around (USDA Complete Guide to Home Canning, 2015).
 

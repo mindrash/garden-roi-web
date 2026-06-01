@@ -49,7 +49,7 @@ Well-drained soil is critical. Raspberries in waterlogged soil develop Phytophth
 
 Space canes 2–3 feet apart within rows, rows 8–10 feet apart to allow equipment or wheelbarrow access. Install a trellis - two parallel wires at 2.5 feet and 4.5 feet height, supported by posts every 15–20 feet. Unsupported canes flop over, break in wind, and complicate picking.
 
-Water consistently at 1–1.5 inches per week through the growing season, more during fruit development. Drip irrigation delivers water to the root zone without wetting foliage, which reduces disease pressure significantly. Mulch 3–4 inches deep to retain moisture and suppress weeds - raspberries are shallow-rooted and don't compete well with grass.
+Water consistently at 1–1.5 inches per week through the growing season, more during fruit development. Drip irrigation delivers water to the root zone without wetting foliage, which reduces disease pressure. Mulch 3–4 inches deep to retain moisture and suppress weeds - raspberries are shallow-rooted and don't compete well with grass.
 
 ## What goes wrong
 
@@ -111,7 +111,7 @@ These numbers assume 5 plants to start, red raspberry, sold or valued at $6/lb (
 
 Sources: Penn State Extension, *Small Fruit Management*, 2019; USDA ARS raspberry production data.
 
-Year 1 yield is intentionally zero. Pinch off any flowers that appear in the first season. The energy that would go into fruit goes into root development instead. You will get a significantly better Year 2 and beyond if you do this. It's an easy thing to skip and a hard thing to un-do.
+Year 1 yield is intentionally zero. Pinch off any flowers that appear in the first season. The energy that would go into fruit goes into root development instead. You will get a better Year 2 and beyond if you do this. It's an easy thing to skip and a hard thing to un-do.
 
 Year 2 yield assumes 5 plants at 3-5 lbs each, which is conservative for well-established first-year plantings. Some gardeners see more.
 
@@ -121,7 +121,7 @@ Year 3 onward assumes sucker expansion - which happens whether you plan for it o
 
 Raspberry is self-expanding. Each established plant produces 3-6 basal suckers per year - new canes pushing up from the root system, often a foot or two outside the main row. Manage them and you have a clean planting. Let some of them root and move them or leave them in place, and your patch doubles in size without spending a dollar.
 
-The economics of this are significant. Five plants in Year 1 can realistically become 15-25 plants by Year 3 at zero additional cost. Run the numbers on that:
+The economics of this are real. Five plants in Year 1 can realistically become 15-25 plants by Year 3 at zero additional cost. Run the numbers on that:
 
 - 20 plants at 3 lbs each at $6/lb = $360/yr in grocery value
 - Initial investment: $30-50 in bare-root canes

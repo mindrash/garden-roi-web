@@ -39,12 +39,12 @@ For most home gardeners in zones 4-8: grow hardneck. For zones 9+: softneck or c
 
 ## Hardneck subtype flavor and use comparison
 
-The hardneck category isn't monolithic. These four subtypes have meaningfully different flavor profiles, clove structure, and storage windows. Which one you plant changes what you can do with your harvest.
+The hardneck category isn't monolithic. These four subtypes have distinct flavor profiles, clove structure, and storage windows. Which one you plant changes what you can do with your harvest.
 
 | Subtype | Flavor profile | Cloves per head | Storage | Best use |
 |---|---|---|---|---|
 | Rocambole | Earthy, complex, hot raw, rich when cooked - the connoisseur's choice | 8-12, loosely wrapped, easy peel | 4-6 months | Raw applications, fresh cooking October-December; eat first |
-| Porcelain | Hot raw, assertive, mellows dramatically with cooking; most widely grown hardneck | 4-6, large cloves, tight wrapper | 8-12 months | Long-cooked dishes, roasting, general use through spring |
+| Porcelain | Hot raw, assertive, mellows with cooking; most widely grown hardneck | 4-6, large cloves, tight wrapper | 8-12 months | Long-cooked dishes, roasting, general use through spring |
 | Purple Stripe | Intense, almost sweet when roasted; pronounced garlic flavor even cooked | 8-12 | 6-8 months | Roasting whole heads, garlic confit, any application where you want forward garlic flavor |
 | Marbled Purple Stripe | Similar to Purple Stripe with slightly nuttier profile; most cold-tolerant hardneck | 8-12 | 6-8 months | Roasting, cold-climate gardens (zones 3-5), reliable performer in short seasons |
 
@@ -83,7 +83,7 @@ The rule of thumb is 4-6 weeks before your average first hard freeze (below 28°
 | Zone 9 | Nov 15 - Dec 1 | Evergreen through winter | N/A (softneck) | May - early June | Softneck (Artichoke, Silverskin); Creole |
 | Zone 10 | Dec 1 - Dec 20 | Evergreen | N/A (softneck) | April - May | Softneck only without pre-chilling |
 
-Zone 9-10 growers who want hardneck flavor: buy seed garlic in October, refrigerate the whole heads for 4-6 weeks at 40°F, then plant in late November or early December. The cold treatment simulates the vernalization the plant would normally get in the ground. It works, but softneck is considerably easier.
+Zone 9-10 growers who want hardneck flavor: buy seed garlic in October, refrigerate the whole heads for 4-6 weeks at 40°F, then plant in late November or early December. The cold treatment simulates the vernalization the plant would normally get in the ground. It works, but softneck is much easier.
 
 Zone 3-4 growers should mulch immediately after planting - 4-6 inches of straw before the ground freezes. The mulch moderates freeze-thaw cycles and prevents frost heaving of newly planted cloves that haven't had enough time to anchor their roots.
 
@@ -95,7 +95,7 @@ Hardneck garlic sends up a coiled flower stalk (the scape) in late spring - typi
 
 **Why it matters:** Penn State Extension research documents a 25-30% increase in final bulb weight when scapes are removed at the correct stage compared to leaving them on (Penn State Extension, *Garlic*, 2020). That's the difference between a head weighing 2 oz and one weighing 2.6 oz. Across a 100-plant bed, that's an extra 3-4 lbs of cured garlic from the same amount of seed and growing time.
 
-Scapes left too long - past the point where they straighten and begin forming the umbel at the tip - return significantly less benefit to the bulb than scapes cut at the curl stage. The plant has already committed some energy to the reproductive effort. Cut them early.
+Scapes left too long - past the point where they straighten and begin forming the umbel at the tip - return less benefit to the bulb than scapes cut at the curl stage. The plant has already committed some energy to the reproductive effort. Cut them early.
 
 **What to do with scapes:** They're a genuine secondary crop, not a pruning byproduct. Figure on roughly 1 lb of scapes per 10-plant row. At farmers markets, scapes sell for $3-6/lb bundled - a market that exists because home cooks figured out they're useful. On a 100-plant bed, that's a potential $30-60 in scape value before you've pulled a single head.
 
@@ -146,7 +146,7 @@ One hard rule: if you see signs of disease - yellowing that looks like mosaic vi
 
 ## Companion planting
 
-Garlic's companion planting reputation comes primarily from allicin and related sulfur compounds, which the plant produces throughout its growing cycle and releases into the soil through root exudates and decomposing tissue. These compounds have documented antimicrobial and insect-deterrent properties (Journal of Agricultural and Food Chemistry, Waldbauer et al., 2012). That mechanism makes garlic genuinely useful as a companion in the right situations - and genuinely harmful in a few others.
+Garlic's companion planting reputation comes primarily from allicin and related sulfur compounds, which the plant produces throughout its growing cycle and releases into the soil through root exudates and decomposing tissue. These compounds have documented antimicrobial and insect-deterrent properties (Journal of Agricultural and Food Chemistry, Waldbauer et al., 2012). That mechanism makes garlic useful as a companion in the right situations - and harmful in a few others.
 
 **What garlic deters:**
 
@@ -185,7 +185,7 @@ The three most damaging garlic problems are a soilborne fungus with no practical
 |---|---|---|---|---|
 | White rot | *Sclerotium cepivorum* | Yellowing foliage starting at tips; white cottony fungal growth at bulb base; small black sclerotia embedded in the mycelium | Soilborne; sclerotia persist 20+ years; introduced through infected seed or contaminated soil | Prevention only: certified disease-free seed garlic; no soil movement from infected beds; disinfect tools with 10% bleach solution. No chemical treatment effective once established. Rotate all alliums out of that bed permanently. |
 | Fusarium basal rot | *Fusarium oxysporum* f. sp. *cepae* | Brown discoloration at basal plate of bulb; roots rotting; plant pulls free easily; pink-white mold visible at base | Soilborne; favors warm, wet conditions; more common in late-planted garlic or garlic harvested late | Harvest promptly when foliage indicates maturity. Avoid injury to bulb base at planting and harvest. Rotate alliums on a 3-4 year cycle. Certified disease-free seed reduces introduction risk. |
-| Garlic rust | *Puccinia allii* | Orange-yellow pustules on leaves, typically starting on lower foliage; severe infections cause leaf dieback but rarely kill the bulb | Fungal; spreads by airborne spores; favors cool, wet spring weather; can spread from nearby infected alliums (wild garlic, leeks) | Remove and destroy infected foliage. Copper fungicides applied at first sign of rust provide some suppression (UC Cooperative Extension, *Garlic Rust*, 2018). Improve air circulation; avoid overhead irrigation. Mild infections rarely affect final yield significantly. |
+| Garlic rust | *Puccinia allii* | Orange-yellow pustules on leaves, typically starting on lower foliage; severe infections cause leaf dieback but rarely kill the bulb | Fungal; spreads by airborne spores; favors cool, wet spring weather; can spread from nearby infected alliums (wild garlic, leeks) | Remove and destroy infected foliage. Copper fungicides applied at first sign of rust provide some suppression (UC Cooperative Extension, *Garlic Rust*, 2018). Improve air circulation; avoid overhead irrigation. Mild infections rarely affect final yield. |
 | Botrytis neck rot | *Botrytis allii* | Soft, gray-brown decay at the neck during curing or storage; gray fuzzy mold visible on affected tissue | Poor curing conditions; damaged necks; high humidity storage | Cure at 75-80°F with good ventilation for 4-6 weeks before storage. Discard any head showing soft spots. Don't store in plastic. |
 | Onion thrips | *Thrips tabaci* | Silver streaking or stippling on foliage; distorted new growth in heavy infestations | Insect feeding; thrips overwinter in plant debris and soil | Spinosad sprays effective; neem oil provides partial control. Reflective mulch early season confuses thrips adults. Remove plant debris promptly after harvest. |
 | Allium leaf miner | *Phytomyza gymnostoma* | Meandering white mines in leaves; larvae may tunnel into stem and bulb causing rotting and entry points for secondary infection | Invasive fly; established in US Northeast as of 2015; two flight periods (spring and fall) | Row cover from planting through early June prevents adult egg-laying. Check extension alerts for regional establishment - expanding its range. |
@@ -196,9 +196,9 @@ White rot is the one that should keep you up at night. It's the only disease on 
 
 Most garlic failures aren't disease - they're cultural mistakes that show up at harvest as small, underdeveloped heads.
 
-**Planting too late** is the most common. A clove planted after the ground is regularly below 40°F won't establish meaningful root growth before dormancy, which means it starts spring at a disadvantage. Get it in the ground at the right time for your zone, per the table above.
+**Planting too late** is the most common. A clove planted after the ground is regularly below 40°F won't establish sufficient root growth before dormancy, which means it starts spring at a disadvantage. Get it in the ground at the right time for your zone, per the table above.
 
-**Skipping the scape** on hardneck garlic is the second. If you don't cut the scape, the plant puts a significant fraction of its late-spring energy into reproductive structures instead of the bulb. You'll harvest smaller heads than the variety is capable of.
+**Skipping the scape** on hardneck garlic is the second. If you don't cut the scape, the plant puts a large share of its late-spring energy into reproductive structures instead of the bulb. You'll harvest smaller heads than the variety is capable of.
 
 **Over-watering in late spring** is the third. Once the foliage starts yellowing, the plant is telling you it's done with water. Continuing to irrigate keeps the soil wet during bulb-sizing and increases rot risk during curing. Stop watering.
 

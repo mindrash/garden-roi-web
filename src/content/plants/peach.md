@@ -28,7 +28,7 @@ This matters more than most nursery tags communicate. The scion - the named vari
 
 The graft union is the visible bulge near the base of the trunk. Keep it above soil level when planting. Burying the graft union invites crown rot and rootstock suckering.
 
-One more thing: a peach tree you buy at a box store in spring is typically a one-year-old whip, sometimes called a maiden. It will need 2-3 years of establishment before meaningful fruit production. Year one, you're building the tree's structure. Year two, you're seeing the first light crop. Year three, it starts to look like what you paid for.
+One more thing: a peach tree you buy at a box store in spring is typically a one-year-old whip, sometimes called a maiden. It will need 2-3 years of establishment before real fruit production. Year one, you're building the tree's structure. Year two, you're seeing the first light crop. Year three, it starts to look like what you paid for.
 
 ## Chilling hours - the variable that decides whether you can grow peaches at all
 
@@ -94,7 +94,7 @@ The standard spray program for brown rot follows this schedule:
 - Every 10-14 days during fruit development in wet conditions: captan or myclobutanil
 - 2-3 weeks before harvest (the highest-risk window): tighten spray intervals to 7 days in wet weather
 
-Remove and dispose of - not compost - all mummified fruit at the end of each season. Clean mummy removal has measurable impact on the following year's disease pressure. Penn State Extension research shows mummy removal combined with a petal-fall spray program reduces brown rot incidence significantly compared to either practice alone.
+Remove and dispose of - not compost - all mummified fruit at the end of each season. Clean mummy removal has measurable impact on the following year's disease pressure. Penn State Extension research shows mummy removal combined with a petal-fall spray program reduces brown rot incidence compared to either practice alone.
 
 Being direct about this: if you want a low-spray fruit tree, grow elderberries, gooseberries, or Asian pears. Peaches require the most consistent spray management of any common home fruit tree. The ROI at maturity is real, but so is the management requirement. If you miss the critical pre-harvest spray window in a wet year, you will lose the crop. That's not a worst-case scenario - in the Mid-Atlantic, Southeast, and Great Lakes regions, it's a typical year.
 
@@ -104,7 +104,7 @@ Site selection: full sun, 8+ hours per day. Peaches planted in part shade produc
 
 Soil: pH 6.0-6.5, well-drained. Peaches do not tolerate wet feet. A site that stays waterlogged for more than 24 hours after heavy rain will kill a peach tree within 2-3 seasons through root rot. Sandy loam to loam soil is ideal. Heavy clay needs amendment or raised planting.
 
-Water: 1 inch per week during the growing season. Consistent moisture during fruit development directly affects fruit size and sugar content. Drought stress after fruit set reduces fruit size and dry matter content (USDA ARS fruit quality research). After leaf drop in fall, reduce irrigation significantly - dormant trees need minimal water.
+Water: 1 inch per week during the growing season. Consistent moisture during fruit development directly affects fruit size and sugar content. Drought stress after fruit set reduces fruit size and dry matter content (USDA ARS fruit quality research). After leaf drop in fall, cut irrigation - dormant trees need minimal water.
 
 Pruning: peaches bear fruit on one-year-old wood. This is the most important thing to know about peach pruning, because it determines your entire approach. Unlike apples and pears, which bear on older spurs, peaches need a constant supply of new wood each year. Annual pruning to the open-center (vase) form, removing about 30-40% of wood each year and encouraging vigorous new shoots, is not optional. An unpruned peach tree produces smaller, crowded fruit and declines quickly in productivity.
 

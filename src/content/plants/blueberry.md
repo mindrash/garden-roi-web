@@ -59,7 +59,7 @@ Fertilize with an acid-forming fertilizer (ammonium sulfate or products labeled 
 
 **Blueberry maggot** (*Rhagoletis mendax*) is the eastern equivalent - adults lay eggs in ripening fruit, larvae infest berries. Yellow sticky traps near bushes monitor adult activity; treat when traps begin capturing flies.
 
-Birds are persistent and will strip a bush before the fruit fully ripens. Bird netting is not optional if you have significant avian pressure. Drape it over the entire bush and secure it at ground level.
+Birds are persistent and will strip a bush before the fruit fully ripens. Bird netting is not optional if you have real avian pressure. Drape it over the entire bush and secure it at ground level.
 
 ## Harvest and storage
 
@@ -112,7 +112,7 @@ Blueberries are a patience crop. The production curve is slow, front-loaded with
 |---|---|---|---|
 | Year 1 | 0 lbs | Pinch all flowers - sacrifice first crop for root development | $8-15/plant for 3-4 plants, plus soil prep |
 | Year 2 | 0.5-1 lb/plant | First small harvest; do not over-harvest | $0-5 |
-| Year 3 | 2-4 lbs/plant | Yield begins to ramp meaningfully | $0-5 |
+| Year 3 | 2-4 lbs/plant | Yield begins to ramp | $0-5 |
 | Year 4 | 4-8 lbs/plant | Approaching useful production level | $0-5 |
 | Year 5+ | 8-20 lbs/plant | Full production for northern highbush; varies by type | $0-5 |
 

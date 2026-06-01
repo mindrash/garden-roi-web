@@ -15,7 +15,7 @@ companion_plants: [Garlic, Chives, Marigold]
 direct_sow_ok: false
 indoor_weeks_needed: 0
 hero_image: /images/crops/cherry.webp
-description: "Cherry (Prunus avium / Prunus cerasus) - sweet and sour cherry trees. $5-8/lb fresh at peak season. Mature tree yield: 20-50 lb annually. 3-5 year establishment before significant harvest."
+description: "Cherry (Prunus avium / Prunus cerasus) - sweet and sour cherry trees. $5-8/lb fresh at peak season. Mature tree yield: 20-50 lb annually. 3-5 year establishment before full harvest."
 ---
 
 The first decision you make with cherries is the most important one, and most gardeners make it wrong. They buy a cherry tree without specifying whether it's sweet or sour, and they end up with a 30-foot standard-size *Prunus avium* that birds strip clean every June. Before you pick a variety, before you pick a site, you need to decide which type of cherry you're actually growing - because they are fundamentally different plants in terms of pollination requirements, climate tolerance, and what you'll do with the fruit.
@@ -24,7 +24,7 @@ The first decision you make with cherries is the most important one, and most ga
 
 **Sweet cherries** (*Prunus avium*) are what you find at the farmers market - Bing, Rainier, Lapins, Stella. Large, sweet, excellent fresh. The problem is that most sweet cherry varieties are not self-fertile. Bing, Rainier, and most other popular varieties require a second, compatible sweet cherry variety within 50-100 feet for pollination. Plant a single Bing tree and you may get a handful of cherries from stray pollen or nothing at all. Sweet cherries also need 600-800 chill hours (hours below 45°F), bloom early in spring, and that early bloom makes them vulnerable to late frosts. They perform best in Zones 5-9, but they do best where spring frosts are rare after bloom.
 
-**Sour cherries** (*Prunus cerasus*) - Montmorency, Morello, Balaton - are a different calculus entirely. Every major sour cherry variety is self-fertile. One tree produces. They're harder (Zone 4 reliable), more tolerant of wet climates, less prone to fungal disease than sweet cherries, and they start producing meaningfully a year or two earlier. The trade-off is that you won't eat them off the tree - they're too tart fresh. They're processing fruit: jam, pie, juice, dried. For most home gardeners, especially in the northern half of the country, a single Montmorency is more reliable than any sweet cherry setup.
+**Sour cherries** (*Prunus cerasus*) - Montmorency, Morello, Balaton - are a different calculus entirely. Every major sour cherry variety is self-fertile. One tree produces. They're harder (Zone 4 reliable), more tolerant of wet climates, less prone to fungal disease than sweet cherries, and they start producing a year or two earlier. The trade-off is that you won't eat them off the tree - they're too tart fresh. They're processing fruit: jam, pie, juice, dried. For most home gardeners, especially in the northern half of the country, a single Montmorency is more reliable than any sweet cherry setup.
 
 | Type | Species | Chill hours | Self-fertile | Hardiness | Primary use |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@ An established sweet cherry tree (year 5 and beyond) on Gisela 5 rootstock produ
 
 *Tree cost assumed at $30-45 for bare-root. Annual netting cost ($10) and incidental sprays (~$10-15/year) not deducted above. Net costs reduce 10-year totals by approximately $200-250.*
 
-The sour cherry numbers look smaller per pound, but the predictability is higher. You're not depending on a second tree for pollination, you're not managing a high-maintenance sweet variety, and you have a clear processing outlet for the fruit. Montmorency jam sells at farm markets for $12-15/half-pint jar. Grow your own fruit, make your own jam, and that math shifts considerably.
+The sour cherry numbers look smaller per pound, but the predictability is higher. You're not depending on a second tree for pollination, you're not managing a high-maintenance sweet variety, and you have a clear processing outlet for the fruit. Montmorency jam sells at farm markets for $12-15/half-pint jar. Grow your own fruit, make your own jam, and that math shifts.
 
 ## Cherry Jam: The Value Math
 
@@ -94,7 +94,7 @@ Soil pH of 6.0-6.5 is the target range. Cherries are moderate feeders - an estab
 
 Chill hour requirements matter. Sweet cherries need 600-800 hours below 45°F depending on variety; sour cherries typically need 1,000-1,200 hours. Zone 7 reliably provides 700-1,000 chill hours in most winters; Zone 8 averages 400-700 and becomes marginal for some varieties. If you're in Zone 8-9, look at low-chill sweet cherry varieties (Minnie Royal, Royal Lee) bred specifically for warmer winters, understanding that yields won't match what northern growers get from Bing.
 
-Cross-pollination for sweet cherries requires compatible varieties - not just any two sweet cherries. Bing and Napoleon (Royal Ann) will not cross-pollinate each other effectively. Good compatible pairings: Bing with Black Tartarian, Van, or Rainier; Rainier with Bing or Lapins. Self-fertile varieties (Stella, Lapins, Sweetheart) simplify this considerably and are worth considering even if you're planting two trees.
+Cross-pollination for sweet cherries requires compatible varieties - not just any two sweet cherries. Bing and Napoleon (Royal Ann) will not cross-pollinate each other effectively. Good compatible pairings: Bing with Black Tartarian, Van, or Rainier; Rainier with Bing or Lapins. Self-fertile varieties (Stella, Lapins, Sweetheart) simplify this and are worth considering even if you're planting two trees.
 
 ## What Goes Wrong
 
@@ -110,13 +110,13 @@ Cross-pollination for sweet cherries requires compatible varieties - not just an
 
 If you're in Zone 4 or the colder parts of Zone 5, consider *Prunus tomentosa* - the Nanking cherry - before investing in sweet or sour cherry trees. This is a 5-8 foot deciduous shrub, not a tree. It's hardy to Zone 2. It produces heavily starting in year 2-3 from bare-root planting. The fruit is small (about the size of a blueberry), red, tart, and excellent for jam, juice, and jelly - not sweet cherry quality for fresh eating, but far more reliable fruit production than sweet cherries in northern climates.
 
-Nanking cherry is partially self-fertile but produces significantly better crops with a second plant nearby. Two plants 6-10 feet apart will cross-pollinate and produce heavier. Because the shrub form stays under 8 feet, netting is straightforward - two or three panels over the top, secured at the base.
+Nanking cherry is partially self-fertile but produces better crops with a second plant nearby. Two plants 6-10 feet apart will cross-pollinate and produce heavier. Because the shrub form stays under 8 feet, netting is straightforward - two or three panels over the top, secured at the base.
 
-The ROI math is less dramatic per pound than mature sweet cherries, but the establishment curve is much faster. A bare-root Nanking cherry at $12-20 will produce a meaningful harvest by year 3, with minimal pest management. For Zone 4-5 gardeners who want homegrown cherries for jam and juice without the complexity of sweet cherry management, Nanking cherry is the honest recommendation.
+The ROI math is less dramatic per pound than mature sweet cherries, but the establishment curve is much faster. A bare-root Nanking cherry at $12-20 will produce a real harvest by year 3, with minimal pest management. For Zone 4-5 gardeners who want homegrown cherries for jam and juice without the complexity of sweet cherry management, Nanking cherry is the honest recommendation.
 
 ## Harvest and Use
 
-Pick at full color when fruit releases cleanly from the stem with gentle pressure. Pull with the stem attached - stemless cherries deteriorate faster and invite mold entry at the stem scar. Sweet cherries don't hold long at room temperature: pick and eat within 3-4 days, or refrigerate immediately for up to a week. Sour cherries for processing hold better - 5-7 days refrigerated before quality drops significantly.
+Pick at full color when fruit releases cleanly from the stem with gentle pressure. Pull with the stem attached - stemless cherries deteriorate faster and invite mold entry at the stem scar. Sweet cherries don't hold long at room temperature: pick and eat within 3-4 days, or refrigerate immediately for up to a week. Sour cherries for processing hold better - 5-7 days refrigerated before quality drops.
 
 **Core uses:**
 
@@ -126,7 +126,7 @@ Sour cherry jam (see the value math above) is the primary preservation outlet. T
 
 Cherry pie from fresh-pitted homegrown Montmorency is categorically different from commercial canned filling. Use fresh-pitted fruit, sugar, cornstarch, and a small amount of almond extract (which amplifies the cherry's natural cherry flavor). Freeze-pack pitted sour cherries for winter pies: spread pitted cherries in a single layer on a sheet pan, freeze solid, then transfer to freezer bags. They hold for 12 months.
 
-Dried sour cherries (dehydrated at 135°F for 8-10 hours until leathery) replace commercial dried cranberries in baked goods and grain salads. The flavor intensity is higher than fresh, and drying concentrates sugars enough that straight tart cherries become genuinely pleasant to eat without added sugar.
+Dried sour cherries (dehydrated at 135°F for 8-10 hours until leathery) replace commercial dried cranberries in baked goods and grain salads. The flavor intensity is higher than fresh, and drying concentrates sugars enough that straight tart cherries become pleasant to eat without added sugar.
 
 ---
 

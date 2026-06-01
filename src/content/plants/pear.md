@@ -47,7 +47,7 @@ One practical point: Asian pears can cross-pollinate European pears, which matte
 
 Fire blight (*Erwinia amylovora*) is a bacterial disease that kills shoot tips and branches, giving infected wood the scorched, shepherd's-crook appearance that gives the disease its name. It is the primary reason pears develop a reputation for difficulty, and it deserves a direct comparison to what apple growers deal with.
 
-Apples in the Eastern US face three significant disease pressures that require routine spray programs: apple scab (*Venturia inaequalis*), cedar-apple rust (*Gymnosporangium juniperi-virginianae*), and fire blight. A conventional apple program in New York or Pennsylvania might involve 8-12 fungicide and bactericide applications per season. Remove any one disease from consideration and the spray burden drops substantially (Cornell NYSAES, *Scaffolds Fruit Journal*, spray programs for home orchardists, 2022).
+Apples in the Eastern US face three disease pressures that require routine spray programs: apple scab (*Venturia inaequalis*), cedar-apple rust (*Gymnosporangium juniperi-virginianae*), and fire blight. A conventional apple program in New York or Pennsylvania might involve 8-12 fungicide and bactericide applications per season. Remove any one disease from consideration and the spray burden drops sharply (Cornell NYSAES, *Scaffolds Fruit Journal*, spray programs for home orchardists, 2022).
 
 European pears do not get apple scab. They are susceptible to a pear-specific scab (*Venturia pirina*) but it is generally a minor problem in most US regions. They have limited susceptibility to cedar-apple rust. The fire blight threat is real, but it is manageable through cultivar selection.
 
@@ -65,7 +65,7 @@ Most pears require a second cultivar within 50 feet for adequate cross-pollinati
 
 The practical cost of the two-tree requirement is real: you are committing space, water, and money to two trees rather than one. A dwarf tree pair at $35-50 each puts the initial cost at $70-100 before any amendments or infrastructure. You're also managing two pruning schedules, two disease-monitoring targets, and two harvest windows that may not align.
 
-Notable partial exception: **Seckel** is the most self-fertile European pear commercially available - a single tree will produce meaningful fruit without a pollinator in most years. Seckel is a small, spicy-sweet heirloom variety, excellent for fresh eating and preserves, that tolerates a range of conditions. It's not as productive as Bartlett but it does not require a companion tree to function. If you have room for only one tree, Seckel is the honest choice (Cornell Cooperative Extension, *Varieties for the Home Orchard*, 2020).
+Notable partial exception: **Seckel** is the most self-fertile European pear commercially available - a single tree will produce fruit without a pollinator in most years. Seckel is a small, spicy-sweet heirloom variety, excellent for fresh eating and preserves, that tolerates a range of conditions. It's not as productive as Bartlett but it does not require a companion tree to function. If you have room for only one tree, Seckel is the honest choice (Cornell Cooperative Extension, *Varieties for the Home Orchard*, 2020).
 
 Bloom time compatibility matters when choosing your two trees. Early-blooming and late-blooming cultivars won't effectively cross-pollinate each other. Bartlett, Bosc, and D'Anjou are all mid-season bloomers that work together. Seckel is an early-to-mid bloomer that crosses with Bartlett. Asian varieties generally bloom mid-to-late and are compatible with most European mid-season types. Avoid pairing early-blooming Clapp's Favorite with a late-blooming variety and expecting reliable cross-pollination.
 
@@ -93,7 +93,7 @@ Break-even occurs in Year 5 on this model. By Year 10, the single tree has retur
 
 Full production figures (80-100 lb) are consistent with USDA ARS National Clonal Germplasm Repository data for dwarf European pear on OHxF 87 rootstock and with Penn State Extension projections for mature semi-dwarf home plantings (Penn State Extension, *Home Fruit Production: Pear*, 2022). The zero-yield years 1-3 are the standard establishment window; some plantings see first fruit in year 3 from a 2-year nursery tree, which slides the break-even earlier.
 
-Annual cost of $5 in years 1-10 assumes no disease spray program. If you're in a fire-blight-pressure region and chose a susceptible cultivar, add $20-40/year for copper bactericide applications at bloom. That pushes break-even to year 6 but does not change the long-term return meaningfully.
+Annual cost of $5 in years 1-10 assumes no disease spray program. If you're in a fire-blight-pressure region and chose a susceptible cultivar, add $20-40/year for copper bactericide applications at bloom. That pushes break-even to year 6 but does not change the long-term return.
 
 ## Harvest and storage
 

@@ -54,7 +54,7 @@ Water at 1–1.5 inches per week through the growing season. Drip irrigation is 
 
 **Blackberry psyllid** (*Trioza tripunctata*) is a sucking insect that causes witches' broom on infected shoots - tight, bunched growth at cane tips. Infested shoot tips should be removed and destroyed.
 
-**Stink bugs** (various *Halyomorpha halys* and native species) have become a significant pest of bramble fruit in the Mid-Atlantic and spreading westward. They feed on developing fruit, causing white internal damage called "cat-facing." Row cover before fruit set is the most effective physical barrier; exclusion nets sized for berry protection are available commercially.
+**Stink bugs** (various *Halyomorpha halys* and native species) have become a serious pest of bramble fruit in the Mid-Atlantic and spreading westward. They feed on developing fruit, causing white internal damage called "cat-facing." Row cover before fruit set is the most effective physical barrier; exclusion nets sized for berry protection are available commercially.
 
 ## Harvest and storage
 
@@ -75,7 +75,7 @@ Thorned cultivars run 20-30% higher yield per cane on average. That gap is real 
 | Thorned | Ouachita, Kiowa, Cherokee | Baseline (20-30% higher per cane) | Harder - gloves required, pruning is unpleasant | None | Higher-volume production, commercial scale |
 | Thornless | Triple Crown, Chester, Natchez | Slightly lower per cane | Dramatically easier - bare hands, faster harvest | $3-5/plant more at nurseries | Home gardens, u-pick, easy management |
 
-The honest answer for home use: go thornless. The yield gap sounds meaningful until you realize you'll avoid pruning a thorned row in August heat, and your harvest speed on a thornless row is significantly faster. The $3-5/plant premium pays itself back in the first season.
+The honest answer for home use: go thornless. The yield gap sounds real until you realize you'll avoid pruning a thorned row in August heat, and your harvest speed on a thornless row is much faster. The $3-5/plant premium pays itself back in the first season.
 
 If you're planting for volume - half an acre or more, selling at a farmers market or running a u-pick operation - thorned cultivars like Ouachita deserve consideration. The yield advantage per cane adds up at that scale, and your pickers will have gloves anyway.
 
@@ -95,7 +95,7 @@ This isn't an argument against wild blackberries. Wild berries are free. A plant
 
 Starting position: three plants at $12-18 each, so $36-54 in plant cost plus a trellis if you don't already have one. Figure $40-60 total for two wooden posts and two runs of wire. First-year startup cost: roughly $76-114.
 
-Blackberries don't produce meaningfully in year one. The primocanes are establishing. You'll see some fruit in year two, and full production in year three and beyond (University of Arkansas Extension, *Commercial Blackberry Production*, MP297; USDA ARS Fruit Laboratory, Beltsville MD).
+Blackberries don't produce in year one. The primocanes are establishing. You'll see some fruit in year two, and full production in year three and beyond (University of Arkansas Extension, *Commercial Blackberry Production*, MP297; USDA ARS Fruit Laboratory, Beltsville MD).
 
 The economics accelerate because blackberry plants multiply themselves. Named cultivars spread via root sprouts - new canes emerge from the root system beyond the original plant footprint. By year three, your three original plants will have generated 8-15 canes or more depending on management. You can let them fill a row or dig the sprouts and expand your planting.
 
@@ -114,7 +114,7 @@ Sources: University of Arkansas Extension Small Fruits Research; USDA ARS; USDA 
 
 ## Preservation: what processing does to the value
 
-Fresh blackberries at $5.50/lb retail represent the baseline. What you do with them after harvest either holds that value, compresses it (frozen), or multiplies it significantly (jam, wine).
+Fresh blackberries at $5.50/lb retail represent the baseline. What you do with them after harvest either holds that value, compresses it (frozen), or multiplies it (jam, wine).
 
 | Product | Retail equivalent | Berries required | Effective value per lb of berries |
 |---------|-------------------|------------------|-----------------------------------|
@@ -127,7 +127,7 @@ Jam is where the math gets interesting. One hour of processing time converts 10 
 
 Frozen berries hold value well for out-of-season use but don't multiply it. If your freezer space is limited, prioritize jam and frozen in that order.
 
-Blackberry wine requires more equipment, more berries per bottle, and more time, but a small craft winery operation can clear $15-22 per bottle at retail. The per-lb-of-berry return isn't better than jam, but the product has a longer shelf life and the margin on a finished bottle is significant if you're already set up for winemaking.
+Blackberry wine requires more equipment, more berries per bottle, and more time, but a small craft winery operation can clear $15-22 per bottle at retail. The per-lb-of-berry return isn't better than jam, but the product has a longer shelf life and the margin on a finished bottle is real if you're already set up for winemaking.
 
 The practical takeaway: a 20-lb harvest in peak season is a processing decision, not just a storage problem. Twelve pounds fresh and frozen is fine. Eight pounds into jam turns one afternoon of work into $64-112 in pantry value.
 
