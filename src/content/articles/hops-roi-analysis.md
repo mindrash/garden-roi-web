@@ -7,13 +7,13 @@ featured: false
 hero_image: /images/articles/hops-roi-analysis.webp
 ---
 
-Hops are a perennial crop that becomes significantly more valuable after the first year. A newly planted rhizome produces a small exploratory harvest. The same plant two years later - with an established root crown and trained bines that know the trellis - can produce 1-2 lbs of dried hops in a single season. At $10-15 per oz dried (homebrew shop pricing, 2025), that's $160-240 per plant per year at maturity, from a plant that self-propagates and lives 20+ years.
+Hops are a perennial crop that becomes 5 to 10 times more productive after the first year. A newly planted rhizome produces a small exploratory harvest. The same plant two years later - with an established root crown and trained bines that know the trellis - can produce 1-2 lbs of dried hops in a single season. At $10-15 per oz dried (homebrew shop pricing, 2025), that's $160-240 per plant per year at maturity, from a plant that self-propagates and lives 20+ years.
 
 The math is genuinely good. The constraints are specific. You need vertical height (15 feet minimum), the right climate, and a use for the harvest. Let's run the numbers.
 
 ## What Hops Are Worth
 
-Hops (*Humulus lupulus*) are the bitter and aroma-contributing ingredient in beer. Commercial hops are sold by the pound; homebrewers and craft producers buy in ounce quantities at significant premium over commercial wholesale rates.
+Hops (*Humulus lupulus*) are the bitter and aroma-contributing ingredient in beer. Commercial hops are sold by the pound; homebrewers and craft producers buy in ounce quantities at 20 to 30 times the commercial wholesale rate per pound.
 
 **Retail pricing (homebrew shops and online suppliers, 2025):**
 - Fresh (wet) hops at harvest: $2-4/oz from local farm stands

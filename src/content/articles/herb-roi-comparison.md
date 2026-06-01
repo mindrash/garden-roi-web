@@ -57,7 +57,7 @@ Retail price comparison: fresh flat-leaf parsley at grocery stores runs $1.50-3.
 
 Cilantro (*Coriandrum sativum*) is the ROI case that scales poorly without succession planning and scales extremely well with it. A single sowing bolts in 4-6 weeks, especially in spring warmth. The 1.5 lb per season yield requires 4-5 sowings across spring and fall cool-season windows.
 
-The retail price case is strong: fresh cilantro at $6/lb average, with many markets running $8-12/lb for organic loose cilantro, represents significant grocery savings for households that cook Mexican, Thai, Indian, or Vietnamese food regularly. A full-sized bunch at an ethnic grocery store might cost $0.50-0.99 but weigh only 1-1.5 oz - that's $5-16/lb equivalent.
+The retail price case is strong: fresh cilantro at $6/lb average, with many markets running $8-12/lb for organic loose cilantro, returns $7 or more per season net for households that cook Mexican, Thai, Indian, or Vietnamese food regularly. A full-sized bunch at an ethnic grocery store might cost $0.50-0.99 but weigh only 1-1.5 oz - that's $5-16/lb equivalent.
 
 Succession sowing schedule for zones 5-6: start sowings 2-4 weeks before last frost (cilantro tolerates light frost), continue every 2-3 weeks through May; pause in summer heat; resume in mid-August for a fall run. The fall sowings are often more productive than spring ones because the plant holds longer in cooling temperatures before bolting.
 
@@ -93,7 +93,7 @@ Three things the ROI multiple misses:
 
 **Usage rate matters more than ROI multiple.** Dill at 5.5× is only a good investment if you actually use 2.0 lb of dill per season. If you use one small bunch per year, buying that at the store is more rational than growing a succession of dill plants. The herb that delivers the highest real-world return is the herb you use enough of to justify the harvest.
 
-**Quality gap varies.** The retail comparison implicitly assumes store-bought and home-grown are equivalent products. For basil, they're not: fresh-cut basil from your garden has a flavor intensity that store basil - harvested days ago, refrigerated, typically bruised in the package - can't match. For parsley, the gap is smaller. For dill, it's significant. The quality premium is real but unquantifiable in a table.
+**Quality gap varies.** The retail comparison implicitly assumes store-bought and home-grown are equivalent products. For basil, they're not: fresh-cut basil from your garden has a flavor intensity that store basil - harvested days ago, refrigerated, typically bruised in the package - can't match. For parsley, the gap is smaller. For dill, it's real. The quality premium is real but unquantifiable in a table.
 
 **Kitchen proximity saves money separately.** A tablespoon of fresh thyme at the right moment costs you nothing when the plant is five feet from your kitchen door. Without it, the alternative isn't buying fresh thyme - it's substituting dried thyme at $8-20/oz or omitting it from the dish. That daily utility doesn't show up in the yield-and-price calculation.
 

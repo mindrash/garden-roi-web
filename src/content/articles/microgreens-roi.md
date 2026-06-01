@@ -20,7 +20,7 @@ The Fahey et al. (1997) PNAS paper on broccoli sprouts as a chemoprotective agen
 
 ## The Crop-by-Crop Economics
 
-The standard growing unit is a 10-inch by 20-inch flat tray, the same size as a nursery flat. That's 200 square inches, roughly 1.4 square feet of growing surface. Per-tray economics vary significantly by crop because seed costs, seeding density, and yield per tray all differ.
+The standard growing unit is a 10-inch by 20-inch flat tray, the same size as a nursery flat. That's 200 square inches, roughly 1.4 square feet of growing surface. Per-tray economics vary by crop because seed costs, seeding density, and yield per tray all differ.
 
 Retail prices below reflect USDA AMS Specialty Crop Market News data and farmers market survey data. Yield and seed rate figures are consistent with Johnny's Selected Seeds microgreen trial data and the University of Maryland Extension microgreen production guide (Mitra et al., University of Maryland Extension, 2017).
 

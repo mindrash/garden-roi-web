@@ -31,7 +31,7 @@ One corn plant produces 1-2 ears in most garden conditions. Exceptional plants w
 - Optimistic (2 ears): 32 ears
 
 **Retail value:**
-Sweet corn retail prices vary significantly by season and region. USDA Agricultural Marketing Service reports peak-season sweet corn at $0.25-0.60 per ear at farm stands and farmers markets; supermarket sweet corn runs $0.50-1.00 per ear at peak, $1.50-2.50 off-season (USDA AMS Local Food Marketing Practice data, 2024).
+Sweet corn retail prices vary by season and region. USDA Agricultural Marketing Service reports peak-season sweet corn at $0.25-0.60 per ear at farm stands and farmers markets; supermarket sweet corn runs $0.50-1.00 per ear at peak, $1.50-2.50 off-season (USDA AMS Local Food Marketing Practice data, 2024).
 
 Using $0.50/ear (a reasonable peak-season value for homegrown equivalency):
 - 16 ears × $0.50 = $8.00 gross
@@ -83,7 +83,7 @@ Supersweet (sh2) varieties (Illini Xtra Sweet, Peaches and Cream, most modern co
 
 **The practical implication:** if you're buying supersweet variety ears at the grocery store that were harvested 2-4 days ago and transported 2,000 miles, you're eating corn with most of its original sugar content - the sh2 genetics preserve quality effectively.
 
-If you walk into your backyard, pull a standard sweet corn ear, and eat it within 30 minutes of harvest, you're eating corn with significantly higher sugar content than anything available commercially. The flavor is not marginally better; it is categorically different.
+If you walk into your backyard, pull a standard sweet corn ear, and eat it within 30 minutes of harvest, you're eating corn with higher sugar content than anything available commercially. The flavor is not marginally better; it is categorically different.
 
 This is the documented reason home corn growing exists: the commercial supply chain cannot deliver the corn-just-harvested eating experience. Refrigerated transportation and sh2 genetics close most of the gap, but not all of it.
 
@@ -107,7 +107,7 @@ If the one reason to grow corn is the just-harvested flavor, then growing sh2 su
 
 *Sugar Buns:* se variety, 72 days, sweet flavor with 2-3 day holding quality. One of the better choices if you want better-than-supermarket flavor but not the same-day-or-nothing constraint.
 
-**Avoid growing sh2 varieties if flavor is the motivation.** Illini Xtra Sweet and its relatives hold well in the supply chain but their eating quality immediately after harvest is not significantly better than supermarket corn harvested 3 days ago. If you're growing supersweet varieties, you're doing the work of growing corn without capturing the one genuine advantage it offers.
+**Avoid growing sh2 varieties if flavor is the motivation.** Illini Xtra Sweet and its relatives hold well in the supply chain but their eating quality immediately after harvest is not noticeably better than supermarket corn harvested 3 days ago. If you're growing supersweet varieties, you're doing the work of growing corn without capturing the one genuine advantage it offers.
 
 ## Growing Conditions and What Corn Actually Needs
 
