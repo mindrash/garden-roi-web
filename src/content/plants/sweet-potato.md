@@ -23,7 +23,7 @@ faq:
     a: "Properly cured sweet potatoes store 6 to 10 months at 55 to 60 degrees with moderate humidity. Do not refrigerate - temperatures below 50 degrees cause chilling injury that produces a hard center and off-flavor."
 ---
 
-Sweet potatoes (*Ipomoea batatas*) are not related to potatoes. They're a member of the morning glory family (Convolvulaceae), and the biology of propagating them reflects that - you don't plant tubers or seeds, you plant slips, which are rooted stem cuttings grown from a stored sweet potato. Once you understand how slips work, the year-over-year economics of growing sweet potatoes become substantially better than almost any other vegetable crop.
+Sweet potatoes (*Ipomoea batatas*) are not related to potatoes. They're a member of the morning glory family (Convolvulaceae), and the biology of propagating them reflects that - you don't plant tubers or seeds, you plant slips, which are rooted stem cuttings grown from a stored sweet potato. Once you understand how slips work, the year-over-year economics of growing sweet potatoes become much better than almost any other vegetable crop.
 
 Year one: you buy slips at $3–$6 per bunch of 5–12 slips, or you buy one sweet potato from the grocery store and grow your own. Year two: you save a few roots, grow slips from them in early spring, and plant for near-zero input cost. The crop is perennial in zones 9–11; in cooler zones it's an annual, but the slip propagation cycle means your seed cost in subsequent years is the cost of a little heat mat time and some water.
 
@@ -41,7 +41,7 @@ Commercially produced slips are available from seed companies and are certified 
 
 **Jewel** and **Garnet** are common storage types with good flavor and 4–5 month storage life.
 
-**Japanese/Korean white-flesh types** (Murasaki, O'Henry) command $3–$5/lb at Asian specialty markets and farm stands (USDA AMS Specialty Crop Market News, 2023). If you have access to those markets, white-flesh varieties shift the ROI math considerably.
+**Japanese/Korean white-flesh types** (Murasaki, O'Henry) command $3–$5/lb at Asian specialty markets and farm stands (USDA AMS Specialty Crop Market News, 2023). If you have access to those markets, white-flesh varieties shift the ROI math.
 
 **Vardaman** is a compact bush type that works for small spaces and containers - most sweet potato vines spread 4–6 feet in every direction.
 
@@ -53,7 +53,7 @@ In year two, if you grew your own slips from saved roots, your input cost drops 
 
 ### Variety ROI: The Specialty Market Gap
 
-Not all sweet potatoes return the same per-pound value. The difference between standard and specialty types is significant enough to factor into variety selection if you have access to specialty buyers or Asian grocery markets.
+Not all sweet potatoes return the same per-pound value. The difference between standard and specialty types is large enough to factor into variety selection if you have access to specialty buyers or Asian grocery markets.
 
 | Variety | Days to maturity | Flesh type | Typical retail price | Yield per slip (4 lbs typical) | Per-slip value |
 |---|---|---|---|---|---|
@@ -87,11 +87,11 @@ The vine management consideration: after vines reach 18 to 24 inches, redirect t
 
 Sweet potatoes are serious heat lovers. They're native to tropical South America and perform accordingly. Soil temperature must be above 60°F before transplanting - below that, vines stall and root development is poor. Most gardeners in zones 5–7 transplant slips 3–4 weeks after last frost when soil has had time to warm (Clemson Extension, *Sweet Potatoes*, HGIC 1322, 2021).
 
-In cool-summer climates (Pacific Northwest, upper Midwest), short-season varieties like 'Vardaman' (90 days) and the use of black plastic mulch to preheat soil can make the difference between a harvest and a failure. Without soil warming, vines grow but don't produce meaningful roots before frost.
+In cool-summer climates (Pacific Northwest, upper Midwest), short-season varieties like 'Vardaman' (90 days) and the use of black plastic mulch to preheat soil can make the difference between a harvest and a failure. Without soil warming, vines grow but don't produce roots before frost.
 
-Soil pH of 5.5–6.5. Sweet potatoes prefer slightly acidic, loose, well-drained soil. Sandy loam is ideal. Heavy clay prevents root expansion and produces misshapen, cracked tubers. If your soil is heavy, growing in raised beds or mounded rows improves the outcome significantly.
+Soil pH of 5.5–6.5. Sweet potatoes prefer slightly acidic, loose, well-drained soil. Sandy loam is ideal. Heavy clay prevents root expansion and produces misshapen, cracked tubers. If your soil is heavy, growing in raised beds or mounded rows improves the outcome.
 
-Once established (2–3 weeks after transplanting), sweet potato vines are genuinely drought-tolerant - more so than almost any other common vegetable crop. They evolved in a seasonally dry environment. Overwatering established plants is a more common mistake than underwatering; wet soil encourages root rot. Water once per week during the main growing season; reduce further once vines are dense and covering the soil.
+Once established (2–3 weeks after transplanting), sweet potato vines are drought-tolerant - more so than almost any other common vegetable crop. They evolved in a seasonally dry environment. Overwatering established plants is a more common mistake than underwatering; wet soil encourages root rot. Water once per week during the main growing season; reduce further once vines are dense and covering the soil.
 
 Nitrogen is counterproductive in sweet potatoes. Excess nitrogen produces lush vine growth and tiny roots. If you've amended with heavy compost or added nitrogen fertilizer, you may end up with beautiful vines and a poor harvest. Apply compost sparingly and skip nitrogen-heavy fertilizers entirely after transplanting.
 

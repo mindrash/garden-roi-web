@@ -16,7 +16,7 @@ description: "Asparagus (Asparagus officinalis) - 2-year establishment, then 20+
 hero_image: /images/crops/asparagus.webp
 faq:
   - q: "How long before I can harvest asparagus?"
-    a: "Asparagus from crowns requires 2 full growing seasons before meaningful harvest. In year 3, harvest lightly for 2 to 3 weeks. By year 4 to 5, the bed supports a 6 to 8 week harvest annually. From seed, add one more year. Once established, the bed produces for 20 years or more."
+    a: "Asparagus from crowns requires 2 full growing seasons before first harvest. In year 3, harvest lightly for 2 to 3 weeks. By year 4 to 5, the bed supports a 6 to 8 week harvest annually. From seed, add one more year. Once established, the bed produces for 20 years or more."
   - q: "Should I plant asparagus from crowns or seeds?"
     a: "Crowns (1-year-old dormant root clusters at $5 to $10 each) are the standard choice - they give you a 1-year head start. Seeds are cheaper but add a full season to establishment. Crowns planted at $5 to $10 each pay back within 5 to 7 years at $4 to $6/lb retail."
   - q: "How do I maintain an asparagus bed after the harvest season?"
@@ -63,7 +63,7 @@ The comparison point: fresh asparagus in grocery stores runs $3.99-$5.99/lb thro
 | Year 6-10 | 9-12 lb/year | $40.50-54/year | cumulative ~$290 | $95 | +$195 |
 | Year 10-15 | 10-12 lb/year | $45-54/year | cumulative ~$560 | $120 | +$440 |
 
-Break-even occurs around year 5 for most plantings. By year 10, the compounding produces significant net positive value. By year 15-20, a well-maintained bed represents hundreds of dollars in value from a $50 initial investment. The assumption that makes this math work: the bed is properly established, not harvested too early, and maintained with weed control and annual fertilization. Yield data from Rutgers NJAES asparagus production research.
+Break-even occurs around year 5 for most plantings. By year 10, the compounding produces real net positive value. By year 15-20, a well-maintained bed represents hundreds of dollars in value from a $50 initial investment. The assumption that makes this math work: the bed is properly established, not harvested too early, and maintained with weed control and annual fertilization. Yield data from Rutgers NJAES asparagus production research.
 
 ## Growing requirements
 

@@ -123,7 +123,7 @@ For occasional bitter fruit: peel the cucumber starting from the blossom end, cu
 
 ## Powdery mildew and variety selection
 
-Powdery mildew (*Podosphaera xanthii*) is the primary foliar disease in cucumbers. It shows as gray-white powdery patches on the upper surfaces of older leaves, typically appearing in late summer as days shorten and dew periods lengthen. Mildew doesn't kill plants immediately, but it progressively weakens them and cuts the productive season short by 2–4 weeks. Plants that hit peak production in mid-July often show significant mildew by mid-August.
+Powdery mildew (*Podosphaera xanthii*) is the primary foliar disease in cucumbers. It shows as gray-white powdery patches on the upper surfaces of older leaves, typically appearing in late summer as days shorten and dew periods lengthen. Mildew doesn't kill plants immediately, but it progressively weakens them and cuts the productive season short by 2–4 weeks. Plants that hit peak production in mid-July often show heavy mildew by mid-August.
 
 Fungicide applications - sulfur-based or potassium bicarbonate - can slow progression but won't reverse existing infection. They work best as a preventive spray applied before symptoms appear on susceptible varieties. For a full treatment protocol, see [powdery mildew treatment](/guides/powdery-mildew-treatment/).
 
@@ -140,7 +140,7 @@ Non-resistant varieties like National Pickling and Straight Eight will typically
 
 **Cucumber beetles** - the striped cucumber beetle (*Acalymma vittatum*) and spotted cucumber beetle (*Diabrotica undecimpunctata howardi*) - are the most consequential pest. They feed on leaves, flowers, and fruit, but the real damage is what they carry: bacterial wilt (*Erwinia tracheiphila*). A plant that wilts suddenly during warm weather and doesn't recover overnight likely has bacterial wilt. Confirm by cutting a wilted stem and slowly pulling the cut ends apart - if sticky bacterial threads form between them, it's wilt. Remove the plant immediately. There is no treatment.
 
-Row cover from transplant until first flowers appear dramatically reduces beetle feeding during the vulnerable seedling stage. Remove the cover when female flowers open so pollinators can reach them. For a complete management strategy including trap crops, kaolin clay, and spinosad application timing, see [cucumber beetle control](/guides/cucumber-beetle-control/).
+Row cover from transplant until first flowers appear sharply reduces beetle feeding during the vulnerable seedling stage. Remove the cover when female flowers open so pollinators can reach them. For a complete management strategy including trap crops, kaolin clay, and spinosad application timing, see [cucumber beetle control](/guides/cucumber-beetle-control/).
 
 **Pollination failure** shows up as flowers dropping without setting fruit. Male flowers open first, one to two weeks before female flowers, which you can identify by the small swelling at the base of the flower. If female flowers appear but drop without setting, hand-pollinate by transferring pollen from a male flower to the female's center with a small paintbrush. Low bee activity during rain or cool spells is the usual cause, and it resolves on its own once weather improves.
 

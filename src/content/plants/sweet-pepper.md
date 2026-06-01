@@ -39,7 +39,7 @@ Frying peppers are a different shape and thinner-walled, and they're worth knowi
 
 'Corno di Toro' (Italian for "bull's horn") is a long, curved frying pepper that can reach 8-10 inches. It ripens to red or yellow depending on the strain, thin-walled with exceptional sweetness. One of the best peppers for roasting whole - the thin wall chars beautifully and the flesh underneath is tender and richly flavored. In Italian-American communities, this is the pepper, the one you see hanging in markets in late summer.
 
-'Jimmy Nardello' is a Slow Food heritage variety, originally from Calabria in southern Italy, and it deserves its cult following. The fruit is long and thin - 8-12 inches, sometimes more - turning from pale green to a deep, shiny red at maturity. What makes Jimmy Nardello distinctive is the extremely thin wall and concentrated sweetness: it's genuinely one of the sweetest frying peppers available, and when you fry it in olive oil for 2-3 minutes, the skin blisters and the flesh melts. The plant is prolific. One well-established Jimmy Nardello plant can produce 40-60 peppers in a season. The seed is available from Seed Savers Exchange and a few specialty vegetable seed companies.
+'Jimmy Nardello' is a Slow Food heritage variety, originally from Calabria in southern Italy, and it deserves its cult following. The fruit is long and thin - 8-12 inches, sometimes more - turning from pale green to a deep, shiny red at maturity. What makes Jimmy Nardello distinctive is the extremely thin wall and concentrated sweetness: it's one of the sweetest frying peppers available, and when you fry it in olive oil for 2-3 minutes, the skin blisters and the flesh melts. The plant is prolific. One well-established Jimmy Nardello plant can produce 40-60 peppers in a season. The seed is available from Seed Savers Exchange and a few specialty vegetable seed companies.
 
 'Lipstick' is a pimento-type - heart-shaped, very thick walls, exceptionally sweet when red. If you're eating peppers raw off the plant or in salads, 'Lipstick' is worth the space.
 
@@ -77,7 +77,7 @@ Peppers need heat to produce, but too much heat shuts them down. Above 90°F day
 
 A bell pepper is technically harvestable as soon as it reaches full size and feels firm. Picking green is fine if you need the space or the plant is overloaded. The fruit will be milder and slightly less nutritious than a fully ripe pepper, but it's edible and you haven't wasted anything.
 
-If you want the value - and the flavor - leave it. The color change from green to red, yellow, or orange takes 2–3 weeks on the plant and coincides with a meaningful increase in sweetness and vitamin C content (Marin et al., *Journal of Food Composition and Analysis*, 2004). You're not waiting for aesthetics. The chemistry is different.
+If you want the value - and the flavor - leave it. The color change from green to red, yellow, or orange takes 2–3 weeks on the plant and coincides with a real increase in sweetness and vitamin C content (Marin et al., *Journal of Food Composition and Analysis*, 2004). You're not waiting for aesthetics. The chemistry is different.
 
 Once picked, refrigerate peppers in a plastic bag and use within 1–2 weeks. Green bells keep longer on refrigeration than colored bells - the same shelf-life asymmetry that drives grocery store behavior applies in your own refrigerator. Colored peppers picked at full ripeness are best used within a week.
 

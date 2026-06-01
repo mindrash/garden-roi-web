@@ -12,7 +12,7 @@ is_common: true
 watering: Moderate; 1-1.5 inches/week first 2 years, drought-tolerant after establishment
 sunlight: Full sun (8+ hours)
 companion_plants: ["Arugula", "Oregano"]
-description: "Grape (Vitis vinifera) - table grapes $2-4/lb, productive vine 30+ years. Annual pruning is mandatory - skip it and yield drops dramatically. Full growing guide."
+description: "Grape (Vitis vinifera) - table grapes $2-4/lb, productive vine 30+ years. Annual pruning is mandatory - skip it and yield collapses. Full growing guide."
 hero_image: /images/crops/grape.webp
 ---
 
@@ -94,7 +94,7 @@ Protective fungicide applications starting before bloom are essential on suscept
 
 **Downy mildew** (*Plasmopara viticola*) produces oily yellow spots on the upper leaf surface and white sporulating growth on the undersides. Severe infections defoliate the vine. It is an oomycete - a water mold - not a true fungus, which means sulfur-based fungicides have no effect on it. Copper-based products work. Time applications to shoot growth of 4-6 inches and repeat every 10-14 days in wet weather (Bordelon, Purdue Extension, *Grape Diseases*, 2018).
 
-Disease-resistant hybrid varieties - Marquette, Frontenac, Chambourcin, and others - significantly reduce but do not eliminate spray requirements. In a wet year, even resistant varieties benefit from a copper spray at the key timing windows. American varieties like Concord and Niagara carry meaningful field resistance to both diseases and can often get through a season in the East with minimal intervention.
+Disease-resistant hybrid varieties - Marquette, Frontenac, Chambourcin, and others - reduce but do not eliminate spray requirements. In a wet year, even resistant varieties benefit from a copper spray at the key timing windows. American varieties like Concord and Niagara carry real field resistance to both diseases and can often get through a season in the East with minimal intervention.
 
 If you grow European vinifera in a humid climate without a preventive spray program, plan for crop losses most years. That is not a pessimistic statement - it is the documented experience of growers across the eastern US.
 

@@ -25,7 +25,7 @@ faq:
     a: "Cure freshly dug potatoes at 60 to 65 degrees for 2 weeks to toughen the skin, then store at 40 to 50 degrees in darkness. Do not refrigerate - cold converts starch to sugar and causes discoloration when cooked."
 ---
 
-Potatoes (*Solanum tuberosum*) are one of the more reliable high-yield crops in the home garden. A single seed piece - a cut chunk of certified seed potato - typically returns 5–10 pounds of tubers. At $1.25/lb retail (USDA ERS, *Vegetables and Pulses Yearbook*, 2023), that's $6–$12.50 per planting hole. Fingerling and purple varieties at specialty and farmers market prices of $3–$5/lb change that math considerably.
+Potatoes (*Solanum tuberosum*) are one of the more reliable high-yield crops in the home garden. A single seed piece - a cut chunk of certified seed potato - typically returns 5–10 pounds of tubers. At $1.25/lb retail (USDA ERS, *Vegetables and Pulses Yearbook*, 2023), that's $6–$12.50 per planting hole. Fingerling and purple varieties at specialty and farmers market prices of $3–$5/lb change that math.
 
 The catch is that potatoes want a lot of space and need proper seed stock. Starting from grocery store potatoes seems logical - they're cheap and widely available - but most commercial potatoes are treated with sprout inhibitors (chlorpropham/CIPC) and may carry viral diseases not visible to the eye. Certified seed potatoes from a nursery or seed company are tested for disease and are the correct starting material.
 
@@ -72,7 +72,7 @@ Fingerlings yield slightly less total weight than russets because the tubers are
 
 Plant when soil temperature reaches 45–55°F consistently - typically 2–4 weeks before last frost date in most zones (Penn State Extension, *Commercial Potato Production*, 2020). Potatoes tolerate light frost after emergence, but a hard freeze will kill emerged shoots. In areas with late frosts, have row cover ready.
 
-Soil pH of 5.0–6.5. This is noticeably more acidic than most vegetables. The lower pH range is intentional: it suppresses *Streptomyces scabies*, the bacterium that causes common scab, which thrives above pH 6.5. In alkaline soils, scab causes cosmetic corky patches on tubers that don't affect flavor but reduce market value significantly.
+Soil pH of 5.0–6.5. This is noticeably more acidic than most vegetables. The lower pH range is intentional: it suppresses *Streptomyces scabies*, the bacterium that causes common scab, which thrives above pH 6.5. In alkaline soils, scab causes cosmetic corky patches on tubers that don't affect flavor but reduce market value.
 
 Hilling is not optional. As plants grow to 6–8 inches, mound soil up around the base, burying the lower stems. Tubers form on underground stolons along the buried stem. Hilling also prevents tubers from being exposed to sunlight. Exposed tubers turn green (solanine production), which is mildly toxic - those portions should be cut away and not eaten. Hill twice during the season; the first hill at 6 inches of growth, the second 2–3 weeks later. The final hill should be 6–8 inches above the original soil surface. After hilling, the visible portion of the plant should look like it's emerging from a substantial mound, not a flat bed. This is what creates the growing space for maximum tuber count and size.
 

@@ -34,11 +34,11 @@ Heirloom and specialty varieties available to home gardeners include:
 
 **Orangeglo** - orange-fleshed heirloom, 20–30 pounds, very high sugar content. The flavor difference from a grocery-store watermelon is immediately obvious. Farmers market price in urban areas: $1.50–$2.00/lb. You will not find this at a Kroger.
 
-The math: two Orangeglo vines at farmers market value ($1.75/lb average, two melons per vine at 25 lb each) equals $175 in retail produce value. Seed cost for the season is under $5. Space cost is real - 40–50 square feet - but the value comparison shifts dramatically when you're not comparing to commodity pricing.
+The math: two Orangeglo vines at farmers market value ($1.75/lb average, two melons per vine at 25 lb each) equals $175 in retail produce value. Seed cost for the season is under $5. Space cost is real - 40–50 square feet - but the value comparison shifts when you're not comparing to commodity pricing.
 
 ## Varieties and Space Requirements
 
-Full-size watermelon vines need 20–30 square feet per plant. That's not a raised bed - that's a significant chunk of a garden. Bush and compact varieties brought that footprint down to 6–10 square feet, which changes the calculation for most home gardens.
+Full-size watermelon vines need 20–30 square feet per plant. That's not a raised bed - that's a large chunk of a garden. Bush and compact varieties brought that footprint down to 6–10 square feet, which changes the calculation for most home gardens.
 
 | Variety | Fruit Size | Vine Habit | Days to Maturity | Space Needed | Notes |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@ Trellis benefit beyond space: airflow. Vines on a trellis dry faster after rain 
 
 ## Ripeness: The Part Most People Get Wrong
 
-Picking a watermelon at the right moment is genuinely harder than most crops. Cut it too early and the flesh is white, grainy, and flavorless. Wait too long and it's mealy and fermented. There's no second chance - the melon doesn't ripen further once cut, and you can't tell from the outside what's happening inside without using the right indicators together.
+Picking a watermelon at the right moment is harder than most crops. Cut it too early and the flesh is white, grainy, and flavorless. Wait too long and it's mealy and fermented. There's no second chance - the melon doesn't ripen further once cut, and you can't tell from the outside what's happening inside without using the right indicators together.
 
 There are four things to check, and you want all four pointing the same direction before you cut.
 
@@ -109,7 +109,7 @@ One more thing: don't harvest by calendar. Days-to-maturity figures on seed pack
 
 **Powdery mildew** (*Podosphaera xanthii*) shows as white powdery patches on leaves, typically late in the season. It reduces photosynthesis during the final push to ripeness. Space vines for airflow; this is one reason trellising pays off. Sulfur-based fungicides control early infections. Resistant cultivars exist - 'Crimson Sweet' carries partial resistance.
 
-**Anthracnose** (*Colletotrichum orbiculare*) causes water-soaked lesions on leaves and dark sunken spots on fruit. It spreads by rain splash. Avoid overhead irrigation on established plants; drip irrigation reduces spread significantly. Rotate cucurbits - watermelon, cucumber, squash, cantaloupe - out of an infected area for at least 3 years.
+**Anthracnose** (*Colletotrichum orbiculare*) causes water-soaked lesions on leaves and dark sunken spots on fruit. It spreads by rain splash. Avoid overhead irrigation on established plants; drip irrigation reduces spread. Rotate cucurbits - watermelon, cucumber, squash, cantaloupe - out of an infected area for at least 3 years.
 
 **Blossom-end rot** - calcium deficiency at the blossom end - affects watermelon the same way it affects tomatoes. The cause is usually inconsistent watering, not absent calcium. The plant can't move calcium without consistent moisture. Mulch heavily and maintain even soil moisture through fruit development.
 

@@ -27,7 +27,7 @@ Onions (*Allium cepa*) are fundamentally a storage crop, and that's what separat
 
 ## Sets, transplants, or seeds
 
-Three methods, meaningfully different economics:
+Three methods, each with very different economics:
 
 **Sets** are small, marble-sized dry bulbs grown the previous year. They're the most common home garden starting point. A bag of 50–100 sets runs $3–$5. Sets establish quickly and tolerate light frost after planting. The drawback: varieties available as sets are limited - mostly yellow storage types - and sets grown from the previous season can be virus-carrying. Sets also carry a higher bolting risk than transplants or direct-seeded plants, because the stress of being bulbed up, dried, and stored triggers early flowering in some conditions.
 
