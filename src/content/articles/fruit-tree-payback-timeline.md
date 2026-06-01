@@ -40,7 +40,7 @@ Break-even is the year when cumulative value first equals or exceeds tree cost p
 - Fig (in-ground, Zone 7+): 20-30 lb/year × $4.00-$5.00/lb = $80-$150/year. Figs bear in their second or third year from a one-gallon nursery plant.
 - Persimmon: 20-40 lb/year × $3.50-$4.50/lb = $70-$180/year. Production is delayed but a mature persimmon can yield 40-100 lb per season; persimmon trees can live 60+ years.
 
-The Year 20 values for peach are notably lower than other trees because peach productive lifespan is only 10-15 years for most varieties; production can fall 50-70% in the second decade as disease pressure accumulates. After year 15, you're looking at a new tree.
+The Year 20 values for peach are notably lower than other trees because peach productive lifespan is only 10-15 years for most varieties. Production declines through the second decade as cumulative disease pressure takes hold. After year 15, you're looking at a new tree.
 
 ---
 
@@ -78,7 +78,7 @@ Peaches are self-fertile, which means one tree fruits without a partner. That's 
 
 Plum sits in the middle of the payback range - faster than cherry, slower than peach. European plums (*Prunus domestica* - 'Stanley', 'Italian', 'Damson') are self-fertile and bear reliably in Zones 4-9, making them genuinely lower-maintenance than apples or pears from a disease management standpoint. Japanese plums (*Prunus salicina*) are somewhat more productive and earlier to bear, but most require cross-pollination and are less cold-hardy, best suited to Zones 5-9.
 
-Brown rot is the primary disease concern for plum, particularly in wet years. The fruit rots quickly after any blemish, and in a humid summer you can lose 30-50% of a crop within days of ripeness. Harvest timing is critical - don't leave ripe plums on the tree.
+Brown rot is the primary disease concern for plum, particularly in wet years. The fruit rots quickly after any blemish, and in a humid summer you can lose much of a ripe crop within days. Harvest timing is critical - don't leave ripe plums on the tree.
 
 European plum varieties tend toward heavier biennial bearing than Japanese types, meaning a very productive year is often followed by a light year. The annual yield figures in the table are averages; actual individual years may vary by 50% above or below.
 
