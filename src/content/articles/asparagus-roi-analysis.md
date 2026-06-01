@@ -51,7 +51,7 @@ The Year 2 harvest note is important. Many sources recommend harvesting no spear
 
 ## Male vs. Female: Why This Selection Pays Off
 
-Asparagus plants produce either male or female flowers. Female plants expend significant energy on berry and seed production that contributes nothing to the spear harvest. Male plants direct all their energy into root development and spear production.
+Asparagus plants produce either male or female flowers. Female plants expend their energy on berry and seed production that contributes nothing to the spear harvest. Male plants direct all their energy into root development and spear production.
 
 The yield difference is measurable. Penn State Extension trials show male hybrid varieties ('Jersey Knight', 'Jersey Supreme', 'Jersey Giant') outproducing mixed-gender or open-pollinated varieties by 2-3x over the life of the bed (Penn State Extension, *Asparagus Production*, 2020). A bed of 25 male-only crowns produces the equivalent of a 50-75 crown mixed-gender bed.
 
@@ -109,7 +109,7 @@ The Jersey series dominates commercial and home garden planting in the eastern U
 
 **'Mary Washington':** the old open-pollinated standard, with mixed male and female plants. Lower yield than Jersey hybrids, more disease susceptibility, but widely available, inexpensive ($1.50-2.00/crown), and historically reliable. If budget is the primary constraint, Mary Washington is the baseline.
 
-**'Millennium':** a male hybrid developed in Canada with documented cold-hardiness for Zone 3-4 gardeners. Lower yield in warm zones than Jersey Knight, but significantly better overwintering and early spring emergence in northern climates.
+**'Millennium':** a male hybrid developed in Canada with documented cold-hardiness for Zone 3-4 gardeners. Lower yield in warm zones than Jersey Knight, but better overwintering and early spring emergence in northern climates.
 
 **Pacific Northwest and West Coast:** UC 157 and Atlas are the recommended varieties for zones with mild winters and warm summers. Jersey Knight struggles in climates that don't provide adequate winter chilling, and the heat tolerance of UC 157 makes it better suited to California and Oregon production.
 

@@ -9,7 +9,7 @@ hero_image: /images/articles/blueberry-roi-analysis.webp
 
 A mature highbush blueberry bush produces 5-10 lbs of fruit per season for 20-30 years. At $5-8/lb (USDA AMS retail data), that's $25-80 in fresh blueberries per bush per year, from a plant that cost $15-30 when you bought it. The math looks obvious. The execution is where most blueberry planting attempts fail, and they fail for a single specific reason.
 
-Blueberries require soil pH of 4.5-5.5. This is significantly more acidic than most garden soils, which typically run 6.0-7.0. Planting a blueberry bush in unamended soil at pH 6.5 produces a plant that survives, grows slowly, yields poorly, and never reaches the production levels that make the economics work. Soil acidification is not optional. It's the entire setup task.
+Blueberries require soil pH of 4.5-5.5. That's 1.5 to 2.5 pH units below the 6.0-7.0 range where most garden soils sit. Planting a blueberry bush in unamended soil at pH 6.5 produces a plant that survives, grows slowly, yields poorly, and never reaches the production levels that make the economics work. Soil acidification is not optional. It's the entire setup task.
 
 ## The pH Problem First
 
@@ -39,7 +39,7 @@ Annual maintenance: mulch replenishment, pH monitoring, fertilization with an ac
 
 ## Cross-Pollination: Why 4 Bushes Is the Minimum
 
-Blueberries produce fruit without cross-pollination from a second variety, but yield and berry size improve significantly when two or more compatible varieties are planted together. With a single variety, you get 50-70% of potential yield; with two cross-compatible varieties, you get 80-100%.
+Blueberries produce fruit without cross-pollination from a second variety, but yield and berry size both improve when two or more compatible varieties are planted together. With a single variety, you get 50-70% of potential yield; with two cross-compatible varieties, you get 80-100%.
 
 Plant at least two different but compatible varieties. For highbush in zones 5-7: 'Bluecrop' and 'Blueray', or 'Duke' and 'Jersey' are well-matched pairs. Stagger varieties by ripening time (early, mid, late season) to extend the harvest from late June through August rather than everything ripening at once.
 

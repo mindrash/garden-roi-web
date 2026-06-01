@@ -43,7 +43,7 @@ Three crops in the table carry an asterisk: lettuce, arugula, and basil. For the
 | 11 | [Arugula](/crops/arugula/) | $8.00 | 0.5 lb/packet* | $2.50 | $1.50 | 3 | $0.50* |
 | 12 | [Basil](/crops/basil/) | $8.00 | 0.5 lb/packet* | $3.50 | $0.50 | 2 | $0.25* |
 
-*Single cutting cycle only. Full-season multi-cut yield raises these numbers significantly - see the note below.
+*Single cutting cycle only. Full-season multi-cut yield raises arugula's real annual return to roughly $36/sq ft and lettuce's proportionally - see the note below.
 
 Space estimates: cherry tomato and slicing tomato at 2×2 ft per transplant; hot pepper at 18×18 in; garlic at 6×6 in for a typical 20-25 clove home planting from one purchase; cucumber at 2 plants trellised over 6 sq ft; kale at 4 plants at 18×18 in; spinach at 8 sq ft broadcast planting; snap pea at 8 sq ft row planting; broccoli at 4 plants at 18×18 in; lettuce at 4 sq ft broadcast; arugula at 3 sq ft; basil at 2 sq ft. (Penn State Extension, *Vegetable Planting Guide*, 2023; Cornell Cooperative Extension, *Home Vegetable Gardening*, 2022.)
 
@@ -63,7 +63,7 @@ The catch: cherry tomatoes still need staking or caging (a cage or stake adds $2
 
 Slicing tomatoes and hot peppers rank 2nd and 3rd per square foot, which reflects the advantage transplant crops have over seeded crops: you buy a plant already 6-8 weeks into its life, and the per-plant yield is known, not estimated across a mixed stand.
 
-[Hot peppers](/crops/hot-pepper/) (*Capsicum annuum*) are frequently underrated in ROI discussions. The $3.49/lb retail price is for standard hot peppers; specialty varieties at farmers markets and farm stores routinely fetch $5-8/lb. At standard pricing, 3 lb from a $3.50 transplant occupying 2 sq ft returns $3.49 per square foot. If you grow specialty or heirloom varieties at a premium price point, that number improves substantially.
+[Hot peppers](/crops/hot-pepper/) (*Capsicum annuum*) are frequently underrated in ROI discussions. The $3.49/lb retail price is for standard hot peppers; specialty varieties at farmers markets and farm stores routinely fetch $5-8/lb. At standard pricing, 3 lb from a $3.50 transplant occupying 2 sq ft returns $3.49 per square foot. At $5 to $8 per pound for specialty or heirloom varieties - a realistic range at farmers markets - the same yield and space pushes net return to $5.75 to $10.25 per square foot.
 
 Hot peppers also have a secondary yield benefit: a mature plant at the end of the season can be dug up, root-pruned, potted, and overwintered indoors as a "pepper tree" that resumes production the following season. This effectively halves the start cost in Year 2 and beyond. An established 2-year-old pepper plant, having already paid for itself, has zero amortized start cost going forward.
 
@@ -71,7 +71,7 @@ Hot peppers also have a secondary yield benefit: a mature plant at the end of th
 
 [Garlic](/crops/garlic/) (*Allium sativum*) ranks 4th by net per square foot at $3.41. It earns the 4th slot despite having the highest absolute start cost in the table ($12 for seed garlic) because yield and price both work in its favor: $4.99/lb at the retail counter - a figure USDA AMS Specialty Crops data supports consistently - multiplied by 6.5 lb from one home purchase produces $32.44 gross. Net of the $12 seed investment: $20.44.
 
-The nuance with garlic economics is timing. You plant in fall (October-November in most zones) and harvest the following July. The return on your $12 seed investment takes 9 months to materialize. That's not a liability unless you're treating it as a quick-turnover crop. Treated correctly - as a plant-and-forget fall investment that delivers in midsummer - it returns better per square foot than most crops in the second half of the table.
+The key variable in garlic economics is timing. You plant in fall (October-November in most zones) and harvest the following July. The return on your $12 seed investment takes 9 months to materialize. That's not a liability unless you're treating it as a quick-turnover crop. Treated correctly - as a plant-and-forget fall investment that delivers in midsummer - it returns better per square foot than most crops in the second half of the table.
 
 Seed garlic can also be held over from your own harvest, which eliminates the $12 start cost in Year 2 and beyond. Save 15-20% of your best heads for replanting. After the first year, garlic's start cost drops to zero. See [garlic ROI analysis](/roi/garlic-roi-analysis/) for the multi-year breakdown.
 
@@ -129,7 +129,7 @@ For a tool that helps size expected returns from any bed configuration, the [Gar
 
 The rankings above assume one planting cycle at the frontmatter yield figure. Several crops have economics that look better over multiple seasons:
 
-**Garlic** can be replanted from your own harvest, reducing Year 2+ start cost to zero. The net return over 5 years from one initial $12 investment in seed garlic, replanting each year, is substantially higher than $20.44 × 5 - it compounds.
+**Garlic** can be replanted from your own harvest, reducing Year 2+ start cost to zero. The net return over 5 years from one initial $12 investment in seed garlic, replanting each year, is higher than $20.44 × 5 - the seed cost drops to zero after Year 1, so Years 2-5 each return the full $32.44 gross. See the [garlic ROI analysis](/roi/garlic-roi-analysis/) for the multi-year breakdown.
 
 **Perennial herbs** (spearmint, rosemary, thyme, sage) have low first-year returns because the start cost is amortized against only one season. Spearmint yields 2 lb from a $3 potted plant - $33 net in Year 1. In Year 2 and beyond, the plant costs $0 to replace and the net return is the full $36 gross. Over 5 years, one spearmint container returns $36 × 4 + $33 = $177, all from a $3 initial investment. That's not in the table because the ranking is per-season, not multi-year.
 

@@ -7,7 +7,7 @@ featured: false
 hero_image: /images/articles/cucumber-roi-analysis.webp
 ---
 
-A single cucumber planting is a good deal. Three staggered cucumber plantings are a significantly better one - and use almost the same amount of seed.
+A single cucumber planting is a good deal. Three staggered cucumber plantings return 3 to 4 times the value - and use almost the same amount of seed.
 
 The case for succession planting isn't just about having cucumbers over a longer period. It's about total yield. Cucumber plants produce heavily for 4-6 weeks, then decline rapidly as old age, disease pressure, and pest damage accumulate. A second planting started 3 weeks after the first is hitting peak production exactly as the first planting declines. A third planting 3 weeks after the second extends the window through September. Three productive peaks versus one is the math.
 
@@ -41,7 +41,7 @@ That's 3-4x more value from one packet of seed, almost the same bed space (the e
 
 Against gross value of $240-480, the net return for three succession plantings is $193-452. A single planting at the same inputs (minus two planting events and fertilizer) returns $60-240 gross with a net of roughly $13-212.
 
-The succession multiplier isn't dramatic in input cost but is significant in yield value.
+The succession multiplier isn't dramatic in input cost but triples to quadruples the yield value.
 
 ## Succession Planting Schedule by Zone
 
@@ -64,7 +64,7 @@ Not all cucumbers are worth the same per pound, and variety selection changes th
 
 **Pickling cucumbers:** 'National Pickling', 'Calypso', 'Boston Pickling'. Shorter, blunter fruits with thinner skins. Yield is higher per plant than slicing types - the shorter fruit matures faster and production density is higher. Retail value per pound is similar to slicing at $1.50-2.00/lb fresh, but the pickling use case opens additional value channels (see below).
 
-**English/European cucumbers:** long (12-18"), thin, essentially seedless. Retail $2.50-4.00/lb at grocery stores, sometimes higher at specialty retailers. Typically grown under cover (hoop house, greenhouse) for best quality - skin is delicate and outdoor conditions cause blemishing. For a gardener with a hoop house, English cucumbers represent significantly higher gross value per pound than standard slicers.
+**English/European cucumbers:** long (12-18"), thin, essentially seedless. Retail $2.50-4.00/lb at grocery stores, sometimes higher at specialty retailers. Typically grown under cover (hoop house, greenhouse) for best quality - skin is delicate and outdoor conditions cause blemishing. For a gardener with a hoop house, English cucumbers command higher gross value per pound than standard slicers.
 
 **Lemon cucumbers:** round, yellow, mild flavor. Novelty item that commands $3-5/lb at farmers markets because of visual distinctiveness. Lower yield per plant than standard slicing types but a premium market position.
 
@@ -84,7 +84,7 @@ The pickling use case is why pickling cucumber varieties are worth growing speci
 
 ## Trellising: Yield per Square Foot
 
-Cucumbers trained to a vertical trellis rather than allowed to sprawl on the ground produce more fruit per square foot of bed space and significantly less disease pressure.
+Cucumbers trained to a vertical trellis rather than allowed to sprawl on the ground produce more fruit per square foot of bed space and less disease pressure.
 
 Ground-level sprawling cucumber plants create dense, humid canopy conditions that favor powdery mildew (*Podosphaera xanthii*) and angular leaf spot (*Pseudomonas syringae* pv. *lachrymans*). Fruit sitting on wet soil rots faster than fruit hanging freely. The lower leaves shade themselves, reducing overall photosynthesis.
 
