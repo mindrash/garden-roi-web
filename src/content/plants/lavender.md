@@ -37,7 +37,7 @@ If you are in Zone 7 or warmer and want the ornamental appeal of *L. stoechas* (
 
 ## The ROI Case
 
-A lavender transplant or rooted cutting runs $3.99-5.99 at most nurseries. Bare-root starts from specialty growers cost less. Starting from seed is possible - germination runs 14-28 days at 65-70°F with stratification - but the process is slow, germination rates are variable, and you will not have a meaningful harvest until year three at the earliest. Unless you have a specific reason to start from seed, buy transplants.
+A lavender transplant or rooted cutting runs $3.99-5.99 at most nurseries. Bare-root starts from specialty growers cost less. Starting from seed is possible - germination runs 14-28 days at 65-70°F with stratification - but the process is slow, germination rates are variable, and you will not have a real harvest until year three at the earliest. Unless you have a specific reason to start from seed, buy transplants.
 
 **Year-by-year production timeline:**
 
@@ -95,7 +95,7 @@ Young plants (year 1 and 2) should be pruned lightly to encourage bushy growth r
 
 ## Growing Requirements
 
-Full sun is required - at least 6 hours of direct sun per day, 8 hours preferred. Lavender in partial shade produces thin stems, reduced aromatic compound content, and significantly higher disease pressure. Plant on the south or southwest side of your garden, away from structures or tall crops that cast shade in the afternoon.
+Full sun is required - at least 6 hours of direct sun per day, 8 hours preferred. Lavender in partial shade produces thin stems, reduced aromatic compound content, and higher disease pressure. Plant on the south or southwest side of your garden, away from structures or tall crops that cast shade in the afternoon.
 
 Spacing: 18-24 inches between plants for English lavender; 24-36 inches for lavandin, which grows larger. Tight spacing reduces airflow and increases foliar disease risk, particularly botrytis in humid summers.
 

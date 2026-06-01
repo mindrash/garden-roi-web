@@ -42,7 +42,7 @@ The tuber stores carbohydrates primarily as inulin (a fructooligosaccharide, als
 
 ## The inulin situation - be honest with yourself
 
-Inulin is not digested in the small intestine. Human digestive enzymes don't break it down. It passes intact to the large intestine, where colonic bacteria ferment it - producing gas as a byproduct. This is not a myth, not an exaggeration, and not something that only affects sensitive people. It affects most people who eat Jerusalem artichokes in any meaningful quantity, which is why the plant has earned the nickname "fartichoke." The phenomenon is documented in nutritional literature going back decades (Niness, 1999, in *Oligosaccharides in Food and Agriculture*).
+Inulin is not digested in the small intestine. Human digestive enzymes don't break it down. It passes intact to the large intestine, where colonic bacteria ferment it - producing gas as a byproduct. This is not a myth, not an exaggeration, and not something that only affects sensitive people. It affects most people who eat Jerusalem artichokes in any quantity, which is why the plant has earned the nickname "fartichoke." The phenomenon is documented in nutritional literature going back decades (Niness, 1999, in *Oligosaccharides in Food and Agriculture*).
 
 The practical effects: bloating, flatulence, and in some people significant gastrointestinal discomfort. The magnitude depends on dose and individual gut microbiome composition. Cooking reduces but does not eliminate the effect - heat breaks down some of the inulin chains but doesn't convert them to a fully digestible form. Roasting softens the impact somewhat more than boiling. Pickling in acid slows fermentation and may reduce symptoms more than cooking does.
 
@@ -87,13 +87,13 @@ Plant tubers in spring after last frost when soil temperature reaches 50°F or a
 
 Soil pH of 5.8-7.0 is the target range. Jerusalem artichoke tolerates poor fertility, acidic soil, clay, and drought better than almost any other garden crop - which is directly related to why it spreads so aggressively in varied conditions. Rich, loose soil with good drainage produces the largest, cleanest tubers. Heavy wet clay produces small, malformed tubers and increases rot risk during storage.
 
-Full sun produces the best tuber development. In partial shade (3-5 hours of direct sun), the plants grow taller and floppier but yield drops meaningfully. In shade under 3 hours, tuber yield is poor enough to be not worth growing.
+Full sun produces the best tuber development. In partial shade (3-5 hours of direct sun), the plants grow taller and floppier but yield drops. In shade under 3 hours, tuber yield is poor enough to be not worth growing.
 
 Plants reach 6-10 feet at maturity and cast significant shade - plant on the north side of adjacent beds or in a standalone location. Tall plantings benefit from staking or a wind break behind them in exposed sites.
 
 Water at 1 inch per week until establishment (4-6 weeks). After that, supplemental irrigation is rarely needed except during extended dry spells. Overwatering in clay soils encourages crown rot.
 
-No fertilizer is needed in most soils. Jerusalem artichoke will produce on depleted ground. If you're growing in genuinely exhausted soil or in containers, a balanced fertilizer (10-10-10 at planting, or a side-dressing of compost mid-season) helps. Don't over-fertilize with nitrogen - you'll get excessive above-ground growth and reduced tuber formation.
+No fertilizer is needed in most soils. Jerusalem artichoke will produce on depleted ground. If you're growing in exhausted soil or in containers, a balanced fertilizer (10-10-10 at planting, or a side-dressing of compost mid-season) helps. Don't over-fertilize with nitrogen - you'll get excessive above-ground growth and reduced tuber formation.
 
 ## Frost sweetening and harvest timing
 
@@ -123,7 +123,7 @@ Raw: slice thin and use in salads where you want a crunchy, nutty element simila
 
 Roasted: scrub clean (smooth-skinned varieties like Fuseau can be left unpeeled), halve or quarter, toss with olive oil and salt, roast at 425°F until golden and tender - 30-40 minutes depending on size. Peeling rough-skinned types is tedious and mostly unnecessary for roasting; scrubbing is enough.
 
-Soup: peel, simmer in stock until completely soft, then puree and strain. Straining removes the majority of the fibrous material and reduces the inulin load relative to eating the whole tuber. A Jerusalem artichoke soup - pureed smooth with a little cream and chives - is one of the genuinely good things you can do with this crop.
+Soup: peel, simmer in stock until completely soft, then puree and strain. Straining removes the majority of the fibrous material and reduces the inulin load relative to eating the whole tuber. A Jerusalem artichoke soup - pureed smooth with a little cream and chives - is one of the good things you can do with this crop.
 
 Pickled: slice 1/4 inch thick and quick-pickle in cider vinegar brine (2 parts vinegar, 1 part water, sugar, salt). Acid inhibits the fermentation reaction that causes gas, making pickled sunchokes more tolerable for many people than cooked ones. They keep 2-3 weeks refrigerated and work well on charcuterie boards or alongside rich meats.
 

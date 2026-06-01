@@ -93,7 +93,7 @@ Source: Cornell Cooperative Extension *Currants and Gooseberries: Production Gui
 
 ## What goes wrong
 
-**Gooseberry powdery mildew** (*Podosphaera mors-uvae*) is the most common and damaging problem, coating young shoots, leaves, and fruit with white powder. American varieties and mildew-resistant European cultivars reduce risk substantially. When it appears on susceptible varieties, apply sulfur or potassium bicarbonate fungicide at first sign. Remove affected tissue. The fungus overwinterswithin infected buds, so late-fall pruning of affected growth matters.
+**Gooseberry powdery mildew** (*Podosphaera mors-uvae*) is the most common and damaging problem, coating young shoots, leaves, and fruit with white powder. American varieties and mildew-resistant European cultivars reduce risk. When it appears on susceptible varieties, apply sulfur or potassium bicarbonate fungicide at first sign. Remove affected tissue. The fungus overwinterswithin infected buds, so late-fall pruning of affected growth matters.
 
 **Gooseberry sawfly** (*Nematus ribesii*, same species that attacks currant) defoliates quickly. Inspect the interior of shrubs in late spring - the larval feeding starts in the center and works outward. Early detection and spinosad application prevents complete defoliation.
 

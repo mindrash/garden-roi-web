@@ -58,7 +58,7 @@ Bush beans grow 18 to 24 inches tall and set pods over a concentrated two to thr
 
 Pole beans climb 6 to 8 feet and produce continuously for most of the season as long as you harvest regularly. Leave mature pods on the plant and production slows or stops - the plant shifts energy to seed maturation. Pick every two to three days and a single planting will keep producing from mid-July into September in most of the country. Per square foot of garden ground, pole beans yield more over a full season than bush types. But the yield is spread across weeks, which makes batch canning complicated.
 
-Choose bush beans if you're planning to put up a meaningful quantity for winter. Choose pole beans if your goal is a long steady supply of fresh beans through the season and you're willing to build or install a trellis.
+Choose bush beans if you're planning to put up a large quantity for winter. Choose pole beans if your goal is a long steady supply of fresh beans through the season and you're willing to build or install a trellis.
 
 ## Varieties Worth Knowing
 
@@ -72,7 +72,7 @@ Not all green beans are the same crop. Flavor, pod type, disease resistance, and
 | Rattlesnake | Pole | 65 | Round, purple-streaked | Outstanding flavor, heat and drought tolerant. Good choice for hot climates or late-season planting. Streaks disappear when cooked. |
 | Dragon Tongue | Bush | 55 | Yellow with purple streaks | No-string pods with a mild, slightly buttery flavor. Eaten raw or lightly sautéed. Not ideal for canning - doesn't hold color or texture through processing. |
 
-Dragon Tongue gets its own mention because it's genuinely good in a way that surprises people expecting a novelty. It's one of the best raw-eating beans, and if you grow it alongside a standard green bean you'll use the green beans for canning and the Dragon Tongue for salads and snacking. The two-variety approach covers both ends of the use case.
+Dragon Tongue gets its own mention because it's good in a way that surprises people expecting a novelty. It's one of the best raw-eating beans, and if you grow it alongside a standard green bean you'll use the green beans for canning and the Dragon Tongue for salads and snacking. The two-variety approach covers both ends of the use case.
 
 ## Succession Planting for Canning Quantity
 
@@ -108,7 +108,7 @@ Water 1 inch per week. The critical window is flowering and early pod fill - dro
 
 **Mexican bean beetle** (*Epilachna varivestis*) is the most consistent bean pest in most of the eastern United States. It looks like a large yellowish-orange ladybug with 16 black spots on its back. Adults and larvae both feed on the undersides of leaves, skeletonizing the tissue and leaving the papery upper surface intact. A heavy infestation will defoliate plants fast.
 
-The larvae are the key target. They're yellow, spiny, and cluster on leaf undersides. Check plants weekly starting about three weeks after germination and hand-pick larvae before they have a chance to mature and scatter. Egg masses are yellow-orange clusters on leaf undersides - crush them when you find them. For heavy infestations where hand-picking isn't keeping up, neem oil (azadirachtin as the active ingredient) applied to leaf undersides disrupts larval development. Row cover from germination significantly reduces adult colonization, but you must remove it at flowering to allow pollination - beans are not self-pollinating in the way that, say, tomatoes are.
+The larvae are the key target. They're yellow, spiny, and cluster on leaf undersides. Check plants weekly starting about three weeks after germination and hand-pick larvae before they have a chance to mature and scatter. Egg masses are yellow-orange clusters on leaf undersides - crush them when you find them. For heavy infestations where hand-picking isn't keeping up, neem oil (azadirachtin as the active ingredient) applied to leaf undersides disrupts larval development. Row cover from germination cuts adult colonization, but you must remove it at flowering to allow pollination - beans are not self-pollinating in the way that, say, tomatoes are.
 
 **Bean mosaic viruses** - Bean Common Mosaic Virus (BCMV) and Bean Yellow Mosaic Virus (BYMV) - cause mottled, distorted, and puckered leaves, stunted growth, and poor pod set. They're transmitted by aphids. There's no treatment once a plant is infected. Pull infected plants promptly to reduce the chance of aphids moving the virus to neighboring plants. Most commercial varieties sold in the US are resistant to BCMV; look for resistance designations in seed catalog descriptions. Provider, in particular, has good disease resistance as a package.
 

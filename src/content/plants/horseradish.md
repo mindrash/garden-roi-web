@@ -28,7 +28,7 @@ Prepared horseradish at retail runs $4-6 for a 6-oz jar, which is $10-16/lb equi
 
 The heat and flavor of horseradish come from allyl isothiocyanate, a volatile compound released when the root cells are damaged - grating, cutting, or chewing. The precursor compound (sinigrin) is stable; it only converts to the volatile, tear-inducing isothiocyanate upon cell rupture. This is why freshly grated horseradish is sharply pungent and prepared horseradish in a sealed jar is milder after the volatile compounds escape.
 
-Commercial prepared horseradish is preserved with vinegar, which slows but doesn't stop the loss of heat. Fresh-grated horseradish added to a dish just before serving is substantially more intense than the prepared kind. Horseradish stored at cold temperatures retains heat longer; warm temperatures accelerate the loss.
+Commercial prepared horseradish is preserved with vinegar, which slows but doesn't stop the loss of heat. Fresh-grated horseradish added to a dish just before serving is more intense than the prepared kind. Horseradish stored at cold temperatures retains heat longer; warm temperatures accelerate the loss.
 
 **Cultivars** worth knowing:
 
@@ -57,9 +57,9 @@ The persistent nature of horseradish is both the challenge and the compounding a
 
 That $4.99 investment returns roughly $65 in fresh root value over five years from a single planting - before accounting for the value of preparing your own sauce rather than buying jars.
 
-**20-year value calculation:** Horseradish in a well-managed bed produces 3-4 lb per year once established. At $4/lb (conservative fresh root value - prepared sauce equivalent is higher), a mature bed returns $12-16 per year. Over 20 years from a single $4.99 crown investment: $240-320 in fresh root value. Net of the original investment: $235-315. If you value it against the prepared horseradish equivalent ($10-16 per 6-oz jar, roughly $27-43/lb), the 20-year return from one crown exceeds $800. One planting is genuinely permanent; the plant outlives most garden structures.
+**20-year value calculation:** Horseradish in a well-managed bed produces 3-4 lb per year once established. At $4/lb (conservative fresh root value - prepared sauce equivalent is higher), a mature bed returns $12-16 per year. Over 20 years from a single $4.99 crown investment: $240-320 in fresh root value. Net of the original investment: $235-315. If you value it against the prepared horseradish equivalent ($10-16 per 6-oz jar, roughly $27-43/lb), the 20-year return from one crown exceeds $800. One planting is permanent; the plant outlives most garden structures.
 
-One jar of prepared horseradish made from a single large root (roughly 1 lb of fresh root + 2 tbsp white vinegar + pinch salt, grated in a food processor) provides the equivalent of $10-16 of retail product. The quality is genuinely superior.
+One jar of prepared horseradish made from a single large root (roughly 1 lb of fresh root + 2 tbsp white vinegar + pinch salt, grated in a food processor) provides the equivalent of $10-16 of retail product. The quality is superior.
 
 ## Growing requirements
 
@@ -85,7 +85,7 @@ One established plant yields 5-10 division pieces per fall harvest. Each piece b
 
 **Root fork or branching** is the primary quality issue, usually from rocks, compacted subsoil, or soil that dried out during active root development. Forked roots are fully edible but harder to peel and less impressive at harvest. Prevention: deep, loose, consistently moist (not wet) soil.
 
-**Cercospora leaf spot** (*Cercospora armoraciae*) causes tan, water-soaked spots on leaves that enlarge and coalesce. It's primarily cosmetic - it doesn't significantly affect root development in home gardens. Remove severely affected leaves and avoid overhead watering to slow spread.
+**Cercospora leaf spot** (*Cercospora armoraciae*) causes tan, water-soaked spots on leaves that enlarge and coalesce. It's primarily cosmetic - it doesn't affect root development in home gardens. Remove severely affected leaves and avoid overhead watering to slow spread.
 
 **Harlequin bug** (*Murgantia histrionica*) and imported cabbage worm (*Pieris rapae*) occasionally feed on leaves in regions where they're common. Hand-pick or use row cover during establishment. Severe defoliation can reduce root yield.
 

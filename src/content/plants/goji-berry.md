@@ -72,7 +72,7 @@ Full sun produces the best fruit set and largest berry size. Partial shade is to
 
 Water weekly during the first two seasons to support root establishment. Once established, goji tolerates drought well - plants in the Intermountain West often perform without supplemental irrigation in normal rainfall years. Excess water encourages vegetative growth at the expense of fruiting.
 
-The thorns are serious. Older wood carries spines 0.5-1.5 inches long. Wear leather gloves for any pruning or harvest work. Training the arching canes on a simple two-wire trellis (wires at 18 inches and 4 feet) makes both management and harvest substantially easier.
+The thorns are serious. Older wood carries spines 0.5-1.5 inches long. Wear leather gloves for any pruning or harvest work. Training the arching canes on a simple two-wire trellis (wires at 18 inches and 4 feet) makes both management and harvest easier.
 
 ## Pruning for production
 
@@ -106,7 +106,7 @@ The slow first two years lead many gardeners to abandon goji as unproductive. Th
 
 Here is the detail that makes the multi-year ROI calculation more interesting. Softwood cuttings taken in late June through July root readily in moist propagation medium. Take cuttings 4-6 inches long from this year's new growth, strip the lower leaves, dip the cut end in rooting hormone, and stick in a 50/50 mix of perlite and peat. Keep moist and out of direct sun. Rooting takes 3-4 weeks.
 
-By year two, a healthy established plant can supply enough cutting material to start 6-10 new plants at zero cost. Those plants will begin producing in their own year two, meaning you can expand your planting significantly without buying additional stock. Factor that into the long-term math: a $4.99 investment in year one can become 6-10 producing plants by year four at no additional plant cost.
+By year two, a healthy established plant can supply enough cutting material to start 6-10 new plants at zero cost. Those plants will begin producing in their own year two, meaning you can expand your planting without buying additional stock. Factor that into the long-term math: a $4.99 investment in year one can become 6-10 producing plants by year four at no additional plant cost.
 
 ## Harvest and storage
 
@@ -114,7 +114,7 @@ Berries ripen over an extended period rather than all at once - typically 4-6 we
 
 Fresh berries keep 3-5 days refrigerated. Freeze for up to one year - spread in a single layer on a baking sheet to freeze before bagging, which prevents clumping. For drying instructions, see the fresh vs. dried section above.
 
-Fresh berries eaten out of hand, added raw to salads, or pressed for juice offer a flavor profile most people don't expect - mild, slightly tangy, genuinely pleasant but not the sweetness-forward flavor of the dried form. Cooking them into sauces is traditional in Chinese cuisine. If you grow goji and have never tasted fresh berries off the plant, the first one will reframe everything you thought you knew about the crop.
+Fresh berries eaten out of hand, added raw to salads, or pressed for juice offer a flavor profile most people don't expect - mild, slightly tangy, pleasant but not the sweetness-forward flavor of the dried form. Cooking them into sauces is traditional in Chinese cuisine. If you grow goji and have never tasted fresh berries off the plant, the first one will reframe everything you thought you knew about the crop.
 
 ---
 

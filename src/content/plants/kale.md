@@ -43,11 +43,11 @@ Kale splits into four practical categories. They taste different, tolerate cold 
 
 Curly kale (Winterbor, Redbor) is what fills most grocery store bins. The heavy crinkling catches dressings and cooking fats well, and the texture is built for braising. It's the most cold-hardy of the cooking kales.
 
-Lacinato - sold as dinosaur kale, Tuscan kale, or cavolo nero - has dark blue-green leaves with a puckered, almost reptilian surface. It's the standard in Italian cuisine for a reason: the flavor is more complex, less aggressively bitter, and it sweetens more dramatically after frost than curly types do. If you're making ribollita or braised greens, lacinato is what the recipe was written for. Specialty grocery stores price it at $4-6/lb because it looks distinctive and markets well.
+Lacinato - sold as dinosaur kale, Tuscan kale, or cavolo nero - has dark blue-green leaves with a puckered, almost reptilian surface. It's the standard in Italian cuisine for a reason: the flavor is more complex, less aggressively bitter, and it sweetens more after frost than curly types do. If you're making ribollita or braised greens, lacinato is what the recipe was written for. Specialty grocery stores price it at $4-6/lb because it looks distinctive and markets well.
 
 Red Russian is the kale for people who want to eat it raw. The leaves are feathery with purple veins and a mild, almost sweet flavor even before frost. It doesn't hold up as well to long cooking - it goes limp fast - but it's what you want for salads, sandwiches, and smoothies. Days to maturity runs about 50-60 days from transplant (Johnny's Selected Seeds variety trial data).
 
-Siberian kale (*Brassica napus*, technically a different species from the others) is grown primarily in Zone 3-4 where the cooking kales can't reliably overwinter. It survives temperatures down to -10°F in established stands (University of Vermont Extension, *Brassica Crops*, 2020). The leaves are smoother and coarser than curly kale, and the flavor is mild. It produces heavily and keeps producing. If you're in a genuinely cold climate and want greens into winter, this is the one.
+Siberian kale (*Brassica napus*, technically a different species from the others) is grown primarily in Zone 3-4 where the cooking kales can't reliably overwinter. It survives temperatures down to -10°F in established stands (University of Vermont Extension, *Brassica Crops*, 2020). The leaves are smoother and coarser than curly kale, and the flavor is mild. It produces heavily and keeps producing. If you're in a cold climate (Zone 3-4) and want greens into winter, this is the one.
 
 For most Zone 5-7 home gardens: Winterbor for volume and freezing, lacinato if you cook Italian or want the best frost-sweetened eating kale, Red Russian if you make salads. You can grow all three from one packet if you direct-seed a short row of each.
 
@@ -78,7 +78,7 @@ The season math by zone:
 | Zone 7 | March 15 | March (following year) | 40+ weeks | 20 lb | $50.00 |
 | Zone 3-4 | April 15 | November | 26 weeks | 13 lb | $32.50 |
 
-This assumes mature kale at standard retail pricing. Baby kale changes the economics considerably.
+This assumes mature kale at standard retail pricing. Baby kale changes the economics.
 
 ## Baby kale: a different product and a different price
 
@@ -165,7 +165,7 @@ A cup of organic packaged kale at a mid-range grocery store runs $1.00-1.50 (ret
 
 For context: a monthly Netflix subscription is approximately $15-22. That budget, spent once on kale seed and a bag of fertilizer, produces 149+ cups of one of the most nutrient-dense vegetables available across a 40-week season. This isn't a condemnation of streaming services. It's a useful anchor for what garden spending actually buys.
 
-The vitamin K numbers deserve a specific note. Most people have no idea how deficient their diet is in vitamin K1 (phylloquinone). Dark leafy greens are the primary dietary source, and fresh garden kale is one of the richest sources available. The conversion of glucosinolates to sugars during frost doesn't meaningfully affect the vitamin K content - the fat-soluble vitamins remain stable through light cooking and freeze-thaw cycles.
+The vitamin K numbers deserve a specific note. Most people have no idea how deficient their diet is in vitamin K1 (phylloquinone). Dark leafy greens are the primary dietary source, and fresh garden kale is one of the richest sources available. The conversion of glucosinolates to sugars during frost doesn't affect the vitamin K content - the fat-soluble vitamins remain stable through light cooking and freeze-thaw cycles.
 
 Kale compares favorably to other high-value greens in the garden. For the full picture on how kale stacks up against Swiss chard and collard greens for production value, see [Collard Greens](/crops/collard-greens/) and [Swiss Chard](/crops/swiss-chard/). The [Salad Greens ROI analysis](/roi/salad-greens-roi/) shows where kale sits in the broader landscape of cut-and-come-again crops by dollar-per-square-foot.
 
@@ -197,7 +197,7 @@ The cut-and-come-again technique is what makes the season math above work. Harve
 
 **Cabbage aphids** (*Brevicoryne brassicae*) form dense gray-green colonies in leaf axils and growing tips. A hard spray of water removes most of them. Insecticidal soap handles heavier infestations. Parasitic wasps are effective natural controls - avoid broad-spectrum insecticides that kill them along with the aphids.
 
-**Clubroot** (*Plasmodiophora brassicae*) causes swollen, distorted roots and yellowing plants that wilt on warm days. It's a soilborne pathogen that persists for decades in acidic soil. Raising pH above 7.2 with lime reduces clubroot pressure significantly (Penn State Extension, *Crucifer Diseases*, 2019). Rotate brassicas out of any infected bed for three to four years.
+**Clubroot** (*Plasmodiophora brassicae*) causes swollen, distorted roots and yellowing plants that wilt on warm days. It's a soilborne pathogen that persists for decades in acidic soil. Raising pH above 7.2 with lime reduces clubroot pressure (Penn State Extension, *Crucifer Diseases*, 2019). Rotate brassicas out of any infected bed for three to four years.
 
 **Black rot** (*Xanthomonas campestris* pv. *campestris*) enters through leaf margins and creates V-shaped yellow lesions that progress inward. It's seedborne and spreads in wet conditions. Use certified disease-free seed, avoid overhead irrigation, and remove infected plants completely.
 
@@ -207,7 +207,7 @@ Harvest leaves in the morning with a sharp knife or scissors. Tearing leaves ris
 
 On larger leaves, the midrib is fibrous enough to be worth removing: hold the stem end in one hand and strip the leaf away from both sides with the other. Small and medium leaves cook whole without issue.
 
-Kale softens significantly with heat. The raw texture that can seem aggressive - especially in curly types - largely disappears after five minutes of cooking. If you've tried it raw and found it unpleasant, try it braised or sauteed before writing it off.
+Kale softens with heat. The raw texture that can seem aggressive - especially in curly types - largely disappears after five minutes of cooking. If you've tried it raw and found it unpleasant, try it braised or sauteed before writing it off.
 
 For storage: blanch and freeze for eight to ten months of acceptable quality (National Center for Home Food Preservation, *Freezing Vegetables*, 2021). Frozen kale works well in soups, stews, and smoothies - it won't have the texture of fresh, but the flavor holds.
 

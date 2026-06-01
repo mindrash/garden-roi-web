@@ -54,7 +54,7 @@ Realistic home-garden yield is on the lower end of these ranges - 30-40 lb per p
 
 ## Kohlrabi vs other spring brassicas
 
-For a gardener with a 4x8 bed to fill before summer, the spring brassica options are usually kohlrabi, broccoli, or cabbage. They occupy the same cool-season window but differ significantly in value and timing:
+For a gardener with a 4x8 bed to fill before summer, the spring brassica options are usually kohlrabi, broccoli, or cabbage. They occupy the same cool-season window but differ in value and timing:
 
 | Crop | Days to harvest | Yield per 4x8 bed | Retail price | Bed value | Bed cleared by |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@ Most gardeners who grow kohlrabi eat it one way: raw slices, maybe with salt. It
 
 **Roasted:** quarter or halve the kohlrabi (halves for smaller bulbs, quarters for anything over 2 inches). Toss with olive oil, salt, and pepper. Roast at 400°F for 25-30 minutes until the cut surfaces are caramelized and tender throughout. The mild sweetness concentrates under heat. A squeeze of lemon after roasting brightens the dish. This works as a side vegetable in the same applications you'd use roasted turnip or parsnip.
 
-**The leaves:** don't discard them. Young, tender kohlrabi leaves are mild enough for salads; larger leaves can be sauteed in olive oil with garlic exactly as you'd cook kale or collard greens - they're the same species. Strip the leaves from the stem, cut into 1-2 inch pieces, cook in oil over medium heat until wilted and slightly tender, 4-5 minutes. They cook down significantly. If you're harvesting regularly, the leaves represent roughly 30-40% of the plant's total edible mass.
+**The leaves:** don't discard them. Young, tender kohlrabi leaves are mild enough for salads; larger leaves can be sauteed in olive oil with garlic exactly as you'd cook kale or collard greens - they're the same species. Strip the leaves from the stem, cut into 1-2 inch pieces, cook in oil over medium heat until wilted and slightly tender, 4-5 minutes. They cook down. If you're harvesting regularly, the leaves represent roughly 30-40% of the plant's total edible mass.
 
 **Storage:** kohlrabi doesn't store well once cut - it's roughly 85% water and begins to desiccate within a day of being peeled or sliced. Store whole, unpeeled bulbs in the refrigerator for 2-3 weeks. For longer storage, peel, cube into 1-inch pieces, blanch 3 minutes in boiling water, cool in ice water, and freeze in bags. The texture softens in frozen applications but holds up well in soups or roasted preparations.
 

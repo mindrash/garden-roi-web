@@ -85,7 +85,7 @@ Soil that works into the shank during hilling is the main source of grit in leek
 
 Soil pH of 6.0-7.0. Leeks are moderate-to-heavy feeders and respond well to soil that has had compost worked in before planting - 2-3 inches of finished compost tilled in to 8-10 inches. A side-dressing of balanced fertilizer (10-10-10 at 1 lb per 25 feet of row, or equivalent organic) when plants are 6-8 inches tall supports shank development through summer.
 
-Water consistently at 1 to 1.5 inches per week. This is one of the few crops where irrigation regularity matters as much as total volume. Irregular watering - dry spells followed by heavy rain or irrigation - causes the shank to split internally along the layers. Split shanks are still edible but gritty, difficult to clean, and shorter-lived in storage. If you're in a region with inconsistent summer rainfall, drip irrigation or soaker hoses under mulch make leeks significantly easier.
+Water consistently at 1 to 1.5 inches per week. This is one of the few crops where irrigation regularity matters as much as total volume. Irregular watering - dry spells followed by heavy rain or irrigation - causes the shank to split internally along the layers. Split shanks are still edible but gritty, difficult to clean, and shorter-lived in storage. If you're in a region with inconsistent summer rainfall, drip irrigation or soaker hoses under mulch make leeks easier.
 
 Full sun, 6+ hours. In partial shade, plants develop thinner shanks and take longer to size up.
 
@@ -103,7 +103,7 @@ Full sun, 6+ hours. In partial shade, plants develop thinner shanks and take lon
 
 This is the whole point of cold-hardy varieties. Bandit, Tadorna, and similar overwintering types don't just survive cold - they're still actively holding quality through December and into March in Zone 5 and 6. You can walk out to the garden in January, pull back the straw mulch, and dig leeks from partially frozen soil. The shank doesn't degrade in the cold the way storage vegetables can degrade in a root cellar. It holds in the ground.
 
-That has real value because there are almost no other fresh alliums available in that window. Garlic is cured and stored. Onions are bulbs in a crate. Scallions at the grocery store have been shipped from somewhere warm. The leek in your garden in February is genuinely local, genuinely fresh, and genuinely scarce at retail - which is why $4-6/bunch at late-season markets isn't an outlier.
+That has real value because there are almost no other fresh alliums available in that window. Garlic is cured and stored. Onions are bulbs in a crate. Scallions at the grocery store have been shipped from somewhere warm. The leek in your garden in February is local, fresh, and scarce at retail - which is why $4-6/bunch at late-season markets isn't an outlier.
 
 To keep the ground workable, mulch the row heavily before hard frost - 4-6 inches of straw over the row. This slows the freeze and allows you to get a garden fork into the soil even after surface temperatures are well below freezing. Remove mulch between harvest events and replace it. The plants don't need protection from the cold itself. They need protection from freeze-thaw cycling that heaves them out of the ground, and from losing access to them under a frozen soil surface.
 
