@@ -8,7 +8,7 @@ featured: false
 
 The promise of backyard chickens is cheap eggs and free fertilizer. The reality is more complicated on the egg side and more valuable on the garden side than most people starting out understand.
 
-A well-managed backyard flock of four hens will not produce eggs cheaper than commodity grocery store eggs. It might produce eggs cheaper than premium pasture-raised eggs, depending on your feed costs and how you count your time. That's the honest egg math. The garden side of the equation - composted manure, pest reduction, soil tillage - is where chickens genuinely earn their keep for a serious food gardener, and it doesn't require pretending the egg math works when it doesn't.
+A well-managed backyard flock of four hens will not produce eggs cheaper than commodity grocery store eggs. It might produce eggs cheaper than premium pasture-raised eggs, depending on your feed costs and how you count your time. That's the honest egg math. The garden side of the equation - composted manure, pest reduction, soil tillage - is where chickens earn their keep for a serious food gardener, and it doesn't require pretending the egg math works when it doesn't.
 
 ## The True Cost of Backyard Eggs
 
@@ -45,7 +45,7 @@ At the low end of feed costs with a DIY coop, backyard eggs can be cost-competit
 
 They are consistently more expensive than commodity eggs at $2-4/dozen.
 
-This is not an argument against keeping chickens. It's an argument for understanding the actual economics rather than repeating the "free eggs" claim that recruits most new chicken keepers. The case for chickens is not cheap eggs. It's a combination of egg quality (the flavor and nutrition of genuinely pasture-supplemented eggs is different from commercial), predictable supply during shortage periods, and the garden integration value that follows.
+This is not an argument against keeping chickens. It's an argument for understanding the actual economics rather than repeating the "free eggs" claim that recruits most new chicken keepers. The case for chickens is not cheap eggs. It's a combination of egg quality (the flavor and nutrition of pasture-supplemented eggs is different from commercial), predictable supply during shortage periods, and the garden integration value that follows.
 
 ## The Garden Integration Value
 
@@ -84,7 +84,7 @@ The most common chicken-garden failure mode is giving chickens access to the wro
 
 This system captures pest control and tillage value during fallow periods without the crop damage that accompanies unrestricted garden access.
 
-**Chicken tractors:** a bottomless pen that can be moved across the garden. A 4x8 foot chicken tractor accommodates 2-3 hens and can be moved every 2-3 days to a fresh area. The confined flock concentrates manure and scratching in the tractor footprint, then moves on. In 2-3 passes over a garden bed, a chicken tractor deposits substantial manure and completes significant soil cultivation.
+**Chicken tractors:** a bottomless pen that can be moved across the garden. A 4x8 foot chicken tractor accommodates 2-3 hens and can be moved every 2-3 days to a fresh area. The confined flock concentrates manure and scratching in the tractor footprint, then moves on. In 2-3 passes over a garden bed, a chicken tractor deposits a concentrated layer of manure and works the soil thoroughly.
 
 ## Breed Selection
 
@@ -92,7 +92,7 @@ Not all breeds are equal for the integrated garden-and-eggs purpose.
 
 **Dual-purpose breeds** (Rhode Island Red, Plymouth Rock, Australorp, Orpington) lay 200-280 eggs per year and have a substantial body weight that makes them worthwhile as meat birds at the end of their productive laying life. They're docile, hardy, and appropriate for most backyard situations.
 
-**High-production breeds** (ISA Brown, Hy-Line, Leghorn) lay 300-320 eggs per year - significantly more than dual-purpose breeds - but are smaller bodied, sometimes more nervous, and have a shorter productive laying lifespan before production drops off sharply. If maximum egg production per input dollar is the priority, ISA Browns are the most productive small-flock laying hen available.
+**High-production breeds** (ISA Brown, Hy-Line, Leghorn) lay 300-320 eggs per year - above the 200-280 range of dual-purpose breeds - but are smaller bodied, sometimes more nervous, and have a shorter productive laying lifespan before production drops off sharply. If maximum egg production per input dollar is the priority, ISA Browns are the most productive small-flock laying hen available.
 
 **Heritage breeds** (Dominique, Buckeye, Java) are slower-growing, lower-producing, and more expensive as chicks, but are often better-suited to free-range conditions where they forage actively for insects and plant material. If garden integration and pest foraging are primary goals, more active foraging breeds may be worth considering.
 

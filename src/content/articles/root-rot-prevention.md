@@ -41,7 +41,7 @@ Pull the plant from the soil with a careful hand-dig, getting as much root mass 
 **Severity assessment:**
 - Less than 25% of roots affected: plant can likely recover if soil conditions are corrected
 - 25-50% of roots affected: recovery possible with treatment; remove plant from soil, trim affected roots, replant in well-draining mix
-- More than 50% of roots affected: the plant is unlikely to produce meaningful yield; remove and dispose
+- More than 50% of roots affected: the plant is unlikely to produce a useful yield; remove and dispose
 
 When examining roots, also look at the crown - the point where stem transitions to root. Dark brown discoloration at the crown, or a soft, collapsed crown even if some roots appear healthy, indicates that the pathogen has reached the structural base of the plant.
 
@@ -84,7 +84,7 @@ Recommended perlite ratios by container use:
 - Tomatoes, peppers, cucumbers in containers: 20-25% perlite
 - Plants in containers that will be watered daily or left in standing saucers: 25-30% perlite
 
-Coarse builder's sand is sometimes recommended as a drainage amendment but requires large quantities to be effective (at least 50% of the mix) and adds significant weight. Perlite achieves the same result at much lower volume and weight.
+Coarse builder's sand is sometimes recommended as a drainage amendment but requires large quantities to be effective (at least 50% of the mix) and adds real weight to containers. Perlite achieves the same result at much lower volume.
 
 **Container drainage holes:** every container must have functioning drainage holes. Nursery pots placed inside decorative containers without drainage holes create an enclosed reservoir that fills with water during normal watering. Check that drainage holes are clear - roots can block holes in established plants. Running a skewer through the drainage hole confirms it's open.
 

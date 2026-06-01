@@ -76,7 +76,7 @@ Cilantro (*Coriandrum sativum*) bolts on heat accumulation faster than almost an
 
 Day length plays a secondary role in cilantro bolting, but heat is the dominant trigger. This is why cilantro does not bolt in cool Mediterranean or Pacific Northwest summers - the temperature accumulation never triggers the response - but bolts rapidly in hot midwestern and southern summers.
 
-**Using bolted cilantro:** a bolted cilantro plant that has flowered is producing coriander seed. Don't pull it. The white umbrella flowers attract beneficial insects. After the seeds turn tan-brown and dry on the stem, harvest by cutting the seed heads into a paper bag. Dried coriander seed from your own plants is genuinely good - the volatile oils in fresh homegrown seed are more complex than commercial coriander.
+**Using bolted cilantro:** a bolted cilantro plant that has flowered is producing coriander seed. Don't pull it. The white umbrella flowers attract beneficial insects. After the seeds turn tan-brown and dry on the stem, harvest by cutting the seed heads into a paper bag. Dried coriander seed from your own plants is worth keeping - the volatile oils in fresh homegrown seed are more complex than commercial coriander.
 
 **Prevention:**
 - Succession sow every 3 weeks; accept that each succession lasts only 4-6 weeks in heat

@@ -34,7 +34,7 @@ The Northeast-to-Midwest spread on cherry tomatoes is $0.95/lb. Across a 10-plan
 
 ## Organic vs. Conventional: The Table Worth Checking
 
-The price question isn't just regional - it's also about what you're comparing your garden output to. If you grow without synthetic pesticides and fertilizers, your produce is a substitute for organic retail, not conventional. The premium is significant enough to change the ROI math on several crops.
+The price question isn't just regional - it's also about what you're comparing your garden output to. If you grow without synthetic pesticides and fertilizers, your produce is a substitute for organic retail, not conventional. The premium is large enough to change the ROI math on several crops - premiums of 68-97% across common vegetables, per USDA ERS data.
 
 Organic retail price premiums, USDA ERS *Organic Price Review* (2022-2023):
 
@@ -94,7 +94,7 @@ The most accurate price for your ROI calculation is the price at the store you w
 
 A few things to track:
 - **Price per pound**, not price per item. Tomatoes sold "3 for $5" need to be converted: weigh three, divide $5 by the total weight.
-- **Organic vs. conventional**. If you grow without pesticides, compare to organic retail prices. Organic basil runs $2-4/oz at most grocery stores - that is $32-64/lb, versus $15/lb conventional. The organic comparison changes the math significantly.
+- **Organic vs. conventional**. If you grow without pesticides, compare to organic retail prices. Organic basil runs $2-4/oz at most grocery stores - that is $32-64/lb, versus $15/lb conventional. The organic comparison changes the math.
 - **Seasonal pricing**. Tomatoes in August cost less than tomatoes in February. If you are growing summer crops, compare to summer retail prices - not the off-season premium you see in winter.
 
 The app lets you override the default price per crop. Once you have your local number, enter it. The ROI figures update immediately.

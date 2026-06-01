@@ -6,7 +6,7 @@ publishDate: 2026-04-22
 featured: false
 ---
 
-Spend twenty minutes in any health food store and you'll find bottles making claims that the clinical literature doesn't support. The gap between what an herb is marketed for and what human trials have actually tested is significant for most medicinal plants. That doesn't mean these herbs are worthless - some have genuine evidence, and nearly all of them are cheap and easy to grow. But the evidence varies a lot by herb, and it's worth knowing what grade you're working with before you decide what to plant.
+Spend twenty minutes in any health food store and you'll find bottles making claims that the clinical literature doesn't support. The gap between what an herb is marketed for and what human trials have actually tested is wide for most medicinal plants. That doesn't mean these herbs are worthless - some have real evidence, and nearly all of them are cheap and easy to grow. But the evidence varies a lot by herb, and knowing what grade you're working with matters before you decide what to plant.
 
 This breakdown covers seven common medicinal and tea herbs: what the clinical evidence actually says, what the National Center for Complementary and Integrative Health (NCCIH, nccih.nih.gov) rates each one, and what the economics look like for a home grower. The economics case comes first, because for many of these herbs the primary value is practical rather than medicinal - a pound of home-dried chamomile makes a lot of tea regardless of what you think about its anxiolytic properties.
 
@@ -64,7 +64,7 @@ In vitro evidence for antiviral activity - specifically against *Herpes simplex*
 
 That said, it makes an excellent tea. The fresh-crushed leaf smells strongly of lemon, the tea is pleasant, and if the anxiolytic effect is real at tea doses - even partially - it's a low-risk addition to an evening routine.
 
-**Growing:** Perennial in zones 4-9. Lemon balm is a member of the mint family and spreads aggressively by seed and rhizome - plant it where you can manage the spread, or give it its own contained bed. Harvest before flowering; volatile oil content peaks in the vegetative stage and drops significantly once the plant bolts. An established plant can yield 0.5-2 lb dried leaf per season depending on how aggressively you cut it back.
+**Growing:** Perennial in zones 4-9. Lemon balm is a member of the mint family and spreads aggressively by seed and rhizome - plant it where you can manage the spread, or give it its own contained bed. Harvest before flowering; volatile oil content peaks in the vegetative stage and drops once the plant bolts. An established plant can yield 0.5-2 lb dried leaf per season depending on how aggressively you cut it back.
 
 **Yield and value:** 0.5-2.0 lb dried leaf per established plant per season. Retail: $10-18/lb. Internal link: [lemon balm crop page](/crops/lemon-balm/).
 
@@ -72,7 +72,7 @@ That said, it makes an excellent tea. The fresh-crushed leaf smells strongly of 
 
 **Evidence grade: Strongest clinical evidence of any herb on this list; NCCIH rates evidence as "good" for IBS; controlled trial support for tension headache.**
 
-Peppermint is the outlier in this group. The evidence for two specific uses - irritable bowel syndrome (IBS) and tension headache - is genuinely strong by herbal medicine standards.
+Peppermint is the outlier in this group. The evidence for two specific uses - irritable bowel syndrome (IBS) and tension headache - is strong by herbal medicine standards.
 
 For IBS: enteric-coated peppermint oil capsules have been tested in multiple randomized controlled trials. A meta-analysis by Khanna et al. (2014) in the *Journal of Clinical Gastroenterology* analyzed nine trials and found consistent benefit for IBS symptom relief, with peppermint oil outperforming placebo across multiple symptom measures. NCCIH rates this evidence as "good." The mechanism is understood: menthol relaxes smooth muscle in the gut wall by blocking calcium channels. Enteric coating matters - uncoated capsules release in the stomach and can cause heartburn; the therapeutic effect for IBS requires delivery to the small intestine and colon.
 
@@ -80,7 +80,7 @@ Important caveat: the evidence is for enteric-coated peppermint oil capsules at 
 
 For tension headache: a controlled trial by Göbel et al. (1994) in *Cephalalgia* found that topical application of a 10% peppermint oil preparation reduced headache intensity comparably to 500mg acetaminophen. The mechanism is the TRPM8 cold-receptor activation by menthol, which creates a competing sensory signal. This is topical application, not ingestion.
 
-**Growing:** Peppermint is a sterile hybrid (*Mentha x piperita*) that spreads by rhizome, not seed. You need to start from a transplant or division. It must be contained - either in a pot or with a root barrier - or it will colonize a significant portion of your garden within two seasons. Harvest before the plant flowers for highest menthol content; menthol concentration drops after flowering. An established bed yields 1-3 lb dried leaf per season.
+**Growing:** Peppermint is a sterile hybrid (*Mentha x piperita*) that spreads by rhizome, not seed. You need to start from a transplant or division. It must be contained - either in a pot or with a root barrier - or it will take over a corner of your garden within two seasons. Harvest before the plant flowers for highest menthol content; menthol concentration drops after flowering. An established bed yields 1-3 lb dried leaf per season.
 
 **Yield and value:** 1-3 lb dried leaf per established bed per season. Retail: $8-15/lb. Internal links: [peppermint crop page](/crops/peppermint/), [mint crop page](/crops/mint/).
 
@@ -161,7 +161,7 @@ For roots (valerian, ashwagandha): fall of the plant's second or third year for 
 
 ### Drying temperature matters
 
-Lower temperatures preserve volatile compounds. A dehydrator set to 95-110°F retains essential oils better than a 135°F setting - the difference is significant for chamomile, lavender, and peppermint, which contain volatile terpenes that evaporate at higher temperatures. Air drying - bundled stems or spread flowers hung in a warm, dry, shaded location with good airflow - is acceptable for aerial parts (flowers, leaves) and preserves delicate volatile compounds that heat degrades. Drying time is 1-3 weeks depending on humidity and temperature.
+Lower temperatures preserve volatile compounds. A dehydrator set to 95-110°F retains essential oils better than a 135°F setting - the difference matters for chamomile, lavender, and peppermint, which contain volatile terpenes that evaporate at higher temperatures. Air drying - bundled stems or spread flowers hung in a warm, dry, shaded location with good airflow - is acceptable for aerial parts (flowers, leaves) and preserves delicate volatile compounds that heat degrades. Drying time is 1-3 weeks depending on humidity and temperature.
 
 Air drying is not suitable for thick roots. Valerian and ashwagandha roots need heat to dry through before they mold internally. Slice roots to 1/4 inch thickness and dry at 110-125°F in a dehydrator until completely dry throughout.
 
@@ -189,7 +189,7 @@ Other herbs worth considering beyond these seven: [catnip](/crops/catnip/) (*Nep
 
 If you're planting a first medicinal herb garden, chamomile + lemon balm + peppermint is the practical starting point. All three have the easiest growing requirements on this list. Chamomile is a direct-sow annual that self-seeds after year one. Lemon balm and peppermint are perennials that establish without much intervention and spread on their own.
 
-That combination also covers the best-evidenced categories: peppermint for digestive use (the one herb on this list where the clinical evidence is genuinely strong), chamomile for the anxiety/calming category (modest but real trial evidence), and lemon balm as a pleasant addition to the tea rotation regardless of its evidence grade.
+That combination also covers the best-evidenced categories: peppermint for digestive use (the one herb on this list where the clinical evidence is strong), chamomile for the anxiety/calming category (modest but real trial evidence), and lemon balm as a pleasant addition to the tea rotation regardless of its evidence grade.
 
 Echinacea is worth growing if you have a perennial bed that needs filling - it's a handsome plant (*E. purpurea* is a common native garden perennial), the growing investment is low, and the cold-duration evidence, while inconsistent, isn't zero. Just don't build expectations around it doing more than the trials show.
 

@@ -9,7 +9,7 @@ publishDate: 2026-05-05
 
 Garden ROI is not a flat number. [Tomatoes](/crops/tomato/) you grow in August replace $1.89/lb produce. Tomatoes preserved and used in January replace $3.50/lb produce. The seasonal price gap is where the real financial case for preservation lives, and most home gardeners either don't know the gap exists or don't think to calculate it.
 
-The USDA Economic Research Service publishes monthly retail price data by commodity showing exactly how much prices move across the calendar year (USDA ERS Vegetables and Pulses Yearbook, ers.usda.gov/topics/crops/vegetables-pulses). For some crops, the winter-to-summer price swing is modest - 20 to 30 percent. For others, it exceeds 100 percent. The practical consequence: a pound of garden tomatoes preserved in August is not worth the same dollar amount it would be if you ate it fresh in August. It's worth what you'd pay for a tomato in January. Which is substantially more.
+The USDA Economic Research Service publishes monthly retail price data by commodity showing exactly how much prices move across the calendar year (USDA ERS Vegetables and Pulses Yearbook, ers.usda.gov/topics/crops/vegetables-pulses). For some crops, the winter-to-summer price swing is modest - 20 to 30 percent. For others, it exceeds 100 percent. The practical consequence: a pound of garden tomatoes preserved in August is not worth the same dollar amount it would be if you ate it fresh in August. It's worth what you'd pay for a tomato in January. Which is more - roughly $3.50/lb versus $1.89/lb in August, per USDA ERS data.
 
 ## The Seasonal Price Swing by Crop
 
@@ -52,7 +52,7 @@ Here's how the math works for garden-grown tomatoes specifically.
 
 Each pound of garden tomatoes you preserve in August and use in January returns approximately $3.30 in grocery offset value. For context, a single productive indeterminate tomato plant can yield 12-18 lbs over the season (USDA ARS research on *Solanum lycopersicum* yield under garden conditions). If you preserve 20 lbs from a two-plant plot, you've captured roughly $66 in winter grocery offset - from seed and soil investment that probably cost you $8-12.
 
-The same math at the other end of the table looks different. Zucchini preserved in August at summer prices ($0.60-1.00/lb at retail) and eaten in January replaces $1.50-2.50/lb produce. Your growing and preservation cost per pound is about the same ($0.20/lb), but the arbitrage is only $1.30-2.30/lb. Zucchini preservation has positive returns, but substantially smaller ones than tomatoes or berries.
+The same math at the other end of the table looks different. Zucchini preserved in August at summer prices ($0.60-1.00/lb at retail) and eaten in January replaces $1.50-2.50/lb produce. Your growing and preservation cost per pound is about the same ($0.20/lb), but the arbitrage is only $1.30-2.30/lb. Zucchini preservation has positive returns, but much smaller ones than tomatoes or berries.
 
 This isn't an argument against preserving zucchini. It's context for prioritizing your freezer space and preservation time.
 
@@ -77,7 +77,7 @@ The summer retail price is a proxy for what you could buy the same produce for i
 | Cucumbers (pickled) | $1.60/lb | $0.65/lb | $0.95 | $0.60 (pickling brine + lids) | $1.00/lb |
 | Basil (fresh to dried) | $25/lb dried equiv. | $16/lb fresh | Complex - see below | $4-6/lb dried | see sell-or-preserve section |
 
-Berries, at first glance, have the highest net arbitrage per pound from garden production. But most home gardens produce relatively small berry quantities - a 4x4 raised bed of strawberries might yield 8-12 lbs. The total dollar capture is meaningful but not the same as 50 lbs of tomatoes from a dedicated bed.
+Berries, at first glance, have the highest net arbitrage per pound from garden production. But most home gardens produce relatively small berry quantities - a 4x4 raised bed of strawberries might yield 8-12 lbs. The total dollar capture is real but not the same as 50 lbs of tomatoes from a dedicated bed.
 
 The crops that don't belong in this table are the ones that don't actually benefit from preservation at all. Potatoes, onions, winter squash, garlic, and carrots store fine in a root cellar or cool dark pantry at near-zero cost - no energy, no bags, no processing. Their "preservation cost" is essentially zero, and you don't need to choose between freezing and canning them. If you have a basement corner that stays 40-55°F and dry, potatoes store 4-6 months without any intervention (Cornell Cooperative Extension, "Storing Vegetables and Fruits at Home," 2022). That's a different calculation than a crop that either gets processed or rots.
 
@@ -121,9 +121,9 @@ The seasonal swings in the table above are national averages. Your actual winter
 
 USDA AMS provides weekly terminal market price reports for major distribution hubs - Chicago, New York, Atlanta, Los Angeles, and others (ams.usda.gov/market-news, Market News daily reports). These reports show that winter produce prices in northern markets consistently run higher than the national averages, because shipping costs from California, Florida, and Mexico add to the base price, and because local production in cold climates has fully stopped.
 
-A Zone 4 gardener in Minnesota preserving tomatoes for winter is replacing January produce that may retail at $4.00-4.50/lb in their market, not $3.00/lb. That shifts the preservation arbitrage from $3.05/lb to $3.80-4.30/lb - a meaningful increase in the case for putting up food.
+A Zone 4 gardener in Minnesota preserving tomatoes for winter is replacing January produce that may retail at $4.00-4.50/lb in their market, not $3.00/lb. That shifts the preservation arbitrage from $3.05/lb to $3.80-4.30/lb - a real increase in the case for putting up food.
 
-A Zone 8 gardener in the Pacific Northwest or parts of the South faces a different situation. Year-round local production doesn't stop. Winter farmers markets operate. Field-grown greens, brassicas, and root vegetables are available locally even in January. Their winter produce prices are closer to the national summer averages, which compresses the preservation arbitrage significantly.
+A Zone 8 gardener in the Pacific Northwest or parts of the South faces a different situation. Year-round local production doesn't stop. Winter farmers markets operate. Field-grown greens, brassicas, and root vegetables are available locally even in January. Their winter produce prices are closer to the national summer averages, which compresses the preservation arbitrage.
 
 The practical implication: if you're in Zone 4-5 and within reasonable distance of the Canadian border, your preservation economics are better than the averages in this article suggest. If you're in Zone 7-9 with mild winters and year-round local supply, the financial case for preservation is real but smaller.
 

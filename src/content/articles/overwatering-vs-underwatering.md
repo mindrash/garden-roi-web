@@ -85,7 +85,7 @@ The same watering schedule that works in June becomes overwatering in September.
 
 **Temperature:** evapotranspiration (the combined water loss from soil evaporation and plant transpiration) roughly doubles for every 18°F increase in temperature within the normal growing range. A plant needing 1 inch per week at 70°F needs closer to 2 inches per week at 88°F. Most gardeners adjust qualitatively and correctly; the error is maintaining a fixed calendar schedule regardless of weather.
 
-**Wind:** windy days dramatically increase transpiration. A hot, windy day in July may require twice the water of a calm day at the same temperature.
+**Wind:** windy days increase transpiration sharply. A hot, windy day in July may require twice the water of a calm day at the same temperature.
 
 **Plant maturity and canopy size:** a tomato seedling in May needs far less water than the same plant in full canopy in August. As plant size increases through the season, water requirements increase even if temperatures remain constant.
 
@@ -97,7 +97,7 @@ The same watering schedule that works in June becomes overwatering in September.
 
 Inexpensive probe meters (under $15) sold at garden centers and online are largely unreliable. They measure electrical conductivity at the probe tip and translate this to a "moisture" reading, but conductivity is affected by fertilizer salts, soil compaction around the probe, and soil type - all of which produce false readings. These meters give a "wet" reading in fertilized but dry soil, and a "dry" reading in low-conductivity soil that is adequately moist. Independent consumer testing has consistently found these meters unreliable at price points under $20.
 
-Meters in the $40-80 range (Blumat, Sonkir professional grade, Tanos meters sold for professional horticulture use) use different measurement technology and are genuinely useful for monitoring soil moisture in containers and raised beds. For serious container growers or anyone managing multiple containers, a quality meter eliminates guesswork.
+Meters in the $40-80 range (Blumat, Sonkir professional grade, Tanos meters sold for professional horticulture use) use different measurement technology and are reliable for monitoring soil moisture in containers and raised beds. For serious container growers or anyone managing multiple containers, a quality meter eliminates guesswork.
 
 For most home gardeners with a small number of in-ground beds and containers: the finger test combined with the weight test for containers is sufficient. Practice is free, and accuracy improves rapidly with experience.
 

@@ -7,7 +7,7 @@ featured: false
 hero_image: /images/articles/squash-vine-borer.webp
 ---
 
-By mid-July in most of the US, a healthy zucchini plant that was producing well will suddenly wilt. Not slowly - dramatically, the whole plant, by noon. You check the soil: plenty of moisture. You check for visible pests: nothing obvious. Then you look at the base of the main stem and find the entry point: a small hole surrounded by frass, the powdery orange-green sawdust that is the diagnostic signature of squash vine borer (*Melittia cucurbitae*).
+By mid-July in most of the US, a healthy zucchini plant that was producing well will suddenly wilt. Not slowly - the whole plant, by noon. You check the soil: plenty of moisture. You check for visible pests: nothing obvious. Then you look at the base of the main stem and find the entry point: a small hole surrounded by frass, the powdery orange-green sawdust that is the diagnostic signature of squash vine borer (*Melittia cucurbitae*).
 
 The larvae are inside the stem. Once a plant shows symptoms of severe infestation, recovery is difficult. But with early detection, you can save the plant. And the better long-term strategy isn't to fight the borer every year - it's to plant around its life cycle.
 
@@ -19,7 +19,7 @@ The larvae are inside the stem. Once a plant shows symptoms of severe infestatio
 
 **Two generations in southern US (zones 7-9, especially zone 8-9):** A first generation emerges May-June; a second generation emerges August-September. This means plants that escape the first generation can still be hit by the second. In Florida and Gulf Coast regions, damage from second-generation borers can kill fall squash plantings.
 
-This timing difference changes the control strategy significantly:
+This timing difference changes the control strategy:
 
 - **Zone 5-6:** the moth flight window is roughly June 25 - July 25. Planting after August 1 (a second succession) produces plants that grow and produce after all adult borers have died.
 - **Zone 7-8:** two flight windows mean both spring and late-summer plantings are at risk. Row cover during the flight window is the primary prevention.
@@ -41,7 +41,7 @@ This timing difference changes the control strategy significantly:
 
 Eggs are easier to manage than larvae. Check the main stem, petiole bases, and undersides of leaves near the stem every 3-5 days from late June through late July. Eggs are small but visible: oval, flat, reddish-brown, pressed tight against the stem surface. They feel slightly raised when you drag a fingernail across them.
 
-When you find an egg, simply scrape it off and crush it. One egg removed is one larva that won't enter the stem. In a garden with moderate vine borer pressure, weekly scouting and egg removal can substantially reduce infestation levels without any spray or surgery.
+When you find an egg, simply scrape it off and crush it. One egg removed is one larva that won't enter the stem. In a garden with moderate vine borer pressure, weekly scouting and egg removal can cut infestation levels without any spray or surgery.
 
 This is the lowest-effort control available and is often overlooked because it requires being at the plant on a regular schedule rather than reacting to visible damage.
 
@@ -102,7 +102,7 @@ Squash vine borer preferentially attacks *Cucurbita pepo* species - zucchini, ac
 
 **Resistant species:**
 
-*Cucurbita moschata* - butternuts, Long Island Cheese pumpkin, Seminole pumpkin - have much harder, denser stem tissue. Squash vine borer can infest these but has significantly more difficulty and is much less likely to kill the plant. Resistance is not immunity, but the risk is dramatically lower.
+*Cucurbita moschata* - butternuts, Long Island Cheese pumpkin, Seminole pumpkin - have much harder, denser stem tissue. Squash vine borer can infest these but has more difficulty penetrating the stems and is much less likely to kill the plant. Resistance is not immunity, but the risk is far lower.
 
 *Cucurbita argyrosperma* (cushaw squash) - the third major squash species - is similarly resistant. 'Tennessee Sweet Potato' and 'Green Striped Cushaw' are regional heirlooms with good borer tolerance.
 

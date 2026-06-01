@@ -16,7 +16,7 @@ Integrated Pest Management (IPM) is the decision-making framework developed by u
 
 For your home garden, the EIL math works differently. You're not calculating input cost against commodity price. You're asking a simpler question: will this pest population, if left alone for another few days, actually reduce the amount of food I harvest? For most pest-plant combinations and most population sizes you'll see in a home garden, the honest answer is no - not yet.
 
-The practical translation of IPM for home vegetable gardens comes down to three steps. First, correctly identify the pest before doing anything. Second, assess whether the current population is at, approaching, or well below the point where it causes meaningful yield loss. Third, check for the presence of natural enemies before reaching for any treatment. Parasitic wasps, ladybeetle adults and larvae, lacewing larvae, and predatory ground beetles are present in most gardens that haven't been treated with broad-spectrum insecticides in the past few weeks. If they're working, let them work.
+The practical translation of IPM for home vegetable gardens comes down to three steps. First, correctly identify the pest before doing anything. Second, assess whether the current population is at, approaching, or well below the point where it causes real yield loss. Third, check for the presence of natural enemies before reaching for any treatment. Parasitic wasps, ladybeetle adults and larvae, lacewing larvae, and predatory ground beetles are present in most gardens that haven't been treated with broad-spectrum insecticides in the past few weeks. If they're working, let them work.
 
 The common mistake is conflating visible pest presence with a treatment situation. Some damage on leaves is normal. A garden that looks like a botanical illustration with zero insect feeding is a garden that has been chemically sterilized, and that's not a healthy system.
 
@@ -53,7 +53,7 @@ The hardest judgment call in garden pest management is not which treatment to us
 
 **Days 1-2:** Observe. Look specifically for signs of natural predator activity. *Aphidius* wasp mummies in aphid colonies. Ladybeetle adults or their alligator-shaped orange-and-black larvae. Lacewing eggs (on tiny stalks on leaf surfaces). *Cotesia* cocoons on hornworms. Encarsia activity in whitefly populations shows up as darkened, parasitized nymphs on leaf undersides. If predators are present and active, wait another 3 to 5 days before reassessing.
 
-**Day 3 (or later):** If population is at threshold and no predator activity is visible, act. Start with the least disruptive effective response - water spray for aphids, hand-picking for hornworms and Colorado potato beetle, iron phosphate bait for slugs. Reserve insecticides for situations where physical and biological controls have genuinely failed.
+**Day 3 (or later):** If population is at threshold and no predator activity is visible, act. Start with the least disruptive effective response - water spray for aphids, hand-picking for hornworms and Colorado potato beetle, iron phosphate bait for slugs. Reserve insecticides for situations where physical and biological controls have failed.
 
 The reason to wait 48 to 72 hours before any intervention - even water spray - is that beneficial insect response time to a new pest colony is measured in days, not hours. *Aphidius* wasps locate aphid colonies partly through volatile compounds the aphids release and partly through plant stress signals. The wasps are there; they need time to find the colony and start laying eggs. Spraying before they arrive eliminates the option of letting them work.
 
@@ -61,7 +61,7 @@ If you've applied any broad-spectrum insecticide in the past three to four weeks
 
 ## Treatments That Make Problems Worse
 
-Pheromone beetle traps for Japanese beetle are sold widely at garden centers and genuinely do catch beetles - thousands of them. The problem documented in research from the University of Kentucky is that the trap pheromone attracts beetles from a much larger area than your garden, and a significant percentage of the beetles attracted to the trap land on your plants before they reach the trap. Net effect: more Japanese beetle damage on treated properties than on untreated neighboring properties. Do not buy or use these traps.
+Pheromone beetle traps for Japanese beetle are sold widely at garden centers and do catch beetles - thousands of them. The problem documented in research from the University of Kentucky is that the trap pheromone attracts beetles from a much larger area than your garden, and a large share of the beetles attracted to the trap land on your plants before they reach the trap. Net effect: more Japanese beetle damage on treated properties than on untreated neighboring properties. Do not buy or use these traps.
 
 Broad-spectrum pyrethroids applied preventively - before a pest problem exists - consistently produce worse pest outcomes by midsummer than no treatment at all. The fast-knockdown chemistry kills generalist predators along with any pests, and those predator populations recover more slowly than the pest populations do. By August, gardens that were sprayed preventively in May often have more aphids, more spider mites, and more whitefly than gardens that received no treatment.
 

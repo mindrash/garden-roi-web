@@ -60,7 +60,7 @@ The setup: a plastic storage bin (18 to 27 gallon, opaque) with drainage holes i
 
 At room temperature (65-75°F), a pound of worms processes roughly half their body weight in scraps per day - about 0.5 lbs/day for a 1-lb colony. At that rate, a modest household's vegetable scraps feed the bin without over- or under-loading it. Finished vermicast is ready in 3-6 months, when bedding has been mostly converted and worms have moved toward fresh food.
 
-The economic case is different from hot composting. You are not replacing cubic yards of compost - a 2-square-foot bin produces 2-4 gallons of finished vermicast per cycle. But vermicast retail price is $20-50 per cubic foot (versus $35-60 per cubic yard for bulk compost), because vermicast has significantly higher microbial density and plant-available nutrient concentrations than thermophilic compost. USDA ARS research on vermicast applications documents improved germination rates and plant growth in greenhouse trials compared to equivalent volumes of finished compost (Atiyeh et al., *Bioresource Technology*, 2000).
+The economic case is different from hot composting. You are not replacing cubic yards of compost - a 2-square-foot bin produces 2-4 gallons of finished vermicast per cycle. But vermicast retail price is $20-50 per cubic foot (versus $35-60 per cubic yard for bulk compost), because vermicast has much higher microbial density and plant-available nutrient concentrations than thermophilic compost. USDA ARS research on vermicast applications documents improved germination rates and plant growth in greenhouse trials compared to equivalent volumes of finished compost (Atiyeh et al., *Bioresource Technology*, 2000).
 
 Practical limits: worm bins do not accept meat, dairy, cooked food, or anything with oil. The bin is odor-free when managed correctly; anaerobic conditions (too wet, wrong inputs) produce sulfur odor. The solution is almost always better aeration and removing offending material.
 
@@ -73,7 +73,7 @@ People consistently undercount the time in composting guides. Here's a realistic
 - **Inputs management:** 10–15 minutes per week to collect kitchen scraps, bring out clippings, monitor moisture
 - **Harvesting finished compost:** 30–60 minutes per batch to screen and move finished material
 
-Total annual time for 3 to 4 hot cycles: roughly 15 to 25 hours. If you value your time at $15/hour, that's $225 to $375 in labor to replace $160 to $450 in compost purchases. The economics are tight at the low end, positive at the high end, and improve significantly if you're replacing bulk-priced cubic yards rather than bagged product.
+Total annual time for 3 to 4 hot cycles: roughly 15 to 25 hours. If you value your time at $15/hour, that's $225 to $375 in labor to replace $160 to $450 in compost purchases. The economics are tight at the low end, positive at the high end, and improve further if you're replacing bulk-priced cubic yards rather than bagged product.
 
 The cold pile changes the math entirely. For people with large leaf volume and modest compost needs, a no-turn cold pile requires almost no time and still produces finished material - just slowly.
 
@@ -81,7 +81,7 @@ The cold pile changes the math entirely. For people with large leaf volume and m
 
 The direct cost replacement is only part of the ROI. Finished compost applied to garden beds delivers soil improvements that compound over time in ways that purchased fertilizer doesn't replicate.
 
-In sandy soils, organic matter additions improve water retention measurably. Research from Penn State Extension documents a 20 to 30 percent improvement in water-holding capacity in amended sandy soils, which translates to less frequent watering and reduced stress on shallow-rooted crops. For [tomatoes](/crops/tomato/) or [kale](/crops/kale/), both of which respond poorly to inconsistent moisture, that improvement is agronomically significant.
+In sandy soils, organic matter additions improve water retention measurably. Research from Penn State Extension documents a 20 to 30 percent improvement in water-holding capacity in amended sandy soils, which translates to less frequent watering and reduced stress on shallow-rooted crops. For [tomatoes](/crops/tomato/) or [kale](/crops/kale/), both of which respond poorly to inconsistent moisture, that 20-30% improvement matters for crop production.
 
 In clay soils, compost improves aggregate structure and drainage. The mechanism is microbial - organic matter feeds soil organisms that produce glomalin and other binding agents, which create the crumb structure that allows water and air to move through otherwise compacted soil. This takes multiple seasons of consistent compost applications to develop, but once established, it reduces inputs needed to maintain plant health.
 
@@ -95,7 +95,7 @@ Finished compost is approximately 1% nitrogen by dry weight (USDA ARS). A cubic 
 
 That number is small, and it should be. Compost is not a nitrogen fertilizer, and framing it as one overstates its value. The actual fertility case for compost is broader: it supplies phosphorus and potassium at rates that do reduce synthetic fertilizer needs, it feeds the soil biology that makes existing nutrients accessible to plants, and it builds the organic matter percentage that controls water retention and cation exchange capacity. A garden with 4-5% organic matter in the soil handles drought, nutrient cycling, and drainage differently than one at 1-2%. You cannot replicate that with a fertilizer.
 
-Penn State Extension's fertility research on vegetable gardens documents that regular compost applications at 1 inch per season over multiple years maintain soil organic matter levels that significantly reduce fertilizer application rates. The year-on-year compounding of soil improvement is where the ROI lives - not in any single year's nitrogen replacement value.
+Penn State Extension's fertility research on vegetable gardens documents that regular compost applications at 1 inch per season over multiple years maintain soil organic matter levels that reduce fertilizer application rates over time. The year-on-year compounding of soil improvement is where the ROI lives - not in any single year's nitrogen replacement value.
 
 ## What Not to Compost
 

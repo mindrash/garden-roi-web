@@ -35,7 +35,7 @@ Each trap needs to be:
 
 **The substitute:** commercial slug trap attractants (fermentation-based products sold as bait inserts) can extend time between changes to 7-10 days, which makes the math more reasonable. But at that point, the attractant cost + container cost + time approaches the cost of iron phosphate bait applied twice per season.
 
-Beer traps are worth using for spot control in a small area - around a container with a transplant, or at the base of a strawberry planting. They are impractical as a primary control method across any meaningful garden area.
+Beer traps are worth using for spot control in a small area - around a container with a transplant, or at the base of a strawberry planting. They are impractical as a primary control method across any full garden bed.
 
 ## Copper Tape and Barriers: Marginal Evidence, Fails in Wet Conditions
 
@@ -65,7 +65,7 @@ The narrow window where DE is effective is the morning after a wet night before 
 
 Food-grade DE can be used in greenhouse or hoop house environments where you control moisture. For open-air gardens in temperate climates, DE is a poor choice for slug control. The applications that do work: in a cold frame, under a low tunnel, or around a container that you're hand-watering carefully.
 
-**Safety note:** food-grade DE is non-toxic to humans and pets. Pool-grade DE uses calcined (heat-treated) silica that is significantly more hazardous and should not be used in gardens.
+**Safety note:** food-grade DE is non-toxic to humans and pets. Pool-grade DE uses calcined (heat-treated) silica that is a respiratory hazard and should not be used in gardens.
 
 ## Salt: Direct Kill, But Not a Control Method
 
@@ -139,7 +139,7 @@ Slug pressure is highest in spring and fall - cool, wet periods with active plan
 
 **Spring:** First priority is protecting transplants and emerging seedlings. A slug can consume an entire seedling overnight. Apply iron phosphate bait when transplanting and within 3-5 days of direct seeding. The seedling stage is the high-risk window.
 
-**Summer:** Heat and dry conditions reduce slug activity significantly in most of the continental US. Irrigated gardens in cool climates (Pacific Northwest, coastal New England) maintain slug pressure through summer. For most warm-summer gardens, June through August pressure is low.
+**Summer:** Heat and dry conditions reduce slug activity sharply in most of the continental US. Irrigated gardens in cool climates (Pacific Northwest, coastal New England) maintain slug pressure through summer. For most warm-summer gardens, June through August pressure is low.
 
 **Fall:** A second peak occurs as temperatures drop and fall rains arrive. Fall brassicas and root vegetables are at risk. Apply bait at the start of the fall gardening season.
 

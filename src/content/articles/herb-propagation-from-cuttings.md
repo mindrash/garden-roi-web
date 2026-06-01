@@ -41,7 +41,7 @@ Take a tip cutting 4-6 inches long from an actively growing stem. Make the cut j
 
 Roots appear within 7-10 days in warm conditions. Once roots are 0.5-1 inch long, transplant to potting mix. Transition the cutting to humidity gradually - basil wilts easily in the days after transplanting from water to soil. Set it in indirect light for the first 3-4 days before moving to full sun.
 
-**The numbers:** A single nursery pot of basil, moderately sized, holds 4-6 stems suitable for cuttings without significantly harming the mother plant. If you buy two pots ($6-8) and take cuttings from both, you can generate 8-12 rooted cuttings. At $3-4/transplant retail value, that's $24-48 in free plant material from an $8 purchase. The rooted cuttings produce full, harvestable plants in 4-6 weeks.
+**The numbers:** A single nursery pot of basil, moderately sized, holds 4-6 stems suitable for cuttings without harming the mother plant. If you buy two pots ($6-8) and take cuttings from both, you can generate 8-12 rooted cuttings. At $3-4/transplant retail value, that's $24-48 in free plant material from an $8 purchase. The rooted cuttings produce full, harvestable plants in 4-6 weeks.
 
 Basil does not overwinter outdoors in most of the continental US - it's a frost-tender annual. However, rooted cuttings taken in September and potted up will survive indoors through winter given a south-facing window and nighttime temperatures above 60°F. This extends the season and provides a head start for the following year. Basil as a houseplant over winter is lower-yielding than an outdoor summer plant but produces enough for fresh use through the cold months.
 
@@ -63,7 +63,7 @@ Mint can also be propagated from stem cuttings in water using the same method as
 
 The propagation method for rosemary is slightly more involved than basil because rosemary does not root as reliably in plain water. Two approaches work:
 
-**Semi-hardwood cuttings in growing medium:** Take 4-6 inch cuttings from the current season's growth in late summer (August-September in most of the US), when the stem has begun to firm up but hasn't fully hardened to woody growth. Strip the lower 2-3 inches of needles. Dip the cut end in rooting hormone powder (IBA, 0.1-0.3% concentration - standard in commercial products like Bonide or Bontone). Insert into a well-draining mix: perlite/peat or perlite/coarse sand in roughly equal parts. Maintain humidity with a plastic bag or humidity dome and keep the medium moist but not wet. Roots form in 4-6 weeks with hormone, 6-10 weeks without. Bottom heat (a seedling heat mat) significantly improves the success rate.
+**Semi-hardwood cuttings in growing medium:** Take 4-6 inch cuttings from the current season's growth in late summer (August-September in most of the US), when the stem has begun to firm up but hasn't fully hardened to woody growth. Strip the lower 2-3 inches of needles. Dip the cut end in rooting hormone powder (IBA, 0.1-0.3% concentration - standard in commercial products like Bonide or Bontone). Insert into a well-draining mix: perlite/peat or perlite/coarse sand in roughly equal parts. Maintain humidity with a plastic bag or humidity dome and keep the medium moist but not wet. Roots form in 4-6 weeks with hormone, 6-10 weeks without. Bottom heat (a seedling heat mat) improves the success rate.
 
 **Layering:** Bend a low-growing stem to the ground without detaching it from the mother plant. Pin it in place with a bent wire or a small rock and mound 2-3 inches of soil over the pinned section. The buried stem roots over 6-8 weeks while still receiving nutrients from the mother plant. Once rooted, sever the stem and transplant. This method requires zero equipment and has near-100% success, but only works if your rosemary plant has accessible low branches.
 
@@ -139,7 +139,7 @@ Break-even occurs in Year 2 even with the $15 startup supply cost. By Year 5, th
 
 The economics above assume you're replacing failed or winter-killed plants. For many gardeners in moderate climates, the perennial herbs - rosemary, thyme, sage, oregano - don't need annual replacement at all once established. The relevant savings are then only about basil, which you'd either overwinter as cuttings indoors or re-buy for $3-4 per season.
 
-The more significant benefit of knowing how to propagate is the ability to scale up. If you want a 20-foot hedge of rosemary, or an entire raised bed of basil, or enough thyme to cover a rock garden, buying transplants for that kind of scale is expensive. Propagating from a single established plant is free. That flexibility has practical value beyond the annual savings calculation.
+The bigger benefit of knowing how to propagate is the ability to scale up. If you want a 20-foot hedge of rosemary, or an entire raised bed of basil, or enough thyme to cover a rock garden, buying transplants for that kind of scale is expensive. Propagating from a single established plant is free. That flexibility has practical value beyond the annual savings calculation.
 
 The other overlooked benefit: when a weather event, pest, or disease kills a plant partway through the season, having rooted cuttings in reserve means you replace it in a week for nothing rather than driving to the nursery and paying $4-8 for a replacement.
 
