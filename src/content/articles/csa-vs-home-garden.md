@@ -23,11 +23,11 @@ The USDA National Agricultural Statistics Service *Local Food Marketing Practice
 
 These are season totals, paid upfront or in 2 to 4 installments. The upfront nature is intentional - it transfers production risk from the farmer to the shareholder. A bad pest year or drought year means you still paid. A bumper year means you get more than the per-week cost implies.
 
-Regional variation is significant. Urban CSAs near major metro areas run 20 to 40 percent higher than rural CSAs. Pacific Coast CSAs run higher than Midwest and Southeast. Certified organic CSAs run 15 to 30 percent higher than conventional. The ranges above are national medians, not peaks.
+Urban CSAs near major metro areas run 20 to 40 percent higher than rural CSAs. Pacific Coast CSAs run higher than Midwest and Southeast. Certified organic CSAs run 15 to 30 percent higher than conventional. The ranges above are national medians, not peaks.
 
 ### CSA Type Variation
 
-Not all CSAs deliver the same value proposition. The standard vegetable CSA described above is the most common format, but four distinct models exist and they differ meaningfully in price, product, and what you can't replicate at home.
+Not all CSAs deliver the same value proposition. The standard vegetable CSA described above is the most common format, but four distinct models exist and they differ in price, product, and what you can't replicate at home.
 
 | CSA type | Typical full-share price | What you get that you can't replicate at home | Best for |
 |---|---|---|---|
@@ -76,7 +76,7 @@ That premium covers farmer labor, land, equipment, and the risk transfer of payi
 
 ## Growing the Same Crops at Home
 
-Matching a CSA full share's output requires a substantial garden. The midsummer box above (approximately 11 pounds of produce) represents roughly what 60 to 100 square feet of intensive raised bed space produces in a peak week.
+Matching a CSA full share's output requires a large garden. The midsummer box above (approximately 11 pounds of produce) represents roughly what 60 to 100 square feet of intensive raised bed space produces in a peak week.
 
 Expanding that to a 20-week season across all crop types - cool season, warm season, fall - requires a garden of 128 to 256 square feet (2 to 4 standard 4x8 raised beds) with good succession planting. That's not a small undertaking.
 
@@ -154,7 +154,7 @@ At Year 10: full CSA $9,000 vs. home garden $2,300 vs. hybrid $5,800. The gap is
 
 **Expertise.** The farm has solved problems you haven't encountered yet. They know which tomato variety resists late blight in your region. They know the local pest pressure calendar. That expertise is bundled into the subscription price.
 
-**Season extension.** CSA farms typically have hoophouses or high tunnels extending their season 4 to 8 weeks beyond what a home garden can match. April spinach and November salad mix from a CSA is genuinely hard to replicate at home without similar infrastructure.
+**Season extension.** CSA farms typically have hoophouses or high tunnels extending their season 4 to 8 weeks beyond what a home garden can match. April spinach and November salad mix from a CSA is hard to replicate at home without similar infrastructure.
 
 ---
 

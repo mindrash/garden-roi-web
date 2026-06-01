@@ -9,7 +9,7 @@ hero_image: /images/articles/wasabi-roi-analysis.webp
 
 Almost everything labeled "wasabi" in American restaurants and supermarkets is not wasabi. It's a blend of horseradish, mustard, and green food dye. This is not a secret - food manufacturers list the actual ingredients - but it's so thoroughly normalized that most people have never tasted real *Wasabia japonica* rhizome.
 
-Fresh wasabi is genuinely different: less aggressive heat, more complex flavor, a brightness that fades in 15-20 minutes after grating (which is why it's grated tableside at high-end sushi restaurants). The substitution exists because wasabi is genuinely difficult to produce and therefore expensive. Fresh wasabi rhizome sells for $80-150 per pound at specialty retailers and Japanese restaurants in the United States (Pacific Coast Wasabi pricing, 2025; Oregon Wasabi market data, 2024).
+Fresh wasabi is different: less aggressive heat, more complex flavor, a brightness that fades in 15-20 minutes after grating (which is why it's grated tableside at high-end sushi restaurants). The substitution exists because wasabi is genuinely difficult to produce and therefore expensive. Fresh wasabi rhizome sells for $80-150 per pound at specialty retailers and Japanese restaurants in the United States (Pacific Coast Wasabi pricing, 2025; Oregon Wasabi market data, 2024).
 
 The question is whether that price premium makes wasabi worth growing at home. The answer depends almost entirely on where you live.
 
@@ -21,7 +21,7 @@ Horseradish (*Armoracia rusticana*), by contrast, grows aggressively in ordinary
 
 The substitution is not fraudulent in most contexts - manufacturers label it correctly. The issue is that the vast majority of American consumers have no reference point for real wasabi, so demand for genuine product is limited to specialty Japanese restaurants and serious food enthusiasts willing to pay the premium.
 
-For home growers, that premium is the opportunity. If you can produce fresh wasabi rhizome, the product is genuinely valuable and genuinely rare.
+For home growers, that premium is the opportunity. If you can produce fresh wasabi rhizome, the product is valuable and rare.
 
 ## Climate Requirements and Infrastructure
 
@@ -80,7 +80,7 @@ The economics of wasabi improve at scale, for two reasons.
 
 First, propagation: wasabi produces offsets. After the first 18-24 month cycle, each harvested plant leaves behind several rooted offsets that can be replanted immediately. Year 3 propagation cost is zero - your established plants self-multiply.
 
-Second, buyer leverage: at small volumes (under 1 lb), you're selling to individual retail buyers at retail prices or giving product away. At meaningful volume (10+ lbs per season), you can approach restaurant buyers, farmers market regulars, and specialty food retailers who will pay premium prices for consistent supply.
+Second, buyer leverage: at small volumes (under 1 lb), you're selling to individual retail buyers at retail prices or giving product away. At 10 or more pounds per season, you can approach restaurant buyers, farmers market regulars, and specialty food retailers who will pay premium prices for consistent supply.
 
 **The minimum scale for financial sense:**
 - 50 plants, 18 months to first harvest
@@ -121,7 +121,7 @@ Wasabi does not come from seed in any practical sense. The plant sets viable see
 
 **Propagation from your own plants:** once you have established plants, propagation is free. After harvest, the plant base produces 2-4 rooted side shoots over the following growing season. These are separated and replanted at the same depth as the parent. Propagation success rate is high in optimal conditions; lower in marginal climates where the plant is already stressed.
 
-**Container growing strategy:** in climates too warm for outdoor production, container growing in a climate-controlled space works, though it requires commitment. A north-facing room, air-conditioned to stay below 70°F through summer, with supplemental LED lighting to compensate for reduced natural light - this setup can produce wasabi in zone 7-9. Use a deep container (12+ inches) with moisture-retentive but well-draining mix, water frequently, and maintain consistent humidity. The additional utility and equipment cost changes the economic calculation significantly; container wasabi in an artificially cooled space is a passion project, not a commercial opportunity.
+**Container growing strategy:** in climates too warm for outdoor production, container growing in a climate-controlled space works, though it requires commitment. A north-facing room, air-conditioned to stay below 70°F through summer, with supplemental LED lighting to compensate for reduced natural light - this setup can produce wasabi in zone 7-9. Use a deep container (12+ inches) with moisture-retentive but well-draining mix, water frequently, and maintain consistent humidity. The additional utility and equipment cost changes the economic calculation; container wasabi in an artificially cooled space is a passion project, not a commercial opportunity.
 
 ## Alternatives for Exotic-Crop Gardeners
 

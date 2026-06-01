@@ -7,7 +7,7 @@ featured: false
 hero_image: /images/articles/grocery-tier-roi.webp
 ---
 
-If you're buying organic produce, the ROI math on home gardening works differently for you than it does for the household buying conventional. Not slightly differently - materially differently. The crop you grow doesn't offset $1.80/lb conventional tomatoes. It offsets $3.50/lb organic tomatoes. Same plant, same seed cost, dramatically different savings.
+If you're buying organic produce, the ROI math on home gardening works differently for you than it does for the household buying conventional. Not slightly differently - materially differently. The crop you grow doesn't offset $1.80/lb conventional tomatoes. It offsets $3.50/lb organic tomatoes. Same plant, same seed cost, nearly double the savings.
 
 This analysis starts with USDA price data on the organic premium for 12 common crops, then works through what that premium means for three household types, and ends with a crop-by-crop break-even table that answers the question directly: how many pounds do you need to produce before a given crop pays for itself?
 
@@ -36,7 +36,7 @@ A few of these numbers deserve attention before moving on.
 
 Garlic's premium is listed at 80-120%, but that range understates the picture at the high end. Domestic hardneck garlic at farmers markets and specialty retailers regularly commands $8-12/lb, against conventional commodity garlic at $3-5/lb. The USDA AMS Specialty Crop Market News organic data reflects mainstream retail; artisan domestic organic hardneck sits above that. If your household uses specialty garlic, your effective savings from home production are higher than the table shows.
 
-Basil's raw dollar premium is large - $6-10/lb above conventional - but the percentage premium is moderate because both conventional and organic basil are expensive. Home-grown basil at $0.40-0.60/lb input cost returns savings against both tiers. The distinction for organic buyers is that you're comparing $0.50/lb input against $22-28/lb organic retail, not $15-18/lb conventional retail. The absolute savings per pound are genuinely large.
+Basil's raw dollar premium is large - $6-10/lb above conventional - but the percentage premium is moderate because both conventional and organic basil are expensive. Home-grown basil at $0.40-0.60/lb input cost returns savings against both tiers. The distinction for organic buyers is that you're comparing $0.50/lb input against $22-28/lb organic retail, not $15-18/lb conventional retail. The absolute savings per pound are large.
 
 Sweet pepper's 80-110% premium is among the highest on the list and tends to be consistent across seasons. Organic bell peppers in US retail markets have shown persistently higher premiums than most vegetables because domestic organic acreage is limited and import volumes are smaller than for other crops (USDA ERS Organic Price Review, 2023).
 
@@ -96,7 +96,7 @@ The pesticide argument doubles the case here. Spinach and leafy greens consisten
 
 Cucumber earns a spot on this list partly because of its 75-100% organic premium, and partly because home production is genuinely practical. One trellised cucumber vine uses 2-3 square feet of bed footprint and produces 10-20 cucumbers per season, depending on variety and management. Direct seeded or transplanted after last frost, cucumbers reach harvest in 50-65 days.
 
-Freshness is also a meaningful quality advantage for home-grown cucumbers. Cucumbers lose crispness quickly after harvest; store-bought organic cucumbers are often 7-14 days post-harvest before they reach your kitchen. Home-grown cucumbers go from vine to table in hours. For a household that eats cucumbers regularly, that quality differential is real and compounds over a season.
+Freshness is also a quality advantage for home-grown cucumbers. Cucumbers lose crispness quickly after harvest; store-bought organic cucumbers are often 7-14 days post-harvest before they reach your kitchen. Home-grown cucumbers go from vine to table in hours. For a household that eats cucumbers regularly, that quality differential is real and compounds over a season.
 
 ### Sweet Pepper
 
@@ -110,7 +110,7 @@ These crops are candidates to keep buying even for organic households, because e
 
 ### Carrots
 
-The organic premium on carrots is 40-70%, which sounds significant - but carrot retail prices are low enough that the absolute savings per pound remain modest. Organic carrots run $1.20-2.50/lb; conventional run $0.80-1.50/lb. The premium is roughly $0.40-1.00/lb in absolute terms.
+The organic premium on carrots is 40-70%, which sounds like a lot - but carrot retail prices are low enough that the absolute savings per pound remain modest. Organic carrots run $1.20-2.50/lb; conventional run $0.80-1.50/lb. The premium is roughly $0.40-1.00/lb in absolute terms.
 
 Home production of carrots requires deep, loose, stone-free soil to get full-length roots. They're slow to germinate (14-21 days), slow to mature (70-80 days for most varieties), and require consistent moisture. A 4-square-foot section of carrots returns about 3-5 lbs at harvest. At $0.70/lb average premium savings, that's $2-3.50 in premium captured from a section of your bed committed for 10-12 weeks.
 
@@ -124,7 +124,7 @@ That's fine production, but not outstanding relative to the space commitment. If
 
 ### Apples and Blueberries
 
-Apples and blueberries are worth discussing separately because they're perennials, which changes the math significantly over time. The organic premium on apples is 50-65% and blueberries 55-70% - meaningful premiums worth capturing.
+Apples and blueberries are worth discussing separately because they're perennials, which changes the economics over time. The organic premium on apples is 50-65% and blueberries 55-70% - premiums worth capturing.
 
 The challenge is time to production. An apple tree takes 3-5 years to reach meaningful harvest and requires space, pruning, and spray management even in an organic program (copper fungicides, kaolin clay, dormant oil). A blueberry bush reaches productive maturity in 3-4 years and requires acidic soil (pH 4.5-5.5), cross-pollination from another variety, and patience. Neither is a bad long-term investment, but neither pays back quickly.
 

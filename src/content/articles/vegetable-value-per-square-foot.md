@@ -68,7 +68,7 @@ The trade-off is that kale occupies the space for the full growing season - typi
 
 These two metrics don't move together, and conflating them leads to bad planting decisions.
 
-ROI multiple measures the ratio of return to input cost. Dill, for example, delivers a strong ROI multiple: seeds cost almost nothing ($0.50/sq ft), and the harvest value is meaningful. At $0.50 start and $0.88 net per square foot, dill's ROI multiple is approximately $0.88/$0.50 = 1.76x, or a 176% return on seed investment. That sounds good.
+ROI multiple measures the ratio of return to input cost. Dill, for example, delivers a strong ROI multiple: seeds cost almost nothing ($0.50/sq ft), and the harvest return is real. At $0.50 start and $0.88 net per square foot, dill's ROI multiple is approximately $0.88/$0.50 = 1.76x, or a 176% return on seed investment. That sounds good.
 
 But $0.88 net per square foot is mediocre by the standards of this table. Basil starts at $3.50/sq ft (you're buying transplants, typically) and returns $4.00 net - an ROI multiple of only 1.14x. By ROI multiple, dill beats basil. By net value per square foot, basil beats dill by 4.5x.
 
