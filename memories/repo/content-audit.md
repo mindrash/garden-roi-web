@@ -1,6 +1,6 @@
 # Content Audit — AI Slop Detection Plan
 
-_Last updated: 2026-06-01 — Tier 1 complete, Tier 2 complete, Tier 3 complete, Tier 4 complete, Tier 5 complete, Tier 6 next_
+_Last updated: 2026-06-01 — All tiers complete. Full 370-file audit done._
 
 ## Purpose
 
@@ -385,80 +385,80 @@ Glossary entries are short but high-traffic via linked crop pages. Check opener 
 
 Lower traffic but complete coverage. Audit after Tiers 1-5 are done.
 
-- [ ] `plants/adzuki-bean.md`
-- [ ] `plants/agretti.md`
-- [ ] `plants/apple-mint.md`
-- [ ] `plants/aronia.md`
-- [ ] `plants/ashwagandha.md`
-- [ ] `plants/bee-balm.md`
-- [ ] `plants/bitter-melon.md`
-- [ ] `plants/black-currant.md`
-- [ ] `plants/boysenberry.md`
-- [ ] `plants/broccoli-rabe.md`
-- [ ] `plants/cape-gooseberry.md`
-- [ ] `plants/cardoon.md`
-- [ ] `plants/catnip.md`
-- [ ] `plants/celtuce.md`
-- [ ] `plants/chayote.md`
-- [ ] `plants/chervil.md`
-- [ ] `plants/chestnut.md`
-- [ ] `plants/chinese-broccoli.md`
-- [ ] `plants/chrysanthemum-greens.md`
-- [ ] `plants/cowpea.md`
-- [ ] `plants/culantro.md`
-- [ ] `plants/curry-leaf.md`
-- [ ] `plants/daikon.md`
-- [ ] `plants/dragon-fruit.md`
-- [ ] `plants/epazote.md`
-- [ ] `plants/feijoa.md`
-- [ ] `plants/galangal.md`
-- [ ] `plants/hardy-kiwi.md`
-- [ ] `plants/hazelnut.md`
-- [ ] `plants/holy-basil.md`
-- [ ] `plants/honeyberry.md`
-- [ ] `plants/hops.md`
-- [ ] `plants/hyacinth-bean.md`
-- [ ] `plants/jicama.md`
-- [ ] `plants/lemon-verbena.md`
-- [ ] `plants/loquat.md`
-- [ ] `plants/lotus-root.md`
-- [ ] `plants/luffa.md`
-- [ ] `plants/malabar-spinach.md`
-- [ ] `plants/mashua.md`
-- [ ] `plants/medlar.md`
-- [ ] `plants/moringa.md`
-- [ ] `plants/mulberry.md`
-- [ ] `plants/mung-bean.md`
-- [ ] `plants/new-zealand-spinach.md`
-- [ ] `plants/oca.md`
-- [ ] `plants/passionfruit.md`
-- [ ] `plants/pawpaw.md`
-- [ ] `plants/pecan.md`
-- [ ] `plants/persimmon.md`
-- [ ] `plants/pigeon-pea.md`
-- [ ] `plants/popcorn.md`
-- [ ] `plants/quince.md`
-- [ ] `plants/quinoa.md`
-- [ ] `plants/runner-bean.md`
-- [ ] `plants/saffron.md`
-- [ ] `plants/salsify.md`
-- [ ] `plants/scorzonera.md`
-- [ ] `plants/sea-buckthorn.md`
-- [ ] `plants/sea-kale.md`
-- [ ] `plants/serviceberry.md`
-- [ ] `plants/sichuan-pepper.md`
-- [ ] `plants/summer-savory.md`
-- [ ] `plants/taro.md`
-- [ ] `plants/tepary-bean.md`
-- [ ] `plants/thai-basil.md`
-- [ ] `plants/turmeric.md`
-- [ ] `plants/vietnamese-coriander.md`
-- [ ] `plants/wasabi.md`
-- [ ] `plants/water-chestnut.md`
-- [ ] `plants/water-spinach.md`
-- [ ] `plants/winter-savory.md`
-- [ ] `plants/yacon.md`
-- [ ] `plants/yardlong-bean.md`
+- [x] `plants/adzuki-bean.md`
+- [x] `plants/agretti.md`
+- [x] `plants/apple-mint.md`
+- [x] `plants/aronia.md`
+- [x] `plants/ashwagandha.md`
+- [x] `plants/bee-balm.md`
+- [x] `plants/bitter-melon.md`
+- [x] `plants/black-currant.md`
+- [x] `plants/boysenberry.md`
+- [x] `plants/broccoli-rabe.md`
+- [x] `plants/cape-gooseberry.md`
+- [x] `plants/cardoon.md`
+- [x] `plants/catnip.md`
+- [x] `plants/celtuce.md`
+- [x] `plants/chayote.md`
+- [x] `plants/chervil.md`
+- [x] `plants/chestnut.md`
+- [x] `plants/chinese-broccoli.md`
+- [x] `plants/chrysanthemum-greens.md`
+- [x] `plants/cowpea.md`
+- [x] `plants/culantro.md`
+- [x] `plants/curry-leaf.md`
+- [x] `plants/daikon.md`
+- [x] `plants/dragon-fruit.md`
+- [x] `plants/epazote.md`
+- [x] `plants/feijoa.md`
+- [x] `plants/galangal.md`
+- [x] `plants/hardy-kiwi.md`
+- [x] `plants/hazelnut.md`
+- [x] `plants/holy-basil.md`
+- [x] `plants/honeyberry.md`
+- [x] `plants/hops.md`
+- [x] `plants/hyacinth-bean.md`
+- [x] `plants/jicama.md`
+- [x] `plants/lemon-verbena.md`
+- [x] `plants/loquat.md`
+- [x] `plants/lotus-root.md`
+- [x] `plants/luffa.md`
+- [x] `plants/malabar-spinach.md`
+- [x] `plants/mashua.md`
+- [x] `plants/medlar.md`
+- [x] `plants/moringa.md`
+- [x] `plants/mulberry.md`
+- [x] `plants/mung-bean.md`
+- [x] `plants/new-zealand-spinach.md`
+- [x] `plants/oca.md`
+- [x] `plants/passionfruit.md`
+- [x] `plants/pawpaw.md`
+- [x] `plants/pecan.md`
+- [x] `plants/persimmon.md`
+- [x] `plants/pigeon-pea.md`
+- [x] `plants/popcorn.md`
+- [x] `plants/quince.md`
+- [x] `plants/quinoa.md`
+- [x] `plants/runner-bean.md`
+- [x] `plants/saffron.md`
+- [x] `plants/salsify.md`
+- [x] `plants/scorzonera.md`
+- [x] `plants/sea-buckthorn.md`
+- [x] `plants/sea-kale.md`
+- [x] `plants/serviceberry.md`
+- [x] `plants/sichuan-pepper.md`
+- [x] `plants/summer-savory.md`
+- [x] `plants/taro.md`
+- [x] `plants/tepary-bean.md`
+- [x] `plants/thai-basil.md`
+- [x] `plants/turmeric.md`
+- [x] `plants/vietnamese-coriander.md`
+- [x] `plants/wasabi.md`
+- [x] `plants/water-chestnut.md`
+- [x] `plants/water-spinach.md`
+- [x] `plants/winter-savory.md`
+- [x] `plants/yacon.md`
+- [x] `plants/yardlong-bean.md`
 
 ---
 
@@ -471,5 +471,5 @@ Lower traffic but complete coverage. Audit after Tiers 1-5 are done.
 | Tier 3 — Care/pest/homestead articles | 35 | 35 | 0 | 100% |
 | Tier 4 — Common plants | 110 | 110 | 0 | 100% |
 | Tier 5 — Glossary | 70 | 70 | 0 | 100% |
-| Tier 6 — Non-common plants | 80 | 0 | 0 | 0% |
-| **Total** | **370** | **290** | **0** | **78%** |
+| Tier 6 — Non-common plants | 80 | 80 | 0 | 100% |
+| **Total** | **370** | **370** | **0** | **100%** |
