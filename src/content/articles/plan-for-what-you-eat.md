@@ -65,14 +65,14 @@ The distribution across specific items matters more than the total. When USDA NA
 | 1 | Bananas | Highest volume purchased; very low $/lb |
 | 2 | Apples | High frequency, year-round |
 | 3 | Grapes | High price per pound when in season |
-| 4 | Strawberries | Significant spring/summer spend |
+| 4 | Strawberries | High spring/summer spend |
 | 5 | Watermelon | Seasonal; high summer spend |
 
 Bananas and apples lead the fruit category, but they are also the worst candidates for home growing in most US climates. Bananas require tropical conditions. Apples require significant space, multi-year establishment, and careful pest management. High household spend does not automatically mean high grow-it-yourself opportunity. That requires a second filter.
 
 ## The Grow-Your-Receipts Translation Table
 
-The receipt audit tells you what you spend. The next question is what is actually worth growing at home. That depends on three factors: how easy the crop is to grow, how much space you need to replace a meaningful portion of what you buy, and what the seed or transplant cost is relative to the grocery bill you are replacing.
+The receipt audit tells you what you spend. The next question is what is actually worth growing at home. That depends on three factors: how easy the crop is to grow, how much space you need to replace the bulk of what you buy, and what the seed or transplant cost is relative to the grocery bill you are replacing.
 
 The table below applies those filters to ten top household produce items. Feasibility ratings reflect performance in a standard raised bed or container garden for a gardener in their first or second year. Space estimates assume you want to replace approximately 80% of your household's annual consumption.
 
@@ -89,7 +89,7 @@ The table below applies those filters to ten top household produce items. Feasib
 | Onions | $25-$40 | Moderate | 15-20 sq ft | $5-$10 (sets) |
 | Grapes | $65-$95 | Difficult | 50-100 sq ft + trellis, 3+ year establishment | $15-$30 (bare root vine) |
 
-Grapes are on this list because they show up in the top household fruit spending, but they are a poor choice for a beginning gardener seeking near-term ROI. They require significant space, a structural trellis, multiple years before meaningful production, and consistent management for disease. Leave them off your target list until you have a few seasons behind you.
+Grapes are on this list because they show up in the top household fruit spending, but they are a poor choice for a beginning gardener seeking near-term ROI. They require a lot of space, a structural trellis, multiple years before real production, and consistent management for disease. Leave them off your target list until you have a few seasons behind you.
 
 Corn is a similar case. Most home gardeners do not have the 50-plus square feet required for adequate pollination, and the price per pound for sweet corn is low enough that the space is almost always better used for higher-value crops.
 
@@ -139,7 +139,7 @@ At the higher end of that range - $5.25 per week - you are replacing $273 of you
 
 To get closer to full replacement, you have two options: expand the growing area or shift variety selection. Baby arugula (*Eruca vesicaria* subsp. *sativa*) produces more harvestable weight per square foot than standard lettuce heads, and the retail price per pound is higher. A mix that is 50% arugula and 50% butterhead lettuce in a 12-to-15-square-foot section with continuous succession planting can supply most of a household's salad greens needs through the spring and fall seasons.
 
-The summer gap is real. Most lettuce varieties bolt - shift to flower production and become bitter - when temperatures stay above 80°F for more than a week. In Zones 6 through 8, that means a two-to-eight-week window in midsummer when lettuce production drops significantly. You either replace it with heat-tolerant greens (purslane, sweet potato leaves, Malabar spinach), accept the gap, or use that space for warm-season crops like basil or cucumbers and return to greens in late August.
+The summer gap is real. Most lettuce varieties bolt - shift to flower production and become bitter - when temperatures stay above 80°F for more than a week. In Zones 6 through 8, that means a two-to-eight-week window in midsummer when lettuce production drops sharply. You either replace it with heat-tolerant greens (purslane, sweet potato leaves, Malabar spinach), accept the gap, or use that space for warm-season crops like basil or cucumbers and return to greens in late August.
 
 The same work-backwards logic applies to every crop on your list. If you spend $8 per week on fresh tomatoes for six months, that is $208. Two indeterminate tomato plants in 16 square feet will produce 20 to 35 pounds over the season (USDA ARS yield data, 2023). At $2.50 to $3.50/lb retail, that is $50 to $122 in grocery value from those two plants. You cover roughly half to all of your tomato spend depending on the season.
 
@@ -158,7 +158,7 @@ A household spending $140/year on fresh herbs needs 6 to 8 square feet of well-m
 
 If you are working with limited space - one 4x8 raised bed or 32 square feet - the receipt audit typically points toward the same answer for most American households: herbs and salad greens first, then tomatoes and cucumbers.
 
-Herbs return the most value per square foot by a significant margin. See the [basil growing guide](/crops/basil/) for variety selection and harvest technique that maximizes production from a small space. Salad greens - particularly [lettuce](/crops/lettuce/) and [arugula](/crops/arugula/) - produce harvestable weight fastest and require the least infrastructure. They are also the crops most households buy most frequently.
+Herbs return the most value per square foot. See the [basil growing guide](/crops/basil/) for variety selection and harvest technique that maximizes production from a small space. Salad greens - particularly [lettuce](/crops/lettuce/) and [arugula](/crops/arugula/) - produce harvestable weight fastest and require the least infrastructure. They are also the crops most households buy most frequently.
 
 For a full breakdown of what a 32-square-foot bed costs to build and what it returns, see [How to Break Even on a Raised Bed Garden](/roi/raised-bed-break-even/). For the longer view of what a garden returns over multiple years as infrastructure costs get amortized, see [The $500 Garden](/roi/the-500-dollar-garden/).
 

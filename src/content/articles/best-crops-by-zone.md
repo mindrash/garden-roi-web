@@ -91,7 +91,7 @@ The highest-value crops in Zone 6:
 
 ## Zone 7 (150 - 170 Frost-Free Days)
 
-Zone 7 has the same high-value summer crops as Zone 6, with a few additions and a meaningful structural advantage: you can run two full successions of cool-season crops - one in spring (March - May) and one in fall (September - November).
+Zone 7 has the same high-value summer crops as Zone 6, with a few additions and a real structural advantage: you can run two full successions of cool-season crops - one in spring (March - May) and one in fall (September - November).
 
 That doubles the productive season for lettuce, spinach, kale, brassicas, and root crops. A Zone 7 gardener who plants lettuce in late February and again in late August gets crops from March through June and again from September through November. That's a lot of produce from a relatively cheap seed investment.
 

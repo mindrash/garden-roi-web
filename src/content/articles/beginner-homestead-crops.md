@@ -31,7 +31,7 @@ The five crops below have high value density because they're expensive at retail
 
 Source: USDA AMS fruit and vegetable retail reports, 2024-2025. Yield estimates from Penn State Extension, *Vegetable Production Guide*, 2022.
 
-Green beans rank lowest on value density in this group but belong on the list because they produce high volume from low seed cost, require almost no management, and are genuinely useful fresh or frozen.
+Green beans rank lowest on value density in this group but belong on the list because they produce high volume from low seed cost, require almost no management, and are useful fresh or frozen.
 
 ## The Five Crops: What the Numbers Actually Look Like
 
@@ -97,7 +97,7 @@ Three specific mistakes cost first-year gardeners real money. Not abstract mista
 
 **Perennials before you're ready.** Asparagus, rhubarb, and artichoke are worth growing once you understand your garden. They are not worth growing in Year 1 because they return nothing for 2-3 years. Asparagus planted in spring of Year 1 produces first real harvest in Year 3 at earliest. That's $0 in grocery offset for 24 months while your bed is occupied. Plant these after you understand your site and have working productive beds. The demoralization from waiting 3 years with no return kills more new homestead gardens than pests or drought.
 
-**Not tracking what you grew.** If you don't record your seed costs, your amendment costs, and an estimate of what you harvested, you cannot know if the garden is working. This doesn't require a spreadsheet. A note in your phone with the purchase date, seed costs, and a rough estimate of what came out is sufficient. Gardeners who track for even one season make dramatically better decisions in Year 2 - they know which crops actually paid off and which ones they romanticized.
+**Not tracking what you grew.** If you don't record your seed costs, your amendment costs, and an estimate of what you harvested, you cannot know if the garden is working. This doesn't require a spreadsheet. A note in your phone with the purchase date, seed costs, and a rough estimate of what came out is sufficient. Gardeners who track for even one season make better decisions in Year 2 - they know which crops actually paid off and which ones they romanticized.
 
 The [Garden ROI app](/app/) solves this problem directly: log your inputs, log your harvests, get the math. It's the tool this project was built around.
 

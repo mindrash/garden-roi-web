@@ -12,7 +12,7 @@ This list solves for three specific things. State them clearly, apply them visib
 
 ## The Criteria
 
-**Criterion 1: ROI multiple above 3x, or a quality gap so large the store-bought version isn't a real substitute - or both.** An ROI multiple above 3x means that for every dollar you spend on seed and inputs, you harvest more than three dollars of retail-equivalent produce. A "quality gap" means the home-grown version is categorically different from what you'd buy - not slightly better, but genuinely different in flavor, texture, or freshness. Some crops clear both bars. Those go to the top of the list.
+**Criterion 1: ROI multiple above 3x, or a quality gap so large the store-bought version isn't a real substitute - or both.** An ROI multiple above 3x means that for every dollar you spend on seed and inputs, you harvest more than three dollars of retail-equivalent produce. A "quality gap" means the home-grown version is categorically different from what you'd buy - not slightly better, but different in flavor, texture, or freshness. Some crops clear both bars. Those go to the top of the list.
 
 **Criterion 2: Forgiving of beginner mistakes.** Imperfect soil, missed waterings, off-by-two-weeks planting timing, inconsistent fertilizing - these are not hypothetical problems, they are what actually happens in a first garden. A crop that requires perfect conditions to produce anything is a bad choice for year one. A crop that produces a reasonable harvest even when you mess things up is a good choice.
 
@@ -55,7 +55,7 @@ The forgiveness is high for three reasons: snap peas are cool-season crops that 
 
 [Cherry tomatoes](/crops/cherry-tomato/) (*Solanum lycopersicum* var. *cerasiforme*) have the highest ROI ceiling of any vegetable in this list. At 10x on the low end and 24x on the high end, no other crop comes close. A single 'Sungold' plant purchased as a $4 transplant can yield 4 to 8 pounds of fruit at $4 to $6 per pint retail. The math gets uncomfortable fast - in a good year, one plant pays for itself fifteen times over.
 
-The quality gap is high. Commercial cherry tomatoes are harvested at the breaker stage - before full ripeness - to survive the logistics chain without bruising. Vine-ripened fruit develops more lycopene, more volatile aromatic compounds, and significantly higher Brix (sugar content). A Brix rating of 8 to 10 on a home-grown 'Sungold' is genuinely different from a 4 to 6 Brix commercial cherry tomato. You're not imagining it.
+The quality gap is high. Commercial cherry tomatoes are harvested at the breaker stage - before full ripeness - to survive the logistics chain without bruising. Vine-ripened fruit develops more lycopene, more volatile aromatic compounds, and significantly higher Brix (sugar content). A Brix rating of 8 to 10 on a home-grown 'Sungold' is measurably different from a 4 to 6 Brix commercial cherry tomato. You're not imagining it.
 
 The forgiveness rating is moderate, not high, because cherry tomatoes do have real requirements. They need full sun - 8 hours minimum, not 6. They need staking or caging before they fall over at 4 feet. They need consistent moisture to prevent blossom end rot and fruit cracking. That said, they tolerate imperfect soil better than large-fruited beefsteak types, and they recover from a missed watering better than most warm-season crops.
 
@@ -79,7 +79,7 @@ Forgiveness is moderate. Basil needs heat and full sun - it does not tolerate co
 
 The quality gap is moderate. Baby kale from the garden - leaves harvested at 3 to 5 inches - is more tender and less bitter than the mature bunches you find at a grocery store. If you're using it in salads, the difference is real. For cooking, the gap narrows.
 
-What earns kale its forgiveness rating is a tolerance for conditions that would devastate most crops. It handles frost - and actually improves in flavor after light frost, because cold triggers the plant to convert starches to sugars. It handles heat, though it prefers cool weather. It handles poor soil better than most brassicas. It handles missed waterings without wilting dramatically. And it has one of the longest harvest seasons of any vegetable in the garden: in Zone 6, kale planted in April can still be producing in December. You cut outer leaves and leave the center growing point intact. The plant keeps replacing what you take.
+What earns kale its forgiveness rating is a tolerance for conditions that would devastate most crops. It handles frost - and actually improves in flavor after light frost, because cold triggers the plant to convert starches to sugars. It handles heat, though it prefers cool weather. It handles poor soil better than most brassicas. It handles missed waterings without wilting. And it has one of the longest harvest seasons of any vegetable in the garden: in Zone 6, kale planted in April can still be producing in December. You cut outer leaves and leave the center growing point intact. The plant keeps replacing what you take.
 
 Direct sow 4 to 6 weeks before last frost for a spring crop, or in late July for a fall and winter crop. Varieties: 'Lacinato' (dinosaur kale, 60 days), 'Red Russian' (50 days, more tender, good for salads), 'Winterbor' (60 days, extremely cold-hardy).
 
@@ -87,7 +87,7 @@ Direct sow 4 to 6 weeks before last frost for a spring crop, or in late July for
 
 ### 5. Radish
 
-[Radishes](/crops/radish/) (*Raphanus sativus*) don't have a strong ROI story - the 1.8x multiple is modest, and the quality gap over store radishes is real but not dramatic. They make this list for a different reason: they are the fastest vegetable in the garden, and for a first-year grower, speed has value that doesn't show up in a spreadsheet.
+[Radishes](/crops/radish/) (*Raphanus sativus*) don't have a strong ROI story - the 1.8x multiple is modest, and the quality gap over store radishes is real but moderate. They make this list for a different reason: they are the fastest vegetable in the garden, and for a first-year grower, speed has value that doesn't show up in a spreadsheet.
 
 Twenty-five days after you push a radish seed into the ground, you can pull a radish. That feedback loop is unlike anything else in the garden. When you're waiting 70 days for a tomato to ripen and wondering whether anything is happening, a succession of radish plantings every two weeks gives you evidence that your soil and technique are working. They're also useful as row markers for slow-germinating crops like carrots or parsnips - plant a radish seed between every parsnip seed, and the radish germination shows you where your rows are before the slower crops emerge.
 
@@ -151,7 +151,7 @@ It is not a bad investment, because chives are a perennial. You plant them once 
 
 The forgiveness is near the top of any vegetable: chives tolerate drought, poor soil, shade (they prefer full sun but don't require it), cold down to Zone 3, and general neglect. They die back in winter and return reliably in spring. Cut the leaves to 2 inches from the ground and they regenerate within two weeks. The flowers are edible and attractive to pollinators.
 
-The quality gap versus dried chives is real. Fresh chives have a sharp, bright allium flavor; dried chives are flat and grassy. This is one crop where the dried version in your spice cabinet genuinely cannot substitute for fresh.
+The quality gap versus dried chives is real. Fresh chives have a sharp, bright allium flavor; dried chives are flat and grassy. This is one crop where the dried version in your spice cabinet cannot substitute for fresh.
 
 ---
 
