@@ -16,7 +16,7 @@ The secondary reason is success rate. Seedlings started in controlled conditions
 
 ## What Transplants Well and What Doesn't
 
-Crops in the nightshade family (tomatoes, peppers, eggplant) and brassicas (broccoli, cabbage, kale, cauliflower) transplant very well. Cucurbits (cucumbers, squash, melons) can be transplanted if handled carefully and kept in individual cells rather than trays, because root disturbance slows them significantly.
+Crops in the nightshade family (tomatoes, peppers, eggplant) and brassicas (broccoli, cabbage, kale, cauliflower) transplant very well. Cucurbits (cucumbers, squash, melons) can be transplanted if handled carefully and kept in individual cells rather than trays, because root disturbance slows them.
 
 Carrots, parsnips, radishes, peas, beans, and direct-sown herbs like dill and cilantro should not be transplanted. These crops either form taproots that are damaged in transplanting or bolt from root stress.
 

@@ -28,7 +28,7 @@ Symptoms: plants wilt suddenly in warm weather despite adequate water; the crown
 
 ## Prevention and Management
 
-**Drainage** is the primary management variable. Crown rot pathogens require moisture at the soil surface. Raised beds and well-amended, well-draining soils dramatically reduce incidence.
+**Drainage** is the primary management variable. Crown rot pathogens require moisture at the soil surface. Raised beds and well-amended, well-draining soils reduce incidence.
 
 **Mulch placement.** Pull mulch 2-3 inches back from plant crowns and stems. Mulch in direct contact with stems keeps the crown area persistently moist. The wood chip berm around tree trunks ("mulch volcanoes") commonly seen in landscaping is a classic crown rot initiator.
 

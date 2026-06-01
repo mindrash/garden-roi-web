@@ -12,11 +12,11 @@ Cover crops are standard practice in commercial vegetable and grain production. 
 
 ## What Cover Crops Do
 
-**Erosion prevention.** Bare soil in fall and winter loses surface material to rain and wind. Roots hold soil structure; leaf canopy intercepts rain and reduces surface compaction. Even a thin stand of winter rye or crimson clover significantly reduces erosion compared to bare ground.
+**Erosion prevention.** Bare soil in fall and winter loses surface material to rain and wind. Roots hold soil structure; leaf canopy intercepts rain and reduces surface compaction. Even a thin stand of winter rye or crimson clover reduces erosion compared to bare ground.
 
 **Weed suppression.** A dense stand of cover crop shades out germinating weeds. Some cover crops (rye, sorghum-sudan) also have allelopathic effects on weed seeds. A well-established cover crop going into spring is easier to manage than an established weed population.
 
-**Nitrogen fixation.** Leguminous cover crops - clovers, hairy vetch, field peas, winter peas, soybeans - host *Rhizobium* bacteria in root nodules that fix atmospheric nitrogen into plant-available forms. When the cover crop terminates and residue decomposes, this nitrogen becomes available to the following crop. Hairy vetch can fix 80-150 lbs of nitrogen per acre (roughly 2-3.5 lbs per 1,000 sq ft). For a home garden bed, a well-grown hairy vetch cover crop followed by a nitrogen-hungry crop like corn or squash can substantially reduce or eliminate the need for supplemental nitrogen.
+**Nitrogen fixation.** Leguminous cover crops - clovers, hairy vetch, field peas, winter peas, soybeans - host *Rhizobium* bacteria in root nodules that fix atmospheric nitrogen into plant-available forms. When the cover crop terminates and residue decomposes, this nitrogen becomes available to the following crop. Hairy vetch can fix 80-150 lbs of nitrogen per acre (roughly 2-3.5 lbs per 1,000 sq ft). For a home garden bed, a well-grown hairy vetch cover crop followed by a nitrogen-hungry crop like corn or squash can reduce or eliminate the need for supplemental nitrogen.
 
 **Organic matter addition.** All cover crops add organic matter when terminated. Soil organic matter improves water retention, supports soil biology, and contributes to long-term fertility. This is the primary benefit of non-legume covers like winter rye and oats.
 

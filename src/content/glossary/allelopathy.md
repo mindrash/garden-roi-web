@@ -28,7 +28,7 @@ Many companion planting claims invoke allelopathy loosely, often without disting
 - Is it competition for water, nutrients, or light?
 - Is it volatile compounds affecting pest behavior (a separate mechanism from allelopathy)?
 
-The evidence quality for allelopathic effects varies considerably. Black walnut's juglone is rigorously documented. Many other "allelopathic" pairings in popular gardening literature are based on limited observation or have not been reproduced under controlled conditions.
+The evidence quality for allelopathic effects varies. Black walnut's juglone is rigorously documented. Many other "allelopathic" pairings in popular gardening literature are based on limited observation or have not been reproduced under controlled conditions.
 
 ## Autotoxicity
 

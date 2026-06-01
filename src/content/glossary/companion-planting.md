@@ -12,7 +12,7 @@ Companion planting is the practice of growing different plants near each other t
 
 Some companion planting effects have solid scientific support:
 
-**Aromatic confusion.** Strongly scented herbs and alliums (basil, marigolds, mint, onion family) release volatile organic compounds that interfere with pest host-finding behavior. *Bemisia tabaci* (whitefly) has significantly lower populations in tomato-basil plantings than tomato monocultures - the basil's linalool and eugenol compounds reduce the insect's ability to locate tomato plants by scent (Kebede et al., *Crop Protection*, 2020). This effect is real but not total protection.
+**Aromatic confusion.** Strongly scented herbs and alliums (basil, marigolds, mint, onion family) release volatile organic compounds that interfere with pest host-finding behavior. *Bemisia tabaci* (whitefly) has lower populations in tomato-basil plantings than tomato monocultures - the basil's linalool and eugenol compounds reduce the insect's ability to locate tomato plants by scent (Kebede et al., *Crop Protection*, 2020). This effect is real but not total protection.
 
 **Physical habitat for beneficials.** Low-growing flowering plants (alyssum, phacelia, dill allowed to flower) provide nectar and pollen for parasitoid wasps and predatory insects that feed on aphids, caterpillars, and other pests. This is among the best-supported companion planting rationales.
 

@@ -20,7 +20,7 @@ The driving force is solar energy: the sun heats leaves, evaporating water, whic
 
 Plants open stomata to allow CO2 in for photosynthesis, but every moment they're open, water exits. In low-water conditions, guard cells flanking each stoma lose turgor and close the pore to conserve moisture. This is why plants wilt in drought - stomata close, photosynthesis slows, and eventually cell turgor throughout the plant drops.
 
-Stomata also respond to humidity. Low-humidity conditions accelerate transpiration even at adequate soil moisture. Hot, dry, windy days substantially increase crop water needs. A tomato plant in still, humid air uses far less water than the same plant in a hot, windy, low-humidity environment.
+Stomata also respond to humidity. Low-humidity conditions accelerate transpiration even at adequate soil moisture. Hot, dry, windy days increase crop water needs. A tomato plant in still, humid air uses far less water than the same plant in a hot, windy, low-humidity environment.
 
 ## Transpiration and Irrigation
 
@@ -30,7 +30,7 @@ Mulching reduces soil moisture loss through evaporation, but transpiration happe
 
 ## Transpiration in Greenhouses and Hoop Houses
 
-In enclosed growing structures, transpiration raises humidity substantially. Without ventilation, relative humidity can exceed 90%, creating conditions favorable for fungal diseases like botrytis and powdery mildew. Ventilation in a hoop house serves two purposes: temperature management and humidity reduction from accumulated transpiration.
+In enclosed growing structures, transpiration raises humidity. Without ventilation, relative humidity can exceed 90%, creating conditions favorable for fungal diseases like botrytis and powdery mildew. Ventilation in a hoop house serves two purposes: temperature management and humidity reduction from accumulated transpiration.
 
 ## Guttation vs. Transpiration
 

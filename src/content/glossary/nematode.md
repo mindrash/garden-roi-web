@@ -22,7 +22,7 @@ Root-knot nematodes are among the most economically damaging crop pests worldwid
 - **Resistant varieties:** Tomato varieties with the "N" resistance code (such as 'Celebrity' with VFFNT rating) carry resistance to *Meloidogyne incognita*, *M. javanica*, and *M. arenaria*. Note that "N" resistance doesn't cover all *Meloidogyne* species.
 - **Crop rotation:** Rotating susceptible crops (tomatoes, peppers) with non-host crops (corn, beans, cover crops) for 2-3 seasons reduces populations.
 - **Soil solarization:** Clear plastic laid over moist soil in summer can heat the top 4-6 inches to lethal temperatures for nematode eggs and juveniles.
-- **Marigolds (*Tagetes* spp.):** French marigolds (*Tagetes patula*) produce root exudates toxic to root-knot nematodes. A dense planting grown for a full season and then incorporated as a cover crop can substantially reduce nematode populations. A one-year rotation with 'Nema-gone', 'Tangerine', or other proven varieties has controlled root-knot nematodes in multiple research trials.
+- **Marigolds (*Tagetes* spp.):** French marigolds (*Tagetes patula*) produce root exudates toxic to root-knot nematodes. A dense planting grown for a full season and then incorporated as a cover crop can reduce nematode populations. A one-year rotation with 'Nema-gone', 'Tangerine', or other proven varieties has controlled root-knot nematodes in multiple research trials.
 
 ## Entomopathogenic Nematodes (EPNs)
 

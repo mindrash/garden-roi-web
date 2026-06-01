@@ -12,11 +12,11 @@ There is no single best mulch. The right material depends on what you're growing
 
 ## How Mulch Works
 
-**Moisture retention:** Bare soil loses water to surface evaporation continuously. A 2-3 inch layer of mulch creates a physical barrier that reduces evaporative loss dramatically - studies on mulched vs. unmulched vegetable beds show 25-50% reduction in irrigation needs under similar conditions. The soil beneath stays consistently moist rather than cycling through wet and dry.
+**Moisture retention:** Bare soil loses water to surface evaporation continuously. A 2-3 inch layer of mulch creates a physical barrier that reduces evaporative loss - studies on mulched vs. unmulched vegetable beds show 25-50% reduction in irrigation needs under similar conditions. The soil beneath stays consistently moist rather than cycling through wet and dry.
 
 **Weed suppression:** Weed seeds germinate in response to light. A 2-3 inch opaque mulch layer blocks light from reaching seeds in the soil and prevents germination. Established perennial weeds with existing root systems can push through mulch; newly arriving airborne seeds will germinate on the mulch surface if it's fine enough to support seedling establishment. Maintain mulch depth as it compresses.
 
-**Temperature moderation:** Mulch insulates soil from temperature extremes. In summer, a mulched soil surface stays significantly cooler than bare soil in full sun. In spring and fall, mulch slows the rate of temperature change. For strawberries and many perennials, a winter mulch layer of 3-4 inches of straw protects roots from freeze-thaw cycles.
+**Temperature moderation:** Mulch insulates soil from temperature extremes. In summer, a mulched soil surface stays cooler than bare soil in full sun. In spring and fall, mulch slows the rate of temperature change. For strawberries and many perennials, a winter mulch layer of 3-4 inches of straw protects roots from freeze-thaw cycles.
 
 ## Organic Mulches
 

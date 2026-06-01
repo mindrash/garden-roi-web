@@ -38,7 +38,7 @@ Hot composting kills most weed seeds (at 131°F for 3 days). Cold composting doe
 
 ## Passive (Cold) Composting
 
-Pile materials, wait. Decomposition happens without management but takes 6-18 months. No turning required; pile doesn't heat significantly. Acceptable for yard waste and most kitchen scraps. Does not kill weed seeds. Adequate for most home garden fertility needs without the effort of hot composting.
+Pile materials, wait. Decomposition happens without management but takes 6-18 months. No turning required; pile doesn't heat much. Acceptable for yard waste and most kitchen scraps. Does not kill weed seeds. Adequate for most home garden fertility needs without the effort of hot composting.
 
 ## Vermicomposting
 

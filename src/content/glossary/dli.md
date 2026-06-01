@@ -31,7 +31,7 @@ USDA and university horticultural research programs have established DLI require
 | Strawberry | 12 | 15-20 |
 | Microgreens | 8-12 | 12-16 |
 
-These thresholds have practical implications. A tomato plant receiving DLI below 20 mol/m²/day will grow but produce substantially less fruit than the same plant at DLI 30. A seedling starting setup targeting DLI 15-20 produces compact, well-formed transplants; DLI under 10 produces stretched, weak seedlings.
+These thresholds have practical implications. A tomato plant receiving DLI below 20 mol/m²/day will grow but produce less fruit than the same plant at DLI 30. A seedling starting setup targeting DLI 15-20 produces compact, well-formed transplants; DLI under 10 produces stretched, weak seedlings.
 
 ## DLI in Outdoor Siting
 
@@ -47,6 +47,6 @@ The impracticality of matching outdoor summer DLI indoors is one reason cherry t
 
 ## Measuring DLI
 
-Consumer-grade PAR meters (quantum sensors) read PPFD in µmol/m²/s and are available for $50-350. Some smartphone apps estimate PPFD using the phone camera sensor, but accuracy is limited (±30-50%) and varies significantly by device and conditions. For serious grow light evaluation, a calibrated quantum sensor is worthwhile.
+Consumer-grade PAR meters (quantum sensors) read PPFD in µmol/m²/s and are available for $50-350. Some smartphone apps estimate PPFD using the phone camera sensor, but accuracy is limited (±30-50%) and varies by device and conditions. For serious grow light evaluation, a calibrated quantum sensor is worthwhile.
 
 For outdoor site assessment, the Sager Weathercaster or university extension DLI maps show typical seasonal DLI values by region.

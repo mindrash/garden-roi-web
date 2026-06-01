@@ -46,4 +46,4 @@ Natural enemies - predators, parasitoids, and pathogens - suppress pest populati
 
 Organic production prohibits synthetic pesticides but does not require IPM methodology. A certified organic grower who applies pyrethrin on a calendar schedule to all plants regardless of pest presence is organic but not practicing IPM.
 
-IPM with synthetic pesticides can have lower overall pesticide impact than organic calendar spraying, depending on the products and situations involved. The goal of IPM is pest management with minimum necessary disruption; the goal of organic certification is restricting input types. These overlap substantially but are not the same thing.
+IPM with synthetic pesticides can have lower overall pesticide impact than organic calendar spraying, depending on the products and situations involved. The goal of IPM is pest management with minimum necessary disruption; the goal of organic certification is restricting input types. These overlap but are not the same thing.

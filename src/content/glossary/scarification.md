@@ -18,7 +18,7 @@ Hard seed coats are an adaptation for long-distance dispersal and delayed germin
 
 **Nick and file:** for large, hard seeds (morning glory, luffa, honey locust), use a nail file or nail clippers to nick the seed coat at the end opposite the embryo scar. One small nick is sufficient. This is faster than sandpaper for small quantities.
 
-**Hot water soak:** pour near-boiling water (around 180-190°F - not boiling) over seeds in a container, then allow to soak as the water cools to room temperature, typically 12-24 hours. The thermal shock cracks hard coats and softens them for water absorption. This works well for beans, sweet peas, okra, and nasturtiums. Seeds that have swollen significantly after soaking are ready to plant. Seeds that haven't changed size may need another soaking cycle or mechanical scarification.
+**Hot water soak:** pour near-boiling water (around 180-190°F - not boiling) over seeds in a container, then allow to soak as the water cools to room temperature, typically 12-24 hours. The thermal shock cracks hard coats and softens them for water absorption. This works well for beans, sweet peas, okra, and nasturtiums. Seeds that have swollen after soaking are ready to plant. Seeds that haven't changed size may need another soaking cycle or mechanical scarification.
 
 **Sulfuric acid (commercial only):** acid scarification is used commercially for some legumes and other hard-coated seeds. Not appropriate or necessary for home gardeners.
 

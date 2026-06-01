@@ -47,6 +47,6 @@ These spacings create a "living mulch" at canopy closure. Before closure - typic
 
 Airflow is reduced in dense plantings. Crops prone to fungal disease - basil, squash, cucumbers - may show higher disease pressure at intensive spacings compared to wider plantings with better air circulation.
 
-Some crops simply need space. Squash, melons, sprawling tomatoes, and corn cannot be meaningfully intensified. Intensive planting works best with compact vegetables: leafy greens, root crops, and determinate or trellis-trained vining crops.
+Some crops simply need space. Squash, melons, sprawling tomatoes, and corn cannot be intensified. Intensive planting works best with compact vegetables: leafy greens, root crops, and determinate or trellis-trained vining crops.
 
 The yield-per-square-foot gains come at a cost of yield-per-plant. A lettuce planted at 6 inches produces a smaller head than one planted at 12 inches with full access to nutrients and water. Total bed production goes up; individual plant production goes down.

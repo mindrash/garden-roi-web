@@ -40,7 +40,7 @@ These terms overlap but aren't identical. Companion planting is broader and ofte
 
 Not all combinations work. Competition effects can outweigh complementary benefits if crops have similar resource peaks. Aggressive crops like squash can overrun slower-growing companions. Crops with very different water or nutrient needs are hard to manage together without compromising one of them.
 
-Dense intercropping also makes mechanical cultivation impossible and can make hand weeding difficult. Success depends on selecting genuinely complementary pairs - different root depths, different canopy heights, different peak demand periods - rather than randomly mixing crops in the same bed.
+Dense intercropping also makes mechanical cultivation impossible and can make hand weeding difficult. Success depends on selecting complementary pairs - different root depths, different canopy heights, different peak demand periods - rather than randomly mixing crops in the same bed.
 
 ## Yield Advantage
 

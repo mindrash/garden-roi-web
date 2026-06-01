@@ -38,7 +38,7 @@ Common dehydrator settings:
 | Apple slices | 130-135°F | 6-12 hrs | Leathery, no moist center |
 | Mushrooms (sliced) | 125-135°F | 4-8 hrs | Crisp, brittle |
 
-Times vary significantly with moisture content, slice thickness, and humidity. These are starting ranges, not guarantees.
+Times vary with moisture content, slice thickness, and humidity. These are starting ranges, not guarantees.
 
 ## Conditioning and Storage
 
@@ -49,4 +49,4 @@ Store in airtight containers away from light, heat, and moisture. Glass jars wit
 - Vegetables: 1-2 years for best quality
 - Herbs: 1-2 years before significant flavor loss
 
-Refrigerator or freezer storage dramatically extends quality life. Dehydrated herbs frozen in airtight jars maintain potency for 2-3 years.
+Refrigerator or freezer storage extends quality life. Dehydrated herbs frozen in airtight jars maintain potency for 2-3 years.

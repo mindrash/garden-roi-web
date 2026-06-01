@@ -26,7 +26,7 @@ Even for crops that can be transplanted, direct sowing has advantages in the rig
 
 ## Soil Preparation
 
-Direct sowing succeeds or fails on soil surface condition. Seeds need firm contact with moist soil to germinate; they cannot bridge air gaps or penetrate a hard crust. A raked, fine-textured seedbed without large clods gives seeds the best start. In heavy clay soils, working in compost before sowing improves germination rates significantly.
+Direct sowing succeeds or fails on soil surface condition. Seeds need firm contact with moist soil to germinate; they cannot bridge air gaps or penetrate a hard crust. A raked, fine-textured seedbed without large clods gives seeds the best start. In heavy clay soils, working in compost before sowing improves germination rates.
 
 Soil temperature matters more than air temperature for germination. Most seeds germinate fastest at 65-75°F soil temperature. Cool-season crop seeds germinate at lower temperatures (40-50°F minimum for peas and spinach); warm-season seeds like beans and corn fail in cold soil below 60°F and rot before germinating.
 

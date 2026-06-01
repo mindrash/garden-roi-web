@@ -34,7 +34,7 @@ Calcium moves through the plant in the xylem (water-conducting tissue) along wit
 
 **Avoid excessive nitrogen applications** at fruiting time. High nitrogen pushes rapid vegetative growth that competes with fruit for calcium.
 
-**Soil calcium:** Test soil if BER is severe and recurring. True soil calcium deficiency is uncommon in most established gardens but can occur in sandy soils with low organic matter or acidic soils where calcium leaches. If soil calcium is genuinely low, incorporate ground limestone or gypsum.
+**Soil calcium:** Test soil if BER is severe and recurring. True soil calcium deficiency is uncommon in most established gardens but can occur in sandy soils with low organic matter or acidic soils where calcium leaches. If soil calcium is low, incorporate ground limestone or gypsum.
 
 **Foliar calcium sprays** (calcium chloride, calcium nitrate solutions) applied to developing fruit are widely sold and used. The efficacy evidence is mixed. Calcium taken up through leaves has limited mobility and may not reach fruit tissue efficiently. These sprays may help in cases of acute deficiency but are not a substitute for consistent watering.
 

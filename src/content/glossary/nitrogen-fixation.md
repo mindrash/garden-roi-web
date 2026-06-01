@@ -8,7 +8,7 @@ related_articles: []
 
 Nitrogen fixation is the conversion of atmospheric nitrogen gas (N2) into ammonia (NH3) or related compounds that plants can use. The atmosphere is 78% nitrogen, but plants cannot access it directly. Fixed nitrogen - converted to nitrate (NO3-) or ammonium (NH4+) by microbial activity - is what plants absorb through roots.
 
-Biological nitrogen fixation is performed by specific bacteria, most significantly for agricultural purposes by *Rhizobium* and related genera (*Bradyrhizobium*, *Mesorhizobium*, *Sinorhizobium*) in symbiosis with legume plants.
+Biological nitrogen fixation is performed by specific bacteria, most notably for agricultural purposes by *Rhizobium* and related genera (*Bradyrhizobium*, *Mesorhizobium*, *Sinorhizobium*) in symbiosis with legume plants.
 
 ## How the Symbiosis Works
 
@@ -31,7 +31,7 @@ Under good conditions with compatible *Rhizobium* strains and appropriate soil p
 | Soybeans | 100-200 |
 | Garden peas | 30-80 |
 
-For home garden scale (1,000 sq ft = 0.023 acres), hairy vetch might fix 2-5 lbs of nitrogen per season. A heavy-feeding crop like corn needs roughly 4 lbs of nitrogen per 1,000 sq ft for a full season. A legume cover crop preceding corn can substantially reduce or eliminate supplemental nitrogen needs.
+For home garden scale (1,000 sq ft = 0.023 acres), hairy vetch might fix 2-5 lbs of nitrogen per season. A heavy-feeding crop like corn needs roughly 4 lbs of nitrogen per 1,000 sq ft for a full season. A legume cover crop preceding corn can reduce or eliminate supplemental nitrogen needs.
 
 ## Inoculants
 

@@ -25,7 +25,7 @@ Check every two weeks for any seeds that have begun to germinate or for mold. If
 
 ## Required Duration by Plant
 
-Duration requirements vary significantly by species:
+Duration requirements vary by species:
 
 | Plant | Stratification time |
 |---|---|

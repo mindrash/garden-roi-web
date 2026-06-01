@@ -32,7 +32,7 @@ These numbers are rough estimates; actual release depends on soil temperature, m
 
 Beyond nitrogen, green manure improves soil structure through organic matter addition. Decomposing plant material feeds the soil food web - bacteria, fungi, protozoa, nematodes, and earthworms that together create the biological activity responsible for plant nutrient availability.
 
-Regular green manure additions, like regular compost additions, gradually increase soil organic matter content. Soil with 3-5% organic matter drains better, holds more moisture at field capacity, and supports significantly higher crop productivity than the 0.5-1.5% organic matter common in compacted suburban soils.
+Regular green manure additions, like regular compost additions, gradually increase soil organic matter content. Soil with 3-5% organic matter drains better, holds more moisture at field capacity, and supports higher crop productivity than the 0.5-1.5% organic matter common in compacted suburban soils.
 
 ## Shallow vs. Deep Incorporation
 

@@ -18,7 +18,7 @@ The 50% date is the commonly published "frost date." In practice, using it for f
 
 The USDA Risk Management Agency publishes frost probability data by weather station at rma.usda.gov. State extension services publish regional frost date maps. Local weather stations and agricultural extension offices have precise historical data for your specific area.
 
-City frost dates often differ significantly from suburban and rural locations in the same metropolitan area due to urban heat island effects.
+City frost dates often differ from suburban and rural locations in the same metropolitan area due to urban heat island effects.
 
 ## Using Frost Dates in Planning
 

@@ -1,6 +1,6 @@
 ---
 term: Curing
-summary: A post-harvest conditioning process that hardens the skin, heals surface wounds, and develops flavor in certain crops including winter squash, sweet potatoes, garlic, and onions. Proper curing dramatically extends storage life.
+summary: A post-harvest conditioning process that hardens the skin, heals surface wounds, and develops flavor in certain crops including winter squash, sweet potatoes, garlic, and onions. Proper curing extends storage life.
 category: preservation
 related_crops: [garlic, onion, sweet-potato, winter-squash, potato]
 related_articles: []

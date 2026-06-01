@@ -31,11 +31,11 @@ The cost of Mel's Mix is significant for a new installation. A 4x8 bed requires 
 
 ## What the System Does Well
 
-**Space efficiency.** An intensively planted 4x8 bed produces substantially more than 32 square feet of traditional row gardening because no space is wasted on walkways within the bed. The same harvests that would require a 200-square-foot traditional plot can be achieved in an 80-100 square foot raised bed system.
+**Space efficiency.** An intensively planted 4x8 bed produces more than 32 square feet of traditional row gardening because no space is wasted on walkways within the bed. The same harvests that would require a 200-square-foot traditional plot can be achieved in an 80-100 square foot raised bed system.
 
 **Accessibility for beginners.** The grid makes planning concrete. "One tomato here, four lettuce there, sixteen carrots in this square" gives new gardeners a clear framework rather than abstract spacing guidance.
 
-**Weed reduction.** Dense planting shades soil between plants, reducing weed germination and growth. Compared to widely-spaced row crops with bare ground between rows, an intensively planted bed stays considerably cleaner.
+**Weed reduction.** Dense planting shades soil between plants, reducing weed germination and growth. Compared to widely-spaced row crops with bare ground between rows, an intensively planted bed stays cleaner.
 
 ## Limitations
 

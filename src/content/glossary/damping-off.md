@@ -20,7 +20,7 @@ The cause is not a single pathogen. Several soilborne fungi and water molds - pr
 
 **Dense seeding.** Too many seedlings per cell or per flat creates overcrowding that limits air circulation at the soil surface and concentrates susceptible tissue.
 
-**Non-sterile growing medium.** Garden soil, partially finished compost, or reused potting mix can harbor high pathogen loads. Sterile commercial seed-starting mix or new potting mix significantly reduces pathogen pressure at germination.
+**Non-sterile growing medium.** Garden soil, partially finished compost, or reused potting mix can harbor high pathogen loads. Sterile commercial seed-starting mix or new potting mix reduces pathogen pressure at germination.
 
 ## Prevention
 

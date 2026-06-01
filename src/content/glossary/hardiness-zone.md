@@ -18,7 +18,7 @@ For annual vegetables grown within a single season (tomatoes, beans, squash), ha
 
 ## What Zones Don't Tell You
 
-Zones are a minimum temperature average, not a full climate description. Two locations in zone 7 can have dramatically different growing conditions:
+Zones are a minimum temperature average, not a full climate description. Two locations in zone 7 can have different growing conditions:
 
 - Portland, Oregon (zone 8b) and Raleigh, North Carolina (zone 7b): similar hardiness zones but very different summer temperatures, humidity, and rainfall patterns. A Mediterranean herb like lavender thrives in Portland's dry summers and struggles in Raleigh's humidity.
 - The western and eastern sides of a mountain range often differ by 2-3 zones across a distance of 30 miles.

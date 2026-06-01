@@ -16,7 +16,7 @@ The digestive process of earthworms transforms organic material in specific ways
 
 **Nutrient availability:** Worm castings have higher concentrations of nitrate, available phosphorus, and available potassium than thermophilic compost from similar inputs. Studies comparing vermicompost to compost show 5-11 times higher nitrate nitrogen, 1.5-3 times higher available phosphorus, and similar or higher available potassium (Edwards and Bohlen, 1996, *Biology and Ecology of Earthworms*).
 
-**Microbial activity:** Worm guts are high-diversity microbial environments. The passage of material through the gut increases microbial populations and diversity. Fresh vermicompost has substantially higher bacterial and fungal biomass than equivalent thermophilic compost, which translates to more active soil biology when applied.
+**Microbial activity:** Worm guts are high-diversity microbial environments. The passage of material through the gut increases microbial populations and diversity. Fresh vermicompost has higher bacterial and fungal biomass than equivalent thermophilic compost, which translates to more active soil biology when applied.
 
 **Plant growth promoting compounds:** Earthworm castings contain humates, fulvates, and plant growth regulators (cytokinins, auxins) at detectable concentrations. Plant growth responses to vermicompost consistently exceed what the nutrient profile alone predicts - an effect attributed to plant growth regulators and elevated microbial activity (Atiyeh et al., *Bioresource Technology*, 2000).
 

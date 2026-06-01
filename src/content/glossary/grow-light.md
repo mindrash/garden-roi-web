@@ -8,7 +8,7 @@ related_articles: []
 
 Grow lights are artificial light sources that provide plants with the wavelengths and intensity needed for photosynthesis. The relevant photosynthetic spectrum is roughly 400-700 nanometers (PAR - photosynthetically active radiation), peaking in the blue (450-500nm) and red (620-700nm) wavelengths. Green wavelengths are reflected rather than absorbed, which is why plants appear green.
 
-For seed starting under lights, the goal is providing enough light to produce compact, stocky seedlings rather than the elongated, pale plants that result from window-sill germination in low light. For full indoor production of fruiting crops, the light requirements are substantially higher.
+For seed starting under lights, the goal is providing enough light to produce compact, stocky seedlings rather than the elongated, pale plants that result from window-sill germination in low light. For full indoor production of fruiting crops, the light requirements are higher.
 
 ## LED vs. Fluorescent vs. HID
 
@@ -46,4 +46,4 @@ Plants use red (660nm) for flowering and stem extension and blue (440-490nm) for
 
 ## Heat Management
 
-All grow lights produce some heat. In a small seedling setup, this may be negligible. In a closet or tent with multiple fixtures, heat buildup requires ventilation. LED fixtures generate significantly less heat per unit of light output than HID; this is a meaningful practical advantage in small indoor spaces.
+All grow lights produce some heat. In a small seedling setup, this may be negligible. In a closet or tent with multiple fixtures, heat buildup requires ventilation. LED fixtures generate less heat per unit of light output than HID; this is a practical advantage in small indoor spaces.
