@@ -36,7 +36,7 @@ The seed rack at a hardware store will have Table Ace and probably Carnival. Tha
 
 **Table Ace** is the reliable standard. Dark green ribbed fruit, 2-3 lb, 80 days. If you've eaten acorn squash from a grocery store, you've probably had Table Ace or something close to it. It stores 6-8 weeks and produces well across a wide range of conditions.
 
-**Carnival** has variegated skin - cream, orange, and green patches - which makes it genuinely attractive as a table decoration before you cook it. Flavor is slightly sweeter than Table Queen types. Days to maturity: 85. Storage is shorter than Table Ace; plan to use Carnival first in the lineup.
+**Carnival** has variegated skin - cream, orange, and green patches - which makes it attractive as a table decoration before you cook it. Flavor is slightly sweeter than Table Queen types. Days to maturity: 85. Storage is shorter than Table Ace; plan to use Carnival first in the lineup.
 
 **Sweet Reba** is an open-pollinated variety with semi-hull-less seeds - you can eat the seeds after roasting without the tough hull getting in the way. Good flavor, productive vines. 80 days.
 
@@ -105,15 +105,15 @@ Male flowers appear first, often 1-2 weeks before female flowers. Female flowers
 
 Harvest when the skin is fully colored and hard, the stem is completely corky and dry, and the skin resists a fingernail pressed firmly against it. For dark green varieties, the skin should be a deep, even green - not lighter green or streaked. The ground spot where the fruit rested on the soil should have turned from white to tan or orange.
 
-Leave 2-3 inches of stem attached. A broken-off stem shortens storage life significantly because it creates an entry point for rot.
+Leave 2-3 inches of stem attached. A broken-off stem shortens storage life because it creates an entry point for rot.
 
 **Here is the critical distinction from butternut:** acorn squash does not benefit from extended post-harvest curing. Butternut needs 4+ weeks of curing at 80-85°F to harden the skin and develop full sugar content. Spaghetti squash benefits from 2-4 weeks. Acorn squash is different. A short 7-10 day cure at 70-75°F to let the cut stem dry and the skin surface harden is useful. Beyond that, extended curing actively degrades acorn squash quality - the skin thickens and toughens, the flesh gets stringier, and the flavor flattens. This is not speculation; it's a consistent finding in post-harvest quality research on *Cucurbita pepo* types.
 
 The practical consequence: don't harvest your acorn squash and stack it in the barn until January assuming it will improve with time. It won't. Eat it in October and November when it's at its best.
 
-**Storage:** 4-6 weeks at 50-55°F is the practical window for peak quality. Some sources cite up to 3 months for acorn squash, and it may technically survive that long, but the eating quality declines substantially after 6-8 weeks. Honey Bear and Table Ace hold reasonably well for 6-8 weeks. Carnival is shorter - use it first.
+**Storage:** 4-6 weeks at 50-55°F is the practical window for peak quality. Some sources cite up to 3 months for acorn squash, and it may technically survive that long, but the eating quality declines after 6-8 weeks. Honey Bear and Table Ace hold reasonably well for 6-8 weeks. Carnival is shorter - use it first.
 
-Compare this to butternut, which genuinely keeps 4-6 months in the right conditions. If you want winter squash still tasting good in February, plant butternut alongside your acorn. Eat the acorn first.
+Compare this to butternut, which keeps 4-6 months in the right conditions. If you want winter squash still tasting good in February, plant butternut alongside your acorn. Eat the acorn first.
 
 Storage priority order for a mixed winter squash harvest: Carnival first (4-6 weeks), Table Ace and Honey Bear next (6-8 weeks), butternut last (months).
 

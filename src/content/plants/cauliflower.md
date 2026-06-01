@@ -33,7 +33,7 @@ White cauliflower is what most grocery stores carry. The colored types are where
 
 **Purple cauliflower** (Graffiti, Violet Queen) turns green when cooked - the anthocyanins are heat-sensitive. Best eaten raw or barely steamed. Retail price at specialty stores runs $5-8/lb.
 
-**[Romanesco](/crops/romanesco/)** is technically a cauliflower. Its lime-green spiral structure sells out at farmers markets. It's also significantly harder to grow - heat-sensitive, slow to mature, and unforgiving of timing errors. Save it for your second season with cauliflower.
+**[Romanesco](/crops/romanesco/)** is technically a cauliflower. Its lime-green spiral structure sells out at farmers markets. It's also harder to grow - heat-sensitive, slow to mature, and unforgiving of timing errors. Save it for your second season with cauliflower.
 
 ## The ROI case
 

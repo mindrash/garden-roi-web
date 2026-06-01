@@ -90,11 +90,11 @@ Soil temperature for transplanting: soil should be 50°F or above. Broccoli seed
 
 **Downy mildew** (*Peronospora parasitica*) shows as pale yellow patches on upper leaf surfaces with grayish-purple fuzz on the undersides. It's worst in cool, humid conditions with poor air circulation - exactly the weather broccoli prefers. Space plants at the full 18-24 inch recommendation. Avoid overhead irrigation in the evening; water at the base of the plant in the morning so foliage dries before nightfall.
 
-**Clubroot** (*Plasmodiophora brassicae*) is a soilborne slime mold that causes swollen, distorted roots and plants that wilt and yellow even in moist soil. Once it's in a bed, it persists for 10-20 years. Raising soil pH above 7.0 significantly reduces infection pressure (Penn State Extension, *Crucifer Diseases*, 2019). Rotate brassicas out of any bed for a minimum of 3-4 years. Don't move soil from an infected bed to a clean one on tools or boots.
+**Clubroot** (*Plasmodiophora brassicae*) is a soilborne slime mold that causes swollen, distorted roots and plants that wilt and yellow even in moist soil. Once it's in a bed, it persists for 10-20 years. Raising soil pH above 7.0 sharply reduces infection pressure (Penn State Extension, *Crucifer Diseases*, 2019). Rotate brassicas out of any bed for a minimum of 3-4 years. Don't move soil from an infected bed to a clean one on tools or boots.
 
 **Tip burn** presents as browning at the edges of inner head leaves and bracts. It's a calcium deficiency symptom, but the cause is usually inconsistent watering - calcium uptake is tied to water movement through the plant. Even soil moisture matters more than calcium applications in most cases.
 
-**Hollow stem** in the central stalk indicates too-fast growth, typically from excess nitrogen or very warm temperatures during head development. It doesn't affect flavor meaningfully but reduces the visual quality of the harvested head.
+**Hollow stem** in the central stalk indicates too-fast growth, typically from excess nitrogen or very warm temperatures during head development. It doesn't affect flavor but reduces the visual quality of the harvested head.
 
 ## Harvest and storage
 

@@ -20,7 +20,7 @@ Brussels sprouts (*Brassica oleracea* var. *gemmifera*) produce more grocery val
 
 ## What frost actually does
 
-The bitterness reputation is a timing problem, not a variety problem. Sprouts harvested before cold weather are genuinely bitter - glucosinolate compounds concentrate without the cold to convert them. Once temperatures drop below 28°F, the plant converts leaf and sprout starches to sugars. The same sprout that tastes flat in September tastes measurably sweeter after a hard frost in November. Plan for that. You're not just avoiding heat by growing into fall - you're actively improving the product.
+The bitterness reputation is a timing problem, not a variety problem. Sprouts harvested before cold weather are bitter - glucosinolate compounds concentrate without the cold to convert them. Once temperatures drop below 28°F, the plant converts leaf and sprout starches to sugars. The same sprout that tastes flat in September tastes measurably sweeter after a hard frost in November. Plan for that. You're not just avoiding heat by growing into fall - you're actively improving the product.
 
 ## The ROI case
 
@@ -48,7 +48,7 @@ When lower leaves yellow and bottom sprouts reach 3/4 inch diameter, remove the 
 
 ## Harvest and storage
 
-Harvest lowest sprouts first when they reach 1-1.5 inches in diameter and feel firm. Work upward over 6-8 weeks as upper sprouts mature. After a hard frost, cut the entire stalk and store in a cool garage or refrigerator - sprouts on the stalk hold quality 3-4 weeks, significantly longer than sprouts removed from the stalk.
+Harvest lowest sprouts first when they reach 1-1.5 inches in diameter and feel firm. Work upward over 6-8 weeks as upper sprouts mature. After a hard frost, cut the entire stalk and store in a cool garage or refrigerator - sprouts on the stalk hold quality 3-4 weeks, longer than sprouts removed from the stalk.
 
 Blanch 3-5 minutes, cool in ice water, dry thoroughly, freeze in a single layer before bagging. Quality holds 12 months frozen (National Center for Home Food Preservation, *Freezing Vegetables*, 2021).
 
@@ -77,7 +77,7 @@ A three-week planting delay in Zone 5 means sprouts that should mature in Octobe
 
 At 4-6 weeks before your first expected frost - approximately early September in Zone 5 - top the plant by pinching or cutting the growing tip cleanly with pruning shears. Removing the terminal bud stops the plant from initiating new leaves and redirects all carbohydrate production into the sprouts already set on the stalk.
 
-The size difference is significant. Without topping, sprouts typically mature to 0.75-1 inch in diameter. After topping, the same sprouts reach 1.5-2 inches in diameter as they pull additional energy from the plant before frost. University of Minnesota Extension documents this technique as standard practice for maximizing harvest size in northern zones (*Growing Brussels Sprouts*, 2022).
+Without topping, sprouts typically mature to 0.75-1 inch in diameter. After topping, the same sprouts reach 1.5-2 inches in diameter as they pull additional energy from the plant before frost. University of Minnesota Extension documents this technique as standard practice for maximizing harvest size in northern zones (*Growing Brussels Sprouts*, 2022).
 
 Do not top early. If you top in late July, you cut off 6-8 weeks of additional sprout set. The window is specifically 4-6 weeks before first frost - early enough for remaining sprouts to size up, late enough that you have already set the full stalk.
 

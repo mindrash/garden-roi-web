@@ -29,7 +29,7 @@ Carrot (*Daucus carota* subsp. *sativus*) is one of those crops that looks simpl
 
 ## What you're actually choosing between
 
-The four cultivar groups that matter for home gardeners cover meaningfully different soil tolerances and end uses.
+The four cultivar groups that matter for home gardeners cover different soil tolerances and end uses.
 
 **Nantes** types are cylindrical with blunt tips, high sugar content, and the best all-around flavor. They handle heavier soils better than Imperators but still want loose conditions. 'Bolero' and 'Scarlet Nantes' are reliable picks.
 
@@ -45,7 +45,7 @@ The rainbow and heirloom types - 'Cosmic Purple,' 'Atomic Red,' 'Dragon,' 'Yello
 
 Conventional carrots at retail run $1.50-$2.50/lb for standard orange varieties, based on USDA Agricultural Marketing Service fresh vegetable retail price data. That's thin margin territory if you're comparing your garden against bagged carrots at a warehouse store.
 
-The case shifts when you look at specialty varieties. Rainbow carrot mixes at farmers markets typically move at $4.00-$6.00/lb. Purple, red, and white heirloom types sometimes run higher. Those varieties don't exist in most grocery stores in any meaningful way - the commercial distribution chain selects for uniformity, shelf life, and machine harvestability, none of which favor heirloom carrot types. If you want 'Dragon' or 'Cosmic Purple,' you either grow them or you visit a farmers market.
+The case shifts when you look at specialty varieties. Rainbow carrot mixes at farmers markets typically move at $4.00-$6.00/lb. Purple, red, and white heirloom types sometimes run higher. Those varieties aren't available in most grocery stores - the commercial distribution chain selects for uniformity, shelf life, and machine harvestability, none of which favor heirloom carrot types. If you want 'Dragon' or 'Cosmic Purple,' you either grow them or you visit a farmers market.
 
 A $2.49 seed packet contains several hundred seeds - more than you'll plant in a season. At a conservative 1 lb per 10 feet of row, a 20-foot bed returns 2 lb at specialty pricing of $5/lb, which is $10 in grocery value from a packet that cost you $2.49. The time cost is real (thinning is tedious), but the math works.
 
@@ -65,7 +65,7 @@ Fertilize at planting with a balanced fertilizer worked into the soil. Carrots d
 
 ## Fall carrots are better than spring carrots
 
-Cold converts starches to sugars in carrot roots - the same mechanism that makes parsnips sweet after a frost. A carrot grown through summer heat into fall cold is meaningfully sweeter than the same variety harvested in June.
+Cold converts starches to sugars in carrot roots - the same mechanism that makes parsnips sweet after a frost. A carrot grown through summer heat into fall cold is sweeter than the same variety harvested in June.
 
 For fall harvest, count back from your first frost date. Carrots need 70-80 days to maturity. Add a week for slow germination in summer heat. In most of Zone 5-6, that means a July or early August direct sow. The crop matures into September and October, when the sugars are converting. You can leave carrots in the ground after frost - they handle light freezes without damage - and harvest through November in many climates.
 

@@ -23,9 +23,9 @@ faq:
     a: "Yes. Leaf celery (cutting celery) tolerates inconsistent moisture, warmer temperatures, and shorter seasons. It delivers the same deep celery flavor for soups and stocks from a plant grown much like an herb. For most home gardeners it is the practical choice over demanding stalk celery."
 ---
 
-Celery (*Apium graveolens*) is the most technically demanding common vegetable in the home garden. Not in a romantic, challenging-but-rewarding way. In a genuinely difficult, many-things-can-go-wrong way. The crop wants a narrow temperature window, more water than almost anything else you can grow, a long season that doesn't fit neatly into most climates, and consistent soil fertility to avoid hollow or pithy stalks. If you've been gardening for years and want to test your setup's limits, celery will do it.
+Celery (*Apium graveolens*) is the most technically demanding common vegetable in the home garden. Not in a romantic, challenging-but-rewarding way. In a difficult, many-things-can-go-wrong way. The crop wants a narrow temperature window, more water than almost anything else you can grow, a long season that doesn't fit neatly into most climates, and consistent soil fertility to avoid hollow or pithy stalks. If you've been gardening for years and want to test your setup's limits, celery will do it.
 
-Before you commit to stalk celery, know that there is an easier version of this crop. Leaf celery - also called cutting celery - gives you the same deep celery flavor for soups and stocks from a plant that's genuinely tolerant of the conditions that destroy stalk celery. If your watering is inconsistent or your summers get hot before you want them to, leaf celery is not a consolation prize. For most home gardeners, it's the right choice. The distinction matters and gets its own section below.
+Before you commit to stalk celery, know that there is an easier version of this crop. Leaf celery - also called cutting celery - gives you the same deep celery flavor for soups and stocks from a plant that tolerates the conditions that destroy stalk celery. If your watering is inconsistent or your summers get hot before you want them to, leaf celery is not a consolation prize. For most home gardeners, it's the right choice. The distinction matters and gets its own section below.
 
 ## The honest ROI case
 
@@ -50,17 +50,17 @@ The reason is celery's root system. Unlike tomatoes or squash that run deep tapr
 
 A single week of drought stress during the active stalk development phase - roughly the 30-60 days before harvest - is enough to ruin the crop. Not damage it. Ruin it.
 
-Drip irrigation is the correct delivery method. It keeps the root zone consistently moist, avoids wetting foliage (which promotes Septoria leaf blight), and lets you set a timer so the question of "did I water this week?" is answered automatically. Hand watering works if you're genuinely consistent about it. Overhead sprinklers are the worst option - they wet leaves, encourage disease, and deliver uneven moisture.
+Drip irrigation is the correct delivery method. It keeps the root zone consistently moist, avoids wetting foliage (which promotes Septoria leaf blight), and lets you set a timer so the question of "did I water this week?" is answered automatically. Hand watering works if you're consistent about it. Overhead sprinklers are the worst option - they wet leaves, encourage disease, and deliver uneven moisture.
 
 If you cannot water consistently - travel, dry summers without a reliable drip system, a garden that relies on rainfall - don't grow stalk celery. Grow celeriac (*A. graveolens* var. *rapaceum*) instead. Celeriac is the same species, grown for a swollen, knobby root rather than stalks. It tolerates moderate moisture stress far better than stalk celery, and delivers a similar intense flavor that stores for months in a root cellar. Or grow leaf celery, described below.
 
 ## Leaf celery: the right choice for most gardens
 
-Leaf celery (*A. graveolens* var. *secalinum*) - also sold as cutting celery or seasoning celery - produces slender stalks and dense, intensely flavored leaves rather than the thick bunching stalks of Pascal types. The flavor is even more concentrated than stalk celery. The plant itself is dramatically easier to grow.
+Leaf celery (*A. graveolens* var. *secalinum*) - also sold as cutting celery or seasoning celery - produces slender stalks and dense, intensely flavored leaves rather than the thick bunching stalks of Pascal types. The flavor is even more concentrated than stalk celery. The plant itself is much easier to grow.
 
 Leaf celery tolerates drought stress that would destroy stalk celery. It doesn't need blanching. It doesn't require the same long cool season. You can grow it much like flat-leaf parsley - sow it, keep it reasonably watered, cut what you need as you need it. The leaves and thin stalks work in soups, stocks, stuffing, sauces, and anywhere you'd use celery as a flavoring agent rather than a vegetable on its own.
 
-For home gardeners who want celery flavor in their cooking without a demanding technical commitment, leaf celery delivers more value per square foot and per hour of effort than stalk celery does. It's not a lesser crop - it's a different one that's genuinely better suited to home garden conditions.
+For home gardeners who want celery flavor in their cooking without a demanding technical commitment, leaf celery delivers more value per square foot and per hour of effort than stalk celery does. It's not a lesser crop - it's a different one that's better suited to home garden conditions.
 
 Recommended leaf celery varieties: **Dinant** (75 days, productive, heat-tolerant) and **Par-Cel** (an old French variety with curled leaves, mild and productive). Both are available from specialty seed houses.
 
@@ -75,7 +75,7 @@ If you've decided stalk celery is worth the effort, variety selection matters. S
 | Golden Self-Blanching | Self-blanching (heirloom) | 85 days | Naturally pale yellow-green; mild flavor; smaller stalks than Pascal types |
 | Dinant | Leaf celery | 75 days | Grown for leaves and thin stalks; drought-tolerant; easy; best for culinary use |
 
-Ventura is the sensible starting point for a first attempt at stalk celery. It matures faster than Tall Utah - a meaningful advantage if your cool season is short - and produces good flavor without requiring the trench blanching technique.
+Ventura is the sensible starting point for a first attempt at stalk celery. It matures faster than Tall Utah - a real advantage if your cool season is short - and produces good flavor without requiring the trench blanching technique.
 
 ## Trench blanching for traditional stalk celery
 
@@ -85,7 +85,7 @@ Dig a trench 6 inches deep and 12 inches wide. Plant transplants at the bottom o
 
 The trench method requires decent soil drainage - water pooling in a trench invites crown rot. It also requires reasonably consistent earthing-up, done every 10-14 days once plants reach 8 inches tall. Don't bury the heart of the plant; always keep the central growing tip fully exposed.
 
-If trench digging sounds like more work than you want to do, choose a self-blanching variety and skip it. The self-blanching types won't produce the traditional pale-white stalks of a properly blanched Pascal, but they're genuinely mild and good without the labor.
+If trench digging sounds like more work than you want to do, choose a self-blanching variety and skip it. The self-blanching types won't produce the traditional pale-white stalks of a properly blanched Pascal, but they're mild and good without the labor.
 
 ## Starting seed and transplanting
 
@@ -103,7 +103,7 @@ Celery grows best at 60-70°F. It tolerates light frost and brief temperatures d
 
 In most of the continental US, celery is a spring or fall crop. For spring, count back 10-12 weeks from when summer heat arrives in your area. For fall (relevant in zones 7-10), count forward 10-12 weeks from when nights reliably cool below 65°F. In zone 6 and colder, fall celery is rarely feasible unless you're pushing it under row cover into October.
 
-The narrow season window is one of the reasons celery is genuinely hard in most US gardens. You're threading a needle between late spring frosts and summer heat. In the Pacific Northwest and coastal California - where summers stay mild - celery performs considerably better than in the Midwest or Southeast.
+The narrow season window is one of the reasons celery is hard in most US gardens. You're threading a needle between late spring frosts and summer heat. In the Pacific Northwest and coastal California - where summers stay mild - celery performs better than in the Midwest or Southeast.
 
 ## What goes wrong
 

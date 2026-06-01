@@ -30,7 +30,7 @@ The plant produces one primary terminal bud per stem - the largest head. After y
 
 A $3.99-$5.99 packet of artichoke seed contains 25-30 seeds. You need 3-5 seeds per planting location to ensure germination, then thin to one, so one packet covers 5-10 planting spots. Nursery crowns or starts run $4-8 each but give you a one-year head start over seed.
 
-At full production, a single perennial crown in Zone 7+ yields 6-12 heads per season when you count both main and secondary buds. Retail artichoke heads run $3-5 each at grocery stores; at farmers markets, specialty varieties regularly fetch $4-6 per head because artichokes require significant space and hands-on harvest judgment. Growers who sell at market can legitimately price them at $4-5 each for standard Green Globe and $5-6 for purple or specialty types.
+At full production, a single perennial crown in Zone 7+ yields 6-12 heads per season when you count both main and secondary buds. Retail artichoke heads run $3-5 each at grocery stores; at farmers markets, specialty varieties regularly fetch $4-6 per head because artichokes require real space and hands-on harvest judgment. Growers who sell at market can legitimately price them at $4-5 each for standard Green Globe and $5-6 for purple or specialty types.
 
 Work through the math on a typical perennial plant:
 
@@ -69,7 +69,7 @@ Without vernalization, your Zone 5-6 artichokes will grow into impressive 4-foot
 
 ## Variety Comparison
 
-Not all artichokes perform equally across zones, and the variety choice is one of the few decisions that actually changes your outcome significantly.
+Not all artichokes perform equally across zones, and the variety choice is one of the few decisions that actually changes your outcome.
 
 | Variety | Days to Maturity | Best For | Head Characteristics | Notes |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ Fertilize every 4 weeks from spring through early summer with a balanced fertili
 
 ## Harvesting the Full Plant: Primary, Secondary, and Tertiary Buds
 
-Most first-time artichoke growers harvest the main terminal bud and then either pull the plant or wait too long on secondary buds. That's leaving significant harvest on the table.
+Most first-time artichoke growers harvest the main terminal bud and then either pull the plant or wait too long on secondary buds. That's leaving real harvest on the table.
 
 The harvest sequence for a single stem goes like this:
 
@@ -116,9 +116,9 @@ After harvest, cut spent stems back to the crown. New basal shoots will develop 
 
 **Botrytis blight** (*Botrytis cinerea*) kills buds and crowns in wet, cool conditions. Gray fuzzy growth on bracts or the crown base is the diagnostic. Improve air circulation by giving plants adequate spacing, use drip irrigation, and remove affected tissue promptly. Copper-based fungicides applied preventively help in historically wet springs.
 
-**Aphids** - typically *Aphis fabae* (black bean aphid) or *Macrosiphum euphorbiae* (potato aphid) - concentrate on new growth and beneath developing bud bracts. A strong stream of water dislodges them. Insecticidal soap handles heavier infestations without affecting beneficial insects significantly.
+**Aphids** - typically *Aphis fabae* (black bean aphid) or *Macrosiphum euphorbiae* (potato aphid) - concentrate on new growth and beneath developing bud bracts. A strong stream of water dislodges them. Insecticidal soap handles heavier infestations without affecting beneficial insects.
 
-**Crown rot** from waterlogged soil kills perennial plantings and wipes out your multi-year investment in a single wet winter. Raised beds or well-amended, genuinely well-drained soil prevents it. Don't plant artichokes in low spots or areas where water sits after rain.
+**Crown rot** from waterlogged soil kills perennial plantings and wipes out your multi-year investment in a single wet winter. Raised beds or well-amended, well-drained soil prevents it. Don't plant artichokes in low spots or areas where water sits after rain.
 
 **No heads in year one (cold climates):** If your Zone 5-6 plants made impressive foliage but no buds, you either skipped vernalization or the cold treatment wasn't long enough or cold enough. Next season, start seeds earlier (January), let seedlings reach 6-8 inches before cold treatment, and make sure the treatment location actually hits 35-45°F consistently for at least two weeks. A garage that stays at 55°F won't do it.
 

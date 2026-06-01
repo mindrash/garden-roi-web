@@ -35,7 +35,7 @@ Standard arugula (*Eruca vesicaria* subsp. *sativa*) is an annual brassica that 
 
 What most American seed packets label as "arugula" or "roquette" is this annual type. But there's a second species that shows up in high-end restaurants and specialty grocers, and it's a different plant entirely.
 
-**Wild arugula** (*Diplotaxis tenuifolia*) - sometimes sold as Sylvetta or perennial arugula - is a different genus. The leaves are more deeply lobed, almost like a smaller version of oak leaf lettuce. The flavor is significantly more intense and complex than standard arugula - more peppery, with an almost nutty undertone. More importantly, *D. tenuifolia* is a perennial in zones 6 and warmer, meaning it regrows from its root system year after year. It bolt-resists much better than standard arugula in heat, though it grows more slowly. You're looking at 40+ days to first harvest versus 21-28 days for fast standard varieties.
+**Wild arugula** (*Diplotaxis tenuifolia*) - sometimes sold as Sylvetta or perennial arugula - is a different genus. The leaves are more deeply lobed, almost like a smaller version of oak leaf lettuce. The flavor is more intense and complex than standard arugula - more peppery, with an almost nutty undertone. More importantly, *D. tenuifolia* is a perennial in zones 6 and warmer, meaning it regrows from its root system year after year. It bolt-resists much better than standard arugula in heat, though it grows more slowly. You're looking at 40+ days to first harvest versus 21-28 days for fast standard varieties.
 
 The practical comparison between the two types:
 
@@ -60,7 +60,7 @@ Here's where arugula separates itself from other high-value crops. The math requ
 
 A 10-square-foot bed - roughly 2 feet wide by 5 feet long - will yield 3 to 4 pounds of baby arugula per cut when the planting is full and growing well (University of California Cooperative Extension, *Vegetable Research & Information Center* yield data for salad greens). With cut-and-come-again harvesting, you get 2 to 3 cuts per planting before quality declines. That's 6 to 12 pounds of arugula per 10-square-foot planting.
 
-At $8/lb (mid-range for Whole Foods baby arugula pricing), a single 10-square-foot planting over its full life produces $48 to $96 in grocery value. At $2.49 for the seed packet, you're not even spending a meaningful fraction of that on seed.
+At $8/lb (mid-range for Whole Foods baby arugula pricing), a single 10-square-foot planting over its full life produces $48 to $96 in grocery value. At $2.49 for the seed packet, the seed cost barely registers against that return.
 
 The reason to run successions isn't yield per planting - it's continuity. Any single planting has maybe a 4-to-6-week window of peak quality before heat triggers bolting in spring, or before cold hardens the leaves into bitterness in late fall. Staggered plantings keep you in fresh arugula for 10 to 14 weeks per season window rather than 4 to 6.
 
@@ -119,11 +119,11 @@ Arugula survives light frosts without protection down to about 22 to 25°F. Unde
 | 7 | Sep 1 | Sep 29 - Oct 5 | Peak fall quality |
 | 8 | Sep 15 | Oct 13-18 | |
 | 9 | Oct 1 | Oct 29 - Nov 4 | Row cover helpful as nights drop below 40°F |
-| 10 | Oct 15 | Nov 12-17 | Row cover required; growth slows significantly |
+| 10 | Oct 15 | Nov 12-17 | Row cover required; growth slows |
 | 11 | Nov 1 | Dec 5-15 | Winter planting; very slow growth under cover |
 | 12 | Jan 15 | Feb 20-28 | Late winter planting as days lengthen |
 
-In the coldest months - December through February - growth slows dramatically because arugula's optimal growth temperature is 45 to 65°F and short days limit photosynthesis. A November planting may take 5 to 6 weeks to reach harvest size instead of the usual 3 to 4. But the plants do survive, and they do produce. Eliot Coleman's work on overwintering salad crops (Coleman, *Four-Season Harvest*, 1999) documents arugula as one of the hardiest candidates for cold-climate tunnel production precisely because it tolerates temperature swings and recovers quickly after freezes.
+In the coldest months - December through February - growth slows because arugula's optimal growth temperature is 45 to 65°F and short days limit photosynthesis. A November planting may take 5 to 6 weeks to reach harvest size instead of the usual 3 to 4. But the plants do survive, and they do produce. Eliot Coleman's work on overwintering salad crops (Coleman, *Four-Season Harvest*, 1999) documents arugula as one of the hardiest candidates for cold-climate tunnel production precisely because it tolerates temperature swings and recovers quickly after freezes.
 
 Wild arugula (*Diplotaxis tenuifolia*) is particularly suited to year-round Zone 7+ production. Because it's perennial in Zone 6 and warmer, you can establish a permanent patch that comes back each spring from its root system. It grows more slowly than standard arugula - expect 45 to 60 days for a first cut rather than 28 to 35 - but once established, the regrowth is faster than starting from seed each time. A wild arugula patch in its second or third year can produce its first spring cut before standard arugula seedlings are even two inches tall.
 
@@ -131,7 +131,7 @@ Wild arugula (*Diplotaxis tenuifolia*) is particularly suited to year-round Zone
 
 This is the thing most arugula guides skip, and it matters.
 
-Spring arugula grown in warming soils with increasing day length is more peppery than fall arugula of the same variety, harvested from the same seed packet. The difference is significant enough that some cooks who claim to dislike arugula have only ever eaten the spring version.
+Spring arugula grown in warming soils with increasing day length is more peppery than fall arugula of the same variety, harvested from the same seed packet. The difference is real - some cooks who claim to dislike arugula have only ever eaten the spring version.
 
 The mechanism is glucosinolate synthesis. Cool nights - consistently below 55°F - slow glucosinolate production. Arugula plants growing in September and October, sizing up through nights in the 40s, produce leaves with lower glucosinolate concentrations than the same plants would in April and May as temperatures climb. The result is milder, slightly sweeter flavor with the peppery bite present but not aggressive. This is the arugula that works in a simple salad with lemon and Parmesan. Spring arugula from the same bed in May, with leaves that have seen a week of 75°F afternoons, is sharper - better in a context where you want the bite, like on top of a pizza or in a grain bowl where the dressing is rich.
 

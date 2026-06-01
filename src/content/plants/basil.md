@@ -25,7 +25,7 @@ faq:
     a: "Fresh basil keeps best at room temperature in a glass of water like cut flowers. Refrigeration causes blackening. For longer storage, freeze in olive oil in ice cube trays or blend into pesto and freeze."
 ---
 
-Basil (*Ocimum basilicum*) is one of the few culinary herbs where a single healthy plant genuinely offsets what you'd spend at the grocery store over a season. The price picture is more complicated than it first looks: a $3–$4 clamshell at the supermarket weighs 0.75 oz, which works out to $64–$85/lb. That's the retail packaging premium, not the commodity price of the herb itself. Loose bunch fresh basil at farmers markets and grocery stores runs $6–$10/lb for conventional and $10–$14/lb for organic, based on USDA Agricultural Marketing Service retail price surveys. Those are the numbers that matter for ROI comparisons - the clamshell price tells you what the packaging costs, not what the basil is worth. You won't replicate commercial greenhouse yields in a raised bed, but you also don't need to. Three to four well-managed plants will cover a typical household through the growing season and leave plenty for freezing.
+Basil (*Ocimum basilicum*) is one of the few culinary herbs where a single healthy plant offsets what you'd spend at the grocery store over a season. The price picture is more complicated than it first looks: a $3–$4 clamshell at the supermarket weighs 0.75 oz, which works out to $64–$85/lb. That's the retail packaging premium, not the commodity price of the herb itself. Loose bunch fresh basil at farmers markets and grocery stores runs $6–$10/lb for conventional and $10–$14/lb for organic, based on USDA Agricultural Marketing Service retail price surveys. Those are the numbers that matter for ROI comparisons - the clamshell price tells you what the packaging costs, not what the basil is worth. You won't replicate commercial greenhouse yields in a raised bed, but you also don't need to. Three to four well-managed plants will cover a typical household through the growing season and leave plenty for freezing.
 
 ## What you're actually growing
 
@@ -57,7 +57,7 @@ Basil is a tropical plant and it behaves like one. It will not tolerate frost, a
 
 Start seeds indoors six to eight weeks before your last frost date. Basil germinates in 5–10 days at 70–75°F soil temperature. Don't rush the hardening-off process  -  a week of gradual outdoor exposure prevents the cold shock that sets plants back by two weeks.
 
-Soil pH in the 6.0–7.0 range works well. Basil is not as pH-fussy as some herbs, but drainage matters more than anything: waterlogged roots invite fusarium wilt faster than anything else you'll encounter. Raised beds with well-amended soil drain reliably; in-ground beds with heavy clay need significant organic matter worked in before planting.
+Soil pH in the 6.0–7.0 range works well. Basil is not as pH-fussy as some herbs, but drainage matters more than anything: waterlogged roots invite fusarium wilt faster than anything else you'll encounter. Raised beds with well-amended soil drain reliably; in-ground beds with heavy clay need organic matter worked in before planting.
 
 Fertilize conservatively. Basil grows fast and doesn't need heavy feeding. A balanced granular fertilizer worked in at planting, followed by a liquid balanced fertilizer once a month, is more than adequate. Excess nitrogen pushes lush foliar growth but dilutes the aromatic oils that make the herb worth growing  -  the same mechanism that makes tomatoes watery when over-fertilized (Penn State Extension, *Herb Production*, 2019).
 
@@ -99,7 +99,7 @@ If you're growing Genovese basil in a bed that has had basil previously, start w
 
 Cut stems in the morning after dew dries and the aromatic oils are at their peak. Use immediately or store stems upright in a glass of water at room temperature  -  not in the refrigerator, which will blacken leaves within a day or two. Basil keeps best at 65–68°F.
 
-For longer storage, blend leaves with just enough olive oil to make a paste and freeze in ice cube trays. The color won't be as bright as fresh, but the flavor holds better than drying. Full-leaf drying works but results in significant flavor loss compared to the fresh herb  -  dried basil is useful for long-cooked dishes, not for finishing.
+For longer storage, blend leaves with just enough olive oil to make a paste and freeze in ice cube trays. The color won't be as bright as fresh, but the flavor holds better than drying. Full-leaf drying works but results in real flavor loss compared to the fresh herb  -  dried basil is useful for long-cooked dishes, not for finishing.
 
 ## Preservation: the real numbers
 

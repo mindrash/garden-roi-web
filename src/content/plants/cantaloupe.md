@@ -16,7 +16,7 @@ description: "Cantaloupe (Cucumis melo var. cantalupensis) - 5-10 lb per vine at
 hero_image: /images/crops/cantaloupe.webp
 ---
 
-A supermarket cantaloupe is picked at 25 to 50 percent of its potential sugar content, gassed with ethylene, and shipped. What you buy at the grocery store is a transportation-tolerant facsimile of a fruit that, when vine-ripened, is genuinely a different food. The ROI case for growing cantaloupe isn't just about saving money per pound - it's that the fruit you can grow at home doesn't exist in most grocery stores at any price.
+A supermarket cantaloupe is picked at 25 to 50 percent of its potential sugar content, gassed with ethylene, and shipped. What you buy at the grocery store is a transportation-tolerant facsimile of a fruit that, when vine-ripened, is a different food. The ROI case for growing cantaloupe isn't just about saving money per pound - it's that the fruit you can grow at home doesn't exist in most grocery stores at any price.
 
 ## What Brix actually means
 
@@ -89,7 +89,7 @@ Plant spacing: 18 to 24 inches between transplants in rows 5 to 6 feet apart, or
 
 Powdery mildew (*Podosphaera xanthii*) is the most predictable problem in late-season cantaloupe and it affects all cucurbits. White powdery coating appears on upper leaf surfaces, spreads quickly, and weakens the plant before fruit fully matures. Infected leaves don't recover. Spacing vines for airflow helps. Apply a sulfur-based fungicide at the first sign - a few spots on lower leaves - not after the plant looks sick throughout. Athena and Aphrodite both carry documented resistance, which is why they're the right choices for humid climates in the Southeast and mid-Atlantic.
 
-Cucumber beetles - striped (*Acalymma vittatum*) and spotted (*Diabrotica undecimpunctata howardi*) - feed on vines and transmit bacterial wilt (*Erwinia tracheiphila*). A plant that wilts quickly on a warm day and doesn't recover overnight is almost certainly infected. The confirmation test: cut a wilted stem near the base, press the two cut ends together briefly, then pull them apart slowly. Bacterial wilt forms stringy threads of bacterial slime between the cut surfaces. Once you see that, pull the plant. Row cover from transplant until first bloom reduces beetle exposure substantially. Remove the cover once flowers open.
+Cucumber beetles - striped (*Acalymma vittatum*) and spotted (*Diabrotica undecimpunctata howardi*) - feed on vines and transmit bacterial wilt (*Erwinia tracheiphila*). A plant that wilts quickly on a warm day and doesn't recover overnight is almost certainly infected. The confirmation test: cut a wilted stem near the base, press the two cut ends together briefly, then pull them apart slowly. Bacterial wilt forms stringy threads of bacterial slime between the cut surfaces. Once you see that, pull the plant. Row cover from transplant until first bloom cuts beetle exposure sharply. Remove the cover once flowers open.
 
 Gummy stem blight (*Stagonosporopsis cucurbitacearum*) produces tan, water-soaked lesions on leaves and stems, sometimes with amber gummy ooze at stem infections. Rotate cantaloupes out of infected beds for at least two to three years.
 
@@ -109,11 +109,11 @@ What you should not rely on alone: color change, because it's gradual and easy t
 
 If the fruit requires any real pulling to separate from the vine, it isn't ready. Check again in two days. A melon at half-slip - when it separates with some effort - is edible but will be noticeably less sweet than one given another 48 to 72 hours.
 
-Once harvested, a vine-ripened cantaloupe keeps at room temperature for two to three days. Cut melon in the refrigerator, covered, lasts three to four days. Unlike winter squash or garlic, cantaloupe has no meaningful storage life. Harvest it and eat it promptly. The flavor you waited 80 days for disappears quickly.
+Once harvested, a vine-ripened cantaloupe keeps at room temperature for two to three days. Cut melon in the refrigerator, covered, lasts three to four days. Unlike winter squash or garlic, cantaloupe has no real storage life. Harvest it and eat it promptly. The flavor you waited 80 days for disappears quickly.
 
 ## Measuring what you grew
 
-If you want to verify the Brix of your harvest, a $15 handheld refractometer from any brewing supply or online retailer does the job. Squeeze a drop of juice from the center flesh onto the prism, close the cover, and read the scale. Anything above 14 is a good melon. Anything above 16 is a great one. If you're consistently hitting 12 or below, look at your variety selection and your water restriction timing - those two variables account for most of the spread between commercial-grade and genuinely exceptional fruit.
+If you want to verify the Brix of your harvest, a $15 handheld refractometer from any brewing supply or online retailer does the job. Squeeze a drop of juice from the center flesh onto the prism, close the cover, and read the scale. Anything above 14 is a good melon. Anything above 16 is a great one. If you're consistently hitting 12 or below, look at your variety selection and your water restriction timing - those two variables account for most of the spread between commercial-grade and exceptional fruit.
 
 ---
 

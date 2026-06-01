@@ -16,7 +16,7 @@ description: "Calendula (Calendula officinalis) - edible flowers $8-14/lb. Dried
 hero_image: /images/crops/calendula.webp
 ---
 
-A $2.49 seed packet of calendula is genuinely one of the better investments in a kitchen garden. Not because it's easy to grow - though it is - but because it has three separate revenue streams that most edible flowers don't have: fresh cut flowers for farmers markets, dried petals for the herbalism and cosmetic ingredient trade, and companion planting value that's measurable in reduced pest pressure on neighboring crops. Most plants give you one of those. Calendula gives you all three.
+A $2.49 seed packet of calendula is one of the better investments in a kitchen garden. Not because it's easy to grow - though it is - but because it has three separate revenue streams that most edible flowers don't have: fresh cut flowers for farmers markets, dried petals for the herbalism and cosmetic ingredient trade, and companion planting value that's measurable in reduced pest pressure on neighboring crops. Most plants give you one of those. Calendula gives you all three.
 
 The math on the dried petal stream is where it gets interesting. Stick with that calculation, because it changes how you think about the crop.
 
@@ -53,7 +53,7 @@ From a $2.49 packet, a 10-plant row produces somewhere between $18 and $60 in dr
 
 ## Variety selection by use
 
-Not all calendula is the same for production purposes. Variety choice matters more than it does with most herbs because different cultivars are genuinely optimized for different outputs.
+Not all calendula is the same for production purposes. Variety choice matters more than it does with most herbs because different cultivars are optimized for different outputs.
 
 | Variety | Best use | Bloom size | Key characteristic |
 |---|---|---|---|
@@ -103,7 +103,7 @@ Soil pH of 5.5-7.0. Calendula is not demanding about fertility - it tolerates po
 
 Direct sow seeds 0.25 inch deep, spaced 4-6 inches initially, thinned to 12 inches when plants reach 4 inches tall. Calendula transplants well from cell packs if you prefer to start indoors 4-6 weeks before outdoor planting. The root system isn't fragile.
 
-Full sun, 6+ hours minimum. Plants in partial shade bloom less vigorously and are significantly more susceptible to powdery mildew because of reduced air movement and light.
+Full sun, 6+ hours minimum. Plants in partial shade bloom less vigorously and are more susceptible to powdery mildew because of reduced air movement and light.
 
 Water at roughly 1 inch per week. Calendula tolerates some drought once established but doesn't produce well under chronic water stress. The flowers get smaller and the petal count drops.
 

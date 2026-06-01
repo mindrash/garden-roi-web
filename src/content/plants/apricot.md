@@ -18,9 +18,9 @@ hero_image: /images/crops/apricot.webp
 description: "Apricot (Prunus armeniaca) - early-blooming stone fruit. $3-5/lb fresh at peak season; $8-12/lb dried. Mature tree produces 20-40 lb annually. Late frost is the primary production risk."
 ---
 
-The apricot's problem isn't production - a mature tree loaded with fruit in a good year is one of the most productive stone fruits per square foot. The problem is late frost. Apricots bloom 2-3 weeks earlier than other stone fruits, and that early bloom puts the flowers directly in the path of the last frosts of spring. One night at 28°F during bloom eliminates the entire year's crop. In zones 6-7, that happens regularly enough to make apricots unreliable. In zones 8-9, the risk drops substantially, and in zones 5 and colder, late-blooming varieties offer a partial solution.
+The apricot's problem isn't production - a mature tree loaded with fruit in a good year is one of the most productive stone fruits per square foot. The problem is late frost. Apricots bloom 2-3 weeks earlier than other stone fruits, and that early bloom puts the flowers directly in the path of the last frosts of spring. One night at 28°F during bloom eliminates the entire year's crop. In zones 6-7, that happens regularly enough to make apricots unreliable. In zones 8-9, the risk drops sharply, and in zones 5 and colder, late-blooming varieties offer a partial solution.
 
-If you're in the right location - a south-facing slope with cold-air drainage, or a zone 8-9 climate - a mature apricot tree produces 20-40 lb of fruit at $3-5/lb fresh, plus significant dried fruit value ($8-12/lb). That's a compelling return for a tree that, once established, requires less maintenance than peaches.
+If you're in the right location - a south-facing slope with cold-air drainage, or a zone 8-9 climate - a mature apricot tree produces 20-40 lb of fruit at $3-5/lb fresh, plus dried fruit value at $8-12/lb. That's a compelling return for a tree that, once established, requires less maintenance than peaches.
 
 ## What it actually is
 
@@ -59,7 +59,7 @@ Apricot trees live 20-30 years and produce reliably from year 4-5 onward. The 10
 
 In a zone 8-9 climate where late-frost risk is low, yield expectations of 25-40 lb per year from year 5-6 onward push the net past $600 by year 10.
 
-Dried apricot production changes the math significantly. 20 lb of fresh apricots yields approximately 5 lb of dried (roughly 4:1 fresh-to-dry weight ratio). At $10/lb for high-quality dried apricots, that 5 lb of dried fruit is worth $50 - approaching the value of the entire fresh crop.
+Dried apricot production changes the math. 20 lb of fresh apricots yields approximately 5 lb of dried (roughly 4:1 fresh-to-dry weight ratio). At $10/lb for high-quality dried apricots, that 5 lb of dried fruit is worth $50 - approaching the value of the entire fresh crop.
 
 ## Growing requirements
 
@@ -73,7 +73,7 @@ Dried apricot production changes the math significantly. 20 lb of fresh apricots
 
 **Pruning:** apricots produce fruit on spurs (short, stubby branches) and on new one-year-old wood. Annual pruning to maintain spur vigor and stimulate new wood is important. Unlike apples, which tolerate irregular pruning, apricots benefit from consistent annual thinning of the canopy.
 
-**Thinning fruit:** when fruit are marble-sized, thin to one fruit per 4-6 inches of branch length. This is tedious on a full-sized tree but significantly improves fruit size and prevents branch breakage under a heavy crop.
+**Thinning fruit:** when fruit are marble-sized, thin to one fruit per 4-6 inches of branch length. This is tedious on a full-sized tree but improves fruit size and prevents branch breakage under a heavy crop.
 
 ## What goes wrong
 

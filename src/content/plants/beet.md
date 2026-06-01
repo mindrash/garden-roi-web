@@ -20,7 +20,7 @@ faq:
   - q: "Are beet greens edible?"
     a: "Yes. Beet greens are nutritionally comparable to Swiss chard (same species) and retail at $3 to $4/lb at farmers markets. Thinnings and outer leaves harvested throughout the season are a free second crop - saute, blanch, or add to soups."
   - q: "How do I store beet roots?"
-    a: "Remove greens leaving 1 inch of stem to reduce bleeding, then store unwashed beets in a sealed container with damp sand at 32 to 40 degrees. Properly stored beets keep 3 to 5 months without significant quality loss."
+    a: "Remove greens leaving 1 inch of stem to reduce bleeding, then store unwashed beets in a sealed container with damp sand at 32 to 40 degrees. Properly stored beets keep 3 to 5 months without quality loss."
 ---
 
 Beets (*Beta vulgaris* subsp. *vulgaris*) are the only common garden crop where you harvest the same plant twice. The roots are the main event, but the greens are essentially a free second crop. Beet greens at the farmers market run $3–$4/lb and are nutritionally comparable to Swiss chard - they're the same species. When you thin your beet seedlings, you're pulling young plants that would otherwise be composted. Those thinnings are fully edible greens. The math for a $2.49 seed packet becomes noticeably better once you account for both harvests.
@@ -49,11 +49,11 @@ The break-even on the seed cost is trivially fast. The real costs are bed space 
 
 ### Double-Harvest Value: Roots and Greens
 
-The financial case for beets improves substantially when you account for both harvests - the roots you planned for and the greens you'd otherwise compost.
+The financial case for beets improves when you account for both harvests - the roots you planned for and the greens you'd otherwise compost.
 
 **Thinning greens.** When beet clusters germinate and produce multiple seedlings, you thin to one plant per spot. Those thinnings, pulled at 3 to 5 inches tall, are fully edible greens. For a 4x8 bed with approximately 50 plants at final spacing, early thinning might remove 50 to 100 small plants - roughly 0.5 to 1 lb of baby greens. At the farmers market, baby beet greens sell for $3 to $4 per bunch and command the same prices as microgreens at specialty retailers.
 
-**Outer leaf harvest during the season.** Once beet plants are established and the roots are sizing up, you can harvest 1 to 2 outer leaves per plant every 2 weeks without affecting root development. Penn State Extension notes that leaf removal up to 30% of the plant's leaf area doesn't significantly reduce root yield. For a 50-plant 4x8 bed harvested at 1 outer leaf per plant every 2 weeks over 6 weeks before main root harvest: approximately 1 to 2 lb of beet greens per season.
+**Outer leaf harvest during the season.** Once beet plants are established and the roots are sizing up, you can harvest 1 to 2 outer leaves per plant every 2 weeks without affecting root development. Penn State Extension notes that leaf removal up to 30% of the plant's leaf area doesn't reduce root yield. For a 50-plant 4x8 bed harvested at 1 outer leaf per plant every 2 weeks over 6 weeks before main root harvest: approximately 1 to 2 lb of beet greens per season.
 
 **Full harvest-time greens.** At main root harvest, each plant produces a substantial bunch of greens attached. These greens are often discarded, but they're the same crop as store-bought beet greens or Swiss chard. A 4x8 bed at final harvest yields 2 to 3 lb of greens in addition to the root harvest.
 

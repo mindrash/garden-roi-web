@@ -22,7 +22,7 @@ Amaranth is the crop most home gardeners ignore until July, when everything else
 
 The genus *Amaranthus* contains over 60 species. Three matter for food production: *A. cruentus* (Central American origin, most common grain types in U.S. seed catalogs), *A. hypochondriacus* (Mexican highland origin, high-yielding grain), and *A. tricolor* (Southeast Asian origin, grown primarily for tender leaf harvest). The weed you pull out of your vegetable beds in August - common pigweed, *A. retroflexus* - is also an amaranth. It thrives in the same heat for exactly the same biological reasons the cultivated forms do.
 
-The practical distinction that matters is between **leaf types** and **grain types**, which are not the same plant optimized differently - they are genuinely different selections. Leaf types stay shorter (18-30 inches), branch freely, and produce a flush of tender growth ideal for harvest. Grain types grow 4-8 feet tall, invest their energy into a single large seed head, and produce leaves that coarsen quickly as the plant matures.
+The practical distinction that matters is between **leaf types** and **grain types**, which are not the same plant optimized differently - they are different selections. Leaf types stay shorter (18-30 inches), branch freely, and produce a flush of tender growth ideal for harvest. Grain types grow 4-8 feet tall, invest their energy into a single large seed head, and produce leaves that coarsen quickly as the plant matures.
 
 Then there are ornamental types - Love Lies Bleeding (*A. caudatus*) being the most common - with drooping magenta seed tassels. These produce edible leaves and usable grain, but neither as efficiently as dedicated food varieties. Plant them if you want both aesthetics and edibility, knowing you're trading peak performance in either direction.
 
@@ -99,13 +99,13 @@ Grain amaranth cooks like quinoa: rinse, simmer in a 2:1 water ratio, 20 minutes
 
 Direct sow after last frost when soil temperature reaches 60°F. Amaranth does not transplant reliably past the early seedling stage - the taproot resents disturbance. Seeds are tiny (roughly 1.5mm diameter); mix with dry sand at a 1:4 seed-to-sand ratio to broadcast more evenly, or make small pinch-sows every 6 inches and thin to the strongest seedling.
 
-Sow depth: 0.25 inches maximum. Deeper than that and germination rates drop significantly.
+Sow depth: 0.25 inches maximum. Deeper than that and germination rates drop.
 
 Thin aggressively. Crowded amaranth plants produce spindly stems that lodge before grain harvest. For leaf types: thin to 6 inches. For grain types: thin to 12-18 inches to allow the full seed head to develop. Amaranth does not self-thin well - crowded plants just grow poorly together rather than one suppressing the others.
 
 **Soil:** pH 6.0-7.5. Amaranth grows adequately in low-fertility soil and tolerates soil that would stop most vegetables. Modest phosphorus at planting (0-46-0 superphosphate or bone meal) improves seed set in grain types. Avoid heavy nitrogen fertilization for grain varieties - it drives rapid, soft vegetative growth that increases lodging risk in tall plants. For leaf varieties, moderate nitrogen supports the continuous tender leaf production you want.
 
-**Water:** Consistent moisture for the first 2-3 weeks after germination while the seedlings establish. Once plants reach 12 inches, back off. Amaranth in established growth is genuinely drought-tolerant - you can skip irrigation through dry spells that would kill other vegetables. Drought stress during the leaf harvest window does reduce leaf quality and yield; for grain fill, the plant tolerates dry conditions better.
+**Water:** Consistent moisture for the first 2-3 weeks after germination while the seedlings establish. Once plants reach 12 inches, back off. Amaranth in established growth is drought-tolerant - you can skip irrigation through dry spells that would kill other vegetables. Drought stress during the leaf harvest window does reduce leaf quality and yield; for grain fill, the plant tolerates dry conditions better.
 
 ## What Goes Wrong
 
@@ -119,11 +119,11 @@ Thin aggressively. Crowded amaranth plants produce spindly stems that lodge befo
 
 **Lodging.** Tall grain varieties in sandy or loose soil can blow over before harvest, snapping stems or bending them enough that the seed head sits on the ground and rots. Stake individual plants if you're in a wind-exposed site, or plant in a protected location. Avoid heavy nitrogen fertilization, which accelerates lush growth on a tall plant that already has stability challenges.
 
-One management issue worth noting: amaranth that self-seeds can become persistent in managed beds. It's not invasive in a legal or ecological sense, but you will be pulling volunteer seedlings for a season or two if you let seed heads shatter. Either harvest heads before they dry fully on the plant, or deadhead any you don't intend to process.
+One management issue: amaranth that self-seeds can become persistent in managed beds. It's not invasive in a legal or ecological sense, but you will be pulling volunteer seedlings for a season or two if you let seed heads shatter. Either harvest heads before they dry fully on the plant, or deadhead any you don't intend to process.
 
 ## Harvest and Storage
 
-**Leaf harvest:** Begin taking outer leaves when the plant reaches 8-10 inches of height. Leave the central growing point intact. You can harvest one-third of the plant's leaf mass at a time without significantly slowing growth. Harvest every 7-10 days during active growth. Stop leaf harvesting on grain-type plants 4 weeks before you expect seed head maturity - the plant needs its leaf area to fill grain.
+**Leaf harvest:** Begin taking outer leaves when the plant reaches 8-10 inches of height. Leave the central growing point intact. You can harvest one-third of the plant's leaf mass at a time without slowing growth. Harvest every 7-10 days during active growth. Stop leaf harvesting on grain-type plants 4 weeks before you expect seed head maturity - the plant needs its leaf area to fill grain.
 
 **Grain harvest:** The seed head is ready when you can rub it between your palms and seeds fall freely. At this stage, most of the head will have shifted from its peak color (gold, burgundy, red depending on variety) to a drier, more muted tone. The seeds themselves should feel hard, not soft or chalky.
 

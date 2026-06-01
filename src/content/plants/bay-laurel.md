@@ -18,7 +18,7 @@ hero_image: /images/crops/bay-laurel.webp
 description: "Bay laurel (Laurus nobilis) - Mediterranean evergreen tree/shrub, source of dried bay leaves. $10-20/oz dried at specialty stores; $3-5 for a tiny jar at grocery stores. Zones 8-11 outdoors; container culture elsewhere. One established plant provides a lifetime supply."
 ---
 
-Bay laurel is the tree behind every bay leaf in every French braise, Italian tomato sauce, and slow-cooked stew. The dried leaves at the grocery store - small, papery, gray-green, barely aromatic - are a shadow of what fresh bay leaves from your own tree smell like. Fresh bay has an immediate, eucalyptus-adjacent aroma with warm, herbal depth. Even home-dried bay from a living plant is dramatically more aromatic than commercial dried leaves, which are often years old by the time they reach the kitchen.
+Bay laurel is the tree behind every bay leaf in every French braise, Italian tomato sauce, and slow-cooked stew. The dried leaves at the grocery store - small, papery, gray-green, barely aromatic - are a shadow of what fresh bay leaves from your own tree smell like. Fresh bay has an immediate, eucalyptus-adjacent aroma with warm, herbal depth. Even home-dried bay from a living plant is far more aromatic than commercial dried leaves, which are often years old by the time they reach the kitchen.
 
 The tree is slow-growing but long-lived and requires almost no maintenance once established in a suitable climate. A single specimen provides more bay leaves than a household will ever use. In zones 8-11, it's a garden permanent. In colder zones, it's one of the most rewarding container trees you can grow.
 
@@ -58,7 +58,7 @@ The real value is "never buy bay leaves again for 30 years."
 
 **Climate:** *Laurus nobilis* is hardy to approximately 10°F (-12°C) in established specimens; young plants are more cold-sensitive. Zone 8-11 for outdoor culture; zone 7 with protection on a south-facing wall. In zones 5-6, container culture is standard.
 
-**Container culture:** bay is one of the best container tree candidates available. It tolerates pruning extremely well and can be maintained at exactly the size needed. Use a well-draining potting mix; terracotta pots dry faster and suit bay better than plastic. Pot up as the plant grows - a root-bound bay becomes stressed and significantly more susceptible to scale insect infestation. Move indoors when temperatures drop below 20°F; a south-facing window or grow light maintains the plant through winter. In spring, harden off gradually before moving back outdoors - a bay that has been inside all winter can sunscald if moved directly to full outdoor sun.
+**Container culture:** bay is one of the best container tree candidates available. It tolerates pruning extremely well and can be maintained at exactly the size needed. Use a well-draining potting mix; terracotta pots dry faster and suit bay better than plastic. Pot up as the plant grows - a root-bound bay becomes stressed and more susceptible to scale insect infestation. Move indoors when temperatures drop below 20°F; a south-facing window or grow light maintains the plant through winter. In spring, harden off gradually before moving back outdoors - a bay that has been inside all winter can sunscald if moved directly to full outdoor sun.
 
 **Slow growth:** bay grows slowly - 6-12 inches per year under good conditions. Don't expect a harvestable quantity of leaves in year one. By year 3-4 of a container-grown plant, you'll have enough leaves for regular harvesting.
 
@@ -84,7 +84,7 @@ Pick individual leaves as needed year-round on established plants. For drying, h
 
 **The drying paradox:** bay leaves are one of the few herbs that become more flavorful after drying, not less. Freshly picked bay leaves are noticeably green-smelling and somewhat harsh - the full characteristic bay aroma develops only after the leaves are dried for 1-2 weeks, during which the volatile compounds stabilize and integrate. Dry on screens or in loose bundles (not tightly wrapped) in a warm, ventilated location out of direct sun. Direct sun bleaches color and drives off some volatile compounds. Room temperature drying over 1-2 weeks produces better results than oven drying. At the end, the leaves should be dry but not brittle - still slightly flexible, very dark green.
 
-**Fresh vs. dried:** use 1 fresh leaf where a recipe calls for 2 dried - fresh leaves are more assertively pungent before the drying process concentrates the flavor compounds. The fresh flavor is more eucalyptus-forward; the dried is mellower and integrates differently into slow-cooked preparations. Home-dried bay from a living plant, used within 1-2 years, is dramatically more aromatic than store-bought dried bay, which may be 3-5 years old at purchase.
+**Fresh vs. dried:** use 1 fresh leaf where a recipe calls for 2 dried - fresh leaves are more assertively pungent before the drying process concentrates the flavor compounds. The fresh flavor is more eucalyptus-forward; the dried is mellower and integrates differently into slow-cooked preparations. Home-dried bay from a living plant, used within 1-2 years, is far more aromatic than store-bought dried bay, which may be 3-5 years old at purchase.
 
 ## Market Value
 

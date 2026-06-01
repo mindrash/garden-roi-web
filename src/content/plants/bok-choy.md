@@ -37,7 +37,7 @@ Most seed catalogs carry a dozen or more bok choy varieties. These four cover th
 | Toy Choi | Miniature | 25 days | Green | Baby salad mix, quick-turn market production |
 | Ching-Chiang | Full-size | 50 days | Green | Heat-tolerant; extends the fall window |
 
-Shanghai Green is the workhorse for baby production. It's what you see halved and caramelized in restaurant stir-fries. Joi Choi is the standard full-size market variety - thick white petioles, good shelf life, productive. Toy Choi is genuinely small at maturity, not just an early harvest of a larger variety, which makes it useful if you're growing for salad mix or very small portions. Ching-Chiang's heat tolerance isn't magic - it will still bolt in a heat wave - but it buys you another week or two at the end of the fall window compared to standard varieties.
+Shanghai Green is the workhorse for baby production. It's what you see halved and caramelized in restaurant stir-fries. Joi Choi is the standard full-size market variety - thick white petioles, good shelf life, productive. Toy Choi stays small at maturity, not just an early harvest of a larger variety, which makes it useful if you're growing for salad mix or very small portions. Ching-Chiang's heat tolerance isn't magic - it will still bolt in a heat wave - but it buys you another week or two at the end of the fall window compared to standard varieties.
 
 ## The ROI case: baby vs. full-size
 
@@ -67,7 +67,7 @@ The honest answer for most home gardeners: grow baby bok choy in spring when you
 
 ## Succession planting and the useful windows
 
-Bok choy bolts in heat and long days. It is not a summer crop in any meaningful sense. The useful growing windows in Zone 5-6 are March to May and August to October. Outside those windows you're fighting the plant's biology and you will lose.
+Bok choy bolts in heat and long days. It is not a summer crop. The useful growing windows in Zone 5-6 are March to May and August to October. Outside those windows you're fighting the plant's biology and you will lose.
 
 Within those windows, succession sow every 10-14 days. A single sowing gives you a one-week harvest window before the plants start sizing out or bolting. Three staggered sowings gives you four to five weeks of continuous harvest from the same bed.
 
@@ -101,7 +101,7 @@ Spacing: 6 inches apart for baby bok choy, 10-12 inches for full-size. Crowded p
 
 ## Other things that go wrong
 
-**Bolting** is the most common problem. The plant sends up a flower stalk, leaves turn bitter and tough, and the harvest window closes. Prevention is timing. Varieties marketed as "slow bolt" genuinely delay the response by a week or two - worth paying attention to if you're pushing the edges of the season. Once the central stalk elongates, the plant is done. You can eat the flowering shoots - they're similar to broccoli raab and good stir-fried - but the main harvest is over.
+**Bolting** is the most common problem. The plant sends up a flower stalk, leaves turn bitter and tough, and the harvest window closes. Prevention is timing. Varieties marketed as "slow bolt" delay the response by a week or two - worth paying attention to if you're pushing the edges of the season. Once the central stalk elongates, the plant is done. You can eat the flowering shoots - they're similar to broccoli raab and good stir-fried - but the main harvest is over.
 
 **Cabbage aphid** (*Brevicoryne brassicae*) colonizes the inner leaves of the rosette. A hard water spray directed into the center of the plant dislodges most colonies. Insecticidal soap for persistent infestations. Check inside the rosette when harvesting - a colony can establish in the tight inner leaves without being visible from outside.
 

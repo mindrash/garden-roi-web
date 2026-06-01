@@ -34,7 +34,7 @@ Butternut squash (*Cucurbita moschata*) is the storage-crop argument for growing
 
 **Waltham Butternut** is the standard - the commercial baseline and the reference point for catalog comparisons.
 
-**Honeynut** (Cornell University, 2017) is worth noting specifically: a mini-butternut bred for flavor concentration rather than yield. It retails for $3–$5 per fruit at specialty grocery stores. Three Honeynut fruits per vine at $4 each equals $12 per vine from a smaller plant with shorter days to maturity - the best per-square-foot ROI of any winter squash type at specialty prices.
+**Honeynut** (Cornell University, 2017) is a mini-butternut bred for flavor concentration rather than yield. It retails for $3–$5 per fruit at specialty grocery stores. Three Honeynut fruits per vine at $4 each equals $12 per vine from a smaller plant with shorter days to maturity - the best per-square-foot ROI of any winter squash type at specialty prices.
 
 ## The ROI case
 
@@ -61,9 +61,9 @@ On a per-input basis, butternut squash is among the highest-value storage crops 
 
 ## Space Management: Ground vs. Vertical
 
-Standard butternut vines sprawl 8-12 feet. A 3-vine planting in traditional hill spacing requires 100-150 square feet - a meaningful portion of a home garden. Two options exist for tighter spaces.
+Standard butternut vines sprawl 8-12 feet. A 3-vine planting in traditional hill spacing requires 100-150 square feet - a large chunk of a home garden. Two options exist for tighter spaces.
 
-**Bush types:** Butterscotch (listed above) and several other compact varieties produce on shorter vines, 3-4 feet. They yield fewer fruits per plant but produce them in substantially less space. In a raised bed garden, a bush butternut that fits a 4x4 bed is more useful than a standard vine that consumes a 10x10 area.
+**Bush types:** Butterscotch (listed above) and several other compact varieties produce on shorter vines, 3-4 feet. They yield fewer fruits per plant but produce them in far less space. In a raised bed garden, a bush butternut that fits a 4x4 bed is more useful than a standard vine that consumes a 10x10 area.
 
 **Vertical trellis growing:** standard-size butternut can be trained up a sturdy trellis (cattle panel, heavy wire, or 2-inch mesh fencing secured to T-posts). The critical addition is fruit support: butternut fruits can reach 2-5 lbs on a vine growing vertically, and the vine connection to the fruit isn't strong enough to hold that weight for 85-110 days. Each developing fruit needs a sling - an old t-shirt sleeve, mesh onion bag, or piece of nylon stocking tied from the trellis above the fruit, cradling the fruit's weight. Check slings weekly as fruits grow and adjust if the sling is cutting into the skin.
 

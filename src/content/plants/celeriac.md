@@ -28,7 +28,7 @@ The celeriac root is technically a hypocotyl - the swollen base of the stem at t
 
 ## Why celeriac, not celery
 
-This is the comparison most gardeners skip, and it's worth making directly. Celeriac and celery are the same species. You get the same flavor. But the growing experience is substantially different, and for most home gardeners celeriac is the better choice.
+This is the comparison most gardeners skip, and it's worth making directly. Celeriac and celery are the same species. You get the same flavor. But the growing experience is different, and for most home gardeners celeriac is the better choice.
 
 | Trait | Celery | Celeriac |
 |---|---|---|
@@ -125,11 +125,11 @@ Celeriac stores at 33-36°F with high humidity - 90-95% relative humidity is the
 
 For root cellar storage, pack roots in barely damp sand, sawdust, or peat moss. For refrigerator storage, place each root in a plastic bag with a damp paper towel and seal loosely. The goal is to prevent the surface from drying out without creating standing moisture that promotes rot.
 
-Under these conditions, celeriac holds 3-6 months without significant quality loss (Cornell Cooperative Extension, *Root Vegetable Storage*, 2020). Check stored roots every few weeks and remove any that show soft spots. One rotting root will spread to neighbors if left in contact.
+Under these conditions, celeriac holds 3-6 months without quality loss (Cornell Cooperative Extension, *Root Vegetable Storage*, 2020). Check stored roots every few weeks and remove any that show soft spots. One rotting root will spread to neighbors if left in contact.
 
 ## In the kitchen
 
-Raw celeriac goes into remoulade - julienned thin and dressed with a mustard mayonnaise. It's the classic French preparation and it holds for two to three days in the refrigerator, which makes it a practical make-ahead side. The julienning takes time; a mandoline with a julienne blade speeds the process considerably.
+Raw celeriac goes into remoulade - julienned thin and dressed with a mustard mayonnaise. It's the classic French preparation and it holds for two to three days in the refrigerator, which makes it a practical make-ahead side. The julienning takes time; a mandoline with a julienne blade speeds the process.
 
 Roasted whole at 400°F for 60-75 minutes, celeriac develops a dense, slightly caramelized interior. Rub the outside with oil, wrap loosely in foil for the first 45 minutes, then uncover to finish browning. Slice and serve as you would roasted beet.
 

@@ -16,7 +16,7 @@ description: "Borage (Borago officinalis) - edible star-shaped blue flowers, $6-
 hero_image: /images/crops/borage.webp
 ---
 
-Borage (*Borago officinalis*) is worth growing for two practical reasons: the star-shaped blue flowers are edible and command $6-10/lb at specialty retailers and farmers markets (USDA AMS Specialty Crop Market News, 2023), and the plant self-sows so aggressively that you buy seed once and essentially never again. The third reason - it genuinely attracts pollinators and beneficial predatory insects near your tomatoes and cucumbers - is a bonus backed by documented mechanism rather than garden mythology.
+Borage (*Borago officinalis*) is worth growing for two practical reasons: the star-shaped blue flowers are edible and command $6-10/lb at specialty retailers and farmers markets (USDA AMS Specialty Crop Market News, 2023), and the plant self-sows so aggressively that you buy seed once and essentially never again. The third reason - it attracts pollinators and beneficial predatory insects near your tomatoes and cucumbers - is a bonus backed by documented mechanism rather than garden mythology.
 
 ## What it actually is
 
@@ -38,7 +38,7 @@ A standard restaurant portion of borage flowers is roughly 0.25 oz (about 15-20 
 | Farmers market | $14/lb | 0.35 lb | $4.90 |
 | Direct to restaurant | $12/flat, 0.25 oz | 22 flats | $26.40 |
 
-The restaurant channel math changes the picture substantially. If you're growing for market, borage is worth 5-8x more sold directly to restaurants by the flat than by the pound through a retailer.
+The restaurant channel math changes the picture. If you're growing for market, borage is worth 5-8x more sold directly to restaurants by the flat than by the pound through a retailer.
 
 Home growers aren't selling to restaurants, but the math still tells you something: a $1.99 packet of borage seed, producing 4-6 plants, generates $10-18 in grocery-replacement value from the flowers alone across a season - and that's before counting the leaf harvests. Net return on a $1.99 investment is comfortably positive in year one.
 
@@ -62,7 +62,7 @@ Borage prefers well-drained soil at pH 6.0-7.0 and tolerates poor, sandy soils t
 
 Direct sow after last frost. Borage has a long taproot and resents transplanting. Plant seeds 0.5 inch deep, spacing 12 inches to start (thin to 18-24 inches for best branching). Germination in 7-14 days at soil temperatures of 60-70°F.
 
-Water at 1 inch per week during establishment. Once the taproot is down (3-4 weeks from germination), borage handles dry spells without significant stress. This drought tolerance makes it useful as a filler in beds where irrigation is inconsistent or limited.
+Water at 1 inch per week during establishment. Once the taproot is down (3-4 weeks from germination), borage handles dry spells without stress. This drought tolerance makes it useful as a filler in beds where irrigation is inconsistent or limited.
 
 Successive sowings 3-4 weeks apart extend the harvest window across the season. A first sowing at last frost, a second 3 weeks later, and a third in early June gives you staggered production that avoids all plants peaking and declining simultaneously.
 
@@ -102,7 +102,7 @@ For the flowers, harvest in the morning when newly opened. Use scissors to snip 
 
 ## Managing the plant for production
 
-Regular harvest extends the productive window significantly. Every flower you pick is a signal to the plant to produce more. Left unharvested, flowers set seed and the plant's energy shifts toward maturation rather than continued bloom.
+Regular harvest extends the productive window. Every flower you pick is a signal to the plant to produce more. Left unharvested, flowers set seed and the plant's energy shifts toward maturation rather than continued bloom.
 
 A well-harvested borage plant in a reasonable climate produces flowers for 6-10 weeks. One that's not harvested regularly runs out of production faster, sets seed, and declines. The practical protocol: harvest every other day at peak production, removing flowers that have fully opened. This keeps the plant in constant production mode.
 
