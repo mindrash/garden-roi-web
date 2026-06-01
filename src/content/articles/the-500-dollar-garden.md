@@ -215,7 +215,7 @@ You can cut the model budget from $400 to $300 without gutting the garden. Here'
 
 **Do not cut:**
 - Soil quality. Cheap, clay-heavy garden soil in a raised bed is a mistake you'll pay for in yield. The growing medium is the one non-negotiable.
-- Tomato cages or stakes. Unsupported indeterminate tomatoes become a horizontal mess by August and yield drops significantly. A basic concrete reinforcing wire cage costs $4 to $6 per plant.
+- Tomato cages or stakes. Unsupported indeterminate tomatoes become a horizontal mess by August — lower clusters rot against the soil, airflow drops, and disease moves in fast. A basic concrete reinforcing wire cage costs $4 to $6 per plant.
 - A basic soil test if you're building on unknown ground. The $15 test pays for itself with the first bag of fertilizer you don't buy unnecessarily.
 
 **$300 budget breakdown:**

@@ -13,7 +13,7 @@ This article builds that calculation from the ground up: regional food prices fr
 
 ## Regional Food Price Differences: What USDA ERS Actually Shows
 
-The USDA Economic Research Service publishes "Fruit and Vegetable Prices" (ers.usda.gov/data-products/fruit-and-vegetable-prices), a dataset drawing on USDA AMS retail price surveys and Nielsen scanner data. The report segments the US into four census regions: Northeast, Midwest, South, and West. The pricing gaps between regions are consistent and significant.
+The USDA Economic Research Service publishes "Fruit and Vegetable Prices" (ers.usda.gov/data-products/fruit-and-vegetable-prices), a dataset drawing on USDA AMS retail price surveys and Nielsen scanner data. The report segments the US into four census regions: Northeast, Midwest, South, and West. The pricing gaps between regions are consistent.
 
 The pattern holds across categories: fresh produce in the Northeast and West runs 15 to 25 percent above Midwest and South prices for most items. Some crops swing higher - blueberries and strawberries show 20 to 30 percent regional premiums in the Northeast versus the Midwest. The mechanism is straightforward: longer shipping distances from primary production regions (California, Florida, Georgia) to Northeast population centers, higher distribution costs, and higher retail operating costs in major metro markets.
 
@@ -34,9 +34,9 @@ For home gardeners, those price differences are the baseline you're replacing. T
 
 *Sources: USDA ERS "Fruit and Vegetable Prices" (ers.usda.gov/data-products/fruit-and-vegetable-prices, 2023 data); USDA AMS Retail Produce Price Surveys; prices reflect conventional produce, average US retail, adjusted for regional distribution cost differentials.*
 
-A few things worth noting in those numbers. Spinach is the standout for raw grocery value - $3.50 to $5.50 per pound across all regions, and spinach is a fast-growing crop that yields multiple cuts per season. [Garlic](/crops/garlic/) shows the widest absolute spread: West Coast specialty hardneck garlic regularly hits $6 to $8 per pound at retail, versus $3.50 to $5.50 in the Midwest, which is part of why the [garlic ROI analysis](/roi/garlic-roi-analysis/) numbers look different depending on where you live.
+Spinach is the standout in those numbers for raw grocery value - $3.50 to $5.50 per pound across all regions, and spinach is a fast-growing crop that yields multiple cuts per season. [Garlic](/crops/garlic/) shows the widest absolute spread: West Coast specialty hardneck garlic regularly hits $6 to $8 per pound at retail, versus $3.50 to $5.50 in the Midwest, which is part of why the [garlic ROI analysis](/roi/garlic-roi-analysis/) numbers look different depending on where you live.
 
-The Northeast garlic numbers reflect a market where domestically-grown hardneck from Northeast producers commands significant premiums. The South garlic prices track closer to commodity softneck because the regional production base skews that direction.
+The Northeast garlic numbers reflect a market where domestically-grown hardneck from Northeast producers commands premiums of 30 to 45 percent over Midwest pricing. The South garlic prices track closer to commodity softneck because the regional production base skews that direction.
 
 ## Growing Season Length by USDA Hardiness Zone
 
@@ -199,7 +199,7 @@ The [price seasonality guide](/roi/price-seasonality-guide/) covers the second v
 
 Your frost dates are the other number worth pulling for your specific location. The zone-to-season mapping in Table 2 is an approximation. NOAA's Climate Data Online (climate.gov) gives you 30-year average frost date records for the nearest weather station, which will be more accurate than zone-based estimates, especially if you're near the boundaries between zones or in complex terrain.
 
-The regional ROI multiplier is real and significant. A Zone 9 West Coast gardener operates with a structural advantage that no amount of Zone 4 effort can fully overcome. But the Zone 4 and Zone 5 garden optimized for cold-tolerant, high-value crops - with garlic, kale, root vegetables, and peas occupying the calendar efficiently - generates meaningful grocery value even against that structural headwind.
+The regional ROI multiplier is real. A Zone 9 West Coast gardener operates with a structural advantage that no amount of Zone 4 effort can fully overcome. But the Zone 4 and Zone 5 garden optimized for cold-tolerant, high-value crops - with garlic, kale, root vegetables, and peas occupying the calendar efficiently - generates meaningful grocery value even against that structural headwind.
 
 ---
 
