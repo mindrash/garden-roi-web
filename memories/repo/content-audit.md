@@ -1,6 +1,6 @@
 # Content Audit — AI Slop Detection Plan
 
-_Last updated: 2026-06-01 — Tier 1 complete, Tier 2 complete, Tier 3 complete, Tier 4 next_
+_Last updated: 2026-06-01 — Tier 1 complete, Tier 2 complete, Tier 3 complete, Tier 4 complete, Tier 5 complete, Tier 6 next_
 
 ## Purpose
 
@@ -181,126 +181,126 @@ These have the most search surface area. Prioritize the high-value crops first.
 
 ### High-value common plants (audit first)
 
-- [ ] `plants/tomato.md`
-- [ ] `plants/garlic.md`
-- [ ] `plants/strawberry.md`
-- [ ] `plants/apple.md`
-- [ ] `plants/peach.md`
-- [ ] `plants/pear.md`
-- [ ] `plants/cherry.md`
-- [ ] `plants/blueberry.md`
-- [ ] `plants/raspberry.md`
-- [ ] `plants/blackberry.md`
-- [ ] `plants/grape.md`
-- [ ] `plants/asparagus.md`
-- [ ] `plants/sweet-potato.md`
-- [ ] `plants/potato.md`
-- [ ] `plants/onion.md`
-- [ ] `plants/hot-pepper.md`
-- [ ] `plants/sweet-pepper.md`
-- [ ] `plants/cucumber.md`
-- [ ] `plants/zucchini.md` _(if exists; check)_
-- [ ] `plants/watermelon.md`
+- [x] `plants/tomato.md`
+- [x] `plants/garlic.md`
+- [x] `plants/strawberry.md`
+- [x] `plants/apple.md`
+- [x] `plants/peach.md`
+- [x] `plants/pear.md`
+- [x] `plants/cherry.md`
+- [x] `plants/blueberry.md`
+- [x] `plants/raspberry.md`
+- [x] `plants/blackberry.md`
+- [x] `plants/grape.md`
+- [x] `plants/asparagus.md`
+- [x] `plants/sweet-potato.md`
+- [x] `plants/potato.md`
+- [x] `plants/onion.md`
+- [x] `plants/hot-pepper.md`
+- [x] `plants/sweet-pepper.md`
+- [x] `plants/cucumber.md`
+- [x] `plants/zucchini.md` _(if exists; check)_
+- [x] `plants/watermelon.md`
 
 ### Remaining common plants
 
-- [ ] `plants/acorn-squash.md`
-- [ ] `plants/amaranth.md`
-- [ ] `plants/apricot.md`
-- [ ] `plants/artichoke.md`
-- [ ] `plants/arugula.md`
-- [ ] `plants/basil.md`
-- [ ] `plants/bay-laurel.md`
-- [ ] `plants/beet.md`
-- [ ] `plants/bok-choy.md`
-- [ ] `plants/borage.md`
-- [ ] `plants/broccoli.md`
-- [ ] `plants/brussels-sprouts.md`
-- [ ] `plants/butternut-squash.md`
-- [ ] `plants/cabbage.md`
-- [ ] `plants/calendula.md`
-- [ ] `plants/cantaloupe.md`
-- [ ] `plants/carrot.md`
-- [ ] `plants/cauliflower.md`
-- [ ] `plants/celeriac.md`
-- [ ] `plants/celery.md`
-- [ ] `plants/chamomile.md`
-- [ ] `plants/cherry-tomato.md`
-- [ ] `plants/chickpea.md`
-- [ ] `plants/chives.md`
-- [ ] `plants/cilantro.md`
-- [ ] `plants/collard-greens.md`
-- [ ] `plants/corn.md`
-- [ ] `plants/currant.md`
-- [ ] `plants/dill.md`
-- [ ] `plants/edamame.md`
-- [ ] `plants/eggplant.md`
-- [ ] `plants/elderberry.md`
-- [ ] `plants/endive.md`
-- [ ] `plants/fava-bean.md`
-- [ ] `plants/fennel.md`
-- [ ] `plants/fenugreek.md`
-- [ ] `plants/fig.md`
-- [ ] `plants/garden-pea.md`
-- [ ] `plants/ginger.md`
-- [ ] `plants/goji-berry.md`
-- [ ] `plants/gooseberry.md`
-- [ ] `plants/green-bean.md`
-- [ ] `plants/ground-cherry.md`
-- [ ] `plants/horseradish.md`
-- [ ] `plants/jerusalem-artichoke.md`
-- [ ] `plants/kale.md`
-- [ ] `plants/kohlrabi.md`
-- [ ] `plants/lavender.md`
-- [ ] `plants/leek.md`
-- [ ] `plants/lemon-balm.md`
-- [ ] `plants/lemongrass.md`
-- [ ] `plants/lettuce.md`
-- [ ] `plants/lima-bean.md`
-- [ ] `plants/lovage.md`
-- [ ] `plants/mache.md`
-- [ ] `plants/marjoram.md`
-- [ ] `plants/mint.md`
-- [ ] `plants/mizuna.md`
-- [ ] `plants/mustard-greens.md`
-- [ ] `plants/napa-cabbage.md`
-- [ ] `plants/nasturtium.md`
-- [ ] `plants/okra.md`
-- [ ] `plants/oregano.md`
-- [ ] `plants/parsley.md`
-- [ ] `plants/parsnip.md`
-- [ ] `plants/peanut.md`
-- [ ] `plants/peppermint.md`
-- [ ] `plants/plum.md`
-- [ ] `plants/pole-bean.md`
-- [ ] `plants/pomegranate.md`
-- [ ] `plants/pumpkin.md`
-- [ ] `plants/purslane.md`
-- [ ] `plants/radicchio.md`
-- [ ] `plants/radish.md`
-- [ ] `plants/rhubarb.md`
-- [ ] `plants/romanesco.md`
-- [ ] `plants/rutabaga.md`
-- [ ] `plants/sage.md`
-- [ ] `plants/scallion.md`
-- [ ] `plants/shallot.md`
-- [ ] `plants/shiso.md`
-- [ ] `plants/snap-pea.md`
-- [ ] `plants/sorrel.md`
-- [ ] `plants/soybean.md`
-- [ ] `plants/spaghetti-squash.md`
-- [ ] `plants/spearmint.md`
-- [ ] `plants/spinach.md`
-- [ ] `plants/stevia.md`
-- [ ] `plants/sunflower.md`
-- [ ] `plants/swiss-chard.md`
-- [ ] `plants/tarragon.md`
-- [ ] `plants/tatsoi.md`
-- [ ] `plants/thyme.md`
-- [ ] `plants/tomatillo.md`
-- [ ] `plants/turnip.md`
-- [ ] `plants/watercress.md`
-- [ ] `plants/winter-squash.md`
+- [x] `plants/acorn-squash.md`
+- [x] `plants/amaranth.md`
+- [x] `plants/apricot.md`
+- [x] `plants/artichoke.md`
+- [x] `plants/arugula.md`
+- [x] `plants/basil.md`
+- [x] `plants/bay-laurel.md`
+- [x] `plants/beet.md`
+- [x] `plants/bok-choy.md`
+- [x] `plants/borage.md`
+- [x] `plants/broccoli.md`
+- [x] `plants/brussels-sprouts.md`
+- [x] `plants/butternut-squash.md`
+- [x] `plants/cabbage.md`
+- [x] `plants/calendula.md`
+- [x] `plants/cantaloupe.md`
+- [x] `plants/carrot.md`
+- [x] `plants/cauliflower.md`
+- [x] `plants/celeriac.md`
+- [x] `plants/celery.md`
+- [x] `plants/chamomile.md`
+- [x] `plants/cherry-tomato.md`
+- [x] `plants/chickpea.md`
+- [x] `plants/chives.md`
+- [x] `plants/cilantro.md`
+- [x] `plants/collard-greens.md`
+- [x] `plants/corn.md`
+- [x] `plants/currant.md`
+- [x] `plants/dill.md`
+- [x] `plants/edamame.md`
+- [x] `plants/eggplant.md`
+- [x] `plants/elderberry.md`
+- [x] `plants/endive.md`
+- [x] `plants/fava-bean.md`
+- [x] `plants/fennel.md`
+- [x] `plants/fenugreek.md`
+- [x] `plants/fig.md`
+- [x] `plants/garden-pea.md`
+- [x] `plants/ginger.md`
+- [x] `plants/goji-berry.md`
+- [x] `plants/gooseberry.md`
+- [x] `plants/green-bean.md`
+- [x] `plants/ground-cherry.md`
+- [x] `plants/horseradish.md`
+- [x] `plants/jerusalem-artichoke.md`
+- [x] `plants/kale.md`
+- [x] `plants/kohlrabi.md`
+- [x] `plants/lavender.md`
+- [x] `plants/leek.md`
+- [x] `plants/lemon-balm.md`
+- [x] `plants/lemongrass.md`
+- [x] `plants/lettuce.md`
+- [x] `plants/lima-bean.md`
+- [x] `plants/lovage.md`
+- [x] `plants/mache.md`
+- [x] `plants/marjoram.md`
+- [x] `plants/mint.md`
+- [x] `plants/mizuna.md`
+- [x] `plants/mustard-greens.md`
+- [x] `plants/napa-cabbage.md`
+- [x] `plants/nasturtium.md`
+- [x] `plants/okra.md`
+- [x] `plants/oregano.md`
+- [x] `plants/parsley.md`
+- [x] `plants/parsnip.md`
+- [x] `plants/peanut.md`
+- [x] `plants/peppermint.md`
+- [x] `plants/plum.md`
+- [x] `plants/pole-bean.md`
+- [x] `plants/pomegranate.md`
+- [x] `plants/pumpkin.md`
+- [x] `plants/purslane.md`
+- [x] `plants/radicchio.md`
+- [x] `plants/radish.md`
+- [x] `plants/rhubarb.md`
+- [x] `plants/romanesco.md`
+- [x] `plants/rutabaga.md`
+- [x] `plants/sage.md`
+- [x] `plants/scallion.md`
+- [x] `plants/shallot.md`
+- [x] `plants/shiso.md`
+- [x] `plants/snap-pea.md`
+- [x] `plants/sorrel.md`
+- [x] `plants/soybean.md`
+- [x] `plants/spaghetti-squash.md`
+- [x] `plants/spearmint.md`
+- [x] `plants/spinach.md`
+- [x] `plants/stevia.md`
+- [x] `plants/sunflower.md`
+- [x] `plants/swiss-chard.md`
+- [x] `plants/tarragon.md`
+- [x] `plants/tatsoi.md`
+- [x] `plants/thyme.md`
+- [x] `plants/tomatillo.md`
+- [x] `plants/turnip.md`
+- [x] `plants/watercress.md`
+- [x] `plants/winter-squash.md`
 
 ---
 
@@ -308,76 +308,76 @@ These have the most search surface area. Prioritize the high-value crops first.
 
 Glossary entries are short but high-traffic via linked crop pages. Check opener and citations primarily.
 
-- [ ] `glossary/allelopathy.md`
-- [ ] `glossary/aphid.md`
-- [ ] `glossary/beneficial-insects.md`
-- [ ] `glossary/blanching.md`
-- [ ] `glossary/blossom-end-rot.md`
-- [ ] `glossary/bolting.md`
-- [ ] `glossary/botulism.md`
-- [ ] `glossary/cold-frame.md`
-- [ ] `glossary/cold-storage.md`
-- [ ] `glossary/cold-stratification.md`
-- [ ] `glossary/companion-planting.md`
-- [ ] `glossary/compost.md`
-- [ ] `glossary/cover-crop.md`
-- [ ] `glossary/crop-rotation.md`
-- [ ] `glossary/crown-rot.md`
-- [ ] `glossary/curing.md`
-- [ ] `glossary/damping-off.md`
-- [ ] `glossary/day-neutral.md`
-- [ ] `glossary/days-to-maturity.md`
-- [ ] `glossary/dehydrating.md`
-- [ ] `glossary/determinate.md`
-- [ ] `glossary/direct-sow.md`
-- [ ] `glossary/dli.md`
-- [ ] `glossary/f1.md`
-- [ ] `glossary/fermentation.md`
-- [ ] `glossary/frost-date.md`
-- [ ] `glossary/fusarium.md`
-- [ ] `glossary/gmo.md`
-- [ ] `glossary/green-manure.md`
-- [ ] `glossary/grow-light.md`
-- [ ] `glossary/hardening-off.md`
-- [ ] `glossary/hardiness-zone.md`
-- [ ] `glossary/headspace.md`
-- [ ] `glossary/heirloom.md`
-- [ ] `glossary/hoop-house.md`
-- [ ] `glossary/hybrid.md`
-- [ ] `glossary/indeterminate.md`
-- [ ] `glossary/integrated-pest-management.md`
-- [ ] `glossary/intensive-planting.md`
-- [ ] `glossary/intercropping.md`
-- [ ] `glossary/lacto-fermentation.md`
-- [ ] `glossary/long-day.md`
-- [ ] `glossary/microclimate.md`
-- [ ] `glossary/mulch.md`
-- [ ] `glossary/nematode.md`
-- [ ] `glossary/nitrogen-fixation.md`
-- [ ] `glossary/open-pollinated.md`
-- [ ] `glossary/organic.md`
-- [ ] `glossary/ph.md`
-- [ ] `glossary/photoperiod.md`
-- [ ] `glossary/photoperiodism.md`
-- [ ] `glossary/polyculture.md`
-- [ ] `glossary/powdery-mildew.md`
-- [ ] `glossary/pressure-canning.md`
-- [ ] `glossary/raised-bed.md`
-- [ ] `glossary/root-cellar.md`
-- [ ] `glossary/row-cover.md`
-- [ ] `glossary/scarification.md`
-- [ ] `glossary/season-extension.md`
-- [ ] `glossary/short-day.md`
-- [ ] `glossary/soil-amendment.md`
-- [ ] `glossary/square-foot-gardening.md`
-- [ ] `glossary/succession-planting.md`
-- [ ] `glossary/transpiration.md`
-- [ ] `glossary/transplant.md`
-- [ ] `glossary/vermicompost.md`
-- [ ] `glossary/vernalization.md`
-- [ ] `glossary/water-activity.md`
-- [ ] `glossary/water-bath-canning.md`
-- [ ] `glossary/wilt.md`
+- [x] `glossary/allelopathy.md`
+- [x] `glossary/aphid.md`
+- [x] `glossary/beneficial-insects.md`
+- [x] `glossary/blanching.md`
+- [x] `glossary/blossom-end-rot.md`
+- [x] `glossary/bolting.md`
+- [x] `glossary/botulism.md`
+- [x] `glossary/cold-frame.md`
+- [x] `glossary/cold-storage.md`
+- [x] `glossary/cold-stratification.md`
+- [x] `glossary/companion-planting.md`
+- [x] `glossary/compost.md`
+- [x] `glossary/cover-crop.md`
+- [x] `glossary/crop-rotation.md`
+- [x] `glossary/crown-rot.md`
+- [x] `glossary/curing.md`
+- [x] `glossary/damping-off.md`
+- [x] `glossary/day-neutral.md`
+- [x] `glossary/days-to-maturity.md`
+- [x] `glossary/dehydrating.md`
+- [x] `glossary/determinate.md`
+- [x] `glossary/direct-sow.md`
+- [x] `glossary/dli.md`
+- [x] `glossary/f1.md`
+- [x] `glossary/fermentation.md`
+- [x] `glossary/frost-date.md`
+- [x] `glossary/fusarium.md`
+- [x] `glossary/gmo.md`
+- [x] `glossary/green-manure.md`
+- [x] `glossary/grow-light.md`
+- [x] `glossary/hardening-off.md`
+- [x] `glossary/hardiness-zone.md`
+- [x] `glossary/headspace.md`
+- [x] `glossary/heirloom.md`
+- [x] `glossary/hoop-house.md`
+- [x] `glossary/hybrid.md`
+- [x] `glossary/indeterminate.md`
+- [x] `glossary/integrated-pest-management.md`
+- [x] `glossary/intensive-planting.md`
+- [x] `glossary/intercropping.md`
+- [x] `glossary/lacto-fermentation.md`
+- [x] `glossary/long-day.md`
+- [x] `glossary/microclimate.md`
+- [x] `glossary/mulch.md`
+- [x] `glossary/nematode.md`
+- [x] `glossary/nitrogen-fixation.md`
+- [x] `glossary/open-pollinated.md`
+- [x] `glossary/organic.md`
+- [x] `glossary/ph.md`
+- [x] `glossary/photoperiod.md`
+- [x] `glossary/photoperiodism.md`
+- [x] `glossary/polyculture.md`
+- [x] `glossary/powdery-mildew.md`
+- [x] `glossary/pressure-canning.md`
+- [x] `glossary/raised-bed.md`
+- [x] `glossary/root-cellar.md`
+- [x] `glossary/row-cover.md`
+- [x] `glossary/scarification.md`
+- [x] `glossary/season-extension.md`
+- [x] `glossary/short-day.md`
+- [x] `glossary/soil-amendment.md`
+- [x] `glossary/square-foot-gardening.md`
+- [x] `glossary/succession-planting.md`
+- [x] `glossary/transpiration.md`
+- [x] `glossary/transplant.md`
+- [x] `glossary/vermicompost.md`
+- [x] `glossary/vernalization.md`
+- [x] `glossary/water-activity.md`
+- [x] `glossary/water-bath-canning.md`
+- [x] `glossary/wilt.md`
 
 ---
 
@@ -469,7 +469,7 @@ Lower traffic but complete coverage. Audit after Tiers 1-5 are done.
 | Tier 1 — ROI articles | 43 | 43 | 0 | 100% |
 | Tier 2 — Planning/preservation articles | 32 | 32 | 0 | 100% |
 | Tier 3 — Care/pest/homestead articles | 35 | 35 | 0 | 100% |
-| Tier 4 — Common plants | 110 | 0 | 0 | 0% |
-| Tier 5 — Glossary | 70 | 0 | 0 | 0% |
+| Tier 4 — Common plants | 110 | 110 | 0 | 100% |
+| Tier 5 — Glossary | 70 | 70 | 0 | 100% |
 | Tier 6 — Non-common plants | 80 | 0 | 0 | 0% |
-| **Total** | **370** | **110** | **0** | **30%** |
+| **Total** | **370** | **290** | **0** | **78%** |
