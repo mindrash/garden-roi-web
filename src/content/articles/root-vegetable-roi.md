@@ -50,7 +50,7 @@ At 3 to 4 inches tall, beet thinnings are edible greens worth $3 to $5 per pound
 
 Take the midpoints: 2 lb/sq ft at $2/lb = $4.00/sq ft from the root. Add $1.50 worth of greens (conservative). That's $5.50/sq ft from one planting of beet. You can succession plant twice in most zones - one spring planting and one late summer planting for fall harvest. Annualized gross: $8 to $11 per square foot when you count both products.
 
-Three varieties worth knowing: 'Detroit Dark Red' (60 days, reliable and widely adapted), Chioggia (55 days, Italian heirloom with red-and-white candy-stripe interior, milder flavor), and Golden (55 days, yellow, significantly milder and less prone to bleeding when cut). All three perform similarly in yield terms.
+Three varieties worth knowing: 'Detroit Dark Red' (60 days, reliable and widely adapted), Chioggia (55 days, Italian heirloom with red-and-white candy-stripe interior, milder flavor), and Golden (55 days, yellow, milder and less prone to bleeding when cut). All three perform similarly in yield terms.
 
 ## Turnip
 
@@ -68,9 +68,9 @@ Parsnip is the outlier. At 100 to 120 days to harvest, it ties up a bed from dir
 
 The case for growing parsnips is not ROI-first. The case is availability. If you live somewhere that parsnips aren't reliably at your grocery store, home-grown is the only practical option. The retail price of $2 to $4/lb means the value is there when you can get the yield.
 
-The germination complication is real and underappreciated. Parsnip seed viability drops dramatically after one year - buy fresh seed every season, not from a packet left over from two years ago. Germination takes 2 to 3 weeks even with fresh seed and favorable conditions. Direct sow as early as the soil can be worked in spring. The long germination window is one reason parsnips feel harder than they are: you sow, nothing happens for three weeks, and most gardeners assume failure before the seedlings have had a chance.
+The germination complication is real and underappreciated. Parsnip seed viability drops sharply after one year - buy fresh seed every season, not from a packet left over from two years ago. Germination takes 2 to 3 weeks even with fresh seed and favorable conditions. Direct sow as early as the soil can be worked in spring. The long germination window is one reason parsnips feel harder than they are: you sow, nothing happens for three weeks, and most gardeners assume failure before the seedlings have had a chance.
 
-The frost-sweetening phenomenon is documented and significant. Parsnip starches convert to sugars during cold exposure. A parsnip harvested before the first autumn frost tastes starchy and bland compared to one left in the ground until October or November. Do not dig parsnips early. Leave them through multiple frosts. The flavor reward is real and is the main reason parsnip commands a higher retail price than carrot or turnip in specialty markets.
+The frost-sweetening phenomenon is documented. Parsnip starches convert to sugars during cold exposure. A parsnip harvested before the first autumn frost tastes starchy and bland compared to one left in the ground until October or November. Do not dig parsnips early. Leave them through multiple frosts. The flavor reward is real and is the main reason parsnip commands a higher retail price than carrot or turnip in specialty markets.
 
 ## The Comparison Table
 
@@ -125,7 +125,7 @@ If you have deep, loose, well-amended soil and want to maximize that asset: carr
 
 If you're working with a gap in the season after spring crops come out: turnip. Forty-five to sixty days means it fits in windows that most crops can't use. Plant it after garlic comes out in July and it's ready in September.
 
-Parsnip: grow it if you can't buy it locally, or if you want to serve something in December that has no grocery store equivalent at your location. The flavor after frost is genuinely distinct. The ROI math supports it when retail access is the alternative.
+Parsnip: grow it if you can't buy it locally, or if you want to serve something in December that has no grocery store equivalent at your location. The flavor after frost is distinct. The ROI math supports it when retail access is the alternative.
 
 ---
 

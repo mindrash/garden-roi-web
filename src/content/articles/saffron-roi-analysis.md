@@ -1,6 +1,6 @@
 ---
 title: "Saffron ROI: Growing the World's Most Expensive Spice"
-description: "Saffron retail is $10-25 per gram. The per-corm math and 3-year corm multiplication table show why the economics improve dramatically over time - and why harvest labor is the real cost."
+description: "Saffron retail is $10-25 per gram. The per-corm math and 3-year corm multiplication table show why the economics improve 20-fold by year four - and why harvest labor is the real cost."
 category: roi
 publishDate: 2025-06-08
 featured: false
@@ -98,7 +98,7 @@ Break-even on the initial corm investment typically occurs somewhere between yea
 **Per-gram cost of homegrown saffron:**
 The input costs after year 1 are essentially labor and minimal fertilizer. If you value your garden labor at $0 (home production framing), the per-gram cost from year 2 onward is near zero. If you value labor at $15/hour and spend 2 hours harvesting 1.2 grams: $25/1.2g = $20.83 per gram - roughly at retail. If your yield scales to 5 grams with 3 hours of labor: $9/gram - below retail.
 
-At meaningful scale (500+ flowering corms), the per-gram labor cost drops well below retail because harvest efficiency improves. You're checking the same patch with 2 hours of labor whether it has 300 flowers or 500.
+At meaningful scale (500+ flowering corms), the per-gram labor cost drops to $9 per gram - below the $10 minimum retail price - because harvest efficiency improves. You're checking the same patch with 2 hours of labor whether it has 300 flowers or 500.
 
 The honest break-even verdict: saffron does not make financial sense in the first two seasons. It makes excellent financial sense starting in years 3-4 and improves every year thereafter as the patch expands at no additional input cost.
 
