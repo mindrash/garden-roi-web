@@ -19,7 +19,7 @@ That structural difference - where the Year 1 plant cost is a one-time expense r
 |---|---|---|
 | 12 slips | $3-5 | One bunch from a specialty supplier |
 | Fertilizer (balanced at planting + potassium mid-season) | $8-12 | Sweet potatoes are heavy K feeders |
-| Black plastic mulch (one roll) | $10-15 | Speeds soil warming; significant yield increase |
+| Black plastic mulch (one roll) | $10-15 | Speeds soil warming; 20-40% yield increase (NC State Extension) |
 | **Total Year 1 inputs** | **$21-32** | Per 12-plant row |
 
 **Yield from 12 plants:** sweet potatoes typically produce 4-8 lbs per plant from well-grown slips in good soil over a 90-120 day season. At the middle of that range, 12 plants yield 72 lbs. At the low end, 48 lbs.
@@ -68,7 +68,7 @@ Over a 5-year run with self-propagated slips, the economics look like this:
 
 Sweet potatoes harvested from the ground are starchy, not particularly sweet, and won't store well. Curing converts them to the sweet, storage-stable roots you want.
 
-**The curing process:** immediately after harvest, move roots to a warm (85-90°F), humid (85-90% relative humidity) environment for 7-10 days. This does two things: it converts starches to sugars (producing the sweetness associated with sweet potatoes), and it heals the skin cuts and scrapes from harvesting, forming a protective callus layer that dramatically extends storage life.
+**The curing process:** immediately after harvest, move roots to a warm (85-90°F), humid (85-90% relative humidity) environment for 7-10 days. This does two things: it converts starches to sugars (producing the sweetness associated with sweet potatoes), and it heals the skin cuts and scrapes from harvesting, forming a protective callus layer that extends storage life sixfold to tenfold.
 
 Without curing: storage life of 2-4 weeks at room temperature; poor sweetness.
 
@@ -121,7 +121,7 @@ Dig roots carefully. A garden fork inserted 12-18 inches from the vine (to avoid
 
 Harvest early in the day when temperatures are cooler. Move roots out of direct sun immediately - UV exposure degrades skin quality.
 
-**What to look for at harvest:** roots should be firm, without soft spots, cracks, or insect damage. Roots with significant damage or disease should be used immediately rather than stored. The roots you select for next year's slip production should be the firmest, best-shaped specimens with no blemishes.
+**What to look for at harvest:** roots should be firm, without soft spots, cracks, or insect damage. Roots with damage or disease should be used immediately rather than stored. The roots you select for next year's slip production should be the firmest, best-shaped specimens with no blemishes.
 
 ## Zone Fit and Black Plastic Economics
 
