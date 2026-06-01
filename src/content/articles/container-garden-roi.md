@@ -32,9 +32,9 @@ Potting mix costs $10-20 per cubic foot at retail. This is the number that surpr
 
 A 5-gallon container holds 0.67 cu ft. At $12/cu ft for quality potting mix, that's $8 in soil per container - potentially more than the container itself. A 25-gallon fabric pot holds 3.3 cu ft and requires $33-66 in soil. Filling 10 five-gallon containers costs $80 in soil before you buy a single seed.
 
-In-ground soil amendment - adding compost, fertilizer, adjusting pH - typically runs $0.50-2.00 per square foot for a new bed. The gap between in-ground and container soil costs is significant.
+In-ground soil amendment - adding compost, fertilizer, adjusting pH - typically runs $0.50-2.00 per square foot for a new bed. The gap between in-ground and container soil costs is real.
 
-Container soil must also be refreshed. Potting mix breaks down as organic components decompose, and nutrients deplete through repeated watering. Every 2-3 years, container soil needs either replacing or substantial refreshing with fresh potting mix and slow-release fertilizer. This is an ongoing cost that in-ground beds don't carry in the same form.
+Container soil must also be refreshed. Potting mix breaks down as organic components decompose, and nutrients deplete through repeated watering. Every 2-3 years, container soil needs either replacing or thorough refreshing with fresh potting mix and slow-release fertilizer. This is an ongoing cost that in-ground beds don't carry in the same form.
 
 **Annual soil cost example:**
 
@@ -56,7 +56,7 @@ Time cost of watering 10 containers:
 
 This is a real trade-off. If you actually enjoy the daily ritual of watering, this is recreation, not labor. If watering feels like a chore, it's a cost.
 
-Self-watering containers (sub-irrigation planters with a reservoir below the soil) reduce watering frequency by 50-70% by delivering water from below only as the soil needs it. They cost $15-40 for a 10-15 gallon size - roughly $10-20 more than conventional containers. That premium buys back significant watering time over a season, especially for vacation-prone gardeners or people who travel.
+Self-watering containers (sub-irrigation planters with a reservoir below the soil) reduce watering frequency by 50-70% by delivering water from below only as the soil needs it. They cost $15-40 for a 10-15 gallon size - roughly $10-20 more than conventional containers. That premium buys back 50 to 70 percent of watering time over a season, especially for vacation-prone gardeners or people who travel.
 
 Drip irrigation on a timer is the other solution. A basic timer + drip emitter setup for 10 containers costs $40-80 and eliminates the daily task entirely. For a serious container setup, it's worth considering in year one.
 
@@ -74,7 +74,7 @@ The crops that make economic sense in containers share a few characteristics: th
 
 That $29 against a $50-78 infrastructure investment ($30-48 containers + $20-30 soil) looks thin until you factor in the ongoing nature of the production. Year 2 and beyond, the containers and soil are paid for. Annual seed cost is $5-8. Annual soil amendment is $15-20. Year 2 production cost: $20-28, returning $25-35 in herb value. That's a profitable operation.
 
-**Cherry tomatoes in 10-15 gallon containers.** Determinate types (Patio, Bush Early Girl, Tumbling Tom) are bred for containers and produce 5-10 lb per plant in a 10-gallon container. At $3/lb for cherry tomatoes, that's $15-30 per container. The container ($8-15) and soil ($12-20) cost is recovered in year one of production. Indeterminate types in 25-gallon containers can produce more but require more aggressive pruning and support, and the 25-gallon container is a substantial investment.
+**Cherry tomatoes in 10-15 gallon containers.** Determinate types (Patio, Bush Early Girl, Tumbling Tom) are bred for containers and produce 5-10 lb per plant in a 10-gallon container. At $3/lb for cherry tomatoes, that's $15-30 per container. The container ($8-15) and soil ($12-20) cost is recovered in year one of production. Indeterminate types in 25-gallon containers can produce more but require more aggressive pruning and support, and the 25-gallon container setup is a real investment.
 
 **Lettuce and arugula for cut-and-come-again.** A 5-gallon container of lettuce mix, harvested cut-and-come-again, yields 6-8 harvests of 2-3 oz each = roughly 0.75-1.5 lb over the cool season. At $3.50/lb for baby lettuce mix, that's $2.60-5.25 per container. The economics are marginal on a per-harvest basis, but the convenience of fresh salad greens off a balcony has value beyond the numbers.
 

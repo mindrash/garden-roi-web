@@ -39,7 +39,7 @@ Most trellisable crops yield the same or more per plant as their sprawling count
 
 **Cucumbers:** a single cucumber plant needs 6-8 sq ft of ground space when left to sprawl. Trained up a trellis, it occupies 1-2 sq ft of footprint. Production per plant is similar either way (10-20 cucumbers per plant depending on variety and conditions). The math: 6 sq ft saved per plant × 4 plants = 24 sq ft of bed freed for other crops.
 
-**Indeterminate tomatoes:** trained to a single stake with all suckers pruned, an indeterminate tomato occupies 1 sq ft and grows to 6+ feet. The same plant allowed to sprawl unpruned covers 6-12 sq ft of ground. Pruning and staking trades some total yield for dramatically reduced footprint and better air circulation.
+**Indeterminate tomatoes:** trained to a single stake with all suckers pruned, an indeterminate tomato occupies 1 sq ft and grows to 6+ feet. The same plant allowed to sprawl unpruned covers 6-12 sq ft of ground. Pruning and staking trades some total yield for a much smaller footprint and better air circulation.
 
 **Trellis structures and cost:**
 
@@ -120,7 +120,7 @@ If you're working with 20-50 sq ft and want to maximize grocery value, the plant
 3. Cut-and-come-again greens (arugula, kale, lettuce) - consistent production through the season
 4. Cucumbers or pole beans on a trellis - high yield relative to footprint
 
-Corn, winter squash, and full-size pumpkins are the crops to avoid in a small space. They produce modest value per square foot and require substantial space for wind pollination (corn) or vine spread (squash).
+Corn, winter squash, and full-size pumpkins are the crops to avoid in a small space. They produce modest value per square foot and require 50 or more square feet for wind pollination (corn) or vine spread (squash).
 
 ---
 
