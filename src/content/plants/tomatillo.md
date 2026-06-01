@@ -37,15 +37,15 @@ Tomatillo is a member of the nightshade family (*Solanaceae*), closely related t
 
 Sources: University of Minnesota Extension *Tomatillo Variety Trials* (2021); OSU Extension *Specialty Crop Guide: Tomatillos and Ground Cherries* (2020).
 
-For maximum fresh salsa verde output, Grande Rio Verde is the volume pick. For farmers markets or direct sale, Purple De Milpa and Cisineros command a premium because they are genuinely unusual - most buyers have never seen a purple tomatillo and will pay $5-7/lb where green tomatillos go for $3-4/lb (USDA AMS, 2023). The productivity trade-off is real: you grow more pounds of green, fewer pounds of purple, but the purple pounds may return more per pound at market.
+For maximum fresh salsa verde output, Grande Rio Verde is the volume pick. For farmers markets or direct sale, Purple De Milpa and Cisineros command a premium because they are unusual - most buyers have never seen a purple tomatillo and will pay $5-7/lb where green tomatillos go for $3-4/lb (USDA AMS, 2023). The productivity trade-off is real: you grow more pounds of green, fewer pounds of purple, but the purple pounds may return more per pound at market.
 
 ## The ROI case
 
-At $2.99/packet and 100-200 seeds, seed cost per plant is negligible. Plan for two plants minimum - and three if you want a meaningful harvest margin. Two productive plants in optimal conditions yield 5-8 lb combined, returning $17-28 in fresh market value at $3.50/lb. Compare that to $5.98 in seed cost for both plants and the math is favorable even in year 1.
+At $2.99/packet and 100-200 seeds, seed cost per plant is negligible. Plan for two plants minimum - and three if you want a buffer against poor fruit set. Two productive plants in optimal conditions yield 5-8 lb combined, returning $17-28 in fresh market value at $3.50/lb. Compare that to $5.98 in seed cost for both plants and the math is favorable even in year 1.
 
 ## Growing requirements
 
-Start transplants indoors 6-8 weeks before last frost. Tomatillos are warm-season crops with the same temperature preferences as tomatoes - soil temperature at planting should be at or above 60°F, and air temperatures should stay above 50°F at night. Set transplants out after last frost, spaced 24-36 inches apart. Plants grow 3-4 feet tall and sprawl significantly; a cage or stake is useful.
+Start transplants indoors 6-8 weeks before last frost. Tomatillos are warm-season crops with the same temperature preferences as tomatoes - soil temperature at planting should be at or above 60°F, and air temperatures should stay above 50°F at night. Set transplants out after last frost, spaced 24-36 inches apart. Plants grow 3-4 feet tall and sprawl; a cage or stake is useful.
 
 Soil pH 6.0-7.0. Moderate feeder - less demanding than tomatoes. Work in compost before planting; a balanced fertilizer at transplant time is sufficient for most soils. Avoid heavy nitrogen applications that push foliage at the expense of fruit set.
 

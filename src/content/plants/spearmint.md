@@ -50,7 +50,7 @@ Spearmint shows up across a broad range of cuisines, and in nearly all of them, 
 
 **Mediterranean.** Tzatziki uses fresh mint or dill depending on region; the mint version uses spearmint. Lamb dishes across Greek, Turkish, and British traditions pair with spearmint specifically - the herb's sweetness complements lamb fat in a way peppermint cannot, as the high menthol level would clash rather than complement.
 
-**Desserts.** Mint chocolate and mint ice cream are the one category where peppermint has a legitimate claim, because the sharp menthol is part of the expected flavor. Fresh spearmint garnishes on desserts are decorative and mild. This is one context where knowing which mint you're using matters - the applications are genuinely different.
+**Desserts.** Mint chocolate and mint ice cream are the one category where peppermint has a legitimate claim, because the sharp menthol is part of the expected flavor. Fresh spearmint garnishes on desserts are decorative and mild. This is one context where knowing which mint you're using matters - the applications are different.
 
 ## Container culture - the non-negotiable part
 

@@ -76,7 +76,7 @@ Indoor starting is rarely necessary but can add 2-3 weeks in short-season climat
 
 **Pollination:** like all cucurbits, spaghetti squash produces separate male and female flowers on the same plant. Male flowers appear first (no fruit at the base); female flowers have a small immature squash at the base. Bees handle pollination in most gardens. In low-pollinator conditions or early in the season, hand-pollinate with a small brush or by touching the center of a male flower to the center of a female flower.
 
-**Watering:** consistent moisture at the root zone; avoid overhead irrigation that wets the leaves and stems. Drip irrigation or soaker hoses reduce fungal disease pressure significantly.
+**Watering:** consistent moisture at the root zone; avoid overhead irrigation that wets the leaves and stems. Drip irrigation or soaker hoses reduce fungal disease pressure.
 
 ## What goes wrong
 
@@ -94,7 +94,7 @@ Indoor starting is rarely necessary but can add 2-3 weeks in short-season climat
 
 Harvest when the skin is fully yellow and hard. A fingernail pressed into the skin shouldn't dent it. The stem end will be slightly corky. For best storage, leave 2-3 inches of stem attached - stemmless fruit rots faster.
 
-**Curing:** after harvest, cure in a warm (70-80°F), well-ventilated location for 10-14 days. Curing hardens the skin and heals any minor surface wounds, substantially extending storage life.
+**Curing:** after harvest, cure in a warm (70-80°F), well-ventilated location for 10-14 days. Curing hardens the skin and heals any minor surface wounds, extending storage life.
 
 **Storage:** 50-60°F, dry, with good air circulation. A cool basement shelf, root cellar, or unheated room works. Properly cured spaghetti squash stores 3-6 months. Check periodically and use any that show soft spots.
 
@@ -104,7 +104,7 @@ Harvest when the skin is fully yellow and hard. A fingernail pressed into the sk
 
 - **Simply roasted with olive oil, salt, and pepper:** the most direct preparation. The strands have a mild flavor that takes well to almost any topping.
 
-- **With marinara and meatballs:** the classic low-carb pasta substitute. The strand texture is genuinely pasta-like; the flavor is mild enough to work as a background for the sauce.
+- **With marinara and meatballs:** the classic low-carb pasta substitute. The strand texture is pasta-like; the flavor is mild enough to work as a background for the sauce.
 
 - **Brown butter and sage:** brown butter until nutty, add fresh sage leaves until crisp, toss with squash strands and Parmesan. Better than it sounds.
 

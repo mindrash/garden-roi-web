@@ -59,7 +59,7 @@ Water 1 to 2 inches per week through establishment and fruit set. Once fruits ar
 
 ## Curing: the step most growers skip
 
-Curing is what converts a freshly harvested squash into a long-storage squash. Freshly cut squash has a wound at the stem end that's a pathway for rot organisms. Curing at 80 to 85°F and high humidity (85 to 90%) for 10 to 14 days causes the skin to harden and wound tissue to heal over, dramatically extending storage life (University of Illinois Extension, *Storing Vegetables at Home*, 2022).
+Curing is what converts a freshly harvested squash into a long-storage squash. Freshly cut squash has a wound at the stem end that's a pathway for rot organisms. Curing at 80 to 85°F and high humidity (85 to 90%) for 10 to 14 days causes the skin to harden and wound tissue to heal over, extending storage life (University of Illinois Extension, *Storing Vegetables at Home*, 2022).
 
 Practical curing setup: leave squash in a warm greenhouse, car parked in the sun, or near a heat source covered loosely for the curing period. Butternut benefits more from curing than acorn types (which don't store as long regardless). After curing, move to cool, dry storage - 50 to 55°F, low humidity. A cool basement or garage works in most climates. Do not refrigerate.
 

@@ -16,7 +16,7 @@ description: "Tatsoi (Brassica rapa var. narinosa) - cold-hardy to 15°F, extend
 hero_image: /images/crops/tatsoi.webp
 ---
 
-Tatsoi (*Brassica rapa var. narinosa*) is the salad green that keeps producing after the rest of your cool-season bed has given up. It's cold-hardy to 15°F - significantly more tolerant than spinach (25°F), arugula (20°F), or mizuna (25°F) - and in zones 5-7 it regularly produces cuttable leaves well into November and December. That extension of the fresh-greens season is the main argument for growing it.
+Tatsoi (*Brassica rapa var. narinosa*) is the salad green that keeps producing after the rest of your cool-season bed has given up. It's cold-hardy to 15°F - more tolerant than spinach (25°F), arugula (20°F), or mizuna (25°F) - and in zones 5-7 it regularly produces cuttable leaves well into November and December. That extension of the fresh-greens season is the main argument for growing it.
 
 The leaves are dark green, spoon-shaped with rounded ends, and form a flat rosette that lies close to the ground. The flavor is mild - think of bok choy leaves without the stalk bitterness. It's one of the less aggressive-tasting greens in the brassica family, which makes it useful in salad mixes where you want something with substance and cool-weather staying power without heat or bitterness.
 

@@ -45,7 +45,7 @@ Verify what you're buying: crush a leaf and smell it. French thyme should smell 
 | Creeping thyme (*T. serpyllum*) | Thymol variable, generally low | Mild, grassy-herbal | Zone 4 | Ground cover, light garnish use, ornamental primary |
 | 'Doone Valley' (variegated lemon thyme) | Geraniol, thymol low | Lemon thyme flavor | Zone 6-7 | Decorative plus light culinary use |
 
-The thymol percentage is the clearest predictor of culinary intensity. French and common thyme at 30-50% thymol are the workhorses - what you want when the recipe says "thyme." Lemon thyme at low thymol and high geraniol is a genuinely different herb, not a substitute. Use it when the citrus element is wanted, not when you just need thyme. Creeping thyme as a ground cover between pavers is an elegant use of the genus, but don't expect it to flavor your roast chicken.
+The thymol percentage is the clearest predictor of culinary intensity. French and common thyme at 30-50% thymol are the workhorses - what you want when the recipe says "thyme." Lemon thyme at low thymol and high geraniol is a different herb, not a substitute. Use it when the citrus element is wanted, not when you just need thyme. Creeping thyme as a ground cover between pavers is an elegant use of the genus, but don't expect it to flavor your roast chicken.
 
 ## The ROI case
 

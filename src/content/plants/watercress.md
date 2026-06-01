@@ -36,7 +36,7 @@ Subtract seed cost: $21.75 - $2.99 = $18.76 net value per year, ongoing from the
 
 The seed packet replants all four containers with seeds to spare. In mild climates where watercress overwinters in containers and stays productive indoors, that annual yield climbs further.
 
-Be direct about scale: a single container harvest is 2-3 oz. You are not replacing your vegetable budget. The value here is high price per pound, exceptional freshness compared to refrigerated supermarket bunches, and access to a green that most people genuinely cannot find at their local grocery store.
+Be direct about scale: a single container harvest is 2-3 oz. You are not replacing your vegetable budget. The value here is high price per pound, exceptional freshness compared to refrigerated supermarket bunches, and access to a green that most people cannot find at their local grocery store.
 
 ## Container culture: the specific method
 
@@ -110,9 +110,9 @@ In any application: don't cook it longer than necessary, and if you can use it r
 
 ## Volume reality check
 
-Four containers running in rotation will yield roughly 8-12 oz per week at peak production during optimal cool-season conditions. That is a meaningful supplement to your salad rotation, and it's a green you can't get at most grocery stores. It is not a larder-filling crop. You're not canning watercress or building a winter supply.
+Four containers running in rotation will yield roughly 8-12 oz per week at peak production during optimal cool-season conditions. That is a real supplement to your salad rotation, and it's a green you can't get at most grocery stores. It is not a larder-filling crop. You're not canning watercress or building a winter supply.
 
-The case for growing it is simple: high retail price, minimal setup cost, fast harvest cycle, and a fresh product that's genuinely better than what's available commercially. Freshly cut watercress from your porch tray and day-old supermarket watercress that traveled 1,500 miles in refrigerated transit are not the same ingredient.
+The case for growing it is simple: high retail price, minimal setup cost, fast harvest cycle, and a fresh product that's better than what's available commercially. Freshly cut watercress from your porch tray and day-old supermarket watercress that traveled 1,500 miles in refrigerated transit are not the same ingredient.
 
 ---
 

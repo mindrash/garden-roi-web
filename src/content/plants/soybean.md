@@ -41,7 +41,7 @@ Three arguments, stated without embellishment.
 
 ## Inoculant - Don't Skip This
 
-If you've never grown soybeans or edamame in a particular bed - or haven't grown them in three or more years - the *Bradyrhizobium japonicum* bacteria necessary for nitrogen fixation may be absent or present at insufficient levels. The plant will grow without them. It will not fix nitrogen without them, and yield will be meaningfully lower.
+If you've never grown soybeans or edamame in a particular bed - or haven't grown them in three or more years - the *Bradyrhizobium japonicum* bacteria necessary for nitrogen fixation may be absent or present at insufficient levels. The plant will grow without them. It will not fix nitrogen without them, and yield will be lower.
 
 Inoculant is a powder or granular product containing live *Bradyrhizobium japonicum* cultures. Granular forms cost $3-6 at farm supply stores and online seed suppliers - enough to treat a full home garden planting with a single purchase. Liquid formulations also exist and perform comparably.
 

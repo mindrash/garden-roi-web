@@ -65,7 +65,7 @@ Not all turnips are the same crop in practice. Variety choice affects days to ma
 
 Hakurei is worth growing even if you've written off turnips. It is mild enough that people eat it like an apple at the farmers market stand, which no one does with a Purple Top. The trade-off is that it has a smaller root and shorter storage life. Eat it fresh within a week.
 
-Golden Ball takes the longest - 60 days - but the yellow flesh has a genuinely different flavor from standard white types. The extra starch-to-sugar conversion that happens in cool fall soil hits Golden Ball particularly hard. A Golden Ball pulled in October after a few nights in the 30s is not the same vegetable as a spring-planted Purple Top that matured in June heat.
+Golden Ball takes the longest - 60 days - but the yellow flesh has a different flavor from standard white types. The extra starch-to-sugar conversion that happens in cool fall soil hits Golden Ball particularly hard. A Golden Ball pulled in October after a few nights in the 30s is not the same vegetable as a spring-planted Purple Top that matured in June heat.
 
 ## The fall timing argument
 

@@ -28,7 +28,7 @@ Stevia is a tender perennial - it survives outdoors year-round only in zones 9-1
 
 ## Variety selection matters more than most people realize
 
-Standard *Stevia rebaudiana* grown from generic seed is variable. Some plants taste clean and genuinely sweet. Others carry a pronounced bitter or licorice aftertaste that makes them nearly unusable in delicate applications. That bitterness is not a processing problem - it comes from the ratio of stevioside to rebaudioside A in the leaf. Stevioside carries most of the bitterness; rebaudioside A is the cleaner-tasting compound. A high-Reb-A plant tastes noticeably better than a high-stevioside plant, and you can't tell from the seed packet which you're getting.
+Standard *Stevia rebaudiana* grown from generic seed is variable. Some plants taste clean and sweet. Others carry a pronounced bitter or licorice aftertaste that makes them nearly unusable in delicate applications. That bitterness is not a processing problem - it comes from the ratio of stevioside to rebaudioside A in the leaf. Stevioside carries most of the bitterness; rebaudioside A is the cleaner-tasting compound. A high-Reb-A plant tastes noticeably better than a high-stevioside plant, and you can't tell from the seed packet which you're getting.
 
 Named cultivars bred for Reb-A dominance include 'Candy' (widely available at US garden centers, sweet with low bitterness), 'Stevia Select' (bred specifically for Reb-A dominance), and 'Sugar Leaf' (a common name applied to several high-Reb-A strains - not a single standardized cultivar). If you're buying transplants rather than seeds, ask specifically for a Reb-A dominant variety. If the person selling starts can't tell you the cultivar name, buy from somewhere else or find a named variety online.
 
@@ -66,7 +66,7 @@ Take 4-6 inch cuttings from actively growing stem tips. Remove the lower leaves,
 
 Cuttings accomplish two things seed cannot. First, germination of 20-30% is a real constraint when you want reliable plant counts - cuttings root at 80-90%+ under reasonable conditions. Second, if you've grown a stevia plant that tastes exceptional, cuttings reproduce it exactly. Seed from that same plant will generate a genetically variable population, some of which will taste worse.
 
-If you find a stevia plant at a farmers market or in a neighbor's garden that tastes clean and genuinely sweet, offer to take a cutting. That cutting is more valuable than anything you'll grow from a generic seed packet.
+If you find a stevia plant at a farmers market or in a neighbor's garden that tastes clean and sweet, offer to take a cutting. That cutting is more valuable than anything you'll grow from a generic seed packet.
 
 ## Growing requirements
 
@@ -76,11 +76,11 @@ Transplant after all frost risk has passed and soil temperature is above 65°F. 
 
 Soil pH of 6.5-7.0. Well-drained, moderately fertile soil - stevia is susceptible to root rot in wet or compacted soils. Raised beds or mounded rows improve drainage. Do not over-fertilize; high nitrogen pushes vegetative growth but dilutes glycoside concentration in the leaves. A light application of balanced fertilizer at transplant and once mid-season is sufficient.
 
-Full sun (6-8 hours) is non-negotiable for good glycoside development. Shade-grown stevia produces significantly lower sweetener content. Space plants 18-24 inches apart. Pinch growing tips at 8 inches tall to promote branching and higher total leaf yield.
+Full sun (6-8 hours) is non-negotiable for good glycoside development. Shade-grown stevia produces lower sweetener content. Space plants 18-24 inches apart. Pinch growing tips at 8 inches tall to promote branching and higher total leaf yield.
 
 ## Zone limitations, stated plainly
 
-Zone 9+: stevia is a perennial. Plant it, cut it back each fall, mulch lightly, and it comes back. A 3-year-old plant is a substantially larger and more productive shrub than a first-year transplant.
+Zone 9+: stevia is a perennial. Plant it, cut it back each fall, mulch lightly, and it comes back. A 3-year-old plant is a larger and more productive shrub than a first-year transplant.
 
 Zone 8: possible overwintering outdoors with 3-4 inches of mulch over the crown after frost kills top growth. Not reliable. Some winters you'll lose it. Worth attempting if you're attached to a particular plant; not worth counting on as your growing strategy.
 
