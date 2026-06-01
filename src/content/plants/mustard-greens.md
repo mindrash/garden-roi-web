@@ -16,7 +16,7 @@ description: "Mustard Greens (Brassica juncea) - 35-day harvest, cut-and-come-ag
 hero_image: /images/crops/mustard-greens.webp
 ---
 
-Mustard greens (*Brassica juncea*) are the fastest-returning leafy green you can plant after radish. From direct sowing to first cut, you're looking at 35 days. The leaves are spicy - more so than arugula, less fire than raw horseradish - and that heat level is what divides gardeners on them. If you cook them, the sharpness mellows dramatically. If you eat them raw, young leaves under an inch are much milder than mature leaves, which is why baby mustard greens end up in spring salad mixes at specialty grocers.
+Mustard greens (*Brassica juncea*) are the fastest-returning leafy green you can plant after radish. From direct sowing to first cut, you're looking at 35 days. The leaves are spicy - more so than arugula, less fire than raw horseradish - and that heat level is what divides gardeners on them. If you cook them, the sharpness mellows. If you eat them raw, young leaves under an inch are much milder than mature leaves, which is why baby mustard greens end up in spring salad mixes at specialty grocers.
 
 *B. juncea* is also used as a cover crop and soil biofumigant - the glucosinolates in the plant's tissue suppress certain soilborne pathogens and nematodes when the green matter is tilled in before it fully decomposes. This dual-use profile makes mustard greens one of the more practical plants you can put in your rotation.
 

@@ -16,7 +16,7 @@ description: "Lovage (Levisticum officinale) - $6-10/lb, perennial zones 4+. Int
 hero_image: /images/crops/lovage.webp
 ---
 
-Lovage (*Levisticum officinale*) solves a problem celery creates. Celery takes 120 days from seed to harvest, requires constant moisture, demands rich soil, and produces a mediocre yield under anything but ideal conditions. Lovage has a nearly identical flavor profile - strong, celery-like, with more intensity - it's a perennial that comes back for decades in zones 4+, grows 4-6 feet tall at maturity, and tolerates imperfect conditions that would stress celery significantly. If you use celery primarily as an aromatic in cooking (soups, stocks, braises), lovage replaces it completely and is far easier to grow (USDA AMS Specialty Crop Market News, 2023).
+Lovage (*Levisticum officinale*) solves a problem celery creates. Celery takes 120 days from seed to harvest, requires constant moisture, demands rich soil, and produces a mediocre yield under anything but ideal conditions. Lovage has a nearly identical flavor profile - strong, celery-like, with more intensity - it's a perennial that comes back for decades in zones 4+, grows 4-6 feet tall at maturity, and tolerates imperfect conditions that would stress celery. If you use celery primarily as an aromatic in cooking (soups, stocks, braises), lovage replaces it completely and is far easier to grow (USDA AMS Specialty Crop Market News, 2023).
 
 ## Taxonomy and identity
 
@@ -30,7 +30,7 @@ A mature lovage plant is large. The first-year plant is modest and spends most o
 
 ## The ROI case - year by year
 
-The perennial nature of lovage changes the economic math compared to annual herbs. A packet of lovage seed costs $2-4; a small potted plant from an herb nursery runs $3-6. The first-year yield is modest while the plant establishes. By year three, a single plant produces meaningful quantities of leaf, stem, and seed. The table below uses conservative yield estimates based on Herb Society of America guidance and specialty crop pricing from USDA AMS Specialty Crop Market News (2023).
+The perennial nature of lovage changes the economic math compared to annual herbs. A packet of lovage seed costs $2-4; a small potted plant from an herb nursery runs $3-6. The first-year yield is modest while the plant establishes. By year three, a single plant produces real quantities of leaf, stem, and seed. The table below uses conservative yield estimates based on Herb Society of America guidance and specialty crop pricing from USDA AMS Specialty Crop Market News (2023).
 
 | Year | Plants | Leaf harvest (lb) | Seed harvest (oz) | Value at $8/lb leaf, $10/lb seed | Start cost | Cumulative net |
 |------|--------|-------------------|-------------------|---------------------------------|------------|----------------|

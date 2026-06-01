@@ -97,11 +97,11 @@ At the height of a hot August, some gardeners harvest twice a day - morning and 
 
 **Stink bugs** - both the brown marmorated stink bug (*Halyomorpha halys*) and native *Euschistus* species - pierce pods and cause internal damage and discoloration. Row cover exclusion is the most practical control for home gardens. Most insecticidal options have limited effectiveness against adult stink bugs.
 
-**Root knot nematodes** (*Meloidogyne* spp.) cause stunted growth and knotted root structures, particularly in warm, sandy soils in the Southeast. Resistant varieties exist; soil solarization before planting (clear plastic laid over moist soil for 4-6 weeks in full sun) reduces populations significantly. This is worth doing in previously affected beds.
+**Root knot nematodes** (*Meloidogyne* spp.) cause stunted growth and knotted root structures, particularly in warm, sandy soils in the Southeast. Resistant varieties exist; soil solarization before planting (clear plastic laid over moist soil for 4-6 weeks in full sun) reduces populations. This is worth doing in previously affected beds.
 
 **Fusarium wilt** (*Fusarium oxysporum* f. sp. *vasinfectum*) causes wilting and yellowing that progresses to plant death. No treatment once active; use disease-free transplants, rotate crops, and choose resistant varieties. 'Clemson Spineless' has moderate resistance.
 
-**Powdery mildew** appears on leaves late in the season in humid climates. It rarely affects pod production significantly if the plant is otherwise healthy. Remove heavily affected leaves to improve airflow; potassium bicarbonate sprays slow spread.
+**Powdery mildew** appears on leaves late in the season in humid climates. It rarely affects pod production if the plant is otherwise healthy. Remove heavily affected leaves to improve airflow; potassium bicarbonate sprays slow spread.
 
 A note on handling: even varieties marketed as "spineless" have fine trichomes on pods and stems that irritate sensitive skin. Some people react more strongly than others. Wear gloves during heavy harvests regardless of the label.
 

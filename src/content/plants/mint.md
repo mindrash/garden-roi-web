@@ -55,7 +55,7 @@ Not all mint is peppermint, and the differences matter for how you use it. The f
 | Apple mint | *Mentha suaveolens* | Low-moderate | Fruity, soft, fuzzy-leafed | Fresh use, fruit salads |
 | Orange mint | *M.* × *piperita* var. *citrata* | Moderate | Citrus-forward, floral | Cocktails, teas, garnish |
 
-Peppermint is the default for dried herb and medicinal use because of its menthol concentration. Spearmint is what most people actually want for cooking - the lower menthol content means it doesn't overwhelm a dish the way peppermint can. Chocolate mint is mostly a novelty; it's genuinely pleasant to brush against in the garden, but in a blind taste test most people can't reliably distinguish it from standard peppermint once dried. Orange mint earns its keep if you make cocktails or want something interesting in iced tea.
+Peppermint is the default for dried herb and medicinal use because of its menthol concentration. Spearmint is what most people actually want for cooking - the lower menthol content means it doesn't overwhelm a dish the way peppermint can. Chocolate mint is mostly a novelty; it's pleasant to brush against in the garden, but in a blind taste test most people can't reliably distinguish it from standard peppermint once dried. Orange mint earns its keep if you make cocktails or want something interesting in iced tea.
 
 You can grow more than one variety, but keep them physically separated. Different mints will cross-pollinate and, more practically, the runners will intermingle and you'll eventually lose track of which is which.
 
@@ -63,7 +63,7 @@ You can grow more than one variety, but keep them physically separated. Differen
 
 Peppermint is a sterile hybrid - a cross between watermint (*M. aquatica*) and spearmint (*M. spicata*) - which means it doesn't produce viable seed. What you find sold as "peppermint seed" is either mislabeled spearmint or some other *Mentha* selection that will not be peppermint when it grows out. Buy transplants.
 
-Spearmint can be grown from seed, but germination is slow and results are variable. The seedlings are not uniform. For $2.49 to $3.99 at most nurseries you can get a proven transplant that will establish quickly and produce in its first season. The seed-to-harvest timeline is significantly longer, and the outcome is less predictable. This is one crop where buying plants is the right call every time.
+Spearmint can be grown from seed, but germination is slow and results are variable. The seedlings are not uniform. For $2.49 to $3.99 at most nurseries you can get a proven transplant that will establish quickly and produce in its first season. The seed-to-harvest timeline is longer, and the outcome is less predictable. This is one crop where buying plants is the right call every time.
 
 ## The ROI Numbers
 

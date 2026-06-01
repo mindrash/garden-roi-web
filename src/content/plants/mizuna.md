@@ -85,7 +85,7 @@ For Zone 5, a floating row cover over the last fall sowing extends the harvest w
 
 Direct sow only - mizuna doesn't transplant well and there's no reason to try at 20-day turnaround times. Sow 1/8 inch deep, broadcast or in rows 6 inches apart. Germination at 50°F takes 7-10 days; at 65°F, 4-5 days. Keep soil moist through germination.
 
-Soil pH 6.0-7.5. Mizuna is genuinely adaptable and doesn't need much fertility. Two inches of compost worked in before sowing is enough. Avoid high-nitrogen conditions that produce lush, watery leaves with less flavor.
+Soil pH 6.0-7.5. Mizuna is adaptable and doesn't need much fertility. Two inches of compost worked in before sowing is enough. Avoid high-nitrogen conditions that produce lush, watery leaves with less flavor.
 
 Full sun to partial shade. In spring, full sun is fine. In late spring when heat is building, afternoon shade buys time before bolting. A spot that gets morning sun and afternoon protection is useful for the last spring succession.
 

@@ -42,7 +42,7 @@ Whirlybird is the practical choice for containers and harvesting volume in a sma
 
 ## The ROI case - three product streams
 
-Most plants give you one harvest. Nasturtium gives you three if you work it properly: flowers, young leaves, and pickled seed pods. The math changes significantly when you account for all three.
+Most plants give you one harvest. Nasturtium gives you three if you work it properly: flowers, young leaves, and pickled seed pods. The math changes when you account for all three.
 
 | Product | Harvest window | Yield (6 plants) | Retail equivalent | Seasonal value |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ The first two to three sets of leaves are most tender and least fibrous. Young n
 
 This is the highest-value use and the most neglected one. The window is narrow: harvest green seed pods before they harden and begin to yellow. The three-lobed pods should be plump and firm, still fully green. Once they start to turn white or yellow, the texture degrades for pickling.
 
-The flavor similarity to actual capers is not coincidence. Both nasturtium pods and *Capparis spinosa* (true capers) contain isothiocyanates - in nasturtium, the glucosinolates hydrolyze to allyl isothiocyanate on cell damage, producing a sharp, pungent note that mimics the caper's characteristic bite closely enough for most cooked applications. The resemblance holds in pasta, chicken piccata, and sauces where capers are usually used as a background flavor element. At retail, capers run $15-25/lb at specialty grocers (USDA AMS, 2023) - harvesting even two jars from a $1.99 seed investment represents a meaningful displacement of that cost.
+The flavor similarity to actual capers is not coincidence. Both nasturtium pods and *Capparis spinosa* (true capers) contain isothiocyanates - in nasturtium, the glucosinolates hydrolyze to allyl isothiocyanate on cell damage, producing a sharp, pungent note that mimics the caper's characteristic bite closely enough for most cooked applications. The resemblance holds in pasta, chicken piccata, and sauces where capers are usually used as a background flavor element. At retail, capers run $15-25/lb at specialty grocers (USDA AMS, 2023) - harvesting even two jars from a $1.99 seed investment represents real displacement of that cost.
 
 **Pickling method:**
 

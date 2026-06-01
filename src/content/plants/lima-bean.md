@@ -28,7 +28,7 @@ Bush limas reach 18-24 inches tall and need no support. Pole limas run 8-10 feet
 
 ## The ROI case
 
-A $2.99 seed packet covers a 15-20 foot row at standard spacing. From that row you can realistically expect 3 lb of shelled fresh beans from a bush planting, or closer to 4-5 lb from a pole planting given the extended harvest window. The numbers change significantly depending on whether you harvest fresh or let the beans dry on the vine.
+A $2.99 seed packet covers a 15-20 foot row at standard spacing. From that row you can realistically expect 3 lb of shelled fresh beans from a bush planting, or closer to 4-5 lb from a pole planting given the extended harvest window. The numbers change depending on whether you harvest fresh or let the beans dry on the vine.
 
 **The fresh path.** Fresh shelled lima beans retail at $3-5/lb where they are sold at all (USDA AMS Specialty Crop Market News, 2024). At farmers markets, where novelty drives pricing and competition is thin, fresh shell limas from large-seeded Fordhook types regularly bring $5-8/lb. They are unusual enough that customers who know what they are will pay for them.
 
@@ -107,7 +107,7 @@ Soil pH of 6.0-6.8. Average fertility is fine - overly nitrogen-rich soil pushes
 
 Sow seeds 1 inch deep, 6 inches apart for bush types, 8-12 inches apart for pole types. Direct sow only - no earlier than late May in Zone 5, no earlier than soil reaching 65°F wherever you are.
 
-Water consistently at 1 inch per week through vegetative growth and flowering. Reduce watering after pods begin to fill. Excess moisture during pod fill promotes rot and splits. Lima beans tolerate dry spells better than common beans once established, but yield drops significantly with water stress during active pod development.
+Water consistently at 1 inch per week through vegetative growth and flowering. Reduce watering after pods begin to fill. Excess moisture during pod fill promotes rot and splits. Lima beans tolerate dry spells better than common beans once established, but yield drops with water stress during active pod development.
 
 Mulch helps regulate soil temperature and moisture - 2-3 inches of straw or shredded leaves around the base once plants are 6 inches tall.
 

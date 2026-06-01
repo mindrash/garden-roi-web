@@ -70,7 +70,7 @@ If you're selling at a farmers market, the math gets more interesting. At $10/lb
 
 Napa cabbage needs consistent soil moisture throughout heading. Inconsistent watering causes tipburn - brown, papery inner leaf edges caused by calcium deficiency triggered by irregular water flow to developing tissue - and cracked heads. Keep soil pH between 6.0 and 7.0 (Penn State Extension, *Brassica Crops*, 2019). Like all brassicas, napa benefits from nitrogen-rich soil; side-dress with a balanced fertilizer when plants are 6 inches tall.
 
-Transplant or thin to 12-15 inch spacing. Crowding reduces head size significantly. Napa needs at least 6 hours of direct sun; it will grow slowly in less and the heads will be loose and poorly formed.
+Transplant or thin to 12-15 inch spacing. Crowding reduces head size. Napa needs at least 6 hours of direct sun; it will grow slowly in less and the heads will be loose and poorly formed.
 
 ## Fall timing - why spring usually fails
 

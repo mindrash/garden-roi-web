@@ -26,7 +26,7 @@ Sweet marjoram is the standard culinary form. Pot marjoram (*O. onites*) is a re
 
 ### Marjoram vs. Oregano: The Actual Differences
 
-Same genus, meaningfully different plants. The confusion comes from garden centers selling them interchangeably, but the flavor chemistry is distinct.
+Same genus, different plants. The confusion comes from garden centers selling them interchangeably, but the flavor chemistry is distinct.
 
 | Factor | Marjoram (*O. majorana*) | Oregano (*O. vulgare*) |
 |---|---|---|

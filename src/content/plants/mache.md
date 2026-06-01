@@ -79,7 +79,7 @@ Soil pH 6.0-7.0. Mâche grows in low-fertility conditions without complaint - th
 
 Water at 0.5 inches per week through fall. Mâche tolerates wet conditions better than most salad greens but standing water causes crown rot. Avoid overhead irrigation in cool cloudy weather - it promotes gray mold on the dense rosettes.
 
-In Zone 5, a cold frame or low tunnel with row cover extends the harvest window reliably through late November and into December. Without protection, hard freezes below 5°F may kill plants that haven't fully acclimated. Established plants that have experienced a series of progressively harder frosts before the deep freeze hits are significantly hardier than plants that go from mild fall directly into a hard freeze.
+In Zone 5, a cold frame or low tunnel with row cover extends the harvest window reliably through late November and into December. Without protection, hard freezes below 5°F may kill plants that haven't fully acclimated. Established plants that have experienced a series of progressively harder frosts before the deep freeze hits are hardier than plants that go from mild fall directly into a hard freeze.
 
 Mâche does well in partial shade - 4 hours of direct sun is adequate. In zones with warm fall weather, partial shade actually helps by keeping soil temperatures lower and delaying the onset of conditions that would cause bolting.
 
