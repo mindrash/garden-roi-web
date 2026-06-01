@@ -7,7 +7,7 @@ featured: false
 hero_image: /images/articles/kitchen-scrap-regrowing.webp
 ---
 
-Most kitchen scrap regrowing advice treats everything the same: submerge the base in water, watch it grow, feel good about yourself. The problem is that "it grows" and "it produces meaningful food value" are not the same claim. Scallions and ginger rhizomes will save you real money. Romaine lettuce will grow some scraggly inner leaves for two weeks and then stop. The difference matters if you're trying to decide whether to set up a rotation of regrow jars or just throw the scraps in the compost.
+Most kitchen scrap regrowing advice treats everything the same: submerge the base in water, watch it grow, feel good about yourself. The problem is that "it grows" and "it produces real food value" are not the same claim. Scallions and ginger rhizomes will save you real money. Romaine lettuce will grow some scraggly inner leaves for two weeks and then stop. The difference matters if you're trying to decide whether to set up a rotation of regrow jars or just throw the scraps in the compost.
 
 This article separates the high-value cases from the low-value cases with actual math. Every retail price comes from USDA AMS market data. Every yield estimate is based on what you'll realistically harvest, not what the best-case scenario produces.
 
@@ -21,13 +21,13 @@ Cut the scallions 2 inches above the roots. Place the root ends in a glass with 
 
 The critical detail: change the water every 2 days. Stagnant water leads to bacterial slime on the roots and reduces regrowth vigor. After 3-4 regrowth cycles - roughly 4-6 weeks from the original purchase - the root system shows declining vigor and flavor starts to weaken. At that point you replant in soil or start fresh. The bulb bases planted in soil after water-rooting will continue producing for another 6-8 weeks before they need to be replaced.
 
-**Running 4-6 jars in rotation** changes the economics considerably. With 4 jars each holding one bunch's worth of roots, you're harvesting from one jar every 2-3 days on average. Over a 2-month window, a $5-6 initial investment in scallion bunches produces 12-16 additional harvests at $1.39/bunch retail equivalent - roughly $17-22 in produce value. The jars cost nothing if you already own them. The only ongoing cost is the occasional fresh bunch to maintain the rotation when root vigor declines.
+**Running 4-6 jars in rotation** changes the economics. With 4 jars each holding one bunch's worth of roots, you're harvesting from one jar every 2-3 days on average. Over a 2-month window, a $5-6 initial investment in scallion bunches produces 12-16 additional harvests at $1.39/bunch retail equivalent - roughly $17-22 in produce value. The jars cost nothing if you already own them. The only ongoing cost is the occasional fresh bunch to maintain the rotation when root vigor declines.
 
 If you cook with scallions more than twice a week, this is worth doing. If you use them occasionally as a garnish, a single jar is still worth the effort. You are spending 30 seconds every 2 days changing water in exchange for a consistent free supply of fresh green onions. For planting the spent root ends in garden soil and growing them out to full size, see the [scallion growing guide](/crops/scallion/).
 
 ## Ginger: High Value, Slower Timeline
 
-Store-bought ginger (*Zingiber officinale*) is genuinely plantable, and the return on investment is among the highest of any grocery-to-garden conversion. The catch is the timeline: this is a 7-9 month commitment, not a 2-week countertop project.
+Store-bought ginger (*Zingiber officinale*) is plantable, and the return on investment is among the highest of any grocery-to-garden conversion. The catch is the timeline: this is a 7-9 month commitment, not a 2-week countertop project.
 
 Grocery store ginger sells for $3-7/lb depending on season and region (USDA AMS, *Specialty Crops Terminal Market Reports*, 2024). An inch-long knob of ginger - the kind you might have left over after a recipe - weighs roughly 0.15-0.25 lb and costs $0.50-1.50 at that retail rate.
 
@@ -35,7 +35,7 @@ That same piece of ginger, planted in a container in spring after the last frost
 
 The practical protocol: select a piece with at least one visible "eye" (a small nub pointing outward - the same as what you'd look for on a potato). Soak it in water overnight to leach out any surface treatments. Plant 2-4 inches deep in well-draining potting mix. Ginger needs warmth to get going - soil temperature below 60°F will result in slow or no sprouting. In most of the continental US, that means waiting until late April or May, or starting indoors under lights in March.
 
-**The organic caveat is real.** Conventional ginger and turmeric from grocery stores are frequently treated with growth inhibitors to prevent sprouting during distribution and storage. You may get lucky with conventional ginger from a well-stocked store where turnover is high, but the success rate with organic ginger is meaningfully higher. If you want a reliable outcome, spend a bit more on organic. At $5-10/lb for organic ginger (depending on your source), you're still at $0.75-2.00 for a starter piece that can return $6-14 in harvest. The economics hold.
+**The organic caveat is real.** Conventional ginger and turmeric from grocery stores are frequently treated with growth inhibitors to prevent sprouting during distribution and storage. You may get lucky with conventional ginger from a well-stocked store where turnover is high, but the success rate with organic ginger is noticeably higher. If you want a reliable outcome, spend a bit more on organic. At $5-10/lb for organic ginger (depending on your source), you're still at $0.75-2.00 for a starter piece that can return $6-14 in harvest. The economics hold.
 
 See the full growing guide at [ginger growing guide](/crops/ginger/).
 
@@ -67,7 +67,7 @@ Grocery store sweet potato slip production is viable and worth doing if you want
 
 Celery (*Apium graveolens*) is one of the most widely promoted regrow projects online, and the claims are consistently overstated. The honest version: the inner stalks and leaves that regrow from a celery base are small, thin, and largely useful as a flavoring herb, not as a replacement for the grocery store head you started with.
 
-Place the celery base (the cut bottom 2-3 inches of the head) in a shallow dish with about an inch of water. New growth emerges from the center in 5-7 days. Over 2-4 weeks you'll get several sets of small, pale-green inner stalks and a significant amount of leafy tops. After 3-4 weeks the plant needs to go into soil or the growth stalls.
+Place the celery base (the cut bottom 2-3 inches of the head) in a shallow dish with about an inch of water. New growth emerges from the center in 5-7 days. Over 2-4 weeks you'll get several sets of small, pale-green inner stalks and a good amount of leafy tops. After 3-4 weeks the plant needs to go into soil or the growth stalls.
 
 **What you actually get:** The inner stalks that regrow are much smaller than grocery store celery. A celery head retails at $1.79-2.49 (USDA AMS retail produce data, 2024). The regrowth from that base produces, at most, $0.50-1.00 in equivalent celery value - and that's generous. Most of the weight is in the leaves, not the stalks.
 
@@ -91,9 +91,9 @@ The full treatment - including success rates by herb, timing, rooting hormone us
 
 **Avocado pits:** Yes, they'll sprout into an attractive houseplant. No, they will not produce avocados in a temperate climate. Avocados from seed in the continental US require many years to reach fruiting age and are too cold-sensitive to survive outdoors north of Zone 9-10. Treat it as a houseplant propagation project if you enjoy the process.
 
-**Grocery store garlic:** Grocery store garlic is almost always softneck varieties treated to suppress sprouting, and they're often imported and may carry pathogens inadvisable for your garden soil. Seed garlic from reputable suppliers (certified disease-free) costs $1-3/head and is worth using. The difference in success rate is substantial.
+**Grocery store garlic:** Grocery store garlic is almost always softneck varieties treated to suppress sprouting, and they're often imported and may carry pathogens inadvisable for your garden soil. Seed garlic from reputable suppliers (certified disease-free) costs $1-3/head and is worth using. The difference in success rate is real.
 
-**Store-bought potato eyes:** Similar issue. Grocery store potatoes are commonly treated with sprout inhibitors and are not certified seed stock. Planting them risks introducing late blight (*Phytophthora infestans*) or other soil diseases to your garden. Certified seed potatoes cost $5-15 for enough to plant a meaningful row and have been inspected for disease. The regrow-from-grocery approach isn't worth the disease risk.
+**Store-bought potato eyes:** Similar issue. Grocery store potatoes are commonly treated with sprout inhibitors and are not certified seed stock. Planting them risks introducing late blight (*Phytophthora infestans*) or other soil diseases to your garden. Certified seed potatoes cost $5-15 for enough to plant a decent row and have been inspected for disease. The regrow-from-grocery approach isn't worth the disease risk.
 
 ## ROI Summary: All Methods Compared
 

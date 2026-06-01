@@ -17,7 +17,7 @@ This guide covers garlic from Zone 3 through Zone 10: when to plant, what to pla
 
 **Hardneck garlic** (*Allium sativum* var. *ophioscorodon*) produces a firm central stem (the "neck") and a flowering stalk called a scape. Cloves arrange in a single ring around that stem - typically 4 to 12 per head, larger and easier to peel than softneck types. Hardnecks need a genuine cold dormancy period (40 to 50°F for at least 40 days, per Cornell Cooperative Extension) to trigger bulb development. This makes them ideal for Zones 3 through 7 and problematic in anything warmer. Storage life runs 4 to 6 months under good conditions.
 
-**Softneck garlic** (*Allium sativum* var. *sativum*) produces no scape and no rigid central stem - the neck is flexible, which is why it's used for braiding. Cloves arrange in multiple layers, 10 to 20 per head, smaller and more pungent than hardneck types. Softneck tolerates mild winters and can be vernalized artificially, making it the right choice for Zones 7 through 9. Storage life is significantly better - 9 to 12 months properly cured, which is why it's what you find in grocery stores.
+**Softneck garlic** (*Allium sativum* var. *sativum*) produces no scape and no rigid central stem - the neck is flexible, which is why it's used for braiding. Cloves arrange in multiple layers, 10 to 20 per head, smaller and more pungent than hardneck types. Softneck tolerates mild winters and can be vernalized artificially, making it the right choice for Zones 7 through 9. Storage life is better - 9 to 12 months properly cured, which is why it's what you find in grocery stores.
 
 | Trait | Hardneck | Softneck |
 |---|---|---|
@@ -54,7 +54,7 @@ Timing sources: Cornell Cooperative Extension Vegetable Growing Guide; Penn Stat
 
 ### Zone 3-4: The Cold Hardiness Test
 
-Plant as early as September 1 in Zone 3. You want the cloves in the ground 4 to 6 weeks before hard frost, giving them time to root out before dormancy. In Zone 3, that window is narrow. By October 1, the soil can be too cold for meaningful root development.
+Plant as early as September 1 in Zone 3. You want the cloves in the ground 4 to 6 weeks before hard frost, giving them time to root out before dormancy. In Zone 3, that window is narrow. By October 1, the soil can be too cold for good root development.
 
 Variety selection matters more here than anywhere else. Stick to Porcelain hardnecks (Music, Georgian Crystal, Polish White) and cold-tolerant Purple Stripe types (Chesnok Red, Metechi). Rocambole types - which have excellent flavor - are sometimes borderline in Zone 3 winters, particularly in an open, unprotected bed.
 
@@ -152,7 +152,7 @@ In dry climates (Rocky Mountain West, Desert Southwest), curing is straightforwa
 
 After curing is complete, trim the roots to 1/4 inch and cut the stem to 1 to 2 inches above the head for hardneck types. Softneck types can be left with the full stem for braiding or cut down similarly.
 
-Store cured heads in a cool, dark location with good ventilation. A mesh bag, paper bag, or open basket works. Plastic bags and sealed containers trap moisture and shorten storage life significantly.
+Store cured heads in a cool, dark location with good ventilation. A mesh bag, paper bag, or open basket works. Plastic bags and sealed containers trap moisture and shorten storage life.
 
 ---
 

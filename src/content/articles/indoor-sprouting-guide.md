@@ -39,13 +39,13 @@ Not every seed sprouts well in a jar. The reliable ones share a common set of pr
 
 **Lentils** - green or brown only; red lentils have had their seed coat removed in processing and turn to mush rather than sprouting. Standard green or French green (Puy) lentils sprout cleanly in 4-5 days. The sprout is nuttier and denser than mung. Good in grain bowls and salads.
 
-**Radish** (*Raphanus sativus*) sprouts in 3-4 days and delivers significant heat - more than the mature root, concentrated in the tiny green leaves. The Scoville equivalent is something like a mild horseradish. They're a condiment-scale sprout: two tablespoons on a sandwich replaces a whole pickle in terms of bite. [Radish growing](/crops/radish/) in the ground takes 25-30 days; radish sprouts take 3.
+**Radish** (*Raphanus sativus*) sprouts in 3-4 days and delivers real heat - more than the mature root, concentrated in the tiny green leaves. The Scoville equivalent is something like a mild horseradish. They're a condiment-scale sprout: two tablespoons on a sandwich replaces a whole pickle in terms of bite. [Radish growing](/crops/radish/) in the ground takes 25-30 days; radish sprouts take 3.
 
 **Fenugreek** (*Trigonella foenum-graecum*) is worth growing once if only to experience the unusual flavor - warm, slightly bitter, and distinctive in a way that's hard to describe. The sprout has a strong aroma. A word of caution: fenugreek seeds produce mucilage when wet (the same property that makes them useful as a thickener in some cuisines), which means they can clump in the jar during soaking. Rinse thoroughly after the initial soak. See the [fenugreek growing guide](/crops/fenugreek/) for the full-season growing version.
 
-**Sunflower** (hulled-in-shell type, *Helianthus annuus*) produces large, robust sprouts with a nutty flavor. You need the unhulled, black-and-white striped seeds - not the already-shelled seeds sold for eating. The sprouts develop two thick cotyledon leaves and taste more like a microgreen than a traditional bean sprout. Harvest at 4-6 days before the true leaves appear.
+**Sunflower** (hulled-in-shell type, *Helianthus annuus*) produces large, meaty sprouts with a nutty flavor. You need the unhulled, black-and-white striped seeds - not the already-shelled seeds sold for eating. The sprouts develop two thick cotyledon leaves and taste more like a microgreen than a traditional bean sprout. Harvest at 4-6 days before the true leaves appear.
 
-**Broccoli** (*Brassica oleracea* var. *italica*) is the most nutritionally compelling choice on this list. Broccoli sprouts contain 10-100 times the concentration of sulforaphane precursors (glucoraphanin) compared to mature broccoli heads - a finding documented by researchers at Johns Hopkins University (Zhang et al., *Proceedings of the National Academy of Sciences*, 1997). The sulforaphane concentration is highest at the 3-5 day stage before significant light exposure converts it. Harvest in the jar before the leaves fully green up. Broccoli seed is more expensive than mung bean, but the functional value per ounce is higher.
+**Broccoli** (*Brassica oleracea* var. *italica*) is the most nutritionally compelling choice on this list. Broccoli sprouts contain 10-100 times the concentration of sulforaphane precursors (glucoraphanin) compared to mature broccoli heads - a finding documented by researchers at Johns Hopkins University (Zhang et al., *Proceedings of the National Academy of Sciences*, 1997). The sulforaphane concentration is highest at the 3-5 day stage before much light exposure converts it. Harvest in the jar before the leaves fully green up. Broccoli seed is more expensive than mung bean, but the functional value per ounce is higher.
 
 **Chickpeas** (*Cicer arietinum*) are an outlier: they germinate faster than any other legume on this list (2-3 days), produce a thick, starchy sprout, and are best eaten cooked rather than raw. Sprouted chickpeas sauteed with olive oil and spices are noticeably sweeter and faster-cooking than dry chickpeas from the bag. They require no soaking period beyond the standard 8 hours because they germinate so readily. See also [mung bean growing](/crops/mung-bean/) for the field-grown version.
 
@@ -63,7 +63,7 @@ That is the complete equipment list. No soil, no grow lights, no heat mat. Total
 
 ## The Method
 
-1. Measure 2-3 tablespoons of seed into the jar (don't overfill - seeds expand significantly as they sprout)
+1. Measure 2-3 tablespoons of seed into the jar (don't overfill - seeds expand a lot as they sprout)
 2. Rinse with cool water, drain
 3. Fill the jar halfway with cool water and soak 8-12 hours (overnight works fine)
 4. Drain, rinse once, and invert the jar at a 45-degree angle in a bowl to drain completely

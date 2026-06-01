@@ -12,7 +12,7 @@ The question isn't whether to mulch. It's which mulch to use where, and how to g
 
 ## Mulch type comparison
 
-Seven materials cover most vegetable garden situations. They differ significantly in cost, duration, weed suppression, and effect on soil temperature and biology.
+Seven materials cover most vegetable garden situations. They differ in cost, duration, weed suppression, and effect on soil temperature and biology.
 
 | Mulch type | Cost per sq ft (3-inch depth) | Duration | Weed suppression (1-5) | Moisture retention (1-5) | Soil temperature effect | Notes |
 |---|---|---|---|---|---|---|
@@ -64,7 +64,7 @@ Wood chips are the most effective long-term mulch for permanent raised beds and 
 
 The price barrier is real at retail: bagged wood chips or bark mulch at garden centers runs $4-8 per cubic foot, or $40-80 to mulch a 4x8 bed at 3 inches. Enough chips to cover a large garden ($300-500) is prohibitive.
 
-The free alternative: **ChipDrop** (chipdrop.com) connects property owners with local arborists and tree service companies who need to dispose of fresh wood chips after tree work. You list your address and acceptable load size; the arborist delivers a load, typically 5-20 cubic yards, at no charge. The arborist saves the dump fee; you get mulch. A 5 cubic yard load covers roughly 500 square feet at 3 inches - enough for a medium-sized garden with significant leftover.
+The free alternative: **ChipDrop** (chipdrop.com) connects property owners with local arborists and tree service companies who need to dispose of fresh wood chips after tree work. You list your address and acceptable load size; the arborist delivers a load, typically 5-20 cubic yards, at no charge. The arborist saves the dump fee; you get mulch. A 5 cubic yard load covers roughly 500 square feet at 3 inches - enough for a medium-sized garden with plenty left over.
 
 The trade-offs: no scheduling control (you take a load when an arborist is working in your area, not necessarily when you want it), you take the whole load (need a place to pile the overflow), and fresh chips are high-moisture and may heat briefly as they begin to decompose.
 
@@ -78,7 +78,7 @@ This distinction comes up frequently enough to address directly.
 
 **Straw** is the dried stalks of grain crops (wheat, oat, rye) after the grain has been removed. A properly made straw bale contains essentially no viable grain seeds and very few weed seeds. It's the right material for vegetable garden mulch.
 
-**Hay** is dried grass or legume forage (timothy, alfalfa, orchard grass) cut before fully mature, retaining the seeds. A hay bale is a seed bank. Apply hay as mulch and you'll inoculate your beds with thousands of grass and weed seeds that germinate as the bale breaks down over the season. The mulching benefit is substantially negated by the weed pressure it introduces.
+**Hay** is dried grass or legume forage (timothy, alfalfa, orchard grass) cut before fully mature, retaining the seeds. A hay bale is a seed bank. Apply hay as mulch and you'll inoculate your beds with thousands of grass and weed seeds that germinate as the bale breaks down over the season. The mulching benefit is offset by the weed pressure it introduces.
 
 Hay and straw look similar in bale form. Check the label at farm supply stores. If you're sourcing from a farm, ask specifically for wheat straw or oat straw. Alfalfa and timothy are hay.
 

@@ -26,7 +26,7 @@ Here's what that translates to at garden scale:
 
 Six to fourteen cents. That's not a typo.
 
-The per-season nitrogen value is genuinely small. If that's the only case you're making for cover crops, you'll be disappointed. The real argument is cumulative.
+The per-season nitrogen value is small. If that's the only case you're making for cover crops, you'll be disappointed. The real argument is cumulative.
 
 Over three to five years, that nitrogen adds up. But more importantly, a legume cover crop adds organic matter every time you incorporate it. Organic matter improves water retention, feeds soil microbes, and improves tilth in ways that synthetic fertilizer doesn't touch. You can't buy a bag of "soil structure" at the garden center. That value compounds in ways that don't show up in a single-season nitrogen calculation.
 

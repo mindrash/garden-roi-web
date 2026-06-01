@@ -32,7 +32,7 @@ Each zone spans a 10°F range. The zones most home vegetable and perennial garde
 
 Each zone is further divided into "a" and "b" subzones representing 5°F increments. Zone 6a means -10°F to -5°F; Zone 6b means -5°F to 0°F.
 
-The USDA calculates zones from weather station data using GIS interpolation - meaning the map estimates temperatures in areas between stations based on elevation, proximity to water bodies, and regional climate patterns. In mountainous terrain, those interpolations can be substantially off from what you actually experience.
+The USDA calculates zones from weather station data using GIS interpolation - meaning the map estimates temperatures in areas between stations based on elevation, proximity to water bodies, and regional climate patterns. In mountainous terrain, those interpolations can be far off from what you actually experience.
 
 The practical implication: the zone map is calibrated for perennial plants. Whether a fig tree, a rose, or a perennial lavender will survive your winter is exactly what it's designed to predict. For that purpose, it works reasonably well.
 
@@ -44,7 +44,7 @@ This is where the map's limitations compound, especially for vegetable gardeners
 
 ### Summer Heat
 
-Two Zone 5 gardens can have dramatically different summers. Portland, Oregon and Columbus, Ohio are both predominantly Zone 8b and Zone 5/6 respectively - but Portland stays cool through summer, with July averages around 68°F, while Columbus regularly sees July averages above 75°F with humid 90°F+ days common.
+Two Zone 5 gardens can have very different summers. Portland, Oregon and Columbus, Ohio are both predominantly Zone 8b and Zone 5/6 respectively - but Portland stays cool through summer, with July averages around 68°F, while Columbus regularly sees July averages above 75°F with humid 90°F+ days common.
 
 The practical difference: tomatoes in Portland struggle. The nights stay too cool for consistent fruit set, and the plants don't accumulate enough heat to ripen indeterminate varieties before fall. Columbus gardeners growing the same variety get full harvests by August.
 
@@ -62,7 +62,7 @@ This is the most consequential gap for annual vegetable production.
 
 Your zone does not tell you when your last spring frost occurs or when your first fall frost arrives. Those dates determine your planting calendar. And two Zone 6 gardens can have last frost dates that differ by three weeks - enough to determine whether your peppers finish ripening before the fall frost cuts them down.
 
-Zone 6 covers everything from Philadelphia (last frost ~April 15, first frost ~October 31) to Columbus (last frost ~April 20, first frost ~October 20) to Kansas City (last frost ~April 5, first frost ~October 31). Similar frost dates overall, but the variation within the zone is still meaningful.
+Zone 6 covers everything from Philadelphia (last frost ~April 15, first frost ~October 31) to Columbus (last frost ~April 20, first frost ~October 20) to Kansas City (last frost ~April 5, first frost ~October 31). Similar frost dates overall, but the variation within the zone is still real.
 
 Frost date data comes from NOAA's Climate Data Online (climate.gov), not the zone map. Your local Cooperative Extension Service typically publishes frost date tables by county or major city that are more precise than national maps.
 

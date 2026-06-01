@@ -107,7 +107,7 @@ Drip infrastructure makes economic sense for a specific set of conditions. Outsi
 
 **Drought-tolerant crops.** Beans, squash, and determinate tomatoes handle moisture variability better than indeterminate heirlooms. Bush beans in particular are forgiving - they'll produce a full crop with once-every-two-day watering in most climates without BER. Squash has a high enough production rate that even with some BER losses, hand watering is usually adequate. The crops that require drip consistency are the high-value ones with the highest BER susceptibility.
 
-**Cool-season growing.** Spring and fall - and any time ambient temperatures stay below 75°F - evaporation rates drop significantly, hand watering efficiency improves, and BER risk is lower because plant water stress is less acute. If you're running a spring lettuce and spinach planting, or a fall brassica bed, hand watering with a good watering can is perfectly adequate. The economic case for drip is strongest in the June-through-August window in most zones.
+**Cool-season growing.** Spring and fall - and any time ambient temperatures stay below 75°F - evaporation rates drop, hand watering efficiency improves, and BER risk is lower because plant water stress is less acute. If you're running a spring lettuce and spinach planting, or a fall brassica bed, hand watering with a good watering can is perfectly adequate. The economic case for drip is strongest in the June-through-August window in most zones.
 
 **Early-season establishment.** Seedlings and newly transplanted starts often benefit from hand watering because you can direct water to the root zone while the plant establishes. Drip emitters placed for a mature plant may not reach a newly transplanted root ball effectively. A hybrid approach - hand water through the first two to three weeks of establishment, then switch to drip as plants mature - is common practice and extends the useful season length of both methods.
 
@@ -117,7 +117,7 @@ The decision to install drip irrigation is fundamentally a crop decision, not a 
 
 **High drip priority** (BER susceptibility + high retail value):
 - [Tomatoes](/crops/tomato/), especially indeterminate heirlooms - highest BER risk, highest retail price, clearest payback
-- [Sweet peppers](/crops/sweet-pepper/) - susceptible during fruit set, retail price makes loss prevention economically significant
+- [Sweet peppers](/crops/sweet-pepper/) - susceptible during fruit set, retail price makes loss prevention worth the investment
 - Eggplant (*Solanum melongena*) - less commonly discussed but susceptible to moisture-stress fruit drop at the same mechanism as BER
 
 **Medium drip priority** (some BER risk, moderate value):

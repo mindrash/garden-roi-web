@@ -19,7 +19,7 @@ Penn State Extension documents aphid infestations on tomato at the 10-20% fruit 
 
 The control cost side: insecticidal soap runs $8-12 for a 32-oz concentrate that covers 2-3 garden beds per season. Pyrethrin-based sprays: $12-18. Neither is expensive, but both require repeated application every 7-10 days through the problem period.
 
-Companion deterrence doesn't eliminate pests. It reduces population pressure below the threshold where significant damage occurs. You're not trying to achieve zero aphids - you're trying to keep aphid populations low enough that your 10-plant tomato bed produces full yield without spray. That's the calculation worth making.
+Companion deterrence doesn't eliminate pests. It reduces population pressure below the damage threshold. You're not trying to achieve zero aphids - you're trying to keep aphid populations low enough that your 10-plant tomato bed produces full yield without spray. That's the calculation worth making.
 
 ## How Companion Planting Actually Works
 
@@ -38,7 +38,7 @@ The benefits fall into a few categories:
 ## The Most Reliable Companion Pairings
 
 ### Tomatoes + Basil ✓
-The most-cited pairing  -  and genuinely effective. Basil's volatile oils reduce aphid, thrips, and spider mite pressure on nearby tomatoes. Laboratory studies have demonstrated repellent activity of basil volatiles (*linalool*, *eugenol*) against *Spodoptera* species and aphids (Hummelbrunner & Isman, *Journal of Chemical Ecology*, 2001). They also have identical water and sun requirements, making them easy to co-manage. Plant basil 12–18 inches from tomato stems.
+The most-cited pairing - and effective. Basil's volatile oils reduce aphid, thrips, and spider mite pressure on nearby tomatoes. Laboratory studies have demonstrated repellent activity of basil volatiles (*linalool*, *eugenol*) against *Spodoptera* species and aphids (Hummelbrunner & Isman, *Journal of Chemical Ecology*, 2001). They also have identical water and sun requirements, making them easy to co-manage. Plant basil 12–18 inches from tomato stems.
 
 ### Tomatoes + Marigolds ✓
 French marigolds (*Tagetes patula*) release compounds from their roots that suppress nematodes (microscopic soil worms that attack tomato roots). The nematicidal activity has been demonstrated in controlled trials, primarily attributed to alpha-terthienyl and related thiophene compounds (Chitwood, *Annual Review of Phytopathology*, 2002; Ploeg, *Phytopathology*, 1999). They also deter whiteflies and aphids through volatile emissions. Border your tomato bed with marigolds for season-long protection.
@@ -123,7 +123,7 @@ The guild approach requires knowing what you're trying to protect against. If yo
 
 ## A Note on Evidence
 
-Companion planting research is genuinely mixed. Some pairings have solid controlled-trial evidence behind them (marigolds + tomatoes, for instance); others are repeatable anecdotal observations; others are gardening myths with no evidence.
+Companion planting research is mixed. Some pairings have solid controlled-trial evidence behind them (marigolds + tomatoes, for instance); others are repeatable anecdotal observations; others are gardening myths with no evidence.
 
 Treat the well-established pairings (listed above) as reliable strategies. Treat the more speculative combinations as worth experimenting with but not worth stressing about. The worst outcome from most companion planting arrangements is that it doesn't help  -  rarely that it actively hurts.
 

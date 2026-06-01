@@ -35,11 +35,11 @@ Tomato seed packets and catalog listings use letter codes to communicate resista
 
 The practical value of these codes depends entirely on what's in your soil. If you've never had Fusarium wilt, V and F resistance is academic. If your garden sits in a humid mid-Atlantic climate where early blight pressure is heavy every August, the resistance that matters most isn't on that list at all.
 
-Early blight - caused by *Alternaria solani* - is the most economically significant tomato disease in home gardens across the eastern United States, but it has no standard resistance code because even "resistant" varieties show some susceptibility. The Cornell Plant Disease Diagnostic Lab has documented early blight yield losses of 60–70% in wet years on susceptible heirloom varieties. That's not a minor reduction. A 10-plant heirloom tomato planting that should yield 150 pounds produces 50–60 pounds instead because the foliage defoliated by late July. The harvest value difference, at $2.50/lb retail (USDA AMS conventional tomato pricing, 2024), is $225–$250 in produce you didn't bring in.
+Early blight - caused by *Alternaria solani* - is the most economically damaging tomato disease in home gardens across the eastern United States, but it has no standard resistance code because even "resistant" varieties show some susceptibility. The Cornell Plant Disease Diagnostic Lab has documented early blight yield losses of 60–70% in wet years on susceptible heirloom varieties. That's not a minor reduction. A 10-plant heirloom tomato planting that should yield 150 pounds produces 50–60 pounds instead because the foliage defoliated by late July. The harvest value difference, at $2.50/lb retail (USDA AMS conventional tomato pricing, 2024), is $225–$250 in produce you didn't bring in.
 
 Against that number, the $1 seed cost difference between a $4 heirloom packet and a $5 hybrid packet is irrelevant. The relevant question is whether the hybrid's disease resistance package addresses the disease pressure in your specific garden.
 
-A hybrid like Mountain Merit carries VFFNTSt resistance plus specific resistance to *Phytophthora infestans* (late blight) and performs significantly better than heirlooms in heavy blight years. In a location with documented late blight history, the seed cost premium is worth paying - not because of what you spend on seed, but because of what you keep in yield.
+A hybrid like Mountain Merit carries VFFNTSt resistance plus specific resistance to *Phytophthora infestans* (late blight) and performs better than heirlooms in heavy blight years. In a location with documented late blight history, the seed cost premium is worth paying - not because of what you spend on seed, but because of what you keep in yield.
 
 The crop failure math works like this:
 
@@ -73,7 +73,7 @@ Here's the 10-year economics for common garden crops, assuming you save seed fro
 
 *Cross-pollinators require isolation from other varieties of the same species to breed true. See the section below on which crops need that precaution.
 
-The 10-year seed saving value for tomatoes alone: $5.25/yr × 10 years for hybrid seed vs. effectively $0 after the first year for saved heirloom seed. That's $52.50 in cumulative seed cost savings from a single crop, per packet comparison. Scale that across tomatoes, peppers, beans, and peas, and seed saving cuts your annual input costs by $15–$30 per year by Year 3. Against $45–$90 in total annual inputs for a 4×8 raised bed (as detailed in the [first three years ROI breakdown](/roi/first-three-years-roi/)), that's a meaningful percentage reduction.
+The 10-year seed saving value for tomatoes alone: $5.25/yr × 10 years for hybrid seed vs. effectively $0 after the first year for saved heirloom seed. That's $52.50 in cumulative seed cost savings from a single crop, per packet comparison. Scale that across tomatoes, peppers, beans, and peas, and seed saving cuts your annual input costs by $15–$30 per year by Year 3. Against $45–$90 in total annual inputs for a 4×8 raised bed (as detailed in the [first three years ROI breakdown](/roi/first-three-years-roi/)), that's a real reduction.
 
 The Mortgage Lifter tomato - developed by radiator repairman M.C. Byles in West Virginia in the 1930s, selected over eight years of crossing four large-fruited varieties - produces 1–2 lb fruits reliably and remains one of the most consistently high-yielding open-pollinated slicing tomatoes available. One packet at $3.50 plants 25 plants. One well-grown plant ferments and dries enough seed to plant 25–50 plants the following year. The per-plant seed cost, after Year 1, rounds to zero.
 
@@ -93,7 +93,7 @@ Not all crops are equally forgiving for beginner seed savers. The key distinctio
 
 - Cucurbits (cucumbers, squash, melons, pumpkins): bee-pollinated, cross freely with other varieties of the same species. Two zucchini varieties planted 25 feet apart will cross. Saved seed will segregate. Manageable with one variety per species per season, or with bag-and-hand-pollinate technique.
 - Brassicas (cabbage, broccoli, kale, Brussels sprouts): all *Brassica oleracea* cross freely. If you let two different brassicas flower at the same time, the seed is not reliable. Require 300–1,000 feet isolation or bagging.
-- Corn: wind-pollinated. Cross-contamination over significant distances is common. Not practical for home seed saving without serious isolation.
+- Corn: wind-pollinated. Cross-contamination over long distances is common. Not practical for home seed saving without serious isolation.
 
 For a beginner, the [seed saving guide](/homestead/seed-saving-guide/) covers the full isolation and processing protocol. Start with tomatoes. The return on time is higher than any other crop:
 
@@ -123,7 +123,7 @@ The seed cost difference - roughly $1.50–$2.00 between a hybrid and heirloom p
 
 This logic extends to any crop where the days-to-maturity difference determines whether you get a crop or not: short-season watermelons in Zone 5, corn in Zone 4, long-maturing winter squash that needs 100+ days. The hybrid's agronomic performance is the argument, not brand loyalty.
 
-The other case for hybrids: heavy, persistent disease pressure in humid climates. A garden in coastal North Carolina or the Tennessee Valley that has had Fusarium wilt in the soil - documented by yellowing, one-sided wilting, brown vascular discoloration in a cross-section of the stem - will underperform with heirlooms indefinitely. *Fusarium oxysporum* f. sp. *lycopersici* persists in soil for years. The FF resistance in modern hybrids like Celebrity or Big Beef is the practical solution. You can grow heirlooms in infected soil, but you should expect significant losses and the hybrid's seed cost premium will be recovered in the first season.
+The other case for hybrids: heavy, persistent disease pressure in humid climates. A garden in coastal North Carolina or the Tennessee Valley that has had Fusarium wilt in the soil - documented by yellowing, one-sided wilting, brown vascular discoloration in a cross-section of the stem - will underperform with heirlooms indefinitely. *Fusarium oxysporum* f. sp. *lycopersici* persists in soil for years. The FF resistance in modern hybrids like Celebrity or Big Beef is the practical solution. You can grow heirlooms in infected soil, but you should expect heavy losses and the hybrid's seed cost premium will be recovered in the first season.
 
 ## Making the Call for Your Garden
 
