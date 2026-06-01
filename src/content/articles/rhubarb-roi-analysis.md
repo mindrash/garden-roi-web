@@ -39,7 +39,7 @@ USDA AMS retail data shows fresh rhubarb at $2.50-5.00/lb at grocery stores with
 
 ## Harvest Timing and the Year-1 Rule
 
-**Do not harvest heavily in Year 1.** This is the consistent recommendation from university extension programs. A rhubarb crown needs its first full season to establish a root system robust enough to support multi-year production. Taking more than 2-3 stalks in Year 1 weakens the crown and reduces Year 2-3 yields.
+**Do not harvest heavily in Year 1.** This is the consistent recommendation from university extension programs. A rhubarb crown needs its first full season to establish a root system strong enough to support multi-year production. Taking more than 2-3 stalks in Year 1 weakens the crown and reduces Year 2-3 yields.
 
 **Year 2:** harvest moderately for 2-3 weeks, leaving at least half the stalks to photosynthesize.
 
@@ -69,7 +69,7 @@ Check every week. Forced stalks are ready in 4-6 weeks - 12-18 inches long, pale
 
 **The trade-off:** forcing depletes the crown. A forced crown should be allowed to recover for one full outdoor season before forcing again. Most serious rhubarb growers maintain a rotation - 3 crowns, force one per year, rest the others.
 
-**Value:** forced rhubarb at $8-12/lb, harvested from a crown that cost $10 five years ago and divides for free, represents genuinely exceptional ROI per square foot for gardeners in the right climate.
+**Value:** forced rhubarb at $8-12/lb, harvested from a crown that cost $10 five years ago and divides for free, represents exceptional ROI per square foot for gardeners in the right climate.
 
 ## Variety Selection
 
@@ -103,7 +103,7 @@ Rhubarb is a heavy feeder that stays in the same location for two decades. Soil 
 
 **Annual top-dressing:** after leaves die back in fall, apply 2-3 inches of finished compost around each crown, keeping mulch from direct contact with the crown base. This mulch layer feeds the plant through fall and winter and moderates spring soil temperature.
 
-**Spring fertilization:** as shoots emerge, apply 1/4 cup of ammonium nitrate (34-0-0) or equivalent nitrogen per established crown. Rhubarb is a heavy nitrogen user; the large leaves require substantial nitrogen to develop to full size, and leaf area directly determines crown vigor and stalk yield. A nitrogen-deficient rhubarb plant produces thin, pale stalks with reduced yield.
+**Spring fertilization:** as shoots emerge, apply 1/4 cup of ammonium nitrate (34-0-0) or equivalent nitrogen per established crown. Rhubarb is a heavy nitrogen user; the large leaves require nitrogen to develop to full size, and leaf area directly determines crown vigor and stalk yield. A nitrogen-deficient rhubarb plant produces thin, pale stalks with reduced yield.
 
 **Watering:** rhubarb needs consistent moisture, particularly in the first 2 years and during the harvest season when stalks are actively growing. The target is 1-1.5 inches per week from rain or irrigation. Drought stress during stalk production causes stalks to become tough and fibrous rather than tender. Once plants are fully established (Year 3+), they are reasonably drought-tolerant but still produce better with consistent moisture.
 

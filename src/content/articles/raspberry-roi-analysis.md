@@ -80,7 +80,7 @@ For fall-only production from primocane varieties, mow the entire planting to th
 
 ## Trellis: Cost and What Happens Without One
 
-Raspberries can be grown without a trellis. They grow into a thicket you can't navigate at harvest, the canes fall over and break under fruit weight, and disease pressure from the tangled, airless canopy increases substantially. A trellis is not optional if you want productive, manageable, long-lived plants.
+Raspberries can be grown without a trellis. They grow into a thicket you can't navigate at harvest, the canes fall over and break under fruit weight, and disease pressure from the tangled, airless canopy increases. A trellis is not optional if you want productive, manageable, long-lived plants.
 
 **The standard T-post and wire system:**
 - Two T-posts per 8-10 feet of row, 5 feet tall after setting
@@ -138,7 +138,7 @@ Neem oil applied to foliage and fruit clusters deters feeding beetles. Apply eve
 
 **Drainage:** raspberries will not tolerate wet feet. Phytophthora root rot (*Phytophthora fragariae* var. *rubi*) kills plants in poorly drained soils. If your site is heavy clay or holds water after rain, build raised rows 6-8 inches above grade before planting. This single preparation step prevents the most common planting failure.
 
-**Sun:** full sun (minimum 6 hours direct) is required for maximum fruit production and disease resistance. Shaded plants produce less fruit and have substantially higher incidence of cane diseases (spur blight, cane blight, anthracnose).
+**Sun:** full sun (minimum 6 hours direct) is required for maximum fruit production and disease resistance. Shaded plants produce less fruit and have higher incidence of cane diseases (spur blight, cane blight, anthracnose).
 
 **Spacing:** 2-3 feet between plants in the row; 6-8 feet between rows. The row expands to fill the spacing through suckers; the between-row width allows equipment or foot traffic access.
 

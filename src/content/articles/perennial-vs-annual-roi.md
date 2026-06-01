@@ -15,7 +15,7 @@ This article does exactly that. Twelve crops - six annuals, six perennials - run
 
 Annual crops - tomato, basil, lettuce, beans, cucumbers, kale - require the same investment every single season: seeds or transplants, soil preparation, and amendments. Replant every year, spend every year, and your Year 10 looks a lot like your Year 1 from a cost standpoint. The ROI curve is essentially flat. You get consistent positive returns, but there's no compounding effect, and input costs never go away.
 
-Perennial crops - asparagus, rhubarb, raspberry, strawberry, chives, spearmint - work differently. You establish the planting once, usually at significant cost, and then input costs drop sharply or disappear entirely. The catch is the establishment period. Most perennials produce little or nothing in Years 1 and 2. Some, like asparagus, don't hit full production until Year 4 or 5. You are, in effect, making a capital investment with delayed payback.
+Perennial crops - asparagus, rhubarb, raspberry, strawberry, chives, spearmint - work differently. You establish the planting once, usually at upfront cost, and then input costs drop sharply or disappear entirely. The catch is the establishment period. Most perennials produce little or nothing in Years 1 and 2. Some, like asparagus, don't hit full production until Year 4 or 5. You are, in effect, making a capital investment with delayed payback.
 
 The ROI curves are shaped completely differently. Annuals show a positive line from Year 1 that stays roughly level for a decade. Perennials start negative or near zero, cross break-even somewhere between Year 2 and Year 5 depending on the crop, and then accelerate - because after establishment, the per-pound cost of everything you harvest approaches zero.
 
@@ -88,7 +88,7 @@ The structure here is different from the annual table because the year-by-year t
 
 Asparagus is the longest wait. You put in $55, see nothing for two years, see a light harvest in Year 3, and don't recoup your investment until somewhere in Year 4 or 5 depending on your yields and retail prices in your area. After that, the math is on your side for 15 to 20 more years.
 
-Strawberries break even faster because they produce a partial harvest in Year 1 (if you don't remove all flowers) or a full harvest in Year 2, and the runner expansion in Years 3-4 inflates yields dramatically without any additional plant cost. Louisiana State AgCenter data on matted-row strawberry plantings shows yields of 1-3 lb per plant per season at peak maturity - meaning a 25-plant bed that has expanded to 75-100 crowns via runners can yield 75-150 lb in a season.
+Strawberries break even faster because they produce a partial harvest in Year 1 (if you don't remove all flowers) or a full harvest in Year 2, and the runner expansion in Years 3-4 inflates yields without any additional plant cost. Louisiana State AgCenter data on matted-row strawberry plantings shows yields of 1-3 lb per plant per season at peak maturity - meaning a 25-plant bed that has expanded to 75-100 crowns via runners can yield 75-150 lb in a season.
 
 For detailed growing guidance on [asparagus](/crops/asparagus/), [rhubarb](/crops/rhubarb/), [raspberry](/crops/raspberry/), and [strawberry](/crops/strawberry/), see each crop's individual guide.
 
@@ -140,7 +140,7 @@ By Year 5, you have two income streams from the same garden: an annual portion t
 
 **The case against going heavier than 30% perennials:**
 
-Perennial beds are permanent. You can't rotate crops, you can't change your mind without losing multiple years of establishment, and you're committing that space for a decade or more. If you go 50% or 60% perennial and something goes wrong - asparagus crown rot, a bad raspberry cane disease year, a strawberry renovation that fails to regenerate - you've lost significant production from a bed you can't quickly repurpose.
+Perennial beds are permanent. You can't rotate crops, you can't change your mind without losing multiple years of establishment, and you're committing that space for a decade or more. If you go 50% or 60% perennial and something goes wrong - asparagus crown rot, a bad raspberry cane disease year, a strawberry renovation that fails to regenerate - you've lost production from a bed you can't quickly repurpose.
 
 The 25-30% allocation gives you the long-term compounding benefit without over-committing space that you might want to reallocate as your cooking preferences, household size, or growing conditions change.
 
@@ -174,7 +174,7 @@ For a more detailed look at the recovery math from establishment failures and wh
 
 The annual crops produce reliable, predictable returns starting in Year 1. The 10-year cumulative for a well-planted annual bed runs $350-$950 for 25 sq ft. That's consistent value, year after year, and the worst that can happen is one bad season - not a permanent loss of production.
 
-The perennial crops, once established, produce that same value or more from a single investment, with almost no recurring cost. The 10-year net on a 25-crown asparagus bed runs $575-$700. A well-managed strawberry row, with runner expansion factored in, can push significantly higher. But the break-even is 2-5 years away, and failure during establishment has real financial consequences.
+The perennial crops, once established, produce that same value or more from a single investment, with almost no recurring cost. The 10-year net on a 25-crown asparagus bed runs $575-$700. A well-managed strawberry row, with runner expansion factored in, can reach $1,000 to $2,700 over 10 years. But the break-even is 2-5 years away, and failure during establishment has real financial consequences.
 
 The mixed garden - 70-75% annuals for immediate and reliable return, 25-30% perennials for long-term compounding - reflects what the numbers actually support. Not as a compromise, but as the allocation that maximizes total 10-year return while managing the risk that comes with establishment-dependent crops.
 
