@@ -47,7 +47,7 @@ A packet of onion seed runs $2-4 and contains 250-400 seeds. At 70-75% germinati
 | Bolting susceptibility | Low (with correct timing) | Higher | Low |
 | Storage variety access | Full catalog | Limited | Moderate |
 
-The seed-to-plant cost advantage is substantial: $0.01-0.02 per plant with seed versus $0.04-0.06 per plant with sets. For 100 plants, that's $1-2 versus $4-5 - not a large absolute difference, but seed also gives you access to the long-storage varieties that set-sourced onions typically don't.
+Seeds run $0.01-0.02 per plant versus $0.04-0.06 per plant with sets - a 3 to 4x difference in per-plant cost. For 100 plants, that's $1-2 versus $4-5 - not a large absolute difference, but seed also gives you access to the long-storage varieties that set-sourced onions typically don't.
 
 ## Yield and Gross Value Math
 

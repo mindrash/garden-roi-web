@@ -68,7 +68,7 @@ If you're an organic-buying household with limited garden space, rank crops by o
 - Strawberries: 65-85% premium, perennial after first year, high cumulative value
 - Bell peppers: 80-110% premium, requires full season but manageable
 
-**Medium priority (significant premium, but growing requires more management):**
+**Medium priority (50-80% organic premium, but growing requires more management):**
 - Tomatoes: 60-80% premium, highest absolute volume and value, more demanding than greens
 - Lettuce: 50-75% premium, easy to grow but requires succession planting for continuous return
 - Kale: 50-70% premium, extremely easy to grow, cold-tolerant
@@ -81,7 +81,7 @@ If you're an organic-buying household with limited garden space, rank crops by o
 
 The USDA Pesticide Data Program (PDP) publishes annual survey data on pesticide residue incidence and levels in conventional US produce (ams.usda.gov/datasets/pdp). Crops with the highest residue incidence in PDP surveys are, not coincidentally, some of the same crops with the highest organic premiums: strawberries, spinach, peppers, and leafy greens consistently appear in both rankings.
 
-Home-grown produce avoids pesticide application by default if you don't spray. This is not a health claim beyond what the USDA data shows - it's a simple factual statement: if you don't apply pesticides to your garden, the produce doesn't have them. The USDA PDP data shows that organic certification significantly reduces residue incidence; growing your own achieves the same result independently.
+Home-grown produce avoids pesticide application by default if you don't spray. This is not a health claim beyond what the USDA data shows - it's a simple factual statement: if you don't apply pesticides to your garden, the produce doesn't have them. The USDA PDP data shows that organic certification reduces residue incidence; growing your own achieves the same result independently.
 
 The financial case and the pesticide case align for the same crops. High-premium organic crops with high conventional residue incidence are the most compelling candidates for home growing.
 
@@ -89,7 +89,7 @@ The financial case and the pesticide case align for the same crops. High-premium
 
 For a household that buys organic, the return calculation changes. A 4x8 bed of mixed greens (spinach, lettuce, arugula) planted in succession for spring and fall harvests returns $60-100 in organic grocery equivalents per season, compared to $40-65 in conventional grocery equivalents from the same bed. That gap compounds across multiple crops and across multiple seasons.
 
-The [first three years of garden ROI](/roi/first-three-years-roi/) analysis applies here with organic pricing in the yield column - which makes the Year 1 break-even significantly more achievable for organic-buying households. A [500-dollar garden](/roi/the-500-dollar-garden/) is a conservative estimate if you're replacing organic retail.
+The [first three years of garden ROI](/roi/first-three-years-roi/) analysis applies here with organic pricing in the yield column - which makes the Year 1 break-even more achievable for organic-buying households. A [500-dollar garden](/roi/the-500-dollar-garden/) is a conservative estimate if you're replacing organic retail.
 
 The simplest reframe: look at your grocery receipts. Find the organic produce line items. Rank them by annual spend. The top five items on that list are your planting targets. [Basil](/crops/basil/) at the top is almost a certainty for any household that cooks regularly - and it's also the easiest crop on this list to grow.
 
@@ -101,7 +101,7 @@ A household at $900/year in organic produce spending, with the crop mix above in
 
 The case compounds for households in cold climates. If you're in Zone 4 or 5 and buying organic berries, organic greens, and organic tomatoes all through winter because local production ends in October, you're paying maximum organic retail prices for 6-7 months of the year. The preservation case for organic gardeners is exactly the same as the standard preservation case, except the value you're preserving is $5-8/lb produce rather than $2-3/lb produce.
 
-Freeze your organic strawberries at harvest (when they cost you $0.15/lb in input) and use them in December when the organic equivalent costs $6-7/lb. Freeze your organic spinach in fall and use it through winter at $0.08/lb input cost against $6-8/lb organic winter retail. This is where the organic premium becomes genuinely large in absolute dollar terms.
+Freeze your organic strawberries at harvest (when they cost you $0.15/lb in input) and use them in December when the organic equivalent costs $6-7/lb. Freeze your organic spinach in fall and use it through winter at $0.08/lb input cost against $6-8/lb organic winter retail. This is where the organic premium becomes large in absolute dollar terms.
 
 ## What Organic Certification Proves (and Doesn't)
 

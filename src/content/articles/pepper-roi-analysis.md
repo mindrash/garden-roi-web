@@ -8,7 +8,7 @@ featured: false
 
 Fresh jalapeños retail for $2 to $4 per pound. Dried cayenne retails for $15 to $30 per pound. A 5-oz bottle of small-batch fermented hot sauce goes for $8 to $15 at a farmers market. In all three cases, the raw material is the same: a *Capsicum* plant in your garden. The question is what you do with it.
 
-This is not an argument that dried or fermented is always better than fresh. That depends on what you grow, how much of it you get, and how you plan to use it. But the processing math changes dramatically by variety and by method, and most growers making decisions about what to plant don't have the numbers in front of them when they choose. This article gives you the numbers.
+This is not an argument that dried or fermented is always better than fresh. That depends on what you grow, how much of it you get, and how you plan to use it. But the processing math changes by variety and by method, and most growers making decisions about what to plant don't have the numbers in front of them when they choose. This article gives you the numbers.
 
 ## The Three Value Tiers
 
@@ -72,7 +72,7 @@ Cayenne is different. Ten pounds of fresh cayenne represents $30 to $60 in fresh
 
 Thai chili is the one variety where the drying math clearly wins. Fresh Thai chili at $4 to $8/lb, 0.5 to 1 lb per plant: $2 to $8 per plant. Dried whole Thai chili retails at $15 to $25/lb. After the weight loss, 1 lb fresh becomes 0.1 to 0.15 lb dried - but at $15 to $25/lb, even that fraction is worth $1.50 to $3.75. And Thai chilis dry easily, store well, and are used in small quantities. Five plants give you a year's supply of dried Thai chili in a jar on your spice shelf.
 
-Where drying math gets genuinely interesting is at the ground spice level. A specialty grocer sells a 2-oz jar of high-quality ground paprika for $6 to $10 - that's $48 to $80/lb equivalent. Home-ground paprika from your own red peppers does not have the same value as artisan Hungarian or Spanish paprika for marketing purposes, but in your kitchen it functions identically, and the flavor of freshly ground home-dried pepper outperforms the commercial product that's been sitting on a shelf for 18 months.
+Where drying math shifts most is at the ground spice level. A specialty grocer sells a 2-oz jar of high-quality ground paprika for $6 to $10 - that's $48 to $80/lb equivalent. Home-ground paprika from your own red peppers does not have the same value as artisan Hungarian or Spanish paprika for marketing purposes, but in your kitchen it functions identically, and the flavor of freshly ground home-dried pepper outperforms the commercial product that's been sitting on a shelf for 18 months.
 
 Operating cost for drying: a standard home dehydrator running at 115 to 135°F for 8 to 12 hours uses approximately $0.50 to $0.75 in electricity per batch (U.S. Energy Information Administration, 2024 national average residential rate, $0.16/kWh). This is negligible. Read the full [dehydrator ROI analysis](/roi/dehydrator-roi/) if you're deciding whether to buy one.
 
@@ -100,7 +100,7 @@ The habanero math is stark. Five pounds of habaneros from 5 to 10 productive pla
 
 You will not sell this hot sauce without navigating cottage food laws, commercial kitchen requirements, and labeling regulations. But you will use it, give it away, and not buy artisan hot sauce at farmers markets for the next two years. The value is real; it just accrues differently than a market transaction.
 
-The fermented product also has something dried peppers don't: it's genuinely shelf-stable after processing (refrigerate after opening, stable for 6 to 12 months), and the flavor improves in the first few weeks as fermentation products continue to develop. See [Lacto-Fermentation Preservation](/homestead/lacto-fermentation-preservation/) for the complete process.
+The fermented product also has something dried peppers don't: it's shelf-stable after processing (refrigerate after opening, stable for 6 to 12 months), and the flavor improves in the first few weeks as fermentation products continue to develop. See [Lacto-Fermentation Preservation](/homestead/lacto-fermentation-preservation/) for the complete process.
 
 ## The Full Comparison Table
 
