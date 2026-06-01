@@ -107,7 +107,7 @@ Honesty matters here. The dehydrator math only works for certain crops.
 
 **Commodity dried vegetables** - carrots, celery, bell peppers - follow the same logic. Commercial production at scale, particularly from China and India, has driven dried vegetable prices low enough that home production makes little economic sense. If you want to dry them for emergency food storage or a specific recipe, that's a different calculation. But on pure ROI, skip them.
 
-**Fresh berries** are worth examining carefully. Blueberries and strawberries have significant fresh market value ($4 to $7/lb for blueberries, $3 to $5/lb for strawberries at peak season). After drying, you've lost 80 to 85% of the weight. Retail dried blueberries run $8 to $12/lb. The math is much tighter than it looks, and for most home growers, freezing fresh berries preserves more value with less energy input.
+**Fresh berries** are worth examining carefully. Blueberries and strawberries have high fresh market value ($4 to $7/lb for blueberries, $3 to $5/lb for strawberries at peak season). After drying, you've lost 80 to 85% of the weight. Retail dried blueberries run $8 to $12/lb. The math is much tighter than it looks, and for most home growers, freezing fresh berries preserves more value with less energy input.
 
 ## Storage: What You're Actually Buying Yourself
 
@@ -115,7 +115,7 @@ Properly dried herbs keep 1 to 2 years in sealed glass jars stored in a cool, da
 
 The test for herbs is tactile. Take a dried leaf and roll it between your fingers. If it crumbles to powder immediately, moisture content is low enough for safe storage. If it bends without breaking or feels leathery, it needs more time in the dehydrator. Herbs that go into jars with residual moisture will mold, and there's no recovering a jarful of mold.
 
-Vacuum sealing extends shelf life significantly - dried herbs vacuum-sealed in jars can hold full flavor for 2 to 3 years. FoodSaver jar lids work with a standard vacuum sealer and standard mason jars. For high-volume herb production, the $25 jar lid attachment pays for itself quickly.
+Vacuum sealing extends dried herb shelf life to 2 to 3 years - sealed in jars, they hold full flavor where unsealed storage fades after one year. FoodSaver jar lids work with a standard vacuum sealer and standard mason jars. For high-volume herb production, the $25 jar lid attachment pays for itself quickly.
 
 Label every jar with the crop name and date. Dried thyme and dried oregano look nearly identical after 6 months. So do dried cayenne powder and smoked paprika.
 

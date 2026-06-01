@@ -61,7 +61,7 @@ Temperature and humidity data from the National Center for Home Food Preservatio
 | Winter squash | 50-55 | 50-70 | 3-6 months | Warmer and drier than other crops. Butternut and Hubbard keep the longest; delicata is best used by February. Cure at 80-85°F for 10 days post-harvest before long-term storage. |
 | Apple | 30-40 | 90-95 | 1-4 months (variety dependent) | Store away from all vegetables. Ethylene gas from apples accelerates ripening and sprouting in every other crop nearby. Refrigerator drawer or cold garage. |
 | Pear | 29-31 | 90-95 | 2-5 months (variety dependent) | Same ethylene concern as apples. Bartlett pears are not good long-term storage candidates; Bosc and Anjou hold better. |
-| Cabbage | 32-40 | 95-100 | 3-5 months | Tolerates cold well, but the smell in an enclosed space becomes significant. Best stored in a ventilated container in a garage or outdoor cold area. |
+| Cabbage | 32-40 | 95-100 | 3-5 months | Tolerates cold well, but the smell can fill an enclosed space. Best stored in a ventilated container in a garage or outdoor cold area. |
 | Celeriac | 32-40 | 97-99 | 3-6 months | Underused storage crop. Stores like carrots - damp sand, cold basement. Refrigerator works for smaller quantities. |
 | Sweet potato | 55-60 | 85-90 | 4-7 months | The outlier in temperature: wants it warmer than other roots. Chilling injury occurs below 50°F. Pantry shelf or countertop in most climates. Cure at 85-90°F for 4-7 days first. |
 | Leek | 32-40 | 95-100 | 2-3 months | Refrigerator crisper or cold, moist conditions. Can also be left in the ground through hard frost in Zones 5-7. |
@@ -116,7 +116,7 @@ That math repeats across multiple crops. Here's what proper storage is worth, cr
 
 A household that grows and stores all six crops above - common for anyone with 200 to 400 square feet of garden - extends its garden harvest from September through February or March, at a retail equivalent of $137 to $339. The storage infrastructure cost is cardboard boxes, newspaper, and sand - most of it sourced for free.
 
-The high-value outlier is [garlic](/crops/garlic/). At $5 to $9 per pound retail, even a modest harvest of 30 to 50 bulbs represents significant value. Garlic stores 6 to 9 months with minimal effort if you give it the right conditions. A braided string of hardneck garlic hanging in a cool pantry is not a decoration - it's $40 to $80 worth of produce that requires no refrigeration and almost no attention.
+The high-value outlier is [garlic](/crops/garlic/). At $5 to $9 per pound retail, even a modest harvest of 30 to 50 bulbs represents $40 to $80 in produce value. Garlic stores 6 to 9 months with minimal effort if you give it the right conditions. A braided string of hardneck garlic hanging in a cool pantry is not a decoration - it's $40 to $80 worth of produce that requires no refrigeration and almost no attention.
 
 ---
 
@@ -164,4 +164,4 @@ Working from the environments described at the start:
 
 **Kitchen counter or pantry (60-70°F, dry):** Sweet potatoes, garlic (short term), winter squash after the basement gets too warm in spring.
 
-The hardest crop to place in a modern home is cabbage. It wants cold (32-40°F) and high humidity, but the smell it produces - sulfur compounds from fermentation and cellular breakdown - is significant in an enclosed space like a refrigerator or basement room. Outdoor cold storage (an insulated box on a north-facing porch, for example) works well in climates where temperatures stay above 20°F. Otherwise, a chest of cabbage in an unfinished basement corner with some ventilation is the practical answer, and accepting that you'll smell it.
+The hardest crop to place in a modern home is cabbage. It wants cold (32-40°F) and high humidity, but the smell it produces - sulfur compounds from fermentation and cellular breakdown - will fill an enclosed space like a refrigerator or basement room. Outdoor cold storage (an insulated box on a north-facing porch, for example) works well in climates where temperatures stay above 20°F. Otherwise, a chest of cabbage in an unfinished basement corner with some ventilation is the practical answer, and accepting that you'll smell it.

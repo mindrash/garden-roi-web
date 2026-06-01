@@ -75,7 +75,7 @@ Pressure canning follows a specific sequence. Every step exists for a reason.
 
 **Preparation:** wash all equipment. Inspect jars for cracks or chips on the rim (discard damaged jars). Use new lids each time; bands can be reused if they're not rusty or bent. Jars should be clean and hot when filled.
 
-**Headspace:** most vegetables require 1-inch headspace. This is the gap between the food surface and the top of the jar. The headspace allows for food expansion during processing and is necessary for the lid to seal. Vegetables that expand significantly during processing (corn, peas) need the full inch. Don't overfill.
+**Headspace:** most vegetables require 1-inch headspace. This is the gap between the food surface and the top of the jar. The headspace allows for food expansion during processing and is necessary for the lid to seal. Vegetables that expand during processing (corn, peas) need the full inch. Don't overfill.
 
 **Venting the canner:** before putting the weight or closing the petcock, allow the canner to vent steam steadily for 10 minutes. This removes air from the canner. Air in the canner causes uneven heat distribution; the canner will show correct pressure on the gauge while actual temperatures are lower than expected. The 10-minute vent step is non-negotiable.
 
@@ -103,13 +103,13 @@ The economics of pressure canning depend on how you account for equipment costs 
 
 Home-canned green beans from your own harvest: food cost is essentially zero (seed + water + time growing). The jar cost of $0.50 per pint compares favorably to $0.80-1.20 for a roughly equivalent can of commercial beans.
 
-The math improves significantly if you grow the vegetables yourself. Canning produce you purchased to can often doesn't pencil out unless you're buying in bulk at peak-season prices. If your [green bean](/crops/green-bean/) row produced 20 lb of surplus beans in August that would otherwise go to waste, canning them converts that surplus into 20+ pints of vegetables worth $16-20 at grocery store prices.
+The math improves if you grow the vegetables yourself. Canning produce you purchased to can often doesn't pencil out unless you're buying in bulk at peak-season prices. If your [green bean](/crops/green-bean/) row produced 20 lb of surplus beans in August that would otherwise go to waste, canning them converts that surplus into 20+ pints of vegetables worth $16-20 at grocery store prices.
 
 ## Best Crops for Pressure Canning ROI
 
 Not all vegetables are worth the effort.
 
-**Green beans** are the best ROI pressure canning crop by most measures. They're easy to grow in large quantities, they can in pints and quarts quickly (20 minutes for pints), and home-canned green beans are genuinely better than commercial canned beans - firmer texture, no can-lining flavor, controlled salt content. A [green bean](/crops/green-bean/) planting of 30 row feet producing 20 lb surplus: converted to pints at 1 lb per pint = 20 pints of beans, retail value $16-20.
+**Green beans** are the best ROI pressure canning crop by most measures. They're easy to grow in large quantities, they can in pints and quarts quickly (20 minutes for pints), and home-canned green beans are better than commercial canned beans - firmer texture, no can-lining flavor, controlled salt content. A [green bean](/crops/green-bean/) planting of 30 row feet producing 20 lb surplus: converted to pints at 1 lb per pint = 20 pints of beans, retail value $16-20.
 
 **Corn** is more time-intensive (shucking, cutting from cob, processing at 55 minutes for pints) but produces a product with no commercial equivalent. Home-canned corn has noticeably better flavor than commercial canned corn because you can start with fresh-picked ears processed within hours of harvest.
 

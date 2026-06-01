@@ -37,7 +37,7 @@ Crops that freeze well and where canning would be overkill:
 - **Zucchini** - Shred, squeeze out excess moisture, freeze in 2-cup portions for baked goods and soups all winter. This is the single best use of a zucchini surplus.
 - **Berries** - No blanching needed. Spread on a sheet pan, freeze solid, then bag. Texture changes but flavor is excellent.
 - **Fresh herbs** - Chop and freeze in ice cube trays with olive oil or water. Ready to add directly to pots.
-- **Corn** - Blanch 4-6 minutes for on-cob, 3-4 minutes cut. Sweet corn frozen at peak beats canned grocery store corn substantially.
+- **Corn** - Blanch 4-6 minutes for on-cob, 3-4 minutes cut. Sweet corn frozen at peak beats canned grocery store corn.
 - **Peas and beans** - Blanch 2-3 minutes. One of the highest ROI preservation projects per hour invested.
 - **Leafy greens** - Kale, spinach, chard blanch and freeze well for cooked applications (not salads). Good use for bolt-prone greens at end of season.
 
@@ -45,7 +45,7 @@ The time investment for freezing is low and the failure rate is near zero. There
 
 ## What Benefits From Canning
 
-Canning makes more sense when you want shelf-stable storage, longer shelf life (2-5 years vs. 8-12 months for frozen), or when you're processing crops that change texture dramatically in the freezer.
+Canning makes more sense when you want shelf-stable storage, longer shelf life (2-5 years vs. 8-12 months for frozen), or when you're processing crops that lose texture in the freezer.
 
 - **[Tomatoes](/crops/tomato/) and tomato products** - Sauce, salsa, diced tomatoes, and whole tomatoes can be water-bath canned with added acid (lemon juice or citric acid). This is where canning investment pays off fastest for most homesteaders - a bumper tomato crop becomes sauce jars that last 2+ years without freezer space.
 - **Pickles** - Cucumbers, beets, okra, peppers. The vinegar brine acidifies the product enough for safe water-bath canning. Flavor typically exceeds frozen alternatives because freezing turns most of these to mush.
@@ -79,7 +79,7 @@ This table covers the most common home garden crops. "Neither" is a legitimate a
 | Tomatoes | Both | Can sauce and diced for shelf stability; freeze whole or chunks for convenience | Freezing is faster; canning stores without electricity |
 | Green beans | Pressure can OR freeze | Pressure canning required for shelf-stable beans; freezing requires only blanching | Pressure canning gives 2-5 year shelf life; freezing is simpler |
 | Strawberries | Freeze only | Canned strawberries lose texture and are commercially uncommon for good reason | Sheet-freeze, then bag; works in jam, smoothies, baked goods |
-| Blueberries | Freeze only | Highest quality retention from freezing; no blanching needed | Sheet-freeze; canned blueberries lose quality significantly |
+| Blueberries | Freeze only | Highest quality retention from freezing; no blanching needed | Sheet-freeze; canned blueberries lose quality badly |
 | Cucumbers | Can (pickles only) | Cucumbers freeze as mush; the acidity of pickling brine enables water bath processing | Do not attempt to freeze or pressure can plain cucumbers |
 | Basil | Freeze (in oil or pesto) | Basil blackens and loses volatile oils in other preservation; cannot be canned safely | Blend with olive oil, freeze in ice cube trays; or make pesto and freeze |
 | Corn | Freeze | Blanch 3-4 minutes for cut corn; simple and high quality; corn relish can be canned (water bath) | Commercially, corn is also pressure canned but home freezing is superior for home use |

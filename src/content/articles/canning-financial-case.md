@@ -21,7 +21,7 @@ Per jar, your ongoing costs are roughly: lid at $0.33-$0.67 (mid-range estimate 
 
 ## When Canning Makes Financial Sense
 
-The math works when you're processing significant surplus from your own garden at near-zero produce cost.
+The math works when you're processing a large surplus from your own garden at near-zero produce cost.
 
 The clearest example: [tomatoes](/crops/tomato/). A productive indeterminate plant produces 10-15 lbs under normal conditions, and a well-managed 4-plant bed can yield 40-60 lbs over the season. Twenty-one pounds of ripe tomatoes processes down to approximately 9 quarts of sauce, accounting for evaporation and the volume reduction from cooking (USDA Complete Guide to Home Canning, Table 1). Store-bought pasta sauce or crushed tomatoes run $4-$6 per quart jar at retail (USDA AMS retail produce price surveys, 2024-2025). That's $36-$54 in retail value from one large batch. Your processing cost: roughly $3-$5 in lids and energy.
 

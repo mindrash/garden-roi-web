@@ -39,7 +39,7 @@ Each unit ships with a rotary oil vacuum pump. The oil-free pump upgrade costs a
 
 Add $0.50 to $1.00 per mylar bag for long-term storage. For bulk processing, 1-gallon mylar bags run around $0.50 each with oxygen absorbers. That cost adds up across seasons - budget $30 to $50/year in packaging for a household doing serious food storage.
 
-There are no meaningful competitors to Harvest Right in the home market. Industrial freeze dryers start at $15,000 to $30,000. The consumer segment is theirs alone, which is relevant context for the pricing: without competitive pressure, MSRP stays where it is.
+There are no real competitors to Harvest Right in the home market. Industrial freeze dryers start at $15,000 to $30,000. The consumer segment is theirs alone, which is relevant context for the pricing: without competitive pressure, MSRP stays where it is.
 
 ## What It Costs to Run
 
@@ -57,7 +57,7 @@ That's a low per-batch cost. The machine's expense is in the purchase price, not
 
 ## What Freeze-Dried Product Is Worth at Retail
 
-Commercially produced freeze-dried food commands a significant premium over dehydrated product. The prices below are from major retailers including Augason Farms, Mountain House, and specialty food suppliers, as of 2024-2025:
+Commercially produced freeze-dried food commands a 2 to 3x premium over dehydrated product. The prices below are from major retailers including Augason Farms, Mountain House, and specialty food suppliers, as of 2024-2025:
 
 | Product | Retail price (freeze-dried) | Retail price (dehydrated) | FD premium |
 |---------|----------------------------|---------------------------|------------|
@@ -121,7 +121,7 @@ Conservative estimate: a crop mix of berries, herbs, and vegetables produces $40
 - At $400/year value: 6.7-year payback
 - At $800/year value: 3.5-year payback
 
-This scenario requires significant garden production, disciplined use of the machine throughout the season, and accurate accounting for what the produce would have been worth if sold or purchased. It's achievable, but it requires treating the freeze dryer as a production appliance with a real utilization target - not something that runs a few batches of berries in July and sits idle until the next growing season.
+This scenario requires large garden production, disciplined use of the machine throughout the season, and accurate accounting for what the produce would have been worth if sold or purchased. It's achievable, but it requires treating the freeze dryer as a production appliance with a real utilization target - not something that runs a few batches of berries in July and sits idle until the next growing season.
 
 ## The Comparison That Actually Matters
 
@@ -136,7 +136,7 @@ Most home preservation content compares freeze drying to canning or dehydrating.
 
 A $250 chest freezer preserves 400 lb of garden produce per season at $15 to $20 per year in electricity. Payback against doing nothing: one season. It handles most of what a home gardener needs to preserve.
 
-Add a $150 dehydrator for herbs and peppers, where the dried product is genuinely superior to frozen, and you've spent $400 total. A chest freezer plus a dehydrator handles 90% of what a home gardener grows, for about 15% of the cost of an entry-level freeze dryer.
+Add a $150 dehydrator for herbs and peppers, where the dried product is superior to frozen, and you've spent $400 total. A chest freezer plus a dehydrator handles 90% of what a home gardener grows, for about 15% of the cost of an entry-level freeze dryer.
 
 The freeze dryer's value is in the 25-year shelf life and the texture superiority - both of which only matter if you have a specific use case that requires them. For long-term food security storage, a chest freezer is not actually a substitute. Frozen broccoli from your garden is not the same as freeze-dried broccoli that will still be good in 2045. If long-term shelf life is the goal, the comparison collapses in favor of the freeze dryer. But most home gardeners are not building 25-year food reserves.
 
@@ -156,7 +156,7 @@ You're a serious backpacker who makes frequent multi-day trips and currently buy
 
 Your garden produces less than 100 lb of harvest per season. At that scale, a chest freezer and dehydrator do the job at a fraction of the cost.
 
-You're primarily growing vegetables like squash, green beans, corn, and tomatoes rather than high-value berries and herbs. The lower retail price per pound of freeze-dried vegetables means slower payback, and the quality advantage over frozen or canned is meaningful but not dramatic for cooked-vegetable applications.
+You're primarily growing vegetables like squash, green beans, corn, and tomatoes rather than high-value berries and herbs. The lower retail price per pound of freeze-dried vegetables means slower payback, and the quality advantage over frozen or canned is real but modest for cooked-vegetable applications.
 
 You haven't run the numbers on what you're currently spending on food storage. "I want to preserve my garden better" is not a financial case for a $2,495 appliance. The machine needs to replace something you'd otherwise buy.
 

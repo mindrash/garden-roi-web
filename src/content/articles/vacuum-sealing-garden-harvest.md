@@ -1,6 +1,6 @@
 ---
 title: "Vacuum Sealing Garden Produce: What Lasts, What Doesn't"
-description: "Vacuum sealing extends shelf life significantly for the right foods - and does almost nothing for the wrong ones. Here's how to use it effectively with garden produce."
+description: "Vacuum sealing can double or triple shelf life for the right foods - and does almost nothing for the wrong ones. Here's how to use it effectively with garden produce."
 category: homestead
 publishDate: 2026-05-11
 featured: false
@@ -12,7 +12,7 @@ Understanding this distinction is the difference between a vacuum sealer that pa
 
 ## What Vacuum Sealing Actually Does
 
-Standard storage exposes food to oxygen at 20.9% atmospheric concentration. Oxidation causes fats to go rancid, cuts fruits and vegetables to brown, and contributes to off-flavors in stored grains and spices. Aerobic bacteria - the majority of food spoilage organisms - cannot function without oxygen. Removing it slows both processes dramatically.
+Standard storage exposes food to oxygen at 20.9% atmospheric concentration. Oxidation causes fats to go rancid, cuts fruits and vegetables to brown, and contributes to off-flavors in stored grains and spices. Aerobic bacteria - the majority of food spoilage organisms - cannot function without oxygen. Removing it slows both processes.
 
 A vacuum sealer doesn't sterilize. It doesn't prevent all spoilage. It doesn't replace refrigeration or freezing. It creates an oxygen-depleted environment that extends quality in the situations where oxygen was the limiting factor.
 
@@ -24,7 +24,7 @@ For most garden produce, this isn't a practical concern. Dried herbs, blanched f
 
 Two fundamentally different types of vacuum sealers are on the market, and they're not interchangeable in capability.
 
-**Edge sealers (FoodSaver and similar, $60-200):** seal the bag across one edge while a pump evacuates air from inside. They work by creating a partial vacuum - not a true vacuum - because they're fighting against atmospheric pressure from outside the bag. They struggle with wet or liquid-containing foods because moisture is drawn into the pump mechanism. They produce reliable seals on dry foods and work acceptably for blanched-and-frozen vegetables. They cannot seal mason jars effectively without an accessory attachment. Price advantage is significant: the entry-level FoodSaver models do most of what a home canner needs.
+**Edge sealers (FoodSaver and similar, $60-200):** seal the bag across one edge while a pump evacuates air from inside. They work by creating a partial vacuum - not a true vacuum - because they're fighting against atmospheric pressure from outside the bag. They struggle with wet or liquid-containing foods because moisture is drawn into the pump mechanism. They produce reliable seals on dry foods and work acceptably for blanched-and-frozen vegetables. They cannot seal mason jars effectively without an accessory attachment. Price advantage is real: the entry-level FoodSaver models do most of what a home canner needs.
 
 **Chamber sealers ($400-800+ for home models):** the entire bag is placed inside a sealed chamber. The pump evacuates the entire chamber, not just the inside of the bag. When the seal is made and the chamber is released to atmosphere, atmospheric pressure compresses the sealed bag uniformly. This produces a true, deep vacuum. Chamber sealers handle liquids and wet foods without issue because there's no differential pressure drawing liquid toward the pump. They seal mason jars easily. They're faster for bulk processing. For home use, the price is hard to justify unless you process 200+ bags per year or work heavily with wet foods and marinades.
 
@@ -41,7 +41,7 @@ For most home garden preservation, a FoodSaver-type edge sealer is the right too
 
 ## What Vacuum Sealing Works Well For
 
-**Dried goods:** the clearest win for vacuum sealing. Dried beans, rice, pasta, grains, dehydrated vegetables, and dried herbs stored in vacuum-sealed bags or mason jars see shelf life extend from 1-2 years to 3-5+ years. Oxidation is the primary degradation mechanism for most dried goods, so removing oxygen dramatically slows quality loss. A bag of dried lentils vacuum-sealed in a mason jar and stored in a dark pantry is still good 4-5 years later.
+**Dried goods:** the clearest win for vacuum sealing. Dried beans, rice, pasta, grains, dehydrated vegetables, and dried herbs stored in vacuum-sealed bags or mason jars see shelf life extend from 1-2 years to 3-5+ years. Oxidation is the primary degradation mechanism for most dried goods, so removing oxygen slows quality loss. A bag of dried lentils vacuum-sealed in a mason jar and stored in a dark pantry is still good 4-5 years later.
 
 **Blanched and frozen vegetables:** vacuum sealing combined with freezing prevents freezer burn, which is dehydration of the food's surface caused by moisture sublimating into the surrounding air. Freezer burn doesn't make food unsafe, but the texture and flavor of freezer-burned vegetables are noticeably degraded. Blanched vegetables vacuum-sealed before freezing maintain color, texture, and flavor for 12-18 months. Without vacuum sealing, quality declines in standard freezer bags after 6-9 months.
 

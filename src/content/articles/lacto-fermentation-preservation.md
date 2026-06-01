@@ -41,9 +41,9 @@ See [The Financial Case for Home Canning](/homestead/canning-financial-case/) fo
 
 This is the one technical requirement. Get the salt ratio right and everything else follows. Get it wrong and you've either created an environment where pathogens can compete (too little salt) or one where fermentation barely proceeds (too much).
 
-The target is 2% salt by weight of the total weight of salt plus water. At 2%, pathogenic bacteria are inhibited while *Lactobacillus* thrives. Below 1.5%, the inhibitory effect weakens enough to create risk. Above 3%, fermentation slows significantly - the ferment is still safe, but it will take longer to develop and may not reach full acidity within the typical window.
+The target is 2% salt by weight of the total weight of salt plus water. At 2%, pathogenic bacteria are inhibited while *Lactobacillus* thrives. Below 1.5%, the inhibitory effect weakens enough to create risk. Above 3%, fermentation slows - the ferment is still safe, but it will take longer to develop and may not reach full acidity within the typical window.
 
-**Use a kitchen scale.** This is the single piece of equipment that makes consistent fermentation possible. Salt varies substantially in density by grind - a teaspoon of fine sea salt weighs nearly twice as much as a teaspoon of Diamond Crystal kosher salt. Volume measurements are not reliable. Weight measurements are.
+**Use a kitchen scale.** This is the single piece of equipment that makes consistent fermentation possible. Salt varies widely in density by grind - a teaspoon of fine sea salt weighs nearly twice as much as a teaspoon of Diamond Crystal kosher salt. Volume measurements are not reliable. Weight measurements are.
 
 For a quart jar brine: dissolve 1 tablespoon (18 grams) of fine canning salt in 2 cups (473 grams) of water. That gives you approximately 3.7% brine by weight, which is appropriate for most lacto-pickled vegetables where you're using a brine to cover them. For vegetables that release their own moisture - cabbage for sauerkraut - you salt the shredded vegetable at 2% of its weight by mass (20 grams of salt per kilogram of cabbage), massage until it releases enough liquid to submerge itself, and pack tightly.
 
@@ -59,7 +59,7 @@ Temperature matters more than most introductory fermentation guides acknowledge.
 
 When the ferment tastes the way you want it - acidic, flavorful, the right level of crunch or softness - move it to the refrigerator. Cold temperatures drop *Lactobacillus* activity to near zero, effectively pausing the ferment at whatever flavor profile you've achieved. Refrigerator storage life for fermented vegetables is 3-6 months. The ferment doesn't go bad in any dangerous sense after that window; it just continues acidifying slowly and eventually becomes unpleasantly sour or mushy depending on the vegetable.
 
-Sauerkraut and kimchi are exceptions - some people prefer them aged 6-12 months in the refrigerator. Texture softens substantially by that point, which is either desirable or not depending on preference and intended use.
+Sauerkraut and kimchi are exceptions - some people prefer them aged 6-12 months in the refrigerator. Texture softens noticeably by that point, which is either desirable or not depending on preference and intended use.
 
 ## Five Staple Ferments: Economics and Process
 

@@ -68,11 +68,11 @@ From 5 lb of jalapeños and a few tablespoons of salt, you can produce 12-18 5-o
 
 Active labor: 30-45 minutes for prep and packing. Then 10-14 days of waiting. Then 15-20 minutes to blend and bottle.
 
-Scoville retention: fermentation preserves 80-90% of the original heat. Some capsaicin degrades over time in the acidic environment, but you won't notice a meaningful loss unless you ferment for months. Bosland and Votava's *Peppers: Vegetable and Spice Capsicums* (2012, CABI International) covers capsaicin chemistry and stability, including the effects of pH and heat on capsaicin degradation.
+Scoville retention: fermentation preserves 80-90% of the original heat. Some capsaicin degrades over time in the acidic environment, but you won't notice any loss unless you ferment for months. Bosland and Votava's *Peppers: Vegetable and Spice Capsicums* (2012, CABI International) covers capsaicin chemistry and stability, including the effects of pH and heat on capsaicin degradation.
 
 ## Method 3: Freezing
 
-The simplest method by a significant margin. Freezing requires no special equipment beyond what you likely already own - a sheet pan and freezer bags - and the active labor per pound is lower than any other method.
+The simplest method by far. Freezing requires no special equipment beyond what you likely already own - a sheet pan and freezer bags - and the active labor per pound is lower than any other method.
 
 All peppers freeze well. Blanching is optional for peppers (the USDA Complete Guide to Home Canning includes blanching guidance for most vegetables, but notes that peppers can be frozen without blanching with acceptable quality retention). Skip blanching unless you're processing very large quantities and want to reduce prep time on the thaw end.
 
@@ -151,7 +151,7 @@ The method should follow the intended use, not the other way around.
 
 **For everyday cooking flexibility:** freezing requires the least planning. Frozen peppers go directly from the bag into chili, eggs, stir fry, and soup without thawing. A bag of frozen jalapeño halves in your freezer replaces every fresh jalapeño purchase you'd otherwise make between September and July. No decisions required at harvest time beyond "wash, slice, freeze."
 
-**For holiday gifts and long-term pantry backup:** water bath canned pickled peppers are the right tool. A sealed jar of pickled peppers keeps for 1-2 years unrefrigerated, ships and travels well, and functions as a gift in a way that a bag of frozen peppers does not. The visual appeal of a clear jar packed with jalapeño rings also matters for gifting. Fermented hot sauce bottles well too and makes a genuinely good gift, but requires refrigeration from the recipient.
+**For holiday gifts and long-term pantry backup:** water bath canned pickled peppers are the right tool. A sealed jar of pickled peppers keeps for 1-2 years unrefrigerated, ships and travels well, and functions as a gift in a way that a bag of frozen peppers does not. The visual appeal of a clear jar packed with jalapeño rings also matters for gifting. Fermented hot sauce bottles well too and makes a good gift, but requires refrigeration from the recipient.
 
 ## Volume Planning for a Home Planting
 

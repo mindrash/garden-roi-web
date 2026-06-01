@@ -104,7 +104,7 @@ Water bath canning is straightforward and forgiving once you understand the sequ
 
 A water bath canner is essentially a large pot with a rack. Many households already have a pot large enough; a $8 jar rack converts it into a functional water bath setup. The additional cost is minimal.
 
-A pressure canner is a significant equipment investment. For a household that primarily cans high-acid fruits, jams, and pickles, the pressure canner may not be necessary. For a household that grows green beans, corn, or other low-acid vegetables in quantity, the pressure canner is not optional - it's the only safe tool for the job.
+A pressure canner runs $80 to $350 depending on gauge type - a real equipment investment. For a household that primarily cans high-acid fruits, jams, and pickles, the pressure canner may not be necessary. For a household that grows green beans, corn, or other low-acid vegetables in quantity, the pressure canner is not optional - it's the only safe tool for the job.
 
 The [canning financial case](/homestead/canning-financial-case/) covers the full cost-per-jar math and payback period for both setups.
 

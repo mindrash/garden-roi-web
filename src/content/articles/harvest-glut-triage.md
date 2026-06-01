@@ -20,7 +20,7 @@ Work through these four questions in order. Do not skip ahead to the fun one (va
 
 Before anything else, identify what you have that will be garbage within days. These crops need your attention tonight or tomorrow morning, regardless of how much work they represent.
 
-Ripe tomatoes off the vine: 2-4 days before they soften past usable. Fresh berries: 1-3 days. Green beans refrigerated: 3-5 days. Fresh basil cut and left on the counter: 2-5 days before it blackens. Fresh corn: 24 hours from picking is where you lose half the sugar content - corn is genuinely the most time-sensitive crop most gardeners grow, because the sugars convert to starch within hours of harvest.
+Ripe tomatoes off the vine: 2-4 days before they soften past usable. Fresh berries: 1-3 days. Green beans refrigerated: 3-5 days. Fresh basil cut and left on the counter: 2-5 days before it blackens. Fresh corn: 24 hours from picking is where you lose half the sugar content - corn is the most time-sensitive crop most gardeners grow, because the sugars convert to starch within hours of harvest.
 
 These are your first priority. Clear counter space. Get them processed before you go to bed.
 
@@ -99,7 +99,7 @@ The key insight in this table is the spread between active time and total time. 
 
 When you have a large volume - say, 40 lb of tomatoes - your active time to make sauce is roughly 13 hours if you process 3 lb at a time in a standard pot. But if you roast sheet pans of tomatoes (halved, olive oil, 400°F for 45 minutes) and then blend and freeze the puree, you can process 5 lb per sheet pan with 10 minutes of prep and 45 minutes of passive oven time. Ten sheet pans runs in sequence over an afternoon with maybe 2 hours of total active work.
 
-Water-bath canning is the most time-intensive method on this list. The processing time alone - the time the jars are in the boiling water bath - is 85 minutes for whole tomatoes in quart jars (USDA recommendation). For a household-scale glut, canning is the right choice only when freezer space is genuinely exhausted. Freezing is faster, produces equivalent quality for most purposes, and requires no special equipment beyond zip-top bags.
+Water-bath canning is the most time-intensive method on this list. The processing time alone - the time the jars are in the boiling water bath - is 85 minutes for whole tomatoes in quart jars (USDA recommendation). For a household-scale glut, canning is the right choice only when freezer space is exhausted. Freezing is faster, produces equivalent quality for most purposes, and requires no special equipment beyond zip-top bags.
 
 ## Batch Processing for Large Volumes
 

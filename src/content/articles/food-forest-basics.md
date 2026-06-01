@@ -11,7 +11,7 @@ A food forest is not a garden with trees in it. It's a designed system that mimi
 
 The concept was formalized by Robert Hart at his Wenlock Edge property in Shropshire starting in the 1960s and documented in *Forest Gardening* (1991). Martin Crawford expanded the practical framework in *Creating a Forest Garden* (Green Books, 2010), which remains the most complete design and species reference available. Both Hart and Crawford describe a seven-layer system. This article uses that framework, applies it to a 1,000 square foot (roughly 32x32 ft) urban or suburban lot section, and runs the 10-year economics honestly.
 
-The honest part matters. Food forests take time. If you start planting this spring, you will not have meaningful tree fruit until Year 8 at the earliest. Plan for that.
+The honest part matters. Food forests take time. If you start planting this spring, you will not have real tree fruit until Year 8 at the earliest. Plan for that.
 
 ---
 
@@ -38,7 +38,7 @@ Trees and large shrubs that grow under the edge of the canopy, typically 6 to 15
 **Practical species:**
 
 - **Serviceberry** (*Amelanchier canadensis* or *A. laevis*) - produces edible berries in late spring, Zone 3-8. Tolerates partial shade once established. Hart (1991) specifically noted serviceberry as an ideal understory companion for apple in humid temperate climates.
-- **Pawpaw** (*Asimina triloba*) - native to Eastern North America, Zone 5-8. Largest edible fruit native to the continent. Requires two genetically distinct plants for pollination. Tolerates significant shade as a juvenile but needs some sun to produce fruit. 'Shenandoah' and 'Susquehanna' are reliable named varieties.
+- **Pawpaw** (*Asimina triloba*) - native to Eastern North America, Zone 5-8. Largest edible fruit native to the continent. Requires two genetically distinct plants for pollination. Tolerates deep shade as a juvenile but needs some sun to produce fruit. 'Shenandoah' and 'Susquehanna' are reliable named varieties.
 - **Elderberry** (*Sambucus nigra* subsp. *canadensis*) - fast-growing, begins producing berries in Year 2 to 3, Zone 3-9. Nitrogen-responsive; comfrey chop-and-drop at its base speeds establishment. 'Adams' and 'Bob Gordon' are high-yield cultivars widely used in small-scale production.
 
 ### Layer 3: Shrub
@@ -205,15 +205,15 @@ For context on apple-specific economics, see the [apple growing guide](/crops/ap
 
 ## Honest Caveats
 
-**You will not have meaningful tree fruit for 5 to 10 years.** The apple on M.7 rootstock may produce a handful of fruit in Year 4 or 5. Full production - 40 to 60 lb per season - won't happen until Year 8 to 10 in most cases. The ROI story in Years 1 through 7 comes from the shrub, herbaceous, and vine layers, not from the canopy. If you need tree fruit sooner, buy it from an orchard and plant a different style of garden.
+**You will not have real tree fruit for 5 to 10 years.** The apple on M.7 rootstock may produce a handful of fruit in Year 4 or 5. Full production - 40 to 60 lb per season - won't happen until Year 8 to 10 in most cases. The ROI story in Years 1 through 7 comes from the shrub, herbaceous, and vine layers, not from the canopy. If you need tree fruit sooner, buy it from an orchard and plant a different style of garden.
 
-**Zone 4 and colder significantly narrows your options.** Pawpaw is borderline. Hardy kiwi (*A. arguta*) survives to Zone 4 but late frost kills the emerging buds most years in Zone 4 climates - production is unreliable. Serviceberry and elderberry hold up fine, but your canopy options shrink to crabapple and very cold-hardy apple varieties. Hazelnut reliability also drops below Zone 5 without selecting cold-hardy American hazelnut specifically.
+**Zone 4 and colder narrows your options.** Pawpaw is borderline. Hardy kiwi (*A. arguta*) survives to Zone 4 but late frost kills the emerging buds most years in Zone 4 climates - production is unreliable. Serviceberry and elderberry hold up fine, but your canopy options shrink to crabapple and very cold-hardy apple varieties. Hazelnut reliability also drops below Zone 5 without selecting cold-hardy American hazelnut specifically.
 
 **Canopy management is the hardest part.** The single most common food forest failure is neglecting to prune the canopy tree aggressively enough in Years 3 through 7. A semi-dwarf apple on M.7 left to grow unmanaged will produce a 15 to 20-foot spread within 8 years. The light reaching your currant and gooseberry shrubs drops from 60% to 15% and they decline. Annual dormant-season pruning to maintain an open center or modified leader form is not optional. Budget 2 to 4 hours per year for canopy management starting in Year 2.
 
 **This is a multi-decade commitment.** The plants described here are not easily moved. The apple tree will outlive your mortgage. Comfrey roots regrow from any fragment left in the soil. Hazelnut clumps expand and persist. Plant a food forest with the understanding that you are changing the permanent character of that 1,000 square feet. If there's any reasonable chance you'll want that space for something else in 10 years, a food forest is the wrong choice.
 
-The economics are genuinely compelling and the system does get easier over time. But the first 5 years require consistent attention, the payoff is slow, and the commitment is long. None of that means don't do it - it means go in with accurate expectations.
+The economics are compelling and the system does get easier over time. But the first 5 years require consistent attention, the payoff is slow, and the commitment is long. None of that means don't do it - it means go in with accurate expectations.
 
 **Related crops:** [Apple](/crops/apple/), [Gooseberry](/crops/gooseberry/), [Strawberry](/crops/strawberry/), [Garlic](/crops/garlic/) (ground-level fill crop during establishment)
 

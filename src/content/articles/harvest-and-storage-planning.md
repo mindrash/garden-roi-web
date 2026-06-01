@@ -53,7 +53,7 @@ The gap between "I planted a few tomatoes" and "I have enough tomatoes for a yea
 **Tomatoes:**
 - 50 quarts of canned tomatoes per year (used in sauces, soups, stews): approximately 150 lb of fresh tomatoes
 - 150 lb from approximately 20-25 plants of a paste variety at 6-8 lb per plant
-- Realistic planting for a meaningful tomato supply: 15-20 plants minimum
+- Realistic planting for a real tomato supply: 15-20 plants minimum
 
 **Green beans:**
 - 20-25 quarts of canned green beans per year: approximately 20-25 lb of fresh beans
@@ -64,7 +64,7 @@ The gap between "I planted a few tomatoes" and "I have enough tomatoes for a yea
 - 10-15 lb of dried beans per person per year (as a staple, not a side dish)
 - For a family of four: 40-60 lb of dried beans
 - 40-60 lb from approximately 100-150 row feet of a dry bean variety (Dragon Tongue, Jacob's Cattle, Calypso)
-- This is a substantial planting. Most home gardeners significantly underplant dried beans.
+- This is a large planting. Most home gardeners underplant dried beans.
 
 **Garlic:**
 - 5-10 lb of dried garlic per household per year for culinary use
@@ -131,7 +131,7 @@ For crops that store well at cool temperatures - root vegetables, winter squash,
 
 **Onions and garlic:** the opposite of potato storage requirements. Cure onions and garlic by laying them in a single layer in warm, dry air with good airflow (a screened rack, a slatted wooden shelf) for 3-4 weeks until the outer skins are papery and dry and the neck (for onions) is completely dry and collapsed. Store cured bulbs at 35-45°F in low humidity, with good airflow. Hanging garlic braids or onion strands in a cool, dry space - a traditional technique - works well. At proper storage conditions, cured onions and garlic from a summer harvest last through February-March.
 
-**Winter squash and pumpkins:** different requirements from root vegetables. Cure at 80-85°F for 10-14 days (a warm, sunny room works), then store at 50-60°F in low humidity. The curing process hardens the skin and heals surface cuts, converting starches to sugars in the flesh and dramatically improving both flavor and storability. Squash cured at the right temperature and stored at 50-60°F keeps 3-6 months depending on variety. Acorn squash stores 1-2 months; Hubbard and Butternut keep 3-6 months; some specialty varieties keep 9-12 months.
+**Winter squash and pumpkins:** different requirements from root vegetables. Cure at 80-85°F for 10-14 days (a warm, sunny room works), then store at 50-60°F in low humidity. The curing process hardens the skin and heals surface cuts, converting starches to sugars in the flesh and improving both flavor and storability. Squash cured at the right temperature and stored at 50-60°F keeps 3-6 months depending on variety. Acorn squash stores 1-2 months; Hubbard and Butternut keep 3-6 months; some specialty varieties keep 9-12 months.
 
 **Apples and pears:** store at 32-40°F with high humidity. Keep away from potatoes (ethylene gas from apples accelerates potato sprouting). Check every 1-2 weeks and remove any starting to deteriorate. A single rotten apple introduces ethylene and decay organisms that accelerate deterioration in neighboring fruit. A cold garage, refrigerator, or root cellar is adequate; a dedicated space prevents cross-contamination from strong-smelling storage crops.
 

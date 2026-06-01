@@ -167,6 +167,6 @@ Two things determine whether a garden freezer pays off: **volume** and **crop se
 
 Volume is straightforward - the larger your surplus, the better fixed costs amortize. The first 20 bags you freeze effectively cost $2 to $2.50 each when fixed costs are allocated. The 100th bag costs $0.60.
 
-Crop selection matters more than gardeners expect. Freezing green beans or spinach - crops with 3 to 4:1 fresh-to-retail frozen value ratios - returns solid value per bag but requires significant volume to justify. Freezing herbs, peppers, and zucchini - crops with 8 to 15:1 value ratios when frozen - justify the freezer cost with far less volume. If you're going to have a small garden and a dedicated freezer, plant what freezes at premium value.
+Crop selection matters more than gardeners expect. Freezing green beans or spinach - crops with 3 to 4:1 fresh-to-retail frozen value ratios - returns solid value per bag but requires large volume to justify. Freezing herbs, peppers, and zucchini - crops with 8 to 15:1 value ratios when frozen - justify the freezer cost with far less volume. If you're going to have a small garden and a dedicated freezer, plant what freezes at premium value.
 
 For how freezing compares to canning as a preservation method, see [Freezing vs. Canning](/homestead/freezing-vs-canning/). For the full economics of home canning, see [The Financial Case for Canning](/homestead/canning-financial-case/). The green bean section of the [green bean growing guide](/crops/green-bean/) covers harvest timing for maximum freeze quality.

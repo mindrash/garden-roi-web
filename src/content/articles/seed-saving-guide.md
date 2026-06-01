@@ -77,7 +77,7 @@ The practical setup is simple: put seeds in paper envelopes (never plastic bags,
 
 Don't skip the paper envelopes inside the jar. Envelopes allow any residual moisture to be absorbed by the silica gel. Seeds sealed directly in glass or plastic without desiccant have nowhere for moisture to go.
 
-Viability varies considerably by crop - some seeds are still worth planting at 5 years, others should be replaced after one. The table below covers the full range of crops most home gardeners work with, including which are self-pollinating (easy) and which cross-pollinate (more management required).
+Viability varies widely by crop - some seeds are still worth planting at 5 years, others should be replaced after one. The table below covers the full range of crops most home gardeners work with, including which are self-pollinating (easy) and which cross-pollinate (more management required).
 
 ### Seed Viability and Pollination Reference
 

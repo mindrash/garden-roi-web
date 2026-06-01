@@ -24,7 +24,7 @@ Matching the herb to the method is the whole game.
 
 **Freezing** preserves flavor better than drying for herbs with high moisture content and volatile aromatic compounds. The best candidates: basil, parsley, cilantro, chives, dill fronds, and tarragon. The trade-off is texture - frozen herbs are soft after thawing and work well in cooked applications or blended sauces but poorly as a fresh garnish. The method matters: whole-leaf freezing directly in bags leads to freezer burn and clumping; chopping and freezing in liquid (water or oil) in ice cube trays preserves flavor and makes portioning easy.
 
-**Infusing** captures flavor into a shelf-stable carrier. Herb vinegars are the most practical method for most gardeners: safe, shelf-stable for months, and genuinely useful in cooking. Herb-infused oils require more care.
+**Infusing** captures flavor into a shelf-stable carrier. Herb vinegars are the most practical method for most gardeners: safe, shelf-stable for months, and useful in cooking. Herb-infused oils require more care.
 
 ## Drying methods compared
 
@@ -33,7 +33,7 @@ Matching the herb to the method is the whole game.
 | Air drying (bundle and hang) | 68-80°F room temp | 7-14 days | Good - slow process preserves oils | $0 | Oregano, thyme, rosemary, sage, mint, lavender |
 | Food dehydrator | 95-115°F | 1-4 hours | Excellent at correct temp | $30-100 equipment | All dryable herbs; best control |
 | Oven (lowest setting) | 170°F with door propped | 2-4 hours | Moderate - 20-30% more volatile loss than air drying | $0 equipment | Acceptable when time-limited |
-| Microwave (emergency) | Variable | Minutes | Poor - significant volatile loss | $0 | Not recommended; use only if no alternative |
+| Microwave (emergency) | Variable | Minutes | Poor - high volatile loss | $0 | Not recommended; use only if no alternative |
 
 Temperature is the critical variable with a dehydrator. Keep it at or below 115°F. Above that threshold, the essential oils responsible for flavor begin to volatilize and escape. The USDA Complete Guide to Home Canning (2015 revision) specifies 95-115°F for herbs in a dehydrator; many dehydrator instructions recommend 100-110°F as the target range.
 
