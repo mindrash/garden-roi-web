@@ -11,7 +11,7 @@ Cucumber beetles cause two different kinds of damage, and confusing them changes
 
 Direct feeding damage - holes in leaves, scarring on fruit - is annoying and reduces yield but rarely kills a plant. The beetle population needs to be high before this becomes a serious threat. Bacterial wilt transmission is different. A single beetle carrying *Erwinia tracheiphila* can infect a plant during a brief feeding probe. Once infected, the plant cannot be saved. No fungicide, no pruning, no treatment of any kind reverses the infection. The plant wilts and dies.
 
-Which of these problems you're dealing with depends on where you garden. In the eastern United States, striped cucumber beetles are the primary vectors of bacterial wilt, and managing them at low populations is worth the effort. West of the Rocky Mountains, bacterial wilt is far less common and the urgency drops considerably.
+Which of these problems you're dealing with depends on where you garden. In the eastern United States, striped cucumber beetles are the primary vectors of bacterial wilt, and managing them at low populations is worth the effort. West of the Rocky Mountains, bacterial wilt is far less common and the urgency drops.
 
 ## Two Species, One Problem
 
@@ -77,7 +77,7 @@ Pyrethrin is most appropriate when beetle populations are high and row covers ca
 
 **Neem oil:** contains azadirachtin, which disrupts insect hormone function and reduces feeding. Less immediately effective than pyrethrin or spinosad for established beetle populations but works as a feeding deterrent in preventive applications. Reapplication every 7-10 days maintains effect.
 
-**Kaolin + neem combination:** applying a kaolin particle barrier with a neem drench underneath provides both physical deterrence and systemic disruption. This combination during the first 3-4 weeks after transplanting reduces beetle feeding significantly without synthetic chemicals (Cornell University Cooperative Extension, *Cucumber Beetle Management in Organic Production*, 2018).
+**Kaolin + neem combination:** applying a kaolin particle barrier with a neem drench underneath provides both physical deterrence and systemic disruption. This combination during the first 3-4 weeks after transplanting reduces beetle feeding without synthetic chemicals (Cornell University Cooperative Extension, *Cucumber Beetle Management in Organic Production*, 2018).
 
 ## Resistant Varieties
 
@@ -89,13 +89,13 @@ Some cucumber varieties have been specifically bred or selected for tolerance to
 - 'County Fair' - parthenocarpic (doesn't need pollination), can be kept under row covers longer
 - 'Dasher II' - disease package includes some bacterial wilt tolerance
 
-**Squash varieties:** *Cucurbita moschata* types (butternut, Long Island Cheese) are significantly more resistant to bacterial wilt than *C. pepo* types (zucchini, acorn squash). If you're in a high-pressure area and losing zucchini to wilt annually, switching to butternut squash as a summer squash substitute is a practical solution.
+**Squash varieties:** *Cucurbita moschata* types (butternut, Long Island Cheese) are more resistant to bacterial wilt than *C. pepo* types (zucchini, acorn squash). If you're in a high-pressure area and losing zucchini to wilt annually, switching to butternut squash as a summer squash substitute is a practical solution.
 
 ## Geographic Risk Assessment
 
 Control intensity should match your actual risk level. Bacterial wilt is primarily a problem in the eastern United States, where the striped cucumber beetle is common and the disease reservoir is established.
 
-**High risk:** Connecticut, Massachusetts, New York, New Jersey, Pennsylvania, Ohio, Indiana, Illinois, Michigan - these states consistently report bacterial wilt as a significant commercial and home garden problem. Row covers, kaolin clay, and early monitoring are all warranted.
+**High risk:** Connecticut, Massachusetts, New York, New Jersey, Pennsylvania, Ohio, Indiana, Illinois, Michigan - these states consistently report bacterial wilt as a real commercial and home garden problem. Row covers, kaolin clay, and early monitoring are all warranted.
 
 **Moderate risk:** the mid-Atlantic states south through Virginia, the Carolinas, and the Ohio River valley. Bacterial wilt is present but less uniformly distributed.
 
@@ -109,7 +109,7 @@ A few cucumber beetles on a plant with no wilting symptoms does not require emer
 
 **In high-risk zones:** treat when you see any striped beetle activity on young transplants. Don't wait for population buildup. One beetle can infect one plant. The cost of early preventive action (kaolin application, Spinosad spray) is lower than replanting.
 
-**In low-risk zones:** treat when you see significant leaf damage (more than 30% leaf area affected), heavy flower damage affecting pollination, or sticky trap counts above 10 beetles per trap per day for more than 3-4 consecutive days.
+**In low-risk zones:** treat when you see leaf damage exceeding 30% of leaf area affected, heavy flower damage affecting pollination, or sticky trap counts above 10 beetles per trap per day for more than 3-4 consecutive days.
 
 Established plants (more than 6 weeks in the ground, canopy well developed) are more tolerant of beetle pressure than seedlings and transplants. Shift your intensity toward protecting new plantings and ease off as plants mature.
 

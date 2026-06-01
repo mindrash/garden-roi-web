@@ -27,7 +27,7 @@ Identification matters because different species prefer different plants and cre
 
 **Green peach aphid (*Myzus persicae*):** soft-bodied, pale green or pink, 1/16 inch. The most economically important aphid species in US gardens because it transmits 100+ plant viruses, including potato virus Y (PVY), cucumber mosaic virus (CMV), and many others. Found on peppers, potatoes, lettuce, brassicas, and stone fruits. On pepper plants, this aphid's virus transmission capacity makes it worth controlling at lower population thresholds than other species.
 
-**Cabbage aphid (*Brevicoryne brassicae*):** grayish-blue with a waxy, dusty coating. Forms dense colonies on brassica crops (kale, cabbage, broccoli). More damaging to brassicas than green peach aphid but transmits fewer viruses. Dense colonies of this species distort young leaves and can significantly affect yield.
+**Cabbage aphid (*Brevicoryne brassicae*):** grayish-blue with a waxy, dusty coating. Forms dense colonies on brassica crops (kale, cabbage, broccoli). More damaging to brassicas than green peach aphid but transmits fewer viruses. Dense colonies of this species distort young leaves and can affect yield.
 
 **Black bean aphid (*Aphis fabae*):** black or dark green. Colonies on beans, beets, and chard. Heavy infestations cause leaf curl and reduced plant vigor.
 
@@ -99,7 +99,7 @@ Aphid pressure is not random. Understanding the seasonal pattern helps you antic
 
 **Spring (April-May):** aphid populations build rapidly on newly emerging plants. Overwintered eggs hatch; early-season populations are all female and reproduce parthenogenetically (without mating), doubling or tripling every 3-7 days in warm conditions. This is the period of fastest population growth. Beneficial insect populations haven't yet built up to track aphid abundance.
 
-**Early summer (June-July):** predator populations respond to spring aphid abundance. Ladybug larvae, lacewing larvae, and parasitic wasp populations peak. This is often when the "wait for predators" strategy works best - the predator response is robust.
+**Early summer (June-July):** predator populations respond to spring aphid abundance. Ladybug larvae, lacewing larvae, and parasitic wasp populations peak. This is often when the "wait for predators" strategy works best - the predator response is strong.
 
 **Midsummer (July-August):** aphid populations often crash naturally due to predation, heat, and parasitism. Many gardeners who sprayed in spring and killed predators see their worst aphid pressure in August when predator populations are still recovering.
 

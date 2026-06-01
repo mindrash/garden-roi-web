@@ -29,7 +29,7 @@ This L-footer prevents digging by using the rabbit's own digging force against i
 
 The buried portion requires 6 additional inches of material height. A 24-inch tall installed fence above ground requires a 30-inch material height: 24 inches above ground plus 6 inches buried vertically before the horizontal bend.
 
-**Post spacing:** wood stakes or metal T-posts at 6-8 foot intervals provide adequate support for 2-foot hardware cloth. Hardware cloth is rigid enough that it doesn't sag significantly at this spacing. Attach with fence staples to wood stakes or zip ties to T-posts.
+**Post spacing:** wood stakes or metal T-posts at 6-8 foot intervals provide adequate support for 2-foot hardware cloth. Hardware cloth is rigid enough that it doesn't sag at this spacing. Attach with fence staples to wood stakes or zip ties to T-posts.
 
 For a raised bed, you can attach hardware cloth directly to the outer face of the bed frame rather than installing separate posts. Use galvanized 3/4-inch staples into the frame wood. This also closes the gap between the fence and the soil surface, which is a common entry point that standalone fence installations miss.
 
@@ -79,9 +79,9 @@ Repellents work by making plants smell or taste unappealing to deer. They are no
 
 **Motion-activated sprinklers (e.g., Orbit Yard Enforcer, Scarecrow):** a motion sensor triggers a burst of water when a deer (or anything else) moves through the detection zone. Effective and non-chemical. Battery-operated models run $40-80. Requires seasonal setup and removal, occasional battery replacement, and positioning to cover the garden perimeter. Deer habituate to them if the sprinkler always fires from the same position. Moving the unit weekly reduces habituation. The most reliable non-chemical deterrent for low to moderate deer pressure.
 
-**Commercial spray repellents (Bobbex, Deer Off, Plantskydd):** most effective formulations contain putrefied egg solids, garlic, and sometimes predator urine (coyote, wolf). They work by smell deterrence. Reapplication after every significant rain event is required - typically every 2-3 weeks in wet seasons, potentially every 4-6 weeks in dry conditions.
+**Commercial spray repellents (Bobbex, Deer Off, Plantskydd):** most effective formulations contain putrefied egg solids, garlic, and sometimes predator urine (coyote, wolf). They work by smell deterrence. Reapplication after every heavy rain event is required - typically every 2-3 weeks in wet seasons, potentially every 4-6 weeks in dry conditions.
 
-Annual cost calculation for a 200-square-foot perimeter application zone, reapplied every 3 weeks for a 20-week season: approximately 7 applications × $8-12 per application = $55-85 per season. This is a meaningful ongoing cost that compounds over years, versus a fence that requires a one-time capital investment.
+Annual cost calculation for a 200-square-foot perimeter application zone, reapplied every 3 weeks for a 20-week season: approximately 7 applications × $8-12 per application = $55-85 per season. This is a real ongoing cost that compounds over years, versus a fence that requires a one-time capital investment.
 
 **Efficacy at different population densities:**
 - 1-3 deer per square mile: repellents are often adequate

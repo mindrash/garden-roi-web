@@ -19,7 +19,7 @@ Calcium is unusual among plant nutrients in one important way: it moves almost e
 
 This is why inconsistent watering is the primary cause. A period of dry weather followed by heavy rain or irrigation, or a week of consistent watering followed by a week of drought stress, interrupts calcium transport at a critical moment. The fruit in development during that window develops BER. Fruits that formed before or after the stress period are fine.
 
-**Why foliar calcium sprays don't work:** Spraying calcium on leaves or directly on developing fruit does not solve the problem. Calcium applied to foliage doesn't move into developing fruit tissue in meaningful quantities - the transpiration-stream pathway is a one-way delivery system from roots to leaves and fruit, not from leaves to fruit. Foliar calcium sprays are heavily marketed for BER, but Penn State Extension and Cornell Cooperative Extension both note that these applications have not shown consistent efficacy in controlled trials (Penn State Extension, *Blossom End Rot of Tomato*, 2019; Cornell Cooperative Extension, *Blossom End Rot*, 2021). Save the money.
+**Why foliar calcium sprays don't work:** Spraying calcium on leaves or directly on developing fruit does not solve the problem. Calcium applied to foliage doesn't move into developing fruit tissue in any useful quantity - the transpiration-stream pathway is a one-way delivery system from roots to leaves and fruit, not from leaves to fruit. Foliar calcium sprays are heavily marketed for BER, but Penn State Extension and Cornell Cooperative Extension both note that these applications have not shown consistent efficacy in controlled trials (Penn State Extension, *Blossom End Rot of Tomato*, 2019; Cornell Cooperative Extension, *Blossom End Rot*, 2021). Save the money.
 
 The fix is watering, not calcium supplements.
 
@@ -95,7 +95,7 @@ True calcium deficiency in garden soil is uncommon in most of the US but does oc
 - Highly acidic soils (pH below 5.5) where calcium availability is reduced
 - Soils that have never had lime or calcium amendments added over many years
 
-If your soil pH is below 6.0 and you have chronic BER despite consistent watering practices, adding agricultural lime (calcium carbonate) may genuinely help. The lime raises pH to a more favorable range and adds calcium simultaneously. Apply based on a soil test - a $15-25 soil test through your state cooperative extension lab (Penn State Extension, Cornell, Purdue, and most state universities offer this) is the correct diagnostic before adding any amendment.
+If your soil pH is below 6.0 and you have chronic BER despite consistent watering practices, adding agricultural lime (calcium carbonate) may help. The lime raises pH to a more favorable range and adds calcium simultaneously. Apply based on a soil test - a $15-25 soil test through your state cooperative extension lab (Penn State Extension, Cornell, Purdue, and most state universities offer this) is the correct diagnostic before adding any amendment.
 
 Gypsum (calcium sulfate) is sometimes recommended as a pH-neutral calcium source. It does add calcium to soil and doesn't change pH, making it appropriate if calcium is deficient but pH is already in the correct range. Apply at 1-2 lb per 10 square feet, worked into the soil before planting.
 

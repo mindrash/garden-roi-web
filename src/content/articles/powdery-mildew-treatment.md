@@ -33,7 +33,7 @@ Powdery mildew is caused by a range of host-specific fungi - the species that in
 
 **High susceptibility crops:**
 - Zucchini and summer squash - among the most frequently affected vegetables
-- Cucumber - significant economic impact in commercial production
+- Cucumber - high economic impact in commercial production
 - Winter squash and pumpkin
 - Peas (late season)
 - Grapes
@@ -59,7 +59,7 @@ Powdery mildew spores (conidia) germinate best at relative humidity of 50-90% - 
 
 The practical implication: powdery mildew outbreaks in August correlate with warm, dry spells and stagnant air - not with rainy periods. A humid, rainy August typically has less powdery mildew than a hot, dry one. Plants in enclosed spaces with poor airflow (against a fence, in a dense planting) develop powdery mildew faster than the same plants in open, airy locations.
 
-This is why spacing plants to allow airflow, orienting rows perpendicular to prevailing wind, and avoiding enclosed planting spots are genuinely effective prevention measures - not just horticultural advice.
+This is why spacing plants to allow airflow, orienting rows perpendicular to prevailing wind, and avoiding enclosed planting spots are effective prevention measures - not just horticultural advice.
 
 ## Treatment Options Ranked by Efficacy
 
@@ -81,7 +81,7 @@ Apply in cooler parts of the day (morning or evening), not at midday in direct s
 
 **3. Neem oil (preventive, not curative)**
 
-Cold-pressed neem oil contains azadirachtin and sulfur compounds that create a surface environment inhospitable to powdery mildew spores. It works primarily as a preventive barrier - applied before or at first sign of infection, it slows development significantly. Applied to established white powder, neem oil is less effective than potassium bicarbonate.
+Cold-pressed neem oil contains azadirachtin and sulfur compounds that create a surface environment inhospitable to powdery mildew spores. It works primarily as a preventive barrier - applied before or at first sign of infection, it slows development. Applied to established white powder, neem oil is less effective than potassium bicarbonate.
 
 Mix at 2-4 tablespoons per gallon with a soap emulsifier. Apply in the morning so the oil has time to dry before nighttime - neem can clog leaf stomates if applied heavily in humid conditions.
 
@@ -142,7 +142,7 @@ Seed packet coding: look for "PM" or "PVMW" in the disease resistance list on th
 
 Once powdery mildew is established on a plant going into fall, the disease will not reverse without intervention. But at a certain point in the season, the calculation changes.
 
-**When to keep treating:** if the plant still has significant healthy foliage, active fruit development, and 4+ weeks remain before first frost, continue spraying. The treatment extends the productive life of the plant.
+**When to keep treating:** if the plant still has much healthy foliage, active fruit development, and 4+ weeks remain before first frost, continue spraying. The treatment extends the productive life of the plant.
 
 **When to let it go:** a zucchini plant in September with 80% of its leaves covered in white powder and only small, near-harvest fruits remaining does not need treatment. The plant is at the end of its productive life regardless. Treat your time as a resource.
 
