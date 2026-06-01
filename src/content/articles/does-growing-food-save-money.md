@@ -112,7 +112,7 @@ Here is a crop comparison by net return per square foot per season. Net return a
 
 Yield data: USDA ARS and land-grant university cooperative extension trial averages. Prices: USDA AMS retail surveys, 2024.
 
-Corn and watermelon sit at the bottom for the same reason: grocery stores can produce these at massive scale efficiencies and sell them cheaply. You cannot compete with commodity crop economics in a backyard. What you can compete on is freshness and specialty pricing - herbs, salad greens, and garlic all have retail markets where the premium over commodity pricing is significant, and where homegrown quality is genuinely superior to what most grocery stores stock.
+Corn and watermelon sit at the bottom for the same reason: grocery stores can produce these at massive scale efficiencies and sell them cheaply. You cannot compete with commodity crop economics in a backyard. What you can compete on is freshness and specialty pricing - herbs, salad greens, and garlic all have retail markets where fresh specialty pricing runs $8 to $22 per pound — and where homegrown quality is genuinely superior to what most grocery stores stock.
 
 The takeaway: a garden that saves real money is built around the top half of that table. A garden planted in corn and watermelon is an expensive way to produce cheap produce. See [Garlic ROI Analysis](/roi/garlic-roi-analysis/) for the detailed math on the highest-returning single crop on this list.
 
@@ -162,7 +162,7 @@ Gardening saves money reliably when these conditions are true:
 
 2. **You plant the right crops.** [Basil](/crops/basil/), [garlic](/crops/garlic/), salad greens, cherry tomatoes, and herbs return 3x to 20x more per square foot than corn, watermelon, or potatoes. The crop selection decision accounts for more of the ROI variance than any other factor.
 
-3. **You're in Zone 4 or warmer with at least 120 frost-free days.** Zone 3 gardeners can make it work, but the math is harder. A 90-day season limits total yield for long-maturing crops significantly.
+3. **You're in Zone 4 or warmer with at least 120 frost-free days.** Zone 3 gardeners can make it work, but the math is harder. A 90-day season means tomatoes and peppers may never reach peak production before frost cuts them down.
 
 4. **You start with quality soil.** This one is non-negotiable. The return on soil investment is higher than any other input in the garden.
 

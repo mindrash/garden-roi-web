@@ -25,7 +25,7 @@ Do the math:
 | Harvest value | $150 | $250 |
 | **Year 1 net** | **-$35** | **+$65** |
 
-Year 1 is likely net negative or barely break-even. The range is wide because skill level and crop selection matter from day one. A beginner who plants three tomato varieties and a sprawling zucchini will do significantly worse than one who fills every inch with herbs, lettuce, and a single staked indeterminate tomato.
+Year 1 is likely net negative or barely break-even. The range is wide because skill level and crop selection matter from day one. A beginner who plants three tomato varieties and a sprawling zucchini will likely end the season $50 to $100 further in the red than one who fills every inch with herbs, lettuce, and a single staked indeterminate tomato.
 
 ### What to plant in Year 1 for the best shot at positive ROI
 
@@ -90,7 +90,7 @@ The Year 1/2/3 numbers above are averages. What you plant determines whether you
 
 **Strategy A (herb-heavy)** gets to break-even fastest because greens and herbs produce within 30–60 days and have the highest $/sq ft return. The limitation: you can only use so many fresh herbs. If you don't cook with them aggressively, you overproduce and the harvest value is theoretical.
 
-**Strategy B (tomato-heavy)** has the slowest Year 1 payback because tomatoes take 60–80 days to first fruit and peppers take 70–90 days. In good conditions with a full season, the back half of summer delivers significant value. In a poor tomato year - late blight, drought stress, vine borers - this strategy can result in a significantly negative Year 1.
+**Strategy B (tomato-heavy)** has the slowest Year 1 payback because tomatoes take 60–80 days to first fruit and peppers take 70–90 days. In good conditions with a full season, the back half of summer delivers real harvest value. In a poor tomato year - late blight, drought stress, vine borers - this strategy can push the Year 1 loss past $100, stretching the cumulative break-even into Year 3.
 
 **Strategy C (mixed)** is the most resilient. Herbs and greens cover costs early while tomatoes and cucumbers build toward peak production. If any one crop fails, others carry the total. This is the recommended approach for Year 1 through Year 3 until you have enough data to know which crops reliably perform in your specific conditions.
 
