@@ -78,7 +78,7 @@ After year 1, seed cost drops to zero - save the smallest corms from each harves
 
 **Pest pressure:** very low. The aquatic environment excludes most soil-dwelling pests, and the sedge foliage is generally unpalatable to common garden insects. This is one of the practical advantages of aquatic crop culture.
 
-**Algae:** algae grow in the standing water and can become dense. This is normal and doesn't significantly harm the plants; the sedge stems shade the water over time and reduce algae. For cosmetic management, add aquatic barley straw pellets.
+**Algae:** algae grow in the standing water and can become dense. This is normal and doesn't harm the plants; the sedge stems shade the water over time and reduce algae. For cosmetic management, add aquatic barley straw pellets.
 
 **Mosquitoes:** standing water breeds mosquitoes. Apply Bti dunks (*Bacillus thuringiensis* var. *israelensis*) to the water monthly through the growing season. Bti is specific to mosquito and black fly larvae; it does not affect other organisms or the edibility of the crop.
 
@@ -108,7 +108,7 @@ Rinse corms under running water. The thin brown outer skin peels easily with a v
 
 **Fresh eating:** peel a fresh water chestnut and eat it like a piece of fruit. The sweetness and apple-adjacent flavor are most pronounced within hours of harvest. This experience has no canned equivalent.
 
-**Water chestnut cake (mah tai gou):** Cantonese steamed cake made from water chestnut flour, fresh water chestnut pieces, and sugar. Steamed in a pan, cooled, then pan-fried before serving. Sweet, slightly gelatinous, served at dim sum. Homegrown fresh water chestnuts in this recipe produce a meaningfully better result than canned.
+**Water chestnut cake (mah tai gou):** Cantonese steamed cake made from water chestnut flour, fresh water chestnut pieces, and sugar. Steamed in a pan, cooled, then pan-fried before serving. Sweet, slightly gelatinous, served at dim sum. Homegrown fresh water chestnuts in this recipe produce a better result than canned.
 
 **Hot and sour soup:** sliced water chestnuts added in the last 2 minutes. The crunch adds textural contrast to the soft tofu and mushrooms.
 

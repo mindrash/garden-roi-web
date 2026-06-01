@@ -56,13 +56,13 @@ The unselected Thai market types from specialty seed suppliers like Kitazawa See
 
 ## Growing requirements
 
-Thai basil is a tropical plant. It wants heat, full sun, and will not forgive frost. The cultural requirements are nearly identical to sweet basil, with a few meaningful differences.
+Thai basil is a tropical plant. It wants heat, full sun, and will not forgive frost. The cultural requirements are nearly identical to sweet basil, with a few real differences.
 
 Start seeds indoors 6 weeks before your last frost date. Germination at 70–75°F soil temperature takes 7–10 days. Do not direct sow; Thai basil started outdoors after soil warms will establish, but you lose four to six weeks of productive season. An indoor start gives you plants large enough to harvest within a few weeks of transplanting.
 
 Transplant after soil temperature reaches 60°F and nighttime lows are reliably above 50°F. Below 50°F at night, basil suffers chilling injury - the leaves don't blacken immediately, but cell damage accumulates and the plant never fully recovers its growth rate. UC Cooperative Extension's *Basil Production in California* (ANR Publication 7240) documents this threshold clearly, and it applies to Thai basil the same as sweet basil.
 
-Full sun means six or more hours of direct sun per day. Thai basil will survive partial shade but won't yield meaningfully. In partial shade you get lanky stems, reduced essential oil concentration, and a flavor that's noticeably flatter than sun-grown leaf. This is not a crop to tuck into a north-facing corner.
+Full sun means six or more hours of direct sun per day. Thai basil will survive partial shade but won't yield well. In partial shade you get lanky stems, reduced essential oil concentration, and a flavor that's noticeably flatter than sun-grown leaf. This is not a crop to tuck into a north-facing corner.
 
 Soil pH of 6.0–7.0 works well. Drainage is more important than fertility. Waterlogged roots invite fusarium wilt faster than any other disease pressure you'll encounter. If you're planting in-ground clay soil, work in two to three inches of compost before planting. Raised beds with mixed growing media drain reliably and are the better option if you've had fusarium problems in previous seasons.
 
@@ -84,7 +84,7 @@ Thai basil's role in Southeast Asian cooking is specific and not reducible to "a
 
 In Thai green and red curries, whole Thai basil leaves are added in the final minute of cooking - the heat wilts them slightly without destroying the flavor. Massaman curry, which has a more complex spice profile, uses Thai basil more sparingly. In Vietnamese pho, a plate of fresh Thai basil is served alongside for the diner to tear and add directly to the bowl. Larb (Lao/Thai minced meat salad) uses Thai basil as one of the primary fresh herb components.
 
-The flavor is robust enough to hold up to hot liquid and fat in a way that Italian basil cannot. This is why Thai basil is added to curries and pho, and sweet basil is not. The methyl chavicol-dominant profile persists briefly through heat exposure; linalool, the dominant compound in sweet basil, volatilizes faster and loses its character almost immediately when cooked.
+The flavor is strong enough to hold up to hot liquid and fat in a way that Italian basil cannot. This is why Thai basil is added to curries and pho, and sweet basil is not. The methyl chavicol-dominant profile persists briefly through heat exposure; linalool, the dominant compound in sweet basil, volatilizes faster and loses its character almost immediately when cooked.
 
 Do not substitute sweet basil in these preparations expecting similar results. The flavor chemistry difference is real and detectable.
 

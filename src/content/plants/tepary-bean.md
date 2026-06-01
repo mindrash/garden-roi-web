@@ -16,7 +16,7 @@ description: "Tepary Bean (Phaseolus acutifolius) - most drought-tolerant legume
 hero_image: /images/crops/tepary-bean.webp
 ---
 
-Tepary bean (*Phaseolus acutifolius*) is the most drought-tolerant domesticated legume in cultivation. Native to the Sonoran Desert and domesticated by the Tohono O'odham and related peoples of the American Southwest and Mexico, it produces meaningful yields in climates that receive 10-15 inches of annual rainfall - conditions where common beans (*P. vulgaris*) fail completely. If you garden in the arid or semi-arid West and you've been trying to grow standard beans with marginal results, tepary bean is the crop you should have been growing instead.
+Tepary bean (*Phaseolus acutifolius*) is the most drought-tolerant domesticated legume in cultivation. Native to the Sonoran Desert and domesticated by the Tohono O'odham and related peoples of the American Southwest and Mexico, it produces real yields in climates that receive 10-15 inches of annual rainfall - conditions where common beans (*P. vulgaris*) fail completely. If you garden in the arid or semi-arid West and you've been trying to grow standard beans with marginal results, tepary bean is the crop you should have been growing instead.
 
 The financial case is better than it looks on first glance. A $3.99 packet contains enough seed for a 30-foot row. A well-managed 10-foot row yields approximately 2 lb of dried beans. Heritage grain shops and Indigenous food sovereignty vendors sell named tepary varieties for $5-10/lb. A 10-foot row returning 2 lb at $7/lb average is $14 in value against roughly $1.33 in seed cost - a 10.5x return. The water savings are harder to monetize but real: tepary beans require a fraction of the irrigation that common beans demand, which matters if you're in a water-restricted region or on a well.
 
@@ -34,11 +34,11 @@ Tepary beans are short-day plants. They flower in response to decreasing day len
 
 The comparison with common beans is direct and worth stating clearly.
 
-Common beans (*P. vulgaris*) require approximately 1 inch of water per week during the growing season. During pod fill, water stress of even a few days causes pod abortion and significantly reduces yield. In practice, growing common beans in a semi-arid climate means consistent supplemental irrigation throughout the season - typically 10-15 inches of total applied water for a full crop. Source: University of California Cooperative Extension, *Water Use of Crops* (publication based on UC Davis research).
+Common beans (*P. vulgaris*) require approximately 1 inch of water per week during the growing season. During pod fill, water stress of even a few days causes pod abortion and reduces yield. In practice, growing common beans in a semi-arid climate means consistent supplemental irrigation throughout the season - typically 10-15 inches of total applied water for a full crop. Source: University of California Cooperative Extension, *Water Use of Crops* (publication based on UC Davis research).
 
 Tepary beans are a different situation entirely. Under semi-arid conditions receiving 10-15 inches of annual rainfall concentrated in a summer monsoon pattern, tepary beans produce without any supplemental irrigation in most years. In drier years, occasional irrigation at germination and pod fill is sufficient. Total seasonal water use is estimated at 6-10 inches in research plots at the University of Arizona, depending on rainfall received. Source: University of Arizona Cooperative Extension, traditional crop variety research documentation.
 
-That is not marginal drought tolerance. A crop that produces on 6-10 inches of total water where common beans need 15 inches or more is genuinely adapted to arid conditions - not merely surviving in them.
+That is not marginal drought tolerance. A crop that produces on 6-10 inches of total water where common beans need 15 inches or more is adapted to arid conditions - not merely surviving in them.
 
 The practical implications:
 

@@ -44,7 +44,7 @@ Both *Z. simulans* and *Z. bungeanum* are small deciduous trees or large shrubs 
 
 ## The ROI case
 
-Sichuan pepper takes 2-3 years to produce its first meaningful harvest. An established tree produces 0.5-2 lbs of dried husks per year depending on tree size and growing conditions.
+Sichuan pepper takes 2-3 years to produce its first real harvest. An established tree produces 0.5-2 lbs of dried husks per year depending on tree size and growing conditions.
 
 | Year | Yield (dried husks) | Value @$25/lb | Plant cost | Cumulative net |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ Sichuan pepper takes 2-3 years to produce its first meaningful harvest. An estab
 
 ## Growing requirements
 
-**Establishment:** plant container-grown trees in spring or fall. *Zanthoxylum* establishes slowly the first year and accelerates substantially once the root system is developed. Be patient - a tree that seems to be doing little in year one typically takes off in year two.
+**Establishment:** plant container-grown trees in spring or fall. *Zanthoxylum* establishes slowly the first year and accelerates once the root system is developed. Be patient - a tree that seems to be doing little in year one typically takes off in year two.
 
 **Soil:** highly adaptable; tolerates poor, dry soils well. The primary requirement is drainage - *Zanthoxylum* does not tolerate waterlogged roots. Sandy loam, amended clay, or raised beds all work. pH 5.5-7.5.
 
@@ -90,7 +90,7 @@ For dried Sichuan pepper: harvest clusters when husks turn red and begin splitti
 
 - **Mala sauce base (麻辣):** the "mala" (numbing-spicy) flavor profile that defines Sichuan cooking combines Sichuan pepper with dried chilies in oil. Toast and grind both; fry briefly in oil with garlic and ginger. This base goes into mapo tofu, dan dan noodles, water-boiled fish, and dozens of other Sichuan dishes.
 
-- **Five-spice powder:** Sichuan pepper is one of the five spices (alongside star anise, fennel seed, cloves, and cinnamon). Toast and grind; blend with the other spices. Home-ground five-spice with fresh Sichuan pepper is dramatically better than commercial pre-ground blends.
+- **Five-spice powder:** Sichuan pepper is one of the five spices (alongside star anise, fennel seed, cloves, and cinnamon). Toast and grind; blend with the other spices. Home-ground five-spice with fresh Sichuan pepper is far better than commercial pre-ground blends.
 
 - **Sichuan peppercorn oil:** whole Sichuan peppercorns infused in neutral oil (heat oil to 300°F, add peppercorns, remove from heat, steep 30 minutes, strain). Drizzled over cold dishes, noodles, and dumplings. Used in place of chili oil when you want the numbing quality without the heat.
 

@@ -104,7 +104,7 @@ This is the most practical starting method and is essentially free. One bunch fr
 
 **Oil infusion:** blend fresh leaves with neutral oil and freeze in ice cube trays. Adds rau răm character to cooked dishes when fresh isn't available. Works well for laksa and curry applications.
 
-The practical conclusion: grow it for fresh use, freeze surplus for cooked applications. Don't try to extend the fresh shelf life significantly through preservation.
+The practical conclusion: grow it for fresh use, freeze surplus for cooked applications. Don't try to extend the fresh shelf life through preservation.
 
 ## Kitchen Applications
 

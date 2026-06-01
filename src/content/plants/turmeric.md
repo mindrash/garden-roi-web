@@ -56,15 +56,15 @@ After year one, replant a portion of your harvest as the following year's starti
 
 One 10-gallon container with 2-3 turmeric starts yields enough fresh root for a household's annual use, plus surplus for gifting or drying.
 
-**The grocery-store starter math:** a 0.1-0.15 lb piece of store turmeric - about $0.80-1.50 at $8-10/lb for organic - can produce 0.75-1.5 lb of fresh rhizome by fall. At $10/lb average fresh specialty retail, that's $7.50-15.00 from a $1 investment. Organic grocery turmeric is significantly more reliable as a starter than conventional for the same reasons as ginger: conventional root is often treated to suppress sprouting. If organic isn't available locally, seed turmeric from tropical plant suppliers ($4-8 for 0.5 lb) is the more reliable option.
+**The grocery-store starter math:** a 0.1-0.15 lb piece of store turmeric - about $0.80-1.50 at $8-10/lb for organic - can produce 0.75-1.5 lb of fresh rhizome by fall. At $10/lb average fresh specialty retail, that's $7.50-15.00 from a $1 investment. Organic grocery turmeric is more reliable as a starter than conventional for the same reasons as ginger: conventional root is often treated to suppress sprouting. If organic isn't available locally, seed turmeric from tropical plant suppliers ($4-8 for 0.5 lb) is the more reliable option.
 
-**Fresh vs. dried value comparison:** fresh turmeric root sells for $8-14/lb. Dried, ground turmeric at specialty and natural food retailers runs $12-20 per ounce ($192-320/lb equivalent). Processing your own fresh harvest into dried powder at home captures a fraction of that value differential - home-ground dried turmeric won't command the same premium as a branded retail product, but the flavor and color quality of freshly processed root is substantially better than supermarket powder that may be 18-24 months old.
+**Fresh vs. dried value comparison:** fresh turmeric root sells for $8-14/lb. Dried, ground turmeric at specialty and natural food retailers runs $12-20 per ounce ($192-320/lb equivalent). Processing your own fresh harvest into dried powder at home captures a fraction of that value differential - home-ground dried turmeric won't command the same premium as a branded retail product, but the flavor and color quality of freshly processed root is better than supermarket powder that may be 18-24 months old.
 
 ## Growing requirements
 
 Turmeric's cultural requirements are nearly identical to ginger with a few differences worth noting.
 
-**Temperature:** Turmeric is slightly more cold-sensitive than ginger - emergence is slow if soil is below 65°F. The ideal soil temperature for planting is 70°F+. In zone 7, this means late May or early June in-ground, or April for containers that can be kept in a warm location. The plant itself tolerates air temperatures down to 50°F at night once established, but growth slows significantly.
+**Temperature:** Turmeric is slightly more cold-sensitive than ginger - emergence is slow if soil is below 65°F. The ideal soil temperature for planting is 70°F+. In zone 7, this means late May or early June in-ground, or April for containers that can be kept in a warm location. The plant itself tolerates air temperatures down to 50°F at night once established, but growth slows.
 
 **Light:** Partial shade is ideal - 4-6 hours of direct morning sun with filtered or indirect afternoon light. In zones 6-7 where summer heat is moderate, full sun is acceptable. In zones 8-9 with intense afternoon heat, afternoon shade prevents leaf scorch.
 

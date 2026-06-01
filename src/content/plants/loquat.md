@@ -41,7 +41,7 @@ Two type groups dominate home production:
 
 ## The ROI case
 
-Loquat takes 3-5 years from nursery planting to reach meaningful production. A mature tree in a good site is one of the most productive subtropical fruit trees per square foot.
+Loquat takes 3-5 years from nursery planting to reach real production. A mature tree in a good site is one of the most productive subtropical fruit trees per square foot.
 
 | Year | Yield | Value @$5/lb | Tree cost | Cumulative net |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ Loquat takes 3-5 years from nursery planting to reach meaningful production. A m
 
 **Climate:** loquat is evergreen and reliably cold-hardy to about 12°F (-11°C) for mature trees. Flowers and developing fruit are damaged at 26-28°F. Zone 8 trees will fruit in most years but lose the crop to late frost in cold winters. Zone 9-10 is the reliable production zone. In borderline zones, plant in a protected south-facing location or against a south-facing wall.
 
-**Size management:** left unpruned, loquat reaches 20-25 feet and becomes difficult to harvest. Annual pruning after harvest, removing 20-30% of the canopy, keeps trees at 8-12 feet and dramatically improves harvestability. Thinning fruit clusters to 3-4 fruits per cluster also increases individual fruit size.
+**Size management:** left unpruned, loquat reaches 20-25 feet and becomes difficult to harvest. Annual pruning after harvest, removing 20-30% of the canopy, keeps trees at 8-12 feet and improves harvestability. Thinning fruit clusters to 3-4 fruits per cluster also increases individual fruit size.
 
 **Fruit thinning:** loquat sets fruit in large clusters, often more than the branch can properly size. Thin to 4-6 fruits per cluster when fruits are marble-sized. This improves fruit size and reduces branch breakage under crop load.
 
@@ -79,7 +79,7 @@ Loquat takes 3-5 years from nursery planting to reach meaningful production. A m
 
 ## Harvest and use
 
-Loquats are ripe when fully colored (yellow to orange depending on variety), yield slightly to gentle pressure, and detach easily from the cluster. They don't ripen significantly after picking - pick fully ripe. Taste-test a fruit before harvesting the whole cluster.
+Loquats are ripe when fully colored (yellow to orange depending on variety), yield slightly to gentle pressure, and detach easily from the cluster. They don't ripen after picking - pick fully ripe. Taste-test a fruit before harvesting the whole cluster.
 
 Handle carefully - the skin bruises easily. Store at room temperature for up to 2 weeks; refrigeration extends this to 4-6 weeks but dulls flavor.
 

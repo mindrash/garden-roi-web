@@ -59,13 +59,13 @@ The financial ROI is modest. The real calculation includes three things the tabl
 
 **Soil:** tolerant of a wide range of soils; fixes atmospheric nitrogen through root nodules, so it thrives in lean soils where other vegetables would struggle. Avoid waterlogged conditions. No supplemental nitrogen needed.
 
-**Heat and drought:** genuinely heat-tolerant. Once established, it tolerates drought better than most vegetables. In deep summer heat, it continues flowering and producing when cool-season crops have failed.
+**Heat and drought:** heat-tolerant. Once established, it tolerates drought better than most vegetables. In deep summer heat, it continues flowering and producing when cool-season crops have failed.
 
 **Harvest timing for pods:** harvest young pods when they're 2-3 inches long and the seeds inside are barely visible as bumps. At this stage the whole pod is tender and the cyanogenic glucoside content is low. Don't let pods mature on the plant unless you're saving seed - overmature pods turn the remaining pods bitter and reduce continued production.
 
 ## What goes wrong
 
-**Slow establishment:** the first 3-4 weeks after germination, hyacinth bean grows slowly. This is normal. The plant is developing its root system before putting energy into above-ground growth. It accelerates substantially once roots are established.
+**Slow establishment:** the first 3-4 weeks after germination, hyacinth bean grows slowly. This is normal. The plant is developing its root system before putting energy into above-ground growth. It accelerates once roots are established.
 
 **Bean beetles and aphids:** Mexican bean beetle (*Epilachna varivestis*) and various aphid species attack hyacinth bean as they do other legumes. Hand-pick beetle adults and egg masses from leaf undersides; knock aphids off with water; insecticidal soap for heavy infestations.
 

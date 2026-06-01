@@ -52,7 +52,7 @@ The long season (180-200 days) and need for a warm start limit yield per calenda
 
 *Estimated from $3.49 packet or corm purchase; typically 4-6 corms available.
 
-**Perennial zones (8-11):** in warmer climates, taro clumps expand year over year. A 4-plant clump in its second and third year yields 25-40 lb with no seed cost, pushing net values substantially higher.
+**Perennial zones (8-11):** in warmer climates, taro clumps expand year over year. A 4-plant clump in its second and third year yields 25-40 lb with no seed cost, pushing net values higher.
 
 ## Growing requirements
 
@@ -64,7 +64,7 @@ The long season (180-200 days) and need for a warm start limit yield per calenda
 
 **Water:** 1.5-2 inches per week. More than most vegetables. Drip irrigation or in-ground soaker hoses work well; overhead irrigation is fine in zones where foliage drying occurs quickly.
 
-**Light:** tolerates partial shade better than most vegetable crops, which is genuinely useful for gardeners with limited full-sun space. In partial shade (4-6 hours), yields are lower but plants grow. Full sun (8+ hours) produces the best yields.
+**Light:** tolerates partial shade better than most vegetable crops, which is useful for gardeners with limited full-sun space. In partial shade (4-6 hours), yields are lower but plants grow. Full sun (8+ hours) produces the best yields.
 
 **Fertilizing:** heavy feeder. Nitrogen supports the large leaf growth; potassium supports corm development. Side-dress monthly with balanced fertilizer, shifting to higher-potassium formula once the plant is established.
 

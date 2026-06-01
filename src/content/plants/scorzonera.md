@@ -61,7 +61,7 @@ Scorzonera shares the requirements of parsnip and salsify almost exactly: deep l
 
 ## The two-year option
 
-Scorzonera is a perennial. Left in the ground after the first fall, the top growth dies back, the root overwinters, and the plant regrows in spring. The root that spent 18 to 20 months in the ground is substantially larger than a first-year harvest - the difference in root diameter and length is visible at a glance.
+Scorzonera is a perennial. Left in the ground after the first fall, the top growth dies back, the root overwinters, and the plant regrows in spring. The root that spent 18 to 20 months in the ground is larger than a first-year harvest - the difference in root diameter and length is visible at a glance.
 
 If you are planting for maximum root size, the two-year strategy is worth planning for from the start. In practice, this means:
 
@@ -94,7 +94,7 @@ The buds, harvested before they open, can be eaten like capers - pickled in vine
 
 If you want to let some plants flower fully, the flowers are edible raw in salads and visually striking. Allowing a few plants to go to seed gives you a seed supply for the following season - scorzonera seed from open-pollinated plants is viable, though purchasing fresh commercial seed remains the more reliable option for consistent germination rates.
 
-Harvesting flowers does not significantly damage the root if the plant is otherwise healthy and the flowering period is kept short. Where it goes wrong: plants allowed to flower and set seed extensively begin to show hollow centers in the root as the plant drains root reserves. Cut stalks early if root quality is the priority.
+Harvesting flowers does not damage the root if the plant is otherwise healthy and the flowering period is kept short. Where it goes wrong: plants allowed to flower and set seed extensively begin to show hollow centers in the root as the plant drains root reserves. Cut stalks early if root quality is the priority.
 
 ## What goes wrong
 
@@ -102,9 +102,9 @@ Harvesting flowers does not significantly damage the root if the plant is otherw
 
 **Poor germination** is almost always old seed. Fresh seed germinates at 70 to 80% under correct conditions. Seed from the prior season can drop below 30%. Buy new seed each year and check that the packet is dated for the current season.
 
-**Slugs** damage emerging seedlings in wet spring conditions. Scorzonera seedlings are thin and slow to establish; slug feeding on the cotyledons can thin a stand considerably. Iron phosphate bait (Sluggo) scattered around the row during wet weather is effective and not harmful to birds or mammals.
+**Slugs** damage emerging seedlings in wet spring conditions. Scorzonera seedlings are thin and slow to establish; slug feeding on the cotyledons can thin a stand. Iron phosphate bait (Sluggo) scattered around the row during wet weather is effective and not harmful to birds or mammals.
 
-**Rust** (*Puccinia scorzoneraea*) can appear as orange-brown pustules on leaves in wet, warm conditions. It's primarily an aesthetic problem and does not usually affect root quality unless the infection is severe enough to significantly reduce photosynthetic area. Remove heavily infected leaves. Improve air circulation.
+**Rust** (*Puccinia scorzoneraea*) can appear as orange-brown pustules on leaves in wet, warm conditions. It's primarily an aesthetic problem and does not usually affect root quality unless the infection is severe enough to reduce photosynthetic area. Remove heavily infected leaves. Improve air circulation.
 
 **Hollow roots** in second-year plantings result from flowering plants redirecting resources to seed production. Harvest before or remove flower stalks early if you want solid roots. A hollow center also appears in roots left in the ground past the third spring.
 

@@ -95,7 +95,7 @@ Sea kale's coastal origin tells you nearly everything you need to know about how
 
 **Hardiness:** Zone 4-9. In Zone 4 and 5, mulch the crown with 4-6 inches of straw or shredded leaves after the foliage dies back in fall to protect from hard freezes. Remove mulch in late winter before forcing begins.
 
-**Watering:** Moderate water during establishment in the first two years. Once the root system is deep and established, sea kale is genuinely drought-tolerant - a useful quality in a plant that will occupy the same spot for decades. Avoid overhead watering if possible; the large waxy leaves channel water toward the crown, and sitting moisture encourages rot at the soil surface.
+**Watering:** Moderate water during establishment in the first two years. Once the root system is deep and established, sea kale is drought-tolerant - a useful quality in a plant that will occupy the same spot for decades. Avoid overhead watering if possible; the large waxy leaves channel water toward the crown, and sitting moisture encourages rot at the soil surface.
 
 **Planting:** Sea kale can be started from seed (slow - adds a year compared to division or root cuttings) or from thong cuttings - pencil-thick root sections 3-5 inches long, planted horizontally 2-3 inches deep in early spring. Thong cuttings are the traditional propagation method and establish more reliably than seed. Plant in permanent position immediately; sea kale resents root disturbance once established.
 

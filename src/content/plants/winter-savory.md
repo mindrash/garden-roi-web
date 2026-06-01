@@ -45,7 +45,7 @@ The flavor distinction matters in cooking. Summer savory is the one to reach for
 
 ## The ROI Case
 
-Winter savory's perennial nature means the economics improve substantially each year. Year-one establishment from seed produces modest harvest while the plant roots itself in. By year 2-3, an established clump provides continuous fresh herb at zero additional cost.
+Winter savory's perennial nature means the economics improve each year. Year-one establishment from seed produces modest harvest while the plant roots itself in. By year 2-3, an established clump provides continuous fresh herb at zero additional cost.
 
 Fresh savory at specialty herb retailers and farmers markets runs $8-15/lb (specialty market retail pricing; USDA AMS does not maintain a regular price series for this herb). A $2.49 seed packet establishes plants that produce for years.
 
@@ -104,9 +104,9 @@ In zones 7-9, winter harvests are possible. The plant slows but doesn't stop; yo
 
 ## Preservation
 
-**Drying:** winter savory is one of the best herbs for drying. The resinous, fatty compounds that carry its flavor are more heat-stable than the water-soluble volatiles in herbs like parsley or basil. Cut full stems just before or at early bloom; bundle in small bunches; hang upside down in a warm (70-90°F), well-ventilated spot away from direct light for 1-2 weeks. Strip leaves from stems; store in an airtight container away from heat and light. Properly dried savory retains meaningful flavor for 12-18 months (compared to 3-6 months for basil).
+**Drying:** winter savory is one of the best herbs for drying. The resinous, fatty compounds that carry its flavor are more heat-stable than the water-soluble volatiles in herbs like parsley or basil. Cut full stems just before or at early bloom; bundle in small bunches; hang upside down in a warm (70-90°F), well-ventilated spot away from direct light for 1-2 weeks. Strip leaves from stems; store in an airtight container away from heat and light. Properly dried savory retains good flavor for 12-18 months (compared to 3-6 months for basil).
 
-**Fresh storage:** refrigerate wrapped stems in a damp paper towel, loosely covered, for 7-10 days. Winter savory holds up significantly better than soft herbs because of its leathery leaves.
+**Fresh storage:** refrigerate wrapped stems in a damp paper towel, loosely covered, for 7-10 days. Winter savory holds up better than soft herbs because of its leathery leaves.
 
 **Infused oil:** steep fresh savory sprigs in olive oil at room temperature for 5-7 days, or gently warm in oil at 120°F for 2 hours. Strain and refrigerate. Use within 2 weeks (fresh-herb-infused oils carry botulism risk if stored at room temperature; refrigerate always and use promptly).
 

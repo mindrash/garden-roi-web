@@ -18,7 +18,7 @@ hero_image: /images/crops/hops.webp
 description: "Hops (Humulus lupulus) - perennial climbing vine grown for bittering and aroma in homebrewing. $15-25/lb dried at homebrew shops; specialty varieties higher. Grows 15-25 feet per season. Harvest late summer. Zones 3-8."
 ---
 
-If you brew beer at home, hops are one of the clearest ROI crops in the garden. Dried hops at homebrew shops run $2-4 per ounce ($32-64/lb) for commodity varieties like Cascade and Centennial, and significantly more for specialty or experimental varieties. A single established hop rhizome produces 1-2 lbs of dried hops per year starting in year two. The vine costs $10-15 to start and nothing to maintain beyond watering and annual pruning.
+If you brew beer at home, hops are one of the clearest ROI crops in the garden. Dried hops at homebrew shops run $2-4 per ounce ($32-64/lb) for commodity varieties like Cascade and Centennial, and more for specialty or experimental varieties. A single established hop rhizome produces 1-2 lbs of dried hops per year starting in year two. The vine costs $10-15 to start and nothing to maintain beyond watering and annual pruning.
 
 Even if you don't brew, hops is one of the fastest-growing and most dramatic perennial vines available to a temperate gardener. It puts on 15-25 feet of growth per season, dies back to the crown each fall, and returns with the same vigor the following spring. As a screen, arbor cover, or trellis vine, it earns its space on ornamental grounds alone.
 
@@ -50,7 +50,7 @@ Year one produces little. Year two is where production begins. An established pl
 | 3 | 1 | 1.0-2.0 lb | $18-36 | - | $15.81-$42.81 |
 | 5 | 1 + divisions | 2.0-3.0 lb | $36-54 | - | $87.81-$150.81 |
 
-Specialty variety premium: Citra and Mosaic rhizomes that cost $15 produce cones that homebrew shops charge $4-6 per ounce. If you dry-hop with whole-cone specialty hops, the per-ounce replacement value can run $48-72/lb at retail. The specialty variety case is significantly stronger than commodity varieties.
+Specialty variety premium: Citra and Mosaic rhizomes that cost $15 produce cones that homebrew shops charge $4-6 per ounce. If you dry-hop with whole-cone specialty hops, the per-ounce replacement value can run $48-72/lb at retail. The specialty variety case is stronger than commodity varieties.
 
 **Hop shoots:** the emerging bines in early spring, before they reach 12 inches tall, are a luxury vegetable. Belgian markets sell fresh hop shoots for $15-20 per quarter pound ($60-80/lb) in spring. This is not hypothetical - the Flemish dish *jets de houblon* (hop shoots with egg) is a traditional spring delicacy. Pull the lateral shoots when they're 4-6 inches, steam briefly, serve with butter or in an omelette. A productive established plant produces dozens of removable lateral shoots without affecting the main vine crop.
 
@@ -72,7 +72,7 @@ Specialty variety premium: Citra and Mosaic rhizomes that cost $15 produce cones
 
 **Downy mildew** (*Pseudoperonospora humuli*): the most destructive disease of hops. Gray, downy growth on undersides of leaves; affected shoots turn black and die. Spreads in cool, wet spring conditions. Management: improve air circulation, avoid overhead irrigation, apply copper-based fungicides preventively. Resistant varieties are available ('Nugget', 'Tahoma').
 
-**Powdery mildew** (*Podosphaera macularis*): white powdery coating on leaves and cones. Less damaging than downy mildew but reduces cone quality significantly. Common in humid summers. Sulfur or potassium bicarbonate applications slow spread. Resistant varieties: 'Cascade', 'Centennial'.
+**Powdery mildew** (*Podosphaera macularis*): white powdery coating on leaves and cones. Less damaging than downy mildew but reduces cone quality. Common in humid summers. Sulfur or potassium bicarbonate applications slow spread. Resistant varieties: 'Cascade', 'Centennial'.
 
 **Hop aphids** (*Phorodon humuli*): infestations on growing tips and undersides of leaves. They excrete honeydew that leads to sooty mold on cones, ruining them for brewing. Insecticidal soap, spinosad, or pyrethrin applications. Natural predators (ladybugs, lacewings) provide significant control.
 

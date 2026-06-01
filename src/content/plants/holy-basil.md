@@ -34,7 +34,7 @@ One mature tulsi plant yields approximately 0.25 lb (4 oz) of fresh leaf per sea
 
 At fresh-leaf prices ($3–5/oz), the same plant's output is worth $12–$20 picked and sold fresh. Home growers who use tulsi regularly for tea can reasonably calculate $20–$35 per season in replaced purchases from a single plant, assuming they'd otherwise be buying packaged tulsi tea.
 
-The case for growing tulsi rather than buying it is stronger than the case for most herbs because fresh tulsi is genuinely difficult to source in standard grocery stores outside of Indian specialty markets. In most US cities, if you want fresh tulsi leaf, you either grow it or you don't have it. That scarcity is the home grower's structural advantage.
+The case for growing tulsi rather than buying it is stronger than the case for most herbs because fresh tulsi is difficult to source in standard grocery stores outside of Indian specialty markets. In most US cities, if you want fresh tulsi leaf, you either grow it or you don't have it. That scarcity is the home grower's structural advantage.
 
 ## Culinary use - distinct from sweet basil
 
@@ -42,13 +42,13 @@ Do not treat tulsi as a substitute for sweet basil. The eugenol content that mak
 
 Where tulsi works well in the kitchen: Indian curries and dal, where the clove-pepper note integrates with the spice profile rather than fighting it. Stir-fry applications, particularly with eggplant and ginger. Fresh in cold drinks - tulsi lemonade and tulsi-infused simple syrups are a legitimate culinary use that lets the flavor show without competing with other aromatics.
 
-The most practical culinary use for most US home growers is tea. Fresh tulsi tea - a handful of leaves steeped in hot water for five minutes - has a spicy, slightly sweet, clove-adjacent flavor that is pleasant on its own and blends well with ginger, honey, or lemon. This requires no processing, no drying, no special equipment. You pick leaves and steep them. The flavor of fresh-leaf tulsi tea is meaningfully better than the dried packaged version.
+The most practical culinary use for most US home growers is tea. Fresh tulsi tea - a handful of leaves steeped in hot water for five minutes - has a spicy, slightly sweet, clove-adjacent flavor that is pleasant on its own and blends well with ginger, honey, or lemon. This requires no processing, no drying, no special equipment. You pick leaves and steep them. The flavor of fresh-leaf tulsi tea is better than the dried packaged version.
 
 ## Growing profile compared to sweet basil
 
 Holy basil is more heat-tolerant and drought-tolerant than *Ocimum basilicum*. In a Zone 7 or Zone 8 summer where sweet basil wilts and bolts under 95°F full sun, tulsi continues producing and growing. This is not a marginal difference - it is the reason tulsi thrives in tropical cultivation while sweet basil struggles. If you've had trouble keeping sweet basil alive through a hot Southern summer, tulsi is the better choice.
 
-Start seeds indoors 6–8 weeks before last frost, same timing as sweet basil. Germination at 70–75°F soil temperature takes 7–14 days. Tulsi is slower to germinate than sweet basil and requires warmth - soil temperatures below 65°F significantly slow or prevent germination. Use a heat mat if you're starting in a cool space.
+Start seeds indoors 6–8 weeks before last frost, same timing as sweet basil. Germination at 70–75°F soil temperature takes 7–14 days. Tulsi is slower to germinate than sweet basil and requires warmth - soil temperatures below 65°F slow or prevent germination. Use a heat mat if you're starting in a cool space.
 
 Direct sowing is possible after soil temperatures reach 60°F, but indoor starts give you a longer season and more reliable establishment. Thin to one plant per 12–18 inches; tulsi gets bushy.
 

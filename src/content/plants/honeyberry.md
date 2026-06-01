@@ -18,7 +18,7 @@ hero_image: /images/crops/honeyberry.webp
 description: "Honeyberry / haskap (Lonicera caerulea) - the earliest-ripening edible berry. $8-15/lb. Zone 3-7. Blooms before last frost; cold-hardy to -40°F. First fruit in late April to May. Blueberry-raspberry flavor."
 ---
 
-Honeyberry ripens before anything else in the garden - in late April to May in Zone 6-7, weeks before the earliest strawberries. The flowers withstand frosts to 20°F, which is not a quirk but an adaptation: the plant evolved across the boreal zones of northern Japan, Russia, and Canada. In Zone 3-4, where reliable fresh fruit production is severely limited, honeyberry is one of the few viable options that produce meaningfully.
+Honeyberry ripens before anything else in the garden - in late April to May in Zone 6-7, weeks before the earliest strawberries. The flowers withstand frosts to 20°F, which is not a quirk but an adaptation: the plant evolved across the boreal zones of northern Japan, Russia, and Canada. In Zone 3-4, where reliable fresh fruit production is severely limited, honeyberry is one of the few viable options that produce reliably.
 
 The flavor is sometimes described as a blueberry-raspberry cross, with a tartness and wild-berry depth that commercial blueberries don't have. At the handful of specialty farms and markets that carry them, honeyberries sell for $8-15/lb. Most Americans have no access to them commercially - which is exactly why planting them makes sense.
 
@@ -60,7 +60,7 @@ Purchase verified compatible pairs from a reputable specialty nursery rather tha
 
 ## The ROI Case
 
-Honeyberry shrubs begin producing meaningfully in year 2-3 and reach full production by year 4-5. They're long-lived (30+ years) and increase production gradually.
+Honeyberry shrubs begin producing in year 2-3 and reach full production by year 4-5. They're long-lived (30+ years) and increase production gradually.
 
 Specialty market pricing: $8-15/lb where sold (specialty and farmers market retail; USDA AMS does not track this crop). Commercial availability is minimal; the crop is essentially unavailable to consumers in most US regions.
 

@@ -26,7 +26,7 @@ A mature feijoa shrub produces 15-30 lb of fruit annually in a climate it likes.
 
 *Acca sellowiana* (also classified as *Feijoa sellowiana* in older literature) is an evergreen shrub or small tree in the myrtle family (Myrtaceae), native to subtropical South America - specifically the highlands of southern Brazil, Uruguay, northern Argentina, and Colombia. It grows 10-15 feet as an unpruned shrub; it can be trained to a single-trunk small tree, maintained as a 6-8 foot hedge, or espalier-trained against a warm wall.
 
-The flowers appear in spring and are genuinely ornamental: 1-inch wide, with white petals and a dramatic spray of red stamens. The white petals are sweet and edible - drop them into a fruit salad or just eat them off the plant. They taste of tropical fruit with a faint rose note. Cross-pollination is done by bees drawn to the anthers; in low-bee gardens, hand-pollination with a small brush or shaking branches during bloom improves fruit set.
+The flowers appear in spring and are ornamental: 1-inch wide, with white petals and a dramatic spray of red stamens. The white petals are sweet and edible - drop them into a fruit salad or just eat them off the plant. They taste of tropical fruit with a faint rose note. Cross-pollination is done by bees drawn to the anthers; in low-bee gardens, hand-pollination with a small brush or shaking branches during bloom improves fruit set.
 
 **Cultivars for home gardens:**
 
@@ -67,7 +67,7 @@ A two-variety planting doubles the shrub cost but improves total yield, so net R
 
 **Zone 7b:** marginal but possible in sheltered microclimates. A south-facing wall exposure, urban heat island, or protected courtyard can push the effective zone one step warmer. The main risk isn't winter kill on an established plant - it's late spring frosts during the long fruit development window. Fruit that sets in spring can be killed by a late frost in April-May. Most Zone 7b attempts succeed some years and lose the fruit crop to frost other years; it's not a reliable production zone.
 
-**Zone 7a and colder:** not suitable for outdoor production. Feijoa can be grown in large containers (25-gallon minimum) moved indoors in winter, but the management overhead is high and yields are significantly reduced compared to in-ground Zone 8+ plantings.
+**Zone 7a and colder:** not suitable for outdoor production. Feijoa can be grown in large containers (25-gallon minimum) moved indoors in winter, but the management overhead is high and yields are reduced compared to in-ground Zone 8+ plantings.
 
 **Heat sensitivity:** feijoa tolerates heat but fruit quality is best in mild, maritime climates. The Pacific Coast of California and the Pacific Northwest in Zone 8-9 are ideal. Inland Zone 9 (Central Valley, interior Arizona) with sustained summer temperatures above 100°F produces lower-quality fruit and can cause sunscald on developing fruit. Afternoon shade or whitewashing the trunk reduces heat damage in hot inland sites.
 
@@ -117,13 +117,13 @@ At commercial scale in New Zealand, harvest is done by laying catch nets under t
 
 **Eating:** slice in half lengthwise and scoop out the flesh with a spoon. The skin is edible but slightly bitter and astringent in most varieties; most people scoop and discard the skin. The interior flesh is slightly grainy (like a ripe pear), aromatic, and sweet-tart.
 
-**The flowers:** the thick white petals of feijoa flowers are edible and genuinely good - sweet, with tropical fruit flavor. Pull individual petals off and eat them fresh off the plant during bloom. Don't spray during flowering if you plan to eat the petals or maintain pollinator activity.
+**The flowers:** the thick white petals of feijoa flowers are edible and good - sweet, with tropical fruit flavor. Pull individual petals off and eat them fresh off the plant during bloom. Don't spray during flowering if you plan to eat the petals or maintain pollinator activity.
 
 ## Preservation
 
 **Fresh:** 3-5 days at room temperature; up to 2 weeks refrigerated. Refrigerate promptly from a large daily drop - room-temperature feijoa ripens quickly and passes its peak in 3-4 days. The skin turns soft and slightly brown when overripe; the flesh becomes mealy rather than grainy. Refrigerating at 40°F extends the window but doesn't eliminate the urgency.
 
-**Frozen pulp:** the most practical method for large surpluses. Scoop the flesh from the skin, place in airtight containers or freezer bags, and freeze immediately. Frozen feijoa pulp keeps 10-12 months and retains flavor well for cooked applications - jam, crumble, smoothies, chutney, sauce. The texture softens after freezing, so it's not suitable for fresh-eating applications after thawing. The flavor, however, holds well because feijoa's aromatic compounds are robust enough to survive freezing (unlike delicate herbs that go flavorless).
+**Frozen pulp:** the most practical method for large surpluses. Scoop the flesh from the skin, place in airtight containers or freezer bags, and freeze immediately. Frozen feijoa pulp keeps 10-12 months and retains flavor well for cooked applications - jam, crumble, smoothies, chutney, sauce. The texture softens after freezing, so it's not suitable for fresh-eating applications after thawing. The flavor, however, holds well because feijoa's aromatic compounds are stable enough to survive freezing (unlike delicate herbs that go flavorless).
 
 Freeze in meal-sized portions (1-2 cups) for flexibility. Label with the date - feijoa pulp doesn't look descriptive frozen.
 

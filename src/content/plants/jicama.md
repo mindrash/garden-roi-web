@@ -40,7 +40,7 @@ The tuber at harvest can be anywhere from a softball to a football in size. At s
 
 ## The ROI case
 
-The financial case for jicama is strongest where it's genuinely hard to find. In areas with no Latin or Asian grocery access, paying $3-4/lb for a single tuber requires a special trip. For a gardener in the right climate, jicama is a low-maintenance producer that fills that gap.
+The financial case for jicama is strongest where it's hard to find. In areas with no Latin or Asian grocery access, paying $3-4/lb for a single tuber requires a special trip. For a gardener in the right climate, jicama is a low-maintenance producer that fills that gap.
 
 A single plant in good conditions produces 1-3 tubers totaling 2-5 lb. Three plants in a 6-foot section (the minimum useful planting) produce 6-15 lb of tubers in a season.
 

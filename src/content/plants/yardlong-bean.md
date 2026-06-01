@@ -67,11 +67,11 @@ The financial return is moderate, but the timing advantage is the real value. Ya
 
 ## Zone Fit
 
-**Zones 9-11:** yardlong beans are genuinely at home here. Long hot growing seasons allow multiple successive plantings. In frost-free regions, they can be grown as a cool-season crop in fall through early winter, avoiding the intense summer heat of southern Florida, Hawaii, or low-desert Southwest.
+**Zones 9-11:** yardlong beans are at home here. Long hot growing seasons allow multiple successive plantings. In frost-free regions, they can be grown as a cool-season crop in fall through early winter, avoiding the intense summer heat of southern Florida, Hawaii, or low-desert Southwest.
 
 **Zones 7-8:** the sweet spot. Full-season production from late April through October. One or two plantings provide beans through the core summer months. Start seeds as early as mid-April once soil is above 65°F.
 
-**Zones 5-6:** viable with timing. Plant after last frost when soil is genuinely warm - late May to early June. You'll get 8-10 weeks of productive harvest (July through September) before first fall frost ends the season. This is shorter than warmer zones but long enough to justify the space. Don't rush planting - cool soil produces poor germination and stunted early growth.
+**Zones 5-6:** viable with timing. Plant after last frost when soil is warm - late May to early June. You'll get 8-10 weeks of productive harvest (July through September) before first fall frost ends the season. This is shorter than warmer zones but long enough to justify the space. Don't rush planting - cool soil produces poor germination and stunted early growth.
 
 **Zone 4 and colder:** marginal. The short summer season may not provide enough heat accumulation for full production. If you try it, start seeds in late May under row cover to pre-warm the soil.
 

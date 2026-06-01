@@ -20,7 +20,7 @@ description: "Pecan trees yield 50-100+ lb per year at $7-14/lb in-shell. One tr
 
 Pecan is the only nut tree native to North America, and the math on a mature tree is hard to ignore. Retail in-shell pecans run $7-14/lb at grocery stores. Shelled pecans go for $12-20/lb. A tree in full production - somewhere between years 10 and 20 - yields 50-100 lbs of in-shell nuts per season. Run the numbers on a single $39.99 bare-root tree: at year 10, producing 40 lb at $8/lb, that's $320 per year from one tree. By year 20, a well-managed tree in good conditions will outproduce that estimate by a wide margin.
 
-The US produces roughly 300,000 acres of commercial pecans - Georgia, New Mexico, and Texas dominate. That commercial scale is one reason pecan nuts are widely available at retail prices that make home production genuinely competitive. You're not growing something obscure. You're growing the same crop the commercial orchards grow, in your own yard, for a fraction of the retail price. Source: USDA NASS, *Pecan Production*, 2022 Census of Agriculture.
+The US produces roughly 300,000 acres of commercial pecans - Georgia, New Mexico, and Texas dominate. That commercial scale is one reason pecan nuts are widely available at retail prices that make home production competitive. You're not growing something obscure. You're growing the same crop the commercial orchards grow, in your own yard, for a fraction of the retail price. Source: USDA NASS, *Pecan Production*, 2022 Census of Agriculture.
 
 That said: this is not a crop for impatient growers. The first several years of a pecan tree's life are about root and canopy establishment, not nut production. Understand the timeline before you plant.
 
@@ -34,7 +34,7 @@ Pecans are divided into two types based on when they shed pollen relative to fem
 
 **Type II (protogynous):** female flowers are receptive before pollen is shed on the same tree. Examples: 'Stuart', 'Elliott', 'Kanza'. A Type II tree is receptive to outside pollen first, then sheds its own pollen later.
 
-The practical implication: a single-variety planting will produce some nuts through wind drift from distant trees, but production is significantly higher - and more reliable year to year - when you plant one Type I and one Type II variety within 40-50 feet of each other. The two types' timing offsets complement each other perfectly. What one tree sheds, the other is ready to receive.
+The practical implication: a single-variety planting will produce some nuts through wind drift from distant trees, but production is higher - and more reliable year to year - when you plant one Type I and one Type II variety within 40-50 feet of each other. The two types' timing offsets complement each other perfectly. What one tree sheds, the other is ready to receive.
 
 Texas A&M AgriLife Extension pecan program maintains variety type classifications and cross-pollination recommendations at pecans.tamu.edu. Consult their variety selector before purchasing trees.
 
@@ -64,7 +64,7 @@ Five varieties cover most home grower situations in the US:
 | 'Wichita' | I | Texas | 6-9 | High yield, slightly smaller nut, strong heat tolerance; popular in west Texas and New Mexico |
 | 'Stuart' | II | Southeast | 6-9 | Heirloom variety; widely available; good cold hardiness; large nut; susceptible to scab in the East |
 | 'Elliott' | II | Southeast | 7-9 | Scab-resistant; the most important variety for humid climates east of the Mississippi; smaller nut but reliable production without a spray program |
-| 'Kanza' | II | USDA ARS | 5-6 | Released by USDA ARS for northern growers; lower yield ceiling than southern varieties but genuinely cold-hardy; best option for zones 5-6 |
+| 'Kanza' | II | USDA ARS | 5-6 | Released by USDA ARS for northern growers; lower yield ceiling than southern varieties but cold-hardy; best option for zones 5-6 |
 
 Source for 'Kanza' release: USDA ARS, *Kanza Pecan*, Agricultural Research Service release documentation, ars.usda.gov.
 
@@ -76,7 +76,7 @@ If you're east of the Mississippi in zones 6-9, pecan scab (*Venturia effusa*, f
 
 Scab is a fungal pathogen that causes black lesions on developing nuts and leaves during warm, humid conditions. In a bad scab year, an unprotected orchard of susceptible varieties in the Southeast can lose 50-100% of its crop. That's not an exaggeration - commercial pecan growers in Georgia manage scab with 6-10 fungicide applications per season. A home grower without a spray program on a susceptible variety in a wet year should expect significant crop loss.
 
-The practical solution is variety resistance. 'Elliott', 'Kanza', 'Caddo', and 'Creek' carry meaningful scab resistance. If you're growing east of the Mississippi in a humid climate, these are your default choices. Don't plant 'Desirable' or 'Stuart' without understanding that scab management is part of the commitment.
+The practical solution is variety resistance. 'Elliott', 'Kanza', 'Caddo', and 'Creek' carry real scab resistance. If you're growing east of the Mississippi in a humid climate, these are your default choices. Don't plant 'Desirable' or 'Stuart' without understanding that scab management is part of the commitment.
 
 In drier climates - New Mexico, Arizona, west Texas - scab pressure is minimal. The same varieties that require spray programs in Georgia grow clean and unsprayed in the Pecos Valley. Geography changes what you need to worry about.
 
@@ -124,7 +124,7 @@ Harvest promptly from the ground. In-shell pecans left on wet soil absorb moistu
 
 **Hickory shuckworm** (*Cydia caryana*) larvae tunnel through the outer shuck of developing nuts, interfering with nut fill. In heavy infestations, shucks stick to the shell after husk split, a symptom called "sticktight." Primarily a commercial production problem; light infestations on home plantings don't usually cause total crop failure, but heavy pressure in susceptible seasons can reduce yield.
 
-**Fall webworm** (*Hyphantria cunea*) produces silken nests on branch tips in late summer. Primarily cosmetic on mature trees - defoliation of individual branches doesn't significantly affect overall tree health. Remove nests by hand on young trees where full canopy is important for establishment.
+**Fall webworm** (*Hyphantria cunea*) produces silken nests on branch tips in late summer. Primarily cosmetic on mature trees - defoliation of individual branches doesn't affect overall tree health. Remove nests by hand on young trees where full canopy is important for establishment.
 
 ---
 

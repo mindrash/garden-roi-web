@@ -16,7 +16,7 @@ description: "Mashua (Tropaeolum tuberosum) - Andean climbing tuber. Related to 
 hero_image: /images/crops/mashua.webp
 ---
 
-Mashua is a climbing vine that produces edible tubers, edible leaves, and edible flowers, repels certain insects and nematodes by volatilizing compounds into the surrounding air, and looks genuinely beautiful on a trellis from mid-summer through frost. It is also almost completely unknown in the United States outside of Andean immigrant communities and a small community of specialty crop growers. That combination - real utility plus obscurity - is exactly why it fetches $8-15/lb when someone actually has it to sell.
+Mashua is a climbing vine that produces edible tubers, edible leaves, and edible flowers, repels certain insects and nematodes by volatilizing compounds into the surrounding air, and looks beautiful on a trellis from mid-summer through frost. It is also almost completely unknown in the United States outside of Andean immigrant communities and a small community of specialty crop growers. That combination - real utility plus obscurity - is exactly why it fetches $8-15/lb when someone actually has it to sell.
 
 The flavor catches people off guard. Raw mashua tastes sharp, peppery, and slightly bitter in a way that reads almost medicinal. Cooked mashua tastes mild and starchy with a hint of sweetness. These are not variations on the same theme - they are entirely different eating experiences produced by the same root. Understanding why makes you a better cook and a better grower.
 
@@ -48,7 +48,7 @@ The ornamental case is real. Mashua on a trellis or fence produces months of viv
 
 **Season:** mashua needs 180-220 frost-free days for a full tuber harvest. This is a genuine constraint in zones 5-6, where the frost-free window runs roughly 150-170 days. Row cover in fall extends the season 2-3 weeks - and those weeks matter, because tubers bulk heavily in September and October as days shorten. In zones 7-9, timing is less critical and yields are generally higher.
 
-**Starting:** plant tubers outdoors after last frost, 4-6 inches deep, 12-18 inches apart. Mashua does not benefit meaningfully from indoor starting - the tubers prefer to establish in cool spring soil rather than a warm indoor container. In zone 5, plant as early as the soil is workable and the threat of hard frost has passed.
+**Starting:** plant tubers outdoors after last frost, 4-6 inches deep, 12-18 inches apart. Mashua does not benefit from indoor starting - the tubers prefer to establish in cool spring soil rather than a warm indoor container. In zone 5, plant as early as the soil is workable and the threat of hard frost has passed.
 
 **Support:** provide a trellis, fence, or wire frame. The vine climbs by twining and reaches 6-8 feet. Without support it sprawls horizontally and produces a tangled, difficult-to-manage ground cover. On a vertical structure it is clean, dense, and beautiful. A simple cattle panel arch or 6-foot wooden trellis handles it well.
 

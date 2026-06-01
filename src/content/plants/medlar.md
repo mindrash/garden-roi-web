@@ -37,13 +37,13 @@ The fruit is distinctive and unlike any other commercially available fruit: 1-2 
 | Royal | Netherlands | Large (1.5-2 in) | Rich, sweet, complex | Most widely grown; excellent fresh bletting flavor |
 | Nottingham | UK | Medium (1-1.5 in) | Sweet, aromatic | More upright tree; reliable producer; good jelly maker |
 | Dutch | Netherlands | Large (1.5-2 in) | Good, slightly tart | Productive; fruit holds well during bletting; good for preserves |
-| Large Russian | Russia | Large | Good, robust | Adapted to continental climates; strong cold hardiness |
+| Large Russian | Russia | Large | Good, full-bodied | Adapted to continental climates; strong cold hardiness |
 
 All are self-fertile - one tree produces a full crop without a cross-pollinator. 'Royal' is the most widely recommended for fresh eating; 'Nottingham' for preservation and jelly making. 'Dutch' is a reliable all-purpose choice where both uses are intended.
 
 ## The ROI Case
 
-Medlar is a long-investment, long-payoff crop. Expect no fruit in years 1-3 and modest harvests in years 4-5. By year 7-10, a well-sited tree should produce 20-35 lb annually and continue doing so for decades. Medlar trees are genuinely long-lived - 50-100+ year productive lifespans are documented.
+Medlar is a long-investment, long-payoff crop. Expect no fruit in years 1-3 and modest harvests in years 4-5. By year 7-10, a well-sited tree should produce 20-35 lb annually and continue doing so for decades. Medlar trees are long-lived - 50-100+ year productive lifespans are documented.
 
 Specialty market pricing: $6-12/lb where available (specialty market and artisanal produce retail; USDA AMS does not maintain a price series for this crop). Commercial availability in the US is nearly zero; bletted fresh medlar is simply not sold at retail scale.
 

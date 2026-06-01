@@ -45,7 +45,7 @@ For most of the eastern US, red mulberry or a red x white hybrid ('Illinois Ever
 
 Mulberry's economics are exceptional over any time horizon longer than 5 years. The initial tree cost is the only significant input; maintenance costs are minimal.
 
-A standard mulberry tree reaches meaningful production in year 3-4 and full production (30-60 lb/year for a medium tree) by year 5-6. Large, old trees produce 80-100 lb in a good year.
+A standard mulberry tree reaches real production in year 3-4 and full production (30-60 lb/year for a medium tree) by year 5-6. Large, old trees produce 80-100 lb in a good year.
 
 | Year | Input | Yield (lb) | Value @$10/lb | Cumulative net |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ Mulberry is one of the most adaptable fruit trees in North American horticulture
 
 Mulberries don't all ripen at once - the season runs 3-6 weeks depending on variety and climate. Red mulberry ripens in June-July in most of its range; Illinois Everbearing ripens over a longer period, true to its name.
 
-The standard harvest method: spread a tarp or old sheet under the tree and shake the branches. Ripe fruit falls; unripe fruit stays. Collect, sort, use immediately or freeze. Repeat every few days through the season. This is dramatically more efficient than picking individual berries.
+The standard harvest method: spread a tarp or old sheet under the tree and shake the branches. Ripe fruit falls; unripe fruit stays. Collect, sort, use immediately or freeze. Repeat every few days through the season. This is far more efficient than picking individual berries.
 
 **Using fresh:** mulberries are sweet enough to eat straight, and the flavor is best within 24 hours of picking. They work well on cereal, yogurt, and in any application where you'd use blackberries. The flavor is distinctly its own - sweeter than blackberry, less aromatic than raspberry, more complex than blueberry.
 
@@ -104,7 +104,7 @@ The standard harvest method: spread a tarp or old sheet under the tree and shake
 
 **Mulberry wine and vinegar:** the juice ferments readily; mulberry wine is made throughout the Middle East and Central Asia and is straightforward to produce at home. Mulberry vinegar (ferment the wine further to acetic acid, or simply steep berries in white wine vinegar) is a useful condiment.
 
-**Drying:** mulberries dry well in a dehydrator at 135°F for 12-16 hours into a raisin-like product with concentrated flavor. Dried mulberries retail at $10-15/lb; a productive season's surplus processed into dried form is genuinely valuable.
+**Drying:** mulberries dry well in a dehydrator at 135°F for 12-16 hours into a raisin-like product with concentrated flavor. Dried mulberries retail at $10-15/lb; a productive season's surplus processed into dried form is valuable.
 
 ---
 

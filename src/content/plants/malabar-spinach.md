@@ -38,7 +38,7 @@ The two types are distinct enough that choosing between them matters:
 | Ornamental value | Moderate | High |
 | Culinary preference | Primary food variety | Equally edible |
 
-Both grow at identical rates and have the same heat requirement. The red-stemmed type is popular for ornamental kitchen gardens because the color holds into late season. For pure production, the green type is more widely available as seed and has a slightly larger leaf. Neither is dramatically superior in yield; grow whichever is available.
+Both grow at identical rates and have the same heat requirement. The red-stemmed type is popular for ornamental kitchen gardens because the color holds into late season. For pure production, the green type is more widely available as seed and has a slightly larger leaf. Neither is notably superior in yield; grow whichever is available.
 
 The leaves are 2-4 inches across, oval to heart-shaped, thick and slightly succulent. The texture when cooked is slippery - a mucilaginous quality from polysaccharide compounds similar to what you get from okra. This is not a defect to manage around. In South Indian cooking the mucilage thickens curries naturally. In soups it adds body. Once you understand that this is the point, you stop trying to cook it like regular spinach.
 
@@ -61,9 +61,9 @@ The real value proposition is that nothing else fills the summer cooked-greens g
 
 ## Zone Fit
 
-**Zones 8-10:** Malabar spinach genuinely thrives here. Long warm seasons mean it can be transplanted in April and harvested until November. In frost-free zones (9b-10), it will overwinter and re-grow in spring from the root crown. Treat it as a perennial fixture.
+**Zones 8-10:** Malabar spinach thrives here. Long warm seasons mean it can be transplanted in April and harvested until November. In frost-free zones (9b-10), it will overwinter and re-grow in spring from the root crown. Treat it as a perennial fixture.
 
-**Zones 6-7:** Productive but requires planning. Start indoors 4-5 weeks before last frost. Transplant after last frost to a south-facing, sheltered site - ideally against a wall that stores heat. The vines won't grow aggressively until July when soil and air are genuinely warm. You'll get productive harvesting from mid-July through late September: 8-10 weeks instead of the 14-16 weeks a Zone 8 grower sees. Still worth it if you have the trellis space.
+**Zones 6-7:** Productive but requires planning. Start indoors 4-5 weeks before last frost. Transplant after last frost to a south-facing, sheltered site - ideally against a wall that stores heat. The vines won't grow aggressively until July when soil and air are warm. You'll get productive harvesting from mid-July through late September: 8-10 weeks instead of the 14-16 weeks a Zone 8 grower sees. Still worth it if you have the trellis space.
 
 **Zone 5 and colder:** Marginal. The vine needs 70-85 days to reach peak production, and if nighttime temperatures drop below 50°F regularly, growth is erratic. You can try it - start indoors early, use row cover to extend the season - but New Zealand spinach handles Zone 5 summers more reliably.
 

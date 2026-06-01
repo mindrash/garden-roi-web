@@ -18,7 +18,7 @@ hero_image: /images/crops/epazote.webp
 description: "Epazote (Dysphania ambrosioides) - essential herb in Mexican and Central American cooking. $6-10/lb at Latin markets. Almost unavailable dried (flavor degrades). Easy annual; self-seeds aggressively. Key ingredient in black beans, tamales, quesadillas."
 ---
 
-Epazote is one of those herbs with no useful substitute. In Mexican cooking it goes into black beans, tamales, quesadillas with mushrooms, and numerous regional preparations where its distinctly pungent, herbal-turpentine character does something that no other herb replicates. At Latin American markets it's $4-8/lb for fresh bunches when available, and frequently it isn't available - supply is inconsistent outside of regions with large Mexican immigrant populations. In dried form, it's barely worth using. The volatile compounds that make epazote distinctive degrade significantly with drying; what you get from a jar of dried epazote is a pale impression of the real thing.
+Epazote is one of those herbs with no useful substitute. In Mexican cooking it goes into black beans, tamales, quesadillas with mushrooms, and numerous regional preparations where its distinctly pungent, herbal-turpentine character does something that no other herb replicates. At Latin American markets it's $4-8/lb for fresh bunches when available, and frequently it isn't available - supply is inconsistent outside of regions with large Mexican immigrant populations. In dried form, it's barely worth using. The volatile compounds that make epazote distinctive degrade with drying; what you get from a jar of dried epazote is a pale impression of the real thing.
 
 The plant grows easily from seed, tolerates heat and drought, and self-seeds so aggressively in warm climates that one planting typically becomes permanent. For a household that cooks Mexican food regularly, growing epazote is less an economic decision and more a quality-of-life one. You either have fresh epazote when you need it, or you don't have it at all.
 
@@ -85,7 +85,7 @@ The practical note: use 2-3 sprigs per pot of beans, not a fistful. This is both
 
 **Fresh:** refrigerate wrapped in a damp paper towel, loosely covered, for 3-5 days. Flavor fades noticeably after 48 hours. Use as fresh as possible.
 
-**Dried:** drying causes significant loss of volatile compounds - the aroma and flavor are substantially diminished compared to fresh. If you must dry it, hang small bunches in a warm, well-ventilated spot away from direct light for 1-2 weeks. Store in an airtight container. The dried herb is adequate for long-simmered dishes like beans where the residual flavor compounds can still contribute something; it's inadequate for preparations where the fresh herb character should be prominent.
+**Dried:** drying causes significant loss of volatile compounds - the aroma and flavor are diminished compared to fresh. If you must dry it, hang small bunches in a warm, well-ventilated spot away from direct light for 1-2 weeks. Store in an airtight container. The dried herb is adequate for long-simmered dishes like beans where the residual flavor compounds can still contribute something; it's inadequate for preparations where the fresh herb character should be prominent.
 
 **Frozen:** freezing preserves flavor better than drying. Blanch briefly (30 seconds), pat dry, and freeze in small portions. The texture becomes soft after freezing - not usable as a fresh herb garnish - but perfectly adequate for adding to beans, soups, or stews during cooking.
 

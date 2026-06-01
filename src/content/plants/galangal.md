@@ -41,7 +41,7 @@ The rhizome of greater galangal is pale, pinkish-beige outside and white inside,
 
 ## The ROI Case
 
-Fresh galangal is commercially unavailable in most US markets, which makes home production genuinely valuable to Southeast Asian home cooks.
+Fresh galangal is commercially unavailable in most US markets, which makes home production valuable to Southeast Asian home cooks.
 
 Fresh galangal at Asian specialty markets: $6-12/lb when available (specialty market retail pricing; USDA AMS does not maintain a regular price series for this crop). Dried galangal powder runs $15-25/lb. The multiplication characteristic of rhizome crops means planting cost becomes self-sustaining: each planted rhizome produces multiple new rhizomes; after the first harvest, next year's planting stock comes from the garden.
 
@@ -86,13 +86,13 @@ In Zones 5-8: start rhizomes indoors 8 weeks before last frost date, in 4-inch p
 
 **Year 1 full harvest:** at end of season (when leaves yellow and die back in fall, or before first frost), dig the full clump. First-year rhizomes are usable but smaller than they'll be in subsequent seasons.
 
-**Year 2 and beyond (larger rhizomes):** in perennial plantings, leaving the clump undisturbed through a second season produces significantly larger, more developed rhizomes. The characteristic dense, starchy texture of mature galangal develops more fully in second-year rhizomes. Large mature rhizomes also dry more successfully for powder production.
+**Year 2 and beyond (larger rhizomes):** in perennial plantings, leaving the clump undisturbed through a second season produces larger, more developed rhizomes. The characteristic dense, starchy texture of mature galangal develops more fully in second-year rhizomes. Large mature rhizomes also dry more successfully for powder production.
 
 **Harvest technique:** dig with a fork, working around the edge of the clump first, then lifting from underneath. The rhizome network is dense; be patient to avoid snapping rhizomes. Reserve the youngest, pinkest tip sections for replanting; harvest the larger mature rhizomes.
 
 ## What Goes Wrong
 
-**Rhizome rot:** overwatering combined with poor drainage or cold soil. Galangal roots in wet cold soil rot from the cut ends inward. Ensure excellent drainage; reduce watering significantly in cool weather below 60°F.
+**Rhizome rot:** overwatering combined with poor drainage or cold soil. Galangal roots in wet cold soil rot from the cut ends inward. Ensure excellent drainage; reduce watering in cool weather below 60°F.
 
 **Stunted development in short seasons:** the rhizomes need 180-240 days to develop fully. Zone 5-6 growers working with an 8-week indoor start and first fall frost in October have a narrow window. Row cover in fall extends the season 2-3 weeks. Harvest whatever develops before hard frost.
 
@@ -104,7 +104,7 @@ In Zones 5-8: start rhizomes indoors 8 weeks before last frost date, in 4-inch p
 
 **Frozen:** freeze unpeeled galangal whole or in large chunks. Wrap in plastic and freeze; will keep 3-4 months with good flavor retention. Frozen galangal is firmer than fresh when frozen, making it easier to slice. Grate frozen galangal directly into dishes without thawing. This is the most practical home preservation method for fresh flavor.
 
-**Dried powder:** slice galangal thinly (1/8 inch) and dry in a food dehydrator at 95-115°F for 8-12 hours until completely dry and brittle. Grind in a spice grinder. Drying significantly reduces volatile oil compounds - particularly 1,8-cineole, which is responsible for much of the piney, sharp quality (Pino et al., *Flavour and Fragrance Journal*, 2003). Dried powder is usable in long-simmered dishes where a general galangal presence is wanted, but it's a substantially weaker product than fresh or frozen. If you have an excess harvest and need to preserve some, freeze first; dry what you can't freeze.
+**Dried powder:** slice galangal thinly (1/8 inch) and dry in a food dehydrator at 95-115°F for 8-12 hours until completely dry and brittle. Grind in a spice grinder. Drying reduces volatile oil compounds - particularly 1,8-cineole, which is responsible for much of the piney, sharp quality (Pino et al., *Flavour and Fragrance Journal*, 2003). Dried powder is usable in long-simmered dishes where a general galangal presence is wanted, but it's a weaker product than fresh or frozen. If you have an excess harvest and need to preserve some, freeze first; dry what you can't freeze.
 
 ## Kitchen Applications
 

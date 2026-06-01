@@ -26,7 +26,7 @@ Fresh lemon verbena at specialty grocers and herb retailers runs $10-14/lb. Good
 
 *Aloysia citrodora* (syn. *Lippia citriodora*) is a woody shrub in the verbena family (Verbenaceae) native to South America - Argentina and Chile primarily. In its native climate, it reaches 6-10 feet tall and lives indefinitely. In zone 7 and colder, it's either a container plant or a sacrificial annual.
 
-The lemon scent is primarily citral, which breaks down to geranial and neral, collectively responsible for the lemon character. Citral content in fresh lemon verbena leaves is substantially higher than in lemon peel - the plant registers as hyperbolically lemon-scented to the nose. This makes it one of the most effective lemon-flavored herbs, outperforming lemon balm (*Melissa officinalis*), lemon thyme, and lemon basil for intensity and cleanliness of flavor.
+The lemon scent is primarily citral, which breaks down to geranial and neral, collectively responsible for the lemon character. Citral content in fresh lemon verbena leaves is higher than in lemon peel - the plant registers as hyperbolically lemon-scented to the nose. This makes it one of the most effective lemon-flavored herbs, outperforming lemon balm (*Melissa officinalis*), lemon thyme, and lemon basil for intensity and cleanliness of flavor.
 
 Lemon verbena doesn't look like much - narrow, lanceolate leaves on somewhat sparse, woody branches. It's not ornamental in the way that lavender or basil is. The value is entirely in the leaves.
 

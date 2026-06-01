@@ -34,7 +34,7 @@ The genus *Amelanchier* contains several species sold under overlapping common n
 
 - ***A. × grandiflora*** (apple serviceberry): hybrid of *A. arborea × A. laevis*; upright small tree form; good combined ornamental and edible value.
 
-For a garden planted specifically for fruit production, start with *A. alnifolia* cultivars. They have meaningfully larger, better-flavored fruit than the common wild-type eastern species, and the shrub form is manageable.
+For a garden planted specifically for fruit production, start with *A. alnifolia* cultivars. They have larger, better-flavored fruit than the common wild-type eastern species, and the shrub form is manageable.
 
 **Key cultivars for edible production:**
 

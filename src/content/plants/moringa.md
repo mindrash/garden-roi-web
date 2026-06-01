@@ -26,7 +26,7 @@ In zones 9-11, moringa grows as a fast-growing perennial tree reaching 15-30 fee
 
 *Moringa oleifera* is a tree in the monogeneric family Moringaceae, native to northwestern India. It grows remarkably fast - 15-20 feet in the first year in tropical conditions - and tolerates drought, poor soil, and heat that would devastate most trees. It has been used as a food and medicine across South Asia, East Africa, Southeast Asia, and the Caribbean for thousands of years.
 
-The nutritional profile of moringa leaves is genuinely unusual. Per 100g fresh weight, moringa leaves contain approximately 9g protein (higher than most vegetables), 2mg iron, 185mg calcium, and significant quantities of vitamins A, C, and B vitamins (Gopalakrishnan et al., *Journal of Medicinal Plants Studies*, 2016). Dried leaves concentrate these values further.
+The nutritional profile of moringa leaves is unusual. Per 100g fresh weight, moringa leaves contain approximately 9g protein (higher than most vegetables), 2mg iron, 185mg calcium, and significant quantities of vitamins A, C, and B vitamins (Gopalakrishnan et al., *Journal of Medicinal Plants Studies*, 2016). Dried leaves concentrate these values further.
 
 **Edible parts:**
 
@@ -66,7 +66,7 @@ For zone 9-11 gardeners, a mature moringa tree producing both fresh leaves and d
 
 **Growing from cuttings (the faster path):** moringa grows easily from stem cuttings, and this method skips the slow juvenile phase of seed-started trees. Take hardwood cuttings 18-36 inches long and at least 1 inch in diameter from established plants. Plant directly in well-drained soil, burying 4-6 inches. Cuttings root readily in warm, moist conditions and can produce a harvestable size tree in the first season - faster than seed-started plants by 2-4 months. The limitation is access: you need a friend with an established moringa or a nursery that sells cuttings. In zones 9-11, cuttings taken in late winter root quickly as temperatures rise.
 
-**Pruning and coppicing (the cut-and-come-again shrub model):** left unmanaged, moringa is a tree - eventually 15-30 feet tall with leaves accessible only to a ladder. The alternative is treating it as a coppiced shrub. Cut the main trunk to 2-4 feet above ground each late winter. The tree responds by sending out multiple lateral branches - 6-12 vigorous new shoots from the cut stump. Each shoot grows rapidly and produces leaves at a harvestable height for the entire season. This coppice model keeps a moringa at 6-8 feet maximum height, dramatically increases total leaf surface area per plant, and converts a tree into a manageable continuous-harvest shrub. The productivity is higher than allowing the tree to grow unpruned - more light reaches more leaves, and the fresh growth is more tender. In zones 9-11, coppice in late winter before spring growth begins; in container culture, heavy pruning before bringing indoors for winter accomplishes the same reset.
+**Pruning and coppicing (the cut-and-come-again shrub model):** left unmanaged, moringa is a tree - eventually 15-30 feet tall with leaves accessible only to a ladder. The alternative is treating it as a coppiced shrub. Cut the main trunk to 2-4 feet above ground each late winter. The tree responds by sending out multiple lateral branches - 6-12 vigorous new shoots from the cut stump. Each shoot grows rapidly and produces leaves at a harvestable height for the entire season. This coppice model keeps a moringa at 6-8 feet maximum height, increases total leaf surface area per plant, and converts a tree into a manageable continuous-harvest shrub. The productivity is higher than allowing the tree to grow unpruned - more light reaches more leaves, and the fresh growth is more tender. In zones 9-11, coppice in late winter before spring growth begins; in container culture, heavy pruning before bringing indoors for winter accomplishes the same reset.
 
 ## What goes wrong
 
@@ -76,7 +76,7 @@ For zone 9-11 gardeners, a mature moringa tree producing both fresh leaves and d
 
 **Spider mites** on leaves in hot, dry conditions. Increase humidity around the plant; insecticidal soap.
 
-**Slow growth in cool conditions:** moringa doesn't grow aggressively below 70°F. In a cool summer, growth slows dramatically. Wait for genuine heat.
+**Slow growth in cool conditions:** moringa doesn't grow aggressively below 70°F. In a cool summer, growth slows. Wait for genuine heat.
 
 **Container culture challenges:** moringa develops a thick taproot quickly. A container that is too small limits growth severely. Use the largest feasible container (20-25 gallons for a productive tree); pot up annually.
 

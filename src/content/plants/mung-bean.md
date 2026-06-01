@@ -49,7 +49,7 @@ The process is straightforward and the same for every batch.
 | 4 | Rinse twice; roots 1-1.5 inches | Harvest window opens |
 | 5 | Final rinse and harvest | Do not let roots exceed 2 inches; flavor turns grassy |
 
-Optimal temperature is 65-75°F (USDA FoodData Central sprouting safety guidelines recommend 70°F as the target for home sprouting). Below 60°F, germination slows significantly - a cold basement in winter will push the cycle to 6-7 days. Above 80°F, the risk of bacterial growth increases; keep sprouts in a cooler part of the kitchen.
+Optimal temperature is 65-75°F (USDA FoodData Central sprouting safety guidelines recommend 70°F as the target for home sprouting). Below 60°F, germination slows - a cold basement in winter will push the cycle to 6-7 days. Above 80°F, the risk of bacterial growth increases; keep sprouts in a cooler part of the kitchen.
 
 Light: indirect is fine for the first 4 days. Direct sun turns the sprouts bitter and can heat the jar enough to cause problems. If you want to develop chlorophyll and a slightly greener sprout, move the jar near (but not in) a window on day 4-5.
 
@@ -59,7 +59,7 @@ Rinse any batch that starts smelling sour or fermented - that batch is done. Sta
 
 Sprouting transforms the nutritional profile. Dry mung beans contain essentially no vitamin C - the USDA FoodData Central database lists raw dried mung beans at 4.8 mg per 100g. Mung bean sprouts at maturity contain 13.2 mg per 100g - vitamin C is generated during germination as the seed mobilizes ascorbic acid for its own growth. Protein content in sprouts runs 3.0g per 100g of finished sprout by weight, with folate at 61 mcg per 100g (USDA FoodData Central, #11043, mung beans, mature seeds sprouted, raw).
 
-The home economics argument here is not just cost. A fresh sprout 4-5 days from a dry seed has more vitamin C than the dry version, is ready to eat with no cooking, and was produced with no refrigeration until the final 24 hours. For anyone interested in year-round fresh food production without a grow light setup or a winter garden, sprouting is one of the few genuinely practical options.
+The home economics argument here is not just cost. A fresh sprout 4-5 days from a dry seed has more vitamin C than the dry version, is ready to eat with no cooking, and was produced with no refrigeration until the final 24 hours. For anyone interested in year-round fresh food production without a grow light setup or a winter garden, sprouting is one of the few practical options.
 
 ## Outdoor dry bean growing
 

@@ -18,7 +18,7 @@ hero_image: /images/crops/yacon.webp
 description: "Yacon (Smallanthus sonchifolius) - Andean root crop with crunchy, naturally sweet tubers. $5-10/lb at farmers markets and specialty stores. Tastes like apple-crossed-with-jicama. 150-210 days; zones 5-9 as annual."
 ---
 
-Yacon's strangest quality is what it doesn't do: unlike almost every other starchy root, yacon doesn't convert its carbohydrate storage to sugar when you eat it. The sweetness is real - it tastes like apple, watermelon rind, and jicama had a child - but it comes from fructooligosaccharides (FOS), chains of fructose molecules that human digestive enzymes can't break down. They pass through without being absorbed, feeding gut bacteria in the large intestine instead. The result is a root vegetable that tastes genuinely sweet and contains almost no digestible calories. This is why it's been adopted by low-glycemic diet communities and people managing blood sugar, and why it sells as a specialty health food at $5-10/lb fresh and considerably more as syrup.
+Yacon's strangest quality is what it doesn't do: unlike almost every other starchy root, yacon doesn't convert its carbohydrate storage to sugar when you eat it. The sweetness is real - it tastes like apple, watermelon rind, and jicama had a child - but it comes from fructooligosaccharides (FOS), chains of fructose molecules that human digestive enzymes can't break down. They pass through without being absorbed, feeding gut bacteria in the large intestine instead. The result is a root vegetable that tastes sweet and contains almost no digestible calories. This is why it's been adopted by low-glycemic diet communities and people managing blood sugar, and why it sells as a specialty health food at $5-10/lb fresh and considerably more as syrup.
 
 The plant itself is impressive: it reaches 5-8 feet tall with large leaves, produces a clump of tubers at harvest that can weigh 10-20 lb total, and requires almost no pest management. In zones 7-9 it's one of the more productive food plants you can put in a sunny spot.
 
@@ -31,7 +31,7 @@ The plant itself is impressive: it reaches 5-8 feet tall with large leaves, prod
 
 The FOS content is highest in tubers that have been exposed to cold or sunlight after harvest - this is why traditionally harvested and stored yacon is sweeter than freshly dug. A day or two in the refrigerator noticeably increases perceived sweetness, as does the traditional Andean practice of laying tubers in the sun for several days to a few weeks post-harvest. The sun-sweetening process degrades longer-chain FOS into shorter, sweeter chains without introducing digestible sugar. This "sunning" step, done after harvest before eating or processing, is why yacon for direct eating should not go straight from the field to the kitchen.
 
-**Variety sources:** true named varieties are rare in North American commerce. Most yacon is sold as undifferentiated rhizome stock with yellow-fleshed tubers. A few specialty sources offer purple-fleshed varieties (higher anthocyanin content) and varieties selected for early maturity in shorter-season climates. The yellow-fleshed types from Peru are the commercial standard. When sourcing rhizomes, prefer suppliers who describe where their stock originated and how it's been selected - quality varies considerably between commercial sources.
+**Variety sources:** true named varieties are rare in North American commerce. Most yacon is sold as undifferentiated rhizome stock with yellow-fleshed tubers. A few specialty sources offer purple-fleshed varieties (higher anthocyanin content) and varieties selected for early maturity in shorter-season climates. The yellow-fleshed types from Peru are the commercial standard. When sourcing rhizomes, prefer suppliers who describe where their stock originated and how it's been selected - quality varies between commercial sources.
 
 ## The ROI case
 
@@ -70,7 +70,7 @@ The wide yield range reflects the growing season length and available summer hea
 
 **Slugs and voles:** both attack the tubers in the ground. Vole tunneling is especially destructive - metal mesh hardware cloth buried around the planting perimeter prevents entry. Diatomaceous earth and copper tape around raised beds deters slugs.
 
-**Powdery mildew on leaves** in late season, particularly in humid climates. Cosmetic; doesn't affect tuber quality significantly unless it's severe enough to defoliate the plant before harvest.
+**Powdery mildew on leaves** in late season, particularly in humid climates. Cosmetic; doesn't affect tuber quality unless it's severe enough to defoliate the plant before harvest.
 
 **Rhizome crown confusion:** yacon produces both tubers (eat) and rhizome crowns (save and replant). The crowns look different - smaller, redder, knobby rather than smooth. Label them when harvesting; first-time growers sometimes eat the replanting material.
 
@@ -86,7 +86,7 @@ Dig after the first frost kills the foliage. Use a garden fork, loosening the so
 
 **Saving crowns:** select the firmest rhizome crowns with the most growth buds. Store in barely moist sand or peat at 40-50°F over winter. Inspect monthly and remove any that rot.
 
-**Preparing:** peel the thin skin (vegetable peeler or paring knife). The flesh doesn't brown significantly after cutting - no need to acidulate. Eat raw within a few hours of cutting for best texture and flavor.
+**Preparing:** peel the thin skin (vegetable peeler or paring knife). The flesh doesn't brown after cutting - no need to acidulate. Eat raw within a few hours of cutting for best texture and flavor.
 
 **Core preparations:**
 
@@ -104,7 +104,7 @@ Fresh yacon at farmers markets in areas where it's sold runs $4-8/lb, with signi
 
 The processed market tells a different story. Yacon syrup (the concentrated juice, boiled down to a dark, molasses-like liquid) sells at health food stores and online at $10-20 per 8-oz jar. This is marketed primarily as a low-glycemic sweetener for people managing blood sugar. Dried yacon slices sell at $6-12 per small bag (2-4 oz dried, equivalent to roughly 1 lb fresh) at the same outlets.
 
-The home production math for yacon syrup: approximately 10 lb of fresh tubers yields 1-1.5 lb of syrup (roughly one 8-oz jar after cooking down). Given retail pricing, a 3-plant planting producing 15-20 lb of tubers could theoretically yield $20-40 worth of syrup at retail equivalent - plus the fresh eating value of tubers retained for direct consumption. The economics are better when you have a market for the product; for household use, the syrup is genuinely a useful sweetener for baking and beverages.
+The home production math for yacon syrup: approximately 10 lb of fresh tubers yields 1-1.5 lb of syrup (roughly one 8-oz jar after cooking down). Given retail pricing, a 3-plant planting producing 15-20 lb of tubers could theoretically yield $20-40 worth of syrup at retail equivalent - plus the fresh eating value of tubers retained for direct consumption. The economics are better when you have a market for the product; for household use, the syrup is a useful sweetener for baking and beverages.
 
 Yacon's market position is in the gap between standard grocery store produce and specialty health foods. That gap is real and the prices reflect genuine scarcity - most Americans have never seen a fresh yacon root. Growing it yourself closes the gap entirely and gives you access to a fresh product that dried and syrup forms only approximate.
 

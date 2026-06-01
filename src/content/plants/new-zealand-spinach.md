@@ -58,7 +58,7 @@ Three plants, harvested consistently, can maintain steady tip production through
 
 *Estimated from $2.49 packet at approximately half the seeds used.
 
-The harvest yield assumes consistent tip harvesting every 5-7 days. Irregular harvesting reduces the total significantly because the plant produces more branching tips when harvested frequently. A gardener who picks every week gets more total yield than one who picks every two weeks, because the former is keeping the plant in active vegetative production rather than allowing it to mature and slow down.
+The harvest yield assumes consistent tip harvesting every 5-7 days. Irregular harvesting reduces the total because the plant produces more branching tips when harvested frequently. A gardener who picks every week gets more total yield than one who picks every two weeks, because the former is keeping the plant in active vegetative production rather than allowing it to mature and slow down.
 
 The financial case is secondary to the access case. Paired with regular spinach plantings in spring and fall, NZ spinach closes the summer gap and gives you fresh cooked greens from garden to table across the entire growing season.
 
@@ -82,7 +82,7 @@ The treatment options:
 
 Without treatment, expect erratic germination over 2-4 weeks. This is the most common first-year frustration with this crop - it looks like nothing is happening, then seedlings appear in staggered waves.
 
-**Timing:** direct sow after last frost when soil temperature is at least 60°F. Not suitable for cold, wet soil - seeds will rot before germinating. In Zones 8+, direct sow in mid-spring; in Zones 5-7, wait until the soil is genuinely warm (late May in Zone 5, early May in Zone 6).
+**Timing:** direct sow after last frost when soil temperature is at least 60°F. Not suitable for cold, wet soil - seeds will rot before germinating. In Zones 8+, direct sow in mid-spring; in Zones 5-7, wait until the soil is warm (late May in Zone 5, early May in Zone 6).
 
 No indoor start is typically needed. The plant grows fast enough that a direct-sown plant in late May will reach harvestable size by mid-July in Zone 6 - ahead of the midsummer gap.
 
@@ -136,7 +136,7 @@ Harvest growing tips - the last 4-6 inches of each stem - every 5-7 days. Discar
 
 **Pasta:** add blanched chopped leaves to hot pasta with olive oil, lemon, parmesan, and toasted pine nuts. Provides the summer version of a spinach pasta dish.
 
-**Soups and dal:** stir leaves in during the last 10-12 minutes of cooking. They wilt quickly and add nutrition without changing the flavor profile significantly.
+**Soups and dal:** stir leaves in during the last 10-12 minutes of cooking. They wilt quickly and add nutrition without changing the flavor profile.
 
 The primary kitchen note: press out the water thoroughly after blanching. NZ spinach is succulenter than regular spinach and releases more moisture when cooked. If you skip this step in a frittata, the egg sets wet. In a sauté, you'll steam the other ingredients rather than fry them. Blanch, drain, press, then cook.
 

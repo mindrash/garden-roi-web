@@ -44,7 +44,7 @@ The catch is time: hardy kiwi takes 3-5 years to begin fruiting, requires a stro
 
 ## The ROI case
 
-Hardy kiwi is a long-term investment with high payoff. The vine won't produce significantly until year 4-5, but once producing it continues for 30-50+ years with minimal input.
+Hardy kiwi is a long-term investment with high payoff. The vine won't produce well until year 4-5, but once producing it continues for 30-50+ years with minimal input.
 
 | Year | Yield estimate | Value @$7/lb | Cumulative value | Vine cost (2 vines)* | Cumulative net |
 |---|---|---|---|---|---|

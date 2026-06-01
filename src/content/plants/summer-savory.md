@@ -20,7 +20,7 @@ description: "Summer savory (Satureja hortensis) - annual, one of the oldest cul
 
 Summer savory is one of the oldest herbs in European cultivation, mentioned by Virgil in the *Georgics* (37 BCE) and documented in monastic herb gardens throughout the Middle Ages. Despite this, you'll have difficulty finding fresh summer savory in most American grocery stores. The dried version, when you can find it, is usually stale. Specialty herb retailers may have it; farmers markets sometimes do.
 
-The flavor sits somewhere between thyme and marjoram with a distinct peppery heat. It's aggressive enough to stand up to robust preparations - braised meats, bean soups, sausage - but aromatic enough to work with fish and eggs. Germans call it *Bohnenkraut* (bean herb) and use it almost reflexively with legumes; the combination is traditional in German and Eastern European cooking for both flavor and the folk belief (with some evidence behind it) that savory reduces the flatulence-causing oligosaccharides in beans.
+The flavor sits somewhere between thyme and marjoram with a distinct peppery heat. It's aggressive enough to stand up to hearty preparations - braised meats, bean soups, sausage - but aromatic enough to work with fish and eggs. Germans call it *Bohnenkraut* (bean herb) and use it almost reflexively with legumes; the combination is traditional in German and Eastern European cooking for both flavor and the folk belief (with some evidence behind it) that savory reduces the flatulence-causing oligosaccharides in beans.
 
 ## What it actually is
 
@@ -37,7 +37,7 @@ Summer vs. winter savory:
 | Days to harvest | 60-80 | 60-90 (perennial, harvests ongoing) |
 | Best use | Beans, eggs, fish, fresh herb blends | Robust braises, sausage, grilled meats |
 
-Summer savory's essential oils are dominated by carvacrol and thymol - the same compounds responsible for oregano and thyme's pungency, but in different proportions producing a distinct character. The carvacrol content is lower than Greek oregano, which gives summer savory a slightly softer, more nuanced quality. Total essential oil content in leaves runs approximately 0.5-2% by weight (Herb Society of America *Savory: An Herb Society of America Guide*, 2018).
+Summer savory's essential oils are dominated by carvacrol and thymol - the same compounds responsible for oregano and thyme's pungency, but in different proportions producing a distinct character. The carvacrol content is lower than Greek oregano, which gives summer savory a slightly softer, more herbal quality. Total essential oil content in leaves runs approximately 0.5-2% by weight (Herb Society of America *Savory: An Herb Society of America Guide*, 2018).
 
 ## The ROI case
 
@@ -52,7 +52,7 @@ A 4-foot row direct-seeded produces 0.25-0.5 lb of harvestable herb per cutting.
 
 *Quarter packet used for a 4-foot row.
 
-The dried product math is compelling. Fresh summer savory dried at peak flavor produces a dried herb significantly better than commercial dried savory, which is old and has lost most of its volatile compounds by the time it reaches the spice aisle. One well-timed harvest before the plant flowers, bundled and hung to dry, yields 1-2 oz of dried herb per plant. At retail dried savory pricing of $5-8/oz, that's $5-16 from a single plant that cost $0.62 in seed.
+The dried product math is compelling. Fresh summer savory dried at peak flavor produces a dried herb better than commercial dried savory, which is old and has lost most of its volatile compounds by the time it reaches the spice aisle. One well-timed harvest before the plant flowers, bundled and hung to dry, yields 1-2 oz of dried herb per plant. At retail dried savory pricing of $5-8/oz, that's $5-16 from a single plant that cost $0.62 in seed.
 
 ## Growing requirements
 
@@ -72,7 +72,7 @@ Summer savory is an undemanding, fast-growing annual that tolerates poor soil be
 
 ## What goes wrong
 
-**Slow germination** in cold soil - soil temperature below 60°F significantly slows germination. Wait until soil is reliably warm or use a cold frame to accelerate early establishment.
+**Slow germination** in cold soil - soil temperature below 60°F slows germination. Wait until soil is reliably warm or use a cold frame to accelerate early establishment.
 
 **Legginess in shade or rich soil** produces plants with long internodes, few leaves, and diluted flavor. Move to full sun and cut back fertilizer if this occurs.
 

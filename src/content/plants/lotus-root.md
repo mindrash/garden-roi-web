@@ -78,7 +78,7 @@ Lotus rhizomes survive cold water if the container does not freeze solid complet
 
 The first is sinking the container into the ground up to its rim for the winter. Soil insulates the container from the coldest air temperatures; the rhizomes stay dormant in the mud and resprout in spring. This works reliably in zone 6 and marginal in zone 5.
 
-The second is moving the container to a frost-free garage or shed for winter. The rhizomes are dormant - they don't need light. They need to stay moist and above freezing. A garage that stays above 28°F is adequate. Check the container in late winter; if water has evaporated significantly, add enough to keep the soil saturated. Move back outside after your last frost date in spring.
+The second is moving the container to a frost-free garage or shed for winter. The rhizomes are dormant - they don't need light. They need to stay moist and above freezing. A garage that stays above 28°F is adequate. Check the container in late winter; if water has evaporated, add enough to keep the soil saturated. Move back outside after your last frost date in spring.
 
 In zone 4 without one of these measures, expect to purchase new rhizomes each spring.
 

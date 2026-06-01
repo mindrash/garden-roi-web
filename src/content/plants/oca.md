@@ -24,7 +24,7 @@ Oca (*Oxalis tuberosa*) is the second most important food crop of the Andean hig
 
 The flavor profile before sun-sweetening is distinct: noticeably tart, slightly lemony, with an earthy undertone. Raw oca has a satisfying crunch similar to jicama. Cooked without sun-sweetening, the tartness softens but remains present. After 3-5 days of sun exposure post-harvest, oxalic acid partially converts to sugars. The result is a mild, lightly sweet tuber with better flavor depth than a plain potato and enough character to work without heavy seasoning.
 
-Oxalic acid note: raw oca contains more oxalic acid than spinach. People with a history of calcium oxalate kidney stones should limit intake of raw oca. Sun-sweetening and cooking both reduce the concentration significantly (Grüneberg, W.J. et al., "Oca Breeding and Agronomy," *CIP Program Report*, International Potato Center, 2005).
+Oxalic acid note: raw oca contains more oxalic acid than spinach. People with a history of calcium oxalate kidney stones should limit intake of raw oca. Sun-sweetening and cooking both reduce the concentration (Grüneberg, W.J. et al., "Oca Breeding and Agronomy," *CIP Program Report*, International Potato Center, 2005).
 
 ## The ROI Case
 
@@ -47,7 +47,7 @@ Prices sourced from spot-check of USDA AMS Farmers Market Directory listings and
 
 This is the thing most American gardeners don't know about oca until after a failed first season.
 
-Oca is a short-day plant. Tubers form only when day length drops below approximately 12 hours. In the northern hemisphere, that happens naturally at the autumn equinox - around September 22. Before that date, regardless of how long the plant has been in the ground or how well it's been growing, it is not making tubers in any meaningful quantity. After that date, tuber formation begins in earnest. You harvest after the first killing frost (below 25°F) or, in mild climates, in late November to December when the foliage dies back naturally.
+Oca is a short-day plant. Tubers form only when day length drops below approximately 12 hours. In the northern hemisphere, that happens naturally at the autumn equinox - around September 22. Before that date, regardless of how long the plant has been in the ground or how well it's been growing, it is not making tubers in any real quantity. After that date, tuber formation begins in earnest. You harvest after the first killing frost (below 25°F) or, in mild climates, in late November to December when the foliage dies back naturally.
 
 Do the calendar math: planting happens after last frost, typically May in Zones 6-7. The equinox is late September. That's a 4.5-month window of vegetative growth before tuber formation even starts, then another 6-10 weeks of active tuber bulking before frost ends the season. Total: 180-220 days from planting to harvest. This is the longest season of any common garden tuber.
 
@@ -87,7 +87,7 @@ Water at 1 inch per week. Oca tolerates moderate dry spells better than potato b
 
 **Wireworm** (*Agriotes* spp.) damage to tubers shows as small, clean-sided holes bored through the flesh. Wireworms are the larvae of click beetles and persist in soil for 2-4 years. Rotating oca and other tubers away from previously affected beds reduces pressure. There is no effective organic rescue treatment after wireworms are present; prevention through rotation is the primary tool (Cornell Cooperative Extension, *Wireworm Management in Vegetable Crops*, 2021).
 
-**Foliage yellowing before September.** If plants yellow and drop leaves before the equinox, look first at soil drainage. Oca root rot from waterlogged soil presents this way and can kill plants before they ever form meaningful tubers. Improve drainage before replanting.
+**Foliage yellowing before September.** If plants yellow and drop leaves before the equinox, look first at soil drainage. Oca root rot from waterlogged soil presents this way and can kill plants before they ever form real tubers. Improve drainage before replanting.
 
 **Early hard frost.** A single frost event below 28°F in September or early October kills the above-ground plant. If you haven't already covered the bed, check the tubers immediately - even small tubers are salvageable if dug promptly after a frost event before the ground freezes. Frosted foliage that sits on top of developing tubers can transfer cold damage. Remove frost-killed tops and dig within 24 hours.
 
