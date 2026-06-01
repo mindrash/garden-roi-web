@@ -18,7 +18,7 @@ hero_image: /images/crops/pomegranate.webp
 description: "Pomegranate (Punica granatum) - drought-tolerant deciduous shrub/small tree. $3-6/lb; $3-8 per fruit at peak season. 20-40 lb per mature plant. Zones 7-11 outdoors; container culture in colder zones."
 ---
 
-A pomegranate planted in the right zone will handle drought, shrug off alkaline soil, and keep producing through summer heat that would stress most stone fruits. The plant is native to the region from Iran to northern India - adapted to arid and semi-arid conditions over 4,000 years of cultivation - which is why it performs reliably in low-water gardens from California to the Gulf Coast. A mature bush (they're more shrub than tree in most garden situations) produces 20-40 lb of fruit annually at $3-8 per fruit retail. The arils (seeds with their juice sacs) and juice retail for substantially more per pound when processed.
+A pomegranate planted in the right zone will handle drought, shrug off alkaline soil, and keep producing through summer heat that would stress most stone fruits. The plant is native to the region from Iran to northern India - adapted to arid and semi-arid conditions over 4,000 years of cultivation - which is why it performs reliably in low-water gardens from California to the Gulf Coast. A mature bush (they're more shrub than tree in most garden situations) produces 20-40 lb of fruit annually at $3-8 per fruit retail. The arils (seeds with their juice sacs) and juice retail for more per pound when processed.
 
 In zones 8-11, pomegranates are a reliable, low-input perennial. In zone 7, they need a sheltered south-facing site. In zones 5-6, container culture with winter indoor storage is the approach - a 15-gallon pot produces limited but real fruit.
 
@@ -39,7 +39,7 @@ The fruit is technically a berry - a thick leathery rind enclosing hundreds of a
 | Sienevyi | 6-9 | Sweet | Pink-red | Hardy to -5°F | Most cold-hardy large-fruited variety |
 | Kazake | 6-9 | Good | Red | Hardy to -5°F | Cold-hardy former Soviet variety |
 
-'Sienevyi' and 'Kazake' extend pomegranate culture meaningfully into zone 6-7 gardens.
+'Sienevyi' and 'Kazake' extend pomegranate culture into zone 6-7 gardens.
 
 **Grafted vs. seedling:** for fruit quality, buy grafted trees from a named variety. Pomegranate grown from seed does not breed true - the offspring from 'Wonderful' seed produces a plant with unpredictable fruit characteristics, often inferior to the parent. Grafted trees also fruit 2-3 years earlier than seedlings. Named grafted trees cost $20-40 from mail-order nurseries; seedling trees from big-box stores may be inexpensive but you won't know what you're getting until year 4 or 5.
 
@@ -56,7 +56,7 @@ Pomegranates begin producing at year 3-4 and reach full production by year 5-7. 
 | 7 | 30 lb | $120 | $332 (est.) | - | $307.01 |
 | 10 | 35 lb | $140 | $632 (est.) | - | $607.01 |
 
-Juice value changes the calculation significantly. Fresh pomegranate juice retails for $8-12/lb equivalent. Processing fruit into juice roughly triples the per-pound value, at the cost of time and equipment.
+Juice value changes the calculation. Fresh pomegranate juice retails for $8-12/lb equivalent. Processing fruit into juice roughly triples the per-pound value, at the cost of time and equipment.
 
 ## Growing requirements
 
@@ -66,7 +66,7 @@ Juice value changes the calculation significantly. Fresh pomegranate juice retai
 
 **Planting:** plant container-grown shrubs in spring after last frost. Dig a hole 2-3 times the container width; pomegranates establish quickly in warm soil. No staking needed for shrub form.
 
-**Watering:** needs regular watering during the first 1-2 years while establishing. Once established, pomegranates are genuinely drought-tolerant - in their native range they survive on 200-400mm annual rainfall. In production-oriented home gardens, deep irrigation every 1-2 weeks during fruit development (summer through fall) improves yield and fruit size.
+**Watering:** needs regular watering during the first 1-2 years while establishing. Once established, pomegranates are drought-tolerant - in their native range they survive on 200-400mm annual rainfall. In production-oriented home gardens, deep irrigation every 1-2 weeks during fruit development (summer through fall) improves yield and fruit size.
 
 **Pruning:** pomegranates sucker heavily. Train to 3-5 main trunks for a dense shrub, or to a single trunk for tree form. Remove suckers as they appear at the base. Annual pruning in late winter removes dead wood and maintains shape. Fruit develops on short spurs and on tips of new growth.
 
@@ -104,7 +104,7 @@ Harvest by cutting the stem, not pulling. Pomegranates don't ripen further off t
 
 ## Market Value and Long-Term ROI
 
-Retail pomegranate pricing varies significantly by variety and season. Standard 'Wonderful' fruits at grocery stores in October-November run $2-4 each (roughly 1-2 lb per fruit at $1.50-3.00/lb). Fresh arils (pre-seeded, ready-to-eat) at specialty grocers and Trader Joe's run $6-10 per small container, which is roughly 4-6 oz of arils - making the per-pound aril price $16-26 (USDA Agricultural Marketing Service, *Specialty Crops Terminal Market Reports*, 2024). At that value, 5 lb of arils from home processing equates to $80-130 in retail equivalent.
+Retail pomegranate pricing varies by variety and season. Standard 'Wonderful' fruits at grocery stores in October-November run $2-4 each (roughly 1-2 lb per fruit at $1.50-3.00/lb). Fresh arils (pre-seeded, ready-to-eat) at specialty grocers and Trader Joe's run $6-10 per small container, which is roughly 4-6 oz of arils - making the per-pound aril price $16-26 (USDA Agricultural Marketing Service, *Specialty Crops Terminal Market Reports*, 2024). At that value, 5 lb of arils from home processing equates to $80-130 in retail equivalent.
 
 Pomegranate juice at specialty grocers runs $8-12 per liter. 1 lb of arils yields approximately 4-6 oz of juice, making the per-liter input cost roughly 2.5-3 lb of arils ($7-9 worth at specialty grocery aril pricing) for a liter of juice that retails at $8-12. The margin is thin for juice but positive.
 

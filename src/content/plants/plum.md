@@ -20,7 +20,7 @@ description: "European plum (Prunus domestica) - self-fertile varieties availabl
 
 A mature plum tree in a good year produces more fruit than most households can eat fresh. A medium-sized European plum (*Prunus domestica*) in full production yields 50-100 lb. At $2/lb retail, that's $100-200 in fresh fruit from a tree that, after the initial 3-4 year establishment period, requires mainly a seasonal pruning and some thinning. The annual input drops to near zero while the output continues for decades.
 
-The challenge with plums, as with any fruit tree, is the patience required. The tree doesn't produce meaningful fruit in years one and two, production builds in years three and four, and the full harvest arrives in year five and beyond. You're making a long-term investment in a permanent site.
+The challenge with plums, as with any fruit tree, is the patience required. The tree doesn't produce real fruit in years one and two, production builds in years three and four, and the full harvest arrives in year five and beyond. You're making a long-term investment in a permanent site.
 
 ## What it actually is
 
@@ -72,7 +72,7 @@ The prune and preserve dimension adds further value. Surplus European plum produ
 
 **Pruning:** European plums are typically trained to an open center or modified central leader form. First 3 years of pruning establish the scaffold structure; subsequent annual pruning removes crossing branches, water sprouts, and opens the canopy to light and air. Prune in late winter before bud break. Clean cuts with sharp tools prevent disease entry.
 
-**Thinning:** in years when the tree sets a heavy crop (many do), thin excess fruitlets in early summer to 3-4 inches between fruit. This concentrates the tree's resources into larger, better-quality fruit and prevents branch breakage under excess weight. It feels wrong to remove fruit, but the result is substantially better.
+**Thinning:** in years when the tree sets a heavy crop (many do), thin excess fruitlets in early summer to 3-4 inches between fruit. This concentrates the tree's resources into larger, better-quality fruit and prevents branch breakage under excess weight. It feels wrong to remove fruit, but the result is better.
 
 ## What goes wrong
 

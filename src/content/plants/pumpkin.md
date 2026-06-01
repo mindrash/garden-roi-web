@@ -20,7 +20,7 @@ faq:
   - q: "How do I cure pumpkins after harvest?"
     a: "Hold freshly harvested pumpkins at 80 to 85 degrees with good airflow for 10 to 14 days. Curing hardens the skin, seals stem wounds, and extends storage life to 3 to 6 months at 50 to 55 degrees."
   - q: "Are carving pumpkins worth growing compared to pie types?"
-    a: "Carving pumpkins retail at $0.25 to $0.75/lb in fall. Pie and specialty varieties (Cinderella, Sugar Pie, Rouge Vif d'Etampes) retail at $1.50 to $4.00/lb and produce substantially better ROI per square foot with more culinary utility."
+    a: "Carving pumpkins retail at $0.25 to $0.75/lb in fall. Pie and specialty varieties (Cinderella, Sugar Pie, Rouge Vif d'Etampes) retail at $1.50 to $4.00/lb and produce better ROI per square foot with more culinary utility."
 ---
 
 Carving pumpkins retail for $0.25-$0.75 per pound at peak season (USDA AMS, *Fresh Fruit and Vegetable Prices*, 2023). You can buy a 20-pound jack-o'-lantern pumpkin for $8-$12 at a farm stand in October. Growing one takes 15-20 square feet of ground for 90-120 days, plus consistent water, reliable pollination, and enough luck to avoid squash vine borer. The ROI on carving pumpkins grown for home use is poor. That's worth saying plainly before anything else.
@@ -35,11 +35,11 @@ Pick the right type first. Everything else follows from that.
 
 **Carving and jack-o'-lantern types** (Connecticut Field, Howden, Big Max) are bred for size, shape, and hollow cavities. The flesh is stringy, watery, and low in dry matter. These exist for the decorative market. They're commodity produce - $3-8 each at farm stands during peak season, $1-2 each at wholesale or through a packing house. If you're growing to sell, you need volume and a direct-sale outlet to make carving pumpkins work. Home use value is minimal.
 
-**Pie pumpkins** (Sugar Pie, New England Pie, Baby Bear, Long Island Cheese) run 4-8 pounds, with dense, high-solids flesh that purees well. These retail for $4-6 each at farm stands and $2-4/lb at specialty markets (USDA AMS Specialty Crop Market News, 2023). The flavor is genuinely better than canned pumpkin - higher sugar content, less water to cook off. From a single vine producing 4-6 fruits, you're looking at $16-36 in retail value per plant.
+**Pie pumpkins** (Sugar Pie, New England Pie, Baby Bear, Long Island Cheese) run 4-8 pounds, with dense, high-solids flesh that purees well. These retail for $4-6 each at farm stands and $2-4/lb at specialty markets (USDA AMS Specialty Crop Market News, 2023). The flavor is better than canned pumpkin - higher sugar content, less water to cook off. From a single vine producing 4-6 fruits, you're looking at $16-36 in retail value per plant.
 
 **Specialty and heirloom types** (Rouge Vif d'Etampes/Cinderella, Jarrahdale, Fairy Tale, Blue Hubbard relatives, Musquee de Provence) command $5-15 each at farmers markets, sometimes more for large specimens. Visual distinction drives that price - buyers pay a premium for something that looks nothing like what's in the grocery store. These are dual-purpose: excellent eating and high decorative value. One Cinderella pumpkin is worth more than three Howdens at direct sale.
 
-**Mini types** (Baby Boo, Jack Be Little, Munchkin) run 0.5-2 lbs each and retail at $2-4 per pumpkin at farm stands. Per-unit value is high. Vines are more compact - 4-6 square feet rather than 15-20 - which changes the space math significantly. At $2-4 each with 8-12 fruits per vine, a single Jack Be Little plant can return $16-48 in direct sale value from 6 square feet of ground.
+**Mini types** (Baby Boo, Jack Be Little, Munchkin) run 0.5-2 lbs each and retail at $2-4 per pumpkin at farm stands. Per-unit value is high. Vines are more compact - 4-6 square feet rather than 15-20 - which changes the space math. At $2-4 each with 8-12 fruits per vine, a single Jack Be Little plant can return $16-48 in direct sale value from 6 square feet of ground.
 
 ## ROI by Type
 
@@ -107,7 +107,7 @@ Giant pumpkin management requires a different approach. To produce one massive f
 
 Carving types are ready when the skin is fully orange and the rind resists a fingernail. The stem should be hard and corky - a green, pliable stem means the fruit isn't mature. Pie pumpkins are ready at full color with the same rind firmness.
 
-Leave 3-4 inches of stem attached when harvesting. A pumpkin without its stem rots dramatically faster at the scar. Don't carry the fruit by the stem - it snaps more easily than it looks, and a detached stem moves the pumpkin to the front of the use-it-now line.
+Leave 3-4 inches of stem attached when harvesting. A pumpkin without its stem rots faster at the scar. Don't carry the fruit by the stem - it snaps more easily than it looks, and a detached stem moves the pumpkin to the front of the use-it-now line.
 
 Cure freshly harvested pumpkins at 80-85°F with good air circulation for 10-14 days. Curing hardens the skin and heals surface wounds. Store cured pumpkins at 50-55°F in low humidity. Pie pumpkins store 3-5 months under these conditions; carving types 2-3 months (North Carolina Extension, *Pumpkin and Winter Squash*, AG-05, 2018).
 

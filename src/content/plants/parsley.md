@@ -16,11 +16,11 @@ description: "Parsley (Petroselinum crispum) - biennial that overwinters in zone
 hero_image: /images/crops/parsley.webp
 faq:
   - q: "What is the difference between flat-leaf and curly parsley?"
-    a: "Flat-leaf (Italian) parsley has significantly stronger flavor and is preferred for cooked dishes and sauces. Curly parsley has milder flavor, better texture for raw garnish, and slightly better cold tolerance. Flat-leaf is the more valuable culinary crop at $6/lb retail."
+    a: "Flat-leaf (Italian) parsley has stronger flavor and is preferred for cooked dishes and sauces. Curly parsley has milder flavor, better texture for raw garnish, and slightly better cold tolerance. Flat-leaf is the more valuable culinary crop at $6/lb retail."
   - q: "Is parsley an annual or a perennial?"
     a: "Parsley is a biennial - it grows vegetatively in year one and flowers in year two before dying. In zones 6 and warmer, it overwinters and provides fresh herb through spring of year two before bolting. You can get up to 18 months of harvest from a single planting."
   - q: "Why is parsley slow to germinate?"
-    a: "Parsley seeds have naturally slow germination, taking 3 to 4 weeks at 70 degrees. Soaking seeds in warm water for 24 hours before sowing speeds this significantly. Starting indoors 8 to 10 weeks before last frost gives transplants a strong head start on the season."
+    a: "Parsley seeds have naturally slow germination, taking 3 to 4 weeks at 70 degrees. Soaking seeds in warm water for 24 hours before sowing speeds this. Starting indoors 8 to 10 weeks before last frost gives transplants a strong head start on the season."
 ---
 
 Parsley (*Petroselinum crispum*) is one of the most persistently undervalued garden plants. It's slow to germinate, slow to establish, and then - once it does - it produces steadily for months, overwinters in most of the country, and comes back the following spring before bolting to seed. A single plant can provide fresh parsley from June through the following May in zone 6. That's an 11-month harvest from one $2.49 seed packet.
@@ -92,7 +92,7 @@ When the plant bolts in its second year, let one or two plants go to seed if you
 
 ## Culinary applications
 
-Parsley is genuinely versatile - it works raw in salads and sauces, cooked in stocks and braises, and as a knife-skill test in dishes where consistent fine chopping matters. The key to using it well is knowing which applications need fresh flat-leaf and which can get by with dried or curly.
+Parsley is versatile - it works raw in salads and sauces, cooked in stocks and braises, and as a knife-skill test in dishes where consistent fine chopping matters. The key to using it well is knowing which applications need fresh flat-leaf and which can get by with dried or curly.
 
 **Chimichurri:** the Argentine herb sauce for grilled meat. Standard ratio: 1 cup tightly packed flat-leaf parsley leaves, 3-4 garlic cloves, 2 tbsp red wine vinegar, 1 tsp dried oregano, 1/2 tsp red pepper flakes, 1/2 cup olive oil, salt. Pulse in a food processor to a rough paste - not completely smooth. This is a sauce that requires fresh flat-leaf; dried parsley produces a muddy green paste without the vegetal lift, and curly parsley is too mild. Chimichurri keeps refrigerated for 2 weeks.
 

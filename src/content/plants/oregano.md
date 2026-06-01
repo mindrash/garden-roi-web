@@ -27,7 +27,7 @@ Oregano (*Origanum vulgare*) is the argument for planting perennial herbs over a
 
 ## What you're actually growing
 
-The species *Origanum vulgare* is native to the Mediterranean and contains several subspecies with meaningfully different flavor profiles. The key distinction for culinary use:
+The species *Origanum vulgare* is native to the Mediterranean and contains several subspecies with different flavor profiles. The key distinction for culinary use:
 
 **Greek oregano** (*O. vulgare* subsp. *hirtum*) is the strongly flavored type used in Mediterranean cooking - high in carvacrol and thymol, intensely aromatic, the one associated with pizza and pasta sauce. If you're growing for culinary value, this is what you want.
 
@@ -47,7 +47,7 @@ If you buy transplants, crush a leaf before purchasing - if it's pungent and alm
 | Golden (*O. vulgare* 'Aureum') | 10-20% | Low flavor | Zone 5 | Primarily ornamental, edging |
 | Mexican (*Lippia graveolens*) | Variable - citral/thymol | Citrusy, earthy, peppery | Zone 9+ (annual elsewhere) | Chili, mole, Tex-Mex - not interchangeable with Greek |
 
-The carvacrol percentage is what matters for culinary performance. Greek oregano's 60-80% carvacrol content is what gives it the sharp, almost antiseptic bite that holds up to tomato acidity and high-heat cooking. Common oregano at 20-40% is a different experience - not inferior, but genuinely milder. Most commercial dried oregano sold in the US is a blend or a common/wild type, not Greek, which is why fresh Greek oregano from the garden tastes more intense than the jar from the grocery store.
+The carvacrol percentage is what matters for culinary performance. Greek oregano's 60-80% carvacrol content is what gives it the sharp, almost antiseptic bite that holds up to tomato acidity and high-heat cooking. Common oregano at 20-40% is a different experience - not inferior, but milder. Most commercial dried oregano sold in the US is a blend or a common/wild type, not Greek, which is why fresh Greek oregano from the garden tastes more intense than the jar from the grocery store.
 
 ## The ROI case
 

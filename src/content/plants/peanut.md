@@ -18,9 +18,9 @@ hero_image: /images/crops/peanut.webp
 description: "Peanut (Arachis hypogaea) - legume that buries its own pods underground. 100-130 days, requires frost-free season. Raw peanuts $2-4/lb; roasted premium peanuts $6-10/lb. Nitrogen-fixer."
 ---
 
-Peanuts don't grow like any other crop in the garden. After the flowers are pollinated, the plant sends a stem - called a peg - down into the soil, and the peanut pod develops underground at the tip of that peg. The first time you dig up a peanut plant at harvest, it's genuinely strange: what looks like a modest flowering plant has produced a pound of pods buried beneath it.
+Peanuts don't grow like any other crop in the garden. After the flowers are pollinated, the plant sends a stem - called a peg - down into the soil, and the peanut pod develops underground at the tip of that peg. The first time you dig up a peanut plant at harvest, it's strange: what looks like a modest flowering plant has produced a pound of pods buried beneath it.
 
-The novelty is real, but so is the practical case. Peanuts fix atmospheric nitrogen through root nodules, improving the soil for whatever follows in rotation. Freshly harvested and roasted peanuts taste meaningfully different from commercial peanuts that are months old. Valencia peanuts boiled green within hours of digging are a completely different food from the roasted product. These aren't marginal differences; they're the kind of thing that justifies growing a crop that won't win any yield competitions.
+The novelty is real, but so is the practical case. Peanuts fix atmospheric nitrogen through root nodules, improving the soil for whatever follows in rotation. Freshly harvested and roasted peanuts taste different from commercial peanuts that are months old. Valencia peanuts boiled green within hours of digging are a completely different food from the roasted product. These aren't marginal differences; they're the kind of thing that justifies growing a crop that won't win any yield competitions.
 
 ## What It Actually Is
 
@@ -88,7 +88,7 @@ A single 10-foot row of peanuts yields 1.0-1.5 lb of shelled peanuts in a good s
 
 **Zone 11+:** peanuts grow year-round in tropical conditions but need the seasonal timing of dry weather at harvest for proper curing. In consistently humid tropical conditions, post-harvest curing requires more attention.
 
-**Light:** peanuts are one of the most light-demanding vegetables in the home garden. 8+ hours of direct sun is non-negotiable for adequate pod development. Partial shade significantly reduces pod fill.
+**Light:** peanuts are one of the most light-demanding vegetables in the home garden. 8+ hours of direct sun is non-negotiable for adequate pod development. Partial shade reduces pod fill.
 
 ## Growing Requirements
 

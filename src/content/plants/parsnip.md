@@ -12,11 +12,11 @@ is_common: true
 watering: Moderate; 1 inch/week, consistent for straight roots
 sunlight: Full sun (6+ hours)
 companion_plants: ["Carrot", "Arugula"]
-description: "Parsnip (Pastinaca sativa) - frost converts starch to sugar after first hard freeze, dramatically improving flavor. $2-3/lb retail. Stores in ground through winter in zones 5+."
+description: "Parsnip (Pastinaca sativa) - frost converts starch to sugar after first hard freeze, improving flavor. $2-3/lb retail. Stores in ground through winter in zones 5+."
 hero_image: /images/crops/parsnip.webp
 ---
 
-Parsnip (*Pastinaca sativa*) is one of the few vegetables that is objectively better after a hard freeze than before it. Plant it in spring, ignore it through summer, leave it in the ground past the first hard frost, and harvest into January. What comes out of the ground in midwinter is noticeably sweeter than what was there in October. This isn't a marginal difference or a matter of preference. Cold biochemistry is doing something measurable inside the root, and the vegetable is genuinely better for it.
+Parsnip (*Pastinaca sativa*) is one of the few vegetables that is objectively better after a hard freeze than before it. Plant it in spring, ignore it through summer, leave it in the ground past the first hard frost, and harvest into January. What comes out of the ground in midwinter is noticeably sweeter than what was there in October. This isn't a marginal difference or a matter of preference. Cold biochemistry is doing something measurable inside the root, and the vegetable is better for it.
 
 That alone makes parsnips worth growing. The fact that they also fill a practical gap - fresh root vegetables in January, when grocery stores charge accordingly - makes the ROI case stronger than the per-pound price suggests.
 
