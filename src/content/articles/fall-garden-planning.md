@@ -37,7 +37,7 @@ All fall planting is calculated backward from your first frost date. The critica
 | Zone 8 | Nov 15-30 | Aug 15-Sep 1 | Sep 5-20 | Sep 1-15 | Sep 15-Oct 1 | Second season possible; some crops grow through winter |
 | Zone 9 | Dec 1 or none | Sep 1-15 | Sep 20-Oct 5 | Sep 15-30 | Oct 1-15 | Fall/winter is the primary growing season; spring is the shoulder |
 
-Frost dates from Cornell Cooperative Extension, *Vegetable Gardening Planting Dates by Region* (2022) and University of Minnesota Extension, *Frost Dates for Minnesota* (2023). Local variation is significant - verify your specific location at planthardiness.ars.usda.gov or your local cooperative extension office.
+Frost dates from Cornell Cooperative Extension, *Vegetable Gardening Planting Dates by Region* (2022) and University of Minnesota Extension, *Frost Dates for Minnesota* (2023). Verify your specific location at planthardiness.ars.usda.gov or your local cooperative extension office.
 
 ## Crops with the highest fall ROI
 
@@ -87,7 +87,7 @@ Row cover - a lightweight spunbonded polyester fabric sold as Reemay, Agribon, o
 
 **Medium (1.5-2.0 oz/sq yd, transmits 70-85% of light):** provides 4-6°F of frost protection. The right choice for extending kale, spinach, arugula, and greens through November and December in Zone 5-6. Can protect established brassicas through temperatures down to 22-24°F.
 
-A 6x50 ft row cover roll costs $15-25 and can be reused 3-5 seasons. The ROI on row cover is substantial: extending a kale harvest by 4-6 additional weeks in a Zone 6 garden adds another 3-4 lb of harvest at $3/lb = $9-12 in additional value. The $4-8 annual material cost (amortized over multiple seasons) pays off in the first extended harvest.
+A 6x50 ft row cover roll costs $15-25 and can be reused 3-5 seasons. Row cover pays for itself quickly: extending a kale harvest by 4-6 additional weeks in a Zone 6 garden adds another 3-4 lb of harvest at $3/lb = $9-12 in additional value. The $4-8 annual material cost (amortized over multiple seasons) pays off in the first extended harvest.
 
 Row cover also serves double duty in spring, protecting transplants from late frosts and speeding soil warming in the same way black plastic mulch does - but with the added benefit of light transmission. Some gardeners use a single roll of row cover to protect spring transplants, then shift it to protect fall crops at the end of the season.
 

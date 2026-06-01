@@ -7,7 +7,7 @@ featured: false
 hero_image: /images/articles/garden-layout-comparison.webp
 ---
 
-The 2-4x yield advantage you see cited for square foot gardening over traditional row planting is real - but it's calculated on productive soil only, and it ignores the paths. Depending on your row spacing, anywhere from 30 to 50 percent of a row garden's total footprint is walkway. Once you account for that, the advantage narrows considerably. It doesn't disappear. But it's not as dramatic as the comparison usually suggests.
+The 2-4x yield advantage you see cited for square foot gardening over traditional row planting is real - but it's calculated on productive soil only, and it ignores the paths. Depending on your row spacing, anywhere from 30 to 50 percent of a row garden's total footprint is walkway. Once you account for that, the advantage narrows. It doesn't disappear. But it's not as dramatic as the comparison usually suggests.
 
 This article runs the numbers on three layout types - traditional rows, square foot beds, and keyhole beds - using five representative crops and the same gross square footage as the denominator throughout. Then it looks at raised bed versus in-ground economics for those same layouts.
 
@@ -83,7 +83,7 @@ Two beds side by side with a shared central path: two 4x8 beds (64 sq ft product
 
 The honest range is 53-80%. Single freestanding beds with generous paths are at the low end. Multi-bed configurations with shared paths and wall placement approach 80%.
 
-For this comparison, use 75% as the representative productive area percentage for a well-configured SFG setup - two beds against a fence, shared path between them. That's meaningfully better than the 60% row garden baseline.
+For this comparison, use 75% as the representative productive area percentage for a well-configured SFG setup - two beds against a fence, shared path between them. That's 15 percentage points better than the 60% row garden baseline.
 
 ### SFG Yield Per Total Square Foot
 
@@ -103,7 +103,7 @@ SFG productive-area yields sourced from: Olson, S.M. et al., *Vegetable Producti
 
 The real advantage is 1.5-2.1x per total square foot, not 2-4x. The 2-4x figure appears because most comparisons use productive-area yields from row gardens - which are already discounted by path waste - and compare them to total-area yields from SFG beds. That's comparing different denominators.
 
-The 1.5-2.1x advantage is still real and significant. For a small urban plot, it's the difference between a meaningful harvest and a token one. It just isn't the dramatic multiplication that gets quoted.
+The 1.5-2.1x advantage is still real. For a small urban plot, it's the difference between a real harvest and a token one. It just isn't the dramatic multiplication that gets quoted.
 
 ## Keyhole Bed Design
 
@@ -158,7 +158,7 @@ You need to know the annual harvest value of the bed to calculate payback. For a
 | $130 (high) | 20% ($35/yr) | $35/yr | 3.7 seasons |
 | $105 (mid) | 15% ($26/yr) | $26/yr | 4.0 seasons |
 
-The median scenario - $105 construction cost, 15% yield gain, $26/yr additional value - pays back in 4 seasons. Against a 10-15 year lumber lifespan, that is a solidly positive investment if your native soil has meaningful compaction issues.
+The median scenario - $105 construction cost, 15% yield gain, $26/yr additional value - pays back in 4 seasons. Against a 10-15 year lumber lifespan, that is a solidly positive investment if your native soil has compaction issues.
 
 If your native soil is already loose, well-drained, and fertile, the yield improvement may be below 10% and the payback period extends. An in-ground version of the same layout, amended with compost at planting time (cost: $20-$40), can achieve similar productivity without the construction investment. The in-ground break-even is immediate.
 
@@ -189,7 +189,7 @@ A few of those cells need context.
 
 **SFG for diverse small spaces:** The 1-foot grid forces systematic space use and prevents the common failure mode of planting too few crop types in too much space. The Bartholomew system also requires the high-quality growing medium described above, which means the yield-per-sq-ft numbers are more likely to be realized than in a poorly amended in-ground row garden. The main limitation is scale - a 4x4 or 4x8 bed has a hard ceiling on total production volume.
 
-**Keyhole for perennials and accessibility:** The undisturbed soil in a keyhole bed is genuinely better for perennial plants than the annual renovation required by most SFG or row beds. A perennial herb section in a keyhole bed that hasn't been turned in 3-4 years develops soil structure and mycorrhizal networks that annual tillage disrupts. That's not folk wisdom - it's the documented mechanism behind no-till gardening research published in HortScience (Sjoerd Duiker, Penn State, 2020). The accessibility point is equally concrete: for gardeners with limited reach or knee problems, the central notch eliminates the need to kneel and reach over the side of a 4-foot-wide bed.
+**Keyhole for perennials and accessibility:** The undisturbed soil in a keyhole bed is better for perennial plants than the annual renovation required by most SFG or row beds. A perennial herb section in a keyhole bed that hasn't been turned in 3-4 years develops soil structure and mycorrhizal networks that annual tillage disrupts. That's not folk wisdom - it's the documented mechanism behind no-till gardening research published in HortScience (Sjoerd Duiker, Penn State, 2020). The accessibility point is equally concrete: for gardeners with limited reach or knee problems, the central notch eliminates the need to kneel and reach over the side of a 4-foot-wide bed.
 
 **Row gardening for lowest setup cost:** No frames to build, no specialty soil to fill. If you already have decent native soil and a rototiller or willingness to dig, a row garden gets you started for the cost of seeds and amendments. The tradeoff is ongoing labor (cultivation, weeding) that becomes significant over a large area.
 

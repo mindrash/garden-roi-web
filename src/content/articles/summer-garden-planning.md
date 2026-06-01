@@ -105,7 +105,7 @@ You can extend the window with row cover: medium-weight spunbonded fabric (1.5-2
 
 ## Heat Management for Summer Beds
 
-Soil temperatures above 90°F inhibit root function in most vegetable crops. Above 95°F, cool-season crops stop growing entirely and warm-season crops slow significantly. This is relevant in July and August, particularly in beds that don't have established plant canopy to shade the soil.
+Soil temperatures above 90°F inhibit root function in most vegetable crops. Above 95°F, cool-season crops stop growing entirely and warm-season crops slow. This is relevant in July and August, particularly in beds that don't have established plant canopy to shade the soil.
 
 **Mulch** is the most effective and cheapest intervention. Three to four inches of straw or wood chips over bare soil on a 95°F day reduces soil temperature by 10-20°F. That's the difference between functional root growth and a plant that's just surviving. Bare soil in full sun on a hot day regularly reaches 120-130°F at the surface. With 4 inches of straw mulch, that same bed surface stays below 90°F. The mulch also reduces water loss, which compounds the benefit.
 
@@ -113,7 +113,7 @@ Soil temperatures above 90°F inhibit root function in most vegetable crops. Abo
 
 **Watering timing** matters in summer. Deep watering early in the morning gives roots access to moisture before peak heat and allows foliage to dry before evening - which reduces fungal disease pressure in humid climates. Evening watering leaves foliage wet overnight; in warm, humid conditions, that's ideal for *Botrytis cinerea* (gray mold) and early blight (*Alternaria solani*) on tomatoes. Water in the morning. Water deeply rather than frequently - shallow daily watering keeps roots near the surface; deep watering 2-3 times per week encourages roots to go down where the soil stays cooler.
 
-**Variety selection** for heat is real and underused. Heat-tolerant lettuce varieties (Nevada, Jericho, Muir, Magenta) bolt significantly later than standard varieties under the same conditions. Jericho romaine, developed for hot Israeli summers, holds through temperatures that would cause standard butterhead to bolt in days. If you want lettuce in July in zone 6, you need heat-tolerant varieties and shade cloth. With both, it's possible. Without either, it isn't.
+**Variety selection** for heat is real and underused. Heat-tolerant lettuce varieties (Nevada, Jericho, Muir, Magenta) bolt later than standard varieties under the same conditions. Jericho romaine, developed for hot Israeli summers, holds through temperatures that would cause standard butterhead to bolt in days. If you want lettuce in July in zone 6, you need heat-tolerant varieties and shade cloth. With both, it's possible. Without either, it isn't.
 
 ## What to Do With Bolted Spring Crops
 

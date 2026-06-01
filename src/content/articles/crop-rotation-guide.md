@@ -8,7 +8,7 @@ featured: false
 
 Crop rotation costs nothing. You're moving plants from one bed to another - no additional material, no new tools, no extra time at planting. The return is a reduction in soilborne disease pressure that otherwise compounds every year you plant the same crop family in the same soil. It's the closest thing to a free lunch in vegetable gardening.
 
-The principle is simple: most soilborne pathogens are host-specific. *Fusarium oxysporum* f. sp. *lycopersici* infects tomatoes and closely related species, not beans. *Clubroot* (*Plasmodiophora brassicae*) destroys brassicas but leaves nightshades unaffected. If you plant a different plant family in a given bed each year, the pathogen's host is absent and its population drops below the threshold for significant disease.
+The principle is simple: most soilborne pathogens are host-specific. *Fusarium oxysporum* f. sp. *lycopersici* infects tomatoes and closely related species, not beans. *Clubroot* (*Plasmodiophora brassicae*) destroys brassicas but leaves nightshades unaffected. If you plant a different plant family in a given bed each year, the pathogen's host is absent and its population drops below the damage threshold.
 
 A 3-year rotation reduces *Fusarium* wilt incidence 60-80% in susceptible crops compared to continuous cropping in the same soil (Cornell Plant Disease Diagnostic Clinic, *Managing Soilborne Diseases in Vegetable Gardens*, 2021). A 4-year rotation is the standard extension service recommendation for most vegetable crop families.
 
@@ -36,7 +36,7 @@ Four beds, four families, cycling one position forward each year.
 | Year 4 | Cucurbitaceae | Fabaceae | Brassicaceae | Solanaceae |
 | Year 5 | (Solanaceae - full 4-year cycle complete) | | | |
 
-After 4 years, each bed has hosted each family once and returns to the starting position. Each family is absent from each bed for 3 consecutive years - enough to significantly reduce the population of host-specific pathogens.
+After 4 years, each bed has hosted each family once and returns to the starting position. Each family is absent from each bed for 3 consecutive years - enough to reduce the population of host-specific pathogens.
 
 Source: Penn State Extension, *Vegetable Crop Rotation* (2019); Purdue Extension, *Rotating Vegetable Crops* (ID-56).
 
@@ -108,7 +108,7 @@ Most home gardeners don't have four dedicated beds of equal size. Rotation still
 
 **Perennial vegetables** (asparagus, rhubarb, [horseradish](/crops/horseradish/), [Jerusalem artichoke](/crops/jerusalem-artichoke/), [sorrel](/crops/sorrel/), and [lovage](/crops/lovage/)) don't rotate because they occupy a permanent bed. Siting these crops carefully at the outset - in a dedicated bed separate from annual vegetable rotation - is the management approach.
 
-**Annual herbs** (basil, dill, cilantro, parsley) are generally not in the major disease-susceptible families for most soilborne pathogens. They can be placed wherever is convenient in the rotation without significantly disrupting the four-family plan.
+**Annual herbs** (basil, dill, cilantro, parsley) are generally not in the major disease-susceptible families for most soilborne pathogens. They can be placed wherever is convenient in the rotation without disrupting the four-family plan.
 
 **Garlic and onions** are Alliaceae, often grouped with the brassica rotation or handled as a fifth family. In practice, garlic is most often grown in a dedicated bed due to its fall-plant/summer-harvest cycle that doesn't align cleanly with the spring-to-fall rotation of annual vegetables.
 

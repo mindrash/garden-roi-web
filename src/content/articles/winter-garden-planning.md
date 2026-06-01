@@ -68,7 +68,7 @@ A low tunnel or caterpillar tunnel - a hoop structure of bent electrical conduit
 
 What this enables: genuine four-season production in zones 5-6. Crops that are frozen and dead outdoors are actively growing inside. You're not extending the season - you're running a real winter growing operation. ATTRA's *Season Extension Techniques for Market Gardeners* covers this infrastructure in depth for commercial and intensive home production contexts.
 
-The unheated hoop house is the right choice if you're trying to produce significant volume through winter. For most home gardeners who want fresh salad greens and some spinach in March, the cold frame is the better investment.
+The unheated hoop house is the right choice if you're trying to produce real volume through winter. For most home gardeners who want fresh salad greens and some spinach in March, the cold frame is the better investment.
 
 ---
 
@@ -174,7 +174,7 @@ Kale's other winter advantage is that it's already in the ground. You planted it
 
 Cold tolerance to 22-25°F is good but not exceptional. Arugula that's been hardened through a gradual fall temperature drop handles brief dips below that, but a sudden hard freeze on tender, fast-grown fall arugula will set it back. Sow fall arugula in early September, not mid-September, so the plants have time to establish and harden before hard frost arrives.
 
-Under a cold frame, arugula produces well into November in zone 6 and resumes in March. The flavor gets more peppery as temperatures drop - which is either a feature or a drawback depending on your preference. Cold-weather arugula is significantly sharper than summer arugula.
+Under a cold frame, arugula produces well into November in zone 6 and resumes in March. The flavor gets more peppery as temperatures drop - which is either a feature or a drawback depending on your preference. Cold-weather arugula is sharper than summer arugula.
 
 For winter cold frame production, arugula is the quick-turnaround crop while mache and spinach are the slow, steady producers. Succession-sow arugula every 3 weeks from late August through the cold frame cutoff date to keep harvest coming.
 
@@ -184,7 +184,7 @@ For winter cold frame production, arugula is the quick-turnaround crop while mac
 
 Garlic (*Allium sativum*) is not a winter harvest crop - you won't dig it until June or July. But fall planting puts it squarely in the winter garden calendar, and it's worth planning for explicitly.
 
-Plant garlic 4-6 weeks before the ground freezes hard - in zone 5-6, that means October, typically the second or third week. The cloves need enough time to establish roots before winter but should not put up significant top growth before hard frost. An established garlic plant overwinters without any protection in zones 3-8.
+Plant garlic 4-6 weeks before the ground freezes hard - in zone 5-6, that means October, typically the second or third week. The cloves need enough time to establish roots before winter but should not put up much top growth before hard frost. An established garlic plant overwinters without any protection in zones 3-8.
 
 The calendar fit: summer crops come out of the beds in August and September. Those beds get turned over, amended with compost, and replanted with fall crops - spinach, mache, arugula, kale - and garlic for the following summer harvest. The same beds that produced tomatoes in August are producing spinach in November and garlic the following July.
 
