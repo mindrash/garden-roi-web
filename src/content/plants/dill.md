@@ -58,7 +58,7 @@ In year two and beyond, self-sown volunteers tend to germinate when conditions a
 
 ## Growing requirements
 
-Direct sow only. Dill has a taproot that establishes immediately after germination, and transplanting sets plants back significantly - they often bolt prematurely when root-disturbed. Sow 1/4 inch deep, directly into the garden, after the last frost. Thin to 8-12 inches apart; crowded dill is weak dill.
+Direct sow only. Dill has a taproot that establishes immediately after germination, and transplanting sets plants back - they often bolt prematurely when root-disturbed. Sow 1/4 inch deep, directly into the garden, after the last frost. Thin to 8-12 inches apart; crowded dill is weak dill.
 
 Dill needs full sun - 6 hours minimum, more is better. In partial shade, plants get leggy, fall over, and produce sparse fronds. Soil pH of 5.5-6.5 works well. The plant is not heavy-feeding; a moderately fertile soil is adequate. Rich, high-nitrogen soil drives lush foliage growth but can reduce the aromatic oil concentration.
 

@@ -16,7 +16,7 @@ description: "Currant (Ribes rubrum) - $6-10/lb, perennial shrub producing 20+ y
 hero_image: /images/crops/currant.webp
 ---
 
-Walk through any decent European grocery store and you'll find fresh black currants in the produce section alongside raspberries and strawberries. Walk through any American grocery store and you'll find nothing. That absence is not an accident. The United States spent the better part of a century making sure currants disappeared from American agriculture, and the consequences of that policy linger today even though the policy itself is mostly gone. The result is a market gap that home growers can exploit better than almost any other fruit crop: you can charge $8-15/lb for fresh currants at a farmers market, or keep them for yourself, and either way you're offering something people genuinely cannot find anywhere else.
+Walk through any decent European grocery store and you'll find fresh black currants in the produce section alongside raspberries and strawberries. Walk through any American grocery store and you'll find nothing. That absence is not an accident. The United States spent the better part of a century making sure currants disappeared from American agriculture, and the consequences of that policy linger today even though the policy itself is mostly gone. The result is a market gap that home growers can exploit better than almost any other fruit crop: you can charge $8-15/lb for fresh currants at a farmers market, or keep them for yourself, and either way you're offering something people cannot find anywhere else.
 
 ## Why Currants Disappeared From American Stores
 
@@ -28,7 +28,7 @@ The practical result of ninety-plus years of prohibition: no commercial growing 
 
 ## Black, Red, and White: What You're Actually Choosing
 
-These are three different growing experiences with meaningfully different outputs. Get clear on which one fits your goals before you order plants.
+These are three different growing experiences with different outputs. Get clear on which one fits your goals before you order plants.
 
 | Type | Species | Flavor | Primary Use | Zone | Yield (mature) | Key Varieties |
 |------|---------|--------|-------------|------|----------------|---------------|
@@ -50,7 +50,7 @@ Plants run $12-18 for bare-root stock at a decent nursery. That's your baseline 
 
 At $8-15/lb retail for fresh black currant, or $8-12/lb for red, a single mature shrub's annual harvest at the low end (5 lb at $8/lb) returns $40. A row of five shrubs returns $200. The plant cost is recouped by mid-year-three at typical yields, and after that every season is profit on a plant that asks for almost nothing.
 
-The jam math is where the numbers get genuinely compelling. Take a 5 lb harvest of black or red currant. Add 4 lb of sugar. That's a standard currant jam ratio, and it produces 8-10 half-pint jars. Currant jam at specialty markets, farm stands, or online retail runs $10-14/jar. Call it $10 to be conservative: 8 jars at $10 each is $80. At $14/jar, you're at $140. The sugar costs $3-4. Your initial plant cost was $15. By year three, a single productive shrub's annual jam output exceeds its purchase price in retail value every year, indefinitely.
+The jam math is where the numbers get compelling. Take a 5 lb harvest of black or red currant. Add 4 lb of sugar. That's a standard currant jam ratio, and it produces 8-10 half-pint jars. Currant jam at specialty markets, farm stands, or online retail runs $10-14/jar. Call it $10 to be conservative: 8 jars at $10 each is $80. At $14/jar, you're at $140. The sugar costs $3-4. Your initial plant cost was $15. By year three, a single productive shrub's annual jam output exceeds its purchase price in retail value every year, indefinitely.
 
 That's not a projection. That's fifth-grade arithmetic applied to a plant that's already established in your yard.
 
@@ -60,7 +60,7 @@ Black and red currants are among the most cold-hardy fruiting plants available f
 
 This is not a minor advantage. A peach tree in Zone 5 is a gamble. You'll get a full crop maybe four years out of seven, and in the bad years you get nothing at all. A red currant in Zone 5 is a sure thing. Year after year, the strigs ripen whether or not the spring cooperated. For home growers who want predictable returns from a fruit planting, that consistency has real value that's hard to quantify in a price-per-pound calculation.
 
-They also require meaningful winter chill to perform well - 400 to 700 hours below 45°F - which limits them in Zone 8 and warmer. If you're in a mild-winter climate, these are not your fruit. If you're in the upper Midwest, New England, the mountain West, or the northern Plains, they are almost certainly the most reliable fruiting shrub you can plant.
+They also require winter chill to perform well - 400 to 700 hours below 45°F - which limits them in Zone 8 and warmer. If you're in a mild-winter climate, these are not your fruit. If you're in the upper Midwest, New England, the mountain West, or the northern Plains, they are almost certainly the most reliable fruiting shrub you can plant.
 
 ## Growing Requirements
 
@@ -86,7 +86,7 @@ Pruning is the most important maintenance task, and skipping it is the most comm
 
 Harvest when strigs are uniformly colored and the berries have a slight give when squeezed. Red currants at peak have a glossy, translucent skin. White currants turn a pale gold. Black currants go from bright green to deep, matte black-purple. Taste is the best test: tart enough to make you pucker slightly, with the full berry flavor behind it. Overripe berries are softer and sweeter but lose the sharp brightness that makes currant flavor distinctive.
 
-Pick entire strigs rather than individual berries. It's dramatically faster and the berries hold better on the strig than stripped. A harvest of 5-10 lb from a mature plant takes about an hour at a comfortable pace.
+Pick entire strigs rather than individual berries. It's much faster and the berries hold better on the strig than stripped. A harvest of 5-10 lb from a mature plant takes about an hour at a comfortable pace.
 
 Fresh currants keep 3-5 days refrigerated on the strig. Strip the berries using a fork to pull strigs through the tines, then freeze on a single layer on a sheet pan before bagging. Frozen currants hold full quality for 12 months and retain their shape for baked goods and sauce.
 

@@ -36,7 +36,7 @@ A $2.99 packet of sweet corn contains roughly 50–200 seeds depending on variet
 
 The math looks reasonable until you compare it against crops that yield multiple pounds per square foot per season. Lettuce, kale, or green beans return 2–4 times the dollar value per square foot in the same timeframe. Corn's value is in the experience of eating it fresh off the stalk and in the Three Sisters companion system. As a pure ROI crop, it's mediocre.
 
-Where corn improves its case: if you're selling at market. Retail ears at $1.00 each in a high-demand urban market change the calculation significantly. And if you grow popcorn or specialty flour corn, you're looking at a product with 6–12 month shelf life that you can process and sell at $4–8/lb dried.
+Where corn improves its case: if you're selling at market. Retail ears at $1.00 each in a high-demand urban market change the calculation. And if you grow popcorn or specialty flour corn, you're looking at a product with 6–12 month shelf life that you can process and sell at $4–8/lb dried.
 
 **Per-square-foot ROI comparison - 100 sq ft, same season:**
 
@@ -66,7 +66,7 @@ The traditional Haudenosaunee (Iroquois) planting system pairs corn with pole be
 
 For the home garden, the Three Sisters works as follows: plant your 4x4 minimum corn block first. When corn is 6-8 inches tall, plant 2-3 pole bean seeds 3-4 inches from each stalk. When beans are established and beginning to climb, plant squash in the gaps between corn hills. Zucchini or summer squash is more practical in a small plot than winter squash, which sprawls aggressively.
 
-The Three Sisters doesn't significantly increase corn yield in a single season, but it adds pole bean and squash yield to the same footprint - effectively turning one crop's space into three. Approximate added value in a 100 sq ft Three Sisters planting: 25 lb of pole beans × $2.50/lb = $62 + 8-10 zucchini × $0.50 each = $4-5. Total additional value: approximately $65 over corn alone. This is the strongest ROI argument for growing corn in a small garden - not the corn yield itself, but the companion yield from the same space.
+The Three Sisters doesn't increase corn yield in a single season, but it adds pole bean and squash yield to the same footprint - effectively turning one crop's space into three. Approximate added value in a 100 sq ft Three Sisters planting: 25 lb of pole beans × $2.50/lb = $62 + 8-10 zucchini × $0.50 each = $4-5. Total additional value: approximately $65 over corn alone. This is the strongest ROI argument for growing corn in a small garden - not the corn yield itself, but the companion yield from the same space.
 
 ## Growing requirements
 

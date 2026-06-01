@@ -43,7 +43,7 @@ Chives (*Allium schoenoprasum*) are the lowest-maintenance perennial herb most g
 
 Both species are perennial, both produce edible flowers, and both divide for free propagation. Regular chives are the right choice for Western culinary use (garnish, compound butter, dairy applications). Garlic chives are specifically what you want for East Asian cooking where the flat garlic-chive is an ingredient, not a garnish.
 
-The purple globe-shaped flowers of regular chives that bloom in late spring are edible and mild-flavored - useful as a garnish and genuinely attractive. Deadhead spent flowers if you don't want the plant to self-sow aggressively, or let a few go and get volunteers.
+The purple globe-shaped flowers of regular chives that bloom in late spring are edible and mild-flavored - useful as a garnish and attractive. Deadhead spent flowers if you don't want the plant to self-sow aggressively, or let a few go and get volunteers.
 
 ## The ROI case
 

@@ -24,7 +24,7 @@ The frontmatter ROI number - 5 lbs, $12.50 gross on a $2.49 seed packet - tells 
 
 *Brassica oleracea* var. *viridis* is a non-heading form of the same species that includes cabbage (*B. oleracea* var. *capitata*), kale (*B. oleracea* var. *sabellica*), and broccoli (*B. oleracea* var. *italica*). Collards occupy a distinct niche: large, smooth, dark green leaves that are thicker and tougher than kale, require longer cooking, and hold up to braising conditions that would reduce spinach to mush.
 
-They're the foundational green in Southern American cooking for a reason that has nothing to do with tradition and everything to do with practicality. Collards grow when other things won't. They tolerate heat significantly better than kale, which researchers at the University of Georgia attribute partly to their upright growth habit (better air circulation) and partly to their thicker, waxy leaf cuticle that reduces moisture stress (UGA Cooperative Extension Bulletin 1245, *Collards*, 2015). They'll bolt in sustained heat, but later and more reluctantly.
+They're the foundational green in Southern American cooking for a reason that has nothing to do with tradition and everything to do with practicality. Collards grow when other things won't. They tolerate heat better than kale, which researchers at the University of Georgia attribute partly to their upright growth habit (better air circulation) and partly to their thicker, waxy leaf cuticle that reduces moisture stress (UGA Cooperative Extension Bulletin 1245, *Collards*, 2015). They'll bolt in sustained heat, but later and more reluctantly.
 
 They also survive cold that would kill everything else in the garden.
 
@@ -53,7 +53,7 @@ Seed cost in all scenarios: $2.49.
 
 Established collard plants handle -10°F with light protection. That's not a typo. Collards are the most cold-hardy of all the brassicas - hardier than kale, hardier than Brussels sprouts, hardier than cabbage. Penn State Extension reports established collard plants surviving temperatures as low as 5-10°F without any protection, and lower with floating row cover or a cold frame (*Cool Season Vegetables*, Penn State Extension, 2020).
 
-The mechanism behind cold tolerance in brassicas involves the accumulation of cryoprotective compounds - soluble sugars, proline, and compatible solutes that lower the freezing point of cell contents and protect membranes during freeze-thaw cycles (Kacperska, A., *Physiologia Plantarum*, 2004). In collards this process is more pronounced than in most brassicas. A plant that has been through several frosts has substantially different cell chemistry than a plant that hasn't.
+The mechanism behind cold tolerance in brassicas involves the accumulation of cryoprotective compounds - soluble sugars, proline, and compatible solutes that lower the freezing point of cell contents and protect membranes during freeze-thaw cycles (Kacperska, A., *Physiologia Plantarum*, 2004). In collards this process is more pronounced than in most brassicas. A plant that has been through several frosts has different cell chemistry than a plant that hasn't.
 
 This is why Southern growers say collards "need kissing by frost." It's not sentiment. The first frost of the season triggers a starch-to-sugar conversion in leaf tissue that measurably improves flavor - leaves become sweeter, more complex, less sulfurous. December and January collards, harvested after multiple hard frosts, are the best collards of the year. They taste nothing like the leaves you pulled in July.
 

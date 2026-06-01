@@ -16,7 +16,7 @@ description: "Chamomile (Matricaria chamomilla) - dried flowers $10-16/lb. Self-
 hero_image: /images/crops/chamomile.webp
 ---
 
-Dried chamomile flowers sell for $10-16 per pound at natural food stores and herb markets (USDA AMS Specialty Crop Market News, 2023). Plant it once, let a few flowers go to seed at the end of the season, and you'll have chamomile coming up in that spot every spring without replanting. German chamomile is genuinely one of the lowest-effort herb crops you can grow - it thrives in poor soil, tolerates drought, requires no fertilization, and the flowers dry easily at room temperature. The only real work is harvesting, which has to happen promptly when the flowers are fully open.
+Dried chamomile flowers sell for $10-16 per pound at natural food stores and herb markets (USDA AMS Specialty Crop Market News, 2023). Plant it once, let a few flowers go to seed at the end of the season, and you'll have chamomile coming up in that spot every spring without replanting. German chamomile is one of the lowest-effort herb crops you can grow - it thrives in poor soil, tolerates drought, requires no fertilization, and the flowers dry easily at room temperature. The only real work is harvesting, which has to happen promptly when the flowers are fully open.
 
 ## What it actually is
 
@@ -112,7 +112,7 @@ The "chamomile makes neighbors grow better" claim appears in folk gardening lite
 
 Flowers are at peak quality when the white petals are fully reflexed (bent backward away from the yellow center) and the center dome is fully formed and bright yellow. Harvest before the center starts to turn brown or the petals begin to fall. This timing window is short - a matter of days per flower. Check plants every 2-3 days during peak bloom.
 
-Harvest by rolling flowers between your fingers and pulling them cleanly off the stem, or use a chamomile comb - a hand-held rake-like tool designed for this purpose that speeds picking considerably. Without a comb, harvesting a full 4 x 4 bed by hand takes 20-30 minutes per pass. A comb cuts that roughly in half and matters when you're picking every other day at peak season.
+Harvest by rolling flowers between your fingers and pulling them cleanly off the stem, or use a chamomile comb - a hand-held rake-like tool designed for this purpose that speeds picking. Without a comb, harvesting a full 4 x 4 bed by hand takes 20-30 minutes per pass. A comb cuts that roughly in half and matters when you're picking every other day at peak season.
 
 Spread flowers in a single layer on a drying screen or paper and dry at room temperature in a warm, ventilated space for 5-7 days, or in a dehydrator at 95°F for 1-2 hours. Dried flowers are ready when they feel papery and the centers crumble slightly. Store in glass jars away from light and heat. Properly dried chamomile retains potency for 12-18 months.
 

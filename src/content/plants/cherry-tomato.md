@@ -27,7 +27,7 @@ faq:
 
 Cherry tomatoes (*Solanum lycopersicum* var. *cerasiforme*) are the most reliable producers in the tomato category and, pound for pound, the most profitable crop most home gardeners can grow. USDA ERS retail price data puts cherry and grape-type tomatoes at $3.00 to $4.50 per pound at grocery stores - roughly double what slicing types fetch. At farmers markets, pints run $4 to $8 depending on variety and region, and an attractive mix of colors and shapes will hit the top of that range consistently. A healthy indeterminate plant running a full season can produce 5 to 10 lb. Do the math before you plant slicers in a small bed.
 
-The catch is that cherry tomatoes are still tomatoes. They need the same soil prep, staking infrastructure, and disease management as their larger relatives. What they offer in return is faster maturity - most varieties clock in 10 to 15 days earlier than standard slicers - more forgiving growing conditions, and a harvest window that starts earlier and runs significantly longer. That longer season is where the ROI story lives.
+The catch is that cherry tomatoes are still tomatoes. They need the same soil prep, staking infrastructure, and disease management as their larger relatives. What they offer in return is faster maturity - most varieties clock in 10 to 15 days earlier than standard slicers - more forgiving growing conditions, and a harvest window that starts earlier and runs longer. That longer season is where the ROI story lives.
 
 ## Indeterminate vs. Determinate: The Distinction That Determines Everything
 
@@ -71,7 +71,7 @@ These are the varieties worth knowing, organized by type:
 
 Sun Gold is the variety most extension horticulturists reach for when flavor is the priority. It consistently tests at 9 to 10 Brix - that's dissolved sugar content, which correlates directly with perceived sweetness. The flavor is legitimately different from anything you'll buy at a grocery store. The splitting problem is real and discussed below.
 
-Juliet earns its place not on flavor but on practicality. It holds on the vine longer without deteriorating, it handles inconsistent watering better than thin-skinned types, and the shelf life off the vine is significantly better. If you can't check your plants every day, Juliet forgives neglect better than Sun Gold does.
+Juliet earns its place not on flavor but on practicality. It holds on the vine longer without deteriorating, it handles inconsistent watering better than thin-skinned types, and the shelf life off the vine is better. If you can't check your plants every day, Juliet forgives neglect better than Sun Gold does.
 
 ## Why Your Cherry Tomatoes Split - and What to Do About It
 
@@ -85,13 +85,13 @@ Mulch 2 to 3 inches deep around the base of the plant. This buffers soil moistur
 
 Harvest at the first sign of ripeness rather than waiting for peak color. A cherry tomato that's 90% ripe and pulled from the vine will finish ripening on the counter. One that's left on the plant through a rain event may not survive intact. Sun Gold in particular - the best-flavored variety most people grow - is notoriously prone to splitting precisely because the skin is thin. The answer is not to stop growing it. The answer is to harvest it slightly early and check the plants after any significant rainfall.
 
-Crack-resistant varieties reduce the problem. Sun Sugar is an orange F1 similar to Sun Gold with meaningfully better crack resistance. Juliet's thicker, more elongated flesh resists splitting better than round cherry types. If splitting has been a recurring problem regardless of your watering practices, switching varieties is a legitimate fix.
+Crack-resistant varieties reduce the problem. Sun Sugar is an orange F1 similar to Sun Gold with better crack resistance. Juliet's thicker, more elongated flesh resists splitting better than round cherry types. If splitting has been a recurring problem regardless of your watering practices, switching varieties is a legitimate fix.
 
 ## The Flavor Difference You're Actually Growing For
 
 Grocery store cherry tomatoes are picked before they're ripe, because they need to survive distribution. Vine-ripened cherry tomatoes at peak sugar content have a Brix reading of 8 to 12 - this is the dissolved solids measurement that captures sugars, acids, and flavor precursors. Grocery cherry tomatoes picked early for shipping average 4 to 6 Brix (Kader, *Postharvest Technology of Horticultural Crops*, UC Davis ANR, 2002).
 
-That gap is not subtle. A ripe Sun Gold at 10 Brix tastes like a different food than a grocery cherry tomato at 4 Brix. It's genuinely sweet in a way that reads as fruit rather than vegetable. The complexity in Black Cherry and similar dark varieties comes from a different profile - less sugar-sweet, more umami and earth - but it's equally unavailable in a produce department.
+That gap is not subtle. A ripe Sun Gold at 10 Brix tastes like a different food than a grocery cherry tomato at 4 Brix. It's sweet in a way that reads as fruit rather than vegetable. The complexity in Black Cherry and similar dark varieties comes from a different profile - less sugar-sweet, more umami and earth - but it's equally unavailable in a produce department.
 
 This is the actual reason to grow cherry tomatoes at home. The ROI calculation matters, but the flavor differential is why people who grow them keep growing them year after year.
 

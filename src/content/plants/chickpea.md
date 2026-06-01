@@ -53,7 +53,7 @@ The gross return on dried chickpeas from one packet:
 
 The conservative case is essentially break-even. The mid case returns about $3 over seed cost. That's not an argument for growing chickpeas if dried beans are your only goal.
 
-**Where the math changes: fresh green harvest.** At 60-70 days, before pods dry down, chickpeas harvested green sell at $4-8/lb at specialty markets and Indian grocers where they appear at all - which is not often. In most US cities they're genuinely hard to find. A 10-foot row harvested green at peak yields 1.5-2.5 lb of fresh pods, valued at $4-8/lb retail.
+**Where the math changes: fresh green harvest.** At 60-70 days, before pods dry down, chickpeas harvested green sell at $4-8/lb at specialty markets and Indian grocers where they appear at all - which is not often. In most US cities they're hard to find. A 10-foot row harvested green at peak yields 1.5-2.5 lb of fresh pods, valued at $4-8/lb retail.
 
 | Harvest mode | 10-ft row yield | Retail value/lb | Gross value | Seed cost | Net |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@ One pound of dried chickpeas yields roughly 2.5 lb of cooked chickpeas after soa
 
 The $0.90 in seed cost attributable to 1 lb of home-grown dried chickpeas (from a $2.99 packet yielding 3 lb) converts to $10-16 in hummus value. That's the calculation worth making. The raw dried-bean comparison undersells the crop.
 
-Homegrown dried chickpeas also have a practical advantage over store-bought: they're fresh. Dried chickpeas that have been sitting in warehouse and grocery store storage for 6-18 months cook unevenly and take significantly longer. Freshly dried homegrown chickpeas cook in 45-60 minutes after an overnight soak. The hummus texture is noticeably better - softer, creamier, without the chalky centers you sometimes get from old commercial dried beans.
+Homegrown dried chickpeas also have a practical advantage over store-bought: they're fresh. Dried chickpeas that have been sitting in warehouse and grocery store storage for 6-18 months cook unevenly and take longer. Freshly dried homegrown chickpeas cook in 45-60 minutes after an overnight soak. The hummus texture is noticeably better - softer, creamier, without the chalky centers you sometimes get from old commercial dried beans.
 
 ## Nitrogen Fixation and Bed Planning
 
@@ -120,7 +120,7 @@ For gardeners in the humid East and Midwest: consider harvesting green at 60-70 
 
 **Aphids:** *Acyrthosiphon pisum* (pea aphid) and related species cluster on growing tips. The leaf acid secretions deter many pests, so aphid pressure on chickpeas tends to be lighter than on beans or peas. A strong water spray handles most infestations without intervention. Check under leaves on new growth.
 
-**Poor germination:** almost always cold soil or old seed. Pre-soak seed 8 hours before sowing to speed germination in marginal conditions. Chickpea seed viability drops significantly after 2-3 years in storage; buy fresh seed each season if germination was poor.
+**Poor germination:** almost always cold soil or old seed. Pre-soak seed 8 hours before sowing to speed germination in marginal conditions. Chickpea seed viability drops after 2-3 years in storage; buy fresh seed each season if germination was poor.
 
 ## Harvest and Use
 
